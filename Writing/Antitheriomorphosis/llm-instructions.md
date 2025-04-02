@@ -43,7 +43,7 @@ When creating content for Godzilla's character profile, use a richly descriptive
 ### Example Passages
 
 **Power Description (Preferred Style):**
-> The Atomic Railgun manifests as a concentrated point of cerulean light at Godzilla's fingertip, a star in miniature that pulses with barely contained energy. The air around his hand warps with heat distortion as he channels power through pathways forged during the Battra confrontation. When released, the beam doesn't burst forth—it simply exists, instantly bridging the space between Godzilla and his target with a pencil-thin line of devastation. The surrounding air crackles and ionizes, carrying the scent of ozone, while the beam itself makes no sound until it strikes—only then does the delayed thunder of impact follow, often after the target has already been pierced through.
+> The Atomic Railgun manifests as a concentrated point of cerulean light at Godzilla's fingertip, a star in miniature that pulses with barely contained energy. The air around his hand warps with heat distortion as he channels power through pathways forged during the Battra confrontation. When released, the beam doesn't simply burst forth—it exists, instantly bridging the space between Godzilla and his target with a pencil-thin line of devastation. The surrounding air crackles and ionizes, carrying the scent of ozone, while the beam itself makes no sound until it strikes—only then does the delayed thunder of impact follow, often after the target has already been pierced through.
 
 **Relationship Description (Preferred Style):**
 > Anguirus's presence softens the rigid set of Godzilla's shoulders in a way few others witness. Their interactions carry the unspoken certainty of millions of years—a glance that communicates volumes, a slight nod that grants permission, a positioning that places Anguirus at Godzilla's right without conscious thought. They move in unconscious tandem, their fighting styles complementary pieces of a deadly puzzle. When Godzilla speaks to Anguirus, his typically measured words flow with greater ease, and the rare moments when his guard drops completely only occur in Anguirus's presence. The stalwart vanguard earned his place not through submission but through persistence, standing back up after each defeat until standing beside the Alpha became his natural position.
@@ -133,9 +133,10 @@ The hub document should contain:
 title: "Godzilla"
 aliases: ["Godric Nordson", "Alpha Paramount", "King of the Monsters"]
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/concepts/the-null"
-  - "#atm/hierarchical/alpha"
+  - atm
+  - atm/titans/godzilla
+  - atm/concepts/the-null
+  - atm/hierarchical/alpha
 related:
   - "[[Mothra]]"
   - "[[Kong]]"
@@ -258,9 +259,10 @@ efficiency_rating: 9.5
 power_level: 8.7
 control_precision: 9.8
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/powers/energy"
-  - "#atm/techniques/precision"
+  - atm
+  - atm/titans/godzilla
+  - atm/powers/energy
+  - atm/techniques/precision
 created: 2025-03-24
 last_modified: 2025-03-24
 ---
@@ -319,9 +321,10 @@ evolution_points:
   - "Adapted Human Form": "Refined appearance after adjustment period"
   - "Current Appearance": "Present physical characteristics"
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/identity/physical"
-  - "#atm/appearance"
+  - atm
+  - atm/titans/godzilla
+  - atm/identity/physical
+  - atm/appearance
 created: {{date}}
 last_modified: {{date}}
 ---
@@ -447,9 +450,10 @@ efficiency_rating: {{efficiency}}
 power_level: {{power}}
 control_precision: {{precision}}
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/powers/{{tag_1}}"
-  - "#atm/techniques/{{tag_2}}"
+  - atm
+  - atm/titans/godzilla
+  - atm/powers/{{tag_1}}
+  - atm/techniques/{{tag_2}}
 created: {{date}}
 last_modified: {{date}}
 ---
@@ -520,9 +524,10 @@ evolution_points:
   - "{{stage_3_name}}": "{{stage_3_description}}"
   - "{{stage_4_name}}": "{{stage_4_description}}"
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/relationships/{{tag_1}}"
-  - "#atm/titans/{{character_tag}}"
+  - atm
+  - atm/titans/godzilla
+  - atm/relationships/{{tag_1}}
+  - atm/titans/{{character_tag}}
 created: {{date}}
 last_modified: {{date}}
 ---
@@ -679,7 +684,7 @@ Every document must include these metadata elements:
 * `title`: Full title of the document
 * `parent`: Link to the parent document
 * `component_type`: Document category (power, relationship, etc.)
-* `tags`: Hierarchical tags using the #atm/... format as a list
+* `tags`: Hierarchical tags with atm as the main tag, followed by specific categories
 * `created`: Creation date
 * `last_modified`: Last update date
 
