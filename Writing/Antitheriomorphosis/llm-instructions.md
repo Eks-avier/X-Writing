@@ -12,6 +12,41 @@ This guide provides comprehensive instructions for creating an “atomic model�
 4. **Rich Interlinking**: Documents link to and reference each other
 5. **Dataview Integration**: Queries gather and display information from across the system
 
+## Writing Style and Tone Guidelines
+
+When creating content for Godzilla's character profile, maintain a consistent tone and style across all documents:
+
+### Tone Characteristics
+
+1. **Academic Authority**: Write with the precision and depth of an authoritative scholarly work. The content should feel like a comprehensive analysis by an expert who has closely studied the character.
+2. **Objective Formality**: Maintain a formal, objective perspective that presents information as established facts within the universe. Avoid casual language or excessive commentary.
+3. **Clinical Precision**: When describing abilities, use precise terminology that conveys technical understanding, similar to scientific documentation.
+4. **Underlying Reverence**: Subtly convey respect for Godzilla's power and position without directly stating it. The tone should implicitly acknowledge his status as Alpha Paramount.
+5. **Historical Perspective**: Present information with a sense of historical significance, acknowledging the vast timescale of Godzilla's existence.
+
+### Stylistic Elements
+
+1. **Measured Pacing**: Use varied sentence structure but favor deliberate, measured phrasing that mirrors Godzilla's own careful approach to power.
+2. **Terminology Consistency**: Maintain consistent terminology for technical concepts across all documents (e.g., always refer to “Atomic Amplification” rather than switching between “amplification” and “enhancement”).
+3. **Controlled Imagery**: Use precise, vivid imagery when describing powers or physical attributes, but maintain restraint—avoid flowery or excessive description.
+4. **Contextual Integration**: Always connect individual aspects to their broader significance in Godzilla's development or the universe's structure.
+5. **Limited First-Person Elements**: Generally maintain third-person perspective, but occasionally include direct quotes from Godzilla (set apart in blockquotes) for additional depth.
+
+### Linguistic Approach
+
+1. **Complex Sentence Structure**: Construct sentences that convey complex information while remaining clear and comprehensible.
+2. **Technical Vocabulary**: Employ specialized terminology where appropriate, especially when discussing energy manipulation and Titan physiology.
+3. **Minimal Colloquialisms**: Avoid casual expressions or modern slang that would undermine the timeless quality of the documentation.
+4. **Balanced Exposition**: Mix conceptual explanation with concrete examples to ensure abstract concepts remain grounded and understandable.
+
+### Example Passages
+
+**Power Description (Preferred Style):**
+> The Atomic Railgun represents the culmination of Godzilla's precision energy manipulation. By concentrating atomic energy to a focal point at his fingertip, he creates a pencil-thin beam of unprecedented density—approximately 1000:1 compared to his traditional Atomic Breath. This concentration results in extraordinary penetrative capability with minimal energy expenditure, reflecting his evolution toward efficiency over raw destructive output.
+
+**Relationship Description (Preferred Style):**
+> Godzilla's bond with Anguirus transcends conventional alliance, representing one of the longest-standing relationships in Titan history. Forged initially through repeated conflict, their connection evolved from adversarial testing to unshakable brotherhood. Following the pivotal Mother Prime incident, Anguirus's unexpected intervention established a pattern of mutual protection that would define their relationship for millions of years to come.
+
 ## File Structure Creation
 
 ### Central Hub (Nucleus)
@@ -98,10 +133,9 @@ The hub document should contain:
 title: "Godzilla"
 aliases: ["Godric Nordson", "Alpha Paramount", "King of the Monsters"]
 tags:
-  - atm
-  - atm/titans/godzilla
-  - atm/concepts/the-null
-  - atm/hierarchical/alpha
+  - "#atm/titans/godzilla"
+  - "#atm/concepts/the-null"
+  - "#atm/hierarchical/alpha"
 related:
   - "[[Mothra]]"
   - "[[Kong]]"
@@ -230,9 +264,9 @@ efficiency_rating: 9.5
 power_level: 8.7
 control_precision: 9.8
 tags:
-  - atm/titans/godzilla
-  - atm/powers/energy
-  - atm/techniques/precision
+  - "#atm/titans/godzilla"
+  - "#atm/powers/energy"
+  - "#atm/techniques/precision"
 created: 2025-03-24
 last_modified: 2025-03-24
 ---
@@ -273,7 +307,9 @@ The Atomic Railgun represents Godzilla's evolution toward precision energy proje
 > The Railgun represents the evolution of Godzilla's energy projection from raw power ([[Atomic Breath]]) to precision ([[Atomic Railgun]]). This mirrors his overall character development from force of nature to strategic combatant.
 ```
 
-### Physical Appearance Document Template
+## Document Template Examples
+
+### Physical Appearance Template
 
 ```markdown
 ---
@@ -398,8 +434,6 @@ last_modified: {{date}}
 > "{{Quote from human character about Godzilla's appearance and presence}}"
 ```
 
-## Document Template Examples
-
 ### Power Document Template
 
 ```markdown
@@ -408,7 +442,9 @@ title: "Godzilla: {{Technique Name}}"
 parent: "[[Godzilla]]"
 component_type: "power"
 component_category: "{{power_category}}"
-related_powers: ["{{related_power_1}}", "{{related_power_2}}"]
+related_powers:
+  - "{{related_power_1}}"
+  - "{{related_power_2}}"
 evolution_points:
   - "{{stage_1_name}}": "{{stage_1_description}}"
   - "{{stage_2_name}}": "{{stage_2_description}}"
@@ -418,7 +454,10 @@ current_status: "{{current_status}}"
 efficiency_rating: {{efficiency}}
 power_level: {{power}}
 control_precision: {{precision}}
-tags: ["#atm/titans/godzilla", "#atm/powers/{{tag_1}}", "#atm/techniques/{{tag_2}}"]
+tags:
+  - "#atm/titans/godzilla"
+  - "#atm/powers/{{tag_1}}"
+  - "#atm/techniques/{{tag_2}}"
 created: {{date}}
 last_modified: {{date}}
 ---
@@ -590,41 +629,6 @@ When creating content for each document:
 - Break down complex topics into digestible components
 - Use formatting to highlight key information
 
-## Writing Style and Tone Guidelines
-
-When creating content for Godzilla's character profile, maintain a consistent tone and style across all documents:
-
-### Tone Characteristics
-
-1. **Academic Authority**: Write with the precision and depth of an authoritative scholarly work. The content should feel like a comprehensive analysis by an expert who has closely studied the character.
-2. **Objective Formality**: Maintain a formal, objective perspective that presents information as established facts within the universe. Avoid casual language or excessive commentary.
-3. **Clinical Precision**: When describing abilities, use precise terminology that conveys technical understanding, similar to scientific documentation.
-4. **Underlying Reverence**: Subtly convey respect for Godzilla's power and position without directly stating it. The tone should implicitly acknowledge his status as Alpha Paramount.
-5. **Historical Perspective**: Present information with a sense of historical significance, acknowledging the vast timescale of Godzilla's existence.
-
-### Stylistic Elements
-
-1. **Measured Pacing**: Use varied sentence structure but favor deliberate, measured phrasing that mirrors Godzilla's own careful approach to power.
-2. **Terminology Consistency**: Maintain consistent terminology for technical concepts across all documents (e.g., always refer to “Atomic Amplification” rather than switching between “amplification” and “enhancement”).
-3. **Controlled Imagery**: Use precise, vivid imagery when describing powers or physical attributes, but maintain restraint—avoid flowery or excessive description.
-4. **Contextual Integration**: Always connect individual aspects to their broader significance in Godzilla's development or the universe's structure.
-5. **Limited First-Person Elements**: Generally maintain third-person perspective, but occasionally include direct quotes from Godzilla (set apart in blockquotes) for additional depth.
-
-### Linguistic Approach
-
-1. **Complex Sentence Structure**: Construct sentences that convey complex information while remaining clear and comprehensible.
-2. **Technical Vocabulary**: Employ specialized terminology where appropriate, especially when discussing energy manipulation and Titan physiology.
-3. **Minimal Colloquialisms**: Avoid casual expressions or modern slang that would undermine the timeless quality of the documentation.
-4. **Balanced Exposition**: Mix conceptual explanation with concrete examples to ensure abstract concepts remain grounded and understandable.
-
-### Example Passages
-
-**Power Description (Preferred Style):**
-> The Atomic Railgun represents the culmination of Godzilla's precision energy manipulation. By concentrating atomic energy to a focal point at his fingertip, he creates a pencil-thin beam of unprecedented density—approximately 1000:1 compared to his traditional Atomic Breath. This concentration results in extraordinary penetrative capability with minimal energy expenditure, reflecting his evolution toward efficiency over raw destructive output.
-
-**Relationship Description (Preferred Style):**
-> Godzilla's bond with Anguirus transcends conventional alliance, representing one of the longest-standing relationships in Titan history. Forged initially through repeated conflict, their connection evolved from adversarial testing to unshakable brotherhood. Following the pivotal Mother Prime incident, Anguirus's unexpected intervention established a pattern of mutual protection that would define their relationship for millions of years to come.
-
 ## Implementation Process
 
 Follow this process when creating the atomic model:
@@ -683,7 +687,7 @@ Every document must include these metadata elements:
 - `title`: Full title of the document
 - `parent`: Link to the parent document
 - `component_type`: Document category (power, relationship, etc.)
-- `tags`: Hierarchical tags using the #atm/… format
+- `tags`: Hierarchical tags using the #atm/… format as a list
 - `created`: Creation date
 - `last_modified`: Last update date
 
