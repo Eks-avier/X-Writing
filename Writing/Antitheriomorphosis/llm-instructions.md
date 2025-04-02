@@ -151,7 +151,12 @@ relationships:
   - "[[Anguirus]]: Beta Tier, closest friend"
   - "[[Rodan]]: Beta Tier, loyal lieutenant"
   - "[[Battra]]: Lord of Mystic Arts, complicated history"
-traits: ["disciplined", "adaptable", "reserved", "protective", "relentless"]
+traits: 
+- "disciplined" 
+- "adaptable"
+- "reserved"
+- "protective" 
+- "relentless"
 created: 2025-03-24
 last_modified: 2025-03-24
 ---
@@ -327,9 +332,10 @@ evolution_points:
   - "Adapted Human Form": "Refined appearance after adjustment period"
   - "Current Appearance": "Present physical characteristics"
 tags:
-  - "#atm/titans/godzilla"
-  - "#atm/identity/physical"
-  - "#atm/appearance"
+  - atm
+  - atm/titans/godzilla
+  - atm/identity/physical
+  - atm/appearance
 created: {{date}}
 last_modified: {{date}}
 ---
