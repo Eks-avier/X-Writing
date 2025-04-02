@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Writing/Link Disconnected/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-02-14T16:57:00.764Z",
+      "total": 0,
+      "drafts": {
+        "Writing/Link Disconnected/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Consolation": 0
+          }
+        },
+        "Main Alternate Universe/Link Disconnected/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Consolation": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-02-13T05:23:56.628Z",
+      "total": 2,
+      "drafts": {
+        "Writing/Link Disconnected/Index.md": {
+          "total": 2,
+          "scenes": {
+            "Announcement": 1,
+            "Consolation": 0,
+            "Midnight Stroll": 1
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        }
+      ]
+    }
+  }
+}

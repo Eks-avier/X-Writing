@@ -1,0 +1,19 @@
+{
+  "ITS@@heading-indicator": false,
+  "ITS@@h1-text-align": "center",
+  "ITS@@callout-style": "callout-bordered",
+  "encore-settings@@theme-dark": "encore-theme-dark-iron",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": true,
+  "encore-settings@@encore-coloured-tooltip": true,
+  "encore-settings@@encore-highlight-border": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-plus",
+  "primary-theme@@interface_editor-bg": "editor-bg-default",
+  "primary-theme@@ribbon_styles": "ribbon-default",
+  "primary-theme@@ribbon-icon": 20
+}

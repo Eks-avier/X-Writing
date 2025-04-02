@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "a82475c8fdc3045f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d92ec10656dd9d7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9d7c27ff5418133",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "32a1d1014d94011e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Identity & Appearance"
+            }
+          },
+          {
+            "id": "c121e6ffca0f76c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/llm-instructions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "llm-instructions"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef067ebf9564dbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7dee02be712c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6c383c6b9c0453",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb74688af16976a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d539be1372963c88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "emergent",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d77f8577a1998e57",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "d44f14a6b7943a78",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "2401ee2908a0e8d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328
+  },
+  "right": {
+    "id": "6a15c4605dc188ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d86b67ca7051bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7f9c012399c63dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Art of Commitments"
+            }
+          },
+          {
+            "id": "eeb0c3928b932311",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/llm-instructions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from llm-instructions"
+            }
+          },
+          {
+            "id": "acd4f89612315a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "45c9fdc8bfd4d671",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d89a58d0ff53fc7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f10ff5a72db5288",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/llm-instructions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for llm-instructions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "file-cleaner-redux:Clean files": false
+    }
+  },
+  "active": "2401ee2908a0e8d7",
+  "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+    "Writing/Antitheriomorphosis/Titan Hierarchy and Formal Titles.md",
+    "Writing/Antitheriomorphosis/llm-instructions.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Kong, King of the Hollow Earth.md",
+    "Writing/Antitheriomorphosis/Characters/Kong, King of the Hollow Earth.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity/Cultural-Heritage.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
+    "Writing/Antitheriomorphosis/TITANUS ZILLA SPECIES PROFILE.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
+    "Writing/Antitheriomorphosis/Characters/Titans",
+    "Writing/Antitheriomorphosis/Titan Hierarchy System.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/4 - Settling In .md",
+    "Writing/Antitheriomorphosis/Hierarchy of the Titans.md",
+    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
+    "Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/~syncthing~4 - Cultural & Species Background.md.tmp",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/7 - Combat Evolution.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/6 - Hierarchical Position & Authority.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/5 - Psychological Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
+    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+    "Writing/Antitheriomorphosis/GODZILLA'S ORIGIN & DEVELOPMENT.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/Basic Identity.md",
+    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
+    "~syncthing~llm-instructions.md.tmp",
+    "Writing/Antitheriomorphosis/Obsidian Organization Guide.md",
+    "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
+    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
+    "Tags/#atm+titan+titan-identity",
+    "Tags/#atm+titan+physical-traits",
+    "Tags/#atm+titan+personal-history",
+    "Tags/#atm+titan+northern_gojira+godzilla",
+    "Tags/#atm+titan",
+    "Untitled.canvas",
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
+    "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
+    "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
+    "Main Alternate Universe/Characters/Idea Board.canvas",
+    "Main Alternate Universe/Characters/Idea Board.canvas",
+    "Main Alternate Universe/Untitled.canvas"
+  ]
+}

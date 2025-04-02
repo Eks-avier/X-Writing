@@ -1,0 +1,15 @@
+{
+  "tabSize": 3,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}
