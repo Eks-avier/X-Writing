@@ -10,10 +10,10 @@ aliases:
   - King of the Monsters
   - The Last Northerner
 tags:
-  - "#atm/titan/titan-identity"
-  - "#atm/titan/physical-traits"
-  - "#atm/titan/northern_gojira/godzilla"
   - atm
+  - atm/titan/titan-identity
+  - atm/titan/physical-traits
+  - atm/titan/northern_gojira/godzilla
 created: 2025-03-24
 last_updated: 2025-03-24
 ---
@@ -141,7 +141,7 @@ Godzilla's body undergoes subtle seasonal changes related to his hibernation cyc
 - **Shirts**: Predominantly plain button-downs (majority are black or white with occasional navy or deep green for “diversity”)
 - **Undershirts**: Plain white or black t-shirts worn strictly as base layers, particularly in winter %% TO ADD: He doesn't really need to wear them, even in winter—it's just so people are less suspicious of him being unbothered by the cold. %%
 - **Trousers**: Tactical or durable slacks with minimal pockets—finds too many bulky and unnecessary
-- **Footwear**: Heavy-duty boots with good traction, built for long walks, climbing, and rough terrai
+- **Footwear**: Heavy-duty boots with good traction, built for long walks, climbing, and rough terrain
 - **Accessories**: Simple wristband made of a scale from his Titan form; actively avoids jewelry or embellishments
 
 #### Notable Refusals
