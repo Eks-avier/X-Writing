@@ -4092,25 +4092,50 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1269,
+      "wordCount": 858,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.23,
-      "characterCount": 11190,
-      "nonWhitespaceCharacterCount": 9746,
-      "readingTimeInMinutes": 4.788679245283019,
-      "linkCount": 0,
+      "pageCount": 2.86,
+      "characterCount": 8106,
+      "nonWhitespaceCharacterCount": 6855,
+      "readingTimeInMinutes": 3.237735849056604,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743665337416,
-      "modifiedDate": 1743679569738,
-      "sizeInBytes": 11198,
+      "modifiedDate": 1743698801201,
+      "sizeInBytes": 8644,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Titanus gojira: Limitless Adaptation",
+        "parent": "[[_Titanus-gojira]]",
+        "component_type": "biology",
+        "component_category": "ability",
+        "related_components": [
+          "[[Energy Domination]]",
+          "[[Regenerative Systems]]",
+          "[[Physical Characteristics]]"
+        ],
+        "manifestations": [
+          "Cellular Reprogramming",
+          "Tissue Transmutation",
+          "Neural Plasticity",
+          "Challenge Response"
+        ],
+        "current_status": "Active in Godzilla",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/biology/ability"
+        ],
+        "created": "2025-04-05",
+        "last_modified": "2025-04-05"
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
@@ -4188,7 +4213,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md": {
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4202,8 +4227,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743698775974,
-      "modifiedDate": 1743698775974,
+      "createdDate": 1743699104376,
+      "modifiedDate": 1743699104376,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,

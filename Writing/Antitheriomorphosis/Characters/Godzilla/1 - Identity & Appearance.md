@@ -201,7 +201,7 @@ Godzilla's relationship with his human identity of “Godric Nordson” has evol
 
 ## Cross-References
 
-- For details on energy manipulation abilities, see [[Domination of Energy]]
+- For details on energy manipulation abilities, see [[Writing/Antitheriomorphosis/Domination of Energy]]
 - For combat capabilities and evolution, see [[7 - Combat Evolution]]
 - For full historical timeline, see [[2 - Historical Timeline]]
 - For relationship with other Titans, see [[10 - Personal Relationships]]

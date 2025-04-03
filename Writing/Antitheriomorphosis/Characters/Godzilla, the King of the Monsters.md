@@ -179,7 +179,7 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 
 ### Core Abilities
 
-- **[[Domination of Energy]]**: Supreme control over *any* form of energy, capable of sensing, absorbing, dispersing, and manipulating them
+- **[[Writing/Antitheriomorphosis/Domination of Energy]]**: Supreme control over *any* form of energy, capable of sensing, absorbing, dispersing, and manipulating them
 - **Limitless Adaptability**: Nature's perfect soldier, capable of limitless adaptation and evolution
 - **Physical Supremacy**: Extraordinary strength, endurance, and durability even in human form
 - **Regeneration**: Accelerated healing abilities, enhanced when atomic energy courses through his body

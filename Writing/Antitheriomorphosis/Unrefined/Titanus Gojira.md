@@ -709,7 +709,7 @@ His willingness to share certain knowledge with non-Gojira beings represents per
 - For details on Godzilla's personal history, see [[Historical Timeline]]
 - For his current status as Alpha Paramount, see [[Hierarchical Position & Authority]]
 - For more about his father, see [[Dagon, the Last Northern Patriarch]]
-- For his power development, see [[Domination of Energy]]
+- For his power development, see [[Writing/Antitheriomorphosis/Domination of Energy]]
 - For psychological impact of being last of his kind, see [[Psychological Profile]]
 - For relationship with Zilla Jr., see [[Personal Relationships]]
 - For complete Northern Gojira culture, see [[Northern Gojira Cultural Profile]]

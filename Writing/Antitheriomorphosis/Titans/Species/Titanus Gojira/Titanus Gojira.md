@@ -1,16 +1,16 @@
 ---
-title: "Titanus gojira"
+title: Titanus gojira
 aliases:
-  - "Gojira"
-  - "Earth's Apex Species"
-species_classification: "Ascendant"
-lineage_type: "Primordial Radiation Processor"
-status: "Near-extinct"
+  - Gojira
+  - Earth's Apex Species
+species_classification: Ascendant
+lineage_type: Primordial Radiation Processor
+status: Near-extinct
 living_representatives:
   - "[[Godzilla, the King of the Monsters]]"
 core_abilities:
   - "[[Limitless Adaptation]]"
-  - "[[Domination of Energy]]"
+  - "[[Writing/Antitheriomorphosis/Domination of Energy]]"
 related_species:
   - "[[Titanus zilla]]"
   - "[[Titanus jinshin-mushi|MUTO]]"
@@ -43,8 +43,8 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 ## Biology
 
 ![[Biology/Evolutionary-Origins#Summary]]
-![[Biology/Limitless-Adaptation#Summary]]
-![[Biology/Energy-Domination#Summary]]
+![[Limitless Adaptation##Summary]]
+![[Domination of Energy##Summary]]
 
 ## Society & Behavior
 

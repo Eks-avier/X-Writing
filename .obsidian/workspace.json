@@ -25,12 +25,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Titanus Gojira"
+            }
+          },
+          {
+            "id": "a479487551bd207f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Domination of Energy"
+            }
+          },
+          {
+            "id": "79fcbce43dbfd6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limitless Adaptation"
             }
           }
         ],
@@ -137,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Titanus Gojira"
             }
           },
           {
@@ -156,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Titanus Gojira"
             }
           },
           {
@@ -170,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Titanus Gojira"
             }
           },
           {
@@ -217,8 +245,9 @@
   },
   "active": "a41a84303f3c4149",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
     "Society/Factional-Divisions.md",
     "Society",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Godzilla.md",
@@ -251,7 +280,6 @@
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Untitled",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
