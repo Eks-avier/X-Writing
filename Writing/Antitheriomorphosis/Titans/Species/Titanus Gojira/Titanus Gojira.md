@@ -1,16 +1,13 @@
 ---
-title: "Titanus Gojira"
+title: Titanus Gojira
 aliases:
-  - "Gojira"
-  - "Earth's Apex Species"
-species_classification: "Ascendant"
-lineage_type: "Primordial Radiation Processor"
-status: "Near-extinct"
+  - Gojira
+  - Earth's Apex Species
+species_classification: Ascendant
+lineage_type: Primordial Radiation Processor
+status: Near-extinct
 living_representatives:
   - "[[Godzilla, the King of the Monsters]]"
-core_abilities:
-  - "[[Limitless Adaptation]]"
-  - "[[Domination of Energy]]"
 related_species:
   - "[[Titanus Zilla]]"
   - "[[Titanus Jinshin-Mushi]]"

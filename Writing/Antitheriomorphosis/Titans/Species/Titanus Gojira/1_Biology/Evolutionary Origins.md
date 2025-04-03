@@ -1,19 +1,16 @@
 ---
-title: "Evolutionary Origins"
+title: Evolutionary Origins
 parent: "[[Titanus Gojira]]"
-component_type: "biology"
-component_category: "evolutionary"
-related_components:
-  - "[[Limitless Adaptation]]"
-  - "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy|Domination of Energy]]"
-  - "[[Physical Characteristics]]"
+component_type: biology
+component_category: evolutionary
+related_components: ""
 manifestations:
-  - "Radiation Absorption Cells"
-  - "Internal Conversion Chamber"
-  - "Dorsal Fin Development"
-  - "Amphibious Adaptation"
-  - "Neural Radiation Sensitivity"
-current_status: "Development complete, species near-extinct"
+  - Radiation Absorption Cells
+  - Internal Conversion Chamber
+  - Dorsal Fin Development
+  - Amphibious Adaptation
+  - Neural Radiation Sensitivity
+current_status: Development complete, species near-extinct
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -94,14 +91,14 @@ This distribution established the foundation for what would become the four dist
 The presence of *Titanus gojira* dramatically altered radiation distribution in their territories:
 
 - Areas under their long-term habitation showed measurably lower background radiation
-- This radiation "cleaning" effect made their territories unusually stable compared to surrounding regions
+- This radiation “cleaning” effect made their territories unusually stable compared to surrounding regions
 - Lesser creatures adopted more orderly behaviors within Gojira domains
 - Geological evidence suggests unique crystalline structures in ancient Gojira territories
 - These formations contain distinctive radiation patterns preserved for millions of years
 - The species effectively functioned as living radiation regulators, creating equilibrium through their mere presence
 
 > [!note] Geological Record
-> Modern analysis of rock formations in confirmed *Titanus gojira* territories reveals unique crystalline structures created by their energy field interactions with mineral deposits. These formations preserve radiation signatures that persist 250+ million years after their creation, serving as geological "fossils" of the species' environmental influence.
+> Modern analysis of rock formations in confirmed *Titanus gojira* territories reveals unique crystalline structures created by their energy field interactions with mineral deposits. These formations preserve radiation signatures that persist 250+ million years after their creation, serving as geological “fossils” of the species' environmental influence.
 
 ## Evolutionary Mechanics
 
