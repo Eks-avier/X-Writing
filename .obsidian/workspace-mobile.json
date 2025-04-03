@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notepad.md",
+                "file": "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notepad"
+              "title": "Species Profile Creation Instructions"
             }
           }
         ],
@@ -125,7 +125,7 @@
         }
       },
       {
-        "id": "d97258654bd62dd9",
+        "id": "6d000071567d9d4c",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -205,8 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45b8115e733d08c",
+  "active": "ab52f142b77365ff",
   "lastOpenFiles": [
+    "Notepad.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
     "Tags/#atm+species+classification+ascendant_line",
     "Tags/#atm+species+titanus_gojira",
     "Writing/Antitheriomorphosis/Titanus Gojira.md",
@@ -236,13 +238,11 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
     "Writing/Antitheriomorphosis/Magic System/Soul/Soul Imperceptibility.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Tags/#atm+titan",
     "Tags/#atm+titan+northern_gojira+godzilla",
     "Tags/#atm+titan+personal-history",
     "Tags/#atm+titan+physical-traits",
     "Tags/#atm+titan+titan-identity",
-    "Tags",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas"

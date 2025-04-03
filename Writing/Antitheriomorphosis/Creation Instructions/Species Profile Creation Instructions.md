@@ -139,7 +139,7 @@ tags:
 ### Phase 1: Create Framework (Complete First)
 
 1. **Create Hub Document**
-   * Implement `_Titanus-Gojira-Hub.md` with complete metadata
+   * Implement `Titanus Gojira.md` with complete metadata
    * Include introduction section from original document
    * Create skeleton structure with section headings
    * Add placeholder dataview queries

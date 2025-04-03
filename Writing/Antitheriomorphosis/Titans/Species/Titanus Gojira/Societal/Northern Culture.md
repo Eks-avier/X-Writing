@@ -21,7 +21,7 @@ tags:
 created: 2025-04-03
 last_modified: 2025-04-03
 ---
-
+[]()
 # Northern Titanus Gojira
 
 ## Summary
