@@ -3,7 +3,10 @@ title: Evolutionary Origins
 parent: "[[Titanus Gojira]]"
 component_type: biology
 component_category: evolutionary
-related_components: ""
+related_components:
+  - "[[Limitless Adaptation]]"
+  - "[[Domination of Energy]]"
+  - "[[Physical Characteristics]]"
 manifestations:
   - Radiation Absorption Cells
   - Internal Conversion Chamber

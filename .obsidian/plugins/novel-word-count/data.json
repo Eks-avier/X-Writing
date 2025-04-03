@@ -511,8 +511,8 @@
         "Earth's Apex Species"
       ],
       "createdDate": 1743664862702,
-      "modifiedDate": 1743700835318,
-      "sizeInBytes": 5746,
+      "modifiedDate": 1743704094443,
+      "sizeInBytes": 5656,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.73,
@@ -531,10 +531,6 @@
         "status": "Near-extinct",
         "living_representatives": [
           "[[Godzilla, the King of the Monsters]]"
-        ],
-        "core_abilities": [
-          "[[Limitless Adaptation]]",
-          "[[Domination of Energy]]"
         ],
         "related_species": [
           "[[Titanus Zilla]]",
@@ -826,7 +822,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743702945431,
-      "modifiedDate": 1743704069111,
+      "modifiedDate": 1743704247184,
       "sizeInBytes": 7692,
       "sessionStart": {
         "noteCount": 1,
