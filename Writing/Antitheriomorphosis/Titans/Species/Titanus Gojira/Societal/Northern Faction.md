@@ -30,7 +30,7 @@ last_modified: 2025-04-03
 
 ## Summary
 
-The Northern faction of *Titanus gojira* inhabited the polar regions of the northern hemisphere, developing distinctive adaptations for arctic environments centered around superior energy conservation and efficiency. Their physical characteristics included whiter dorsal fins with crystalline structures, cooler-toned scales with silvery undertones, and broader builds optimized for heat retention in frigid environments. This faction survived longer than any other, with Godzilla—the last pure member of the entire species—being of Northern lineage. The Northern faction's biological adaptations directly informed and shaped their cultural practices, creating a society that valued precision, efficiency, and tradition.
+The Northern faction of *Titanus gojira* inhabited the polar regions of the northern hemisphere, developing distinctive adaptations for arctic environments centered around superior energy conservation and efficiency. Their physical characteristics included whiter dorsal fins with crystalline structures that could absorb energy emitted by auroras, cooler-toned scales with silvery undertones, and broader builds optimized for heat retention in frigid environments. This faction survived longer than any other, with Godzilla—the last pure member of the entire species—being of Northern lineage. The Northern faction's biological adaptations directly informed and shaped their cultural practices, creating a society that valued precision, efficiency, and tradition.
 
 ## Territory & Environment
 
