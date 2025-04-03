@@ -710,31 +710,6 @@
         "nonWhitespaceCharacterCount": 3347
       }
     },
-    "Writing/Antitheriomorphosis/Story Element Checklist.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 53,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055061,
-      "modifiedDate": 1741617711500,
-      "sizeInBytes": 72,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 72,
-        "nonWhitespaceCharacterCount": 53
-      }
-    },
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1183,31 +1158,6 @@
         "wordCount": 1815,
         "characterCount": 18945,
         "nonWhitespaceCharacterCount": 15841
-      }
-    },
-    "Writing/Antitheriomorphosis/Main Alternate Universe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055053,
-      "modifiedDate": 1741800234060,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Useful Magical Information.md": {
@@ -2474,21 +2424,21 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 420,
+      "wordCount": 418,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4,
-      "characterCount": 2879,
-      "nonWhitespaceCharacterCount": 2331,
-      "readingTimeInMinutes": 1.5849056603773586,
+      "pageCount": 1.3933333333333333,
+      "characterCount": 2872,
+      "nonWhitespaceCharacterCount": 2326,
+      "readingTimeInMinutes": 1.5773584905660378,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Rodan"
       ],
       "createdDate": 1743271055179,
-      "modifiedDate": 1740373351380,
-      "sizeInBytes": 2921,
+      "modifiedDate": 1743696961058,
+      "sizeInBytes": 2914,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.4,

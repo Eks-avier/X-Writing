@@ -5,7 +5,7 @@ aliases:
 # **Rodan, The Lord of the Skies**
 
 - **Height:** 6'0”
-- **Human Name**: Roman (Last Name TBD)
+- **Human Name**: Roman Volcario
 - **Weight:** 80 kg (emphasizing his aerial agility and explosive speed)
 - **Complexion:** Caucasian, tanned and sun-kissed, always carrying natural warmth.
 - **Hair:** Auburn, wild, and windswept, always messy as if caught in the wind
