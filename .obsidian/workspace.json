@@ -55,7 +55,7 @@
               "state": {
                 "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Northern Faction"
@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "cadfd59f2afca9ab",
+            "id": "e20a10602ff7f63a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -229,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,15 +248,15 @@
   "active": "88e432e81212cb86",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Northern Gojira.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
     "Writing/Antitheriomorphosis/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Resolving Northern Gojira Documentation Overlap .md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Creation Instructions",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
