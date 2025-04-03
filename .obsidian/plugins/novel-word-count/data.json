@@ -321,13 +321,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 488,
+      "wordCount": 499,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6266666666666667,
-      "characterCount": 5014,
-      "nonWhitespaceCharacterCount": 4105,
-      "readingTimeInMinutes": 1.8415094339622642,
+      "pageCount": 1.6633333333333333,
+      "characterCount": 4956,
+      "nonWhitespaceCharacterCount": 4036,
+      "readingTimeInMinutes": 1.8830188679245283,
       "linkCount": 5,
       "embedCount": 9,
       "aliases": [
@@ -335,8 +335,8 @@
         "Earth's Apex Species"
       ],
       "createdDate": 1743664862702,
-      "modifiedDate": 1743699391854,
-      "sizeInBytes": 5594,
+      "modifiedDate": 1743700148084,
+      "sizeInBytes": 5515,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6533333333333333,
@@ -345,7 +345,7 @@
         "nonWhitespaceCharacterCount": 4107
       },
       "frontmatter": {
-        "title": "Titanus gojira",
+        "title": "Titanus Gojira",
         "aliases": [
           "Gojira",
           "Earth's Apex Species"
@@ -358,11 +358,11 @@
         ],
         "core_abilities": [
           "[[Limitless Adaptation]]",
-          "[[Writing/Antitheriomorphosis/Domination of Energy]]"
+          "[[Domination of Energy]]"
         ],
         "related_species": [
-          "[[Titanus zilla]]",
-          "[[Titanus jinshin-mushi|MUTO]]"
+          "[[Titanus Zilla]]",
+          "[[Titanus Jinshin-Mushi]]"
         ],
         "tags": [
           "atm",
@@ -3966,19 +3966,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 858,
+      "wordCount": 860,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.86,
-      "characterCount": 8106,
+      "pageCount": 2.8666666666666667,
+      "characterCount": 8108,
       "nonWhitespaceCharacterCount": 6855,
-      "readingTimeInMinutes": 3.237735849056604,
+      "readingTimeInMinutes": 3.2452830188679247,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743665337416,
-      "modifiedDate": 1743698801201,
-      "sizeInBytes": 8644,
+      "modifiedDate": 1743700122338,
+      "sizeInBytes": 8632,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3987,12 +3987,12 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
-        "title": "Titanus gojira: Limitless Adaptation",
-        "parent": "[[_Titanus-gojira]]",
+        "title": "Limitless Adaptation",
+        "parent": "[[Titanus Gojira]]",
         "component_type": "biology",
         "component_category": "ability",
         "related_components": [
-          "[[Energy Domination]]",
+          "[[Domination of Energy]]",
           "[[Regenerative Systems]]",
           "[[Physical Characteristics]]"
         ],
@@ -4091,21 +4091,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 964,
+      "wordCount": 965,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.2133333333333334,
+      "pageCount": 3.216666666666667,
       "characterCount": 8861,
-      "nonWhitespaceCharacterCount": 7398,
-      "readingTimeInMinutes": 3.637735849056604,
+      "nonWhitespaceCharacterCount": 7396,
+      "readingTimeInMinutes": 3.641509433962264,
       "linkCount": 5,
       "embedCount": 0,
-      "aliases": [
-        "Energy Domination"
-      ],
+      "aliases": null,
       "createdDate": 1743699104376,
-      "modifiedDate": 1743699291587,
-      "sizeInBytes": 9426,
+      "modifiedDate": 1743700117691,
+      "sizeInBytes": 9387,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4114,9 +4112,8 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
-        "title": "Titanus gojira: Energy Domination",
-        "alias": "Energy Domination",
-        "parent": "[[_Titanus-gojira]]",
+        "title": "Domination of Energy",
+        "parent": "[[Titanus Gojira]]",
         "component_type": "biology",
         "component_category": "ability",
         "related_components": [

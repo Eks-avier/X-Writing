@@ -23,7 +23,7 @@ last_modified: 2025-04-05
 
 # Limitless Adaptation
 
-## Summary {#summary}
+## Summary
 
 At the cellular level, *Titanus gojira* possessed an unprecedented capacity for biological evolution and adaptation within a single lifespan. Unlike conventional adaptation that occurs gradually across generations, their bodies actively responded to environmental challenges within moments of encountering a new threat or condition. This capacity functioned like a biological compiler, continually optimizing their physical form in response to external inputs. While their initial genetic template provided a foundation, their bodies essentially rewrote their own code through experience, creating beings whose power derived not from inheritance but from accumulation of challenges overcome.
 

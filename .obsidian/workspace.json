@@ -41,7 +41,7 @@
               "state": {
                 "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Domination of Energy"
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Domination of Energy"
+              "title": "Backlinks for Titanus Gojira"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Domination of Energy"
+              "title": "Outgoing links from Titanus Gojira"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domination of Energy"
+              "title": "Outline of Titanus Gojira"
             }
           },
           {
@@ -244,11 +244,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "a479487551bd207f",
+  "active": "a41a84303f3c4149",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md",
     "Society/Factional-Divisions.md",
