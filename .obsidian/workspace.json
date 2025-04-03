@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Northern Faction"
+              "title": "Outgoing links from Northern Culture"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Northern Faction"
+              "title": "Outline of Northern Culture"
             }
           },
           {
@@ -266,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -286,10 +286,10 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "88e432e81212cb86",
+  "active": "78dd5f89b539f4cf",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Physical Appearance.md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",

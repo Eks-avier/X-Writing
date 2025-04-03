@@ -96,6 +96,17 @@ Northern *Titanus gojira* adapted their locomotion to their environment:
 
 These movement characteristics emphasized conservation over speed, creating a distinctive impression of implacable, inevitable force rather than explosive power.
 
+### Movement Characteristics
+
+- **Perfect Stillness Capacity**: Ability to maintain absolutely motionless positions for extended periods, often appearing statuesque to observers
+- **Precise Initiation**: Movement beginning without preparatory shifts or tells, creating the impression of suddenness despite deliberate intent
+- **Economy of Action**: Each movement serving multiple purposes simultaneously, eliminating redundant actions
+- **Environmental Integration**: Perfect adaptation to terrain features without conscious calculation
+- **Energy Expenditure Ratio**: Accomplishing maximum effect with minimum energy cost in all activities
+- **Thermal Efficiency**: Movement patterns that minimized heat loss in arctic environments
+
+These biological traits created the foundation for Northern cultural values surrounding efficiency and precision. What external observers might perceive as grace or power actually represented perfect optimization—a physical expression of the Northern philosophical principle that true mastery manifested through minimum effort producing maximum effect.
+
 > [!note] Godzilla's Heritage
 > Godzilla belongs to the Northern faction, though his coloration shows some deviation from the norm. His obsidian black scales and golden eyes—inherited from his mother—were unusual traits among Northerners, while his dorsal fin structure followed typical Northern patterns with modifications from his father, Dagon. This distinctive appearance made him immediately recognizable even among Northern family groups, his silhouette a unique variation on Northern themes. His current human form maintains these distinctive traits—the golden eyes appearing during moments of relaxation, the physical bearing echoing Northern efficiency of movement and energy conservation.
 
@@ -111,7 +122,6 @@ Despite their highly specialized adaptations to arctic environments, Northern *T
   - **Golden eyes with standard silvery-white scales**: Extraordinarily rare, appearing in less than 2% of Northern Gojira
   - **Blue eyes with obsidian scales**: Uncommon variant (approximately 8%)
   - **Golden eyes with obsidian scales**: Extremely unusual combination, Godzilla's maternal inheritance
-
 - **Distribution Pattern**: Color variations appeared randomly throughout family lines rather than concentrating in specific lineages
 - **Inheritance Mechanics**: Eye and scale coloration followed complex genetic patterns, with some combinations requiring specific parental trait combinations
 - **Adaptive Neutrality**: These variations conferred no significant survival advantages or disadvantages, functioning as neutral genetic diversity
@@ -131,17 +141,6 @@ Northern *Titanus gojira* developed distinctive neuromuscular adaptations that c
 - **Metabolic Conservation**: Highly efficient circulatory system that maintained optimal body temperature with minimal energy expenditure
 - **Balanced Mass Distribution**: Physical structure evolved to maintain perfect equilibrium during movement and stillness
 - **Deliberate Motion Design**: Neurological pathways optimized for precise, calculated movements rather than reactive responses
-
-### Movement Characteristics
-
-- **Perfect Stillness Capacity**: Ability to maintain absolutely motionless positions for extended periods, often appearing statuesque to observers
-- **Precise Initiation**: Movement beginning without preparatory shifts or tells, creating the impression of suddenness despite deliberate intent
-- **Economy of Action**: Each movement serving multiple purposes simultaneously, eliminating redundant actions
-- **Environmental Integration**: Perfect adaptation to terrain features without conscious calculation
-- **Energy Expenditure Ratio**: Accomplishing maximum effect with minimum energy cost in all activities
-- **Thermal Efficiency**: Movement patterns that minimized heat loss in arctic environments
-
-These biological traits created the foundation for Northern cultural values surrounding efficiency and precision. What external observers might perceive as grace or power actually represented perfect optimization—a physical expression of the Northern philosophical principle that true mastery manifested through minimum effort producing maximum effect.
 
 ## Energy Conservation Systems
 
