@@ -18,5 +18,11 @@
   "primary-theme@@ribbon-icon": 20,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Editor@@h1-divider-on": true
+  "Editor@@h1-divider-on": true,
+  "minimal-advanced@@animations": "fast-animations",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-sapphire",
+  "primary-theme@@zero-tab-anim": true,
+  "primary-theme@@zero-popup-blur": false,
+  "primary-theme@@zero-popup-popdown": false
 }
