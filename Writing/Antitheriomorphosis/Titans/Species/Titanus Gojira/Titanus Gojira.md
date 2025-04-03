@@ -42,20 +42,44 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 
 ## Biology
 
+### Evolutionary Origins
+
 ![[Evolutionary Origins#Summary]]
+
+### Limitless Adaptation
+
 ![[Limitless Adaptation#Summary]]
+
+### Energy Domination
+
 ![[Domination of Energy#Summary]]
 
 ## Society & Behavior
 
+### Factional Divisions
+
 ![[Factional Divisions#Summary]]
+
+### Universal Hierarchy of Priorities
+
 ![[Universal Hierarchy of Priorities#Summary]]
+
+### Energy Communication
+
 ![[Energy Communication#Summary]]
 
 ## Historical Significance
 
+### Species Decline
+
 ![[Species Decline#Summary]]
+
+### MUTO Conflict
+
 ![[MUTO Conflict#Summary]]
+
+### Current Status
+
 ![[Current Status#Summary]]
 
 ## Representatives

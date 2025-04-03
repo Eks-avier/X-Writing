@@ -321,13 +321,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 499,
+      "wordCount": 519,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6633333333333333,
-      "characterCount": 4956,
-      "nonWhitespaceCharacterCount": 4036,
-      "readingTimeInMinutes": 1.8830188679245283,
+      "pageCount": 1.73,
+      "characterCount": 5187,
+      "nonWhitespaceCharacterCount": 4223,
+      "readingTimeInMinutes": 1.9584905660377359,
       "linkCount": 5,
       "embedCount": 9,
       "aliases": [
@@ -335,8 +335,8 @@
         "Earth's Apex Species"
       ],
       "createdDate": 1743664862702,
-      "modifiedDate": 1743700148084,
-      "sizeInBytes": 5515,
+      "modifiedDate": 1743700835318,
+      "sizeInBytes": 5746,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6533333333333333,
@@ -3977,7 +3977,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743665337416,
-      "modifiedDate": 1743700122338,
+      "modifiedDate": 1743700695712,
       "sizeInBytes": 8632,
       "sessionStart": {
         "noteCount": 0,
