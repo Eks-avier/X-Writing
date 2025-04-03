@@ -157,8 +157,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 33.28666666666667,
-      "characterCount": 81239,
-      "nonWhitespaceCharacterCount": 70499,
+      "characterCount": 81277,
+      "nonWhitespaceCharacterCount": 70537,
       "readingTimeInMinutes": 37.68301886792453,
       "linkCount": 9,
       "embedCount": 0,
@@ -167,8 +167,8 @@
         "'Titanus gojira' Species Profile"
       ],
       "createdDate": 1743616456917,
-      "modifiedDate": 1743628110925,
-      "sizeInBytes": 81927,
+      "modifiedDate": 1743699785509,
+      "sizeInBytes": 81965,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 33.28666666666667,
@@ -321,13 +321,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 485,
+      "wordCount": 488,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6166666666666667,
-      "characterCount": 5025,
-      "nonWhitespaceCharacterCount": 4119,
-      "readingTimeInMinutes": 1.830188679245283,
+      "pageCount": 1.6266666666666667,
+      "characterCount": 5014,
+      "nonWhitespaceCharacterCount": 4105,
+      "readingTimeInMinutes": 1.8415094339622642,
       "linkCount": 5,
       "embedCount": 9,
       "aliases": [
@@ -335,8 +335,8 @@
         "Earth's Apex Species"
       ],
       "createdDate": 1743664862702,
-      "modifiedDate": 1743698521265,
-      "sizeInBytes": 5589,
+      "modifiedDate": 1743699391854,
+      "sizeInBytes": 5594,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6533333333333333,
@@ -358,7 +358,7 @@
         ],
         "core_abilities": [
           "[[Limitless Adaptation]]",
-          "[[Domination of Energy]]"
+          "[[Writing/Antitheriomorphosis/Domination of Energy]]"
         ],
         "related_species": [
           "[[Titanus zilla]]",
@@ -1819,82 +1819,6 @@
         "nonWhitespaceCharacterCount": 8297
       }
     },
-    "Writing/Antitheriomorphosis/Godzilla, the King of the Monsters II.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1894,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.3133333333333335,
-      "characterCount": 14515,
-      "nonWhitespaceCharacterCount": 12295,
-      "readingTimeInMinutes": 7.1471698113207545,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "The King",
-        "King of the Monsters",
-        "Alpha Paramount",
-        "Godric Nordson"
-      ],
-      "createdDate": 1743271055042,
-      "modifiedDate": 1743679569661,
-      "sizeInBytes": 14784,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.3133333333333335,
-        "wordCount": 1894,
-        "characterCount": 14515,
-        "nonWhitespaceCharacterCount": 12295
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla",
-          "The King",
-          "King of the Monsters",
-          "Alpha Paramount",
-          "Godric Nordson"
-        ],
-        "tags": [
-          "atm/titan/character/titan/godzilla",
-          "atm/titan/character/role/alpha",
-          "atm/titan/northern_gojira",
-          {
-            "status/active created": "2025-03-23"
-          },
-          {
-            "modified": "2025-03-23"
-          }
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Godzilla vs Battra .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3212,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.706666666666667,
-      "characterCount": 21531,
-      "nonWhitespaceCharacterCount": 18018,
-      "readingTimeInMinutes": 12.120754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055036,
-      "modifiedDate": 1742318646769,
-      "sizeInBytes": 21537,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.706666666666667,
-        "wordCount": 3212,
-        "characterCount": 21531,
-        "nonWhitespaceCharacterCount": 18018
-      }
-    },
     "Writing/Antitheriomorphosis/Exceptional.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1968,56 +1892,6 @@
         "wordCount": 314,
         "characterCount": 1645,
         "nonWhitespaceCharacterCount": 1301
-      }
-    },
-    "Writing/Antitheriomorphosis/Domination of Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3036,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.12,
-      "characterCount": 18732,
-      "nonWhitespaceCharacterCount": 15554,
-      "readingTimeInMinutes": 11.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055025,
-      "modifiedDate": 1741368752164,
-      "sizeInBytes": 18754,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.12,
-        "wordCount": 3036,
-        "characterCount": 18732,
-        "nonWhitespaceCharacterCount": 15554
-      }
-    },
-    "Writing/Antitheriomorphosis/Domination of Energy - Profile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1351,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.503333333333333,
-      "characterCount": 11710,
-      "nonWhitespaceCharacterCount": 10080,
-      "readingTimeInMinutes": 5.09811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055021,
-      "modifiedDate": 1741370314601,
-      "sizeInBytes": 11782,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.503333333333333,
-        "wordCount": 1351,
-        "characterCount": 11710,
-        "nonWhitespaceCharacterCount": 10080
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md": {
@@ -4217,19 +4091,148 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 964,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 3.2133333333333334,
+      "characterCount": 8861,
+      "nonWhitespaceCharacterCount": 7398,
+      "readingTimeInMinutes": 3.637735849056604,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "Energy Domination"
+      ],
+      "createdDate": 1743699104376,
+      "modifiedDate": 1743699291587,
+      "sizeInBytes": 9426,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Titanus gojira: Energy Domination",
+        "alias": "Energy Domination",
+        "parent": "[[_Titanus-gojira]]",
+        "component_type": "biology",
+        "component_category": "ability",
+        "related_components": [
+          "[[Limitless Adaptation]]",
+          "[[Dorsal Fin Structure]]",
+          "[[Atomic Projection]]"
+        ],
+        "manifestations": [
+          "Energy Sensing",
+          "Absorption",
+          "Conversion",
+          "Projection",
+          "Manipulation"
+        ],
+        "current_status": "Fully realized only in Godzilla",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/biology/ability"
+        ],
+        "created": "2025-04-05",
+        "last_modified": "2025-04-05"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1351,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.503333333333333,
+      "characterCount": 11710,
+      "nonWhitespaceCharacterCount": 10080,
+      "readingTimeInMinutes": 5.09811320754717,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743699104376,
-      "modifiedDate": 1743699104376,
-      "sizeInBytes": 0,
+      "createdDate": 1743271055021,
+      "modifiedDate": 1741370314601,
+      "sizeInBytes": 11782,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3036,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.12,
+      "characterCount": 18732,
+      "nonWhitespaceCharacterCount": 15554,
+      "readingTimeInMinutes": 11.456603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055025,
+      "modifiedDate": 1741368752164,
+      "sizeInBytes": 18754,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3212,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.706666666666667,
+      "characterCount": 21531,
+      "nonWhitespaceCharacterCount": 18018,
+      "readingTimeInMinutes": 12.120754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055036,
+      "modifiedDate": 1742318646769,
+      "sizeInBytes": 21537,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1915,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.383333333333334,
+      "characterCount": 14782,
+      "nonWhitespaceCharacterCount": 12526,
+      "readingTimeInMinutes": 7.226415094339623,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055042,
+      "modifiedDate": 1743679569661,
+      "sizeInBytes": 14784,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

@@ -1,19 +1,19 @@
 ---
-title: Titanus gojira
+title: "Titanus Gojira"
 aliases:
-  - Gojira
-  - Earth's Apex Species
-species_classification: Ascendant
-lineage_type: Primordial Radiation Processor
-status: Near-extinct
+  - "Gojira"
+  - "Earth's Apex Species"
+species_classification: "Ascendant"
+lineage_type: "Primordial Radiation Processor"
+status: "Near-extinct"
 living_representatives:
   - "[[Godzilla, the King of the Monsters]]"
 core_abilities:
   - "[[Limitless Adaptation]]"
-  - "[[Writing/Antitheriomorphosis/Domination of Energy]]"
+  - "[[Domination of Energy]]"
 related_species:
-  - "[[Titanus zilla]]"
-  - "[[Titanus jinshin-mushi|MUTO]]"
+  - "[[Titanus Zilla]]"
+  - "[[Titanus Jinshin-Mushi]]"
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -42,21 +42,21 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 
 ## Biology
 
-![[Biology/Evolutionary-Origins#Summary]]
-![[Limitless Adaptation##Summary]]
-![[Domination of Energy##Summary]]
+![[Evolutionary Origins#Summary]]
+![[Limitless Adaptation#Summary]]
+![[Domination of Energy#Summary]]
 
 ## Society & Behavior
 
-![[Society/Factional-Divisions#Summary]]
-![[Society/Universal-Hierarchy-of-Priorities#Summary]]
-![[Society/Energy-Communication#Summary]]
+![[Factional Divisions#Summary]]
+![[Universal Hierarchy of Priorities#Summary]]
+![[Energy Communication#Summary]]
 
 ## Historical Significance
 
-![[History/Species-Decline#Summary]]
-![[History/MUTO-Conflict#Summary]]
-![[History/Current-Status#Summary]]
+![[Species Decline#Summary]]
+![[MUTO Conflict#Summary]]
+![[Current Status#Summary]]
 
 ## Representatives
 
@@ -70,16 +70,16 @@ TABLE
   territory as "Territory", 
   distinctive_traits as "Physical Traits",
   cultural_emphasis as "Cultural Focus"
-FROM "Species/Ascendant-Lines/Titanus-Gojira/Society"
+FROM "Species/Ascendant Lines/Titanus Gojira/Society"
 WHERE component_category = "faction"
 SORT file.name ASC
 ```
 
 ## Related Species
 
-- **[[Titanus zilla]]**: Hybrid descendants preserving partial Southern genetics while lacking core abilities, representing a desperate attempt at species preservation during terminal decline
-- **[[Titanus jinshin-mushi]]**: Specialized parasitic predators evolved specifically to exploit *Titanus gojira* biology, targeting their reproductive cycle with devastating efficiency
-- **[[Titanus mosura]]**: Fellow Ascendant Line species with complementary evolutionary path, potentially biologically compatible due to equivalent genetic complexity
+- **[[Titanus Zilla]]**: Hybrid descendants preserving partial Southern genetics while lacking core abilities, representing a desperate attempt at species preservation during terminal decline
+- **[[Titanus Jinshin-Mushi]]**: Specialized parasitic predators evolved specifically to exploit *Titanus gojira* biology, targeting their reproductive cycle with devastating efficiency
+- **[[Titanus Mosura]]**: Fellow Ascendant Line species with complementary evolutionary path, potentially biologically compatible due to equivalent genetic complexity
 
 ## Implementation Model
 
