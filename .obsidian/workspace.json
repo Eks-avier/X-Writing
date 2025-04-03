@@ -76,17 +76,13 @@
             }
           },
           {
-            "id": "6eae1fb5c290246a",
+            "id": "3564b4f9532347eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Character Profile Creation Instructions"
+              "title": "New tab"
             }
           }
         ],
@@ -177,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485,
-    "collapsed": true
+    "width": 485
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -272,8 +267,9 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "6eae1fb5c290246a",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
@@ -309,7 +305,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
-    "Writing/Unrefined - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
