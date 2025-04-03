@@ -173,7 +173,7 @@ Northern Gojira employed a sophisticated patrilineal naming system that establis
 - **Legacy Preservation**: Names carried historical significance, often recalling great achievements
 - **Memory Vessel**: Name served as repository of family narrative and accomplishments
 
-### Informal Addresso
+### Informal Address
 
 - **Familial Simplification**: Within families, offspring typically addressed as “Son” or “Daughter”
 - **Parental Universality**: All male elders within family structure called “Father,” females “Mother”

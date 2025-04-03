@@ -437,3 +437,13 @@ These challenges created a system where Directive fulfillment became simultaneou
 - [[Hierarchy of Priorities]] - How Northern values influenced species-wide priorities
 
 [Return to Hub Document]([[Titanus Gojira Species Profile]])
+
+%% 
+TO CONSIDER:
+- Rituals in case of death
+- Attitude towards death
+- Relationships with other Titan species
+- Rituals in case of reproductive failure
+- 
+
+%%

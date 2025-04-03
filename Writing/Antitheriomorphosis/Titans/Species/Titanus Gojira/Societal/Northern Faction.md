@@ -151,6 +151,8 @@ Northern faction members developed specialized reproductive adaptations to their
 
 ### Physiological Specializations
 
+%% TO CONSIDER: Are they viviparous, ovoviviparous, or oviparous? %%
+
 - **Extended Gestation**: Longer development period compared to other factions
 - **Enhanced Parental Energy Transfer**: Superior radiation sharing with developing offspring
 - **Cold-Optimized Egg Development**: Specialized egg structures for arctic conditions
