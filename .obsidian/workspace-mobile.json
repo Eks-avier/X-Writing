@@ -25,10 +25,14 @@
             "id": "ab52f142b77365ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notepad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notepad"
             }
           }
         ],
@@ -121,7 +125,7 @@
         }
       },
       {
-        "id": "0e431d5766784ef0",
+        "id": "d97258654bd62dd9",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -201,8 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab52f142b77365ff",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
+    "Tags/#atm+species+classification+ascendant_line",
+    "Tags/#atm+species+titanus_gojira",
     "Writing/Antitheriomorphosis/Titanus Gojira.md",
     "llm-instructions-2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
@@ -231,14 +237,12 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
     "Writing/Antitheriomorphosis/Magic System/Soul/Soul Imperceptibility.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Singularity Technique.md",
     "Tags/#atm+titan",
     "Tags/#atm+titan+northern_gojira+godzilla",
     "Tags/#atm+titan+personal-history",
     "Tags/#atm+titan+physical-traits",
     "Tags/#atm+titan+titan-identity",
     "Tags",
-    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas"
