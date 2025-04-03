@@ -1,9 +1,10 @@
 # Information on the Northern Gojira
 
-* Godzilla is technically a junior as well. A *T. gojira *is often identified as “Son of Father.” They're paternal. So, Godzilla's actual name within his species is Son of Dagon, and Dagon in turn would be identified as Son of Dagon's Father, and so on. Thus, Godzilla's true name would actually be something like *Dagonson *or* Dagon Junior. *
+* Godzilla is technically a junior as well. A *T. gojira* is often identified as “Son of Father.” They're paternal. So, Godzilla's actual name within his species is Son of Dagon, and Dagon in turn would be identified as Son of Dagon's Father, and so on. Thus, Godzilla's true name would actually be something like *Dagonson* or *Dagon Junior*.
+	* While varied across factions, some have longer names, others attach titles, others yet attach their territories, and so on, the same paternal naming scheme still applies.
 * It is only now when Godzilla could finally express himself post-Antitheriomorphosis that this was revealed. He would have been identified, internally, within their species as *Dagonson*, *Dagon Junior*, or the formal *Son of Dagon*.
 * It's important to note that the Titan's current names are all given by humans! The Titans internally identify differently. Eventually, and especially during the times where Titans interacted with humans in prehistory, the Titans learned to simply accept the names humans have given them. Now, post-Antitheriomorphosis, they have a chance to choose names for themselves or express how they internally identify. Some have changed them, others have changed. For Godzilla though, he has accepted the names *Godzilla *and *Gojira*, identifying and answering to either. He has also approved the use of the name *gojira* as his species' taxon.
-* The social order of *T. gojira* varies from faction to faction. They are** all** unfailingly patriarchal.
+* The social order of *T. gojira* varies from faction to faction. They are **all** unfailingly patriarchal.
 * All *T. gojira* are monogamous.
 * The Northerners are led not by a singular alpha but by all the *Northern Patriarchs* with at least an established territory and a son or daughter already undergoing the betrothal trial.
 	* Females are prohibited.
