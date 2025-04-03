@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Species Profile Creation Instructions"
+              "title": "Dagon Resurrection Arc"
             }
           }
         ],
@@ -180,7 +180,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "llm-instructions-2.md",
+            "file": "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,6 +207,8 @@
   },
   "active": "ab52f142b77365ff",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
     "Notepad.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
     "Tags/#atm+species+classification+ascendant_line",
@@ -236,8 +238,6 @@
     "Writing/Antitheriomorphosis/Magic System/Unrefined - The Art of Commitments.md",
     "Writing/Antitheriomorphosis/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
-    "Writing/Antitheriomorphosis/Magic System/Soul/Soul Imperceptibility.md",
     "Tags/#atm+titan",
     "Tags/#atm+titan+northern_gojira+godzilla",
     "Tags/#atm+titan+personal-history",
