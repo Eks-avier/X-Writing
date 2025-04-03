@@ -3,5 +3,6 @@
   "accentColor": "#2d3d4e",
   "theme": "system",
   "baseFontSize": 12,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": false
 }

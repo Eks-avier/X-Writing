@@ -13,5 +13,6 @@
     "Templates/"
   ],
   "attachmentFolderPath": "attachments",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": false
 }

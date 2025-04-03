@@ -22,7 +22,9 @@
   "minimal-advanced@@animations": "fast-animations",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-sapphire",
-  "primary-theme@@zero-tab-anim": true,
+  "primary-theme@@zero-tab-anim": false,
   "primary-theme@@zero-popup-blur": false,
-  "primary-theme@@zero-popup-popdown": false
+  "primary-theme@@zero-popup-popdown": false,
+  "primary-theme@@progress-bar-width": "200px",
+  "primary-theme@@h1-vt-align-center": true
 }
