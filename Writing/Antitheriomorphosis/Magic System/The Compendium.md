@@ -14,7 +14,7 @@ Battra alone possesses the ability to halt this transformation process, enabling
 
 ### Soul Interaction
 
-The soul serves as both catalyst and stabilizer, shaping raw Primus into specific magical patterns. Soul strength directly corresponds to refinement capability, with stronger souls producing more efficient and controlled magical effects. Certain species (including _[[Titanus gojira]]_) lack the innate capacity to perceive or manipulate Primus, classified as “Null.” Each sorcerer shapes Primus uniquely according to their soul's individual nature, making magic an inherently personal expression.
+The soul serves as both catalyst and stabilizer, shaping raw Primus into specific magical patterns. Soul strength directly corresponds to refinement capability, with stronger souls producing more efficient and controlled magical effects. Certain species (including _[[Writing/Antitheriomorphosis/Titanus Gojira]]_) lack the innate capacity to perceive or manipulate Primus, classified as “Null.” Each sorcerer shapes Primus uniquely according to their soul's individual nature, making magic an inherently personal expression.
 
 ### Primus Ignition
 

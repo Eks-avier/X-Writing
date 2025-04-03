@@ -290,7 +290,7 @@ Different species and cultures approach the spellcasting sequence through distin
 Most Titans view spellcasting through their extended lifespans, approaching magic with patient, methodical thoroughness:
 
 - **[[Titanus mosura]]**: Traded magical aptitude for immortality through reincarnation in a Covenant with Heaven. Battra circumvented this limitation through his ingenuity with Mothra's assistance.
-- **[[Titanus gojira]]**: Completely [[The Null|Null]] and incapable of conventional magic, they approach energy manipulation with methodical precision that parallels spellcasting.
+- **[[Writing/Antitheriomorphosis/Titanus Gojira]]**: Completely [[The Null|Null]] and incapable of conventional magic, they approach energy manipulation with methodical precision that parallels spellcasting.
 
 ### Human Traditions
 

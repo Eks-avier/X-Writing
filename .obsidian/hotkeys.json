@@ -164,5 +164,13 @@
       ],
       "key": "3"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

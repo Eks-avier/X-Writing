@@ -23,7 +23,7 @@ File: Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md
 
 Once feared as an unstoppable force of destruction, Godzilla has since become a figure of solemn authority. His rule is absolute, his presence inescapable—a relentless force of nature tempered by time and experience. Though his rage is legendary, it is not mindless fury but a deeply rooted instinct, now buried beneath the weight of responsibility. Those expecting a rampaging beast will instead find a sovereign burdened by the ages, his power restrained by sheer force of will.
 
-A descendant of the [[Northerners]], one of the four great factions of *[[Titanus gojira]]*, Godzilla embodies their raw power and resilience. Unlike the [[Divine Moths]], whose immortality came at the cost of their magic, his kind has never possessed any affinity for such forces. Instead, they command energy itself, their bodies designed to absorb, manipulate, and weaponize it. Yet, for all their strength, the Gojira have always been bound by their own rigidity, their potential hindered by instinct and tradition. Even Godzilla, the mightiest of his lineage, spent eons relying on brute force rather than refining his abilities.
+A descendant of the [[Northerners]], one of the four great factions of *Titanus gojira*, Godzilla embodies their raw power and resilience. Unlike the [[Divine Moths]], whose immortality came at the cost of their magic, his kind has never possessed any affinity for such forces. Instead, they command energy itself, their bodies designed to absorb, manipulate, and weaponize it. Yet, for all their strength, the Gojira have always been bound by their own rigidity, their potential hindered by instinct and tradition. Even Godzilla, the mightiest of his lineage, spent eons relying on brute force rather than refining his abilities.
 
 The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a completely human form yet still possessing his powers, he was no longer an immovable colossus but something altogether different—smaller, yet paradoxically more adaptable than ever before. He has since relearned his power, no longer limited by his old body's constraints. Where once he was a walking apocalypse, he is now something far more precise, his mastery of energy sharpened by necessity.
 
@@ -43,7 +43,7 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 ### Titan Form
 
 > [!info] Titan Identity
-> - **Species:** *[[Titanus gojira]]*
+> - **Species:** *[[Writing/Antitheriomorphosis/Titanus Gojira]]*
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to [[Antitheriomorphosis]])

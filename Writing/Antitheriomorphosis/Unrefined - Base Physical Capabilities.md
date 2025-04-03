@@ -1,19 +1,9 @@
 ---
-character: "Godzilla/Godric Nordson"
-aliases: ["The King of the Monsters", "Alpha Paramount", "The Last Northerner"]
-profile_type: "Physical Capabilities Analysis"
-related_profiles: 
-  - "[[Godzilla - Identity & Appearance]]" 
-  - "[[Godzilla - Combat Evolution]]"
-  - "[[Godzilla - Domination of Energy]]"
-capability_categories: ["strength", "durability", "senses", "regeneration", "agility", "speed"]
-comparative_ranking: "Superior to all other Titans when Amplified"
-post_invasion_enhancement: "Approximately 150% baseline improvement"
-major_limitations: ["Human form constraints", "Energy dependencies", "Reduced scale"]
-last_updated: 2025-03-31
+aliases:
+  - "Unrefined - Godzilla: Base Physical Capabilities"
 ---
 
-# Base Physical Capabilities
+# Godzilla: Base Physical Capabilities
 
 ## Overview
 
@@ -23,7 +13,7 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
 
 ### Raw Power Output
 
-- **Baseline Level**: Capable of lifting approximately 30-40 tons without energy enhancement
+- **Baseline Level**: Capable of lifting approximately 50-80 tons without energy enhancement
 - **Force Generation**: Punches can shatter reinforced concrete and bend steel
 - **Grip Strength**: Can crush titanium alloys with bare hands
 - **Structural Integrity**: Body capable of exerting maximum force without self-injury
@@ -72,84 +62,24 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
 - **Toxin Resistance**: Complete immunity to all known poisons, venoms, and pathogenic threats
 - **Biological Sterilization**: His naturally radioactive body chemistry renders him immune to diseases
 - **Pain Tolerance**: Extraordinarily high threshold allowing continued function despite catastrophic injury
-  - Can withstand impalement through vital organs
-  - Remains combat-effective after limb loss
-  - Functions normally with multiple penetrating wounds
-  - Often responds to severe injuries with apparent amusement
-  - Limits unknown as no injury has yet triggered incapacitation through pain alone
-
-```cpp
-// Conceptual model of Godzilla's durability system
-class DurabilitySystem {
-private:
-    // Base durability value
-    double baseDurability;
-    
-    // Damage reduction by type (0.0 = no reduction, 1.0 = complete immunity)
-    std::map<DamageType, double> damageReduction{
-        {DamageType::Kinetic,      0.95},
-        {DamageType::Thermal,      0.98},
-        {DamageType::Cutting,      0.90},
-        {DamageType::Piercing,     0.85},
-        {DamageType::Electric,     0.97},
-        {DamageType::Chemical,     0.99},
-        {DamageType::Radiation,    1.00},  // Complete immunity
-        {DamageType::Psychic,      0.75},  // Relative vulnerability
-        {DamageType::Magical,      0.60}   // Significant vulnerability
-    };
-    
-    // Current amplification level
-    double amplificationLevel;
-    
-    // Damage tracking
-    struct DamageTracker {
-        std::map<BodyRegion, double> currentDamage;
-        
-        // Priority queue for healing order
-        std::priority_queue<BodyRegion, std::vector<BodyRegion>, CompareByImportance> healingPriority;
-    };
-    
-    DamageTracker damageState;
-
-public:
-    // Process incoming damage
-    double processDamage(double rawDamage, DamageType type, BodyRegion region) {
-        // Calculate reduced damage based on type
-        double reducedDamage = rawDamage * (1.0 - damageReduction[type]);
-        
-        // Apply amplification bonus if active
-        if (amplificationLevel > 0)
-            reducedDamage *= (1.0 - (amplificationLevel * 0.5));
-            
-        // Record damage to region
-        if (reducedDamage > 0) {
-            damageState.currentDamage[region] += reducedDamage;
-            damageState.healingPriority.push(region);
-        }
-        
-        return reducedDamage;
-    }
-    
-    // Check if still functional despite damage
-    bool isStillFunctional() const {
-        // Can function despite catastrophic damage to most systems
-        return damageState.currentDamage[BodyRegion::Brain] < lethalBrainDamage &&
-               damageState.currentDamage[BodyRegion::Heart] < lethalHeartDamage;
-    }
-};
-```
+    - Can withstand impalement through vital organs
+    - Remains combat-effective after limb loss
+    - Functions normally with multiple penetrating wounds
+    - Often responds to severe injuries with apparent amusement
+    - Limits unknown as no injury has yet triggered incapacitation through pain alone
 
 ## Enhanced Senses
 
 ### Visual System
 
 - **Range**: Can accurately distinguish details at distances up to 15 miles
-- **Clarity**: Processes visual information at approximately 10x human resolution
+- **Clarity**: Processes visual information at approximately 20x human resolution
 - **Light Adaptation**: Functions effectively in both extremely bright and near-total darkness
 - **Energy Perception**: Can see certain energy wavelengths invisible to humans
 - **X-Ray Vision**: Capable of seeing through most non-lead materials
 - **Telescopic Adjustment**: Can shift between normal and distance vision at will
 - **Microscopic Focus**: Can zoom to cellular-level detail when concentrating
+- %% TO ADD: Also possesses telescopic vision, capable of deeply appreciating outer space's magnificence and scale. His unique ability to see energy makes stargazing his favorite hobby. %%
 
 ### Auditory Capabilities
 
@@ -193,9 +123,6 @@ public:
 - **Initial Adaptation Trauma**: First moments as a human caused seizures from sensory overload until brain self-repaired
 - **“Zone” Protection**: Would have experienced similar overload during “The Zone” state had his energy control not been perfect
 
-> [!info] Sensory Processing Architecture
-> Godzilla's sensory system functions like a highly optimized signal processing network with adjustable filters, prioritization algorithms, and custom processing pathways. Unlike humans who primarily integrate sensory data in the neocortex, his entire nervous system participates in preliminary filtering and analysis before reaching conscious awareness.
-
 ## Regeneration
 
 ### Natural Healing
@@ -210,14 +137,14 @@ public:
 ### Enhanced Regeneration
 
 - **Activation Method**: Conscious direction of internal energy to damaged areas
-- **Restoration Rate**: Can accelerate healing up to 150x human rate when focused
+- **Restoration Rate**: Can accelerate healing up to 200x human rate when focused
 - **Cellular Reconstruction**: Complete replacement of damaged tissue with perfect copies
 - **Injury Memory**: Body “remembers” injuries and strengthens those areas
 - **Energy Cost**: Significant healing depletes energy reserves proportionally to damage repaired
 - **Amplification Connection**: Healing capabilities directly tied to his Atomic Amplification ability
-  - Improvements in one system consistently enhance the other
-  - Can allocate more resources to either function as needed
-  - Combined development creates synergistic improvements
+    - Improvements in one system consistently enhance the other
+    - Can allocate more resources to either function as needed
+    - Combined development creates synergistic improvements
 
 ### Regenerative Limitations
 
@@ -231,14 +158,14 @@ public:
 ### Biological Hazards
 
 - **Body Fluids**: All bodily fluids contain potentially lethal levels of radiation
-  - Sweat, saliva, blood, urine, and other excretions are toxic to unprotected humans
-  - Reproductive fluids particularly dangerous due to concentrated energy
-  - Physical intimacy with non-radiation-adapted beings potentially fatal
+    - Sweat, saliva, blood, urine, and other excretions are toxic to unprotected humans
+    - Reproductive fluids particularly dangerous due to concentrated energy
+    - Physical intimacy with non-radiation-adapted beings potentially fatal
 - **Proximity Effects**: Extended close contact can cause radiation sickness in humans
 - **Control Capability**: Can modulate radiation output to reduce ambient danger
-  - Lowest emission levels during relaxed states (golden eyes)
-  - Highest levels during combat or Amplification (intense blue eyes)
-  - Never completely radiation-free, merely reduced to “safer” levels
+    - Lowest emission levels during relaxed states (golden eyes)
+    - Highest levels during combat or Amplification (intense blue eyes)
+    - Never completely radiation-free, merely reduced to “safer” levels
 
 ### Environmental Impact
 
@@ -304,9 +231,9 @@ A high-speed movement technique currently being perfected:
 - **Requirements**: [[Atomic Amplification|Amplification]] at around half-strength
 - **Process**: Additional energy pumped into legs to enable movement
 - **Current Issues**:
-  1. **Triplet Shockwaves** - Three destructive energy releases during process
-  2. **Lack of Brakes** - Difficulty stopping momentum without crashing
-  3. **Targeting Imprecision** - Inconsistent arrival at intended destination
+    1. **Triplet Shockwaves** - Three destructive energy releases during process
+    2. **Lack of Brakes** - Difficulty stopping momentum without crashing
+    3. **Targeting Imprecision** - Inconsistent arrival at intended destination
 - **Training Method**: Uses Mothra's specialized scales for practice environment
 - **Future Potential**: Phasing through objects, extended range, reduced energy signature
 
@@ -333,9 +260,9 @@ A high-speed movement technique currently being perfected:
 - **Focus Techniques**: Can now selectively enhance or reduce specific sensory channels
 - **Integration Status**: Seamlessly processes multi-sensory information at all times
 - **Post-Invasion Improvement**: No longer experiences occasional sensory overload following the Xillien Invasion
-  - Either through optimization of neural pathways
-  - Or significantly increased threshold for overload
-  - Still prefers quiet spaces due to personal preference rather than necessity
+    - Either through optimization of neural pathways
+    - Or significantly increased threshold for overload
+    - Still prefers quiet spaces due to personal preference rather than necessity
 
 ## “The Zone” State Impact
 
@@ -350,14 +277,14 @@ Following his battle with Battra during the Xillien Invasion, Godzilla's physica
 
 ## Comparative Analysis
 
-| Capability | Rating Among Titans | Primary Advantage | Developmental Focus |
-|------------|---------------------|-------------------|---------------------|
-| Strength | Top Tier | Raw power output | Precision control |
-| Durability | Second at base, Unmatched when Amplified | Multi-layered defense | Vulnerability reduction |
-| Senses | Superior | Integration of all senses | Information filtering |
-| Regeneration | Exceptional | Energy-enhanced healing | Efficiency improvement |
-| Agility | Moderate to High | Balance and control | Ongoing enhancement |
-| Speed | Moderate to High | Burst capability | Atomic Stride development |
+|Capability|Rating Among Titans|Primary Advantage|Developmental Focus|
+|---|---|---|---|
+|Strength|Top Tier|Raw power output|Precision control|
+|Durability|Second at base, Unmatched when Amplified|Multi-layered defense|Vulnerability reduction|
+|Senses|Superior|Integration of all senses|Information filtering|
+|Regeneration|Exceptional|Energy-enhanced healing|Efficiency improvement|
+|Agility|Moderate to High|Balance and control|Ongoing enhancement|
+|Speed|Moderate to High|Burst capability|Atomic Stride development|
 
 > [!important] Kong Comparison
 > While Kong naturally excels in agility and skill-based combat, Godzilla has deliberately worked to improve these areas since the Antitheriomorphosis. The gap between their capabilities in these domains has narrowed, though Kong still maintains an edge in pure mobility and acrobatic fighting techniques.
@@ -373,7 +300,7 @@ Following his battle with Battra during the Xillien Invasion, Godzilla's physica
 
 ### Sensory Filtering
 
-- Constant management of overwhelming sensory input %% TO ADD: His eventual acclimation to human senses and his significant improvements have made this more of a gag for him than a point of concern.  %%
+- Constant management of overwhelming sensory input
 - Selective focus on relevant environmental information
 - Compensation for human-designed spaces not built for his sensory range
 - Preference for quiet environments to avoid “annoying people” rather than for sensory reset

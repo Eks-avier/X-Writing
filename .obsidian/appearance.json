@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Encore",
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "nativeMenus": false
 }

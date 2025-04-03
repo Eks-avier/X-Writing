@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Writing/Antitheriomorphosis/Characters/Godzilla ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.5041666666667,
   "linkStrength": 1,
   "linkDistance": 170,
-  "scale": 0.44804230381887955,
-  "close": false
+  "scale": 0.266087985283077,
+  "close": true
 }

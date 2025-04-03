@@ -20,35 +20,49 @@
             }
           },
           {
-            "id": "32a1d1014d94011e",
+            "id": "ad9365058e0535c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Identity & Appearance"
+              "title": "Dagon, the Last Northern Patriarch"
             }
           },
           {
-            "id": "c121e6ffca0f76c7",
+            "id": "7d1ae1630ddc5e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/llm-instructions.md",
+                "file": "Writing/Antitheriomorphosis/Northern Gojira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "llm-instructions"
+              "title": "Northern Gojira"
+            }
+          },
+          {
+            "id": "88e432e81212cb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Northern Faction"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,17 +126,7 @@
             }
           },
           {
-            "id": "d44f14a6b7943a78",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "2401ee2908a0e8d7",
+            "id": "d23a77c4a916c5a8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -130,13 +134,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cadfd59f2afca9ab",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -152,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Art of Commitments"
+              "title": "Backlinks for Northern Faction"
             }
           },
           {
@@ -171,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/llm-instructions.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from llm-instructions"
+              "title": "Outgoing links from Northern Faction"
             }
           },
           {
@@ -185,12 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Northern Faction"
             }
           },
           {
@@ -207,40 +223,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "d89a58d0ff53fc7e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "9f10ff5a72db5288",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/llm-instructions.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for llm-instructions"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,53 +239,52 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "2401ee2908a0e8d7",
+  "active": "88e432e81212cb86",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Titan Hierarchy and Formal Titles.md",
-    "Writing/Antitheriomorphosis/llm-instructions.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
-    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-    "Writing/Antitheriomorphosis/Characters/Kong, King of the Hollow Earth.md",
-    "Writing/Antitheriomorphosis/Characters/Kong, King of the Hollow Earth.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity/Cultural-Heritage.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
-    "Writing/Antitheriomorphosis/TITANUS ZILLA SPECIES PROFILE.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
-    "Writing/Antitheriomorphosis/Characters/Titans",
-    "Writing/Antitheriomorphosis/Titan Hierarchy System.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/4 - Settling In .md",
-    "Writing/Antitheriomorphosis/Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-    "Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/~syncthing~4 - Cultural & Species Background.md.tmp",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/7 - Combat Evolution.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/6 - Hierarchical Position & Authority.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/5 - Psychological Profile.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
+    "Writing/Antitheriomorphosis/Northern Gojira.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
-    "Writing/Antitheriomorphosis/GODZILLA'S ORIGIN & DEVELOPMENT.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/Basic Identity.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
+    "Writing/Antitheriomorphosis/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Resolving Northern Gojira Documentation Overlap .md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Creation Instructions",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-    "~syncthing~llm-instructions.md.tmp",
-    "Writing/Antitheriomorphosis/Obsidian Organization Guide.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Untitled",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira",
+    "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical/Current Status.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core/Limitless Adaptation.md",
+    "Titanus.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal",
+    "Writing/Antitheriomorphosis/Titans/Species/Core/Untitled",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core",
+    "Writing/Antitheriomorphosis/Titans/Species",
+    "Writing/Antitheriomorphosis/Titans",
+    "Cultural Heritage Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
+    "Writing/Antitheriomorphosis/Unrefined - Base Physical Capabilities.md",
+    "Writing/Unrefined - Base Physical Capabilities.md",
+    "Notepad.md",
+    "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
+    "Unrefined - Base Physical Capabilities.md",
+    "Writing/Antitheriomorphosis/Characters/.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/~syncthing~Physical Appearance .md.tmp",
+    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
-    "Tags/#atm+titan+titan-identity",
-    "Tags/#atm+titan+physical-traits",
-    "Tags/#atm+titan+personal-history",
-    "Tags/#atm+titan+northern_gojira+godzilla",
-    "Tags/#atm+titan",
     "Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",

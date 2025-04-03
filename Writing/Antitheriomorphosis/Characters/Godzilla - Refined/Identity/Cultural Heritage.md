@@ -132,7 +132,7 @@ This communication heritage explains Godzilla's naturally taciturn human communi
 Despite being the last representative of Northern *Titanus gojira*, Godzilla's cultural knowledge is incomplete due to several factors:
 
 - **Single-Parent Upbringing**: Raised solely by his father after mother's death, missing feminine perspective on traditions
-- **Compressed Education**: Dagon accelerated traditional 15-year teaching timeline due to necessity
+- **Compressed Education**: Dagon accelerated traditional 12-year teaching timeline due to necessity
 - **Survival Focus**: Practical knowledge prioritized over cultural history and traditions
 - **Incomplete Directive Transmission**: The Directive of Heaven only partially conveyed
 - **Early Separation**: Lost direct cultural connection when Dagon journeyed south
@@ -156,6 +156,7 @@ Despite incomplete cultural transmission, both parents left profound imprints on
   - Certain personality elements suggesting greater emotional capacity
   - Physical coloration distinctly different from father
   - Connection to her memory maintained through physical resemblance
+  - %% TO ADD: Godzilla's temper was derived from his mother. Most assumed it was his father's—even Godzilla assumed it was his dad's, but Dagon would eventually prove Godzilla's assumption wrong when they would meet millions of years later in the present.  %%
 
 The combined influence created a foundation of Northern values infused with uniquely personal elements. Dagon's obvious affection despite his inability to express it directly shaped Godzilla's understanding that actions matter more than words—a principle that continues to guide his leadership approach.
 

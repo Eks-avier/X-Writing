@@ -62,7 +62,7 @@ The story of Godzilla begins before his hatching, with parents who would shape h
 ### Birth & Early Years
 
 - **Birth Period**: Approximately 250 million years ago
-- **Species**: _[[Titanus gojira]]_, Northern race (Northerner)
+- **Species**: _[[Writing/Antitheriomorphosis/Titanus Gojira]]_, Northern race (Northerner)
 - **Physical Inheritance**:
     - Father's visage and build (though slightly thinner and taller)
     - Father's dorsal fin shape

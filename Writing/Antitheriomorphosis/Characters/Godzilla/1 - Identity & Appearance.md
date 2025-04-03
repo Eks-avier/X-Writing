@@ -95,7 +95,7 @@ Godzilla's body undergoes subtle seasonal changes related to his hibernation cyc
 
 > [!info] Titan Identity
 >
-> - **Species:** _[[Titanus gojira]]_
+> - **Species:** _[[Writing/Antitheriomorphosis/Titanus Gojira]]_
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to Antitheriomorphosis)

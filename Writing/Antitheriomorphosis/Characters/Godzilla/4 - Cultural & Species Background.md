@@ -3,7 +3,7 @@ section: Cultural & Species Background
 character: Godzilla
 human_name: Godric Nordson
 related:
-  - "[[Titanus gojira]]"
+  - "[[Writing/Antitheriomorphosis/Titanus Gojira]]"
   - "[[Northerner]]"
   - "[[The North]]"
   - "[[The Directive of Heaven]]"
