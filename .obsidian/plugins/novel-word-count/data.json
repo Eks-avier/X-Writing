@@ -321,25 +321,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 496,
+      "wordCount": 485,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6533333333333333,
-      "characterCount": 4723,
-      "nonWhitespaceCharacterCount": 4107,
-      "readingTimeInMinutes": 1.8716981132075472,
-      "linkCount": 26,
-      "embedCount": 2,
+      "pageCount": 1.6166666666666667,
+      "characterCount": 5025,
+      "nonWhitespaceCharacterCount": 4119,
+      "readingTimeInMinutes": 1.830188679245283,
+      "linkCount": 5,
+      "embedCount": 9,
       "aliases": [
         "Gojira",
-        "Northern Gojira",
-        "Southern Gojira",
-        "Eastern Gojira",
-        "Western Gojira"
+        "Earth's Apex Species"
       ],
       "createdDate": 1743664862702,
-      "modifiedDate": 1743679965286,
-      "sizeInBytes": 5243,
+      "modifiedDate": 1743698521265,
+      "sizeInBytes": 5589,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.6533333333333333,
@@ -349,240 +346,32 @@
       },
       "frontmatter": {
         "title": "Titanus gojira",
-        "alias": [
+        "aliases": [
           "Gojira",
-          "Northern Gojira",
-          "Southern Gojira",
-          "Eastern Gojira",
-          "Western Gojira"
+          "Earth's Apex Species"
         ],
-        "component_type": "species",
-        "component_category": "titan_biology",
-        "related_entities": [
-          "[[Godzilla]]",
-          "[[Titanus zilla]]",
-          "[[Titanus jinshin-mushi|MUTO]]"
+        "species_classification": "Ascendant",
+        "lineage_type": "Primordial Radiation Processor",
+        "status": "Near-extinct",
+        "living_representatives": [
+          "[[Godzilla, the King of the Monsters]]"
         ],
-        "species_status": "Near-extinct",
-        "last_pure_member": "[[Godzilla]]",
         "core_abilities": [
           "[[Limitless Adaptation]]",
           "[[Domination of Energy]]"
         ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/species/classification/ascendant_line"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1726,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.753333333333333,
-      "characterCount": 15149,
-      "nonWhitespaceCharacterCount": 13182,
-      "readingTimeInMinutes": 6.513207547169811,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665663047,
-      "modifiedDate": 1743682518924,
-      "sizeInBytes": 16170,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.753333333333333,
-        "wordCount": 1726,
-        "characterCount": 15149,
-        "nonWhitespaceCharacterCount": 13182
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Northern Faction",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "faction",
-        "component_category": "regional_variation",
-        "faction_name": "Northern Gojira",
-        "territory": "Northern hemisphere polar regions extending into boreal forests and cold oceans",
-        "extinction_timeframe": "Latest surviving faction",
-        "distinctive_traits": [
-          "White dorsal fins with crystalline structure",
-          "Cooler-toned scales with silvery undertones",
-          "Broader build with enhanced insulation",
-          "Superior energy conservation",
-          "Strict hierarchical organization"
-        ],
-        "related_documents": [
-          {
-            "[[Northern Culture]]": "Cultural practices and social structures"
-          },
-          {
-            "[[Southern Faction]]": "Contrasting adaptations and philosophy"
-          },
-          {
-            "[[Eastern Faction]]": "Historical territorial disputes"
-          },
-          {
-            "[[Western Faction]]": "Occasional cooperative hunting"
-          },
-          {
-            "[[Godzilla]]": "Last surviving member"
-          }
+        "related_species": [
+          "[[Titanus zilla]]",
+          "[[Titanus jinshin-mushi|MUTO]]"
         ],
         "tags": [
           "atm",
           "atm/species/titanus_gojira",
-          "atm/faction/northern"
+          "atm/lineage/ascendant",
+          "atm/status/near_extinct"
         ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4324,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.413333333333334,
-      "characterCount": 37262,
-      "nonWhitespaceCharacterCount": 32449,
-      "readingTimeInMinutes": 16.316981132075473,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743669559315,
-      "modifiedDate": 1743690362059,
-      "sizeInBytes": 38014,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 14.413333333333334,
-        "wordCount": 4324,
-        "characterCount": 37258,
-        "nonWhitespaceCharacterCount": 32445
-      },
-      "frontmatter": {
-        "title": "Northern Titanus gojira: Cultural Profile",
-        "parent": "[[Titanus Gojira Species Profile]]",
-        "component_type": "culture",
-        "component_category": "titan_culture",
-        "related_entities": [
-          "[[Godzilla, the King of the Monsters]]",
-          "[[Dagon, the Last Northern Patriarch]]"
-        ],
-        "faction": "Northern",
-        "territory": "Northern Hemisphere",
-        "cultural_emphasis": "Family bonds",
-        "distinctive_traits": [
-          "Whiter dorsal fins",
-          "Cooler-toned scales",
-          "Cold environment adaptation",
-          "Familial prioritization"
-        ],
-        "tags": [
-          "atm",
-          "atm/culture/northern_gojira",
-          "atm/titan/northern_faction"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical/Current Status.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1460,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.866666666666666,
-      "characterCount": 12210,
-      "nonWhitespaceCharacterCount": 10587,
-      "readingTimeInMinutes": 5.509433962264151,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665889602,
-      "modifiedDate": 1743679569776,
-      "sizeInBytes": 12742,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.866666666666666,
-        "wordCount": 1460,
-        "characterCount": 12210,
-        "nonWhitespaceCharacterCount": 10587
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Current Status",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "historical",
-        "component_category": "extinction_status",
-        "species_status": "Near-extinct",
-        "extinction_cause": "Specialized MUTO parasitism",
-        "extinction_timeframe": "Progressive decline over millions of years",
-        "related_documents": [
-          "[[Godzilla Legacy]]",
-          "[[Titanus Zilla Relationship]]",
-          "[[Decline and Extinction]]"
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/history/extinction"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core/Limitless Adaptation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1228,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.093333333333334,
-      "characterCount": 10630,
-      "nonWhitespaceCharacterCount": 9262,
-      "readingTimeInMinutes": 4.633962264150943,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665337416,
-      "modifiedDate": 1743679569738,
-      "sizeInBytes": 11198,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.093333333333334,
-        "wordCount": 1228,
-        "characterCount": 10630,
-        "nonWhitespaceCharacterCount": 9262
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Limitless Adaptation",
-        "parent": "[[_Titanus-Gojira-Hub]]",
-        "component_type": "ability",
-        "component_category": "biological_capability",
-        "related_abilities": [
-          "[[Energy-Domination]]"
-        ],
-        "ability_manifestations": [
-          "Cellular Reprogramming",
-          "Tissue Transmutation",
-          "Neural Plasticity",
-          "Metabolic Flexibility",
-          "Regenerative Direction",
-          "Environmental Integration",
-          "Challenge Response"
-        ],
-        "ability_status": "Fully active in Godzilla; extinct in wider species",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/ability/adaptation"
-        ]
+        "created": "2025-04-05",
+        "last_modified": "2025-04-05"
       }
     },
     "Writing/Antitheriomorphosis/Titan Hierarchy System.md": {
@@ -4291,6 +4080,131 @@
       "createdDate": 1743693460974,
       "modifiedDate": 1743694469155,
       "sizeInBytes": 11600,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1269,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.23,
+      "characterCount": 11190,
+      "nonWhitespaceCharacterCount": 9746,
+      "readingTimeInMinutes": 4.788679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665337416,
+      "modifiedDate": 1743679569738,
+      "sizeInBytes": 11198,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1498,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.993333333333333,
+      "characterCount": 12716,
+      "nonWhitespaceCharacterCount": 11036,
+      "readingTimeInMinutes": 5.652830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665889602,
+      "modifiedDate": 1743679569776,
+      "sizeInBytes": 12742,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Culture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4378,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.593333333333334,
+      "characterCount": 37880,
+      "nonWhitespaceCharacterCount": 32985,
+      "readingTimeInMinutes": 16.52075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743669559315,
+      "modifiedDate": 1743690362059,
+      "sizeInBytes": 38014,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Faction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1816,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.053333333333334,
+      "characterCount": 16156,
+      "nonWhitespaceCharacterCount": 14059,
+      "readingTimeInMinutes": 6.8528301886792455,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665663047,
+      "modifiedDate": 1743682518924,
+      "sizeInBytes": 16170,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743698775974,
+      "modifiedDate": 1743698775974,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

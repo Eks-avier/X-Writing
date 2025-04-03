@@ -25,58 +25,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titanus Gojira"
-            }
-          },
-          {
-            "id": "60515b9c5c36b463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Northern Faction"
-            }
-          },
-          {
-            "id": "8c531e0f4a7d0dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Information on the Northern Gojira"
-            }
-          },
-          {
-            "id": "c08d6327f56a5c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Species Profile Creation Instructions"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485,
-    "collapsed": true
+    "width": 485
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -180,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Northern Faction"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -199,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Northern Culture"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -213,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Northern Culture"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -238,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,9 +215,20 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "8c531e0f4a7d0dae",
+  "active": "a41a84303f3c4149",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Untitled.md",
+    "Society/Factional-Divisions.md",
+    "Society",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Godzilla.md",
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/History/Untitled.md",
+    "titan",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Faction.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
+    "Writing/Antitheriomorphosis/Characters/Anguirus, the Stalwart Vanguard.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Titan Species Profile Instruction Set.md",
     "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Integral Character Themes.md",
@@ -268,14 +236,10 @@
     "Tags/#atm+species+classification+ascendant_line",
     "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
     "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Culture.md",
     "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Physical Appearance.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Unrefined",
     "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
@@ -287,15 +251,8 @@
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Untitled",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical/Current Status.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core/Limitless Adaptation.md",
-    "Titanus.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal",
-    "Writing/Antitheriomorphosis/Titans/Species/Core/Untitled",
-    "Cultural Heritage Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
