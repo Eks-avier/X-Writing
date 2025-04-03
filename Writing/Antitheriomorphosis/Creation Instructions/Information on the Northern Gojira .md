@@ -9,28 +9,34 @@
 	* Females are prohibited.
 	* Males who lack at least a mate, territories, or offspring are prohibited.
 * The betrothal trial works as follows:
-   * Only offspring that are equivalent to human 10-12 year olds may be eligible. Any less or more and the leadership will be involved.
+   * Only offspring that are equivalent to human 10-12 year olds may be eligible. 
+	   * Any less than that and the family will be investigated.
+	   * Any more and the council will intervene.
    * A match will be done by both participants' parents.
    * A male will be matched with the female—neither may refuse.
-   * Both participants' fathers will decide on which of them will loan the territory necessary for the trial. Often it is the male's.
-   * If neither father has been able to reach a decision, another match will be done *effective immediately* **or***** ***the leadership gets involved.
-   * Once the territory has begun, the male and female will be tasked to survive without any sort of *direct* supervision from their parents.
-   * While other races have their own rituals, unique to the North is that the males will do everything laborious.
+   * Both participants' fathers will decide which of them will loan the territory necessary for the trial. Often it is the male's father.
+	   * If neither father has been able to reach a decision, another match will be done *effective immediately* **or*** ***the leadership gets involved***.
+   * Once the territory has been established, the male and female will be tasked to survive without any sort of *direct* supervision from their parents.
+	   * The parent may not intervenes, even threats that may be considered above both participants' capabilities  
+	   * Should the children truly be incapable of defending themselves, only then will the parents intervene.
+	   * Essentially, the parents will obfuscate their presence or sit at the borders of the trial territory. 
+   * While other races have their own rituals, unique to the North is that the males will do everything laborious, even within the domain of the female—a sort of chivalry but this is entirely cultural and not biological, merely an expression that differs from male to male.
    * Male and female *must* learn to work together to survive.
-   * Initially, it is the duty of both male and female to build their first shelter.
-   * Once shelter has been developed, the male will often seek to expand it by searching for viable space. If obstacles whether in the shape of terrain or living organism is in the way, the male must do everything to secure the necessary resources.
-   * The female must now establish the way 'home' appears, picking up on the male's expansion. As the male expands horizons, the females must ensure everything is stable, safe, and secure. She is in charge of defense should the male find himself far from the shelter.
-   * Everything that has to do with gathering resources *outside *the established territory is the male's job.
+	   * Initially, it is the duty of both male and female to build their first shelter.
+	   * Once shelter has been developed, the male will often seek to expand it by searching for viable space. If obstacles whether in the shape of terrain or living organism is in the way, the male must do everything to secure the necessary resources.
+	   * The female must now establish the manner in how 'home' appears, picking up on the male's expansion. As the male expands horizons, the females must ensure everything is stable, safe, and secure. She is in charge of defense should the male find himself far from the shelter.
+   * Everything that has to do with gathering resources *outside* the established territory is the male's job.
    * Everything that has to do with gathering resources *within* the territory is the female's job.
-   * On top of their primary duties, they must also find the time to bond and form a connection, a relationship.
-   * This will continue until their the human-equivalent of 18 years old.
-* Provided that the male and female form a strong enough bond with each other and are committed to do so indefinitely, then they will be “married”.
+   * On top of their primary duties, they must also find the time to bond and form a genuine relationship, often the shared strife serves as its catalyst.
+   * This trial will continue until their the human-equivalent of 18 years old.
+* Provided that the male and female form a strong enough bond with each other and are committed to have one indefinitely, then they will be “married”.
 * Once married, cannot be broken. No divorce, no annulment, **nothing**.
 * They will not just be **one whole** but their entire families will be whole as well.
    * Mothers and fathers on either side are simply called and treated as mother and father.
    * Any siblings are also their siblings
    * The siblings' mates are now their siblings.
-   * They are now **one**, now and forever.
+   * Grandparents are always welcome, though they seldom appear due as they seek to avoid packing up in one place.
+   * They are **one**, now and forever.
    * The territory that was loaned as well as the ones the male conquered beyond are his and his new mate's initial territory.
 * Only after they are considered bonded forever will they be allowed to reproduce.
    * They cannot reproduce during the trials, that is extremely taboo.
