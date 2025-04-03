@@ -201,4 +201,4 @@ This final chapter of *Titanus gojira* extinction demonstrates both the exceptio
 - [[Energy Communication]] - Biological basis for Northern communication efficiency
 - [[Southern Faction]] - Contrasting adaptations and physiological approaches
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document](Titanus%20Gojira.md)
