@@ -5,7 +5,7 @@ component_type: "biology"
 component_category: "evolutionary"
 related_components:
   - "[[Limitless Adaptation]]"
-  - "[[Domination of Energy]]"
+  - "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy|Domination of Energy]]"
   - "[[Physical Characteristics]]"
 manifestations:
   - "Radiation Absorption Cells"
