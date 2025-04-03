@@ -92,144 +92,6 @@
         "nonWhitespaceCharacterCount": 4253
       }
     },
-    "Writing/Antitheriomorphosis/Unrefined - Base Physical Capabilities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2032,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.773333333333333,
-      "characterCount": 17477,
-      "nonWhitespaceCharacterCount": 15057,
-      "readingTimeInMinutes": 7.667924528301887,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "Unrefined - Godzilla: Base Physical Capabilities"
-      ],
-      "createdDate": 1743623415299,
-      "modifiedDate": 1743623698138,
-      "sizeInBytes": 17600,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.773333333333333,
-        "wordCount": 2032,
-        "characterCount": 17477,
-        "nonWhitespaceCharacterCount": 15057
-      },
-      "frontmatter": {
-        "aliases": [
-          "Unrefined - Godzilla: Base Physical Capabilities"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/TITANUS ZILLA SPECIES PROFILE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 241,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8033333333333333,
-      "characterCount": 1904,
-      "nonWhitespaceCharacterCount": 1625,
-      "readingTimeInMinutes": 0.909433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055076,
-      "modifiedDate": 1743524146450,
-      "sizeInBytes": 1918,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8033333333333333,
-        "wordCount": 241,
-        "characterCount": 1904,
-        "nonWhitespaceCharacterCount": 1625
-      }
-    },
-    "Writing/Antitheriomorphosis/Titanus Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9986,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 33.28666666666667,
-      "characterCount": 81239,
-      "nonWhitespaceCharacterCount": 70499,
-      "readingTimeInMinutes": 37.68301886792453,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "Titanus gojira",
-        "'Titanus gojira' Species Profile"
-      ],
-      "createdDate": 1743616456917,
-      "modifiedDate": 1743628110925,
-      "sizeInBytes": 81927,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 33.28666666666667,
-        "wordCount": 9986,
-        "characterCount": 81239,
-        "nonWhitespaceCharacterCount": 70499
-      },
-      "frontmatter": {
-        "title": "'Titanus gojira' Species Profile",
-        "parent": "[[Titan Species]]",
-        "alias": [
-          "Titanus gojira",
-          "'Titanus gojira' Species Profile"
-        ],
-        "component_type": "species",
-        "component_category": "titan_biology",
-        "related_entities": [
-          "[[Godzilla]]",
-          "[[Titanus zilla]]",
-          "[[MUTO]]"
-        ],
-        "species_status": "Near-extinct",
-        "last_pure_member": "Godzilla",
-        "core_abilities": [
-          "Limitless Adaptation",
-          "Domination of Energy"
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/species/classification/ascendant_line"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/TITANUS GOJIRA SPECIES & CULTURE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 352,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1733333333333333,
-      "characterCount": 3045,
-      "nonWhitespaceCharacterCount": 2623,
-      "readingTimeInMinutes": 1.3283018867924528,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055074,
-      "modifiedDate": 1742232860347,
-      "sizeInBytes": 3061,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1733333333333333,
-        "wordCount": 352,
-        "characterCount": 3045,
-        "nonWhitespaceCharacterCount": 2623
-      }
-    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -358,19 +220,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3640,
+      "wordCount": 3670,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.133333333333333,
-      "characterCount": 31008,
-      "nonWhitespaceCharacterCount": 26975,
-      "readingTimeInMinutes": 13.735849056603774,
+      "pageCount": 12.233333333333333,
+      "characterCount": 31247,
+      "nonWhitespaceCharacterCount": 27177,
+      "readingTimeInMinutes": 13.849056603773585,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743669559315,
-      "modifiedDate": 1743679381780,
-      "sizeInBytes": 31656,
+      "modifiedDate": 1743679527588,
+      "sizeInBytes": 31895,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 12.133333333333333,
@@ -1096,68 +958,6 @@
         "wordCount": 1815,
         "characterCount": 18945,
         "nonWhitespaceCharacterCount": 15841
-      }
-    },
-    "Writing/Antitheriomorphosis/Northern Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4127,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.756666666666666,
-      "characterCount": 34979,
-      "nonWhitespaceCharacterCount": 30403,
-      "readingTimeInMinutes": 15.573584905660377,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": [
-        "Northern Titanus gojira: Cultural Profile",
-        "Northern Titanus gojira",
-        "Northerners",
-        "Northerner"
-      ],
-      "createdDate": 1743620988893,
-      "modifiedDate": 1743679244979,
-      "sizeInBytes": 35828,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.756666666666666,
-        "wordCount": 4127,
-        "characterCount": 34980,
-        "nonWhitespaceCharacterCount": 30404
-      },
-      "frontmatter": {
-        "title": "Northern Titanus gojira: Cultural Profile",
-        "parent": "[[Writing/Antitheriomorphosis/Titanus Gojira|Titanus gojira]]",
-        "alias": [
-          "Northern Titanus gojira: Cultural Profile",
-          "Northern Titanus gojira",
-          "Northerners",
-          "Northerner"
-        ],
-        "component_type": "culture",
-        "component_category": "titan_culture",
-        "related_entities": [
-          "[[Godzilla, the King of the Monsters]]",
-          "[[Dagon, the Last Northern Patriarch]]"
-        ],
-        "faction": "Northern",
-        "territory": "Northern Hemisphere",
-        "cultural_emphasis": "Family bonds",
-        "distinctive_traits": [
-          "Whiter dorsal fins",
-          "Cooler-toned scales",
-          "Cold environment adaptation",
-          "Familial prioritization"
-        ],
-        "tags": [
-          "atm",
-          "atm/culture/northern_gojira",
-          "atm/titan/northern_faction"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
       }
     },
     "Writing/Antitheriomorphosis/Main Alternate Universe.md": {
@@ -2154,31 +1954,6 @@
         "wordCount": 1440,
         "characterCount": 8217,
         "nonWhitespaceCharacterCount": 6602
-      }
-    },
-    "Writing/Antitheriomorphosis/GODZILLA'S ORIGIN & DEVELOPMENT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 280,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9333333333333333,
-      "characterCount": 2221,
-      "nonWhitespaceCharacterCount": 1898,
-      "readingTimeInMinutes": 1.0566037735849056,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055039,
-      "modifiedDate": 1742232822686,
-      "sizeInBytes": 2235,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9333333333333333,
-        "wordCount": 280,
-        "characterCount": 2221,
-        "nonWhitespaceCharacterCount": 1898
       }
     },
     "Writing/Antitheriomorphosis/Exceptional.md": {
@@ -4297,6 +4072,193 @@
         "wordCount": 52,
         "characterCount": 348,
         "nonWhitespaceCharacterCount": 291
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.756666666666666,
+      "characterCount": 34979,
+      "nonWhitespaceCharacterCount": 30403,
+      "readingTimeInMinutes": 15.573584905660377,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "Northern Titanus gojira: Cultural Profile",
+        "Northern Titanus gojira",
+        "Northerners",
+        "Northerner"
+      ],
+      "createdDate": 1743620988893,
+      "modifiedDate": 1743679569936,
+      "sizeInBytes": 35838,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Northern Titanus gojira: Cultural Profile",
+        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira|Titanus gojira]]",
+        "alias": [
+          "Northern Titanus gojira: Cultural Profile",
+          "Northern Titanus gojira",
+          "Northerners",
+          "Northerner"
+        ],
+        "component_type": "culture",
+        "component_category": "titan_culture",
+        "related_entities": [
+          "[[Godzilla, the King of the Monsters]]",
+          "[[Dagon, the Last Northern Patriarch]]"
+        ],
+        "faction": "Northern",
+        "territory": "Northern Hemisphere",
+        "cultural_emphasis": "Family bonds",
+        "distinctive_traits": [
+          "Whiter dorsal fins",
+          "Cooler-toned scales",
+          "Cold environment adaptation",
+          "Familial prioritization"
+        ],
+        "tags": [
+          "atm",
+          "atm/culture/northern_gojira",
+          "atm/titan/northern_faction"
+        ],
+        "created": "2025-04-03",
+        "last_modified": "2025-04-03"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10028,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 33.42666666666667,
+      "characterCount": 81775,
+      "nonWhitespaceCharacterCount": 70961,
+      "readingTimeInMinutes": 37.841509433962266,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743616456917,
+      "modifiedDate": 1743628110925,
+      "sizeInBytes": 81927,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 280,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9333333333333333,
+      "characterCount": 2221,
+      "nonWhitespaceCharacterCount": 1898,
+      "readingTimeInMinutes": 1.0566037735849056,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055039,
+      "modifiedDate": 1742232822686,
+      "sizeInBytes": 2235,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 352,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1733333333333333,
+      "characterCount": 3045,
+      "nonWhitespaceCharacterCount": 2623,
+      "readingTimeInMinutes": 1.3283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055074,
+      "modifiedDate": 1742232860347,
+      "sizeInBytes": 3061,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/TITANUS ZILLA SPECIES PROFILE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 241,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8033333333333333,
+      "characterCount": 1904,
+      "nonWhitespaceCharacterCount": 1625,
+      "readingTimeInMinutes": 0.909433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055076,
+      "modifiedDate": 1743524146450,
+      "sizeInBytes": 1918,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2038,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.793333333333333,
+      "characterCount": 17548,
+      "nonWhitespaceCharacterCount": 15117,
+      "readingTimeInMinutes": 7.690566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743623415299,
+      "modifiedDate": 1743623698138,
+      "sizeInBytes": 17600,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

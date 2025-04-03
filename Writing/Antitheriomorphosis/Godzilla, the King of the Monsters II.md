@@ -21,7 +21,7 @@ tags:
 
 ## Overview
 
-The Alpha Paramount of Earth's Titans, Godzilla is the last pure _[[Writing/Antitheriomorphosis/Titanus Gojira]]_ of the Northern lineage and the undisputed ruler of the Titan hierarchy. Possessing supreme control over energy and limitless adaptability, he has maintained Earth's balance for millions of years. Following the [[Writing/Antitheriomorphosis/Antitheriomorphosis]] in 2020, he now exists in human form while retaining all his abilities. Despite his intimidating power, he has evolved from a force of destruction to a calculated protector who balances supreme authority with growing personal connections. His fighting philosophy emphasizes efficiency, precision, and overwhelming force applied with surgical accuracy.
+The Alpha Paramount of Earth's Titans, Godzilla is the last pure _[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]_ of the Northern lineage and the undisputed ruler of the Titan hierarchy. Possessing supreme control over energy and limitless adaptability, he has maintained Earth's balance for millions of years. Following the [[Writing/Antitheriomorphosis/Antitheriomorphosis]] in 2020, he now exists in human form while retaining all his abilities. Despite his intimidating power, he has evolved from a force of destruction to a calculated protector who balances supreme authority with growing personal connections. His fighting philosophy emphasizes efficiency, precision, and overwhelming force applied with surgical accuracy.
 
 ## Basic Profile
 

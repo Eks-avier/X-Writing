@@ -444,6 +444,7 @@ TO CONSIDER:
 - Attitude towards death
 - Relationships with other Titan species
 - Rituals in case of reproductive failure
-- 
-
+- Attitude towards reproductive failure
+- Orphaned offspring
+- Conflict resolution methods
 %%

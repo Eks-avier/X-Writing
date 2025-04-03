@@ -43,7 +43,7 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 ### Titan Form
 
 > [!info] Titan Identity
-> - **Species:** *[[Writing/Antitheriomorphosis/Titanus Gojira]]*
+> - **Species:** *[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]*
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to [[Antitheriomorphosis]])

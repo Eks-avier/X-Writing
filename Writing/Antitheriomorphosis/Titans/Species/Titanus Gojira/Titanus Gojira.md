@@ -89,7 +89,7 @@ SORT extinction_timeframe ASC
 
 ## Related Entities
 
-- [[Godzilla]] - Last pure member of the species
+- [[Godzilla, the King of the Monsters]] - Last pure member of the species
 - [[Titanus zilla]] - Hybrid descendant with partial genetic legacy
 - [[Titanus jinshin-mushi|MUTO]] - Specialized parasite evolved to target the species
 

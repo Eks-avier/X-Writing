@@ -1,6 +1,6 @@
 ---
 title: "Titanus gojira: Current Status"
-parent: "[[Writing/Antitheriomorphosis/Titanus Gojira]]"
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
 component_type: historical
 component_category: extinction_status
 species_status: Near-extinct

@@ -1,23 +1,23 @@
 ---
 title: "Titanus gojira: Northern Faction"
-parent: "[[Titanus Gojira]]"
-component_type: "faction"
-component_category: "regional_variation"
-faction_name: "Northern Gojira"
-territory: "Northern hemisphere polar regions extending into boreal forests and cold oceans"
-extinction_timeframe: "Latest surviving faction"
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: faction
+component_category: regional_variation
+faction_name: Northern Gojira
+territory: Northern hemisphere polar regions extending into boreal forests and cold oceans
+extinction_timeframe: Latest surviving faction
 distinctive_traits:
-  - "White dorsal fins with crystalline structure"
-  - "Cooler-toned scales with silvery undertones"
-  - "Broader build with enhanced insulation"
-  - "Superior energy conservation"
-  - "Strict hierarchical organization"
+  - White dorsal fins with crystalline structure
+  - Cooler-toned scales with silvery undertones
+  - Broader build with enhanced insulation
+  - Superior energy conservation
+  - Strict hierarchical organization
 related_documents:
-  - "[[Northern Culture]]": "Cultural practices and social structures"
-  - "[[Southern Faction]]": "Contrasting adaptations and philosophy"
-  - "[[Eastern Faction]]": "Historical territorial disputes"
-  - "[[Western Faction]]": "Occasional cooperative hunting"
-  - "[[Godzilla]]": "Last surviving member"
+  - "[[Northern Culture]]": Cultural practices and social structures
+  - "[[Southern Faction]]": Contrasting adaptations and philosophy
+  - "[[Eastern Faction]]": Historical territorial disputes
+  - "[[Western Faction]]": Occasional cooperative hunting
+  - "[[Godzilla]]": Last surviving member
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -203,4 +203,4 @@ This final chapter of *Titanus gojira* extinction demonstrates both the exceptio
 - [[Energy Communication]] - Biological basis for Northern communication efficiency
 - [[Southern Faction]] - Contrasting adaptations and physiological approaches
 
-[Return to Hub Document](Titanus%20Gojira.md)
+[Return to Hub Document](Writing/Antitheriomorphosis/Unrefined/Titanus%20Gojira.md)

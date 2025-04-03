@@ -1,6 +1,6 @@
 ---
 title: "Northern Titanus gojira: Cultural Profile"
-parent: "[[Writing/Antitheriomorphosis/Titanus Gojira|Titanus gojira]]"
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira|Titanus gojira]]"
 alias:
   - "Northern Titanus gojira: Cultural Profile"
   - Northern Titanus gojira

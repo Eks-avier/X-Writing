@@ -179,4 +179,4 @@ This relationship explains why hybridization inevitably diminished both abilitie
 - [[Reproductive Biology]] - Transgenerational transfer of adaptations
 - [[MUTO Relationship]] - Specialized adversaries that challenged adaptive capabilities
 
-[Return to Hub Document](Writing/Antitheriomorphosis/Titanus%20Gojira.md)
+[Return to Hub Document](Writing/Antitheriomorphosis/Unrefined/Titanus%20Gojira.md)
