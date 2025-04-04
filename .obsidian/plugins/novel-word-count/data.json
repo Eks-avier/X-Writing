@@ -4498,57 +4498,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/# Regenerative Systems.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2303,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.676666666666667,
-      "characterCount": 21091,
-      "nonWhitespaceCharacterCount": 17931,
-      "readingTimeInMinutes": 8.690566037735849,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743708663081,
-      "modifiedDate": 1743708841941,
-      "sizeInBytes": 21685,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "title": "Regenerative Systems",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "physiological",
-        "related_components": [
-          "[[Limitless Adaptation]]",
-          "[[Domination of Energy]]",
-          "[[Physical Characteristics]]"
-        ],
-        "manifestations": [
-          "Cellular Reconstruction",
-          "Adaptive Healing",
-          "Energy Integration",
-          "Scar-Free Restoration",
-          "Continuous Renewal"
-        ],
-        "current_status": "Active in remaining specimen",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/physiological"
-        ],
-        "created": "2025-04-07",
-        "last_modified": "2025-04-07"
-      }
-    },
     "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4566,6 +4515,31 @@
       "createdDate": 1743757115021,
       "modifiedDate": 1743712881801,
       "sizeInBytes": 15588,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Regenerative Systems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2345,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.816666666666666,
+      "characterCount": 21651,
+      "nonWhitespaceCharacterCount": 18415,
+      "readingTimeInMinutes": 8.849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743708663081,
+      "modifiedDate": 1743708841941,
+      "sizeInBytes": 21685,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
