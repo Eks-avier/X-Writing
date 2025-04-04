@@ -4648,31 +4648,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 125,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4166666666666667,
-      "characterCount": 1205,
-      "nonWhitespaceCharacterCount": 1047,
-      "readingTimeInMinutes": 0.4716981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743766406799,
-      "modifiedDate": 1743766406800,
-      "sizeInBytes": 1205,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
     }
   }
 }
