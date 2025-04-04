@@ -4648,6 +4648,81 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Energy Communication.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1537,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.123333333333333,
+      "characterCount": 14615,
+      "nonWhitespaceCharacterCount": 12386,
+      "readingTimeInMinutes": 5.8,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743767141898,
+      "modifiedDate": 1743767157421,
+      "sizeInBytes": 15180,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Energy Communication",
+        "parent": "[[Titanus Gojira]]",
+        "component_type": "society",
+        "component_category": "communication",
+        "related_components": [
+          "[[Domination of Energy]]",
+          "[[Dorsal Fin Structure]]",
+          "[[Factional Divisions]]"
+        ],
+        "manifestations": [
+          "Energy Signatures",
+          "Multi-dimensional Language",
+          "Factional Dialects",
+          "Knowledge Transmission"
+        ],
+        "current_status": "Limited to Godzilla and Divine Moths",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/society/communication"
+        ],
+        "created": "2025-04-07",
+        "last_modified": "2025-04-07"
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Universal Hierarchy of Priorities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743767185871,
+      "modifiedDate": 1743767185871,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
