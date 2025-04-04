@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physical Appearance"
+              "title": "8 - Base Physical Capabilities"
             }
           }
         ],
@@ -180,7 +180,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+            "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -207,6 +207,7 @@
   },
   "active": "ab52f142b77365ff",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
     "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
@@ -217,7 +218,6 @@
     "Tags/#atm+species+titanus_gojira",
     "Writing/Antitheriomorphosis/Titanus Gojira.md",
     "llm-instructions-2.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity/Cultural-Heritage.md",

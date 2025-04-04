@@ -20,73 +20,21 @@
             }
           },
           {
-            "id": "a41a84303f3c4149",
+            "id": "09e8faf1da2771a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/# Regenerative Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titanus Gojira"
-            }
-          },
-          {
-            "id": "60515b9c5c36b463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Northern Faction"
-            }
-          },
-          {
-            "id": "8c531e0f4a7d0dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Information on the Northern Gojira"
-            }
-          },
-          {
-            "id": "c08d6327f56a5c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Species Profile Creation Instructions"
-            }
-          },
-          {
-            "id": "3564b4f9532347eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "# Regenerative Systems"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +108,7 @@
             }
           },
           {
-            "id": "4718b47f7ab0332c",
+            "id": "9ed5ce1ab1b940f7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -173,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485
+    "width": 413,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -189,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/# Regenerative Systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Northern Faction"
+              "title": "Backlinks for # Regenerative Systems"
             }
           },
           {
@@ -208,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/# Regenerative Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Northern Culture"
+              "title": "Outgoing links from # Regenerative Systems"
             }
           },
           {
@@ -222,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Northern Culture"
+              "title": "Outline of Evolutionary Origins"
             }
           },
           {
@@ -245,9 +194,22 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "7827de0b76675df4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,44 +229,44 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "09e8faf1da2771a0",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
-    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
-    "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Faction.md",
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
-    "Physical Appearance.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/# Regenerative Systems.md",
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Narrative Sidepiece.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/3 - Legacy and Impact.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
+    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
+    "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Physical Characteristics.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation 2.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation 1.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins 1.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Regenerative Systems.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy 1.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+    "Society/Factional-Divisions.md",
+    "Society",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Godzilla.md",
+    "titan",
+    "Tags/#atm+species+titanus_gojira",
+    "Tags/#atm+species+classification+ascendant_line",
+    "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
     "Writing/Antitheriomorphosis/Unrefined",
-    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
-    "[[Titanus.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Resolving Northern Gojira Documentation Overlap .md",
     "Writing/Antitheriomorphosis/Creation Instructions",
-    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Untitled",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical/Current Status.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core/Limitless Adaptation.md",
-    "Titanus.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Historical",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal",
-    "Writing/Antitheriomorphosis/Titans/Species/Core/Untitled",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Core",
-    "Writing/Antitheriomorphosis/Titans/Species",
-    "Writing/Antitheriomorphosis/Titans",
-    "Cultural Heritage Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",

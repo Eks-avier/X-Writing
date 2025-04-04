@@ -43,7 +43,7 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 ### Titan Form
 
 > [!info] Titan Identity
-> - **Species:** *[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]*
+> - **Species:** *[[Titanus Gojira]]*
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to [[Antitheriomorphosis]])
@@ -74,13 +74,12 @@ Godzilla's body undergoes subtle seasonal changes related to his hibernation cyc
 - **Active Season (December-August)**: Leaner physique (10-12% body fat)
   - More defined musculature and slightly more angular facial features
   - Higher body temperature and more pronounced energy aura
-
 - **Pre-Hibernation (September-November)**: Bulking phase (15-18% body fat)
   - Fuller face with softer edges
   - Increased appetite and gradually slowing metabolism
   - Energy aura becomes more subdued
 
-> [!note] Eye Color Indicator  
+> [!note] Eye Color Indicator
 > Godzilla's eye color serves as an emotional barometer:
 > - **Light blue** - Vigilant (default state)
 > - **Intensified blue** - Using powers or heightened emotions
@@ -168,13 +167,13 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 - **Creation**: Personally forged by Godzilla after learning crafting specifically for this purpose
 - **Symbolic Layout**: Features four dorsal fins, each representing a different race of *Titanus gojira*
 - **Father's Legacy**: The northern fin belongs to his father Dagon, taken from his excavated remains
-- **Hidden Element**: Contains Mothra's “dead” scales, visible only to her and certain perceptive observers. 
+- **Hidden Element**: Contains Mothra's “dead” scales, visible only to her and certain perceptive observers.
 - **Personal Meaning**: Not a symbol of power or duty, but of loss and remembrance
 - **Private Behavior**: Often found looking at it in the vault or handling it gently, watching Mothra's scales glow
 
 ## Abilities & Powers
 
-> [!quote] Energy Mastery  
+> [!quote] Energy Mastery
 > “Where once he was a walking apocalypse, he is now something far more precise, his mastery of energy sharpened by necessity.”
 
 ### Core Abilities
@@ -613,7 +612,7 @@ Godzilla's perspective on the [[Terms for the Divine Mandate Against Sorcery|Div
 
 ### Inner Conflict and Growth
 
-> [!quote] Duality  
+> [!quote] Duality
 > Godzilla is evolving into a scholar-warrior, reconciling the duality of his nature as both a Titan king and a mentor to humanity.
 
 Godzilla is deeply torn between the human and Titan worlds. While he cannot deny the advantages of his human form, especially in combat and learning, he remains haunted by his lost Titan identity. His species, *Titanus gojira*, are naturally inclined to view themselves as superior, and Godzilla feels an inherent wrongness in his current state. Nevertheless, as a human, Godzilla finds himself fascinated by humanity's pursuit of knowledge, a stark contrast to the existence he lived as a Titan.
@@ -648,12 +647,12 @@ Ultimately, Godzilla is evolving into a scholar-warrior, reconciling the duality
 
 ## Notable Relationships
 
-> [!info] Key Relationships  
+> [!info] Key Relationships
 > Godzilla maintains complex relationships with other Titans and organizations, balancing ancient alliances with new dynamics in his human form.
 
 ### [[Mothra, the Queen of the Monsters|Mothra]] (Closest Friend, Unspoken Feelings)
 
-Godzilla and Mothra have been inseparable since hatchlings, having defended each other from the [[Jinshin-Mushi]] and partaken in many adventures. Though mentally linked, their physical proximity was historically limited—sometimes spanning thousands of years apart. However, since the Antitheriomorphosis, they have been inseparable, now only spending weeks apart at most. 
+Godzilla and Mothra have been inseparable since hatchlings, having defended each other from the [[Jinshin-Mushi]] and partaken in many adventures. Though mentally linked, their physical proximity was historically limited—sometimes spanning thousands of years apart. However, since the Antitheriomorphosis, they have been inseparable, now only spending weeks apart at most.
 
 This closeness has caused Godzilla to experience a strange awkwardness, as they were never meant to perceive each other as anything more than ancient allies. Their past intimacy as Titans has now become socially complicated, particularly as Mothra finds him physically attractive. Though outwardly unchanged in their professional demeanor, [[Battra, the Lord of the Mystic Arts|Battra]], [[Rodan, the Lord of the Skies|Rodan]], [[Anguirus, the Stalwart Vanguard|Anguirus]], and [[Kong, King of the Hollow Earth|Kong]] have all taken notice of their subtle awkwardness.
 
@@ -695,7 +694,7 @@ Godzilla's position at the center of Titan governance is physically embodied in 
 - **Throne Design**: Obsidian black with dorsal fin protrusions and blue energy veins extending throughout the floor
 - **Throne Abilities**: Activates when he sits, allowing him to control acoustics and communicate through energy pulses
 - **Position**: Central and highest position on the elevated dais at the front of the chamber
-- **Governance Activities**: 
+- **Governance Activities**:
   - **Report Days**: Wardens detail territorial findings, Betas recount activities
   - **Court Days**: Disputes between lesser Titans brought before him for resolution
   - **Royal Business**: Private meetings sealed by Mothra's scales or relocated to pocket dimensions
