@@ -4538,8 +4538,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743708663081,
-      "modifiedDate": 1743764846776,
-      "sizeInBytes": 9472,
+      "modifiedDate": 1743765153579,
+      "sizeInBytes": 9476,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4565,6 +4565,56 @@
           "Continuous Renewal"
         ],
         "current_status": "Active in remaining specimen",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/biology/physiological"
+        ],
+        "created": "2025-04-07",
+        "last_modified": "2025-04-07"
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Reproductive Biology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 718,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3933333333333335,
+      "characterCount": 7219,
+      "nonWhitespaceCharacterCount": 6104,
+      "readingTimeInMinutes": 2.709433962264151,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743765662673,
+      "modifiedDate": 1743765900709,
+      "sizeInBytes": 7789,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Reproductive Biology",
+        "parent": "[[Titanus Gojira]]",
+        "component_type": "biology",
+        "component_category": "physiological",
+        "related_components": [
+          "[[Dorsal Fin Structure]]",
+          "[[Energy Communication]]",
+          "[[Factional Divisions]]"
+        ],
+        "manifestations": [
+          "Monogamous Pair Bonding",
+          "Extended Gestation",
+          "Energy Transfer Development",
+          "Interfactional Reproduction"
+        ],
+        "current_status": "Non-viable with single remaining member",
         "tags": [
           "atm",
           "atm/species/titanus_gojira",
