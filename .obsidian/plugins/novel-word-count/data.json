@@ -3641,8 +3641,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.99,
-      "characterCount": 10755,
-      "nonWhitespaceCharacterCount": 8262,
+      "characterCount": 10982,
+      "nonWhitespaceCharacterCount": 8300,
       "readingTimeInMinutes": 4.516981132075472,
       "linkCount": 12,
       "embedCount": 0,
@@ -3655,8 +3655,8 @@
         "The Last Northerner"
       ],
       "createdDate": 1743271055205,
-      "modifiedDate": 1743707149398,
-      "sizeInBytes": 11145,
+      "modifiedDate": 1743766406317,
+      "sizeInBytes": 11390,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.99,
@@ -4622,6 +4622,56 @@
         ],
         "created": "2025-04-07",
         "last_modified": "2025-04-07"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3036,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.12,
+      "characterCount": 19004,
+      "nonWhitespaceCharacterCount": 15554,
+      "readingTimeInMinutes": 11.456603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743766406324,
+      "modifiedDate": 1743766406325,
+      "sizeInBytes": 19026,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "conflict-files-obsidian-git.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 1205,
+      "nonWhitespaceCharacterCount": 1047,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743766406799,
+      "modifiedDate": 1743766406800,
+      "sizeInBytes": 1205,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

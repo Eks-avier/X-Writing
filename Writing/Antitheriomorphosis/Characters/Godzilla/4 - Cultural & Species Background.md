@@ -583,7 +583,11 @@ Godzilla's support of Kong's Hollow Earth exploration includes search for possib
 - For details on Godzilla's personal history, see [[2 - Historical Timeline]]
 - For his current status as Alpha Paramount, see [[6 - Hierarchical Position & Authority]]
 - For more about his father, see [[Dagon, the Last Northern Patriarch]]
+<<<<<<< HEAD
 - For his power development, see [[Domination of Energy ]]
+=======
+- For his power development, see [[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]
+>>>>>>> origin/main
 - For psychological impact of being last of his kind, see [[5 - Psychological Profile]]
 - For relationship with Zilla Jr., see [[10 - Personal Relationships]]
 - For complete Northern Gojira culture, see [[Northern Gojira Cultural Profile]]

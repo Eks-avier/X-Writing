@@ -1,25 +1,46 @@
 ---
+<<<<<<< HEAD
 title: Physical Characteristics
 parent: "[[Titanus Gojira]]"
 component_type: biology
 component_category: physiological
+=======
+title: "Physical Characteristics"
+parent: "[[Titanus Gojira]]"
+component_type: "biology"
+component_category: "physiological"
+>>>>>>> origin/main
 related_components:
   - "[[Limitless Adaptation]]"
   - "[[Dorsal Fin Structure]]"
   - "[[Regenerative Systems]]"
 manifestations:
+<<<<<<< HEAD
   - Dermal Armor
   - Radiation Processing Organs
   - Muscular Architecture
   - Sensory Systems
   - Factional Variations
 current_status: Preserved in human form
+=======
+  - "Dermal Armor"
+  - "Radiation Processing Organs"
+  - "Muscular Architecture"
+  - "Sensory Systems"
+  - "Factional Variations"
+current_status: "Preserved in human form"
+>>>>>>> origin/main
 tags:
   - atm
   - atm/species/titanus_gojira
   - atm/biology/physiological
+<<<<<<< HEAD
 created: 2025-04-04
 last_modified: 2025-04-04
+=======
+created: 2025-04-06
+last_modified: 2025-04-06
+>>>>>>> origin/main
 ---
 
 # Physical Characteristics

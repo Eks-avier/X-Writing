@@ -18,8 +18,13 @@ tags:
   - atm
   - atm/species/titanus_gojira
   - atm/biology/evolutionary
+<<<<<<< HEAD
 created: 2025-04-04
 last_modified: 2025-04-04
+=======
+created: 2025-04-06
+last_modified: 2025-04-06
+>>>>>>> origin/main
 ---
 
 # Evolutionary Origins

@@ -16,8 +16,13 @@ tags:
   - atm/species/titanus_gojira
   - atm/lineage/ascendant
   - atm/status/near_extinct
+<<<<<<< HEAD
 created: 2025-04-04
 last_modified: 2025-04-04
+=======
+created: 2025-04-05
+last_modified: 2025-04-05
+>>>>>>> origin/main
 ---
 
 # Titanus Gojira

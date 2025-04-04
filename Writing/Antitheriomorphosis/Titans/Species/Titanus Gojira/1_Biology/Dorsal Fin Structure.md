@@ -1,25 +1,46 @@
 ---
+<<<<<<< HEAD
 title: Dorsal Fin Structure
 parent: "[[Titanus Gojira]]"
 component_type: biology
 component_category: physiological
+=======
+title: "Dorsal Fin Structure"
+parent: "[[Titanus Gojira]]"
+component_type: "biology"
+component_category: "physiological"
+>>>>>>> origin/main
 related_components:
   - "[[Domination of Energy]]"
   - "[[Evolutionary Origins]]"
   - "[[Physical Characteristics]]"
 manifestations:
+<<<<<<< HEAD
   - Energy Collection
   - Thermal Regulation
   - Combat Defense
   - Identity Signaling
   - Factional Variation
 current_status: Highly evolved in last specimen
+=======
+  - "Energy Collection"
+  - "Thermal Regulation"
+  - "Combat Defense"
+  - "Identity Signaling"
+  - "Factional Variation"
+current_status: "Highly evolved in last specimen"
+>>>>>>> origin/main
 tags:
   - atm
   - atm/species/titanus_gojira
   - atm/biology/physiological
+<<<<<<< HEAD
 created: 2025-04-04
 last_modified: 2025-04-04
+=======
+created: 2025-04-06
+last_modified: 2025-04-06
+>>>>>>> origin/main
 ---
 
 # Dorsal Fin Structure

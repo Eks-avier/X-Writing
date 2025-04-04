@@ -304,5 +304,9 @@ Godzilla's presence has directly influenced evolutionary paths of countless spec
 - For details on Godzilla's historical timeline, see [[2 - Historical Timeline]]
 - For his influence on the Titan hierarchy, see [[Hierarchical Position]]
 - For relationships with key figures, see [[10 - Personal Relationships]]
+<<<<<<< HEAD
 - For energy manipulation legacy, see [[Domination of Energy]]
+=======
+- For energy manipulation legacy, see [[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]
+>>>>>>> origin/main
 - For psychological development, see [[5 - Psychological Profile]]
