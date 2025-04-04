@@ -131,12 +131,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 413,
-    "collapsed": true
+    "width": 413
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -243,7 +243,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "74cc224e1a10bd34",
+  "active": "d23a77c4a916c5a8",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Reproductive Biology.md",
