@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dagon, the Last Northern Patriarch"
+              "title": "Backlinks for Godzilla, the King of the Monsters"
             }
           },
           {
@@ -216,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dagon, the Last Northern Patriarch"
+              "title": "Outgoing links from Godzilla, the King of the Monsters"
             }
           },
           {
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dagon, the Last Northern Patriarch"
+              "title": "Outline of Godzilla, the King of the Monsters"
             }
           },
           {
@@ -274,14 +274,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dagon, the Last Northern Patriarch"
+              "title": "File properties for Godzilla, the King of the Monsters"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -301,14 +301,14 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "1479ce716f5a3c08",
+  "active": "bc64f30e79e7f04e",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
-    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
     "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md",
     "Writing/Antitheriomorphosis/Characters/Hollow Earth Personnel & Residents.md",

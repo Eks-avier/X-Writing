@@ -341,6 +341,101 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 	- **Enhanced Taste**: His great sense of taste allows him to be a great judge of dishes to the point that Mothra relies on him to judge her dishes whenever she's practicing cooking.
 	- **Enhanced Vision**: X-Ray vision with adjustable zoom capability, from telescopic to microscopic
 
+## Physical Capabilities
+
+### Strength & Force Projection
+
+Godzilla possesses extraordinary physical strength even without energy enhancement, capable of lifting approximately 50-80 tons in his human form. Notably, his strength-to-mass ratio actually *increased* following the Antitheriomorphosis—he didn't become weaker in absolute terms, but rather became constrained by the physical limitations of a smaller frame.
+
+- **Scale Constraint**: His power is limited by human-form leverage points, bone structure, and physics
+- **Force Generation**: Single punches can shatter reinforced concrete and bend steel
+- **Grip Strength**: Easily crushes titanium alloys with casual hand pressure
+- **Distribution**: Strength is evenly distributed throughout his body, unlike humans who have concentrated muscle groups
+- **Control Evolution**: Has developed precise calibration for delicate interactions after initial adjustment period
+
+When employing Atomic Amplification, his strength transcends these physical constraints through energy-field reinforcement of his body's structural limits, allowing force application beyond what his size would suggest possible.
+
+### Emerging Capability: Asymmetrical Permeable Shield
+
+Following the Xillien Invasion, Godzilla has begun manifesting a primitive form of external energy manipulation:
+
+- **Current State**: A thin, nearly imperceptible energy field that appears during moments of extreme defensive necessity
+- **Visual Signature**: Faint blue shimmer that briefly becomes visible at point of impact
+- **Function**: Similar to Mothra's scales but composed of pure energy rather than physical material
+- **Development Status**: Inconsistent manifestation, primarily appearing as instinctive defensive response
+- **Future Potential**: May eventually extend effective strength radius, reduce Railgun charge time, and enhance overall defensive capabilities
+
+This emerging ability represents his evolution from purely internal energy manipulation (Atomic Amplification) to more sophisticated external control.
+
+### Durability & Resilience
+
+His physical resilience ranks second only to Anguirus at baseline level, but surpasses all Titans when employing Atomic Amplification:
+
+- **Damage Resistance**: Withstands forces that would obliterate normal humans
+- **Internal Structure**: Organs protected by tissue approximately 10x denser than human equivalents
+- **Bone Density**: Skeletal system roughly 10x stronger than human bone
+- **Pain Tolerance**: Functions normally despite injuries that would incapacitate other beings
+  - Remains combat-effective after impalement through vital organs
+  - Responds to severe injuries with apparent amusement
+  - No known injury has yet triggered incapacitation through pain alone
+
+### Regenerative Capabilities
+
+Godzilla's healing abilities operate on two distinct levels:
+
+- **Passive Regeneration**: Approximately 50x faster than human healing without conscious effort
+- **Enhanced Regeneration**: Up to 200x human healing rate when actively focusing energy
+- **Post-Invasion Enhancement**: Natural healing increased approximately 150% after the Xillien Invasion
+- **Optimization**: Current focus on efficiency improvement rather than raw speed
+
+### Enhanced Senses
+
+All sensory systems function at superhuman levels with sophisticated cross-modal integration:
+
+- **Vision**: Processes visual information at approximately 20x human resolution
+  - Accurate detail perception up to 15 miles
+  - X-ray capability through most non-lead materials
+  - Telescopic and microscopic focus adjustment
+  - Energy wavelength perception beyond human spectrum
+  
+- **Hearing**: Perceives sounds from 5Hz to 200,000Hz
+  - Isolates specific sounds up to 50 miles away
+  - Identifies individuals by unique acoustic signatures
+  - Uses sound for structural analysis similar to echolocation
+  
+- **Olfactory**: Tracks scents over 100 miles in optimal conditions
+  - Perfect recall of every scent encountered
+  - Composition analysis of complex scent mixtures
+  - Detects emotional states through subtle pheromone changes
+  
+- **Additional Senses**: Equally enhanced taste discrimination and tactile sensitivity
+  - Trusted judge of culinary quality due to exceptional taste refinement
+  - Detects temperature variations as small as 0.01 degrees
+  - Feels barometric and atmospheric pressure changes
+
+His sensory systems feature adaptive cross-integration, allowing automatic compensation if any sense becomes impaired.
+
+### Agility & Speed
+
+While not historically his strongest attributes in Titan form, Godzilla has deliberately developed these capabilities since the Antitheriomorphosis:
+
+- **Running Speed**: Top speed of approximately 60 mph (97 kph) in short bursts
+- **Swimming Velocity**: Natural affinity for water movement, reaching 80 mph (129 kph)
+- **Reaction Time**: Processes and responds approximately 8x faster than humans
+- **Combat Speed**: Strike velocity exceeding 100 mph (161 kph)
+- **Post-Invasion Enhancement**: Base speed and agility improved approximately 150% after the Xillien Invasion
+
+His developing Atomic Stride technique represents an attempt to achieve near-instantaneous movement through concentrated energy manipulation, though this ability remains in the refinement phase.
+
+### "The Zone" State Impact
+
+Following his battle with Battra, all physical capabilities underwent significant enhancement:
+
+- **Physiological Memory**: Body partially retained the perfect optimization achieved during "The Zone"
+- **Baseline Improvement**: All physical attributes increased by approximately 150%
+- **Neural Adaptation**: Brain structure permanently altered for improved sensory processing
+- **Potential Ceiling**: Current abilities represent only a fraction of what's possible if he re-enters "The Zone"
+
 ### Domination of Energy: Evolution & Mechanics
 
 #### Energy Hierarchy
