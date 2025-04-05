@@ -11,16 +11,16 @@ Incantations operate as more than activation phrases—they function as implicit
 1. **Commitment Architecture**
    - Every word in an incantation forms a micro-commitment between caster and spell
    - The length and complexity of the incantation directly correlates to the stability of this commitment
-   - The caster is effectively saying: "I invest time and precision in these words; in exchange, the spell manifests with maximum stability and power"
+   - The caster is effectively saying: “I invest time and precision in these words; in exchange, the spell manifests with maximum stability and power”
 
 2. **Linguistic Scaffolding**
    - Each line of an incantation builds a specific aspect of the spell's architecture
    - The poetic structure isn't mere tradition but serves to organize visualization in specific patterns
    - Example: The Singularity incantation's progression mirrors the actual cosmic process of stellar collapse:
-     - "Bright stars shine, then bloat" → Establishes the starting condition
-     - "In a final flash, their cores implode" → Defines the transformation process
-     - "From their end, a feasting void" → Shapes the result's nature
-     - "Collapse... Singularity" → Names and finalizes the effect
+     - “Bright stars shine, then bloat” → Establishes the starting condition
+     - “In a final flash, their cores implode” → Defines the transformation process
+     - “From their end, a feasting void” → Shapes the result's nature
+     - “Collapse… Singularity” → Names and finalizes the effect
 
 3. **Energy Regulation Circuit**
    - The rhythm and phonetics of incantations create resonance patterns in magical energy
@@ -33,7 +33,7 @@ Chants represent more than abbreviated incantations—they function as optimized
 
 1. **Compression Algorithm**
    - Each word in a chant functions as a compressed packet of magical instruction
-   - Example: In "Bloat, Implode, Feast, Collapse... Singularity," each term triggers a complex visualization sequence
+   - Example: In “Bloat, Implode, Feast, Collapse… Singularity,” each term triggers a complex visualization sequence
    - The compression requires the caster to supply more of the visualization framework internally
 
 2. **Efficiency-Power Balance**
@@ -42,7 +42,7 @@ Chants represent more than abbreviated incantations—they function as optimized
    - Once visualization mastery is achieved, chants operate at 100% efficiency—the theoretical maximum for standard casting
 
 3. **Self-Contract Renegotiation**
-   - The shorter chant represents a renegotiated magical contract: "I provide perfect visualization in exchange for activation with minimal verbalization"
+   - The shorter chant represents a renegotiated magical contract: “I provide perfect visualization in exchange for activation with minimal verbalization”
    - This contract demands more from the caster mentally but less verbally
    - Most sorcerers fail to recognize this trade-off, experiencing weaker effects without understanding why
 
@@ -52,7 +52,7 @@ The true nature of silent casting represents perhaps the most profound misconcep
 
 1. **The Language-Thought Relationship**
    - Silent casting isn't the absence of language but its internalization
-   - Just as people think in their native language, sorcerers mentally "speak" their spells when casting silently
+   - Just as people think in their native language, sorcerers mentally “speak” their spells when casting silently
    - The challenge is maintaining this internal linguistic structure without external reinforcement
 
 2. **Complete Contract Internalization**
@@ -79,7 +79,7 @@ While verbal components have received the most theoretical attention, gestures r
    - This creates a direct connection between physical action and magical effect
 
 2. **Additional Contract Layer**
-   - Each gesture represents another layer of magical commitment: "I perform this precise movement; in exchange, the spell gains additional structure"
+   - Each gesture represents another layer of magical commitment: “I perform this precise movement; in exchange, the spell gains additional structure”
    - This commitment operates independently from verbal components, allowing multiplication rather than just addition of effects
 
 3. **Multi-Channel Casting**
@@ -153,4 +153,4 @@ For a master like Battra, these components become a sophisticated toolkit rather
 
 The true mastery of spellcasting lies not in progressing from incantation to silent casting, but in understanding the function of each component and selecting the optimal combination for each situation. What appears as Battra's theatrical flair is actually sophisticated magical engineering—using every available channel to shape magic with maximum efficiency and effect.
 
-Most sorcerers limit themselves by viewing these components as a linear progression rather than complementary tools. The greatest sorcerer in the universe recognizes that true mastery isn't about abandoning "basic" techniques for "advanced" ones, but understanding how each technique functions at a fundamental level and leveraging the right combination for each magical challenge.
+Most sorcerers limit themselves by viewing these components as a linear progression rather than complementary tools. The greatest sorcerer in the universe recognizes that true mastery isn't about abandoning “basic” techniques for “advanced” ones, but understanding how each technique functions at a fundamental level and leveraging the right combination for each magical challenge.

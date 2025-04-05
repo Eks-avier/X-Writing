@@ -58,7 +58,7 @@
 - **Form of Direct Address:** “Vanguard” (by Titans), “Sir Anguirus/Alexios” (by humans)
 - **Authority Scope:** Enforcement of Alpha Paramount's will, protection of Godzilla's domain
 - **Position Significance:** Right hand of Godzilla, defender and loyal enforcer
-- **Symbolic Regalia:** Armored collar incorporating his carapace plates and obsidian elements attached to a light brown cloak 
+- **Symbolic Regalia:** Armored collar incorporating his carapace plates and obsidian elements attached to a light brown cloak
 - **Recognition Protocol:** Lower Titans stand at attention in his presence
 - **Command Rights:** Can issue orders directly in Godzilla's name during emergencies
 
@@ -69,7 +69,7 @@
 - **Form of Direct Address:** “Sky Lord” (by Titans), “Lord Rodan” (by humans)
 - **Authority Scope:** Aerial territories, atmospheric phenomena, volcanic activity
 - **Position Significance:** Left hand of Godzilla, scout and aerial enforcer
-- **Symbolic Regalia:** Volcanic collar containing actual magma, radiating heat that is attached to a flaming red cape 
+- **Symbolic Regalia:** Volcanic collar containing actual magma, radiating heat that is attached to a flaming red cape
 - **Recognition Protocol:** Lower Titans incline heads; flying Titans dip wings in acknowledgment
 - **Command Rights:** Direct authority over flying Titans; command over volcanic and atmospheric events
 

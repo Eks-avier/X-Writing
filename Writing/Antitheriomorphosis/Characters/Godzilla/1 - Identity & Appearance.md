@@ -25,7 +25,7 @@ last_updated: 2025-03-24
 > [!info] Human Identity
 >
 > - **Human Name**: Godric Nordson
-> - **Documented Age**: 25 
+> - **Documented Age**: 25
 > - **Actual Age:** Approximately 250 million years old (exact age unknown)
 > - **Race**: [[Northern Gojira|Northerner]]
 > - **Affiliation:** [[The Null]], [[The North]], [[Monarch]]

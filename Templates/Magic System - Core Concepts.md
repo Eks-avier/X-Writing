@@ -1,3 +1,5 @@
+# Magic System - Core Concepts
+
 <%*
 // Core Concept Template for Monsterverse AU Magic System
 // For use with Templater plugin in Obsidian

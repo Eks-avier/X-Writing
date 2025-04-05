@@ -24,22 +24,24 @@ Despite these severe restrictions, limited forms of time manipulation remain pos
 Two primary approaches allow for safe time manipulation:
 
 #### 1. Pocket Universe Creation
-- Artificially stabilizes Primus to create a "cave" within the universe
+
+- Artificially stabilizes Primus to create a “cave” within the universe
 - Requires supreme mastery of magical energy
 - Functions as a completely isolated sub-reality
 - Changes within cannot affect the primary universe
 
-#### 2. Domain Barriers ("Rooms")
+#### 2. Domain Barriers (“Rooms”)
+
 - Takes an existing portion of reality and severs it via perfectly sealed barriers
 - Requires unparalleled skill in barrier architecture
 - Must achieve complete separation from the surrounding universe
 - When reintegrated, external reality experiences no time differential
 
-### The "Leakage" Problem
+### The “Leakage” Problem
 
-The primary concern with time manipulation is "leakage":
+The primary concern with time manipulation is “leakage”:
 
-- A "leaky" domain with imperfect barriers risks contaminating the greater timeline
+- A “leaky” domain with imperfect barriers risks contaminating the greater timeline
 - Even microscopic imperfections can allow changes to propagate outward
 - The resulting timeline alterations are impossible to predict or control
 - Cosmic enforcement is typically swift and absolute
@@ -80,16 +82,19 @@ Despite these advantages, even Battra approaches time manipulation with extreme 
 The few viable applications of time manipulation include:
 
 ### Temporal Stasis
+
 - Freezing objects or beings in time within a sealed domain
 - Requires minimal calculation but precise barrier maintenance
 - Typically limited to small volumes and short durations
 
 ### Localized Acceleration/Deceleration
+
 - Altering the flow of time within a sealed domain
 - Useful for accelerating processes or slowing attacks
 - Calculation complexity increases with the degree of variance
 
 ### Event Reconstruction
+
 - Viewing past events that occurred within a sealed domain
 - Does not alter time but replays it for observation
 - Lower risk but still requires perfect containment

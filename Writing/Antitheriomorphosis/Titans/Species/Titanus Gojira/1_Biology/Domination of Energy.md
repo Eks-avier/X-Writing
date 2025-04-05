@@ -24,7 +24,7 @@ last_modified: 2025-04-05
 
 # Domination of Energy
 
-## Summary 
+## Summary
 
 While other Titan species demonstrated affinity for specific energy types, *Titanus gojira* possessed a nascent connection to energy itself in all its forms. This inherent capability—Energy Domination—represented the species' most distinctive evolutionary advantage, though one they never fully realized during their existence. What they understood as specialized radiation processing was actually the foundation for universal energy control—the capacity to sense, absorb, redirect, manipulate, and transform energy in all its manifestations. Only Godzilla, through millions of years of solitary evolution, would eventually realize the true depth of this extraordinary power.
 

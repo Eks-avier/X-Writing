@@ -373,7 +373,7 @@ Following his battle with Battra during the Xillien Invasion, Godzilla's physica
 
 ### Sensory Filtering
 
-- Constant management of overwhelming sensory input %% TO ADD: His eventual acclimation to human senses and his significant improvements have made this more of a gag for him than a point of concern.  %%
+- Constant management of overwhelming sensory input %% TO ADD: His eventual acclimation to human senses and his significant improvements have made this more of a gag for him than a point of concern. %%
 - Selective focus on relevant environmental information
 - Compensation for human-designed spaces not built for his sensory range
 - Preference for quiet environments to avoid “annoying people” rather than for sensory reset

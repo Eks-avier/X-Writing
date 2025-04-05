@@ -1,44 +1,43 @@
-
 # The Sun
 
-Characters themed as The Sun are...
+Characters themed as The Sun are…
 - Confident
-- Competent 
+- Competent
 - Prideful
 - Overwhelming
 - Courageous
 - Solitary
-- Bold 
+- Bold
 - Instinctive
-- Adaptive 
+- Adaptive
 - Dynamic
 
-Special Keywords: Active, "Hard-working Talent", Radiate, Subjugate, Pathos, Pragmatic
+Special Keywords: Active, “Hard-working Talent”, Radiate, Subjugate, Pathos, Pragmatic
 
 # The Moon
 
-Characters themed as The Moon are...
-- Demure 
+Characters themed as The Moon are…
+- Demure
 - Modest
 - Graceful
 - Reserved
 - Gentle
 - Empathic
-- Intuitive 
+- Intuitive
 - Patient
 - Supportive
 - Aloof
 
-Special Keywords: Passive, "Overflowing Talent", Reflect, Liberate, Ethos, Idealistic 
+Special Keywords: Passive, “Overflowing Talent”, Reflect, Liberate, Ethos, Idealistic
 
 # The Earth
 
-Characters themed as The Earth are...
+Characters themed as The Earth are…
 
-- Grounded 
+- Grounded
 - Reliable
-- Resourceful 
-- Academic 
+- Resourceful
+- Academic
 - Enduring
 - Overbearing
 - Indifferent
@@ -46,4 +45,4 @@ Characters themed as The Earth are...
 - Cynical
 - Hopeful
 
-Special Keywords: Neutral, "Talented Hard-worker ", Refract, Maintain, Logos, Realistic 
+Special Keywords: Neutral, “Talented Hard-worker “, Refract, Maintain, Logos, Realistic

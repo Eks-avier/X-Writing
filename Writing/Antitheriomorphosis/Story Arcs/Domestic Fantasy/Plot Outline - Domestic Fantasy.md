@@ -96,7 +96,7 @@ Battra notices a friendly rivalry between his two top students: sorcery student 
 - **Titan Identity Crisis**: Begin questioning aspects of their Titan identities vs. human experiences
 - **Arthur's Progress**: First signs of Arthur's social reemergence, joins community planning committee
 - **Academic Success**: Both receive teaching commendations, deepening their cover
-- **Hunting Success**: Godric has found himself a community of men that clicks with him: the hunting community of Meadowvale 
+- **Hunting Success**: Godric has found himself a community of men that clicks with him: the hunting community of Meadowvale
 - **Continued Frustration**: No further fragment “blinks” despite enhanced monitoring
 - **Battra's Warning**: During check-in, Battra notes their “excessive commitment to the act”
 - **Student Breakthrough**: Alex Jackson shows remarkable improvement in physics, developing genuine interest
@@ -320,7 +320,7 @@ Split scene between Castle Bravo (where Godric and Maria now openly acknowledge 
 
 # Things to Add
 
-- Battra's integration into the story line. 
+- Battra's integration into the story line.
 	- This arc becomes an avenue for him to rediscover his and Mothra's sibling bond.
 	- He finds himself *pretending* alongside them, causing unusual absences in Keep Charlie.
 	- He forges the wedding rings for them.
@@ -329,13 +329,13 @@ Split scene between Castle Bravo (where Godric and Maria now openly acknowledge 
 		- He explores the idea of being an uncle.
 		- He drives himself crazy theorizing it.
 		- He wants to know how he can *make it real*.
-- Godric and Maria's questioning of should they go *deeper*--should they have sex? Can Maria even conceive Godric's child? What happens when she gets pregnant? 
-	- Maria brings the Reproduction Question to Battra. 
-	- Godric says "fuck it," and literally fucks her... in their kitchen... with their students in the living room.
+- Godric and Maria's questioning of should they go *deeper*--should they have sex? Can Maria even conceive Godric's child? What happens when she gets pregnant?
+	- Maria brings the Reproduction Question to Battra.
+	- Godric says “fuck it,” and literally fucks her… in their kitchen… with their students in the living room.
 		- Surprisingly he pulls out.
 		- Unsurprisingly, they find themselves always doing the act.
-		- Surprisingly, Battra walks in on them *again*. It wasn't enough he saw them making out during their more innocent months....
-		- Unsurprisingly, Godric's libido still exists. 
+		- Surprisingly, Battra walks in on them *again*. It wasn't enough he saw them making out during their more innocent months….
+		- Unsurprisingly, Godric's libido still exists.
 		- Surprisingly, Maria finds herself wanting her husband more and more.
 - Arthur's attempts to reconcile his marriage.
 - Arthur's attempts to reconcile with his parents.

@@ -38,7 +38,6 @@ The weight of an extinct species rests on Godzilla's shoulders—the last true N
 *Titanus gojira* emerged as one of Earth's most remarkable evolutionary achievements—an Ascendant Line species possessing two fundamental abilities that set them apart from all other organisms:
 
 - **Limitless Adaptation**: The capacity to evolve continuously in response to challenges, with no predetermined genetic ceiling. This unparalleled evolutionary potential allowed Godzilla to transcend his initially smaller-than-average hatching size to become Earth's supreme Titan. Unlike conventional evolution requiring generational change, *Titanus gojira* could adapt within a single lifespan, constantly refining their capabilities through experience.
-
 - **Domination of Energy**: Supreme control over energy in all its forms, particularly radiation. This ability manifested as perfect energy sensing, absorption, conversion, and projection—the foundation for their apex predator status. While other Titans might manipulate specific energy forms, only *Titanus gojira* possessed universal energy dominance across the entire spectrum.
 
 These core abilities remained consistent across all four *Titanus gojira* factions, though regional adaptations led to variations in secondary traits and cultural practices. The universal presence of these powers established them as an Ascendant Line species—beings with inherent biological advantages that placed them at the pinnacle of Titan hierarchy.
@@ -81,7 +80,7 @@ Northern *Titanus gojira* organized their society around extended family units w
 - **Two-World System**: Clear division between male external domain (hunting, territory expansion, protection) and female internal domain (resource management, offspring development, core defense)
 - **Non-Competitive Structure**: Strong discouragement of serious competition between siblings to maintain family cohesion
 - **Territorial Expansion**: Sons expected to conquer new territory rather than compete with brothers for existing land
-- **Collective Identity**: "The mark of a good family is a family that moves as one"—traditional Northern saying that encapsulated their cooperative ethos
+- **Collective Identity**: “The mark of a good family is a family that moves as one”—traditional Northern saying that encapsulated their cooperative ethos
 
 This structural framework continues to influence Godzilla's approach to hierarchy and governance, reflected in how he has organized the Warden system and Titan court. The division between male and female domains finds modern expression in his relationship with Mothra, where her authority over human-Titan relations complements his territorial governance.
 
@@ -107,7 +106,7 @@ Northern Gojira observed structured bonding processes that ensured family stabil
 - **Territory Allocation**: Young pairs granted portion of male's father's territory
 - **Initial Cohabitation**: Bonded pair lived independently while learning to cooperate
 - **Divided Responsibilities**: Males constructed and expanded shelter, females defended interior
-- **Maturity Milestone**: Official "marriage" around human equivalent age 18, if bond proved stable
+- **Maturity Milestone**: Official “marriage” around human equivalent age 18, if bond proved stable
 - **Reproductive Permission**: Only stable, formally recognized pairs allowed to reproduce
 
 The systematic nature of Northern bonding practices contrasts sharply with Godzilla's relationship with Mothra, which developed organically over millions of years without familial arrangement. This represents one of many areas where he has evolved beyond traditional Northern constraints while maintaining respect for their underlying principles.
@@ -150,13 +149,13 @@ Despite incomplete cultural transmission, both parents left profound imprints on
   - Combat techniques and survival skills
   - Hierarchical understanding and governance principles
   - Sense of responsibility for family protection
-  
+
 - **Maternal Inheritance**:
   - Golden eyes (rare trait appearing during emotional authenticity)
   - Certain personality elements suggesting greater emotional capacity
   - Physical coloration distinctly different from father
   - Connection to her memory maintained through physical resemblance
-  - %% TO ADD: Godzilla's temper was derived from his mother. Most assumed it was his father's—even Godzilla assumed it was his dad's, but Dagon would eventually prove Godzilla's assumption wrong when they would meet millions of years later in the present.  %%
+  - %% TO ADD: Godzilla's temper was derived from his mother. Most assumed it was his father's—even Godzilla assumed it was his dad's, but Dagon would eventually prove Godzilla's assumption wrong when they would meet millions of years later in the present. %%
 
 The combined influence created a foundation of Northern values infused with uniquely personal elements. Dagon's obvious affection despite his inability to express it directly shaped Godzilla's understanding that actions matter more than words—a principle that continues to guide his leadership approach.
 
@@ -204,7 +203,7 @@ Godzilla's crown represents his most visible cultural preservation effort:
 - **Materials**: Forged from bones and dorsal fins of fallen *Titanus gojira* from all four factions
 - **Northern Representation**: His father Dagon's dorsal fin holds the position of honor
 - **Personal Crafting**: Created by Godzilla himself rather than commissioned
-- **Mothra's Contribution**: Contains her "dead" scales from a previous incarnation, visible only to her
+- **Mothra's Contribution**: Contains her “dead” scales from a previous incarnation, visible only to her
 - **Physical Embodiment**: Serves as tangible connection to extinct species
 - **Ceremonial Usage**: Worn only during formal functions despite personal significance
 
@@ -255,5 +254,5 @@ This constant balancing act between preservation and growth remains largely invi
 - [[Speech Communication]] - His communication style directly reflects Northern energy conservation principles, with economy of words and precision of meaning prioritized over expressiveness.
 - [[Leadership Philosophy]] - His governance approach integrates Northern patriarchal traditions with evolved understanding of diverse needs and perspectives.
 
-> [!quote] He's like an ancient text written in a language only he still remembers. Sometimes I catch him performing these little rituals—arranging objects in specific patterns, standing motionless at dawn—and there's such precision to it, like every movement matters. Once I asked what he was doing, and he just said, "Remembering." That's when it hit me how alone he really is. Millions of years of culture, history, traditions... and he's the only one left who knows any of it.
+> [!quote] He's like an ancient text written in a language only he still remembers. Sometimes I catch him performing these little rituals—arranging objects in specific patterns, standing motionless at dawn—and there's such precision to it, like every movement matters. Once I asked what he was doing, and he just said, “Remembering.” That's when it hit me how alone he really is. Millions of years of culture, history, traditions… and he's the only one left who knows any of it.
 > — Dr. Ilene Chen, Monarch Cultural Anthropology Division

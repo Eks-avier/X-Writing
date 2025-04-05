@@ -151,7 +151,7 @@ last_modified: 2025-03-24
 ---
 ```
 
-2. **Introduction Section**:
+1. **Introduction Section**:
 - Brief character introduction (1-2 paragraphs)
 - Representative quote or philosophical statement
 - A callout box with essential identity information
@@ -175,7 +175,7 @@ last_modified: 2025-03-24
 ![[Energy-Domination/Energy-Domination-Overview]]
 ```
 
-2. **Dataview Queries** to display information from orbital documents:
+1. **Dataview Queries** to display information from orbital documents:
 
 ```markdown
 ## Power Systems Overview
@@ -204,7 +204,7 @@ Each major category should have an overview document that:
 At the heart of Godzilla's power lies his unparalleled ability to sense, absorb, redirect, and manipulate energy in all its forms. Unlike other Titans with elemental affinities, Godzilla's domain is energy itself in its purest sense.
 ```
 
-3. **Lists and Links to Specialized Documents**:
+1. **Lists and Links to Specialized Documents**:
 
 ```markdown
 ## Energy Techniques
@@ -216,7 +216,7 @@ At the heart of Godzilla's power lies his unparalleled ability to sense, absorb,
 - [[Atomic Amplification]] - Physical enhancement through energy
 ```
 
-4. **Provides a Dataview Query** of documents in that category:
+1. **Provides a Dataview Query** of documents in that category:
 
 ```markdown
 ## Technique Analysis
@@ -267,7 +267,7 @@ last_modified: 2025-03-24
 ---
 ```
 
-5. **Begin with a Concise Definition**:
+1. **Begin with a Concise Definition**:
 
 ```markdown
 # Godzilla: Atomic Railgun
@@ -275,21 +275,21 @@ last_modified: 2025-03-24
 The Atomic Railgun manifests as a concentrated point of cerulean light at Godzilla's fingertip, a star in miniature that pulses with barely contained energy. The air around his hand warps with heat distortion as he channels power through pathways forged during the Battra confrontation. When released, the beam doesn't burst forth—it simply exists, instantly bridging the space between Godzilla and his target with a pencil-thin line of devastation.
 ```
 
-6. **Include Standardized Sections**:
+1. **Include Standardized Sections**:
    - **Technical Description**: Detailed explanation of how it works
    - **Development History**: How the ability evolved over time
    - **Applications**: How it's used in various contexts
    - **Limitations**: Weaknesses or constraints
    - **Related Abilities**: Connections to other powers or attributes
 
-7. **Use Rich Formatting Elements**:
+2. **Use Rich Formatting Elements**:
    - Tables for comparative data
    - Callout blocks for important notes or warnings
    - Blockquotes for character perspectives
    - Bullet lists for key points
    - Headers for clear section organization
 
-8. **Implement Cross-References**:
+3. **Implement Cross-References**:
 
 ```markdown
 ## Related Techniques

@@ -1,10 +1,10 @@
 # Singularity Technique
 
-## Description 
+## Description
 
 - Creates a controlled singularity, forming a **black hole** at designated coordinates in space
 - One of the **5 techniques/spells that are maximally optimized** by Battra
-- Primarily falls under the **Object-Oriented Magic** paradigm, functioning as a "class" containing multiple related spells
+- Primarily falls under the **Object-Oriented Magic** paradigm, functioning as a “class” containing multiple related spells
 - Comprises two core spells that work in synergy:
   - **Convergence**: Forces matter to compress toward a single point
   - **Coordination**: Creates a Cartesian framework for precise spatial control
@@ -19,8 +19,8 @@
 ### Energy Considerations
 
 - **True vs. Magical Singularities**:
-  - Initial versions created "magical singularities" powered by Battra's energy (high cost, vulnerable to counter-magic)
-  - Advanced versions create "true singularities" where magic is only used for control, not generation (lower cost, resistant to counter-magic)
+  - Initial versions created “magical singularities” powered by Battra's energy (high cost, vulnerable to counter-magic)
+  - Advanced versions create “true singularities” where magic is only used for control, not generation (lower cost, resistant to counter-magic)
 - **Control Requirements**:
   - Maintaining precise control of an actual singularity requires immense concentration
   - For non-planetary scale singularities, Battra has optimized away the charge time
@@ -30,9 +30,9 @@
 
 The Singularity Technique emerged from Battra's unique ability to see connections between seemingly unrelated concepts:
 
-1. **Convergence Origin**: 
+1. **Convergence Origin**:
    - Gifted to Battra by an alien mentor who died naturally after 120 years
-   - Originally considered a "pointless compression spell" that merely pushed matter together
+   - Originally considered a “pointless compression spell” that merely pushed matter together
    - Kept by Battra primarily as a memento of his relationship with the mentor
 
 2. **Coordination Origin**:
@@ -50,44 +50,43 @@ The Singularity Technique emerged from Battra's unique ability to see connection
 ### Collapse (Black Hole) Variation
 
 **Full Incantation:**
->Bright stars shine, then bloat,  
->In a final flash, their cores implode.  
->From their end, a feasting void,  
->Collapse… Singularity
+> Bright stars shine, then bloat,
+> In a final flash, their cores implode.
+> From their end, a feasting void,
+> Collapse… Singularity
 
 **Long Chant (120% Power):**
->Bloat, Implode, Feast, Collapse... Singularity
+> Bloat, Implode, Feast, Collapse… Singularity
 
 **Short Chant (100% Power):**
->Collapse... Singularity
+> Collapse… Singularity
 
 ### Expulse (White Hole) Variation
 
 **Full Incantation:**
->Unbound from eternal darkness,  
->Untethered from the void,  
->From the feasting abyss,  
->Unleash all that has been consumed,  
->Expulse... Singularity
+> Unbound from eternal darkness,
+> Untethered from the void,
+> From the feasting abyss,
+> Unleash all that has been consumed,
+> Expulse… Singularity
 
 **Long Chant (120% Power):**
->Untethered, Unbound, Unleash, Expulse... Singularity 
+> Untethered, Unbound, Unleash, Expulse… Singularity
 
 **Short Chant (100% Power):**
->Expulse, Singularity!
+> Expulse, Singularity!
 
 ## Performance Mechanics
 
 - **Longer Incantations** enable Battra to:
   - Boost output power by approximately 120%
   - Layer additional effects onto the spell before casting
-  - "Break the limits" of the spell, pushing output to ~500% under optimal conditions
-  
+  - “Break the limits” of the spell, pushing output to ~500% under optimal conditions
+
 - **Shorter Chants** provide:
   - Standard 100% power with minimal verbal components
   - Faster casting speed and less telegraphing to opponents
   - Efficiency at the cost of maximum power
-
 - **Silent Casting**:
   - Requires perfect visualization of the entire technique
   - When mastered, maintains full power while eliminating verbal components
@@ -147,8 +146,8 @@ The Singularity Technique embodies several key aspects of Battra's approach to m
    - Battra transformed these emotional attachments into technical excellence
    - Demonstrates how he honors connections while advancing his craft
 
-2. **The Value of "Pointless" Knowledge**:
-   - A spell dismissed as "pointless" by its original user became universe-altering in Battra's hands
+2. **The Value of “Pointless” Knowledge**:
+   - A spell dismissed as “pointless” by its original user became universe-altering in Battra's hands
    - Demonstrates his belief that no knowledge is truly without value
    - Reinforces his teaching philosophy that fundamentals matter more than flashy applications
 

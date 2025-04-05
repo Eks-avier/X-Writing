@@ -118,7 +118,7 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 
 ## Abilities & Powers
 
-> [!quote] Divine Precision 
+> [!quote] Divine Precision
 > “Unlike *Titanus gojira*, who wields energy through brute force, Mothra manipulates light energy with precision and grace.”
 
 ### Core Abilities
@@ -226,7 +226,7 @@ As she begins experiencing emotions more directly in human form, these ancient w
 
 ## Notable Relationships
 
-> [!info] Key Relationships  
+> [!info] Key Relationships
 > Mothra maintains complex relationships with other Titans and humans, balancing ancient ties with new dynamics in her human form.
 
 ### [[Godzilla, the King of the Monsters|Godzilla]] (Oldest Friend, Unspoken Feelings)
@@ -296,9 +296,9 @@ Mothra has developed a deep appreciation for human activities and pursuits since
 Mothra's development follows three parallel journeys that ultimately converge:
 
 1. **Emotional Awakening:** Learning to experience rather than merely observe emotions, particularly through her evolving relationship with Godzilla
-   
+
 2. **Accepting Humanity's True Nature:** Confronting the reality that humans possess both light and shadow, neither of which diminishes her love for them
-   
+
 3. **Reconciliation with Battra:** Acknowledging her own shadow and responsibility in their estrangement
 
 These three paths lead toward the same destination—Mothra evolving beyond her divine detachment to embrace the full spectrum of existence. The divine moth who guides humanity must ultimately learn from mortals about acceptance, wholeness, and the beauty found in acknowledging both light and shadow.

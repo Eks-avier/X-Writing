@@ -35,10 +35,8 @@ last_modified: 2025-04-02
 
 The human form that contains Godzilla's ancient power carries the weight of epochs in its seemingly ordinary frame. His presence fills rooms not through excessive size but through an unmistakable gravity—a sense that space itself bends slightly toward him, acknowledging powers beyond mortal comprehension housed within a deceptively mortal shell. Even in human form, his body manifests the underlying characteristics that made him apex among Titans—extraordinary density, contained energy, and the inherent traits of the Northern *[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]* lineage.
 
-
-> [!quote]  You're frighteningly handsome—that's not a compliment.
+> [!quote] You're frighteningly handsome—that's not a compliment.
 > — Madison Russell
-
 
 ## Human Form
 

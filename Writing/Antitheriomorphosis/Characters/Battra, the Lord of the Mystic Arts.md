@@ -32,7 +32,7 @@ Beneath the grandeur and mystical mastery lies a being shaped by ancient wounds 
 ### Human Form
 
 > [!info] Human Identity
-> 
+>
 > - **Human Name:** Bartholomew Lepidiel
 > - **Documented Age:** 25 (Monarch records)
 > - **Actual Age:** Approximately 250 million years old (exact age unknown)
@@ -44,7 +44,7 @@ Beneath the grandeur and mystical mastery lies a being shaped by ancient wounds 
 ### Titan Form
 
 > [!info] Titan Identity
-> 
+>
 > - **Species:** _[[Titanus mosura]]_ (Divine Moth)
 > - **Status:** Maintains human form by choice despite immunity to Antitheriomorphosis
 
@@ -108,7 +108,7 @@ Though capable of returning to his original Divine Moth form, Battra rarely does
 
 ## Abilities & Powers
 
-> [!quote] Magical Mastery  
+> [!quote] Magical Mastery
 > “Before him, magic bent to the will of the universe. After him, the universe bends to the will of magic.”
 
 ### Core Abilities
@@ -151,7 +151,7 @@ Battra's signature spell storage system:
 ### Combat Abilities
 
 > [!important] Fighting Philosophy
-> 
+>
 > - Efficiency above all—no wasted movement, energy, or opportunity
 > - Anticipate and counter rather than overwhelm
 > - Strategic application of minimal force for maximum effect
@@ -314,7 +314,7 @@ Following the invasion's resolution, Battra established Keep Charlie within Cast
 ## Trivia
 
 > [!tip] Interesting Facts
-> 
+>
 > - Secretly enjoys baking in his spare time, allowing Mothra to take credit for treats delivered to Monarch
 > - Designed Keep Charlie's Portcullis Mystic to be needlessly theatrical purely for his own amusement
 > - Despite appearances, respects Godzilla for not being bound by fate, unlike himself

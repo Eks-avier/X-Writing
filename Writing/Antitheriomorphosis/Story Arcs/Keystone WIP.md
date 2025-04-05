@@ -110,17 +110,11 @@ The arc concludes with the quartet finding renewed connection with each other wh
 ## Major Themes
 
 1. **Adaptation vs. Stagnation**: The necessity of evolution in the face of changing circumstances, and the danger of clinging to established patterns simply because they're familiar.
-
 2. **Identity Beyond Roles**: Each character must confront who they are beyond the cosmic functions they've fulfilled for millions of years.
-
 3. **Jealousy and Acceptance**: The complex emotions that arise when established relationships are disrupted, and the journey toward understanding change doesn't necessarily mean replacement.
-
 4. **Communication Styles**: How different beings express connection in different ways – Gojira through combat, Divine Moths through psychic bonds, etc.
-
 5. **Found Family**: The bonds that form through shared experience rather than biological connection, and how they can evolve across millions of years.
-
 6. **Rebirth and Legacy**: The cycle of destruction and renewal, represented both by Battra's reincarnation and the quartet's transformation.
-
 7. **Unacknowledged History**: How the deliberate erasure of shared past creates additional barriers to understanding and connection.
 
 ## Revised Timeline of Events
@@ -279,13 +273,12 @@ The arc concludes with the quartet finding renewed connection with each other wh
   - Prohibition against certain types of magic on Earth
   - Requirement to eventually solve the Antitheriomorphosis
   - Godric and Maria's authority to dissolve the Vow at their discretion
-  
+
 - **Symbolic Significance**:
   - Represents Battra's reintegration into Earth's power structure
   - Acknowledges his responsibility in the conflict that led to his defeat
   - Creates formal bond between the three beings who knew each other as hatchlings
   - Establishes clear boundaries while recognizing Battra's unique knowledge and abilities
-
 - **Impact on Dynamics**:
   - Creates complex relationship where Battra must serve Godric and Maria while possessing knowledge they lack
   - His youthful appearance belies his ancient knowledge and memories

@@ -8,7 +8,7 @@ Primus exists as the fifth fundamental force of nature alongside gravity, electr
 
 ### Transformation Process
 
-All magic fundamentally operates through the structured conversion of Primus into specific energy forms. Contact with a sorcerer's soul involuntarily transforms raw Primus into Structured Primus, its stable and usable form. 
+All magic fundamentally operates through the structured conversion of Primus into specific energy forms. Contact with a sorcerer's soul involuntarily transforms raw Primus into Structured Primus, its stable and usable form.
 
 Battra alone possesses the ability to halt this transformation process, enabling manipulation of Primus in its raw state. However, its absurd demands of skill to be used at even just a baseline level, along with its unprecedented nature, makes it an incredibly difficult skill for even the Lord of the Mystic Arts to grasp.
 
@@ -183,7 +183,7 @@ Once Primus has been gathered and converted into energy, the sorcerer must shape
 ### Execution: Bringing the Spell into Reality
 
  Once the spell is activated, it manifests physically.
- 
+
 - If the sorcerer is advanced enough, then he may _embed_ other effects into the spell long after it has been executed.
 
 **Factors Affecting Spell Execution:**
@@ -294,7 +294,7 @@ Spell Optimization is the systematic enhancement of magic to improve efficiency,
 **The Limits and Peak of Optimization:**
 
 - Sorcerers must always sacrifice something when optimizing a spell, even Battra. As such, creativity and situational awareness is key to choosing what to trade off.
-- Battra's obsession with Optimization gave him the capacity to control magic so efficiently that his spells cost negligible energy, allowing him to generate more energy than he can consume, even in the midst of battle. 
+- Battra's obsession with Optimization gave him the capacity to control magic so efficiently that his spells cost negligible energy, allowing him to generate more energy than he can consume, even in the midst of battle.
 
 ### Traditional vs. Commitment-Based Optimization
 
@@ -312,10 +312,10 @@ There are two primary methods of Optimization:
 - Uses Commitments (Vows, Contracts, Covenants) to enforce rules on magic
 - Instantly refines a spell, allowing for near-perfect efficiency
 - Risky—if the Commitment is broken, the magic could fail or backfire
-- Battra's primary method of Optimization; he introduces, then eventually teaches this to his students first rather than *TradOpt*
+- Battra's primary method of Optimization; he introduces, then eventually teaches this to his students first rather than _TradOpt_
 	- Primary Commitment of choice is the Contract, specifically the Self-Contract.
 
-**Example of a Commitment-Based Optimization:** Instead of optimizing a fireball spell over years, a sorcerer creates a Contract: “This fireball will always form in 0.5 seconds, but I will never be able to use another projectile spell.” 
+**Example of a Commitment-Based Optimization:** Instead of optimizing a fireball spell over years, a sorcerer creates a Contract: “This fireball will always form in 0.5 seconds, but I will never be able to use another projectile spell.”
 
 ### The Role of Chants & Incantations in Optimization
 

@@ -1,6 +1,6 @@
 {
   "tabSize": 3,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,

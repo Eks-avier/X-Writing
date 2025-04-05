@@ -18,7 +18,7 @@ tags:
 
 # Current Status
 
-## Summary 
+## Summary
 
 Godzilla stands as the sole surviving pure representative of *Titanus gojira*—the last bearer of both Limitless Adaptation and Energy Domination in their complete forms. As Alpha Paramount, his position at the apex of the Titan hierarchy represents both a fulfillment of his species' natural predisposition toward leadership and a poignant reminder of their near-complete extinction. His relationship with the hybrid *Titanus zilla* species represents a significant evolution beyond traditional Northern perspectives, acknowledging the value of partial genetic preservation despite the loss of defining abilities. Despite being the last of his kind, Godzilla maintains several approaches to preserving his species' legacy, including Hollow Earth exploration, selective knowledge transmission, and protection of locations significant to *Titanus gojira* history.
 

@@ -24,8 +24,8 @@ last_updated: 2025-03-31
 
 - **Primary Title**: Alpha Paramount
 - **Secondary Titles**: King of the Monsters, Alpha of the Titans
-- **Form of Direct Address**: "Alpha" (by Titans), "Sir" (by humans)
-- **Formal Style of Address**: "Alpha Paramount" (in court), "His Majesty" (in formal documents)
+- **Form of Direct Address**: “Alpha” (by Titans), “Sir” (by humans)
+- **Formal Style of Address**: “Alpha Paramount” (in court), “His Majesty” (in formal documents)
 - **Recognition Signals**: All Titans instinctively lower their heads in his presence; speaking permitted only after his acknowledgment
 
 ### Authority Scope
@@ -136,19 +136,23 @@ This hierarchical design creates both efficiency and stability by establishing c
 Godzilla established a formal hierarchical system with distinct authority levels:
 
 #### Alpha Tier (Transcendent Authority)
+
 - **Paramount (Godzilla)**: Supreme authority over all Titans
 - **Divine (Mothra)**: Authority over human-Titan relations and spiritual matters
 - **Sovereign (Kong)**: Independent authority over Hollow Earth domain
 
 #### Beta Tier (Direct Extensions)
+
 - **Stalwart Vanguard (Anguirus)**: Defensive specialist, Godzilla's right hand
 - **Lord of the Skies (Rodan)**: Aerial enforcement, Godzilla's left hand
 
 #### Warden Tier (Territorial Management)
+
 - **Cardinal Wardens**: North, South, East, West oversight (e.g., Leviathan, Scylla)
 - **Directional Wardens**: Intercardinal oversight (e.g., Manda, Bakunawa)
 
 #### Regional Tier (Local Implementation)
+
 - **Regionals**: Local guardians answering to their respective Warden
 - **Territorials**: Semi-sentient beings with defined territories
 - **Primals**: Instinct-driven Titans requiring supervision
@@ -163,6 +167,7 @@ Godzilla established a formal hierarchical system with distinct authority levels
 Three distinct Alpha positions exist, each with unique authority domains:
 
 #### Alpha Divine (Mothra)
+
 - **Power Balance**: Complementary authority through mutual Vow
 - **Division of Power**: While Godzilla rules Titans, Mothra governs human-Titan relations
 - **Vow Constraint**: Neither can act for or against humanity without both consenting
@@ -171,6 +176,7 @@ Three distinct Alpha positions exist, each with unique authority domains:
 - **Operational Dynamic**: Independent authority in spiritual matters; advisory role in territorial concerns
 
 #### Alpha Sovereign (Kong)
+
 - **Status Recognition**: Formally acknowledged ruler of Hollow Earth
 - **Territorial Autonomy**: Complete governance over Hollow Earth domain
 - **Resource Access**: Can requisition surface assets with Paramount's permission
@@ -187,7 +193,6 @@ Two Beta Titans serve as direct extensions of Godzilla's authority:
   - Closest advisor on defensive matters
   - Ancient brotherhood forged through millennia of shared experiences
   - Direct authority to act in Paramount's name during emergencies
-
 - **Lord of the Skies (Rodan)**:
   - Functions as left hand and aerial enforcer
   - Provides atmospheric and long-range reconnaissance
@@ -292,7 +297,7 @@ The Monster Island Palace serves as physical manifestation of Godzilla's governa
 ### Rise to Alpha
 
 - **Ascension Pattern**: Fastest rise through Titan hierarchy in recorded history
-- **Title Acquisition**: Known as "Whirlwind of Death" during his rapid ascent
+- **Title Acquisition**: Known as “Whirlwind of Death” during his rapid ascent
 - **Challenger History**: Defeated all previous regional Alphas to establish singular authority
 - **Leadership Approach**: Unified previously fragmented Titan territories under centralized rule
 

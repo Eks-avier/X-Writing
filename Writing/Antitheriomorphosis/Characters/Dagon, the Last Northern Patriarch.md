@@ -3,7 +3,7 @@
 ## Core Identity
 
 **Human Name:** Darius Nordson
-**Apparent Age:** 45 
+**Apparent Age:** 45
 **True Age:** Approximately 250-255 million years old at time of death (300-500 years older than Godric; translates to having Godric as a 20 year old)
 **Status:** Resurrected in human form
 **Position:** Former Northern Patriarch, Father of current Alpha Paramount
@@ -339,6 +339,6 @@
 - Due to some biological complications with his mate, Godzilla when his parents were the equivalent of human parents who are 20 years old.
 - Northern Gojira typically have offspring when both parents are equivalent to 18 years old humans.
 - Has initially named his son the equivalent of a human *junior*, making Godzilla technically Dagon Jr. or Dagonson, which is common practice among Northern Gojira who are very patrilineal.
-- Dagon himself is named after his own father, Godzilla's grandfather. 
+- Dagon himself is named after his own father, Godzilla's grandfather.
 - Dagon isn't technically his name either, it was given to him by early humans when they witnessed his bones and theorized him to be a fish god.
-	- Godzilla has always referred to him as *father*, only after knowing what the humans named him did his son begin calling him Dagon. 
+	- Godzilla has always referred to him as *father*, only after knowing what the humans named him did his son begin calling him Dagon.

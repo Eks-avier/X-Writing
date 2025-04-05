@@ -18,7 +18,7 @@ let charType = await tp.system.prompt("Enter character type (protagonist, antago
 -%>
 ---
 aliases: <% aliases.length > 0 ? aliases.map(a => `\n  - ${a}`).join('') : '[]' %>
-tags: 
+tags:
   - character
   - reference
   - character/<% charType.toLowerCase() %>
@@ -31,7 +31,7 @@ File: <% tp.file.folder() %>/<% tp.file.title %>.md
 
 # **<% fileName %>**
 
-> *"[Signature quote or statement that captures character essence]"*
+> *“[Signature quote or statement that captures character essence]”*
 
 ## Overview
 
@@ -74,8 +74,8 @@ File: <% tp.file.folder() %>/<% tp.file.title %>.md
 
 ## Abilities & Powers
 
-> [!quote] [Ability Theme]  
-> "[Quote about their abilities or powers from another character or themselves]"
+> [!quote] [Ability Theme]
+> “[Quote about their abilities or powers from another character or themselves]”
 
 ### Core Abilities
 
@@ -116,7 +116,7 @@ File: <% tp.file.folder() %>/<% tp.file.title %>.md
 
 ## Notable Relationships
 
-> [!info] Key Relationships  
+> [!info] Key Relationships
 > [Brief overview of relationship dynamics and patterns]
 
 ### [Relationship 1 - Name]
@@ -178,11 +178,11 @@ File: <% tp.file.folder() %>/<% tp.file.title %>.md
 
 ## Quotations
 
-> "[Memorable quote that reveals character]"
+> “[Memorable quote that reveals character]”
 
-> "[Meaningful quote that shows growth or conflict]"
+> “[Meaningful quote that shows growth or conflict]”
 
-> "[Quote that demonstrates relationship with another character]"
+> “[Quote that demonstrates relationship with another character]”
 
 ## Narrative Appearances
 

@@ -1,6 +1,8 @@
+# Edelweiss
+
 The night air is warm.
 Not heavy, not oppressive—just warm.
-The kind of warmth that clings gently, like an old memory, like a dream that hasn’t faded yet.
+The kind of warmth that clings gently, like an old memory, like a dream that hasn't faded yet.
 
 The sky stretches wide above them, a deep indigo canvas scattered with stars.
 The waves of Infant Island lap softly against the shore, whispering to the sand.
@@ -41,11 +43,11 @@ Not until Mothra.
 
 Not until she dragged him into those ridiculous musicals.
 
-Not until Battra’s students looked up at him, unafraid, and told him—
-"You’re good at this."
+Not until Battra's students looked up at him, unafraid, and told him—
+“You're good at this.”
 
 Not until one of them whispered,
-"Your voice is deep and strong… yet gentle."
+“Your voice is deep and strong… yet gentle.”
 
 Not until the words of a human song slipped from his mouth without thinking.
 
@@ -73,14 +75,13 @@ The stories his father told him beneath the stars, when the world was small and 
 
 And so now, alone beneath the stars, he sings it.
 
-
 ---
 
 His voice is low and steady, carrying the weight of something old.
 
 Godzilla (softly):
-"Edelweiss, Edelweiss..."
-"Every morning you greet me..."
+“Edelweiss, Edelweiss…”
+“Every morning you greet me…”
 
 The song drifts across the air, curling into the night.
 
@@ -89,9 +90,9 @@ He hears movement behind him.
 
 A presence he would never mistake.
 
-He doesn’t turn.
+He doesn't turn.
 
-He doesn’t need to.
+He doesn't need to.
 
 Because Mothra is already stepping forward, already joining him.
 
@@ -107,8 +108,8 @@ Singing.
 
 It stops her in her tracks.
 
-She doesn’t interrupt.
-She doesn’t announce herself.
+She doesn't interrupt.
+She doesn't announce herself.
 She just—listens.
 
 There is something unspoken in his voice.
@@ -124,19 +125,19 @@ She sings too.
 She steps beside him, her voice light as the wind.
 
 Mothra (softly):
-"Small and white, clean and bright..."
-"You look happy to meet me..."
+“Small and white, clean and bright…”
+“You look happy to meet me…”
 
 Their voices blend.
 
-She doesn’t know why it makes her chest ache.
+She doesn't know why it makes her chest ache.
 
 Godzilla glances at her, gold eyes flickering in the starlight.
-She doesn’t look away.
+She doesn't look away.
 
 Together:
-"Blossom of snow, may you bloom and grow..."
-"Bloom and grow forever..."
+“Blossom of snow, may you bloom and grow…”
+“Bloom and grow forever…”
 
 The words feel too big.
 Too heavy.
@@ -144,7 +145,6 @@ Too real.
 
 And yet—
 Neither of them stop.
-
 
 ---
 
@@ -160,13 +160,13 @@ Godzilla looks up, watching the stars.
 
 Mothra looks at him.
 
-She doesn’t know why her throat feels tight.
+She doesn't know why her throat feels tight.
 
-She doesn’t know why she suddenly feels fragile.
+She doesn't know why she suddenly feels fragile.
 
 And then, he murmurs, barely above a whisper—
 
-"That was… nice."
+“That was… nice.”
 
 A pause.
 
@@ -174,7 +174,7 @@ A breath too long.
 
 She exhales.
 
-"Yes."
+“Yes.”
 
 Her voice is too soft.
 
@@ -183,8 +183,8 @@ She almost—
 Almost—
 Reaches for his hand.
 
-But she doesn’t.
-And he doesn’t either.
+But she doesn't.
+And he doesn't either.
 
 Instead—
 They just stand there.
@@ -226,7 +226,7 @@ To the ice.
 To the frozen kingdom he once belonged to—
 To a homeland that no longer exists.
 
-"Bless my homeland forever," he sings again, quieter this time, so soft as if whispering a prayer.
+“Bless my homeland forever,” he sings again, quieter this time, so soft as if whispering a prayer.
 
 He wonders—
 Would his father have had a song like this?
@@ -235,7 +235,7 @@ Would they have sung of the North?
 Would they have sung of the sea ice and frozen cliffs, of the blizzards and the deep, endless winters?
 
 Would it have been something like—
-"Bless the North"?
+“Bless the North”?
 
 He scoffs.
 Such a silly thought.
@@ -250,7 +250,7 @@ A young thought.
 A childish thought.
 A thought he buried deep when his father never returned.
 
-"I wish you were still here."
+“I wish you were still here.”
 
 It escapes his lips before he can stop it.
 It claws its way out of the pit he threw it in his psyche.
@@ -270,12 +270,11 @@ They are never the same.
 
 Not like when he was young.
 
-
 ---
 
 She says nothing.
 
-She doesn’t have to.
+She doesn't have to.
 
 She just watches—
 The way his golden eyes dim.
@@ -297,8 +296,8 @@ The way he stares into the blanket of stars draping over the night.
 
 He is mourning.
 
-And she doesn’t understand it.
-She hates that she doesn’t understand it.
+And she doesn't understand it.
+She hates that she doesn't understand it.
 
 She may mourn for her people.
 She may mourn for her parents.
@@ -322,11 +321,10 @@ And still, he says nothing.
 Instead, he stares at the sky—
 And he wonders.
 
-
 ---
 
-"If he survived—"
-"Would we both sing?"
+“If he survived—”
+“Would we both sing?”
 
 The answer comes immediately.
 Without hesitation.
@@ -343,18 +341,18 @@ And Mothra blinks.
 
 She tilts her head.
 
-"What?"
+“What?”
 
 He shakes his head, smiling, his chest lighter now.
 
-"Nothing. I just thought—"
+“Nothing. I just thought—”
 
-"He would have hated it."
+“He would have hated it.”
 
 She raises a brow.
-"Hated what?"
+“Hated what?”
 
-"Being forced to sing in a musical."
+“Being forced to sing in a musical.”
 
 She stares for a second—then, without warning—laughs.
 
@@ -371,7 +369,6 @@ But just enough.
 
 And for the first time that night, the weight in his chest feels bearable.
 
-
 ---
 
 Mothra exhales, still smiling slightly.
@@ -383,13 +380,13 @@ Godzilla hums one last note of the song.
 And then—
 Softly, absently, as if carried by the wind—
 
-"You look happy to meet me."
+“You look happy to meet me.”
 
 He sings it.
-As if continuing "Edelweiss."
+As if continuing “Edelweiss.”
 As if it belongs here, in this moment.
 
-And she laughs again—not because it’s funny, but because it’s true.
+And she laughs again—not because it's funny, but because it's true.
 
 She does.
 

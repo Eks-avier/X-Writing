@@ -7,6 +7,7 @@ The following instructions will guide you in implementing a cohesive atomic know
 ## Document Architecture & File Structure
 
 ### Primary Structure
+
 Implement the following file structure to organize your atomic knowledge base:
 
 ```
@@ -71,6 +72,7 @@ All document filenames should:
 When dividing content between related documents:
 
 #### Species Faction Documents:
+
 - **`Northern-Faction.md`**: Focus exclusively on:
   - Physical characteristics
   - Biological adaptations
@@ -78,7 +80,6 @@ When dividing content between related documents:
   - Territorial range
   - Physiological traits
   - Combat adaptations specific to biology
-
 - **`Northern-Culture.md`**: Focus exclusively on:
   - Social structures
   - Family organization
@@ -93,6 +94,7 @@ When dividing content between related documents:
 ### 1. Species Documents
 
 #### Species Hub Document:
+
 ```yaml
 ---
 title: "Titanus gojira"
@@ -123,6 +125,7 @@ last_modified: 2025-04-03
 ```
 
 #### Faction Document:
+
 ```yaml
 ---
 title: "Titanus gojira: Northern Faction"
@@ -154,6 +157,7 @@ last_modified: 2025-04-03
 ```
 
 #### Culture Document:
+
 ```yaml
 ---
 title: "Northern Titanus gojira: Cultural Profile"
@@ -183,6 +187,7 @@ last_modified: 2025-04-03
 ### 2. Character Documents
 
 #### Character Hub Document:
+
 ```yaml
 ---
 title: "Godzilla"
@@ -214,6 +219,7 @@ last_modified: 2025-04-03
 ```
 
 #### Character Heritage Document:
+
 ```yaml
 ---
 title: "Godzilla: Cultural Heritage"
@@ -249,6 +255,7 @@ last_modified: 2025-04-03
 ### 1. All Documents Must Include:
 
 1. **Summary Section**:
+
    ```markdown
    ## Summary 
    
@@ -256,6 +263,7 @@ last_modified: 2025-04-03
    ```
 
 2. **Related Documents Section**:
+
    ```markdown
    ## Related Aspects
    
@@ -264,6 +272,7 @@ last_modified: 2025-04-03
    ```
 
 3. **Return Link**:
+
    ```markdown
    [Return to Hub Document]([[_Titanus-Gojira]])
    ```
@@ -271,6 +280,7 @@ last_modified: 2025-04-03
 ### 2. Faction and Culture Document Structures
 
 #### Northern-Faction.md Structure:
+
 ```markdown
 # Northern Faction
 
@@ -305,6 +315,7 @@ last_modified: 2025-04-03
 ```
 
 #### Northern-Culture.md Structure:
+
 ```markdown
 # Northern Titanus Gojira
 
@@ -349,11 +360,13 @@ When referencing related documents, always:
 
 Example:
 - In Northern-Faction.md:
+
   ```markdown
   - [[Northern Culture]] - Social structures and practices built upon these biological foundations
   ```
 
 - In Northern-Culture.md:
+
   ```markdown
   - [[Northern Faction]] - The biological traits underlying cultural practices
   ```
@@ -407,7 +420,7 @@ Follow this order to efficiently implement the knowledge base:
 2. **Create Core Species Documents**:
    - Faction documents (Northern-Faction.md, etc.)
    - Culture documents (Northern-Culture.md, etc.)
-   
+
 3. **Create Character-Specific Documents**:
    - Identity documents (including Cultural-Heritage.md)
    - Ability documents
@@ -432,12 +445,12 @@ When redistributing existing content:
    - Maintain the evocative, atmospheric writing style
    - Keep all sensory details and vivid descriptions
    - Preserve the sense of ancient cosmic significance
-   
+
 2. **Maintain Factual Consistency**:
    - Ensure dates, capabilities, and relationships remain consistent
    - Check that territorial descriptions match across documents
    - Verify that species history maintains continuity
-   
+
 3. **Resolve Contradictions**:
    - When contradictions exist, default to the most detailed source
    - Document resolution decisions in a separate note for future reference

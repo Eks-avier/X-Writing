@@ -45,11 +45,13 @@ Commitments function as structured abstractions over Primus, which is inherently
 All Commitments operate through [[Soul Resonance]], which functions via two distinct pathways:
 
 #### Horizontal Pathway (Soul-to-Soul)
+
 - Direct resonance between souls, with Heaven as witness
 - Available to all beings with souls, including Null species
 - Basis for Mutual Commitments between individuals
 
 #### Vertical Pathway (Soul-to-Primus)
+
 - Direct soul manipulation of Primus through [[Soul Infusion]]
 - Limited to beings capable of magical practice
 - Required for Self-Commitments
@@ -155,7 +157,7 @@ Contracts are the most common technical Commitment, serving as essential tools i
 - **Null Access**: Inaccessible to Null beings as they require direct Primus manipulation through [[Soul Infusion]]
 
 > [!example] Practical Contract
-> "I commit to practicing fire manipulation for four hours daily for the next month. In exchange, my fire spells will maintain stability for 30% longer during this period."
+> “I commit to practicing fire manipulation for four hours daily for the next month. In exchange, my fire spells will maintain stability for 30% longer during this period.”
 
 > [!note] Related Topics
 > For practical applications and techniques, see [[Magical Contracts - Applications and Techniques]]
@@ -185,7 +187,7 @@ Promises are unique because they rely not on magical ability, but on sheer belie
 - Sorcerers are wary of Nulls making Promises—not because they always cause magic, but because the Null themselves is terrifying if fully committed
 
 > [!example] Powerful Promise
-> "I promise to never use my knowledge to harm an innocent. Should I break this promise, may my power turn against me."
+> “I promise to never use my knowledge to harm an innocent. Should I break this promise, may my power turn against me.”
 
 > [!note] Related Topics
 > For deeper exploration of conviction-based magic, see [[The Power of Conviction - Promise Magic]]
@@ -214,7 +216,7 @@ Oaths are Commitments of allegiance, sworn duty, and identity. Unlike Promises, 
 - **Null Access**: Self-Oaths are inaccessible to Null beings as they require [[Soul Infusion]], but Mutual Oaths can be formed through [[Soul Resonance]]
 
 > [!example] Identity Oath
-> "I swear on my name and power that I shall uphold the principles of Keep Charlie, protecting its knowledge and students with my life and magic."
+> “I swear on my name and power that I shall uphold the principles of Keep Charlie, protecting its knowledge and students with my life and magic.”
 
 > [!note] Related Topics
 > For detailed examination of identity-based magic, see [[Identity Magic - The Power of Oaths]]
@@ -224,11 +226,13 @@ Oaths are Commitments of allegiance, sworn duty, and identity. Unlike Promises, 
 Vows are the strongest personal Commitments, integrated with the soul itself through advanced [[Soul Resonance]] patterns.
 
 #### Core Mechanics
+
 - Directly bind to the soul, persisting beyond death
 - Breaking a Vow results in punishment proportional to soul strength
 - Mutual Vows, when broken, invariably result in death
 
 #### Applications
+
 - Comprehensive enhancement of magical practice (75-120% improvement)
 - Establishing absolute rules for techniques
 - Creating permanent foundations for advanced magical systems
@@ -241,7 +245,7 @@ Vows are the strongest personal Commitments, integrated with the soul itself thr
 - **Null Access**: Self-Vows require [[Soul Infusion]] and are inaccessible to Null beings. Mutual Vows are accessible to Null beings with sufficient soul strength.
 
 > [!example] Soul-Binding Vow
-> "I vow to surrender independent use of Convergence and Coordination in exchange for perfect integration within the Singularity Technique."
+> “I vow to surrender independent use of Convergence and Coordination in exchange for perfect integration within the Singularity Technique.”
 
 > [!note] Related Topics
 > For exploration of soul-binding mechanisms, see [[Soul-Binding]]
@@ -297,14 +301,14 @@ The relationship between Commitments and [[Spellcasting Paradigms|Object-Oriente
 
 ### Contracts as Flexible Implementation
 
-- Provide the "glue" for spell frameworks
+- Provide the “glue” for spell frameworks
 - Handle variable parameters and specific applications
 - Allow techniques to evolve and improve over time
 - Perfect for experimental development and refinement
 
 ### Vows as Permanent Foundations
 
-- Establish absolute rules for techniques (e.g., "cuts anything")
+- Establish absolute rules for techniques (e.g., “cuts anything”)
 - Create permanent sacrifices that enable maximum efficiency
 - Become integral to the sorcerer's identity
 - Used by masters for their most refined techniques
@@ -348,9 +352,9 @@ Their Vow establishes a clear division of authority:
 ### Enforcement Mechanism
 
 The Vow manifests through their verbal consent pattern:
-- "I consent!" → One agrees, but the other must still decide.
-- "I do not consent!" → One blocks the other from acting.
-- "We consent!" → Both agree, allowing action to proceed.
+- “I consent!” → One agrees, but the other must still decide.
+- “I do not consent!” → One blocks the other from acting.
+- “We consent!” → Both agree, allowing action to proceed.
 
 ### Exception Clause
 
@@ -433,7 +437,7 @@ The fact that Soul Resonance functions under Heaven's oversight suggests a delib
 
 The distinction between Horizontal and Vertical pathways creates a natural balance in the magical ecosystem. Those gifted with [[Soul Infusion]] capabilities gain versatile magical potential but must work harder to create stable Commitments. Those limited to Soul Resonance may lack conventional magical options but possess a direct line to some of the most fundamental forces in the cosmos.
 
-As Battra observes in his teachings: "The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen."
+As Battra observes in his teachings: “The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen.”
 
 > [!note] Related Topics
 > For deeper philosophical exploration, see [[Philosophy of Magical Bindings]]

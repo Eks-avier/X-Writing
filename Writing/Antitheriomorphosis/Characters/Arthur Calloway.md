@@ -2,9 +2,9 @@
 
 ## Core Identity
 
-**Age:** 28 years old  
-**Occupation:** Electronics engineer, freelance consultant  
-**Current Status:** Working from home on experimental energy project  
+**Age:** 28 years old
+**Occupation:** Electronics engineer, freelance consultant
+**Current Status:** Working from home on experimental energy project
 
 ## Physical Appearance
 

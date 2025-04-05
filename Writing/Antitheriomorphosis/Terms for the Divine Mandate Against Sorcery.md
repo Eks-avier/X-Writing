@@ -6,11 +6,11 @@ This pivotal event in the AU's history is referred to differently depending on w
 
 | Character/Group | Term Used | Focus/Perspective |
 |-----------------|-----------|-------------------|
-| **Battra** | **"The Severance"** | Emphasizes humanity's disconnection from Primus; clinical term focusing on consequence rather than morality |
-| **Mothra** | **"The Transgression"** | Highlights the moral and divine boundary violation; carries both cosmic significance and personal grief |
-| **Godzilla** | **"The Judgment"** | Direct and outcome-focused; typical of his straightforward nature and acceptance of cosmic order |
-| **Keep Charlie Students** | **"The Purge"** | Blunt, dramatic shorthand typical of younger generations describing historical tragedies |
-| **Monarch Researchers** | **"The Primus Dissociation Event"** | Scientific terminology that maintains academic detachment while studying the phenomenon |
+| **Battra** | **“The Severance”** | Emphasizes humanity's disconnection from Primus; clinical term focusing on consequence rather than morality |
+| **Mothra** | **“The Transgression”** | Highlights the moral and divine boundary violation; carries both cosmic significance and personal grief |
+| **Godzilla** | **“The Judgment”** | Direct and outcome-focused; typical of his straightforward nature and acceptance of cosmic order |
+| **Keep Charlie Students** | **“The Purge”** | Blunt, dramatic shorthand typical of younger generations describing historical tragedies |
+| **Monarch Researchers** | **“The Primus Dissociation Event”** | Scientific terminology that maintains academic detachment while studying the phenomenon |
 
 ## Implementation Examples
 
@@ -33,20 +33,16 @@ Dr. Russell's presentation to the Monarch board referred exclusively to "the Pri
 Different viewpoint characters can use their preferred terminology in internal monologue:
 
 - **Battra POV**: *The Severance had been necessary, perhaps, but the punishment far exceeded the crime. Humanity shouldn't still be paying for one tribe's mistakes after all these millennia.*
-
 - **Mothra POV**: *She still saw their faces sometimes, her first human friends from the Eclipse. The Transgression had taken them from her in ways even death couldn't have. Some boundaries were never meant to be crossed.*
-
 - **Godzilla POV**: *The humans bickered over what to call it, but The Judgment was simple: they had violated cosmic law and paid the price. He remembered the light that day, how it had filled the sky until even he had to look away.*
 
 ## Historical Documentation
 
 Official records could reflect the bias of their authors:
 
-- **Keep Charlie Textbook**: *"The Purge represents the most significant supernatural intervention in human history, resulting in humanity's classification as Null for several thousand years..."*
-
-- **Monarch Research Paper**: *"Analysis of residual energy patterns suggests the Primus Dissociation Event created a persistent psychic barrier in the human neurological system rather than actually removing the capacity for Primus interaction..."*
-
-- **Battra's Personal Journals**: *"The Severance might have been prevented had I better understood the humans' capacity for curiosity. Their questions about the soul seemed innocent at first—how could I have known where it would lead?"*
+- **Keep Charlie Textbook**: *“The Purge represents the most significant supernatural intervention in human history, resulting in humanity's classification as Null for several thousand years…”*
+- **Monarch Research Paper**: *“Analysis of residual energy patterns suggests the Primus Dissociation Event created a persistent psychic barrier in the human neurological system rather than actually removing the capacity for Primus interaction…”*
+- **Battra's Personal Journals**: *“The Severance might have been prevented had I better understood the humans' capacity for curiosity. Their questions about the soul seemed innocent at first—how could I have known where it would lead?”*
 
 ## World-Building Function
 

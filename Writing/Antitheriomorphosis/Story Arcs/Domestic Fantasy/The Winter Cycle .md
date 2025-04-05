@@ -2,14 +2,14 @@
 
 ## Chapter 1: First Frost
 
-**Title: "Cold Front"**
+**Title: “Cold Front”**
 
 - Winter arrives in Meadowvale, unusually cold and early
 - Students and faculty notice Godric's strange resistance to cold (wearing light clothing)
-- Maria appears perfectly comfortable despite the temperatures, though she "performs" being cold
+- Maria appears perfectly comfortable despite the temperatures, though she “performs” being cold
 - Godric has stopped shaving regularly, sporting a growing stubble that students notice and comment on
 - Maria absentmindedly touches his jaw during lunch break, appreciating the texture before realizing what she's doing
-- Final faculty meeting before winter break, where Principal Harris thanks "the Nordsons" for their exceptional contributions
+- Final faculty meeting before winter break, where Principal Harris thanks “the Nordsons” for their exceptional contributions
 - Maria's brief fantasy of using her divine light to clear away the winter clouds—an uncharacteristically emotional response to the darkening days
 - Brief POV from Barbara Matthews observing them walking home in the snow, noticing how natural they seem together despite Godric's increasing distraction
 - Barbara notices Godric stopping at a local bakery to buy Maria's favorite cookies without being asked
@@ -20,7 +20,7 @@
 
 ## Chapter 2: The Hibernation Conversation
 
-**Title: "Dormant Cycle"**
+**Title: “Dormant Cycle”**
 
 - Maria confronts Godric about his sleep patterns, teasing that he should be hibernating
 - Godric dismisses her concern, claiming he's slept properly since they began sharing the master bedroom. He doesn't feel the pull of hibernation anymore.
@@ -28,16 +28,16 @@
 - Brief flashback to when they stopped using their personal rooms entirely, neither acknowledging the change but both accepting it
 	- Memory of waking up tangled together that morning, how neither had pulled away immediately
 	- Maria's bioluminescence flickers pink briefly before she controls it
-- Godric begins having memory sequences of his father. 
+- Godric begins having memory sequences of his father.
 	- During hibernation, he can bury these memories. Now that he's awake, they come at him ay full force.
 - Godric's first memory sequence of hibernation with his father:
 	- Young Godzilla curled against Dagon's massive form
 	- His father's protective warmth during the long northern winter
 	- The safety he felt, contrasted with his current restlessness
-	- Godric never shares this memory with Maria. 
+	- Godric never shares this memory with Maria.
 - Godric briefly imagines what hibernation with Maria would be like—the thought startles him and he keeps it deep within him.
 - Maria urges her Godric to hibernate, but Godric once again declines.
-- Maria finds herself studying Godric's sleeping form, worries that he may be fighting his hibernation because of the mission. 
+- Maria finds herself studying Godric's sleeping form, worries that he may be fighting his hibernation because of the mission.
 	- She finds herself silently playing with his hair, touching the outline of his jaw—feeling the roughness of his new stubble.
 	- Maria sees that Godric really is sleeping properly.
 - Maria wonders what could be making him so distracted if it wasn't his hibernation instincts.
@@ -46,7 +46,7 @@
 
 ## Chapter 3: Midnight Wanderings
 
-**Title: "Northern Lights"**
+**Title: “Northern Lights”**
 
 - Godric begins his pattern of disappearing after midnight
 - Maria attempts telepathic contact but finds him actively blocking her
@@ -75,14 +75,14 @@
 - Maria finds herself reorganizing their home, adding more personal touches.
 - Godric's increasingly uncharacteristic distracted demeanor is worrying Maria, but she keeps it hidden.
 - She realizes with surprise that she's nested—something Divine Moths do only when they plan to stay
-- Brief moment where Maria considers "blasting the sky with her light" to clear the winter darkness, surprised by her own emotional response
+- Brief moment where Maria considers “blasting the sky with her light” to clear the winter darkness, surprised by her own emotional response
 - Chapter ends with her discovering Godric's weighted absence in bed yet again, the sheets cold for the first time
 
-**Emotional Focus:** The widening gap between them despite increasing intimacy, their individual realizations about how "real" their life together has become, and Godric's confusion about his evolving feelings
+**Emotional Focus:** The widening gap between them despite increasing intimacy, their individual realizations about how “real” their life together has become, and Godric's confusion about his evolving feelings
 
 ## Chapter 4: The Search
 
-**Title: "Frozen Distance"**
+**Title: “Frozen Distance”**
 
 - Multiple days pass with Godric's continued absences
 - Maria debates using her powers to track him, fighting against both worry and indignation
@@ -113,7 +113,7 @@
 
 ## Chapter 5: The Winter Night
 
-**Title: "Thaw"**
+**Title: “Thaw”**
 
 - Maria reaches the frozen lake, her heart lurching at the sight of Godric
 - She finds him wearing nothing but plain clothes, his breath visibly steaming, eyes deep in contemplation
@@ -142,14 +142,14 @@
   - The warmth radiating between them despite the frozen surroundings
   - The subtle atomic energy from him meeting her golden scales
 - They don't stop kissing, as if never needing breath, they go on and on
-- Godric lifting her as they continue to kiss and 
+- Godric lifting her as they continue to kiss and
 - Sweet whispers and soft groans from Godric, answering moans from Maria
 - Maria giggling at being lifted, as if she couldn't fly herself
 - They journey home with Maria being bridal carried by Godric. They were inseparable even after they reach their home, continuing their kisses until they fall asleep fully clothed.
 
 ## Chapter 6: Morning Light
 
-**Title: "Awakening"**
+**Title: “Awakening”**
 
 - Maria wakes confused the next morning, an unusual experience for someone with near-perfect memory
 - Her memories across millions of years of lives are typically crystal clear, some imprinted in her genetic code, others buried in her soul
@@ -189,7 +189,7 @@
    - The home as physical manifestation of their emotional state
 
 4. **Uncertainty and Anticipation**
-   - The question of "what next" as both exciting and daunting
+   - The question of “what next” as both exciting and daunting
    - Ancient beings experiencing something truly new
    - The vulnerability of entering uncharted emotional territory
 

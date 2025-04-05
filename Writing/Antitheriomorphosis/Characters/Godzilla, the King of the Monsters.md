@@ -56,16 +56,48 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 
 Maintains a completely human appearance at all times - no Titan features ever manifest physically due to the Antitheriomorphosis thoroughly changing his physical form while preserving his abilities.
 
-| Attribute       | Description                                                                                                                |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Height**      | 6'5” (196 cm)                                                                                                              |
-| **Weight**      | 120 kg (unusually dense for his frame)                                                                                     |
-| **Build**       | Broad-shouldered with lean but extremely dense musculature                                                                 |
-| **Hair**        | Dark hair (color resembles his dorsal fins); typically styled back with some strands occasionally falling on his forehead. |
-| **Hair Length** | Prefers a shorter, dignified style; has experimented with shoulder length tied back.                                       |
-| **Eyes**        | Golden when in relaxed and in private (rare maternal trait); appears light blue publicly at all times                      |
-| **Skin**        | Caucasian complexion with a slight tan; naturally rough without blemishes                                                  |
-| **Features**    | Square-like face with defined jawline; high cheekbones; strong brow ridge                                                  |
+| Attribute       | Description                                                                          |
+| --------------- | ------------------------------------------------------------------------------------ |
+| **Height**      | 6'5” (196 cm)                                                                        |
+| **Weight**      | 120 kg (unusually dense for his frame)                                               |
+| **Build**       | Broad-shouldered with lean but extremely dense musculature; paternal trait modified by maternal leanness |
+| **Hair**        | Dark obsidian (matching his scales); typically styled back with occasional strands falling across forehead |
+| **Hair Length** | Prefers a shorter, dignified style; has experimented with shoulder length tied back  |
+| **Eyes**        | Vigilant blue (almost always); rarely shifts to ancestral golden (maternal inheritance) |
+| **Skin**        | Caucasian complexion with a slight tan; naturally rough without blemishes            |
+| **Features**    | Square-like face with defined jawline; high cheekbones; strong brow ridge reminiscent of his father |
+
+#### The Dual Eyes: Blue Vigilance and Golden Inheritance
+
+Godric's eyes represent perhaps the most profound physical manifestation of his dual nature and heritage:
+
+**The Vigilant Blue**
+- Present in virtually every moment, public or private
+- Resembles Cherenkov radiation when energy actively channeled
+- At rest, appears as piercing but human-like blue to casual observers
+- Visible evidence of his constant state of alertness
+- Direct inheritance from his father's icy blue gaze
+- With refined control, now appears more human-like, with Cherenkov effect only visible at certain angles or during energy use
+- Serves as emotional barometer:
+  - **Light blue** - Vigilant (default state)
+  - **Intensified blue** - Using powers or heightened emotions
+  - **Dulled blue** - Fatigued
+  - **Pulsating blue** - Agitated
+
+**The Ancestral Gold**
+- Extremely rare appearance (witnessed only a handful of times since transformation)
+- Direct maternal inheritance, matching his mother's golden eyes
+- Manifests only when the burden of being Alpha Paramount temporarily recedes
+- Occurs in moments of:
+  - Profound grief (witnessed when discovering his father's fate)
+  - Perfect repose (such as stargazing with Maria)
+  - Fundamental recognition (as during his first encounter with Kong)
+  - Critical vulnerability (observed by Anguirus after energy depletion)
+- Represents his true self beneath centuries of responsibility
+- Living connection to a mother he never knew
+- Source of complex emotion for both himself and his father
+
+The rarity of the gold eyes reflects how completely the Alpha Paramount role has integrated with his identity. After 250 million years of rulership, the vigilance required by his position has become embedded in his very being, fundamentally altering his physical manifestation. The brief appearances of gold represent fleeting moments when something more fundamental than kingship briefly takes precedence.
 
 #### Seasonal Physique Changes
 
@@ -74,18 +106,30 @@ Godzilla's body undergoes subtle seasonal changes related to his hibernation cyc
 - **Active Season (December-August)**: Leaner physique (10-12% body fat)
   - More defined musculature and slightly more angular facial features
   - Higher body temperature and more pronounced energy aura
+  - Greater overall physical performance capacity
 - **Pre-Hibernation (September-November)**: Bulking phase (15-18% body fat)
   - Fuller face with softer edges
   - Increased appetite and gradually slowing metabolism
   - Energy aura becomes more subdued
+  - Slightly increased lethargy, particularly in late afternoons
 
-> [!note] Eye Color Indicator
-> Godzilla's eye color serves as an emotional barometer:
-> - **Light blue** - Vigilant (default state)
-> - **Intensified blue** - Using powers or heightened emotions
-> - **Dulled blue** - Fatigued
-> - **Pulsating blue** - Agitated
-> - **Golden** - Completely relaxed or deeply sad (rare)
+#### Parental Inheritance
+
+Godric's appearance represents a living fusion of his parents' traits:
+
+**From Father (Dagon/Darius)**
+- Broad-shouldered frame and overall stature
+- Facial structure, particularly brow ridge and jawline
+- Stoic demeanor and contained presence
+- Blue eyes (when in vigilant state)
+- Physical approach to problem-solving
+
+**From Mother**
+- Obsidian black scales (manifested as dark hair in human form)
+- Golden eyes (rarely seen ancestral trait)
+- Leaner build than typical Northern Gojira
+- Dark dorsal plates (vs. father's snow-white fins)
+- Capacity for fiery temperament beneath stoic exterior
 
 #### Power Manifestation
 
@@ -95,6 +139,22 @@ When Godzilla uses his abilities, they manifest as energy effects rather than ph
 - No physical titan features ever emerge
 - His body temperature naturally runs higher than humans due to atomic energy
 - When pushed to his absolute limits, veins of blue energy become visible beneath his skin
+- His refined control now allows him to minimize visible energy effects during minor power usage
+- Can concentrate energy manifestation into specific body parts with precise control
+- Smallest power usages now create almost no visible signature except subtle eye illumination
+
+#### The Weight of Presence
+
+Despite his human appearance, Godric cannot truly hide among humanity due to his overwhelming presence:
+
+- Creates unconscious physical space around him in crowds without effort
+- Animals become unnaturally quiet or agitated in his vicinity
+- Humans experience subtle fight-or-flight response without understanding why
+- Restaurant patrons instinctively choose tables farther from him
+- Even those unaware of his identity sense something primal and dangerous
+- His mere presence registers in others' autonomic nervous systems as apex predator
+- This effect cannot be suppressed regardless of his intentions or behaviors
+- Has transformed this inevitable separation into a form of character assessment
 
 #### Distinctive Characteristics
 
@@ -104,13 +164,18 @@ When Godzilla uses his abilities, they manifest as energy effects rather than ph
 - **Voice**: Deep, resonant, seems to vibrate through the air
 - **Impact**: Leaves deeper footprints than his weight would suggest; furniture creaks under him
 - **Sunbathing**: Frequently sunbathes to efficiently absorb energy
+- **Temperature**: Maintains slightly elevated body temperature, particularly noticeable in winter
+- **Posture**: Perfect military bearing without conscious effort
+- **Gaze**: Tends to hold eye contact longer than socially comfortable
+- **Stillness**: Capable of remaining perfectly motionless for extended periods when observing
 
 ### Titan Form
 
 - **Physical Traits:** Immense, towering frame covered in thick, armor-like scales
 - **Dorsal Fins:** Jagged and uneven, glow with energy, darker hue (inherited from mother)
-- **Scales:** Thick and reinforced, obsidian gray complexion
+- **Scales:** Thick and reinforced, obsidian gray complexion (maternal trait)
 - **Regeneration:** Bears no permanent scars due to species' regenerative capabilities
+- **Eyes:** Blue when in combat or alert states; original gold in rare moments of peace
 
 ### Clothing & Regalia
 
@@ -167,7 +232,7 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 - **Creation**: Personally forged by Godzilla after learning crafting specifically for this purpose
 - **Symbolic Layout**: Features four dorsal fins, each representing a different race of *Titanus gojira*
 - **Father's Legacy**: The northern fin belongs to his father Dagon, taken from his excavated remains
-- **Hidden Element**: Contains Mothra's “dead” scales, visible only to her and certain perceptive observers.
+- **Hidden Element**: Contains Mothra's “dead” scales, visible only to her and certain perceptive observers
 - **Personal Meaning**: Not a symbol of power or duty, but of loss and remembrance
 - **Private Behavior**: Often found looking at it in the vault or handling it gently, watching Mothra's scales glow
 

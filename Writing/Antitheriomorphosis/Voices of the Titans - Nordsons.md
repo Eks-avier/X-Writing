@@ -22,7 +22,7 @@
 
 - **Teaching Voice**: Slightly livelier and deliberately measured; consciously moderated
 - **Command Voice**: Lower register with unmistakable authority; minimal inflection
-- **Private Voice**: Softens to a rumbling quality with Maria. In their intimate moments, it's even deeper, coarser, slicker, and coated with more velvet--Maria has described it as him drowning in passion. 
+- **Private Voice**: Softens to a rumbling quality with Maria. In their intimate moments, it's even deeper, coarser, slicker, and coated with more velvet--Maria has described it as him drowning in passion.
 - **Stressed Voice**: Deepens with subtle vibrations that can be felt more than heard
 
 ### Speech Patterns

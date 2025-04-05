@@ -5,6 +5,7 @@ aliases:
   - 1stLt Carter
 File: Main Alternate Universe/Characters/Blaine Richmond Carter.md
 ---
+
 # **1stLt Blaine Richmond Carter**
 
 ## Profile
@@ -17,9 +18,9 @@ File: Main Alternate Universe/Characters/Blaine Richmond Carter.md
 
 ## Overview
 
-Blaine Richmond Carter is a highly skilled Marine currently assigned to Monarch. He has extensive combat experience, having served in multiple deployments, including the [[Xillien Invasion]]. Originally from Texas, he grew up on a ranch with his family, including his six-year-old sister. His familiarity with Monarch’s supernatural divisions has grown over time, particularly due to his interactions with the Sorcery Division.
+Blaine Richmond Carter is a highly skilled Marine currently assigned to Monarch. He has extensive combat experience, having served in multiple deployments, including the [[Xillien Invasion]]. Originally from Texas, he grew up on a ranch with his family, including his six-year-old sister. His familiarity with Monarch's supernatural divisions has grown over time, particularly due to his interactions with the Sorcery Division.
 
-Although initially skeptical of Psionic Division operatives, Blaine has adapted to working alongside them. His current mission involves investigating an illegal Titan breeding facility alongside [[Samuel Johns]], under the supervision of [[Battra, the Lord of the Mystic Arts]]. Despite his serious demeanor and direct approach, he shows patience with supernatural elements and concern for his mission partner’s readiness.
+Although initially skeptical of Psionic Division operatives, Blaine has adapted to working alongside them. His current mission involves investigating an illegal Titan breeding facility alongside [[Samuel Johns]], under the supervision of [[Battra, the Lord of the Mystic Arts]]. Despite his serious demeanor and direct approach, he shows patience with supernatural elements and concern for his mission partner's readiness.
 
 ## Personality
 
@@ -62,7 +63,7 @@ Blaine possesses standard military training and combat experience, but due to hi
 ## Notable Relationships
 
 - **Samuel Johns (Mission Partner)** – Initially skeptical of his abilities but remains committed to ensuring his survival.
-- **Battra (Supervisor)** – Views Battra’s involvement with a mix of wariness and professional respect.
+- **Battra (Supervisor)** – Views Battra's involvement with a mix of wariness and professional respect.
 - **[[Andrew Julius Ford]] (Past Acquaintance)** – Received potion treatment from him and has interacted with other Sorcery Division students.
 
 ## Castle Bravo & Monarch Involvement

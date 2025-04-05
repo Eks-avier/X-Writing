@@ -1,9 +1,10 @@
+# Unrefined - Spellcasting Paradigms
+
 Finalized Summary of Spellcasting Paradigms (Formerly Spell Dynamics)
 
 ✔ Spellcasting Paradigms define the different frameworks through which magic is structured, executed, and optimized in the AU.
 ✔ Sorcerers may specialize in one or mix multiple paradigms for flexibility and efficiency.
 ✔ Each paradigm interacts uniquely with Commitments, Techniques, and so on, reinforcing the depth of the magic system.
-
 
 ---
 
@@ -14,7 +15,6 @@ Finalized Summary of Spellcasting Paradigms (Formerly Spell Dynamics)
 ✔ Weakness: Slower than other paradigms, inflexible once initiated.
 
 ✅ Ideal for: Ritual magic, high-precision spells, formalized arcane practices.
-
 
 ---
 
@@ -27,7 +27,6 @@ Finalized Summary of Spellcasting Paradigms (Formerly Spell Dynamics)
 
 ✅ Ideal for: Sorcerers specializing in a particular style, family Techniques, long-term spell refinement.
 
-
 ---
 
 1. Declarative Magic (High-Level Spell Design)
@@ -35,10 +34,9 @@ Finalized Summary of Spellcasting Paradigms (Formerly Spell Dynamics)
 ✔ Sorcerers define the intent of a spell rather than the precise steps to execute it.
 ✔ Focuses on what the spell should achieve rather than how it should be done.
 ✔ Leads to highly optimized magic but requires mastery over visualization and Primus control.
-✔ Weakness: Less direct control over mechanics, relies on magic’s interpretation of intent.
+✔ Weakness: Less direct control over mechanics, relies on magic's interpretation of intent.
 
 ✅ Ideal for: Large-scale magic, high-speed combat, intuitive sorcerers.
-
 
 ---
 
@@ -57,19 +55,17 @@ Action-based (e.g., a counterspell triggering when an opponent casts magic).
 ✔ Allows for automated defenses, counterattacks, and environmental traps.
 ✔ Weakness: Less flexible once the trigger is set, vulnerable if the opponent deduces activation conditions.
 
-
 ✅ Ideal for: Tactical sorcerers, defensive spellcasters, battlefield preparation.
-
 
 ---
 
 1. Reactive Magic (Self-Adaptive Spells)
 
-✔ Spells continuously adjust their behavior based on real-time input from the environment, opponent actions, or caster’s condition.
+✔ Spells continuously adjust their behavior based on real-time input from the environment, opponent actions, or caster's condition.
 ✔ Highly versatile, capable of responding dynamically to combat situations.
 ✔ Categories include:
 
-Energy-Based Adaptation (scales spell output to match the sorcerer’s energy levels).
+Energy-Based Adaptation (scales spell output to match the sorcerer's energy levels).
 
 Enemy-Responsive Adaptation (adjusts based on opponent tactics).
 
@@ -78,9 +74,7 @@ Environmental Adaptation (modifies itself to complement terrain, weather, or mag
 Tactical Adaptation (chooses the most effective version of itself mid-fight).
 ✔ Weakness: Requires deep magical knowledge, may occasionally miscalculate optimal responses.
 
-
 ✅ Ideal for: High-level combatants, master strategists, elite sorcerers.
-
 
 ---
 
@@ -92,7 +86,6 @@ Tactical Adaptation (chooses the most effective version of itself mid-fight).
 ✔ Weakness: Complex to execute, requires immense visualization skill.
 
 ✅ Ideal for: Advanced spellcasters who seek flexibility, efficiency, and adaptability.
-
 
 ---
 

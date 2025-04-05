@@ -2,10 +2,10 @@
 
 ## Core Identity
 
-**Human Name:** Kevin King  
-**Titan Name:** Kong (King of the Hollow Earth)  
-**Status:** Last of the *Titanus kong* species, Alpha Regent  
-**Age:** Approximately 70-80 years (incredibly young for a Titan)  
+**Human Name:** Kevin King
+**Titan Name:** Kong (King of the Hollow Earth)
+**Status:** Last of the *Titanus kong* species, Alpha Regent
+**Age:** Approximately 70-80 years (incredibly young for a Titan)
 **Position in Hierarchy:** Alpha Tier (below Godzilla and Mothra but above Betas)
 
 ## Physical Appearance (Human Form)
@@ -81,7 +81,7 @@
     - Kong refused to submit despite Godzilla's power
     - The fight reignited Godzilla's love for battle after Ghidorah
 
-2. **Evolution to Friendship:**   
+2. **Evolution to Friendship:**
     - Became sparring partners and mutual teachers
     - Kong introduced Godzilla to human martial arts
     - They developed genuine respect through combat

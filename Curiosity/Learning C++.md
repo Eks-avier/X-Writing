@@ -1,4 +1,4 @@
-
+# Learning C++
 
 ## 3rd Party Libraries
 
@@ -6,9 +6,10 @@
 - [ ] `<ftxui>`
 - [ ] `<fmt>`
 
-## Bit Manipulation 
+## Bit Manipulation
 
 %%Content here%%
+
 ## Standard Library
 
 - [ ] `std::reference_wrapper`
@@ -16,11 +17,12 @@
 - [ ] `std::variant`
 - [ ] `std::expected`
 - [ ] `<chrono>` Library
-- [x] Structured bindings 
-- [ ] `<regex>` Library 
+- [x] Structured bindings
+- [ ] `<regex>` Library
+
 ## STL Containers
 
-- [ ] `std::unordered_map` 
+- [ ] `std::unordered_map`
 - [ ] `std::map`
 - [ ] `std::deque`
 - [ ] `std::set`
@@ -28,7 +30,8 @@
 - [ ] Iterators
 	- [ ] `std::istream_iterator`
 	- [ ] `std::ostream_iterator`
-- [ ] `<range>` Library 
+- [ ] `<range>` Library
+
 ## Concurrency
 
 - [ ] Thread creation
@@ -37,8 +40,7 @@
 - [ ] Condition variables
 - [ ] Atomic operations
 
-
-Create a Github repository of random projects! 
+Create a Github repository of random projects!
 
 If Clang
 If MSVC

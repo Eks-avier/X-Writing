@@ -157,7 +157,7 @@ The effectiveness of Soul Resonance varies based on several key factors:
 
 ### 1. Intrinsic Soul Power
 
-More powerful souls generate stronger resonance patterns, explaining why beings like Godzilla and Mothra can form extraordinarily powerful Commitments despite being Null. The "weight" of their souls creates resonance patterns of unprecedented complexity and stability.
+More powerful souls generate stronger resonance patterns, explaining why beings like Godzilla and Mothra can form extraordinarily powerful Commitments despite being Null. The “weight” of their souls creates resonance patterns of unprecedented complexity and stability.
 
 ### 2. Resonance Clarity
 
@@ -182,12 +182,12 @@ The degree of Heaven's attention and involvement significantly affects Commitmen
 The legendary unbreakability of the Vow between Godzilla and Mothra represents Soul Resonance at its most powerful. This extraordinary Commitment works because:
 
 1. **Unprecedented Soul Strength**: Both possess souls of immense power
-2. **Perfect Harmonic Compatibility**: Their souls have natural resonance compatibility 
+2. **Perfect Harmonic Compatibility**: Their souls have natural resonance compatibility
 3. **Divine Interest**: Heaven takes special interest due to Mothra's divine connection
 4. **Absolute Conviction**: Both entered the agreement with unwavering commitment
 5. **Explicit Divine Invocation**: The Vow was formally presented before Heaven
 
-The resulting resonance pattern is so powerful that it physically prevents either from violating the Vow's terms through what could be described as "soul-level enforcement."
+The resulting resonance pattern is so powerful that it physically prevents either from violating the Vow's terms through what could be described as “soul-level enforcement.”
 
 ### The *Titanus mosura* Resolution
 
@@ -211,7 +211,7 @@ Mothra's situation is the exception, as her inheritance of the Heavenly Instance
 
 Soul Resonance connects to broader aspects of soul functionality in magical practice. In spellcasting, the soul serves a crucial optimization function that intersects with its resonance capabilities:
 
-The soul, as the seat of identity containing everything a person was and is, inherently "tightens" the structure of cast spells. For regular sorcerers, this ensures baseline performance regardless of mental state or physical condition. For masters, however, the soul draws upon their accumulated magical knowledge to enhance spell effectiveness beyond normal limits.
+The soul, as the seat of identity containing everything a person was and is, inherently “tightens” the structure of cast spells. For regular sorcerers, this ensures baseline performance regardless of mental state or physical condition. For masters, however, the soul draws upon their accumulated magical knowledge to enhance spell effectiveness beyond normal limits.
 
 This optimization effect occurs because the soul isn't limited by the conscious mind's tendency to forget details or make errors—it automatically contributes the entirety of a sorcerer's magical knowledge to each casting. This explains why novices experience no enhancement while masters gain significant power boosts: the novice soul simply has less magical knowledge to contribute.
 
@@ -261,4 +261,4 @@ The fact that Soul Resonance functions under Heaven's oversight suggests a delib
 
 The distinction between Horizontal and Vertical pathways creates a natural balance in the magical ecosystem. Those gifted with Soul Infusion capabilities gain versatile magical potential but must work harder to create stable Commitments. Those limited to Soul Resonance may lack conventional magical options but possess a direct line to some of the most fundamental forces in the cosmos.
 
-As Battra observes in his teachings: "The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen."
+As Battra observes in his teachings: “The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen.”

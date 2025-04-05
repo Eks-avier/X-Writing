@@ -454,7 +454,7 @@ Northern *Titanus gojira* utilized sophisticated multi-channel communication:
 - **Threat Displays**: Highly ritualized confrontation behaviors minimizing actual combat
 - **Submission Indicators**: Clear signals acknowledging dominance hierarchy
 
-### Death Rituals %% NOTE: Consider rewriting %%
+### Death Rituals %% NOTE: Consider Rewriting %%
 
 When natural death occurred, Northern families conducted specific ceremonies %% NOTE: They cannot die a natural death, neither illness or senescence %%:
 
@@ -481,7 +481,7 @@ Despite their apex status, several factors contributed to the species' vulnerabi
 - **Communication Range**: Limited coordination between distant family groups %% NOTE: All the members of a faction are expected to help each other, like one giant neighborhood. The issue is communicating between factions %%
 - **Resource Competition**: Increasing conflict with emerging Titan species
 
-### MUTO Parasitism %% NOTE: Merely theorized to be a cause of declination %%
+### MUTO Parasitism %% NOTE: Merely Theorized to Be a Cause of Declination %%
 
 The primary direct cause of species decline came from specialized parasitic predators:
 
@@ -494,7 +494,7 @@ The primary direct cause of species decline came from specialized parasitic pred
 - **Defense Difficulty**: Parasites evolved to evade detection until too late
 - **Counter-Adaptation**: *Titanus gojira* unable to evolve defenses quickly enough %% TO CHANGE: It's not that they cannot adapt quickly or enough, it's that this strand of the Jinshin-Mushi under the MUTO Prime did somethign very specific to get the upper-hand; what they did remains a mystery—likely forever as even Barb, the Turncoat Parasite doesn't know. %%
 
-### “Purity Trap” %% NOTE: This was theorized by the *humans*, although it would soon be known that they were actually pretty sustainable despite their rigidity. %%
+### “Purity Trap” %% NOTE: This Was Theorized by the *humans*, although it Would soon Be Known that They Were Actually Pretty Sustainable despite Their Rigidity. %%
 
 A more subtle factor in the species' decline was their cultural resistance to hybridization:
 
@@ -560,7 +560,7 @@ Without traditional family structure for knowledge transfer, Godzilla has develo
 - **Selective Sharing**: Limited transmission of cultural elements to Mothra and trusted others %% TO EDIT: Has refused to share even to her prior to Kong %%
 - **Environmental Marking**: Maintains traditional territorial markings despite being unnecessary
 - **Symbolic Objects**: His crown and personal items serve as repositories of memory
-- **Ritual Maintenance**: Continues certain Northern practices despite being sole practitioner 
+- **Ritual Maintenance**: Continues certain Northern practices despite being sole practitioner
 - **Adapted Ceremonies**: Modified traditional observances to function for individual rather than family
 
 %% TO EDIT: Private recreation of rituals that he can piece together from his memory are alright, the rest doesn't make sense considering Godzilla barely knows his own species. %%
@@ -569,7 +569,7 @@ Without traditional family structure for knowledge transfer, Godzilla has develo
 
 Godzilla's support of Kong's Hollow Earth exploration includes search for possible remnants of his species:
 
-- **Historical Records**: Ancient indications of *Titanus gojira* migration into inner Earth regions 
+- **Historical Records**: Ancient indications of *Titanus gojira* migration into inner Earth regions
 - **Biological Traces**: Radiation signatures consistent with species detected in specific zones
 - **Potential Refuge**: Theory that isolated pockets might have survived in protected enclaves %% TO EDIT: Godzilla is 100% certain he's the last, he has simply taken an interest with the Hollow Earth due to his species and Kong's interacting. %%
 - **Research Priority**: Area of mutual interest between Godzilla and Kong despite different motivations
@@ -587,7 +587,7 @@ Godzilla's support of Kong's Hollow Earth exploration includes search for possib
 - For his power development, see [[Domination of Energy ]]
 =======
 - For his power development, see [[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]
->>>>>>> origin/main
+> > > > > > > origin/main
 - For psychological impact of being last of his kind, see [[5 - Psychological Profile]]
 - For relationship with Zilla Jr., see [[10 - Personal Relationships]]
 - For complete Northern Gojira culture, see [[Northern Gojira Cultural Profile]]

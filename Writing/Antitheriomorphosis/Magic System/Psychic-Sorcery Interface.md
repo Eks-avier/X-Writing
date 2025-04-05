@@ -22,7 +22,7 @@ Psionics and Sorcery represent two distinct approaches to supernatural manipulat
    - Emphasis on self-awareness and instinctive understanding
    - Personal development through emotional and mental mastery
    - Power as an extension of the self rather than an external force to be controlled
-   - "The mind shapes reality directly"
+   - “The mind shapes reality directly”
 
 ### Sorcery: The Soul's Structured Connection
 
@@ -42,7 +42,7 @@ Psionics and Sorcery represent two distinct approaches to supernatural manipulat
    - Emphasis on understanding fundamental principles and structures
    - Development through disciplined study and methodical practice
    - Power as an external force to be shaped and directed through technique
-   - "The soul shapes Primus, which shapes reality"
+   - “The soul shapes Primus, which shapes reality”
 
 ## The Hidden Interface
 

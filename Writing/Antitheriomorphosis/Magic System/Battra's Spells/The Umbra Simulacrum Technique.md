@@ -17,15 +17,17 @@ In Battra's case, his memories of Godzilla and Mothra remain extraordinarily viv
 ## Manifestation Process
 
 ### Full Incantation
->Darkness descends upon you,  
->It envelops you,  
->It binds you,   
->It courses through you,  
->From depths of the abyss, let awaken and stir,  
->Forged from the shadows,
+
+> Darkness descends upon you,
+> It envelops you,
+> It binds you,
+> It courses through you,
+> From depths of the abyss, let awaken and stir,
+> Forged from the shadows,
 
 ### Shorthand
->Forged from the shadows... Umbra Simulacrum 
+
+> Forged from the shadows… Umbra Simulacrum
 
 ### Manifestation Appearance
 
@@ -36,30 +38,35 @@ When properly cast, the Umbra Simulacrum creates a pool of shadow from which the
 The technique's versatility is enhanced through specialized variants:
 
 ### Multiple Manifestation
->Forged from the shadows a host of gods... Umbra Simulacrum.
+
+> Forged from the shadows a host of gods… Umbra Simulacrum.
 
 Creates multiple shadow entities simultaneously, though with reduced individual power.
 
 ### Single-Target Specific
->Forged from the shadows, her blinding light captured... Umbra Simulacrum: The Queen of Monsters.
+
+> Forged from the shadows, her blinding light captured… Umbra Simulacrum: The Queen of Monsters.
 >
->Forged from the shadows, immeasurable power conquered: Umbra Simulacrum: The King of the Monsters
+> Forged from the shadows, immeasurable power conquered: Umbra Simulacrum: The King of the Monsters
 
 Focuses all energy on creating a perfect replication of a specific individual.
 
 ### Dual Manifestation
->Blinding light, damning power, your shadows captured and conquered, arise and take form, Umbra Simulacrum: The Rulers of Earth
+
+> Blinding light, damning power, your shadows captured and conquered, arise and take form, Umbra Simulacrum: The Rulers of Earth
 
 Creates paired entities with enhanced coordination between them.
 
 ## Technical Characteristics
 
 ### Energy Cost
+
 - Proportional to the complexity and power of the manifested shadow
 - Increases with the number of simultaneous manifestations
 - Requires constant energy supply to maintain over extended periods
 
 ### Physical Properties
+
 - Shadows possess approximately 70-80% of the original's physical capabilities
 - Can utilize special abilities of the original but at reduced effectiveness
 - Damage sustained transfers partial feedback to the caster

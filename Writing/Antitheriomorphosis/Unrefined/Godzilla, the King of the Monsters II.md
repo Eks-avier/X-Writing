@@ -17,7 +17,7 @@ tags:
 
 # **Godzilla, Alpha Paramount of the Titans**
 
-> _"Fight to end quickly—no wasted effort, no unnecessary flash."_
+> _“Fight to end quickly—no wasted effort, no unnecessary flash.”_
 
 ## Overview
 
@@ -28,7 +28,7 @@ The Alpha Paramount of Earth's Titans, Godzilla is the last pure _[[Writing/Anti
 ### Human Form
 
 > [!info] Human Identity
-> 
+>
 > - **Human Name**: Godric Nordson
 > - **Documented Age**: 25 (Monarch records)
 > - **Actual Age**: Approximately 250 million years
@@ -40,7 +40,7 @@ The Alpha Paramount of Earth's Titans, Godzilla is the last pure _[[Writing/Anti
 ### Titan Form
 
 > [!info] Titan Identity
-> 
+>
 > - **Species**: _Titanus gojira_ (Northern race)
 > - **Height**: 120 meters (394 feet)
 > - **Weight**: 100,000 metric tonnes
@@ -50,7 +50,7 @@ The Alpha Paramount of Earth's Titans, Godzilla is the last pure _[[Writing/Anti
 
 ### Human Form
 
-Godzilla maintains a completely human appearance with no visible Titan features, though his presence carries unmistakable weight. Standing 6'5" (196 cm) with a broad-shouldered frame, he possesses lean but extremely dense musculature weighing 120 kg. His dark hair (resembling his dorsal fins) is typically styled back with some rebellious strands falling onto his forehead. Since the Domestic Fantasy Arc, he maintains a well-trimmed beard that Maria particularly appreciates.
+Godzilla maintains a completely human appearance with no visible Titan features, though his presence carries unmistakable weight. Standing 6'5” (196 cm) with a broad-shouldered frame, he possesses lean but extremely dense musculature weighing 120 kg. His dark hair (resembling his dorsal fins) is typically styled back with some rebellious strands falling onto his forehead. Since the Domestic Fantasy Arc, he maintains a well-trimmed beard that Maria particularly appreciates.
 
 His eyes serve as an emotional barometer: light blue when vigilant (default state), intensified blue when using powers or experiencing heightened emotions, and rarely golden when completely relaxed or deeply sad (a maternal trait). His Caucasian complexion has a slight tan with naturally rough skin without blemishes. His square-like face features a defined jawline, high cheekbones, and strong brow ridge.
 
@@ -79,7 +79,7 @@ His body undergoes subtle seasonal changes: leaner during active season (Decembe
 
 - Circular crown base made of bones from fallen _Titanus gojira_
 - Four prominent dorsal fins representing the four races of _Titanus gojira_ (the north fin from his father Dagon)
-- Contains Mothra's "dead" scales embedded within, creating subtle gold glow visible only to those who know how to look
+- Contains Mothra's “dead” scales embedded within, creating subtle gold glow visible only to those who know how to look
 - Symbol of loss and remembrance rather than power or duty
 
 ## Hierarchical Position & Authority
@@ -227,7 +227,7 @@ Godzilla's fighting style blends overwhelming power with precise technique. Foll
 
 ### Rise to Power
 
-- Earned title "Whirlwind of Death" during meteoric rise through Titan hierarchy
+- Earned title “Whirlwind of Death” during meteoric rise through Titan hierarchy
 - Systematically defeated all regional Alphas to establish singular authority
 - Formed brotherhood with Anguirus despite repeated challenges
 - Gradually incorporated Rodan into inner circle
@@ -246,9 +246,9 @@ Godzilla's fighting style blends overwhelming power with precise technique. Foll
 - Eliminated Ghidorah in Boston with thermonuclear power (2019)
 - Transformed into human form by Antitheriomorphosis (2020)
 - Established Kong as Alpha Sovereign of Hollow Earth (2022)
-- Battled Battra during Xillien Invasion, achieved "The Zone" state (2023-2024)
+- Battled Battra during Xillien Invasion, achieved “The Zone” state (2023-2024)
 - Established formal Titan governance through Monster Island Palace (2025)
-- Undertook undercover mission in Meadowvale as "Godric Nordson" (2025-Present)
+- Undertook undercover mission in Meadowvale as “Godric Nordson” (2025-Present)
 
 ## Key Relationships
 
@@ -320,11 +320,11 @@ Godzilla currently divides his time between Monster Island Palace governance, Ca
 ## Trivia
 
 > [!tip] Interesting Facts
-> 
+>
 > - His eye color serves as an emotional barometer, with golden eyes being extremely rare and indicating complete relaxation or deep sadness
 > - Undergoes subtle seasonal physique changes related to his hibernation cycle
 > - All body fluids contain potentially lethal levels of radiation
-> - While his preferred power execution is precise and minimal, when fully unleashed in "The Zone" state, Kong assessed that facing him would be "suicide"
+> - While his preferred power execution is precise and minimal, when fully unleashed in “The Zone” state, Kong assessed that facing him would be “suicide”
 > - Maintains a simple wristband made from one of his own Titan form scales
 > - Has developed an unexpected appreciation for cooking due to his enhanced sense of taste
 > - Has been hunting as a hobby, first bare-handed and later with bow and arrow

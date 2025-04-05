@@ -209,7 +209,7 @@ public:
 
 #### Relationship Characteristics
 
-- **Mutual Recognition**: Psychological identification as fellow "last of kind"
+- **Mutual Recognition**: Psychological identification as fellow “last of kind”
 - **Competitive Respect**: Each acknowledges other's unique strengths and domain
 - **Communication Challenge**: Navigating different expression styles requires conscious effort
 - **Growth Catalyst**: Kong's different perspective forces psychological stretching
@@ -256,7 +256,7 @@ public:
   - Prohibition against certain types of magic on Earth
   - Requirement to eventually solve the Antitheriomorphosis
   - Godzilla and Mothra's authority to dissolve the Vow at their discretion
-  
+
 - **Relationship Implications**:
   - Creates clear boundaries for interaction
   - Establishes formal power hierarchy despite personal history
@@ -270,7 +270,7 @@ public:
 - **Initial Awareness**: Distant knowledge of human child during Ghidorah conflict
 - **First Direct Interaction**: Post-Antitheriomorphosis introduction through Monarch
 - **Growing Influence**: Madison's palace sketches becoming formal governance structure
-- **Titan Recognition**: Earned unique honorary title as "The Architect"
+- **Titan Recognition**: Earned unique honorary title as “The Architect”
 - **Access Privileges**: Granted permanent visiting rights to Monster Island Palace
 - **Current Status**: One of few humans with whom Godzilla interacts directly and personally
 
@@ -320,13 +320,13 @@ public:
 
 ### Barbara Matthews (Meadowvale)
 
-- **Context Significance**: Closest thing to a "normal" human friendship
+- **Context Significance**: Closest thing to a “normal” human friendship
 - **Development Path**: Initial neighborhood courtesy to genuine appreciation
 - **Interaction Comfort**: Unusual ease with human social conventions
 - **Domestic Framework**: Purely within Godric Nordson persona
 - **Boundary Maintenance**: Careful limitation of personal disclosure
 - **Future Uncertainty**: Unclear how relationship continues post-Domestic Fantasy
-- **Historical Importance**: First extended "normal human" relationship in millennia
+- **Historical Importance**: First extended “normal human” relationship in millennia
 
 ## Relationship Dynamics in Different Contexts
 

@@ -104,7 +104,7 @@ In spell optimization, different forms of Contracts provide unique advantages:
 
 Incantations and gestures function as implicit Contracts between the caster and their spell:
 
-- Full incantations with complete gestures represent the maximum "investment" and yield the highest magical output.
+- Full incantations with complete gestures represent the maximum “investment” and yield the highest magical output.
 - Chants with partial gestures offer reduced casting time at the cost of reduced effect.
 - Silent casting with minimal gestures provides convenience but significantly reduces power.
 
@@ -243,9 +243,9 @@ Among all known Vows, none are as powerful as the one sworn between Godzilla and
     - Titans: Godzilla enforces his rule as the singular Alpha, while Mothra ignores Titan politics, making her unpopular among lesser Titans.
     - Humans: Frustrated—because neither can act for or against them without the other's consent.
     - Expression of the Vow:
-        - "I consent!" → One agrees, but the other must still decide.
-        - "I do not consent!" → One blocks the other from acting.
-        - "We consent!" → Both agree, allowing action to proceed.
+        - “I consent!” → One agrees, but the other must still decide.
+        - “I do not consent!” → One blocks the other from acting.
+        - “We consent!” → Both agree, allowing action to proceed.
     - Exception: If humans interfere in Titan affairs, Godzilla can punish them freely—Mothra loses her say.
 
 ## VII. Third-Party Involvement in Commitments
@@ -286,4 +286,4 @@ The fact that Soul Resonance functions under Heaven's oversight suggests a delib
 
 The distinction between Horizontal and Vertical pathways creates a natural balance in the magical ecosystem. Those gifted with Soul Infusion capabilities gain versatile magical potential but must work harder to create stable Commitments. Those limited to Soul Resonance may lack conventional magical options but possess a direct line to some of the most fundamental forces in the cosmos.
 
-As Battra observes in his teachings: "The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen."
+As Battra observes in his teachings: “The universe ensures that no soul is without voice. Those who cannot speak directly to Primus can still sing to each other, and in that harmony, even the rawest forces of creation learn to listen.”

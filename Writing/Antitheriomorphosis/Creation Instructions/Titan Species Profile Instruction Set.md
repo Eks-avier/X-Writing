@@ -413,5 +413,3 @@ SORT file.name ASC
 - [ ] Dataview queries implemented and functional
 - [ ] Addition to master species index
 ```
-
-

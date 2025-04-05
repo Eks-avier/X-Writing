@@ -26,9 +26,7 @@ Yet despite these profound capabilities, the soul remains completely inaccessibl
 Within the known universe, only three notable exceptions to this limitation exist:
 
 1. **Titanus mosura (Divine Moths)**: Possess the unique privilege of maintaining awareness of their souls after physical death. While they lack agency over their disembodied souls, they at least maintain consciousness of their existence in this state. This exceptional awareness may have contributed to their species' deeper understanding of metaphysical principles.
-
 2. **Mothra**: As the inheritor of the Heavenly Instance's divine soul, Mothra represents the only known being with both awareness of and agency over her soul even when separated from physical form. This unique divine inheritance allows her to consciously direct her soul's actions during reincarnation processes, a capability completely unavailable to other beings.
-
 3. **Battra**: While still subject to the normal limitations of his species, Battra's modified Covenant and extensive magical research have granted him marginally greater awareness of his soul's activities. This awareness is comparable to having slightly enhanced hearing—providing hints and impressions rather than clear perception. Even with this advantage, his understanding remains vastly limited compared to true perception.
 
 These exceptions, particularly in their limitations, only highlight the universal rule—that for virtually all beings, the soul remains entirely imperceptible despite its fundamental importance to identity and magical capability.

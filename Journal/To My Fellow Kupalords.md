@@ -1,3 +1,5 @@
+# To My Fellow Kupalords
+
 MERRY CHRISTMAS, MGA KUPALORDS!!!!
 
 Alam niyo ba that I'm so so so grateful for you both. Usually wala akong kausap, maliban kay Dan BAHSHAHHAHAA, so kayo talaga una't sa lahat pinupuntahan ko.
