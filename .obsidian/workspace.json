@@ -34,6 +34,23 @@
             }
           },
           {
+            "id": "6acf396e6fa4ce13",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+                "viewState": {
+                  "x": 497.325544653878,
+                  "y": 634.2780528620227,
+                  "zoom": -1.1302695288309539
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Domination of Energy"
+            }
+          },
+          {
             "id": "84736773dcc0ca3c",
             "type": "leaf",
             "state": {
@@ -62,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godzilla, the King of the Monsters"
+              "title": "Backlinks for Domination of Energy"
             }
           },
           {
@@ -185,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla, the King of the Monsters"
+              "title": "Outgoing links from Domination of Energy"
             }
           },
           {
@@ -199,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla, the King of the Monsters"
+              "title": "Outline of Domination of Energy"
             }
           },
           {
@@ -258,11 +275,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "bc64f30e79e7f04e",
+  "active": "6acf396e6fa4ce13",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
