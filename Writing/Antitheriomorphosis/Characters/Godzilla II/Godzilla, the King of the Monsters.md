@@ -10,14 +10,14 @@ tags:
   - atm/titan/character/main
   - atm/titan/northern_gojira
 status: active
-created:
-modified: 
+created: 2024-03-30
+modified: 2024-04-06
 File: Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md
 ---
 
 # **Godzilla, The King of The Monsters**
 
-> *“Power is absolute. If he fights, he fights to end it quickly—no wasted effort, no unnecessary flash.”*
+> *“If he fights, he fights to end it quickly—no wasted effort, no unnecessary flash.”*
 
 ## Overview
 

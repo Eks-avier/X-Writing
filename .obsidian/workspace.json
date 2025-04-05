@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,6 +94,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "08d86fd68cac0d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4255dedc7acc878e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Godzilla - An Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Godzilla - An Overview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413
+    "width": 413,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -196,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Godzilla - An Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +227,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godzilla, the King of the Monsters"
+              "title": "Backlinks for Godzilla - An Overview"
             }
           },
           {
@@ -215,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Godzilla - An Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla, the King of the Monsters"
+              "title": "Outgoing links from Godzilla - An Overview"
             }
           },
           {
@@ -229,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+                "file": "Godzilla - An Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla, the King of the Monsters"
+              "title": "Outline of Godzilla - An Overview"
             }
           },
           {
@@ -273,19 +294,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md"
+                "file": "Godzilla - An Overview.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla, the King of the Monsters"
+              "title": "File properties for Godzilla - An Overview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,14 +320,18 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "bc64f30e79e7f04e",
+  "active": "a9441a9324b108e3",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md",
+    "Godzilla - An Overview.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
     "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md",
     "Writing/Antitheriomorphosis/Characters/Hollow Earth Personnel & Residents.md",
@@ -326,8 +350,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Physical Characteristics.md",
     "Society",
     "titan",
     "Tags/#atm+species+titanus_gojira",
@@ -337,7 +359,6 @@
     "Writing/Antitheriomorphosis/Creation Instructions",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Untitled",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",

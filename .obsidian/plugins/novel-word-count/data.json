@@ -3081,55 +3081,6 @@
         "nonWhitespaceCharacterCount": 10716
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla, the King of the Monsters.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6931,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 23.10333333333333,
-      "characterCount": 54558,
-      "nonWhitespaceCharacterCount": 46278,
-      "readingTimeInMinutes": 26.154716981132076,
-      "linkCount": 31,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "Godric",
-        "Godric Nordson",
-        "Alpha Paramount",
-        "King of the Monsters"
-      ],
-      "createdDate": 1743271055212,
-      "modifiedDate": 1743876110510,
-      "sizeInBytes": 55023,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 18.49,
-        "wordCount": 5547,
-        "characterCount": 43506,
-        "nonWhitespaceCharacterCount": 36832
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla",
-          "Godric",
-          "Godric Nordson",
-          "Alpha Paramount",
-          "King of the Monsters"
-        ],
-        "tags": [
-          "atm/titan",
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira"
-        ],
-        "status": "active",
-        "created": null,
-        "modified": null,
-        "File": "Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md"
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4724,6 +4675,80 @@
         "wordCount": 54,
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6928,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 23.093333333333334,
+      "characterCount": 54533,
+      "nonWhitespaceCharacterCount": 46262,
+      "readingTimeInMinutes": 26.143396226415096,
+      "linkCount": 31,
+      "embedCount": 0,
+      "aliases": [
+        "Godzilla",
+        "Godric",
+        "Godric Nordson",
+        "Alpha Paramount",
+        "King of the Monsters"
+      ],
+      "createdDate": 1743271055212,
+      "modifiedDate": 1743879814123,
+      "sizeInBytes": 55031,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Godzilla",
+          "Godric",
+          "Godric Nordson",
+          "Alpha Paramount",
+          "King of the Monsters"
+        ],
+        "tags": [
+          "atm/titan",
+          "atm/titan/character/main",
+          "atm/titan/northern_gojira"
+        ],
+        "status": "active",
+        "created": "2024-03-30",
+        "modified": "2024-04-06",
+        "File": "Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md"
+      }
+    },
+    "Godzilla - An Overview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743879930602,
+      "modifiedDate": 1743879930602,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
