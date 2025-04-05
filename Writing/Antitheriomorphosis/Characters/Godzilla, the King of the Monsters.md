@@ -95,7 +95,7 @@ Godric's eyes represent perhaps the most profound physical manifestation of his 
   - Critical vulnerability (observed by Anguirus after energy depletion)
 - Represents his true self beneath centuries of responsibility
 - Living connection to a mother he never knew—a mother who was dead before he even hatched.
-- Source of complex emotion      for both himself and his father
+- Source of complex emotion for both himself and his father
 
 The rarity of the gold eyes reflects how completely the Alpha Paramount role has integrated with his identity. After 250 million years of rulership, the vigilance required by his position has become embedded in his very being, fundamentally altering his physical manifestation. The brief appearances of gold represent fleeting moments when something more fundamental than kingship briefly takes precedence.
 
