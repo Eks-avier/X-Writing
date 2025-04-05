@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godzilla - An Overview"
+              "title": "Backlinks for Godzilla, the King of the Monsters"
             }
           },
           {
@@ -236,12 +236,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla - An Overview"
+              "title": "Outgoing links from Godzilla, the King of the Monsters"
             }
           },
           {
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla - An Overview"
+              "title": "Outline of Godzilla, the King of the Monsters"
             }
           },
           {
@@ -294,10 +294,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Godzilla - An Overview.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla - An Overview"
+              "title": "File properties for Godzilla, the King of the Monsters"
             }
           }
         ],
@@ -320,7 +320,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "a9441a9324b108e3",
+  "active": "bc64f30e79e7f04e",
   "lastOpenFiles": [
     "Godzilla - An Overview.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",

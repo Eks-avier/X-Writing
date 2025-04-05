@@ -22,5 +22,5 @@ aliases:
 			- Before, his species understood this ability as an affinity for nuclear energy.
 				- They could only sense, absorb, and weaponize it, with the latter being expressed as their ultimate weapon *the Atomic Breath*.
 				- Their understanding was limited by instinct and stubbornness. 
-			- Godzilla, bound by his Titan perspective, the 
+			- Godzilla, bound by his Titan perspective, the stubbornness of his species, doubled by the stubbornness inherited from his father, compounded by his own personal brand of stubbornness 
 	
