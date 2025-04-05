@@ -95,7 +95,7 @@ Godric's eyes represent perhaps the most profound physical manifestation of his 
   - Critical vulnerability (observed by Anguirus after energy depletion)
 - Represents his true self beneath centuries of responsibility
 - Living connection to a mother he never knew—a mother who was dead before he even hatched.
-- Source of complex emotion      for both himself and his father
+- Source of complex emotion for both himself and his father
 
 The rarity of the gold eyes reflects how completely the Alpha Paramount role has integrated with his identity. After 250 million years of rulership, the vigilance required by his position has become embedded in his very being, fundamentally altering his physical manifestation. The brief appearances of gold represent fleeting moments when something more fundamental than kingship briefly takes precedence.
 
@@ -684,30 +684,6 @@ This comprehensive approach represents a fighting system that adapts with each e
 - **Speed Limitations** – Deliberate, heavy movements can be outmaneuvered
 - **Prefers Direct Approach** – Not inclined toward trickery or technical fighting
 - **Damage Absorption** – Takes hits rather than avoiding them, vulnerable in prolonged fights
-
-## Hibernation Cycle
-
-Godzilla maintains a seasonal hibernation pattern that reflects his Titan nature:
-
-### Pattern & Schedule
-
-- **Active Period**: December through August
-- **Pre-Hibernation**: September through October (increasing lethargy)
-- **Deep Hibernation**: November (true sleep state)
-
-### Characteristics
-
-- True vulnerability only during deep hibernation
-- Dreams of Titan form cause ambient energy fluctuations
-- Greatly reduced energy signature during hibernation
-- Extremely difficult to wake during deep sleep phase
-
-### Adaptation to Human World
-
-- Initially slept through important human events (first year post-transformation)
-- Gradually learned to wake for Christmas and other significant occasions
-- Still struggles with hibernation impulse but manages to accommodate human customs
-- Requires significant energy consumption to remain awake during natural hibernation period
 
 ## Cultural Heritage
 
