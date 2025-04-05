@@ -397,17 +397,17 @@ All sensory systems function at superhuman levels with sophisticated cross-modal
   - X-ray capability through most non-lead materials
   - Telescopic and microscopic focus adjustment
   - Energy wavelength perception beyond human spectrum
-  
+
 - **Hearing**: Perceives sounds from 5Hz to 200,000Hz
   - Isolates specific sounds up to 50 miles away
   - Identifies individuals by unique acoustic signatures
   - Uses sound for structural analysis similar to echolocation
-  
+
 - **Olfactory**: Tracks scents over 100 miles in optimal conditions
   - Perfect recall of every scent encountered
   - Composition analysis of complex scent mixtures
   - Detects emotional states through subtle pheromone changes
-  
+
 - **Additional Senses**: Equally enhanced taste discrimination and tactile sensitivity
   - Trusted judge of culinary quality due to exceptional taste refinement
   - Detects temperature variations as small as 0.01 degrees
@@ -427,14 +427,14 @@ While not historically his strongest attributes in Titan form, Godzilla has deli
 
 His developing Atomic Stride technique represents an attempt to achieve near-instantaneous movement through concentrated energy manipulation, though this ability remains in the refinement phase.
 
-### "The Zone" State Impact
+### “The Zone” State Impact
 
 Following his battle with Battra, all physical capabilities underwent significant enhancement:
 
-- **Physiological Memory**: Body partially retained the perfect optimization achieved during "The Zone"
+- **Physiological Memory**: Body partially retained the perfect optimization achieved during “The Zone”
 - **Baseline Improvement**: All physical attributes increased by approximately 150%
 - **Neural Adaptation**: Brain structure permanently altered for improved sensory processing
-- **Potential Ceiling**: Current abilities represent only a fraction of what's possible if he re-enters "The Zone"
+- **Potential Ceiling**: Current abilities represent only a fraction of what's possible if he re-enters “The Zone”
 
 ### Domination of Energy: Evolution & Mechanics
 
