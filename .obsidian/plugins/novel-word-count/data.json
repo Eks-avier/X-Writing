@@ -3085,13 +3085,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6333,
+      "wordCount": 6227,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 21.11,
-      "characterCount": 49674,
-      "nonWhitespaceCharacterCount": 42088,
-      "readingTimeInMinutes": 23.89811320754717,
+      "pageCount": 20.756666666666668,
+      "characterCount": 48770,
+      "nonWhitespaceCharacterCount": 41319,
+      "readingTimeInMinutes": 23.49811320754717,
       "linkCount": 31,
       "embedCount": 0,
       "aliases": [
@@ -3102,8 +3102,8 @@
         "King of the Monsters"
       ],
       "createdDate": 1743271055212,
-      "modifiedDate": 1743856872443,
-      "sizeInBytes": 50137,
+      "modifiedDate": 1743875003127,
+      "sizeInBytes": 49233,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 18.49,
@@ -3938,21 +3938,28 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 7.6033333333333335,
-      "characterCount": 17843,
+      "characterCount": 17845,
       "nonWhitespaceCharacterCount": 15231,
       "readingTimeInMinutes": 8.60754716981132,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Darius Nordson"
+      ],
       "createdDate": 1743492313787,
-      "modifiedDate": 1743846388839,
-      "sizeInBytes": 17891,
+      "modifiedDate": 1743875299284,
+      "sizeInBytes": 17928,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.6033333333333335,
         "wordCount": 2281,
         "characterCount": 17843,
         "nonWhitespaceCharacterCount": 15231
+      },
+      "frontmatter": {
+        "aliases": [
+          "Darius Nordson"
+        ]
       }
     },
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md": {

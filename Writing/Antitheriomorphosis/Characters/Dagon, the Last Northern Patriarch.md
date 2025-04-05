@@ -1,3 +1,8 @@
+---
+aliases:
+  - Darius Nordson
+---
+
 # Dagon, the Last Northern Patriarch
 
 ## Core Identity
