@@ -172,5 +172,18 @@
       ],
       "key": "C"
     }
+  ],
+  "app:open-help": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
   ]
 }
