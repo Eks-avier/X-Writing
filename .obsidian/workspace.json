@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
+                "file": "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titans, Magic, and Psionics"
+              "title": "Architecture of Spell Casting"
             }
           }
         ],
@@ -127,8 +127,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
+                "file": "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Titans, Magic, and Psionics"
+              "title": "Outline of Architecture of Spell Casting"
             }
           },
           {
@@ -253,8 +252,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d23a77c4a916c5a8",
+  "active": "984ac6da0ce01a22",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Magic System/Commitment Access.md",
+    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
+    "Writing/Antitheriomorphosis/Magic System/Primus, the Fundamental Force of Magic.md",
+    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
     "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
     "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
@@ -274,13 +277,9 @@
     "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
     "Writing/Antitheriomorphosis/Characters/Samuel Johns.md",
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 1.md",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/1 - The Proposition.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
