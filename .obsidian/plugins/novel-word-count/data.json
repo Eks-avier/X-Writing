@@ -927,7 +927,7 @@
         "Godric Nordson"
       ],
       "createdDate": 1743271055042,
-      "modifiedDate": 1743846388203,
+      "modifiedDate": 1743959940431,
       "sizeInBytes": 14811,
       "sessionStart": {
         "noteCount": 1,
@@ -3069,13 +3069,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8548,
+      "wordCount": 8536,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 28.493333333333332,
-      "characterCount": 68606,
-      "nonWhitespaceCharacterCount": 58391,
-      "readingTimeInMinutes": 32.25660377358491,
+      "pageCount": 28.453333333333333,
+      "characterCount": 68546,
+      "nonWhitespaceCharacterCount": 58342,
+      "readingTimeInMinutes": 32.21132075471698,
       "linkCount": 32,
       "embedCount": 0,
       "aliases": [
@@ -3086,8 +3086,8 @@
         "King of the Monsters"
       ],
       "createdDate": 1743271055212,
-      "modifiedDate": 1743958827062,
-      "sizeInBytes": 69126,
+      "modifiedDate": 1743960012362,
+      "sizeInBytes": 69080,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 25.223333333333333,
@@ -4156,19 +4156,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 533,
+      "wordCount": 951,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7766666666666666,
-      "characterCount": 4146,
-      "nonWhitespaceCharacterCount": 3535,
-      "readingTimeInMinutes": 2.0113207547169814,
+      "pageCount": 3.17,
+      "characterCount": 7614,
+      "nonWhitespaceCharacterCount": 6427,
+      "readingTimeInMinutes": 3.5886792452830187,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055009,
-      "modifiedDate": 1743846388691,
-      "sizeInBytes": 4162,
+      "modifiedDate": 1743959831688,
+      "sizeInBytes": 7638,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.7766666666666666,
@@ -4267,7 +4267,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055097,
-      "modifiedDate": 1743856876811,
+      "modifiedDate": 1743959865754,
       "sizeInBytes": 8679,
       "sessionStart": {
         "noteCount": 1,
@@ -4577,46 +4577,6 @@
         "nonWhitespaceCharacterCount": 281
       }
     },
-    "Godzilla - An Overview.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "Godric",
-        "Godric Nordson",
-        "King of the Monsteres",
-        "Alpha Paramount"
-      ],
-      "createdDate": 1743879930602,
-      "modifiedDate": 1743936701181,
-      "sizeInBytes": 106,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla",
-          "Godric",
-          "Godric Nordson",
-          "King of the Monsteres",
-          "Alpha Paramount"
-        ]
-      }
-    },
     "Excalidraw/Drawing 2025-03-10 22.48.17.excalidraw.md": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -4834,31 +4794,6 @@
       "createdDate": 1743959212150,
       "modifiedDate": 1743959256422,
       "sizeInBytes": 9843,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/The Timeline.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743959393480,
-      "modifiedDate": 1743959393480,
-      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

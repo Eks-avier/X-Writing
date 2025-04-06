@@ -17,13 +17,13 @@ File: Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md
 
 # **Godzilla, The King of The Monsters**
 
-> *“If he fights, he fights to end it quickly—no wasted effort, no unnecessary flash.”*
+> _“Onward, forevermore.”_
 
 ## Overview
 
 Once feared as an unstoppable force of destruction, Godzilla has since become a figure of solemn authority. His rule is absolute, his presence inescapable—a relentless force of nature tempered by time and experience. Though his rage is legendary, it is not mindless fury but a deeply rooted instinct, now buried beneath the weight of responsibility. Those expecting a rampaging beast will instead find a sovereign burdened by the ages, his power restrained by sheer force of will.
 
-A descendant of the [[Northerners]], one of the four great factions of *Titanus gojira*, Godzilla embodies their raw power and resilience. Unlike the [[Divine Moths]], whose immortality came at the cost of their magic, his kind has never possessed any affinity for such forces. Instead, they command energy itself, their bodies designed to absorb, manipulate, and weaponize it. Yet, for all their strength, the Gojira have always been bound by their own rigidity, their potential hindered by instinct and tradition. Even Godzilla, the mightiest of his lineage, spent eons relying on brute force rather than refining his abilities.
+A descendant of the [[Northerners]], one of the four great factions of _Titanus gojira_, Godzilla embodies their raw power and resilience. Unlike the [[Divine Moths]], whose immortality came at the cost of their magic, his kind has never possessed any affinity for such forces. Instead, they command energy itself, their bodies designed to absorb, manipulate, and weaponize it. Yet, for all their strength, the Gojira have always been bound by their own rigidity, their potential hindered by instinct and tradition. Even Godzilla, the mightiest of his lineage, spent eons relying on brute force rather than refining his abilities.
 
 The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a completely human form yet still possessing his powers, he was no longer an immovable colossus but something altogether different—smaller, yet paradoxically more adaptable than ever before. He has since relearned his power, no longer limited by his old body's constraints. Where once he was a walking apocalypse, he is now something far more precise, his mastery of energy sharpened by necessity.
 
@@ -43,7 +43,7 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 ### Titan Form
 
 > [!info] Titan Identity
-> - **Species:** *[[Titanus Gojira]]*
+> - **Species:** _[[Titanus Gojira]]_
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to [[Antitheriomorphosis]])
@@ -316,9 +316,9 @@ Despite his human appearance, Godric cannot truly hide among humanity due to his
 
 Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply personal purpose:
 
-- **Materials**: Bones, scales, and dorsal fins of fallen *Titanus gojira*
+- **Materials**: Bones, scales, and dorsal fins of fallen _Titanus gojira_
 - **Creation**: Personally forged by Godzilla after learning crafting specifically for this purpose
-- **Symbolic Layout**: Features four dorsal fins, each representing a different race of *Titanus gojira*
+- **Symbolic Layout**: Features four dorsal fins, each representing a different race of _Titanus gojira_
 - **Father's Legacy**: The northern fin belongs to his father Dagon, taken from his excavated remains
 - **Hidden Element**: Contains Mothra's “dead” scales, visible only to her and certain perceptive observers
 - **Personal Meaning**: Not a symbol of power or duty, but of loss and remembrance
@@ -331,7 +331,7 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 
 ### Core Abilities
 
-- **[[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]**: Supreme control over *any* form of energy, capable of sensing, absorbing, dispersing, and manipulating them
+- **[[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]**: Supreme control over _any_ form of energy, capable of sensing, absorbing, dispersing, and manipulating them
 - **Limitless Adaptability**: Nature's perfect soldier, capable of limitless adaptation and evolution
 - **Physical Supremacy**: Extraordinary strength, endurance, and durability even in human form
 - **Regeneration**: Accelerated healing abilities, enhanced when atomic energy courses through his body
@@ -431,7 +431,7 @@ Godzilla's sensory capabilities represent the pinnacle of his species' limitless
 
 ### Strength & Force Projection
 
-Godzilla possesses extraordinary physical strength even without energy enhancement, capable of lifting approximately 50-80 tons in his human form. Notably, his strength-to-mass ratio actually *increased* following the Antitheriomorphosis—he didn't become weaker in absolute terms, but rather became constrained by the physical limitations of a smaller frame.
+Godzilla possesses extraordinary physical strength even without energy enhancement, capable of lifting approximately 50-80 tons in his human form. Notably, his strength-to-mass ratio actually _increased_ following the Antitheriomorphosis—he didn't become weaker in absolute terms, but rather became constrained by the physical limitations of a smaller frame.
 
 - **Scale Constraint**: His power is limited by human-form leverage points, bone structure, and physics
 - **Force Generation**: Single punches can shatter reinforced concrete and bend steel
@@ -507,7 +507,7 @@ Following his battle with Battra, all physical capabilities underwent significan
 #### Mental Barriers
 
 Godzilla's limitations are primarily psychological rather than physical:
-- Species-inherited stubbornness (*Titanus gojira* rigidity)
+- Species-inherited stubbornness (_Titanus gojira_ rigidity)
 - Personally-inherited stubbornness (paternal trait)
 - Self-reinforcing energy pattern (his energy mirrors his stubborn nature)
 
@@ -517,7 +517,7 @@ Godzilla's limitations are primarily psychological rather than physical:
 
 1. **Primordial Sensing (250 million years ago)**
    - Initial development focused on predator detection and territorial awareness
-   - Northern *Gojira* lineage evolved enhanced thermal sensing for arctic environments
+   - Northern _Gojira_ lineage evolved enhanced thermal sensing for arctic environments
    - Rudimentary synesthetic processing emerged as survival adaptation
 
 2. **Trinity Period (230-210 million years ago)**
@@ -526,7 +526,7 @@ Godzilla's limitations are primarily psychological rather than physical:
    - Learned to process multiple sensory streams during their exploration adventures
 
 3. **Ascension Phase (200-150 million years ago)**
-   - "Whirlwind of Death" period characterized by emerging precognitive defensive capabilities
+   - “Whirlwind of Death” period characterized by emerging precognitive defensive capabilities
    - Enhanced threat assessment enabled unprecedented combat dominance
    - Long-range detection systems refined for territorial monitoring
 
@@ -550,7 +550,7 @@ Godzilla's limitations are primarily psychological rather than physical:
    - Gained instant awareness of major planetary disturbances and threats
    - Initially misattributed this ability to temporary connection with Mothra's consciousness
    - Reincarnated Mothra (2021) clarified this was his own latent ability, accelerated by their convergence
-   - Functions through Earth's electromagnetic field and radiation patterns as distinct "threat detection system"
+   - Functions through Earth's electromagnetic field and radiation patterns as distinct “threat detection system”
 
 8. **Post-Transformation Recalibration (2020-Present)**
    - Experienced initial sensory overwhelm in densely populated human environments
@@ -596,7 +596,7 @@ Godzilla's misinterpretation of Anguirus's jealousy stems from a profound and ir
 - **Mental Model Rigidity**: After millions of years together, Godzilla's perception of Anguirus has become fixed in certain respects
 - **Missing Context**: Cannot imagine Kong having any impact on their brotherhood
 - **Hierarchical Thinking**: Assumes Anguirus shares his perspective on the immutability of their relationship
-- **Practical Manifestation**: Despite sensing increased heart rate, cortisol levels, and muscle tension in Anguirus when Kong is mentioned, categorizes these as "annoyance with human existence" rather than jealousy
+- **Practical Manifestation**: Despite sensing increased heart rate, cortisol levels, and muscle tension in Anguirus when Kong is mentioned, categorizes these as “annoyance with human existence” rather than jealousy
 - **Sensory Shorthand**: Their millennia of battlefield coordination created unconscious movement synchronization that functions even during this period of emotional misalignment
 - **Location Recognition**: Can distinguish Anguirus's position across continental distances through his unique energy-absorption signature
 
@@ -612,7 +612,7 @@ Rodan has achieved what few beings can claim – successfully hiding his true fe
 - **Contextual Misdirection**: Creates situations where emotional spikes can be attributed to other stimuli
 - **Compartmentalization**: Experiences genuine shame about the deception but prioritizes preserving friendship dynamics
 - **Self-Protective Rationalization**: Frames his deception as protection for both Godzilla and Mothra
-- **Sensory Counter-Tactics**: Maintains consistent baseline physiological responses, creating patterns Godzilla interprets as "normal Rodan behavior"
+- **Sensory Counter-Tactics**: Maintains consistent baseline physiological responses, creating patterns Godzilla interprets as “normal Rodan behavior”
 - **Atmospheric Distortion**: Unconsciously manipulates air currents around himself, creating slight sensory interference
 - **Recognition Signature**: Despite this deception, Godzilla recognizes Rodan's volcanic signature from thousands of miles away
 
@@ -642,6 +642,7 @@ Despite extraordinary perceptual abilities, Godzilla maintains significant blind
 9. **Expectation Vulnerability**: Fixed mental models of companions make him susceptible to deliberate deception
 
 These limitations create an intriguing duality - a being who can detect a single heart palpitation across a room but misses the obvious romantic tension between close companions. The most sophisticated sensory system on the planet is ironically compromised by the very bonds that define his existence.
+
 ## Atomic Amplification Evolution
 
 Godzilla's signature energy manipulation technique has undergone significant evolution since the Antitheriomorphosis, reflecting both his adaptability and his journey from brute force to precision:
@@ -974,11 +975,11 @@ This comprehensive approach represents a fighting system that adapts with each e
 
 ### The Northerners
 
-The Northerners are one of the four main races of *Titanus gojira*, alongside the [[Southerners]], [[Westerners]], and [[Easterners]]. While these four made up the dominant racial groups, there were racial minorities among their kind—none of whom survived for long or held prominence like the main four.
+The Northerners are one of the four main races of _Titanus gojira_, alongside the [[Southerners]], [[Westerners]], and [[Easterners]]. While these four made up the dominant racial groups, there were racial minorities among their kind—none of whom survived for long or held prominence like the main four.
 
 - Among the major races, the Northerners and Easterners were the strongest
 - The different races rarely mixed, preferring their own kind
-- The priorities of a *Titanus gojira*, regardless of race, were:
+- The priorities of a _Titanus gojira_, regardless of race, were:
 	1. Directive of Heaven
 	2. Love for family
 	3. Love for friends
@@ -1007,7 +1008,7 @@ Godzilla's relationship with his father Dagon has profoundly shaped his identity
 - **Early Years**: Born to last breeding pair of Northern T. gojira approximately 250 million years ago
 - **Maternal Loss**: Mother died shortly after his hatching, killed defending their cavern from MUTO attack
 - **Golden Eyes**: Inherited rare trait from mother (unusual Northern feature)
-- **Father's Disappearance**: When Godzilla was approximately age 10, Dagon journeyed south seeking other *T. gojira*
+- **Father's Disappearance**: When Godzilla was approximately age 10, Dagon journeyed south seeking other _T. gojira_
 - **True Fate**: Found Southern faction members parasitized by MUTOs, confronted MUTO Prime and was defeated
 - **Psychological Impact**: Godzilla misinterpreted absence as abandonment due to his inadequacy
 - **Truth Discovery**: Only recently discovered Dagon's skeleton at MONARCH facility
@@ -1029,7 +1030,7 @@ Godzilla's perspective on the [[Terms for the Divine Mandate Against Sorcery|Div
 > [!quote] Duality
 > Godzilla is evolving into a scholar-warrior, reconciling the duality of his nature as both a Titan king and a mentor to humanity.
 
-Godzilla is deeply torn between the human and Titan worlds. While he cannot deny the advantages of his human form, especially in combat and learning, he remains haunted by his lost Titan identity. His species, *Titanus gojira*, are naturally inclined to view themselves as superior, and Godzilla feels an inherent wrongness in his current state. Nevertheless, as a human, Godzilla finds himself fascinated by humanity's pursuit of knowledge, a stark contrast to the existence he lived as a Titan.
+Godzilla is deeply torn between the human and Titan worlds. While he cannot deny the advantages of his human form, especially in combat and learning, he remains haunted by his lost Titan identity. His species, _Titanus gojira_, are naturally inclined to view themselves as superior, and Godzilla feels an inherent wrongness in his current state. Nevertheless, as a human, Godzilla finds himself fascinated by humanity's pursuit of knowledge, a stark contrast to the existence he lived as a Titan.
 
 Through his growing interest in teaching and mentoring, Godzilla discovers a new form of fulfillment. He recognizes potential in individuals with ease, using his enhanced vision to identify the spark of greatness. However, his competitive nature and dissatisfaction with humanity's tendency to squander their potential often drive him to push others harder, sometimes through questionable methods. While he maintains his belief that some are simply not meant for greatness, Godzilla takes it upon himself to ensure that as few failures as possible emerge.
 
