@@ -12,7 +12,7 @@
   "userIgnoreFilters": [
     "Templates/"
   ],
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "/",
   "showLineNumber": true,
   "readableLineLength": false
 }
