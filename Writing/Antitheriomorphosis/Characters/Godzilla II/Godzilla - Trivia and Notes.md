@@ -33,12 +33,10 @@ This document contains miscellaneous information, interesting facts, and context
 - Possesses a particular affinity for rare steaks and sushi
 - Appreciates simple food with minimal preparation
 - Prefers natural food without preservatives or artificial ingredients
-- Enjoys cooking more than eating, finding the process methodical and satisfying
 - Can consume foods that would be toxic to humans without ill effects
 - Has a growing collection of cookbooks, particularly focused on grilling techniques
 - Extremely sensitive to food authenticity and will immediately identify substitutions
 - Cannot tolerate artificial sweeteners due to hypersensitive taste buds
-- Known to visit active volcanic regions to “taste” different lava compositions
 
 ## Collection Hobbies
 
@@ -54,12 +52,9 @@ This document contains miscellaneous information, interesting facts, and context
 - When teaching physics at Meadowvale, his students achieved the highest average scores in the school's history
 - Demonstrated remarkable patience when explaining complex concepts to humans, despite their comparative cognitive limitations
 - Prefers the Socratic method when teaching, asking questions to guide students toward understanding
-- Has contributed anonymous papers to several scientific journals, using insights from his millions of years of observation
 
 ## Historical Curiosities
 
-- Was physically present for numerous major historical events but often slept through them underwater
-- Witnessed the fall of multiple ancient civilizations but considered them “brief distractions”
 - Encountered several early human expeditions to the Arctic but remained undetected
 - Was mistaken for a submarine on multiple occasions during both World Wars
 - Has perfect recall of the original coastlines of all continents before tectonic shifts
@@ -72,7 +67,6 @@ This document contains miscellaneous information, interesting facts, and context
 - Unintentionally speaks in perfect iambic pentameter when agitated
 - Tends to use fewer contractions when stressed or focused
 - Speech pattern becomes more formal and precise when discussing Titan matters
-- Voice resonates at a frequency slightly below typical human range, creating subtle vibration sensations in listeners
 
 ## Situational Responses
 
@@ -101,9 +95,6 @@ This document contains miscellaneous information, interesting facts, and context
 
 > [!note] Madison Russell Observation
 > “Godric maintains the fiction that he doesn't care about human events, but I've caught him watching historical documentaries when he thinks no one's around. His expressions during these viewings reveal genuine interest in filling the gaps in his knowledge.”
-
-> [!note] Dr. Serizawa's Journal Entry
-> “The King's adaptation to human form has revealed something unexpected—a capacity for growth that transcends physical evolution. In becoming smaller, he has somehow grown larger in ways that matter more.”
 
 ---
 
