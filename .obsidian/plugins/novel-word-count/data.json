@@ -4801,6 +4801,56 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1263,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.21,
+      "characterCount": 9338,
+      "nonWhitespaceCharacterCount": 7854,
+      "readingTimeInMinutes": 4.766037735849056,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743960253591,
+      "modifiedDate": 1743960264536,
+      "sizeInBytes": 9378,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1454,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.846666666666667,
+      "characterCount": 11462,
+      "nonWhitespaceCharacterCount": 9865,
+      "readingTimeInMinutes": 5.486792452830189,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743960319522,
+      "modifiedDate": 1743960358915,
+      "sizeInBytes": 11522,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
