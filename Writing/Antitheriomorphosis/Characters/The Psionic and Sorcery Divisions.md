@@ -89,8 +89,8 @@ Unlike the structured paradigms of sorcery, psionic abilities follow more intuit
 ## Junior Students
 
 1. **James (7)** - Possesses both psychic and sorcery abilities, currently developing under special guidance.
-2. **Lily Chen (Age Unknown)** - Young dual-ability student with potential connection to Marcus.
-3. **Noah Blackwood (Age Unknown)** - Prodigy psychic with unusually powerful but unstable abilities.
+2. **Lily (8)** - Young dual-ability student with potential connection to Marcus.
+3. **Noah Blackwood (2)** - Prodigy psychic with unusually powerful but unstable abilities.
 
 ## Historical Background
 
