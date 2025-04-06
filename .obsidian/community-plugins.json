@@ -17,5 +17,8 @@
   "quickadd",
   "templater-obsidian",
   "file-cleaner-redux",
-  "obsidian-git"
+  "obsidian-git",
+  "recent-files-obsidian",
+  "typewriter-mode",
+  "omnisearch"
 ]

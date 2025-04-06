@@ -184,6 +184,16 @@
               "icon": "layout-grid",
               "title": "Navigator"
             }
+          },
+          {
+            "id": "c02cf2f4691ce91e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -307,7 +317,8 @@
       "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "file-cleaner-redux:Clean files": false
+      "file-cleaner-redux:Clean files": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "bc64f30e79e7f04e",
