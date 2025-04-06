@@ -957,31 +957,6 @@
         ]
       }
     },
-    "Writing/Antitheriomorphosis/Unrefined/Godzilla's Regalia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 779,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5966666666666667,
-      "characterCount": 5837,
-      "nonWhitespaceCharacterCount": 4896,
-      "readingTimeInMinutes": 2.939622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743846243544,
-      "modifiedDate": 1743846264603,
-      "sizeInBytes": 5869,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5966666666666667,
-        "wordCount": 779,
-        "characterCount": 5837,
-        "nonWhitespaceCharacterCount": 4896
-      }
-    },
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4481,25 +4456,42 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1822,
+      "wordCount": 1318,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.073333333333333,
-      "characterCount": 15701,
-      "nonWhitespaceCharacterCount": 13488,
-      "readingTimeInMinutes": 6.875471698113207,
-      "linkCount": 0,
+      "pageCount": 4.3933333333333335,
+      "characterCount": 10381,
+      "nonWhitespaceCharacterCount": 8585,
+      "readingTimeInMinutes": 4.973584905660378,
+      "linkCount": 9,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Godzilla's Physical Form",
+        "Godzilla's Appearance"
+      ],
       "createdDate": 1743965226192,
-      "modifiedDate": 1743965253463,
-      "sizeInBytes": 15709,
+      "modifiedDate": 1743974933693,
+      "sizeInBytes": 10613,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Godzilla's Physical Form",
+          "Godzilla's Appearance"
+        ],
+        "tags": [
+          "atm/titan/character/main",
+          "atm/titan/northern_gojira",
+          "atm/character/physicality"
+        ],
+        "status": "active",
+        "created": "2024-04-07",
+        "modified": "2024-04-07"
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md": {
@@ -5099,6 +5091,56 @@
       "createdDate": 1743271055368,
       "modifiedDate": 1743846388339,
       "sizeInBytes": 14029,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 676,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.2533333333333334,
+      "characterCount": 5252,
+      "nonWhitespaceCharacterCount": 4322,
+      "readingTimeInMinutes": 2.550943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743974967727,
+      "modifiedDate": 1743974999496,
+      "sizeInBytes": 5292,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 779,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5966666666666667,
+      "characterCount": 5837,
+      "nonWhitespaceCharacterCount": 4896,
+      "readingTimeInMinutes": 2.939622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743846243544,
+      "modifiedDate": 1743846264603,
+      "sizeInBytes": 5869,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
