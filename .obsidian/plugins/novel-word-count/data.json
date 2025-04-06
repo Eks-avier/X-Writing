@@ -1307,31 +1307,6 @@
         "nonWhitespaceCharacterCount": 42322
       }
     },
-    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/The Winter Cycle .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2041,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.803333333333334,
-      "characterCount": 13969,
-      "nonWhitespaceCharacterCount": 11646,
-      "readingTimeInMinutes": 7.7018867924528305,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055368,
-      "modifiedDate": 1743846388339,
-      "sizeInBytes": 14029,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.803333333333334,
-        "wordCount": 2041,
-        "characterCount": 13969,
-        "nonWhitespaceCharacterCount": 11646
-      }
-    },
     "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/Plot Outline - Domestic Fantasy.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5099,6 +5074,31 @@
       "createdDate": 1743271055264,
       "modifiedDate": 1743971861559,
       "sizeInBytes": 4996,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/The Winter Cycle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2041,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.803333333333334,
+      "characterCount": 13969,
+      "nonWhitespaceCharacterCount": 11646,
+      "readingTimeInMinutes": 7.7018867924528305,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055368,
+      "modifiedDate": 1743846388339,
+      "sizeInBytes": 14029,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
