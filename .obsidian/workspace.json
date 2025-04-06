@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413
+    "width": 413,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -222,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unrefined - Godzilla's Regalia"
+              "title": "Outline of Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -294,10 +295,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "79a34edae16ff307",
+  "active": "984ac6da0ce01a22",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
