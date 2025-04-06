@@ -147,7 +147,7 @@ As a Divine Moth who circumvented his species' magical limitations, Battra repre
 Battra's dual mastery shapes his approach to instruction at Keep Charlie:
 
 1. **Division Recognition**
-   - Maintains separate ESP and Sorcery Divisions, acknowledging their distinct natures
+   - Maintains separate Psionic and Sorcery Divisions, acknowledging their distinct natures
    - Preserves the unique philosophical approaches of each discipline
    - Prevents confusion from premature integration attempts
 

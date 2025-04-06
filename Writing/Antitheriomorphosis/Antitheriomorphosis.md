@@ -133,7 +133,7 @@ This universe integrates computer science concepts as metaphors for magical syst
 - **July**: The Vow established between Battra, Godzilla, and Mothra
 - **August-September**:
   - Battra transforms Castle Bravo into mobile headquarters
-  - Establishes Keep Charlie for human magic and ESP training
+  - Establishes Keep Charlie for human magic and Psionic training
 - **October-December**: Tensions in Titan quartet reach breaking point
 
 ### 2025
@@ -143,7 +143,7 @@ This universe integrates computer science concepts as metaphors for magical syst
   - Kong officially included in Titan governance structure
 - **Convergence Event**:
   - NeuroSync Technologies experiments with Ghidorah fragment
-  - ESP and Sorcery students deployed with Kong as protection
+  - Psionic and Sorcery students deployed with Kong as protection
   - Godric intervenes with atomic railgun technique
 - **May-December**:
   - Godric and Maria begin “Blue House at Maple Street” mission

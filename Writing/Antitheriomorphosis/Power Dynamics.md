@@ -30,7 +30,7 @@
 - Rules Hollow Earth but facing increasing territorial disputes
 - Younger Titans testing boundaries, forming new alliances
 - Needed to suspend Castle Bravo visits to reestablish clear hierarchy
-- Developing respect for Monarch's ESP and Sorcery students
+- Developing respect for Monarch's Psionic and Sorcery students
 - Represents potential future transformation orb recipient
 
 ### Castle Bravo Dynamics
