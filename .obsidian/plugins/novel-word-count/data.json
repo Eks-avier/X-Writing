@@ -1691,31 +1691,6 @@
         "complexity": "advanced"
       }
     },
-    "Writing/Antitheriomorphosis/Magic System/Useful Magical Information.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1607,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.3566666666666665,
-      "characterCount": 12055,
-      "nonWhitespaceCharacterCount": 10142,
-      "readingTimeInMinutes": 6.064150943396227,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055264,
-      "modifiedDate": 1743405760355,
-      "sizeInBytes": 12115,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.3566666666666665,
-        "wordCount": 1607,
-        "characterCount": 12055,
-        "nonWhitespaceCharacterCount": 10142
-      }
-    },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - Time Manipulation .md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5074,6 +5049,56 @@
       "createdDate": 1743271055031,
       "modifiedDate": 1743846388629,
       "sizeInBytes": 8383,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1838,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.126666666666667,
+      "characterCount": 16248,
+      "nonWhitespaceCharacterCount": 13726,
+      "readingTimeInMinutes": 6.935849056603773,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743971700386,
+      "modifiedDate": 1743971718153,
+      "sizeInBytes": 16266,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 669,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.23,
+      "characterCount": 4980,
+      "nonWhitespaceCharacterCount": 4227,
+      "readingTimeInMinutes": 2.5245283018867926,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055264,
+      "modifiedDate": 1743971861559,
+      "sizeInBytes": 4996,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
