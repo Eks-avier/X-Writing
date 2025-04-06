@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godzilla, the King of the Monsters"
+              "title": "Physical Appearance"
             }
           },
           {
@@ -71,7 +71,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Physical Appearance"
             }
           },
           {
@@ -289,13 +291,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "125b4406d8d7df74",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Background and Heritage.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Excalidraw/Drawing 2025-03-10 22.48.17.excalidraw.md",
     "Excalidraw/Drawing 2025-03-04 18.02.17.excalidraw.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Trivia and Notes.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Background and Heritage.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
@@ -303,7 +307,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
@@ -321,7 +324,6 @@
     "Tags/#atm+titan+northern-faction",
     "Writing/Antitheriomorphosis/Characters/Godzilla II",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
     "Society",
     "titan",
     "Tags/#atm+species+titanus_gojira",
