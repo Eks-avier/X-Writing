@@ -3069,13 +3069,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7567,
+      "wordCount": 8548,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 25.223333333333333,
-      "characterCount": 60353,
-      "nonWhitespaceCharacterCount": 51264,
-      "readingTimeInMinutes": 28.554716981132074,
+      "pageCount": 28.493333333333332,
+      "characterCount": 68606,
+      "nonWhitespaceCharacterCount": 58391,
+      "readingTimeInMinutes": 32.25660377358491,
       "linkCount": 32,
       "embedCount": 0,
       "aliases": [
@@ -3086,8 +3086,8 @@
         "King of the Monsters"
       ],
       "createdDate": 1743271055212,
-      "modifiedDate": 1743939004491,
-      "sizeInBytes": 60865,
+      "modifiedDate": 1743958827062,
+      "sizeInBytes": 69126,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 25.223333333333333,
@@ -4815,6 +4815,56 @@
         "wordCount": 1,
         "characterCount": 9,
         "nonWhitespaceCharacterCount": 8
+      }
+    },
+    "Writing/Antitheriomorphosis/Wardens - Human Identities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1224,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.08,
+      "characterCount": 9688,
+      "nonWhitespaceCharacterCount": 8318,
+      "readingTimeInMinutes": 4.618867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743959212150,
+      "modifiedDate": 1743959256422,
+      "sizeInBytes": 9843,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/The Timeline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743959393480,
+      "modifiedDate": 1743959393480,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
