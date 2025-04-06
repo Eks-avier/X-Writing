@@ -1182,31 +1182,6 @@
         "nonWhitespaceCharacterCount": 3488
       }
     },
-    "Writing/Antitheriomorphosis/Terms for the Divine Mandate Against Sorcery.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 520,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7333333333333334,
-      "characterCount": 3921,
-      "nonWhitespaceCharacterCount": 3343,
-      "readingTimeInMinutes": 1.9622641509433962,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055063,
-      "modifiedDate": 1743846388410,
-      "sizeInBytes": 3959,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7333333333333334,
-        "wordCount": 520,
-        "characterCount": 3921,
-        "nonWhitespaceCharacterCount": 3343
-      }
-    },
     "Writing/Antitheriomorphosis/The Eavesdropper.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4992,25 +4967,44 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1315,
+      "wordCount": 1292,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.383333333333334,
-      "characterCount": 10194,
-      "nonWhitespaceCharacterCount": 8696,
-      "readingTimeInMinutes": 4.962264150943396,
-      "linkCount": 0,
+      "pageCount": 4.306666666666667,
+      "characterCount": 9932,
+      "nonWhitespaceCharacterCount": 8476,
+      "readingTimeInMinutes": 4.875471698113207,
+      "linkCount": 18,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Godzilla's Origins",
+        "Godric's Heritage",
+        "Northerner Lineage"
+      ],
       "createdDate": 1743965409993,
-      "modifiedDate": 1743965447749,
-      "sizeInBytes": 10238,
+      "modifiedDate": 1743970617585,
+      "sizeInBytes": 10210,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Godzilla's Origins",
+          "Godric's Heritage",
+          "Northerner Lineage"
+        ],
+        "tags": [
+          "atm/titan/character/main",
+          "atm/titan/northern_gojira",
+          "atm/character/background"
+        ],
+        "status": "active",
+        "created": "2024-04-07",
+        "modified": "2024-04-07"
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md": {
@@ -5055,6 +5049,31 @@
       "createdDate": 1743271055342,
       "modifiedDate": 1743846388327,
       "sizeInBytes": 21054,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Magic System/Divine Mandate Against Sorcery.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1928,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.426666666666667,
+      "characterCount": 12234,
+      "nonWhitespaceCharacterCount": 10193,
+      "readingTimeInMinutes": 7.275471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055063,
+      "modifiedDate": 1743970723684,
+      "sizeInBytes": 12292,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

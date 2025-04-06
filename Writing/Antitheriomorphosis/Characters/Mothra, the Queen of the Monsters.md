@@ -269,7 +269,7 @@ Following the [[Writing/Antitheriomorphosis/Antitheriomorphosis]] that transform
 
 > [!note] Major Events
 > - **[[Atlantean Golden Age Incident]]** - Execution of divine judgment against soul-manipulating sorcerers
-> - **[[Terms for the Divine Mandate Against Sorcery]]** - Severed humanity's connection to [[Primus]] following the incident
+> - **[[Divine Mandate Against Sorcery]]** - Severed humanity's connection to [[Primus]] following the incident
 > - **[[Xillien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders
 > - **[[Writing/Antitheriomorphosis/Antitheriomorphosis]]** - Transformation into human form, creating unprecedented proximity with other Titans
 

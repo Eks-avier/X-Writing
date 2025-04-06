@@ -64,7 +64,7 @@ Godzilla's relationship with his father Dagon has profoundly shaped his identity
 
 ### The Divine Mandate
 
-Godzilla's perspective on the [[Terms for the Divine Mandate Against Sorcery|Divine Mandate Against Sorcery]] (which he calls “The Judgment”):
+Godzilla's perspective on the [[Divine Mandate Against Sorcery|Divine Mandate Against Sorcery]] (which he calls “The Judgment”):
 
 - **Role**: Witnessed the catastrophic events involving the rogue human tribe
 - **Perspective**: Views it as simple cosmic justice - humans violated cosmic law and paid the price
@@ -176,4 +176,4 @@ In more recent times, Godzilla's pivotal historical contributions include:
 - [[The Titan Hierarchy System]]
 - [[Northerners]]
 - [[Atlantean Golden Age Incident]]
-- [[Terms for the Divine Mandate Against Sorcery]]
+- [[Divine Mandate Against Sorcery]]
