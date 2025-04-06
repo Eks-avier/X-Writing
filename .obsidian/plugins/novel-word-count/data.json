@@ -909,25 +909,51 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1161,
+      "wordCount": 1082,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.87,
-      "characterCount": 11983,
-      "nonWhitespaceCharacterCount": 10155,
-      "readingTimeInMinutes": 4.381132075471698,
+      "pageCount": 3.6066666666666665,
+      "characterCount": 10780,
+      "nonWhitespaceCharacterCount": 9290,
+      "readingTimeInMinutes": 4.083018867924529,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743703457248,
-      "modifiedDate": 1743766406323,
-      "sizeInBytes": 11991,
+      "modifiedDate": 1743768537238,
+      "sizeInBytes": 11325,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.87,
         "wordCount": 1161,
         "characterCount": 11983,
         "nonWhitespaceCharacterCount": 10155
+      },
+      "frontmatter": {
+        "title": "Physical Characteristics",
+        "parent": "[[Titanus Gojira]]",
+        "component_type": "biology",
+        "component_category": "physiological",
+        "related_components": [
+          "[[Limitless Adaptation]]",
+          "[[Dorsal Fin Structure]]",
+          "[[Regenerative Systems]]"
+        ],
+        "manifestations": [
+          "Dermal Armor",
+          "Radiation Processing Organs",
+          "Muscular Architecture",
+          "Sensory Systems",
+          "Factional Variations"
+        ],
+        "current_status": "Preserved in human form",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/biology/physiological"
+        ],
+        "created": "2025-04-04",
+        "last_modified": "2025-04-04"
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
@@ -4764,6 +4790,31 @@
           "King of the Monsteres",
           "Alpha Paramount"
         ]
+      }
+    },
+    "Notepad 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 791,
+      "nonWhitespaceCharacterCount": 666,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743935046609,
+      "modifiedDate": 1743798148356,
+      "sizeInBytes": 791,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
