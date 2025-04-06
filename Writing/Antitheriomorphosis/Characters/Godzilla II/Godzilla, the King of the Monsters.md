@@ -210,7 +210,6 @@ Godric's appearance represents a living fusion of his parents' traits:
 - Facial structure, particularly brow ridge and jawline
 - Stoic demeanor and contained presence
 - Blue eyes (when in vigilant state)
-- 
 - Physical approach to problem-solving
 
 **From Mother**
@@ -344,6 +343,95 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 
 ## Physical Capabilities
 
+### Enhanced Senses
+
+Godzilla's sensory capabilities represent the pinnacle of his species' limitless adaptive potential refined over 250 million years, functioning as an integrated system rather than discrete channels.
+
+#### Cross-Sensory Integration
+
+- **Synesthetic Processing**: Experiences natural synesthesia where sensory boundaries dissolve
+  - Radiation registers with distinct “flavors” detectable from kilometers away
+  - Sound waves create visible patterns, allowing him to “see” conversations through walls
+  - Energy emissions produce unique olfactory signatures trackable over vast distances
+  - Temperature variations register as tactile pressure against his skin from a distance
+- **Compensatory Redundancy**: Features perfect sensory redundancy as evolutionary failsafe
+  - Each sense can completely substitute for others with minimal information loss
+  - If blinded, acoustic and electromagnetic processing creates a near-perfect visual model
+  - When deafened, micro-vibrations in atmosphere provide equivalent acoustic information
+  - Loss of one sense triggers instantaneous redistribution of processing resources
+- **Hierarchical Processing**: Automatically prioritizes information based on context
+  - **Combat Mode**: Motion detection and energy signatures receive priority
+  - **Assessment Mode**: Multiple data streams processed simultaneously without interference
+  - **Social Mode**: Subtle physiological indicators and emotional signals reach consciousness first
+  - **Rest Mode**: Environmental constants filtered out while maintaining vigilance for anomalies
+- **Pseudo-Perception of Magic**: Despite being Null, detects magic's environmental effects
+  - Senses atmospheric density changes, temperature fluctuations, and electromagnetic anomalies
+  - Recognizes patterns in these disruptions to identify specific magical signatures
+  - Cannot directly counter magic but can predict its effects through physical manifestations
+
+#### Sensory Specifications
+
+- **Vision**: Processes visual information at approximately 20x human resolution
+  - Accurate detail perception up to 15 miles
+  - X-ray capability through most non-lead materials
+  - Telescopic and microscopic focus adjustment
+  - Energy wavelength perception beyond human spectrum
+
+- **Hearing**: Perceives sounds from 5Hz to 200,000Hz
+  - Isolates specific sounds up to 50 miles away
+  - Identifies individuals by unique acoustic signatures
+  - Uses sound for structural analysis similar to echolocation
+
+- **Olfactory**: Tracks scents over 100 miles in optimal conditions
+  - Perfect recall of every scent encountered
+  - Composition analysis of complex scent mixtures
+  - Detects emotional states through subtle pheromone changes
+
+- **Additional Senses**: Equally enhanced taste discrimination and tactile sensitivity
+  - Trusted judge of culinary quality due to exceptional taste refinement
+  - Detects temperature variations as small as 0.01 degrees
+  - Feels barometric and atmospheric pressure changes
+
+#### Practical Applications
+
+- **Combat Applications**:
+  - **Precognitive Defense**: Detects and responds to attacks before they're launched
+  - **Structural Analysis**: Identifies weaknesses in any structure or opponent within seconds
+  - **Counter-Frequency Adaptation**: Automatically adjusts energy output to disrupt enemy emissions
+  - **Stealth Detection**: Renders conventional concealment useless through multi-spectrum awareness
+- **Leadership Applications**:
+  - **Truth Verification**: Functions as living lie detector during court proceedings
+  - **Threat Assessment**: Detects malicious intent through subtle chemical and energy signatures
+  - **Resource Allocation**: Gauges environmental stresses across territories
+  - **Distant Awareness**: Maintains connection with Beta Tier Titans through environmental monitoring
+  - **Crisis Prediction**: Identifies emerging problems before manifestation
+- **Investigative Applications**:
+  - **Crime Scene Analysis**: Reconstructs events from microscopic evidence
+  - **Subject Assessment**: Determines truthfulness with near-perfect accuracy
+  - **Pattern Recognition**: Identifies connected events separated by time and distance
+  - **Tracking**: Locates subjects across vast distances using fragmented evidence
+- **Domestic Applications**:
+  - **Culinary Excellence**: Perfect taste discrimination enables exceptional cooking
+  - **Medical Diagnosis**: Detects illness before symptoms manifest
+  - **Home Security**: Maintains passive awareness of all activity surrounding their residence
+  - **Weather Prediction**: Forecasts conditions with greater accuracy than specialized equipment
+  - **Emotional Awareness**: Reads Maria's needs through subtle physiological changes
+
+#### Sensory Evolution Timeline
+
+- **Initial Transformation (2020)**: Overwhelmed by unfiltered sensory input, requiring periodic isolation
+- **Adaptation (2021-2022)**: Developed preliminary filtering through meditation techniques
+- **Refinement (2023-2024)**: Achieved sophisticated prioritization following the Xillien Invasion
+- **Current Mastery (2025)**: Perfect integration of all sensory channels with automatic compensation
+
+#### Significant Limitations
+
+- **Emotional Interference**: Strong emotions can disrupt processing—part of why he maintains his stoic demeanor
+- **Processing Saturation**: Complex environments like major cities remain “like persistent mosquitoes buzzing in his ears”
+- **Communication Barrier**: Struggles to explain his perceptions to others, creating occasional tension
+- **Privacy Paradox**: Awareness of others' physiological states creates ethical dilemmas
+- **Calibration Requirements**: Needs periodic isolation to reset baseline sensitivity, though with decreasing frequency
+
 ### Strength & Force Projection
 
 Godzilla possesses extraordinary physical strength even without energy enhancement, capable of lifting approximately 50-80 tons in his human form. Notably, his strength-to-mass ratio actually *increased* following the Antitheriomorphosis—he didn't become weaker in absolute terms, but rather became constrained by the physical limitations of a smaller frame.
@@ -354,11 +442,11 @@ Godzilla possesses extraordinary physical strength even without energy enhanceme
 - **Distribution**: Strength is evenly distributed throughout his body, unlike humans who have concentrated muscle groups
 - **Control Evolution**: Has developed precise calibration for delicate interactions after initial adjustment period
 
-When employing Atomic Amplification, his strength transcends these physical constraints through energy-field reinforcement of his body's structural limits, allowing force application beyond what his size would suggest possible.
+When employing Atomic Amplification, his strength transcends these physical constraints through internal reinforcement of his body's structural limits, allowing force application beyond what his size would suggest possible.
 
 ### Emerging Capability: Asymmetrical Permeable Shield
 
-Following the Xillien Invasion, Godzilla has begun manifesting a primitive form of external energy manipulation:
+Following the Xilien Invasion, Godzilla has begun manifesting a primitive form of external energy manipulation:
 
 - **Current State**: A thin, nearly imperceptible energy field that appears during moments of extreme defensive necessity
 - **Visual Signature**: Faint blue shimmer that briefly becomes visible at point of impact
@@ -366,7 +454,7 @@ Following the Xillien Invasion, Godzilla has begun manifesting a primitive form 
 - **Development Status**: Inconsistent manifestation, primarily appearing as instinctive defensive response
 - **Future Potential**: May eventually extend effective strength radius, reduce Railgun charge time, and enhance overall defensive capabilities
 
-This emerging ability represents his evolution from purely internal energy manipulation (Atomic Amplification) to more sophisticated external control.
+This emerging ability represents his evolution from purely internal energy manipulation (Atomic Amplification) to more sophisticated external control. %% TO ADD: This %%
 
 ### Durability & Resilience
 
@@ -398,17 +486,14 @@ All sensory systems function at superhuman levels with sophisticated cross-modal
   - X-ray capability through most non-lead materials
   - Telescopic and microscopic focus adjustment
   - Energy wavelength perception beyond human spectrum
-
 - **Hearing**: Perceives sounds from 5Hz to 200,000Hz
   - Isolates specific sounds up to 50 miles away
   - Identifies individuals by unique acoustic signatures
   - Uses sound for structural analysis similar to echolocation
-
 - **Olfactory**: Tracks scents over 100 miles in optimal conditions
   - Perfect recall of every scent encountered
   - Composition analysis of complex scent mixtures
   - Detects emotional states through subtle pheromone changes
-
 - **Additional Senses**: Equally enhanced taste discrimination and tactile sensitivity
   - Trusted judge of culinary quality due to exceptional taste refinement
   - Detects temperature variations as small as 0.01 degrees
