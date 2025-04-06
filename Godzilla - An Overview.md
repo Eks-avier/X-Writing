@@ -26,4 +26,7 @@ aliases:
 - The Antitheriomorphosis has forced him into a human that possesses the same power to control atomic energy.
 	- No longer a colossus, a living nuclear reactor, he must approach his situation from a different angle.
 		- More than ever, he has to rely on his species' inherent ability to be limitlessly adaptable.
-		- 
+			- This fits in nicely with the natural adaptability of humanity, especially the way our bodies work.
+		- This reconfiguration set him out on a transformation. 
+			- He must learn to navigate the fragile world of humans
+		

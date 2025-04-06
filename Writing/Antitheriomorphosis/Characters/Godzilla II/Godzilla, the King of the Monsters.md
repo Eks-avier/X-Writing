@@ -205,7 +205,7 @@ For Monarch personnel who have been around long enough, one of the most telling 
 
 Godric's appearance represents a living fusion of his parents' traits:
 
-**From Father (Dagon/Darius)**
+**From Father ([[Dagon, the Last Northern Patriarch]]/Darius Nordson)**
 - Broad-shouldered frame and overall stature
 - Facial structure, particularly brow ridge and jawline
 - Stoic demeanor and contained presence
