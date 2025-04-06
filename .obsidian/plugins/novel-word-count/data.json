@@ -2699,15 +2699,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 13.436666666666667,
-      "characterCount": 32205,
-      "nonWhitespaceCharacterCount": 26178,
+      "characterCount": 32212,
+      "nonWhitespaceCharacterCount": 26185,
       "readingTimeInMinutes": 15.211320754716981,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743586100172,
-      "modifiedDate": 1743965407508,
-      "sizeInBytes": 33214,
+      "modifiedDate": 1743965836072,
+      "sizeInBytes": 33228,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 13.433333333333334,
@@ -2724,7 +2724,7 @@
           "[[Cultural Heritage]]",
           "[[Regeneration]]",
           "[[Clothing Regalia]]",
-          "[[4 - Energy Domination]]"
+          "[[Godzilla - Energy Domination]]"
         ],
         "evolution_points": [
           {
@@ -4852,32 +4852,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/2 - Biology and Physiology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1193,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.9766666666666666,
-      "characterCount": 9653,
-      "nonWhitespaceCharacterCount": 8242,
-      "readingTimeInMinutes": 4.50188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743965281530,
-      "modifiedDate": 1743965298130,
-      "sizeInBytes": 9699,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/1 - Physicality and Forms.md": {
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4902,7 +4877,32 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/3 - Sensory Capabilities.md": {
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9766666666666666,
+      "characterCount": 9653,
+      "nonWhitespaceCharacterCount": 8242,
+      "readingTimeInMinutes": 4.50188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965281530,
+      "modifiedDate": 1743965298130,
+      "sizeInBytes": 9699,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4927,7 +4927,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/4 - Energy Domination.md": {
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4952,24 +4952,20 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/5 - Bakground and Heritage.md": {
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Bakground and Heritage.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1298,
+      "wordCount": 1315,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.326666666666667,
-      "characterCount": 9960,
-      "nonWhitespaceCharacterCount": 8498,
-      "readingTimeInMinutes": 4.89811320754717,
-      "linkCount": 18,
+      "pageCount": 4.383333333333334,
+      "characterCount": 10194,
+      "nonWhitespaceCharacterCount": 8696,
+      "readingTimeInMinutes": 4.962264150943396,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "Godzilla's Origins",
-        "Godric's Heritage",
-        "Northerner Lineage"
-      ],
+      "aliases": null,
       "createdDate": 1743965409993,
       "modifiedDate": 1743965447749,
       "sizeInBytes": 10238,
@@ -4979,24 +4975,78 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Personality and Relationships.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1639,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.463333333333333,
+      "characterCount": 12455,
+      "nonWhitespaceCharacterCount": 10653,
+      "readingTimeInMinutes": 6.184905660377359,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965453959,
+      "modifiedDate": 1743965519749,
+      "sizeInBytes": 12475,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1588,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.293333333333333,
+      "characterCount": 13121,
+      "nonWhitespaceCharacterCount": 11251,
+      "readingTimeInMinutes": 5.992452830188679,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": [
+        "Godzilla's Combat Style",
+        "Godric's Fighting Techniques",
+        "Godzilla's Physical Abilities"
+      ],
+      "createdDate": 1743965867957,
+      "modifiedDate": 1743965886115,
+      "sizeInBytes": 13420,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
         "aliases": [
-          "Godzilla's Origins",
-          "Godric's Heritage",
-          "Northerner Lineage"
+          "Godzilla's Combat Style",
+          "Godric's Fighting Techniques",
+          "Godzilla's Physical Abilities"
         ],
         "tags": [
           "atm/titan/character/main",
           "atm/titan/northern_gojira",
-          "atm/character/background"
+          "atm/character/combat"
         ],
         "status": "active",
         "created": "2024-04-07",
         "modified": "2024-04-07"
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/6 - Personality and Relationships.md": {
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Trivia and Notes.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5010,8 +5060,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743965453959,
-      "modifiedDate": 1743965453959,
+      "createdDate": 1743966008695,
+      "modifiedDate": 1743966008695,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,

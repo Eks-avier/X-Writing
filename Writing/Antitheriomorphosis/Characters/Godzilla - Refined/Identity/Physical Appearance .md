@@ -7,7 +7,7 @@ related_aspects:
   - "[[Cultural Heritage]]"
   - "[[Regeneration]]"
   - "[[Clothing Regalia]]"
-  - "[[4 - Energy Domination]]"
+  - "[[Godzilla - Energy Domination]]"
 evolution_points:
   - Titan Form: Original massive form prior to Antitheriomorphosis
   - Early Human Form: Initial manifestation after transformation
@@ -204,7 +204,7 @@ Godzilla's physical appearance carries deep cultural significance that reflects 
 - [[Cultural Heritage]] - His physical appearance incorporates numerous elements specific to Northern *Titanus gojira* traditions and values, particularly his minimalist aesthetic and emphasis on functional form over decorative elements. The way he carries himself, his grooming preferences, and his physical bearing all reflect deeply ingrained Northern cultural patterns.
 - [[Regeneration]] - His perfect skin condition and lack of scarring directly result from his exceptional regenerative capabilities, which maintain optimal physical condition despite countless battles. The continuous renewal of cells creates an appearance of timelessness, a physical vessel untouched by the passage of eons.
 - [[Clothing Regalia]] - His physical appearance is complemented by clothing choices that emphasize functionality and cultural significance, with regalia designed to highlight rather than obscure his natural physicality. The deliberate minimalism of his attire creates perfect harmony with his physical form.
-- [[4 - Energy Domination]] - The blue energy manifestations visible during power usage represent the external expression of his core ability to manipulate atomic energy. His physical form serves as both container and channel for these powers, with appearance changes directly reflecting energy states.
+- [[Godzilla - Energy Domination]] - The blue energy manifestations visible during power usage represent the external expression of his core ability to manipulate atomic energy. His physical form serves as both container and channel for these powers, with appearance changes directly reflecting energy states.
 
 > [!quote] There's something about him that makes you step aside before you even realize you're moving. It's not just that he's tall or powerfully built—plenty of men are. It's something in how he carries himself, like there's this immense weight and power contained in perfect balance. And those eyes… when they shift from blue to gold, it's like seeing a different person entirely. Sometimes I forget he's not human, and then he'll move in a way that's just too… perfect. No wasted motion, no unconscious gestures, no fidgeting or shifting weight. He doesn't occupy space like we do—he commands it.
 > — Dr. Mark Russell, Monarch Psychological Assessment Records

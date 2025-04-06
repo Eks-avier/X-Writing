@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/5 - Bakground and Heritage.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Bakground and Heritage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Bakground and Heritage"
+              "title": "Godzilla - Bakground and Heritage"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/6 - Personality and Relationships.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Trivia and Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Personality and Relationships"
+              "title": "Godzilla - Trivia and Notes"
             }
           }
         ],
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/6 - Personality and Relationships.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Trivia and Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6 - Personality and Relationships"
+              "title": "Outline of Godzilla - Trivia and Notes"
             }
           },
           {
@@ -280,19 +280,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "c64af3b37089eaec",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/5 - Bakground and Heritage.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/6 - Personality and Relationships.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/4 - Energy Domination.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/3 - Sensory Capabilities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/1 - Physicality and Forms.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/2 - Biology and Physiology.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Trivia and Notes.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Personality and Relationships.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Bakground and Heritage.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
@@ -311,8 +313,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md",
-    "Writing/Antitheriomorphosis/Characters/Hollow Earth Personnel & Residents.md",
     "Society",
     "titan",
     "Tags/#atm+species+titanus_gojira",

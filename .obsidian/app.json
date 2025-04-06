@@ -14,5 +14,6 @@
   ],
   "attachmentFolderPath": "/",
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "current"
 }
