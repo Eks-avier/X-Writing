@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context Bucket List 2 - Electric Boogalo"
+              "title": "Keystone Arc"
             }
           }
         ],
@@ -127,7 +127,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Context Bucket List 2 - Electric Boogalo"
+              "title": "Outline of Keystone Arc"
             }
           },
           {
@@ -252,8 +253,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "468116245c8f5754",
+  "active": "d23a77c4a916c5a8",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
+    "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
     "Writing/Antitheriomorphosis/Characters/Samuel Johns.md",
     "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 1.md",
@@ -278,8 +281,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
-    "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
