@@ -3,16 +3,28 @@ aliases:
   - Darius Nordson
 ---
 
-# Dagon, the Last Northern Patriarch
+# Dagon: Northern Patriarch, Reluctant Father
 
 ## Core Identity
 
-**Human Name:** Darius Nordson
-**Apparent Age:** 45
-**True Age:** Approximately 250-255 million years old at time of death (300-500 years older than Godric; translates to having Godric as a 20 year old)
+**Human Name:** Darius Nordson (meaning “possessor of good” or “he who holds firm the good”)
+**Apparent Age:** Mid-40s (in human terms)
+**Documented Age:** 45 (Monarch records)
+**True Age:** Approximately 250-255 million years old at time of death (300-500 years older than Godric)
 **Status:** Resurrected in human form
 **Position:** Former Northern Patriarch, Father of current Alpha Paramount
 **Affiliations:** Northern Gojira (legacy), Monarch (advisory), Godric Nordson (family)
+
+### The Significance of “Darius”
+
+The name chosen for his human identity carries deep personal significance beyond its historical connections. “Darius” meaning “he who holds firm the good” reflects his fundamental character:
+
+- **The Good He Treasures:** The golden eyes that were so rare in Northern Gojira, a symbol of his mate and now his son.
+- **What He Maintains:** His commitment to protect and cherish his son regardless of changed circumstances
+- **Second Chance Statement:** A declaration that in this new life, even with his son now exponentially more powerful, he will continue to hold firm to what is valuable
+- **Parental Promise:** “Even when you are king, I will still protect you; you are still my treasure”
+
+While Godric's name speaks to power and authority (God's ruler/king), Darius's name speaks to steadfast protection and preservation of what truly matters – creating a fitting parallel between father and son that transcends their reversed power dynamic.
 
 ## Physical Appearance
 
@@ -28,10 +40,10 @@ aliases:
 ### Human Form (Post-Resurrection)
 
 - **Height:** 6'3” (shorter than Godric's 6'5”)
-- **Build:** Broader and seemingly more heavily muscled than Godric, with powerful shoulders and chest
+- **Build:** Broader and more heavily muscled than Godric, with powerful shoulders and chest
 - **Hair:** White or gray despite otherwise youthful appearance
 - **Eyes:** Striking icy blue that occasionally exhibits faint luminescence in low light
-- **Skin Tone:** Matching Godric's base tone but without the tan
+- **Skin Tone:** Matching Godric's base tone but without the tan, slightly paler
 - **Facial Structure:** Strongly defined jaw with prominent brow, deep-set eyes and strong cheekbones
 - **Mannerisms:** Tendency to square shoulders and stand with feet planted firmly apart, taking up more space than necessary
 
@@ -54,7 +66,7 @@ aliases:
 
 ### Mate and Family
 
-- Bonded with a smaller female Northern Gojira with distinctive golden eyes and obsidian black scales
+- Bonded with a smaller female Northern Gojira with distinctive golden eyes
 - Lost his mate during an attack shortly after egg was laid
 - Raised Godric alone after his hatching
 - Struggled with seeing his mate's features in his son, creating emotional distance
@@ -338,12 +350,3 @@ aliases:
 - Emotional healing and full reconciliation with Godric
 - Development of authentic three-person family dynamic with Godric and Maria
 - Potential mentor to younger Titans struggling with human adaptation
-
-## Trivia
-
-- Due to some biological complications with his mate, Godzilla when his parents were the equivalent of human parents who are 20 years old.
-- Northern Gojira typically have offspring when both parents are equivalent to 18 years old humans.
-- Has initially named his son the equivalent of a human *junior*, making Godzilla technically Dagon Jr. or Dagonson, which is common practice among Northern Gojira who are very patrilineal.
-- Dagon himself is named after his own father, Godzilla's grandfather.
-- Dagon isn't technically his name either, it was given to him by early humans when they witnessed his bones and theorized him to be a fish god.
-	- Godzilla has always referred to him as *father*, only after knowing what the humans named him did his son begin calling him Dagon.

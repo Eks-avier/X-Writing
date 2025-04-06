@@ -35,7 +35,7 @@ The emergence of the [[Antitheriomorphosis]] changed everything. Forced into a c
 > - **Human Name**: Godric Nordson
 > - **Documented Age**: 25 (Monarch records)
 > - **Actual Age:** Approximately 250 million years old (exact age unknown)
-> - **Race**: [[Northerner]]
+> - **Race**: [[Northen Gojira|Northerner]]
 > - **Affiliation:** [[The Null]], [[The North]], [[Monarch]] (occasionally)
 > - **Status:** Active
 > - **Titles:** King of the Monsters, Alpha of the Titans

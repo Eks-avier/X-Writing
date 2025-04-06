@@ -6,6 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
+        "dimension": 52.52403846153846,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -34,20 +35,6 @@
             }
           },
           {
-            "id": "1479ce716f5a3c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dagon, the Last Northern Patriarch"
-            }
-          },
-          {
             "id": "6acf396e6fa4ce13",
             "type": "leaf",
             "state": {
@@ -56,7 +43,7 @@
                 "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
                 "viewState": {
                   "x": 61.8623101801184,
-                  "y": 589.6765039446951,
+                  "y": -153.6803110401811,
                   "zoom": -1.1302695288309539
                 }
               },
@@ -77,20 +64,6 @@
               "icon": "lucide-file",
               "title": "Physical Appearance"
             }
-          },
-          {
-            "id": "cea057025db81b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dagon, the Last Northern Patriarch"
-            }
           }
         ],
         "currentTab": 1
@@ -98,6 +71,7 @@
       {
         "id": "08d86fd68cac0d53",
         "type": "tabs",
+        "dimension": 47.47596153846153,
         "children": [
           {
             "id": "4255dedc7acc878e",
@@ -112,8 +86,23 @@
               "icon": "lucide-file",
               "title": "Godzilla - An Overview"
             }
+          },
+          {
+            "id": "4a3a1e6d73f50421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dagon, the Last Northern Patriarch"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godzilla - An Overview"
+              "title": "Backlinks for Godzilla, the King of the Monsters"
             }
           },
           {
@@ -236,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla - An Overview"
+              "title": "Outgoing links from Godzilla, the King of the Monsters"
             }
           },
           {
@@ -250,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godzilla - An Overview.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla - An Overview"
+              "title": "Outline of Godzilla, the King of the Monsters"
             }
           },
           {
@@ -294,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Godzilla - An Overview.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla - An Overview"
+              "title": "File properties for Godzilla, the King of the Monsters"
             }
           }
         ],
@@ -321,20 +310,20 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "4255dedc7acc878e",
+  "active": "bc64f30e79e7f04e",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
+    "Godzilla - An Overview.md",
     "Notepad 2.md",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+northern-faction",
-    "Godzilla - An Overview.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
-    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
@@ -353,7 +342,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/4 - Cultural & Species Background.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/3 - Legacy and Impact.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Society",
     "titan",
     "Tags/#atm+species+titanus_gojira",
