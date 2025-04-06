@@ -16,7 +16,7 @@ File: Main Alternate Universe/Characters/Mothra, the Queen of the Monsters.md
 
 # **Mothra, The Queen of The Monsters**
 
-> *“She radiates divine authority with effortless grace—a celestial guardian whose light can both heal and annihilate.”*
+> *"She radiates divine authority with effortless grace—a celestial guardian whose light can both heal and annihilate."*
 
 ## Overview
 
@@ -53,30 +53,48 @@ The [[Antitheriomorphosis]] that transformed the Titans into human form has crea
 
 #### Basic Traits
 
-Maintains a completely human appearance at all times, though with subtle indications of her divine nature visible primarily through her bioluminescent responses to emotional states.
+Maria's human form embodies divine beauty translated into mortal terms—ethereal yet tangible, otherworldly yet approachable. She maintains a completely human appearance at all times, though with subtle indications of her divine nature visible primarily through her bioluminescent responses to emotional states.
 
-| Attribute      | Description                                                     |
-| -------------- | --------------------------------------------------------------- |
-| **Height**     | 5'8” (173 cm)                                                   |
-| **Weight**     | ~65 kg                                                          |
-| **Build**      | Surprisingly muscular but lean, hidden beneath modest clothing  |
-| **Hair**       | Platinum-blonde, long and voluminous, reflecting her Titan form |
-| **Eyes**       | Bright blue, glowing softly with divine energy                  |
-| **Complexion** | Fair, with subtle bioluminescent shifts based on emotions       |
-| **Features**   | Graceful features with an ethereal quality that draws attention |
-| **Posture**    | Poised and elegant, carrying herself with natural authority     |
+| Attribute       | Description                                                                          |
+| --------------- | ------------------------------------------------------------------------------------ |
+| **Height**      | 5'8" (173 cm) - Tall enough to command presence without intimidation                 |
+| **Weight**      | ~65 kg                                                                               |
+| **Build**       | Deceptively strong yet graceful; lean musculature concealed beneath flowing garments |
+| **Hair**        | Platinum-blonde with subtle golden and silver undertones; impossibly soft and lightweight; moves as if in gentle breeze even in still air; falls to mid-back when loose |
+| **Eyes**        | Luminous azure blue with subtle opalescent quality; large and almond-shaped, slightly upturned at the corners |
+| **Complexion**  | Fair with warm undertones and subtle luminosity; flawless and silken, with fine almost-invisible golden dust that catches light |
+| **Features**    | High cheekbones with delicate, symmetrical features; straight, proportionate nose; naturally pink and full lips |
+| **Posture**     | Perfectly balanced, almost floating; seems to glide rather than walk                 |
+
+#### Divine Indicators & Presence
+
+- **Movement**: Fluid and graceful, appearing to flow rather than step; nearly silent
+- **Balance**: Perfect in all situations; never stumbles or makes awkward movements
+- **Spatial Awareness**: Unconsciously maintains harmonious positioning in any environment
+- **Energy Field**: Creates subtle calm in immediate surroundings; plants seem to turn toward her
+- **Gravitational Anomaly**: Occasionally hovers fractions of an inch above ground when distracted
+- **Voice**: Melodic soprano with harmonic undertones that seem to contain multiple notes simultaneously
+- **Scent**: Subtle floral notes reminiscent of spring blossoms after rain; eases respiratory stress in those nearby
+- **Light Interaction**: Seems to naturally gather and soften ambient light around herself
 
 #### Bioluminescent Emotional Indicators
 
 Mothra's face and clothing subtly illuminate with different colors reflecting her emotional state:
 
 - **Reddish-yellow**: Anger or protective instinct activated
-- **Pink**: Flustered, embarrassed, or experiencing attraction
+- **Pink**: Flustered, embarrassed, or experiencing attraction (particularly around Godric)
 - **Blue**: Peace, contentment, or deep focus
 - **White-gold**: Divine authority being exercised
 - **Green**: Healing energy being channeled
 
 These bioluminescent shifts are subtle enough to be mistaken for lighting changes by casual observers but unmistakable to those who know her well.
+
+#### Unconscious Habits
+
+- **Height Seeking**: Gravitates toward elevated positions in any space
+- **Light Attraction**: Unconsciously positions herself in brightest areas
+- **Head Tilt**: Slight angling of head when listening intently, reminiscent of antenna positioning
+- **Hovering**: Rises fractionally off ground when deeply focused or emotional
 
 #### Power Manifestation
 
@@ -85,14 +103,7 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 - Golden dust-like scales appear around her when defensive abilities activate
 - Light emanates from her hands during healing
 - Her entire body may glow when channeling significant divine energy
-- Her eyes intensify in brightness when using telepathy
-
-#### Distinctive Characteristics
-
-- **Movement**: Graceful and deliberate, as if partially floating
-- **Presence**: Radiates calm authority, drawing people to her naturally
-- **Voice**: Melodic and soothing, with subtle harmonic undertones
-- **Impact**: Leaves faint traces of golden dust when emotional
+- Her eyes intensify in brightness when using telepathy or occasionally shift to golden starburst pattern during moments of divine authority
 
 ### Titan Form
 
@@ -105,21 +116,31 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 
 #### Daily Attire
 
-- **Color Palette**: Whites, blues, and golds predominate, with occasional floral patterns
-- **Style**: Flowing dresses and comfortable yet elegant attire
-- **Materials**: Exclusively wears clothing made from her own silk, handwoven by herself
-- **Accessories**: Minimal, typically limited to simple golden jewelry
+- **Silhouette**: Flowing, layered garments that move with ethereal grace
+- **Materials**: Exclusively wears clothing made from her own silk—weightless yet indestructible
+- **Color Palette**: Whites, soft golds, gentle blues, and pastels predominate
+- **Style**: Flowing dresses and comfortable yet elegant attire with subtle wing-like patterns
+- **Luminosity**: Fabric captures and holds light, appearing to glow softly in darkness
+- **Accessories**: Minimal, typically limited to simple golden jewelry handcrafted from gems found on Infant Island
 
 #### Formal Occasions
 
 - **Gowns**: Elaborate yet tasteful designs woven from her finest silk
+- **Color Palette**: Deep blues, violets, and blacks with gold accents
 - **Details**: Subtle luminescent threads woven into important ceremonial attire
 - **Footwear**: Often barefoot or in simple sandals, maintaining connection to the earth
+- **Ceremonial Items**: Occasionally wears subtly glowing golden circlet for formal functions
+
+#### Cultural Adaptations
+
+- **Japanese Attire**: Elaborate kimonos and layered haori with gold embroidery and subtle bioluminescence
+- **Future Projects**: Cultural attire for China, Korea, Germany, and Russia in various stages of development
+- **Philosophy**: "Clothing is a language. If we respect a nation's heritage, we understand them better."
 
 ## Abilities & Powers
 
 > [!quote] Divine Precision
-> “Unlike *Titanus gojira*, who wields energy through brute force, Mothra manipulates light energy with precision and grace.”
+> "Unlike *Titanus gojira*, who wields energy through brute force, Mothra manipulates light energy with precision and grace."
 
 ### Core Abilities
 
@@ -149,7 +170,7 @@ Mothra's scales provide her with unmatched defensive and adaptive capabilities:
 
 ### Soul Fragments & Power Regulation
 
-Mothra's power is distributed across seven soul fragments, which she scattered across the world as eggs serving as “save points”:
+Mothra's power is distributed across seven soul fragments, which she scattered across the world as eggs serving as "save points":
 
 #### Current Fragment Status
 
@@ -312,3 +333,7 @@ These three paths lead toward the same destination—Mothra evolving beyond her 
 > - Despite creating clothing with her silk for herself and Godzilla, she rarely uses her silk production abilities otherwise, fearing it might disgust humans
 > - She maintains Infant Island in a timeless state, preserving the home of her first human friends
 > - Her bioluminescent responses to emotions are involuntary, making her feelings more transparent than she realizes
+> - Her natural scent has a subtle calming effect on those around her, easing respiratory stress and anxiety
+> - She has perfect recall of every human language ever spoken, though rarely demonstrates this ability
+> - Small objects sometimes drift toward her during moments of intense concentration, creating subtle gravitational anomalies
+> - Children are particularly drawn to her, often sensing her divine nature without understanding why
