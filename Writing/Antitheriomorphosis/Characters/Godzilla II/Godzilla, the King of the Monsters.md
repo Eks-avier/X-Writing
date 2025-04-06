@@ -210,6 +210,7 @@ Godric's appearance represents a living fusion of his parents' traits:
 - Facial structure, particularly brow ridge and jawline
 - Stoic demeanor and contained presence
 - Blue eyes (when in vigilant state)
+- 
 - Physical approach to problem-solving
 
 **From Mother**
