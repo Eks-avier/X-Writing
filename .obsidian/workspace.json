@@ -37,14 +37,14 @@
             "id": "13825fc8703896de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Magic System/Divine Mandate Against Sorcery.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Writing/Antitheriomorphosis/.md",
+                "bFile": "Writing/Antitheriomorphosis/.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Divine Mandate Against Sorcery"
+              "icon": "diff",
+              "title": "Diff:"
             }
           }
         ],
@@ -195,13 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Magic System/Divine Mandate Against Sorcery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Divine Mandate Against Sorcery"
+              "title": "Outline"
             }
           },
           {
@@ -267,10 +266,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d23a77c4a916c5a8",
+  "active": "13825fc8703896de",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Magic System/Divine Mandate Against Sorcery.md",
+    "Writing/Antitheriomorphosis/.md",
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
-    "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
     "Writing/Antitheriomorphosis/Characters/Samuel Johns.md",
@@ -294,7 +294,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Personality and Relationships.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",

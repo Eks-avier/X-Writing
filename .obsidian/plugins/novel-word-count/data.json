@@ -4077,31 +4077,6 @@
         "nonWhitespaceCharacterCount": 22185
       }
     },
-    "Writing/Antitheriomorphosis/Context Bucket List 2 - Electric Boogalo.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 159,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.53,
-      "characterCount": 1053,
-      "nonWhitespaceCharacterCount": 878,
-      "readingTimeInMinutes": 0.6,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055017,
-      "modifiedDate": 1743970308209,
-      "sizeInBytes": 1061,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.3833333333333333,
-        "wordCount": 1015,
-        "characterCount": 7700,
-        "nonWhitespaceCharacterCount": 6452
-      }
-    },
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md": {
       "isCountable": true,
       "targetNodeType": "file",
