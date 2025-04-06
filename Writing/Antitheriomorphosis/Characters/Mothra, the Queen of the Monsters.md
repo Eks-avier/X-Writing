@@ -55,16 +55,16 @@ The [[Antitheriomorphosis]] that transformed the Titans into human form has crea
 
 Maintains a completely human appearance at all times, though with subtle indications of her divine nature visible primarily through her bioluminescent responses to emotional states.
 
-| Attribute       | Description                                                                          |
-| --------------- | ------------------------------------------------------------------------------------ |
-| **Height**      | 5'8” (173 cm)                                                                        |
-| **Weight**      | ~65 kg                                                                               |
-| **Build**       | Surprisingly muscular but lean, hidden beneath modest clothing                        |
-| **Hair**        | Platinum-blonde, long and voluminous, reflecting her Titan form                      |
-| **Eyes**        | Bright blue, glowing softly with divine energy                                       |
-| **Complexion**  | Fair but warm, with subtle bioluminescent shifts based on emotions                   |
-| **Features**    | Graceful features with an ethereal quality that draws attention                      |
-| **Posture**     | Poised and elegant, carrying herself with natural authority                          |
+| Attribute      | Description                                                     |
+| -------------- | --------------------------------------------------------------- |
+| **Height**     | 5'8” (173 cm)                                                   |
+| **Weight**     | ~65 kg                                                          |
+| **Build**      | Surprisingly muscular but lean, hidden beneath modest clothing  |
+| **Hair**       | Platinum-blonde, long and voluminous, reflecting her Titan form |
+| **Eyes**       | Bright blue, glowing softly with divine energy                  |
+| **Complexion** | Fair, with subtle bioluminescent shifts based on emotions       |
+| **Features**   | Graceful features with an ethereal quality that draws attention |
+| **Posture**    | Poised and elegant, carrying herself with natural authority     |
 
 #### Bioluminescent Emotional Indicators
 
