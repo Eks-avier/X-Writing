@@ -43,6 +43,7 @@
       "toSide": "top"
     },
     {
+      "color": "4",
       "fromNode": "708a55fe5030eeb7",
       "fromSide": "right",
       "id": "82c7b5f63406efc0",
@@ -55,10 +56,12 @@
       "toSide": "left"
     },
     {
+      "color": "1",
       "fromEnd": "arrow",
       "fromNode": "944a3cce97e156d0",
       "fromSide": "right",
       "id": "f15ea3f659eec087",
+      "label": "RELATIONSHIP?",
       "styleAttributes": {
         "pathfindingMethod": "direct"
       },
@@ -70,6 +73,19 @@
       "fromSide": "bottom",
       "id": "fbcd5850a089c503",
       "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "775cb092505c1e3f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "944a3cce97e156d0",
+      "fromSide": "left",
+      "id": "a7ecf0d41bd8fd10",
+      "label": "HALF-SIBLINGS",
+      "styleAttributes": {
+        "path": "dotted",
         "pathfindingMethod": "square"
       },
       "toNode": "775cb092505c1e3f",
@@ -86,54 +102,11 @@
       },
       "type": "group",
       "width": 320,
-      "x": -217,
+      "x": -277,
       "y": -633
     },
     {
-      "height": 60,
-      "id": "708a55fe5030eeb7",
-      "styleAttributes": {
-      },
-      "text": "# Maria Lepidiel",
-      "type": "text",
-      "width": 220,
-      "x": 890,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "ef7d9a2e20c0b990",
-      "styleAttributes": {
-      },
-      "text": "# Bartholomew Lepidiel",
-      "type": "text",
-      "width": 300,
-      "x": 1360,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "1d4eebacffaa715d",
-      "styleAttributes": {
-      },
-      "text": "# Mr. Lepidiel",
-      "type": "text",
-      "width": 190,
-      "x": 795,
-      "y": -640
-    },
-    {
-      "height": 60,
-      "id": "62d23b3c559be1da",
-      "styleAttributes": {
-      },
-      "text": "# Mrs. Lepidiel",
-      "type": "text",
-      "width": 200,
-      "x": 1000,
-      "y": -640
-    },
-    {
+      "color": "#ffd700",
       "height": 60,
       "id": "944a3cce97e156d0",
       "styleAttributes": {
@@ -156,6 +129,7 @@
       "y": -640
     },
     {
+      "color": "5",
       "height": 60,
       "id": "fa65586650f47ae2",
       "styleAttributes": {
@@ -170,6 +144,7 @@
       "y": -640
     },
     {
+      "color": "1",
       "height": 60,
       "id": "a3e496e9b929346f",
       "styleAttributes": {
@@ -178,10 +153,11 @@
       "text": "# Erika Rose Nordson",
       "type": "text",
       "width": 280,
-      "x": -197,
+      "x": -257,
       "y": -613
     },
     {
+      "color": "#ffffff",
       "height": 60,
       "id": "65a1f82cd5f7f5d3",
       "styleAttributes": {
@@ -190,10 +166,11 @@
       "text": "# Simon Nordson",
       "type": "text",
       "width": 280,
-      "x": -197,
+      "x": -257,
       "y": -533
     },
     {
+      "color": "2",
       "height": 60,
       "id": "2ea74d4577ceabf2",
       "styleAttributes": {
@@ -202,10 +179,11 @@
       "text": "# Megara Nordson",
       "type": "text",
       "width": 280,
-      "x": -197,
+      "x": -257,
       "y": -453
     },
     {
+      "color": "3",
       "height": 60,
       "id": "e586e218c0a44020",
       "styleAttributes": {
@@ -214,8 +192,54 @@
       "text": "# Millen Nordson",
       "type": "text",
       "width": 280,
-      "x": -197,
+      "x": -257,
       "y": -373
+    },
+    {
+      "height": 60,
+      "id": "1d4eebacffaa715d",
+      "styleAttributes": {
+      },
+      "text": "# Mr. Lepidiel",
+      "type": "text",
+      "width": 190,
+      "x": 853,
+      "y": -640
+    },
+    {
+      "height": 60,
+      "id": "62d23b3c559be1da",
+      "styleAttributes": {
+      },
+      "text": "# Mrs. Lepidiel",
+      "type": "text",
+      "width": 200,
+      "x": 1058,
+      "y": -640
+    },
+    {
+      "color": "#0f52ba",
+      "height": 60,
+      "id": "708a55fe5030eeb7",
+      "styleAttributes": {
+      },
+      "text": "# Maria Lepidiel",
+      "type": "text",
+      "width": 220,
+      "x": 948,
+      "y": -340
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef7d9a2e20c0b990",
+      "styleAttributes": {
+      },
+      "text": "# Bartholomew Lepidiel",
+      "type": "text",
+      "width": 300,
+      "x": 1418,
+      "y": -340
     }
   ]
 }
