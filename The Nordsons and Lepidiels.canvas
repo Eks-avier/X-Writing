@@ -5,6 +5,7 @@
       "fromSide": "bottom",
       "id": "2f95a218e9a5736c",
       "styleAttributes": {
+        "arrow": null,
         "pathfindingMethod": "square"
       },
       "toNode": "944a3cce97e156d0",
@@ -21,28 +22,76 @@
       "toSide": "top"
     },
     {
+      "fromNode": "1d4eebacffaa715d",
+      "fromSide": "bottom",
+      "id": "baa2ad3de6aeaaec",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "708a55fe5030eeb7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fa65586650f47ae2",
+      "fromSide": "bottom",
+      "id": "447bd41b28cc31d2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "a3e496e9b929346f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "62d23b3c559be1da",
+      "fromSide": "bottom",
+      "id": "3650ec7fa75c9300",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "708a55fe5030eeb7",
+      "toSide": "top"
+    },
+    {
       "fromNode": "708a55fe5030eeb7",
       "fromSide": "right",
-      "id": "1ea157073c6193bf",
+      "id": "58e21f8b80e12e74",
       "styleAttributes": {
       },
       "toEnd": "none",
       "toNode": "ef7d9a2e20c0b990",
       "toSide": "left"
+    },
+    {
+      "fromNode": "1d4eebacffaa715d",
+      "fromSide": "bottom",
+      "id": "9c311a016199b42e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "ef7d9a2e20c0b990",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "62d23b3c559be1da",
+      "fromSide": "bottom",
+      "id": "05d32e9ea86b2f9f",
+      "styleAttributes": {
+      },
+      "toNode": "ef7d9a2e20c0b990",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "62d23b3c559be1da",
+      "fromSide": "bottom",
+      "id": "100d7f9fa9e89b35",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "ef7d9a2e20c0b990",
+      "toSide": "top"
     }
   ],
   "nodes": [
-    {
-      "height": 60,
-      "id": "0164b96d7c9d093a",
-      "styleAttributes": {
-      },
-      "text": "# Godric's Mother",
-      "type": "text",
-      "width": 240,
-      "x": 280,
-      "y": -480
-    },
     {
       "height": 60,
       "id": "fa65586650f47ae2",
@@ -54,7 +103,18 @@
       "text": "# Darius Nordson",
       "type": "text",
       "width": 225,
-      "x": -20,
+      "x": -105,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "0164b96d7c9d093a",
+      "styleAttributes": {
+      },
+      "text": "# Godric's Mother",
+      "type": "text",
+      "width": 240,
+      "x": 360,
       "y": -480
     },
     {
@@ -70,14 +130,47 @@
     },
     {
       "height": 60,
+      "id": "a3e496e9b929346f",
+      "styleAttributes": {
+      },
+      "text": "# Erika Rose Nordson",
+      "type": "text",
+      "width": 280,
+      "x": -385,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "1d4eebacffaa715d",
+      "styleAttributes": {
+      },
+      "text": "# Father",
+      "type": "text",
+      "width": 140,
+      "x": 870,
+      "y": -530
+    },
+    {
+      "height": 60,
+      "id": "62d23b3c559be1da",
+      "styleAttributes": {
+      },
+      "text": "# Mother",
+      "type": "text",
+      "width": 140,
+      "x": 1250,
+      "y": -530
+    },
+    {
+      "height": 60,
       "id": "708a55fe5030eeb7",
       "styleAttributes": {
       },
       "text": "# Maria Lepidiel",
       "type": "text",
       "width": 220,
-      "x": 600,
-      "y": -280
+      "x": 900,
+      "y": -310
     },
     {
       "height": 60,
@@ -87,8 +180,8 @@
       "text": "# Bartholomew Lepidiel",
       "type": "text",
       "width": 300,
-      "x": 920,
-      "y": -280
+      "x": 1170,
+      "y": -310
     }
   ]
 }
