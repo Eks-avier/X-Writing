@@ -164,16 +164,6 @@
             }
           },
           {
-            "id": "ec4991155e69836e",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "c02cf2f4691ce91e",
             "type": "leaf",
             "state": {
@@ -181,6 +171,16 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "04f96f65cfe83313",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
