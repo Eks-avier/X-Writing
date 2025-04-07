@@ -32,9 +32,26 @@
               "icon": "lucide-file",
               "title": "The Scales of 'Titanus mosura'"
             }
+          },
+          {
+            "id": "a34e524b0f0695ca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "The Nordsons and Lepidiels.canvas",
+                "viewState": {
+                  "x": 921.5705664320815,
+                  "y": -166.7356835249814,
+                  "zoom": -0.48290972905669627
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Nordsons and Lepidiels"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,10 +270,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b41f62114862f624",
+  "active": "a34e524b0f0695ca",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
@@ -280,7 +298,6 @@
     "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Integral Character Themes.md",
-    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
@@ -295,7 +312,6 @@
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
-    "Untitled.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",

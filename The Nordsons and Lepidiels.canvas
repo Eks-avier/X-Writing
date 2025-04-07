@@ -1,0 +1,94 @@
+{
+  "edges": [
+    {
+      "fromNode": "0164b96d7c9d093a",
+      "fromSide": "bottom",
+      "id": "2f95a218e9a5736c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "944a3cce97e156d0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fa65586650f47ae2",
+      "fromSide": "bottom",
+      "id": "6327058f09d81d02",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "944a3cce97e156d0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "708a55fe5030eeb7",
+      "fromSide": "right",
+      "id": "1ea157073c6193bf",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "ef7d9a2e20c0b990",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "0164b96d7c9d093a",
+      "styleAttributes": {
+      },
+      "text": "# Godric's Mother",
+      "type": "text",
+      "width": 240,
+      "x": 280,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "fa65586650f47ae2",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": null
+      },
+      "text": "# Darius Nordson",
+      "type": "text",
+      "width": 225,
+      "x": -20,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "944a3cce97e156d0",
+      "styleAttributes": {
+      },
+      "text": "# Godric Nordson",
+      "type": "text",
+      "width": 240,
+      "x": 120,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "708a55fe5030eeb7",
+      "styleAttributes": {
+      },
+      "text": "# Maria Lepidiel",
+      "type": "text",
+      "width": 220,
+      "x": 600,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "ef7d9a2e20c0b990",
+      "styleAttributes": {
+      },
+      "text": "# Bartholomew Lepidiel",
+      "type": "text",
+      "width": 300,
+      "x": 920,
+      "y": -280
+    }
+  ]
+}
