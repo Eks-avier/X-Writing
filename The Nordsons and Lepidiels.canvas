@@ -22,16 +22,6 @@
       "toSide": "top"
     },
     {
-      "fromNode": "fa65586650f47ae2",
-      "fromSide": "bottom",
-      "id": "447bd41b28cc31d2",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "a3e496e9b929346f",
-      "toSide": "top"
-    },
-    {
       "fromNode": "1d4eebacffaa715d",
       "fromSide": "bottom",
       "id": "bc4166c8741a23a3",
@@ -65,17 +55,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "a3e496e9b929346f",
-      "fromSide": "right",
-      "id": "a3c1a0f84cdb9407",
-      "label": "H",
-      "styleAttributes": {
-      },
-      "toEnd": "none",
-      "toNode": "944a3cce97e156d0",
-      "toSide": "left"
-    },
-    {
       "fromEnd": "arrow",
       "fromNode": "944a3cce97e156d0",
       "fromSide": "right",
@@ -87,75 +66,6 @@
     }
   ],
   "nodes": [
-    {
-      "height": 60,
-      "id": "a3e496e9b929346f",
-      "styleAttributes": {
-      },
-      "text": "# Erika Rose Nordson",
-      "type": "text",
-      "width": 280,
-      "x": -300,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "944a3cce97e156d0",
-      "styleAttributes": {
-      },
-      "text": "# Godric Nordson",
-      "type": "text",
-      "width": 240,
-      "x": 120,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "fa65586650f47ae2",
-      "styleAttributes": {
-        "border": null,
-        "shape": null,
-        "textAlign": null
-      },
-      "text": "# Darius Nordson",
-      "type": "text",
-      "width": 225,
-      "x": -60,
-      "y": -640
-    },
-    {
-      "height": 60,
-      "id": "0164b96d7c9d093a",
-      "styleAttributes": {
-      },
-      "text": "# Mrs. Nordson",
-      "type": "text",
-      "width": 220,
-      "x": 320,
-      "y": -640
-    },
-    {
-      "height": 60,
-      "id": "62d23b3c559be1da",
-      "styleAttributes": {
-      },
-      "text": "# Mrs. Lepidiel",
-      "type": "text",
-      "width": 200,
-      "x": 1110,
-      "y": -640
-    },
-    {
-      "height": 60,
-      "id": "1d4eebacffaa715d",
-      "styleAttributes": {
-      },
-      "text": "# Mr. Lepidiel",
-      "type": "text",
-      "width": 190,
-      "x": 700,
-      "y": -640
-    },
     {
       "height": 60,
       "id": "708a55fe5030eeb7",
@@ -186,8 +96,99 @@
       "text": "# Simon Nordson",
       "type": "text",
       "width": 240,
-      "x": -720,
+      "x": -700,
       "y": -340
+    },
+    {
+      "height": 60,
+      "id": "a3e496e9b929346f",
+      "styleAttributes": {
+      },
+      "text": "# Erika Rose Nordson",
+      "type": "text",
+      "width": 280,
+      "x": -340,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "944a3cce97e156d0",
+      "styleAttributes": {
+      },
+      "text": "# Godric Nordson",
+      "type": "text",
+      "width": 240,
+      "x": 100,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "e586e218c0a44020",
+      "styleAttributes": {
+      },
+      "text": "# Millie Nordson",
+      "type": "text",
+      "width": 260,
+      "x": -340,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "2ea74d4577ceabf2",
+      "styleAttributes": {
+      },
+      "text": "# Megara Nordson",
+      "type": "text",
+      "width": 240,
+      "x": -720,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "fa65586650f47ae2",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": null
+      },
+      "text": "# Darius Nordson",
+      "type": "text",
+      "width": 225,
+      "x": -12,
+      "y": -640
+    },
+    {
+      "height": 60,
+      "id": "0164b96d7c9d093a",
+      "styleAttributes": {
+      },
+      "text": "# Mrs. Nordson",
+      "type": "text",
+      "width": 220,
+      "x": 220,
+      "y": -640
+    },
+    {
+      "height": 60,
+      "id": "1d4eebacffaa715d",
+      "styleAttributes": {
+      },
+      "text": "# Mr. Lepidiel",
+      "type": "text",
+      "width": 190,
+      "x": 795,
+      "y": -640
+    },
+    {
+      "height": 60,
+      "id": "62d23b3c559be1da",
+      "styleAttributes": {
+      },
+      "text": "# Mrs. Lepidiel",
+      "type": "text",
+      "width": 200,
+      "x": 1010,
+      "y": -640
     }
   ]
 }
