@@ -53,48 +53,30 @@ The [[Antitheriomorphosis]] that transformed the Titans into human form has crea
 
 #### Basic Traits
 
-Maria's human form embodies divine beauty translated into mortal terms—ethereal yet tangible, otherworldly yet approachable. She maintains a completely human appearance at all times, though with subtle indications of her divine nature visible primarily through her bioluminescent responses to emotional states.
+Maintains a completely human appearance at all times, though with subtle indications of her divine nature visible primarily through her bioluminescent responses to emotional states.
 
-| Attribute       | Description                                                                          |
-| --------------- | ------------------------------------------------------------------------------------ |
-| **Height**      | 5'8" (173 cm) - Tall enough to command presence without intimidation                 |
-| **Weight**      | ~65 kg                                                                               |
-| **Build**       | Deceptively strong yet graceful; lean musculature concealed beneath flowing garments |
-| **Hair**        | Platinum-blonde with subtle golden and silver undertones; impossibly soft and lightweight; moves as if in gentle breeze even in still air; falls to mid-back when loose |
-| **Eyes**        | Luminous azure blue with subtle opalescent quality; large and almond-shaped, slightly upturned at the corners |
-| **Complexion**  | Fair with warm undertones and subtle luminosity; flawless and silken, with fine almost-invisible golden dust that catches light |
-| **Features**    | High cheekbones with delicate, symmetrical features; straight, proportionate nose; naturally pink and full lips |
-| **Posture**     | Perfectly balanced, almost floating; seems to glide rather than walk                 |
-
-#### Divine Indicators & Presence
-
-- **Movement**: Fluid and graceful, appearing to flow rather than step; nearly silent
-- **Balance**: Perfect in all situations; never stumbles or makes awkward movements
-- **Spatial Awareness**: Unconsciously maintains harmonious positioning in any environment
-- **Energy Field**: Creates subtle calm in immediate surroundings; plants seem to turn toward her
-- **Gravitational Anomaly**: Occasionally hovers fractions of an inch above ground when distracted
-- **Voice**: Melodic soprano with harmonic undertones that seem to contain multiple notes simultaneously
-- **Scent**: Subtle floral notes reminiscent of spring blossoms after rain; eases respiratory stress in those nearby
-- **Light Interaction**: Seems to naturally gather and soften ambient light around herself
+| Attribute      | Description                                                     |
+| -------------- | --------------------------------------------------------------- |
+| **Height**     | 5'8" (173 cm)                                                   |
+| **Weight**     | ~65 kg                                                          |
+| **Build**      | Surprisingly muscular but lean, hidden beneath modest clothing  |
+| **Hair**       | Platinum-blonde, long and voluminous, reflecting her Titan form |
+| **Eyes**       | Bright blue, glowing softly with divine energy                  |
+| **Complexion** | Fair, with subtle bioluminescent shifts based on emotions       |
+| **Features**   | Graceful features with an ethereal quality that draws attention |
+| **Posture**    | Poised and elegant, carrying herself with natural authority     |
 
 #### Bioluminescent Emotional Indicators
 
 Mothra's face and clothing subtly illuminate with different colors reflecting her emotional state:
 
 - **Reddish-yellow**: Anger or protective instinct activated
-- **Pink**: Flustered, embarrassed, or experiencing attraction (particularly around Godric)
+- **Pink**: Flustered, embarrassed, or experiencing attraction
 - **Blue**: Peace, contentment, or deep focus
 - **White-gold**: Divine authority being exercised
 - **Green**: Healing energy being channeled
 
 These bioluminescent shifts are subtle enough to be mistaken for lighting changes by casual observers but unmistakable to those who know her well.
-
-#### Unconscious Habits
-
-- **Height Seeking**: Gravitates toward elevated positions in any space
-- **Light Attraction**: Unconsciously positions herself in brightest areas
-- **Head Tilt**: Slight angling of head when listening intently, reminiscent of antenna positioning
-- **Hovering**: Rises fractionally off ground when deeply focused or emotional
 
 #### Power Manifestation
 
@@ -103,7 +85,14 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 - Golden dust-like scales appear around her when defensive abilities activate
 - Light emanates from her hands during healing
 - Her entire body may glow when channeling significant divine energy
-- Her eyes intensify in brightness when using telepathy or occasionally shift to golden starburst pattern during moments of divine authority
+- Her eyes intensify in brightness when using telepathy
+
+#### Distinctive Characteristics
+
+- **Movement**: Graceful and deliberate, as if partially floating
+- **Presence**: Radiates calm authority, drawing people to her naturally
+- **Voice**: Melodic and soothing, with subtle harmonic undertones
+- **Impact**: Leaves faint traces of golden dust when emotional
 
 ### Titan Form
 
@@ -116,26 +105,16 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 
 #### Daily Attire
 
-- **Silhouette**: Flowing, layered garments that move with ethereal grace
-- **Materials**: Exclusively wears clothing made from her own silk—weightless yet indestructible
-- **Color Palette**: Whites, soft golds, gentle blues, and pastels predominate
-- **Style**: Flowing dresses and comfortable yet elegant attire with subtle wing-like patterns
-- **Luminosity**: Fabric captures and holds light, appearing to glow softly in darkness
-- **Accessories**: Minimal, typically limited to simple golden jewelry handcrafted from gems found on Infant Island
+- **Color Palette**: Whites, blues, and golds predominate, with occasional floral patterns
+- **Style**: Flowing dresses and comfortable yet elegant attire
+- **Materials**: Exclusively wears clothing made from her own silk, handwoven by herself
+- **Accessories**: Minimal, typically limited to simple golden jewelry
 
 #### Formal Occasions
 
 - **Gowns**: Elaborate yet tasteful designs woven from her finest silk
-- **Color Palette**: Deep blues, violets, and blacks with gold accents
 - **Details**: Subtle luminescent threads woven into important ceremonial attire
 - **Footwear**: Often barefoot or in simple sandals, maintaining connection to the earth
-- **Ceremonial Items**: Occasionally wears subtly glowing golden circlet for formal functions
-
-#### Cultural Adaptations
-
-- **Japanese Attire**: Elaborate kimonos and layered haori with gold embroidery and subtle bioluminescence
-- **Future Projects**: Cultural attire for China, Korea, Germany, and Russia in various stages of development
-- **Philosophy**: "Clothing is a language. If we respect a nation's heritage, we understand them better."
 
 ## Abilities & Powers
 
@@ -147,26 +126,63 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 - **Divine Mandate**: Authority to enforce supernatural laws as Earth's celestial representative
 - **Light Energy Manipulation**: Perfect control over light energy for healing, attack, or defense
 - **Telepathy**: Communication with Titans and humans alike through psychic means
-- **Telekinesis**: The strongest and most refined telekinetic on Earth, capable of picking apart microscopic elements or lift weights many times greater than her physical limit.
+- **Telekinesis**: The strongest and most refined telekinetic on Earth, capable of picking apart microscopic elements or lifting weights many times greater than her physical limit
 - **Absolute Scale Control**: Generation and manipulation of scales for defense, camouflage, and attack
 - **Immortality via Reincarnation**: Cannot truly die; reincarnates through eggs or returns from Heaven
 
-### Scale Manipulation
+### Scale Abilities
 
-Mothra's scales provide her with unmatched defensive and adaptive capabilities:
+Mothra's scales represent her most versatile and powerful ability set, combining defense, offense, and sensory capabilities:
 
-#### Scale Properties
+#### Reflective Properties
 
-- **Reflective Defense**: Can reflect any force that might harm her—magic, technology, energy, physical attacks
-- **Adaptable Protection**: Scales automatically adjust to counter specific threats
-- **Visibility Control**: Can turn herself invisible or camouflage by manipulating the light around her via her scales
-- **Intangibility**: At current power levels, can become intangible, but only for brief periods
+- **Perfect Reflection**: Scales can reflect ANY force—physical, energy, magical, or psychic—back to its source
+- **Force Amplification**: Reflected forces can compound upon themselves, potentially returning with greater intensity
+- **Passive Protection**: Scales remain in an "active mode" at all times, providing perpetual defense
+- **Adjustable Radius**: Can maintain scales at skin level or expand them to create force-field-like protection zones
+- **Attacker Feedback**: Physical attacks are reflected back, causing pain to the attacker
 
-#### Scale Limitations
+#### Offensive Applications
 
-- **Finite Resource**: Currently has limited scales that regenerate slowly
-- **Concentration Required**: Advanced applications require focused attention
-- **Power Correlation**: Scale effectiveness tied to her current soul fragment count
+- **Bioluminescent Weaponization**: Can weaponize her natural bioluminescence through her scales
+- **Light Beam Generation**: Creates devastating beams of concentrated light by focusing through scales
+- **The Luminous Cage**: Signature attack surrounding enemies with scale clusters that fire converging light beams
+- **Scale Blades**: Transforms scales into razor-sharp cutting implements for overwhelming attacks
+- **Autonomous Scale Drones**: Creates miniature moth-like constructs that function as independent weapons
+
+#### Sensory Extensions
+
+- **Drone Constructs**: Creates luminescent moth-like drones that serve as sensory extensions
+- **Omnisensory Perception**: Each scale can function as eyes, ears, nose, tongue, or skin
+- **Global Awareness**: A single scale placed anywhere provides awareness of its surroundings
+- **Telepathic Feedback**: All sensory information instantly reflected back to her consciousness
+- **Multiple Feed Processing**: Can monitor hundreds of sensory inputs simultaneously without confusion
+
+#### Advanced Scale Applications
+
+- **Teleportation**: At 5/7 soul fragments, can teleport to any scale anywhere on Earth
+- **Intangibility**: At 4/7 soul fragments, can become intangible for limited durations (unlimited at 6/7)
+- **Illusion Generation**: Creates perfect illusions through precise light reflection
+- **Invisibility**: Perfect control of light reflection makes her completely invisible at will
+- **Stealth Suite**: Combines invisibility, intangibility, telepathy, and telekinesis for unmatched covert capabilities
+
+### Scale Manifestation
+
+The scales themselves have distinct manifestation patterns:
+
+- **Natural State**: Invisible scales adhere to her skin, providing constant protection
+- **Active Deployment**: Become visible as golden dust-like particles around her
+- **Construct Form**: Often take the shape of small, luminescent moths with soft, approachable features
+- **Movement Pattern**: These moth constructs move with gentle, fluttering motions that appear naturally calming
+
+### Connection to Divine Soul
+
+Mothra's scales are uniquely powerful due to her inheritance of the Heavenly Instance's soul:
+
+- **Divine Enhancement**: All family members who inherited the divine soul experienced extraordinary scale strengthening
+- **Personal Uniqueness**: The specific property of "reflection" appears to be Mothra's alone
+- **Species Anomaly**: Her perfectly reflecting scales are not the species norm but an enhancement from her divine soul
+- **Fixed Identity**: A Divine Moth's scale properties remain consistent across all incarnations, representing core identity
 
 ### Soul Fragments & Power Regulation
 
@@ -175,8 +191,8 @@ Mothra's power is distributed across seven soul fragments, which she scattered a
 #### Current Fragment Status
 
 - **Four of Seven Recovered**: Grants full access to psychic abilities, elemental immunity, and controlled scale use
-- **Fifth Fragment**: When recovered, will grant unlimited scale regeneration
-- **Sixth Fragment**: Currently unknown enhancement
+- **Fifth Fragment**: When recovered, will grant unlimited scale regeneration and teleportation ability
+- **Sixth Fragment**: When recovered, will grant unlimited intangibility
 - **Seventh Fragment**: Currently unknown enhancement
 
 #### Reincarnation Dynamics
@@ -187,6 +203,17 @@ Mothra's power is distributed across seven soul fragments, which she scattered a
   - Become an entirely new Divine Moth
   - Return to her old body
 - **Unique Trait**: Unlike other *Titanus mosura*, she cannot truly die—her divine soul ensures continuation
+
+### The Divine Soul Inheritance
+
+The most closely guarded secret of Divine Moth reproduction involves the divine soul:
+
+- **Singular Nature**: Only one being can possess the divine soul at any time
+- **Predetermined Selection**: The recipient is determined at birth, beyond anyone's control
+- **Reproductive Sacrifice**: The parent holding the divine soul must transfer it to an offspring during reproduction
+- **Fatal Weakening**: This transference so depletes the parent that death inevitably follows
+- **Cosmic Balance**: The previous holder is believed to ascend to Heaven after this sacrifice
+- **Twin Origin**: Their father, as the previous holder, likely died after their conception
 
 ### Telepathic & Healing Abilities
 
@@ -258,13 +285,29 @@ This unprecedented proximity has awakened confusing new emotions in Mothra. What
 
 While their professional dynamic remains unchanged, the subtle shift in their personal relationship has been noticed by Battra, [[Rodan, the Lord of the Skies|Rodan]], [[Anguirus, the Stalwart Vanguard|Anguirus]], and even [[Kong, King of the Hollow Earth|Kong]].
 
-### [[Battra, the Lord of the Mystic Arts|Battra]] (Twin Brother, Exiled Rival)
+### [[Battra, the Lord of the Mystic Arts|Battra]] (Twin Brother, Complex Relationship)
 
-Mothra's relationship with her twin represents her most profound emotional conflict. Once inseparable, their bond shattered when Mothra, acting under divine command, erased a rogue human sorcerer tribe that had violated the sanctity of souls. Unable to reconcile her love for humanity with their capacity for such evil, she projected all blame onto Battra, leading to his exile from Earth.
+Mothra's relationship with her twin represents perhaps the most profound tragedy in their long existence. Their conflict isn't merely about ideology or power but stems from a cosmic inheritance neither could control. As the inheritor of the Heavenly Instance's soul—predetermined at birth and impossible to share or transfer—Mothra received a divine blessing she never chose.
 
-Though she presents their estrangement as purely about justice, it stems from her inability to accept the shadow aspects of existence. By exiling Battra—who represents shadow to her light—she attempted to deny the necessary duality of the universe. Their reconciliation requires her to acknowledge both humanity's capacity for darkness and her own responsibility in their separation.
+The truth neither fully comprehends is that their father, as the previous holder of the divine soul, likely sacrificed his immortality during their conception to pass this inheritance to Mothra. This transference, which inevitably leads to the parent's death, represents the price of continuing the divine lineage—a sacrifice that gave Mothra her divine soul while simultaneously giving Battra his existence.
 
-Despite the rift between them, Mothra has never stopped loving Battra as the only family she has ever known. Their relationship remains complex—filled with resentment, love, and unspoken regrets.
+Despite intellectually understanding she never chose her inheritance, Battra remains unable to overcome his emotional response:
+
+> "I **never** chose this!" She exclaimed. The younger visage of her older brother shimmering despite the cloak of the night...
+> 
+> "How many millions of years will it take for you to understan—"
+> 
+> "I do. I have always understood..."
+> 
+> "... But I can't help myself..."
+> 
+> "Is it just a habit at this point? I don't know anymore... But I can't stop the envy perpetually boiling in my heart."
+
+Their conflict has been intensified by their status as the last of their kind. Such sibling rivalry was historically rare among Divine Moths, but without parents or other siblings to provide perspective, their differences became magnified beyond reconciliation.
+
+The reflection/refraction dichotomy of their scales perfectly symbolizes their relationship—Mothra reflects back blame that isn't hers, while Battra's perception is perpetually bent through the prism of his envy. Despite this conflict, they remain connected by shared history and biology, including their habit of creating moth-like constructs from their scales—a practice dating back to their earliest lives.
+
+The Antitheriomorphosis, by placing them in human form with more immediate emotional experiences, may offer their first real opportunity to evolve beyond patterns established hundreds of millions of years ago.
 
 ### Humanity (Beloved But Misunderstood)
 
@@ -286,13 +329,13 @@ For countless millennia, Mothra has served as Earth's divine guardian, balancing
 
 Her most significant historical act was the execution of divine judgment during the [[Atlantean Golden Age Incident]], when she erased a rogue Atlantean sorcerer tribe from existence after they violated the sanctity of souls. This action, while necessary from Heaven's perspective, led to Battra's banishment and created the deep schism between the twins that persists to this day.
 
-Following the [[Writing/Antitheriomorphosis/Antitheriomorphosis]] that transformed Titans into human form, Mothra has engaged more directly with human society than ever before. Though she continues her guardian duties, her current focus lies in recovering her scattered soul fragments and adapting to the complex emotional landscape of her new existence.
+Following the [[Antitheriomorphosis]] that transformed Titans into human form, Mothra has engaged more directly with human society than ever before. Though she continues her guardian duties, her current focus lies in recovering her scattered soul fragments and adapting to the complex emotional landscape of her new existence.
 
 > [!note] Major Events
 > - **[[Atlantean Golden Age Incident]]** - Execution of divine judgment against soul-manipulating sorcerers
 > - **[[Divine Mandate Against Sorcery]]** - Severed humanity's connection to [[Primus]] following the incident
 > - **[[Xillien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders
-> - **[[Writing/Antitheriomorphosis/Antitheriomorphosis]]** - Transformation into human form, creating unprecedented proximity with other Titans
+> - **[[Antitheriomorphosis]]** - Transformation into human form, creating unprecedented proximity with other Titans
 
 ## Personal Interests
 
@@ -333,7 +376,5 @@ These three paths lead toward the same destination—Mothra evolving beyond her 
 > - Despite creating clothing with her silk for herself and Godzilla, she rarely uses her silk production abilities otherwise, fearing it might disgust humans
 > - She maintains Infant Island in a timeless state, preserving the home of her first human friends
 > - Her bioluminescent responses to emotions are involuntary, making her feelings more transparent than she realizes
-> - Her natural scent has a subtle calming effect on those around her, easing respiratory stress and anxiety
-> - She has perfect recall of every human language ever spoken, though rarely demonstrates this ability
-> - Small objects sometimes drift toward her during moments of intense concentration, creating subtle gravitational anomalies
-> - Children are particularly drawn to her, often sensing her divine nature without understanding why
+> - She occasionally tastes her own scales to access their sensory information, but finds this habit embarrassing and only does it in private
+> - Despite perfect recall of historical events, she struggles to keep track of streaming service passwords
