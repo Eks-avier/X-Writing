@@ -5223,6 +5223,31 @@
         "characterCount": 11,
         "nonWhitespaceCharacterCount": 10
       }
+    },
+    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1231,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.1033333333333335,
+      "characterCount": 10315,
+      "nonWhitespaceCharacterCount": 8915,
+      "readingTimeInMinutes": 4.645283018867924,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744059555465,
+      "modifiedDate": 1744059724751,
+      "sizeInBytes": 10335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
