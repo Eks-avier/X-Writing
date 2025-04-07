@@ -216,7 +216,7 @@
 
 “Understanding prey is different from being prey. The knowledge serves different purposes for different species.”
 
-“I will live forever, Dr. Martinez. It might as well be me here instead of Mother.”
+“I will live forever, Dr. Russell. It might as well be me here instead of Mother.”
 
 “I am not what anyone expected. That is precisely why I am still here.”
 
