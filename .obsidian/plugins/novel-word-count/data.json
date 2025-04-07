@@ -5274,23 +5274,55 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Story Arcs/Untitled.md": {
+    "Writing/Antitheriomorphosis/Story Arcs/ BIOLLANTE BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1690,
+      "wordCount": 2516,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.633333333333334,
-      "characterCount": 14533,
-      "nonWhitespaceCharacterCount": 12540,
-      "readingTimeInMinutes": 6.377358490566038,
+      "pageCount": 8.386666666666667,
+      "characterCount": 22272,
+      "nonWhitespaceCharacterCount": 19178,
+      "readingTimeInMinutes": 9.49433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "BIOLLANTE: BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN"
+      ],
+      "createdDate": 1744063849919,
+      "modifiedDate": 1744064508943,
+      "sizeInBytes": 22407,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "BIOLLANTE: BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN"
+        ]
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1395,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.65,
+      "characterCount": 12197,
+      "nonWhitespaceCharacterCount": 10547,
+      "readingTimeInMinutes": 5.264150943396227,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1744063849919,
-      "modifiedDate": 1744063974371,
-      "sizeInBytes": 14561,
+      "createdDate": 1744064543001,
+      "modifiedDate": 1744064615936,
+      "sizeInBytes": 12219,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
