@@ -34,6 +34,23 @@
             }
           },
           {
+            "id": "95b7ab396712c843",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "The Nordsons and Lepidiels.canvas",
+                "viewState": {
+                  "x": -95.45718106912136,
+                  "y": -351.49168788996485,
+                  "zoom": 0.11221162066780122
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Nordsons and Lepidiels"
+            }
+          },
+          {
             "id": "a34e524b0f0695ca",
             "type": "leaf",
             "state": {
@@ -267,14 +284,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a34e524b0f0695ca",
+  "active": "95b7ab396712c843",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
+    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Story Arcs/ BIOLLANTE BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
     "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",

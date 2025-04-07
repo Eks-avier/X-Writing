@@ -76,6 +76,8 @@
 - **Root Communication:** Can “speak” through mycorrhizal networks connecting plant roots
 - **Floral Creation:** Ability to generate unique flower varieties not found in nature
 
+%% Insert the same Domination of Energy and Limitless Adaptation inherent to any Titanus gojra %%
+
 ### Northern Gojira Traits
 
 - **Cellular Resilience:** Enhanced healing capabilities derived from Northern genetics
@@ -88,7 +90,7 @@
 
 - **Photosynthetic Capability:** Can supplement energy needs through sunlight
 - **Dual Perception:** Plant-based environmental awareness combined with human senses
-- **ESP Enhancement:** Unique psychic abilities augmented by plant neural structure
+- **Psionic Enhancement:** Unique psychic abilities augmented by plant neural structure
 - **Toxin Immunity:** Complete resistance to most plant-based toxins
 - **Environmental Adaptation:** Superior ability to adjust to varying conditions
 
@@ -143,7 +145,7 @@
 ### ESP Division
 
 - **Miki Saegusa:** Primary mentor and first psychic contact; special bond as first to “hear” her consciousness
-- **ESP Students:** Found support network among others who understand transformation trauma
+- **Psionic Students:** Found support network among others who understand transformation trauma
 - **Collaborative Training:** Developing unique psychic techniques leveraging plant neural structure
 
 ### Monarch Relationships
@@ -167,7 +169,7 @@
 - Formally adopting Nordson name through Northern ceremony
 - Developing control over hybrid abilities
 - Establishing role within Monarch scientific community
-- Building bonds with ESP Division through training
+- Building bonds with Psionic Division through training
 - Finding personal balance between three aspects of identity
 
 ### Growth & Purpose
@@ -192,7 +194,7 @@
 
 - Increasing range and precision of plant manipulation
 - Greater integration of Northern energy control
-- Enhanced ESP capabilities through plant-mind connection
+- Enhanced Psionic capabilities through plant-mind connection
 - Potential development of unique hybrid capabilities
 - Botanical ecosystem restoration applications
 
@@ -248,7 +250,7 @@
 
 ## Trivia
 
-- The name “Biollante” derives from Norse mythology, connecting to the Northern Gojira heritage
+- The name “Biollante” derives from Norse mythology, making a parallel to the Northern Gojira heritage
 - Can survive without food for extended periods through photosynthesis alone
 - Creates specialized flowers with properties not found in nature
 - Castle Bravo rooftop garden is entirely her creation and responds to her emotions
@@ -256,5 +258,3 @@
 - First successfully created hybrid entity to undergo Antitheriomorphosis
 - Possesses triple-helix DNA structure not found in any other known being
 - Can communicate with plants worldwide through mycorrhizal networks
-</parameter>
-</invoke>
