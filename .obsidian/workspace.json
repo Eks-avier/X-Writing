@@ -25,16 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Amplification"
+              "title": "Godzilla - Sensory Capabilities"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atomic Amplification"
+              "title": "Outline"
             }
           },
           {
@@ -224,11 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Atomic Amplification"
+              "title": "File properties"
             }
           }
         ],
@@ -253,15 +249,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3142af22c32397d5",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+    "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
-    "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
@@ -281,7 +278,6 @@
     "Writing/Antitheriomorphosis/Story Arcs/Edelweiss .md",
     "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
-    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
