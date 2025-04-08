@@ -94,18 +94,6 @@
       "y": -632
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "ef7d9a2e20c0b990",
-      "styleAttributes": {
-      },
-      "text": "# Bartholomew Lepidiel",
-      "type": "text",
-      "width": 300,
-      "x": 1418,
-      "y": -340
-    },
-    {
       "color": "#ffd700",
       "height": 60,
       "id": "944a3cce97e156d0",
@@ -228,6 +216,18 @@
       "width": 280,
       "x": -254,
       "y": -372
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef7d9a2e20c0b990",
+      "styleAttributes": {
+      },
+      "text": "# Bartholomew Lepidiel",
+      "type": "text",
+      "width": 300,
+      "x": 1418,
+      "y": -340
     }
   ]
 }

@@ -1257,31 +1257,6 @@
         "nonWhitespaceCharacterCount": 8297
       }
     },
-    "Writing/Antitheriomorphosis/The Weakening of the Divine Mandate.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 65,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 477,
-      "nonWhitespaceCharacterCount": 406,
-      "readingTimeInMinutes": 0.24528301886792453,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055017,
-      "modifiedDate": 1743971053922,
-      "sizeInBytes": 481,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21666666666666667,
-        "wordCount": 65,
-        "characterCount": 477,
-        "nonWhitespaceCharacterCount": 406
-      }
-    },
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4839,7 +4814,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744059949160,
-      "modifiedDate": 1744132672694,
+      "modifiedDate": 1744133424358,
       "sizeInBytes": 4844,
       "sessionStart": {
         "noteCount": 1,
@@ -5341,6 +5316,31 @@
       "createdDate": 1744132293751,
       "modifiedDate": 1744132355802,
       "sizeInBytes": 4856,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 477,
+      "nonWhitespaceCharacterCount": 406,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055017,
+      "modifiedDate": 1743971053922,
+      "sizeInBytes": 481,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

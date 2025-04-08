@@ -37,17 +37,14 @@
             "id": "95b7ab396712c843",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "The Nordsons and Lepidiels.canvas",
-                "viewState": {
-                  "x": 500.8169076472735,
-                  "y": -476.4356143540165,
-                  "zoom": -0.5544550063260124
-                }
+                "file": "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Nordsons and Lepidiels"
+              "icon": "lucide-file",
+              "title": "Voices of the Titans - Nordsons"
             }
           },
           {
@@ -211,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Nordsons and Lepidiels.canvas",
+                "file": "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Nordsons and Lepidiels"
+              "title": "Outline of Voices of the Titans - Nordsons"
             }
           },
           {
@@ -284,6 +281,8 @@
   },
   "active": "95b7ab396712c843",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
+    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
     "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
@@ -291,7 +290,6 @@
     "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
     "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
-    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
@@ -310,7 +308,6 @@
     "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/The Winter Cycle.md",
     "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md",
     "Writing/Antitheriomorphosis/Magic System/Commitment Access.md",
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
