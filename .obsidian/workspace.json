@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "7b62d880c314e507",
+            "id": "ff20a0e6766a4be2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domination of Energy"
+              "title": "Outline of The Scales of 'Titanus mosura'"
             }
           },
           {
@@ -268,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
