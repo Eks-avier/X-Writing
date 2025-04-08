@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -284,8 +285,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "95b7ab396712c843",
+  "active": "b41f62114862f624",
   "lastOpenFiles": [
+    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
@@ -293,7 +295,6 @@
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
-    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
@@ -312,7 +313,6 @@
     "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
     "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
     "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
