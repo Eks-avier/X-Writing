@@ -392,57 +392,6 @@
         "nonWhitespaceCharacterCount": 1898
       }
     },
-    "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1894,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.3133333333333335,
-      "characterCount": 14512,
-      "nonWhitespaceCharacterCount": 12295,
-      "readingTimeInMinutes": 7.1471698113207545,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "The King",
-        "King of the Monsters",
-        "Alpha Paramount",
-        "Godric Nordson"
-      ],
-      "createdDate": 1743271055042,
-      "modifiedDate": 1743959940431,
-      "sizeInBytes": 14811,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.3133333333333335,
-        "wordCount": 1894,
-        "characterCount": 14512,
-        "nonWhitespaceCharacterCount": 12295
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla",
-          "The King",
-          "King of the Monsters",
-          "Alpha Paramount",
-          "Godric Nordson"
-        ],
-        "tags": [
-          "atm/titan/character/titan/godzilla",
-          "atm/titan/character/role/alpha",
-          "atm/titan/northern_gojira",
-          {
-            "status/active created": "2025-03-23"
-          },
-          {
-            "modified": "2025-03-23"
-          }
-        ]
-      }
-    },
     "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -466,31 +415,6 @@
         "wordCount": 3212,
         "characterCount": 21522,
         "nonWhitespaceCharacterCount": 18014
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3036,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.12,
-      "characterCount": 18602,
-      "nonWhitespaceCharacterCount": 15428,
-      "readingTimeInMinutes": 11.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743766406324,
-      "modifiedDate": 1743846388170,
-      "sizeInBytes": 19374,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.12,
-        "wordCount": 3036,
-        "characterCount": 18602,
-        "nonWhitespaceCharacterCount": 15428
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md": {
@@ -5208,6 +5132,31 @@
       "createdDate": 1743586100172,
       "modifiedDate": 1743965836072,
       "sizeInBytes": 33228,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Atomic Amplification.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 147,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744136957003,
+      "modifiedDate": 1744137055887,
+      "sizeInBytes": 173,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
