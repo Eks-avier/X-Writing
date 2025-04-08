@@ -39,14 +39,12 @@
             "id": "07db8c6ed1789a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
-                "mode": "source",
-                "source": false
+                "path": "Writing"
               },
               "icon": "lucide-file",
-              "title": "Physical Appearance"
+              "title": "Writing"
             }
           }
         ],
@@ -139,7 +137,7 @@
         }
       },
       {
-        "id": "82fdcdcc74ddf2a7",
+        "id": "37243af5bbe99679",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -208,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
@@ -219,8 +218,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07db8c6ed1789a39",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone WIP.md",
@@ -235,7 +236,6 @@
     "Tags/#atm+titan+northern-faction",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+titan-culture",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
     "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
@@ -254,7 +254,6 @@
     "Writing/Antitheriomorphosis/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/Basic Identity.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/3 - Legacy and Impact.md",
     "Tags/#atm+titan",
     "Tags/#atm+titan+northern_gojira+godzilla",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",

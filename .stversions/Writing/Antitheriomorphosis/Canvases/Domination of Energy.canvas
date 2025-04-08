@@ -1,0 +1,402 @@
+{
+  "edges": [
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "right",
+      "id": "1a78b3f8e13e5797",
+      "toNode": "26c4080cfd9a8d39",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c7423167f86da180",
+      "fromSide": "bottom",
+      "id": "29c23c3b98836903",
+      "toNode": "f7e601abadc659ce",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7423167f86da180",
+      "fromSide": "bottom",
+      "id": "6c58292ed8491d81",
+      "toNode": "d1638a185da0af89",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d1638a185da0af89",
+      "fromSide": "bottom",
+      "id": "1de377cc728b77a4",
+      "toNode": "15fc477595b18667",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f7e601abadc659ce",
+      "fromSide": "bottom",
+      "id": "bfff872eab3c7e4b",
+      "toNode": "82881d1172c305d8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "bottom",
+      "id": "b7b6e5e48c7e3338",
+      "toNode": "c7423167f86da180",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "bottom",
+      "id": "8a741fb87198413f",
+      "toNode": "06742d418f47bd70",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "bottom",
+      "id": "1e226822ff8cee7d",
+      "toNode": "7d88b77f835f5c05",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "bottom",
+      "id": "112a767a2e1dd374",
+      "toNode": "dd0929d8a92fc81c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd6f79d0c059d1cf",
+      "fromSide": "bottom",
+      "id": "6ca9720aadf6373b",
+      "toNode": "6193907361043c0c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d1638a185da0af89",
+      "fromSide": "bottom",
+      "id": "d469a27e0d9334f8",
+      "toNode": "f113b73acd950a06",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d1638a185da0af89",
+      "fromSide": "bottom",
+      "id": "425f989933b9ab4c",
+      "toNode": "a631b387fb15f077",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d1638a185da0af89",
+      "fromSide": "bottom",
+      "id": "d76d79efe7577b29",
+      "toNode": "16271fbfcb6bf7c2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "82881d1172c305d8",
+      "fromSide": "bottom",
+      "id": "3161c98ded0e859b",
+      "toNode": "1b88a66702d53ddb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "82881d1172c305d8",
+      "fromSide": "right",
+      "id": "3bfcd349b0e3f66d",
+      "toNode": "f113b73acd950a06",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "82881d1172c305d8",
+      "fromSide": "right",
+      "id": "a8bb8dc18a1c9dd7",
+      "toNode": "15fc477595b18667",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6193907361043c0c",
+      "fromSide": "right",
+      "id": "03bd0499cd6287ed",
+      "toNode": "d8175de54cd52914",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6193907361043c0c",
+      "fromSide": "right",
+      "id": "1c788524a01ed29e",
+      "toNode": "b2e1e1e047388a2e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d8175de54cd52914",
+      "fromSide": "right",
+      "id": "003e245deec59be5",
+      "toNode": "b2e1e1e047388a2e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "dd0929d8a92fc81c",
+      "fromSide": "right",
+      "id": "ff5bb1fca6f1ad5c",
+      "toNode": "b79b6fe59df756cd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b79b6fe59df756cd",
+      "fromSide": "right",
+      "id": "4d554a00963a8202",
+      "toNode": "9073af40da0bd27c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c7423167f86da180",
+      "fromSide": "bottom",
+      "id": "f3854f0cda732f79",
+      "toNode": "b1a8a9bd2dd4e290",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 160,
+      "id": "26c4080cfd9a8d39",
+      "label": "Advanced States",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 307,
+      "x": 920,
+      "y": -680
+    },
+    {
+      "height": 50,
+      "id": "7d88b77f835f5c05",
+      "styleAttributes": {
+      },
+      "text": "# Energy Perception",
+      "type": "text",
+      "width": 314,
+      "x": -529,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "c7423167f86da180",
+      "styleAttributes": {
+      },
+      "text": "# Energy Manipulation",
+      "type": "text",
+      "width": 381,
+      "x": -182,
+      "y": -120
+    },
+    {
+      "height": 50,
+      "id": "6193907361043c0c",
+      "styleAttributes": {
+      },
+      "text": "# Energy Conversion",
+      "type": "text",
+      "width": 338,
+      "x": 180,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "06742d418f47bd70",
+      "styleAttributes": {
+      },
+      "text": "# Energy Absoprtion",
+      "type": "text",
+      "width": 325,
+      "x": -685,
+      "y": -440
+    },
+    {
+      "height": 55,
+      "id": "dd0929d8a92fc81c",
+      "styleAttributes": {
+      },
+      "text": "# Energy Nullification",
+      "type": "text",
+      "width": 331,
+      "x": 514,
+      "y": -445
+    },
+    {
+      "height": 50,
+      "id": "9073af40da0bd27c",
+      "styleAttributes": {
+      },
+      "text": "# Magic Nullification",
+      "type": "text",
+      "width": 320,
+      "x": 1360,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "b79b6fe59df756cd",
+      "styleAttributes": {
+      },
+      "text": "# Magic Disruption",
+      "type": "text",
+      "width": 316,
+      "x": 951,
+      "y": -360
+    },
+    {
+      "height": 60,
+      "id": "a478908b04bf7175",
+      "styleAttributes": {
+      },
+      "text": "# the zone",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -600
+    },
+    {
+      "height": 50,
+      "id": "bd6f79d0c059d1cf",
+      "styleAttributes": {
+      },
+      "text": "# Domination of energy",
+      "type": "text",
+      "width": 385,
+      "x": -182,
+      "y": -630
+    },
+    {
+      "height": 50,
+      "id": "f7e601abadc659ce",
+      "styleAttributes": {
+      },
+      "text": "# Internal Energy Manipulation",
+      "type": "text",
+      "width": 483,
+      "x": -711,
+      "y": 280
+    },
+    {
+      "height": 50,
+      "id": "d1638a185da0af89",
+      "styleAttributes": {
+      },
+      "text": "# External Energy Manipulation",
+      "type": "text",
+      "width": 483,
+      "x": 315,
+      "y": 280
+    },
+    {
+      "height": 50,
+      "id": "15fc477595b18667",
+      "styleAttributes": {
+      },
+      "text": "# Asymmetrical Permeable Shield",
+      "type": "text",
+      "width": 506,
+      "x": -101,
+      "y": 469
+    },
+    {
+      "height": 50,
+      "id": "16271fbfcb6bf7c2",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Breath",
+      "type": "text",
+      "width": 256,
+      "x": 671,
+      "y": 579
+    },
+    {
+      "height": 50,
+      "id": "f113b73acd950a06",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Railgun",
+      "type": "text",
+      "width": 305,
+      "x": 315,
+      "y": 629
+    },
+    {
+      "height": 153,
+      "id": "b2e1e1e047388a2e",
+      "styleAttributes": {
+      },
+      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
+      "type": "text",
+      "width": 370,
+      "x": 739,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "b1a8a9bd2dd4e290",
+      "styleAttributes": {
+      },
+      "text": "# Energy Communication",
+      "type": "text",
+      "width": 423,
+      "x": -201,
+      "y": 163
+    },
+    {
+      "height": 160,
+      "id": "d8175de54cd52914",
+      "styleAttributes": {
+      },
+      "text": "# Basic Conversion\n\nTransforms established energy types, i.e. solar, geothermal, nuclear, electricity into his own usable energy",
+      "type": "text",
+      "width": 362,
+      "x": 739,
+      "y": -180
+    },
+    {
+      "height": 50,
+      "id": "a631b387fb15f077",
+      "styleAttributes": {
+      },
+      "text": "# Nuclear Pulse",
+      "type": "text",
+      "width": 286,
+      "x": 994,
+      "y": 519
+    },
+    {
+      "height": 60,
+      "id": "a3dfb63aa174e7ff",
+      "styleAttributes": {
+      },
+      "text": "# Burning ",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -660
+    },
+    {
+      "height": 50,
+      "id": "82881d1172c305d8",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Amplifcation",
+      "type": "text",
+      "width": 338,
+      "x": -638,
+      "y": 629
+    },
+    {
+      "height": 50,
+      "id": "1b88a66702d53ddb",
+      "styleAttributes": {
+      },
+      "text": "# [[Atomic Stride|Atomic Stride]]",
+      "type": "text",
+      "width": 271,
+      "x": -605,
+      "y": 820
+    }
+  ]
+}
