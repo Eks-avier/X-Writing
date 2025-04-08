@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Scales of 'Titanus mosura'"
+              "title": "Scene - Eyes of Mine"
             }
           },
           {
@@ -158,13 +158,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 413,
-    "collapsed": true
+    "width": 413
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -213,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Scales of 'Titanus mosura'"
+              "title": "Outline of Scene - Eyes of Mine"
             }
           },
           {
@@ -286,11 +284,15 @@
   },
   "active": "b41f62114862f624",
   "lastOpenFiles": [
-    "The Nordsons and Lepidiels.canvas",
+    "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Edelweiss .md",
+    "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
     "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
+    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
-    "Writing/Antitheriomorphosis/Story Arcs/ BIOLLANTE BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN.md",
     "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
@@ -309,9 +311,6 @@
     "Writing/Antitheriomorphosis/Magic System/Commitment Access.md",
     "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Magic System/Primus, the Fundamental Force of Magic.md",
-    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
-    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
-    "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
