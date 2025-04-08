@@ -82,7 +82,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055079,
-      "modifiedDate": 1743846388160,
+      "modifiedDate": 1744134214983,
       "sizeInBytes": 5009,
       "sessionStart": {
         "noteCount": 1,
@@ -3232,164 +3232,6 @@
         "nonWhitespaceCharacterCount": 10716
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4031,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.436666666666667,
-      "characterCount": 32212,
-      "nonWhitespaceCharacterCount": 26185,
-      "readingTimeInMinutes": 15.211320754716981,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743586100172,
-      "modifiedDate": 1743965836072,
-      "sizeInBytes": 33228,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.436666666666667,
-        "wordCount": 4031,
-        "characterCount": 32212,
-        "nonWhitespaceCharacterCount": 26185
-      },
-      "frontmatter": {
-        "title": "Godzilla: Physical Appearance",
-        "parent": "[[Godzilla]]",
-        "component_type": "identity",
-        "component_category": "physical_characteristics",
-        "related_aspects": [
-          "[[Cultural Heritage]]",
-          "[[Regeneration]]",
-          "[[Clothing Regalia]]",
-          "[[Godzilla - Energy Domination]]"
-        ],
-        "evolution_points": [
-          {
-            "Titan Form": "Original massive form prior to Antitheriomorphosis"
-          },
-          {
-            "Early Human Form": "Initial manifestation after transformation"
-          },
-          {
-            "Adjusted Human Form": "Refined appearance after adaptation period"
-          },
-          {
-            "Post-Invasion Form": "Present physical characteristics with 'Zone' state enhancements"
-          }
-        ],
-        "physical_presence_rating": 10,
-        "adaptability_rating": 10,
-        "distinctive_features": [
-          "golden eyes",
-          "blue eyes",
-          "controlled movements",
-          "gravitational presence",
-          "beard growth"
-        ],
-        "seasonal_changes": true,
-        "tags": [
-          "atm",
-          "atm/titans/godzilla",
-          "atm/identity/physical",
-          "atm/appearance"
-        ],
-        "created": "2025-04-02",
-        "last_modified": "2025-04-02"
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2373,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.91,
-      "characterCount": 19519,
-      "nonWhitespaceCharacterCount": 16903,
-      "readingTimeInMinutes": 8.954716981132075,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743610769977,
-      "modifiedDate": 1743846388763,
-      "sizeInBytes": 20444,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.91,
-        "wordCount": 2373,
-        "characterCount": 19519,
-        "nonWhitespaceCharacterCount": 16903
-      },
-      "frontmatter": {
-        "title": "Godzilla: Cultural Heritage",
-        "parent": "[[Godzilla]]",
-        "component_type": "identity",
-        "component_category": "cultural_background",
-        "related_aspects": [
-          "[[Physical Appearance]]",
-          "[[Psychological Profile]]",
-          "[[Speech Communication]]",
-          "[[Leadership Philosophy]]"
-        ],
-        "evolution_points": [
-          {
-            "Northern Upbringing": "Traditional values instilled by father Dagon"
-          },
-          {
-            "Last Survivor": "Transition to sole bearer of species knowledge"
-          },
-          {
-            "Hierarchical Adaptation": "Integration of Northern principles into modern Titan governance"
-          },
-          {
-            "Cultural Synthesis": "Evolution beyond rigid Northern traditions"
-          }
-        ],
-        "cultural_preservation": 9.2,
-        "northern_traditionalism": 8.4,
-        "factional_knowledge": 7.5,
-        "species_connectivity": 4.7,
-        "tags": [
-          "atm",
-          "atm/titans/godzilla",
-          "atm/identity/cultural",
-          "atm/species/titanus_gojira",
-          "atm/faction/northern"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 13,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743581304556,
-      "modifiedDate": 1743846388770,
-      "sizeInBytes": 15,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 15,
-        "nonWhitespaceCharacterCount": 13
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5341,6 +5183,31 @@
       "createdDate": 1743271055017,
       "modifiedDate": 1743971053922,
       "sizeInBytes": 481,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4109,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.696666666666667,
+      "characterCount": 33117,
+      "nonWhitespaceCharacterCount": 26959,
+      "readingTimeInMinutes": 15.50566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743586100172,
+      "modifiedDate": 1743965836072,
+      "sizeInBytes": 33228,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
