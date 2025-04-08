@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
+                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene - Eyes of Mine"
+              "title": "Antitheriomorphosis"
             }
           },
           {
@@ -41,9 +41,9 @@
               "state": {
                 "file": "The Nordsons and Lepidiels.canvas",
                 "viewState": {
-                  "x": -95.45718106912136,
-                  "y": -351.49168788996485,
-                  "zoom": 0.11221162066780122
+                  "x": 500.8169076472735,
+                  "y": -476.4356143540165,
+                  "zoom": -0.5544550063260124
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
+                "file": "The Nordsons and Lepidiels.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scene - Eyes of Mine"
+              "title": "Outline of The Nordsons and Lepidiels"
             }
           },
           {
@@ -282,10 +282,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b41f62114862f624",
+  "active": "95b7ab396712c843",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
+    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Xilien Invasion Arc.md",
     "Writing/Antitheriomorphosis/Story Arcs/Edelweiss .md",
     "Writing/Antitheriomorphosis/Story Arcs/Drop Off.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
@@ -310,7 +311,6 @@
     "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md",
     "Writing/Antitheriomorphosis/Magic System/Commitment Access.md",
     "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
-    "Writing/Antitheriomorphosis/Magic System/Primus, the Fundamental Force of Magic.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",

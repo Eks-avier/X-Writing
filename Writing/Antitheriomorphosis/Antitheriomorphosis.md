@@ -32,7 +32,7 @@ All major story arcs should be formatted as:
 ### Current and Planned Narrative Arcs
 
 - **Antitheriomorphosis: The Xillien Invasion** (2023-2024)
-- **Antitheriomorphosis: The Keystone** (2025)
+- **Antitheriomorphosis: Keystone** (2025)
 - **Antitheriomorphosis: The Blue House at Maple Street** (2025-2030)
 - **Antitheriomorphosis: Convergence** (Future arc)
 
@@ -133,7 +133,7 @@ This universe integrates computer science concepts as metaphors for magical syst
 - **July**: The Vow established between Battra, Godzilla, and Mothra
 - **August-September**:
   - Battra transforms Castle Bravo into mobile headquarters
-  - Establishes Keep Charlie for human magic and Psionic training
+  - Establishes Keep Charlie for human magic and ESP training
 - **October-December**: Tensions in Titan quartet reach breaking point
 
 ### 2025
@@ -143,7 +143,7 @@ This universe integrates computer science concepts as metaphors for magical syst
   - Kong officially included in Titan governance structure
 - **Convergence Event**:
   - NeuroSync Technologies experiments with Ghidorah fragment
-  - Psionic and Sorcery students deployed with Kong as protection
+  - ESP and Sorcery students deployed with Kong as protection
   - Godric intervenes with atomic railgun technique
 - **May-December**:
   - Godric and Maria begin “Blue House at Maple Street” mission
@@ -183,4 +183,3 @@ This universe integrates computer science concepts as metaphors for magical syst
 - **Keep Charlie**: Magical education facility founded 2024, housed in Castle Bravo
 - **Castle Bravo**: Transformed into mobile Monarch headquarters by Battra (2024)
 - **Meadowvale**: Site of Godric and Maria's undercover mission (2025-2028)
-
