@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Psionic and Sorcery Divisions"
+              "title": "Godzilla - Physicality and Forms"
             }
           }
         ],
@@ -139,7 +139,7 @@
         }
       },
       {
-        "id": "37243af5bbe99679",
+        "id": "37b0db9f2ca62fb1",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -222,6 +222,7 @@
   },
   "active": "07db8c6ed1789a39",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
@@ -255,7 +256,6 @@
     "Writing/Antitheriomorphosis/llm-instructions.md",
     "Writing/Antitheriomorphosis/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/Basic Identity.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
     "Tags/#atm+titan",
     "Tags/#atm+titan+northern_gojira+godzilla",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
