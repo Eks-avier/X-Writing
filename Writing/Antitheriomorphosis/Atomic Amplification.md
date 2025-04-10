@@ -114,7 +114,7 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 1.  Prior to finalizing the Atomic Amplification, he and Kong created a sort of 'draft' of the ability which would serve as the foundation of the ability and also prove how dangerous it is when misused.
 2. With some helpful lessons from some books and resources about human anatomy from Madison, the duo ended up with a way to actualize the ability.
 3. Their brilliant idea ended up being the principle of the Atomic Amplification regardless of this "draft's" success.
-	1. Since atomic energy circulates through out his body along with his blood, Kong pointed out that if he could consciously "control" this flow, then he may be closer to achieving the same effect as Anguirus's reinforcement. 
+	1. Since atomic energy circulates through out his body along with his blood, Kong pointed out that if he could consciously "control" this flow, then he may be closer to achieving the same effect as Anguirus' reinforcement. 
 	2. The issue then became... how can one visualize controlling his own circulatory system?
 		1. Kong was turned into a human at the same time large swathes of the Titan population did—in 2020.
 			1. When he and Godzilla fought in 2022, Kong had done a little bit of exploring across the human world. 
@@ -216,5 +216,5 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 					2. However, the fire in his eyes spoke of something else.
 						1. It spoke of something beyond violence and the need to conquer.
 				7. He saw pure, unfiltered willpower in Kong.
-		4. Right then and there, amidst the blood, sweat, and destruction, Kong, who was barely conscious at this point, was recognized as Alpha Sovereign.
+		4. Kong, who was barely conscious at this point, was recognized as Alpha Sovereign amidst the blood, sweat, and destruction.
 			1. A new brotherhood would be formed, one born from a kindred connection.
