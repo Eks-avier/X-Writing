@@ -168,62 +168,7 @@
       "y": -680
     },
     {
-      "height": 50,
-      "id": "9073af40da0bd27c",
-      "styleAttributes": {
-      },
-      "text": "# Magic Nullification",
-      "type": "text",
-      "width": 320,
-      "x": 1360,
-      "y": -260
-    },
-    {
-      "height": 50,
-      "id": "b79b6fe59df756cd",
-      "styleAttributes": {
-      },
-      "text": "# Magic Disruption",
-      "type": "text",
-      "width": 316,
-      "x": 951,
-      "y": -360
-    },
-    {
-      "height": 60,
-      "id": "a478908b04bf7175",
-      "styleAttributes": {
-      },
-      "text": "# the zone",
-      "type": "text",
-      "width": 267,
-      "x": 940,
-      "y": -600
-    },
-    {
-      "height": 50,
-      "id": "16271fbfcb6bf7c2",
-      "styleAttributes": {
-      },
-      "text": "# Atomic Breath",
-      "type": "text",
-      "width": 256,
-      "x": 671,
-      "y": 579
-    },
-    {
-      "height": 153,
-      "id": "b2e1e1e047388a2e",
-      "styleAttributes": {
-      },
-      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
-      "type": "text",
-      "width": 370,
-      "x": 739,
-      "y": 40
-    },
-    {
-      "height": 160,
+      "height": 110,
       "id": "d8175de54cd52914",
       "styleAttributes": {
       },
@@ -232,28 +177,6 @@
       "width": 362,
       "x": 739,
       "y": -180
-    },
-    {
-      "height": 50,
-      "id": "a631b387fb15f077",
-      "styleAttributes": {
-      },
-      "text": "# Nuclear Pulse",
-      "type": "text",
-      "width": 286,
-      "x": 994,
-      "y": 519
-    },
-    {
-      "height": 60,
-      "id": "a3dfb63aa174e7ff",
-      "styleAttributes": {
-      },
-      "text": "# Burning ",
-      "type": "text",
-      "width": 267,
-      "x": 940,
-      "y": -660
     },
     {
       "height": 50,
@@ -279,17 +202,6 @@
     },
     {
       "height": 50,
-      "id": "6193907361043c0c",
-      "styleAttributes": {
-      },
-      "text": "# Energy Conversion",
-      "type": "text",
-      "width": 338,
-      "x": 180,
-      "y": -260
-    },
-    {
-      "height": 50,
       "id": "06742d418f47bd70",
       "styleAttributes": {
       },
@@ -300,22 +212,11 @@
       "y": -440
     },
     {
-      "height": 55,
-      "id": "dd0929d8a92fc81c",
-      "styleAttributes": {
-      },
-      "text": "# Energy Nullification",
-      "type": "text",
-      "width": 331,
-      "x": 514,
-      "y": -445
-    },
-    {
       "height": 50,
       "id": "bd6f79d0c059d1cf",
       "styleAttributes": {
       },
-      "text": "# Domination of energy",
+      "text": "# Domination of Energy",
       "type": "text",
       "width": 385,
       "x": -182,
@@ -334,17 +235,6 @@
     },
     {
       "height": 50,
-      "id": "d1638a185da0af89",
-      "styleAttributes": {
-      },
-      "text": "# External Energy Manipulation",
-      "type": "text",
-      "width": 483,
-      "x": 315,
-      "y": 280
-    },
-    {
-      "height": 50,
       "id": "15fc477595b18667",
       "styleAttributes": {
       },
@@ -353,17 +243,6 @@
       "width": 506,
       "x": -101,
       "y": 469
-    },
-    {
-      "height": 50,
-      "id": "f113b73acd950a06",
-      "styleAttributes": {
-      },
-      "text": "# Atomic Railgun",
-      "type": "text",
-      "width": 305,
-      "x": 315,
-      "y": 629
     },
     {
       "height": 60,
@@ -397,6 +276,127 @@
       "width": 271,
       "x": -605,
       "y": 820
+    },
+    {
+      "height": 50,
+      "id": "9073af40da0bd27c",
+      "styleAttributes": {
+      },
+      "text": "# Magic Nullification",
+      "type": "text",
+      "width": 320,
+      "x": 1360,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "b79b6fe59df756cd",
+      "styleAttributes": {
+      },
+      "text": "# Magic Disruption",
+      "type": "text",
+      "width": 316,
+      "x": 951,
+      "y": -360
+    },
+    {
+      "height": 60,
+      "id": "a478908b04bf7175",
+      "styleAttributes": {
+      },
+      "text": "# The Zone",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -600
+    },
+    {
+      "height": 50,
+      "id": "16271fbfcb6bf7c2",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Breath",
+      "type": "text",
+      "width": 256,
+      "x": 671,
+      "y": 579
+    },
+    {
+      "height": 50,
+      "id": "a631b387fb15f077",
+      "styleAttributes": {
+      },
+      "text": "# Nuclear Pulse",
+      "type": "text",
+      "width": 286,
+      "x": 994,
+      "y": 519
+    },
+    {
+      "height": 60,
+      "id": "a3dfb63aa174e7ff",
+      "styleAttributes": {
+      },
+      "text": "# Burning ",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -660
+    },
+    {
+      "height": 50,
+      "id": "6193907361043c0c",
+      "styleAttributes": {
+      },
+      "text": "# Energy Conversion",
+      "type": "text",
+      "width": 338,
+      "x": 180,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "d1638a185da0af89",
+      "styleAttributes": {
+      },
+      "text": "# External Energy Manipulation",
+      "type": "text",
+      "width": 483,
+      "x": 315,
+      "y": 280
+    },
+    {
+      "height": 55,
+      "id": "dd0929d8a92fc81c",
+      "styleAttributes": {
+      },
+      "text": "# Energy Nullification",
+      "type": "text",
+      "width": 331,
+      "x": 514,
+      "y": -445
+    },
+    {
+      "height": 50,
+      "id": "f113b73acd950a06",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Railgun",
+      "type": "text",
+      "width": 305,
+      "x": 315,
+      "y": 629
+    },
+    {
+      "height": 123,
+      "id": "b2e1e1e047388a2e",
+      "styleAttributes": {
+      },
+      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
+      "type": "text",
+      "width": 370,
+      "x": 731,
+      "y": 40
     }
   ]
 }
