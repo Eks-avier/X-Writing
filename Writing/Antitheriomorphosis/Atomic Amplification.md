@@ -109,3 +109,6 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 		1. He must now go beyond the perceived limitations of his species and himself to achieve this.
 	2. Kong made absolutely certain if he really can't create energy constructs and Godzilla simply violently exploded an arm in his face,
 
+## Observations
+
+1. 
