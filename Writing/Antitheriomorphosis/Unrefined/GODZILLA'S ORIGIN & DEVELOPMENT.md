@@ -13,7 +13,7 @@
 
 - When Godzilla reached approximately age 10, Dagon journeyed south seeking other T. gojira
 - Found only dead/infected Southern faction members being parasitized by MUTOs
-- Confronted MUTO Prime (Jinshin-Mushi) and was defeated
+- Confronted MUTO Prime (Jinshin-Mushi) a.k.a “Mother Prime” and was defeated
 - Became incubator for parasites that would emerge in 2014
 - Never returned to his son
 
