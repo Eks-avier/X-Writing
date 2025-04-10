@@ -123,4 +123,18 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 				3. Kong's "disappearance" alarmed many of the Monarch operatives and scientists stationed at Skull Island. 
 					1. It was the most important concern, superseding even Skull Island's imminent sinking after one of Ghidorah's generated storms merged with the island's perpetual storm cell.
 					2. It became an ongoing mystery until Jia eventually revealed that Kong had left the island months ago, hitching a ride on one of Monarch's many vehicles with help from her and Dr. Ilene Andrews. 
-						1. Jia urged him to go and explore the world beyond, to finally escape this island that 
+						1. Jia urged him to go and explore the world beyond, to finally escape this island that had become a prison to him. 
+							1. Kong promised to come back, but not until after he sought out a way to prevent Skull Island from sinking.
+							2. Jia, knowing that this is impossible, allowed her father-figure to hold on to that hope.
+					3. This event is parallel to the other Titan's adjustment period during 2020-2022.
+					4. Kong eventually returned to a Skull Island that is barely holding on.
+						1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
+						2. Manda explained that there is nothing to be done now.
+							1. The island had already degraded too much.
+							2. The residents having migrated to the Hollow Earth.
+							3. In a few months more, Skull Island will disappear from the face of the Earth.
+							4. Kong despairs in the realization that memories of his childhood and parents would finally sink into the ocean's depths.
+								1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
+									1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
+									2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
+									3. Godzilla offers some history on  the Royal House of Kong, the gigantic apes 
