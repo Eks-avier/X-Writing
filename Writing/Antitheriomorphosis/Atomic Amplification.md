@@ -41,8 +41,20 @@ Godzilla first developed the idea of Atomic Amplification post-fight with Kong. 
 				2. They cannot create any sort of energy constructs.
 					1. This is in contrast to *Titanus mosura* who possess the ability to telekinetically shape their unique scales in however manner they please.
 					2. This is in contrast to Titans who possess control over the elements like fire, water, air, and earth.
-						1.  Rodan, who possess 
-						2. 
+						1.  Rodan, who possesses aerokinesis and lithokinesis even as a Titan
+							1. Though he rarely used them in favor of his wings.
+						2. The Wardens, who are often masters of a specific elements
+							1. Leviathan, Scylla, Manda, Bakunawa, and Amhuluk all have control over water
+								1. The difference lie in how they utilize this
+									1. Their style may be different
+									2. Their domain of control is different
+										1. Scylla, for example, can control any state of water but prefers using ice
+										2. Leviathan utilizes all states of water, not preferring a single one
+										3. Manda is an expert at pressurizing water to achieve piercing and slicing effects
+											1. She's also more meticulous at controlling water.
+										4. Bakunawa is a master of creating constructs out of water; no one is more detailed than him at creating various weapons, tools, and other constructs.
+				3. They cannot freely wield energy out of their bodies
+					1. O 
 
 Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this “limitation” while training in various martial arts and finding his personal style.
 
