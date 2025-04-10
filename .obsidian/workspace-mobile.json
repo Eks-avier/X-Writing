@@ -41,12 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
+=======
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+>>>>>>> origin/main
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Godzilla - Physicality and Forms"
+=======
+              "title": "Mothra, the Queen of the Monsters"
+>>>>>>> origin/main
             }
           }
         ],
@@ -139,7 +147,11 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "75a906868099ed71",
+=======
+        "id": "dc07eec8ca1c179c",
+>>>>>>> origin/main
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -222,6 +234,7 @@
   },
   "active": "d45b8115e733d08c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
     "Writing/Antitheriomorphosis/Atomic Amplification.md",
@@ -229,6 +242,8 @@
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+=======
+>>>>>>> origin/main
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
