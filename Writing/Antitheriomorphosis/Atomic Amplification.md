@@ -12,6 +12,8 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 
 Godzilla first developed the idea of Atomic Amplification post-fight with Kong. After being introduced to the idea of human martial arts from his then-opponent, he sought ways to integrate his atomic energy into his new fighting style. However, this was new territory for him. Godzilla's species were masters of projecting their atomic energies in the form of the Atomic Breath. This singular ability became their species' signature weapon—the power of the stars shot from their maws, annihilating everything in its wake. It is useful *as* a Titan, but as a human, it became too unwieldy for him. The human lungs and mouth were not the same. He couldn't control the weapon with the same fidelity anymore, not its range, its output, or how it manifests—sometimes it's a mid-ranged cone and sometimes it's the concentrated beam he has been used to for millions of years. It remains as destructive as it has always been, but its inconsistency made it a hazard for everything around him, including himself. Godzilla now has to think of a new way to fight in this human form, at least until he gains better control of his Atomic Breath (so he said to himself).
 
+## Conceiving the Concept
+
 1. Godzilla's developed the idea of the Atomic Amplification after his fight with Kong
 2. He sought ways to integrate his atomic energy into the martial arts demonstrated to him by Kong in their fight.
 3. *Titanus gojira* were masters of **projecting** energies out of their bodies.
@@ -55,10 +57,18 @@ Godzilla first developed the idea of Atomic Amplification post-fight with Kong. 
 										4. Bakunawa is a master of creating constructs out of water; no one is more detailed than him at creating various weapons, tools, and other constructs.
 				3. They cannot freely wield energy out of their bodies nor even their emissions.
 				4. *Titanus gojira* have no control of their energy, in whatever form or manner, once they leave their body.
-			3. What *Titanus gojira* can do and have also excelled at is sensing any form of nuclear energy,
+			3. What *Titanus gojira* can do and have also excelled at is sensing any form of nuclear energy and radiation, which was needed to identify their sources
 				1. This ability steadily improved across the ages.
-					1. Godzilla even figured out how to expand his senses 
-
+					1. Godzilla even figured out how to expand his senses to other types of energies.
+					2. This also lead to him figuring out how to expand his 'energy palate'
+						1. This was crucial as radiation levels eventually waned and he had to seek others to sustain him before.
+					3. As a human, this was one of his aspects that he had to adjust comprehensively
+						1. His senses, especially his ability to sense energy and radiation, were dulled
+							1. However, by the end of a month, he had reclaimed functional levels
+							2. At half a year, he was back to normal
+							3. By the beginning of 2021, he expanded his senses even more
+								1. He became more precise in identifying types, sources, and radiation.
+		5. 
 
 Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this “limitation” while training in various martial arts and finding his personal style.
 
