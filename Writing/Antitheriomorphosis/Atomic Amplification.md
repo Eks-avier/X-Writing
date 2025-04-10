@@ -126,6 +126,13 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 						1. Jia urged him to go and explore the world beyond, to finally escape this island that had become a prison to him. 
 							1. Kong promised to come back, but not until after he sought out a way to prevent Skull Island from sinking.
 							2. Jia, knowing that this is impossible, allowed her father-figure to hold on to that hope.
+						2. Kong would then circle the world, exploring human civilization.
+							1. He picked up on human fighting styles
+								1. He immediately picked them up, learning from them and integrating them into his fighting style.
+								2. There was relatively little difference between his Titan form and human form
+									1. This made learning martial arts incredibly intuitive,
+									2. And, thanks to his unparalleled physical prowess, he excelled at them quickly.
+									3. He also gained experience wielding a variety of weapons.
 					3. This event is parallel to the other Titan's adjustment period during 2020-2022.
 					4. Kong eventually returned to a Skull Island that is barely holding on.
 						1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
@@ -153,7 +160,19 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 									2. Kong would defend what was left of the island, and if he died, then at least he would die a warrior—a captain sinking along with his ship.
 									3. He encountered Godzilla.
 										1. At first, the latter was fascinated.
-										2. He thought the bones of the specimens brought to Castle Bravo were relics of the past.
-											1. This is despite no
+										2. He thought the bones of the specimens brought to Castle Bravo were the last of the Kongs, who died recently.
+										3. Lo and behold, before him stands not just a living giant ape but the true heir to the throne of their species.
+									4. Kong responded with aggression, seeking to know who this being is and why he is.
+										1. Godzilla, who was weary from his fight with Ghidorah and still adjusting to his human body, attempted to diffuse the situation.
+										2. Unfortunately, Kong suddenly realized that this is the fabled *King of the Monsters*.
+											1. This was the one who was urged the Skar King to eliminate their family.
+										3. Godzilla, having no clue what he meant, sought to explain.
+											1. But all explanations fell on the enraged Kong's deaf ears.
+										4. A fight was about to break out and Godzilla was loathe to do so again, still spiritually exhausted from Ghidorah.
+											1. But something about Kong compelled him. 
 								2. Godzilla purposefully limited himself to his physical might,
 									1. One, he was unsure if using his abilities would be a good idea given the increasing fragility of the island
+									2. A voice in his mind also urged him on.
+										1. If he were to lose here, no one would know.
+										2. If he were to win, it would be hollow.
+									3. But the determination in those onyx-colored
