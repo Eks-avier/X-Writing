@@ -51,14 +51,14 @@
             "id": "10a2e893a8c5793c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Antitheriomorphosis"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 413,
-    "collapsed": true
+    "width": 413
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -284,11 +283,12 @@
   },
   "active": "10a2e893a8c5793c",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Atomic Amplification.md",
+    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Sensory Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
-    "Writing/Antitheriomorphosis/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Characters/Andrew Julius Ford.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/7 - Combat Evolution.md",
@@ -305,7 +305,6 @@
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md",
-    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
