@@ -1,3 +1,4 @@
+
 # Atomic Amplification
 
 The Atomic Amplification is the first ability Godzilla developed post-Antitheriomorphosis.
@@ -78,6 +79,15 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 
 ## Conceiving the Concept
 
-
+1. Godzilla and Kong went over many ideas for the integration project.
+	1. First, they figured energy constructs. 
+		1. Kong, a master of creating weapons from the environment on the spot, offered this idea.
+		2. But, despite the considerable boost he gained from his Burning Form post-Ghidorah, he could not muster any sort of aptitude for it.
+			1. Any attempts simply overheated his limbs.
+			2. At worst, it caused a miniature explosion.
+		3. Additionally, fighting with weapons isn't Godzilla's modus, even if he's considering a change in fighting style.
+		4. In the end, it was a disaster.
+	2. Then one day, his first breakthrough into the Atomic Amplification came in the form of the one and only Anguirus.
+		1. Angu
 
 Eventually, his first breakthrough came from the one and only Anguirus, one of his oldest and most loyal friends. Anguirus is ability is simple, he absorbs damage from any source. It is the inherent ability of his species, which was known for their fierce, protective, and unwavering nature. Underneath this tough ability is the hidden option to utilize the absorbed damage to empower physical constitution, allowing Anguirus to use his opponent's momentum against them, literally. This incredible ability is often overlooked due to its lack of flashiness. However, to those who are aware of and know how it works, it is a formidable ability fit for one and only Stalwart Vanguard, whose hardiness could only be matched by his unfailing loyalty to his brother-in-arms the King of the Monsters. Godzilla, inspired by Anguirus' empowerment ability, finally developed his intuition for the Atomic Amplification. Instead of relying on the external energy absorbed from an opponent to empower one's physical capabilities, like Anguirus's ability, Godzilla would utilize his own internal energy to achieve the same result himself. In a sense, Atomic Amplification is an homage to his brother-in-arms, a callback to their enduring relationship made manifest in the form of Godzilla's most favorite thing to do: combat. A shame it ended up as a catalyst for Anguirus' emotional spiral, because at this point in time, he was beginnning to be blinded by jealousy towards Kong, mistakenly interpreting the development of Godzilla's newest ability as a sign of moving on from him. To Anguirus, it's Kong who was the inspiration to Godzilla's Atomic Amplification.
