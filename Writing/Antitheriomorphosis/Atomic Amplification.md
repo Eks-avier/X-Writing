@@ -137,4 +137,23 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 								1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
 									1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
 									2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
-									3. Godzilla offers some history on  the Royal House of Kong, the gigantic apes 
+									3. Godzilla gave some history on the species of Kong that wouldn't have been possible had he not been human right now.
+										1. The Royal House of Kong, as their title suggests, were the rightful rulers of their species.
+											1. They were stronger, smarter and aged very slowly in comparison to the rest of their kind. 
+												1. They would take almost a millennia to die.
+												2. They remained in their prime state for far, far longer.
+											2. One day, during a civil war among their people, the Royal House of Kong was deposed by the one who called himself the Skar King. 
+												1. It was said that the Royal Line was utterly annihilated.
+											3. But, Godzilla was surprised that they continued on in Skull Island.
+										2. Curious to search for this island, he physically swam in search of it.
+											1. He was surprised to find it barely there, parts having already sunken.
+							5. Kong versus Godzilla would happen.
+								1. Kong, sensing that a dangerous being was in his dying territory, moved to get Jia out of the way.
+									1. She, Drs. Nathan Lind and Ilene Andrews boarded upon one of the last Monarch vessels away from the island.
+									2. Kong would defend what was left of the island, and if he died, then at least he would die a warrior—a captain sinking along with his ship.
+									3. He encountered Godzilla.
+										1. At first, the latter was fascinated.
+										2. He thought the bones of the specimens brought to Castle Bravo were relics of the past.
+											1. This is despite no
+								2. Godzilla purposefully limited himself to his physical might,
+									1. One, he was unsure if using his abilities would be a good idea given the increasing fragility of the island
