@@ -113,4 +113,4 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 
 1.  Prior to finalizing the Atomic Amplification, he and Kong created a sort of 'draft' of the ability which would serve as the foundation of the ability and also prove how dangerous it is when misused.
 2. With some helpful lessons from some books and resources about human anatomy from Madison, the duo ended up with a way to actualize the ability.
-3. By utilizing the human circulatory system 
+3. Through conscious utilization of the human circulatory system,
