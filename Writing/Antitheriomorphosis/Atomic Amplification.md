@@ -18,7 +18,14 @@ Godzilla first developed the idea of Atomic Amplification post-fight with Kong. 
 	1. The most prominent example of this is the Atomic Breath
 		1. They could use it with primal grace
 		2. It is their ultimate and most signature weapon
-		3. However, 
+		3. However, the human form constrained his control over this ability
+			1. The range is inconsistent
+			2. The output is inconsistent
+			3. The manner in which it manifests is inconsistent
+				1. It sometimes appears as a cone
+				2. It sometimes appear as the beam he has always used
+			4. It becomes painful to use as well
+				1. I
 
 Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this “limitation” while training in various martial arts and finding his personal style.
 
