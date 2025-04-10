@@ -211,7 +211,11 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 				3. It wasn't the cold, calculated malice in Ghidorah's eyes.
 				4. It wasn't the grace and dignity in Mothra's sapphire eyes that compelled him to make her remain by his side forever.
 				5. The vision before him was something achingly familiar.
-				6. 
+				6. It was a fire that this ape's species should have no right having, that never had any indication of possessing in the first place.
+					1. Other Titans would consider them merely intelligent pests.
+					2. However, the fire in his eyes spoke of something else.
+						1. It spoke of something beyond violence and the need to conquer.
+				7. He saw pure, unfiltered willpower in Kong.
 			5. Right then and there, amidst the blood, sweat, and destruction, Kong was recognized as Alpha Sovereign.
-				1. A new brotherhood would be formed, one born from a kindred conncetion.
+				1. A new brotherhood would be formed, one born from a kindred connection.
 										
