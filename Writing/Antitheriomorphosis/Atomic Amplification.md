@@ -9,7 +9,7 @@ It is inspired by two things:
 
 Godzilla's goal here is to create a way for him to fully utilize the unique human body to his advantage. When Amplified, he receives a boost to his entire physical body. HIs strength goes up, his physical defense goes up, his senses are boosted beyond their typical levels, his reaction speed goes up, his agility and speed goes up considerably. This allows Godzilla to approach combat in an entirely new direction. It has been so enjoyable to him, in fact, that prior to the Xilien Invasion, he has barely used his Atomic Breath and Nuclear Pulse—instead opting to utilize Atomic Amplification on top of his newfound unarmed close combat skills, which he developed thanks to Kong.
 
-Atomic Amplification represents Godzilla's acceptance of the human body that he was unexpectedly forced into. It represents his growth as a character, from someone who relies on brute force and instinct to someone who integrates it with a more disciplined and precise approach. Atomic Amplification is the unification of his Titan and human self.
+Atomic Amplification represents Godzilla's acceptance of the human body that he was unexpectedly forced into. It represents his growth as a character, from someone who relies on his instinctual understanding of his powers in order to brute force his way into solving problems to someone who integrates it with a more disciplined and precise approach. Atomic Amplification is the unification of his Titan and human self.
 
 ## Knowing Thyself
 
@@ -113,4 +113,11 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 
 1.  Prior to finalizing the Atomic Amplification, he and Kong created a sort of 'draft' of the ability which would serve as the foundation of the ability and also prove how dangerous it is when misused.
 2. With some helpful lessons from some books and resources about human anatomy from Madison, the duo ended up with a way to actualize the ability.
-3. Through conscious utilization of the human circulatory system,
+3. Their brilliant idea ended up being the principle of the Atomic Amplification regardless of this "draft's" success.
+	1. Since atomic energy circulates through out his body along with his blood, Kong pointed out that if he could consciously "control" this flow, then he may be closer to achieving the same effect as Anguirus's reinforcement. 
+		1. The issue then became... how can one visualize controlling his own circulatory system?
+		2. Kong was turned into a human at the same time large swathes of the Titan population did—in 2020.
+			1. When he and Godzilla fought in 2022, Kong had done a little bit of exploring across the human world. 
+				1. His experience as a bipedal Titan helped make the transition to human form nearly effortless.
+				2. His only problem then was learning human speech and dealing with the perspective shift from being a giant monster to a tiny human.
+				3. Kong's "disappearance" alarmed many of the 
