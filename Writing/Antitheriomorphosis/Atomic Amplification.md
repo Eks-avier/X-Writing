@@ -257,30 +257,30 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 ## The Misunderstood Technique
 
 1. Godzilla's initial observations of Anguirus had led him to an incomplete understanding.
-2. 1. What he had first witnessed wasn't Anguirus's basic technique but an advanced application.
+2.  What he had first witnessed wasn't Anguirus's basic technique but an advanced application.
       1. He had observed the “compounding” effect—Anguirus layering additional absorbed energy onto already enhanced areas.
       2. This layering created the visible concentration that Godzilla attempted to replicate.
       3. It represented an advanced technique built upon a foundation Godzilla hadn't yet recognized.
-3. 2. The fundamental truth was more elegant than Godzilla initially realized.
+3. The fundamental truth was more elegant than Godzilla initially realized.
       1. Anguirus's primary technique involved uniform distribution throughout his entire body.
       2. This served two synergistic purposes:
          1. It prevented overloading any single part of his body, allowing greater total absorption.
          2. It created efficient, balanced physical enhancement across his entire form.
       3. Only after establishing this foundation could Anguirus perform the compounding technique.
-4. 3. This misunderstanding explained Godzilla's initial failures.
+4. This misunderstanding explained Godzilla's initial failures.
       1. He had attempted to jump directly to the advanced application without establishing the foundation.
       2. It was like trying to build a tower without first laying the groundwork.
       3. The catastrophic results were inevitable given this approach.
 5. As Godzilla finally grasped the true mechanics, Anguirus offered rare insight into his technique's development.
-6. 1. “It took me millennia to refine,” he admitted during a private discussion.
+6. “It took me millennia to refine,” he admitted during a private discussion.
       1. “The distribution came first, out of pure necessity.”
       2. “No single part of me could handle the full force of what I absorbed.”
       3. “The compounding was something I discovered much later, after I'd mastered the basics.”
-7. 2. For Anguirus, the adaptation to human form had been relatively straightforward.
+7. For Anguirus, the adaptation to human form had been relatively straightforward.
       1. His technique had always been about internal management rather than external projection.
       2. The principles remained constant regardless of physical scale.
       3. His challenges had been more psychological than technical—adjusting to human social dynamics proved far more difficult than adapting his abilities.
-8. 3. This conversation reinforced a crucial insight for Godzilla.
+8. This conversation reinforced a crucial insight for Godzilla.
       1. The foundation had to be perfected before advanced applications could be attempted.
       2. His impatience had been the primary obstacle to progress.
       3. True mastery would require patience—a quality not naturally abundant in his nature.
