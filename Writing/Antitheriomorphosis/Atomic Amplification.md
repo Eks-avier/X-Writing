@@ -248,4 +248,9 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 			5. A massive explosion detonated.
 				1. His arm went along with it.
 				2. A cauterized stump that slowly grew back was the final result.
-		4. But, there was progress.
+		4. But, there was progress and that was what matters.
+		5. Unfortunately, the progress they made would plateau over a few weeks.
+			1. The sensation of the "amplification" would get less and less painful and uncomfortable, his body adapting as it is wont to do.
+				1. However, there seems to be nothing they could do about his body parts combusting in a rain of embers and blood.
+					1. Madison had lurched over, vomiting, so much she probably lost count.
+					2. Heck, she's probably completely used to it by then.
