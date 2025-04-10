@@ -115,8 +115,8 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 2. With some helpful lessons from some books and resources about human anatomy from Madison, the duo ended up with a way to actualize the ability.
 3. Their brilliant idea ended up being the principle of the Atomic Amplification regardless of this "draft's" success.
 	1. Since atomic energy circulates through out his body along with his blood, Kong pointed out that if he could consciously "control" this flow, then he may be closer to achieving the same effect as Anguirus's reinforcement. 
-		1. The issue then became... how can one visualize controlling his own circulatory system?
-		2. Kong was turned into a human at the same time large swathes of the Titan population did—in 2020.
+	2. The issue then became... how can one visualize controlling his own circulatory system?
+		1. Kong was turned into a human at the same time large swathes of the Titan population did—in 2020.
 			1. When he and Godzilla fought in 2022, Kong had done a little bit of exploring across the human world. 
 				1. His experience as a bipedal Titan helped make the transition to human form nearly effortless.
 				2. His only problem then was learning human speech and dealing with the perspective shift from being a giant monster to a tiny human.
@@ -133,28 +133,28 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 									1. This made learning martial arts incredibly intuitive,
 									2. And, thanks to his unparalleled physical prowess, he excelled at them quickly.
 									3. He also gained experience wielding a variety of weapons.
-		3. This event is parallel to the other Titan's adjustment period during 2020-2022.
-			1. Kong eventually returned to a Skull Island that is barely holding on.
-				1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
-				2. Manda explained that there is nothing to be done now.
-					1. The island had already degraded too much.
-					2. The residents having migrated to the Hollow Earth.
-					3. In a few months more, Skull Island will disappear from the face of the Earth.
-					4. Kong despairs in the realization that memories of his childhood and parents would finally sink into the ocean's depths.
-						1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
-							1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
-							2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
-							3. Godzilla gave some history on the species of Kong that wouldn't have been possible had he not been human right now.
-								1. The Royal House of Kong, as their title suggests, were the rightful rulers of their species.
-									1. They were stronger, smarter and aged very slowly in comparison to the rest of their kind. 
-										1. They would take almost a millennia to die.
-										2. They remained in their prime state for far, far longer.
-									2. One day, during a civil war among their people, the Royal House of Kong was deposed by the one who called himself the Skar King. 
-										1. It was said that the Royal Line was utterly annihilated.
-										2. But, Godzilla was surprised that they continued on in Skull Island.
-									3. Curious to search for this island, he physically swam in search of it.
-										4. He was surprised to find it barely there, parts having already sunken.
-		4. Kong versus Godzilla would happen.
+			2. This event is parallel to the other Titan's adjustment period during 2020-2022.
+				1. Kong eventually returned to a Skull Island that is barely holding on.
+					1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
+					2. Manda explained that there is nothing to be done now.
+						1. The island had already degraded too much.
+						2. The residents having migrated to the Hollow Earth.
+						3. In a few months more, Skull Island will disappear from the face of the Earth.
+						4. Kong despairs in the realization that memories of his childhood and parents would finally sink into the ocean's depths.
+							1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
+								1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
+								2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
+								3. Godzilla gave some history on the species of Kong that wouldn't have been possible had he not been human right now.
+									1. The Royal House of Kong, as their title suggests, were the rightful rulers of their species.
+										1. They were stronger, smarter and aged very slowly in comparison to the rest of their kind. 
+											1. They would take almost a millennia to die.
+											2. They remained in their prime state for far, far longer.
+										2. One day, during a civil war among their people, the Royal House of Kong was deposed by the one who called himself the Skar King. 
+											1. It was said that the Royal Line was utterly annihilated.
+											2. But, Godzilla was surprised that they continued on in Skull Island.
+										3. Curious to search for this island, he physically swam in search of it.
+											1. He was surprised to find it barely there, parts having already sunken.
+		2. Kong versus Godzilla would happen.
 			1. Kong, sensing that a dangerous being was in his dying territory, moved to get Jia out of the way.
 				1. She, Drs. Nathan Lind and Ilene Andrews boarded upon one of the last Monarch vessels away from the island.
 				2. Kong would defend what was left of the island, and if he died, then at least he would die a warrior—a captain sinking along with his ship.
@@ -194,7 +194,7 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 						3. Kong realized that Godzilla was learning as the fight goes on.
 							1. And despite the compounding injuries, he kept going.
 								1. Sheer joy overflowed from within.
-		5. At the end, the one with the most endurance won.
+		3. At the end, the one with the most endurance won.
 			1. After a particularly powerful jab to the stomach, Kong lurched over.
 			2. Godzilla stood atop Kong's broken body.
 			3. Unbroken and unbent, Kong waited for the final hit.
@@ -216,6 +216,5 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 					2. However, the fire in his eyes spoke of something else.
 						1. It spoke of something beyond violence and the need to conquer.
 				7. He saw pure, unfiltered willpower in Kong.
-			5. Right then and there, amidst the blood, sweat, and destruction, Kong was recognized as Alpha Sovereign.
-				1. A new brotherhood would be formed, one born from a kindred connection.
-										
+		4. Right then and there, amidst the blood, sweat, and destruction, Kong, who was barely conscious at this point, was recognized as Alpha Sovereign.
+			1. A new brotherhood would be formed, one born from a kindred connection.
