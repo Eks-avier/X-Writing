@@ -218,4 +218,6 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 				7. He saw pure, unfiltered willpower in Kong.
 		4. Kong, who was barely conscious at this point, was recognized as Alpha Sovereign amidst the blood, sweat, and destruction.
 			1. A new brotherhood would be formed, one born from a kindred connection.
-	3. Kong, recalling the idea of
+	3. Kong brings up interesting ideas from his travels across the world, specifically concepts that cam from martial arts as a discipline and way of life.
+		1. He had mentioned the idea of chi
+		2. He had mentioned 
