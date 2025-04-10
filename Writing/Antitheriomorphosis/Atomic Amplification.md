@@ -53,8 +53,12 @@ Godzilla first developed the idea of Atomic Amplification post-fight with Kong. 
 										3. Manda is an expert at pressurizing water to achieve piercing and slicing effects
 											1. She's also more meticulous at controlling water.
 										4. Bakunawa is a master of creating constructs out of water; no one is more detailed than him at creating various weapons, tools, and other constructs.
-				3. They cannot freely wield energy out of their bodies
-					1. O 
+				3. They cannot freely wield energy out of their bodies nor even their emissions.
+				4. *Titanus gojira* have no control of their energy, in whatever form or manner, once they leave their body.
+			3. What *Titanus gojira* can do and have also excelled at is sensing any form of nuclear energy,
+				1. This ability steadily improved across the ages.
+					1. Godzilla even figured out how to expand his senses 
+
 
 Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this “limitation” while training in various martial arts and finding his personal style.
 
