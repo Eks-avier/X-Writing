@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,10 +285,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md"
+                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Domination of Energy - Profile"
+              "title": "File properties for Atomic Amplification"
             }
           }
         ],
@@ -313,7 +313,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5372e7050f06df1d",
+  "active": "2cb087a31580ed82",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
