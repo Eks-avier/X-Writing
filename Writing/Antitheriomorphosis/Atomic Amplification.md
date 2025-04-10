@@ -223,4 +223,29 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 	5. Godzilla, perhaps due to sheer intuition, attempted to 'charge'.
 		1. He based the idea from the preparation stage of the of the Atomic Breath.
 			1. He would imagine charging his atomic breath, but instead of going through his throat, he directed it towards a limb and into a hand.
-			2. Surprisingly, this worked
+			2. Surprisingly, this worked!
+	6. The duo called this the prototype.
+		1. Meanwhile, Godzilla would continue to observe Anguirus from afar.
+			1. He watches how his friend would utilize the energy he captured within his body.
+				1. Whether because Anguirus has been using this ability literally for millions of years and knows it by heart or Godzilla was simply too eager, no one knew
+					1. However, Godzilla noticed that in areas where Anguirus required reinforcement, he would coalesce energy the most in that area of his body.
+						1. This tracked with his current usage.
+		2. Godzilla would then attempt to test his hypotheses with Kong.
+			1. He visualizes atomic energy, travelling from his heart, into his chest, and just before it goes into his throat, he "nudges" it away and "instructs" it to go into his limb.
+			2. The energy begrudgingly "obeys".
+				1. The entire process is uncomfortable and slow, painful when done at higher outputs.
+				2. But, it does the trick.
+				3. Veins of energy manifest across his arm and his hand glows with a blue.
+				4. It is *hot* and *painful*.
+					1. His regeneration working overtime to sustain it.
+			3. It was, however, a success. 
+			4. He kept using it as much as he could, starting at a base output and then incrementally raising it once he got comfortable.
+		3. Eventually, his body "got used to it". 
+			1. It would hurt less, still there and still noticeable, but *less*
+			2. The speed through which the energy is directed improved, still sluggish but improved.
+			3. It would feel less hot.
+			4. But, when he used it to punch something.
+			5. A massive explosion detonated.
+				1. His arm went along with it.
+				2. A cauterized stump that slowly grew back was the final result.
+		4. But, there was progress.
