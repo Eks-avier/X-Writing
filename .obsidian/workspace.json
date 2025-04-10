@@ -92,8 +92,7 @@
               "title": "Domination of Energy - Profile"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,11 +283,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Atomic Amplification"
+              "title": "File properties"
             }
           }
         ],
@@ -313,17 +310,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2cb087a31580ed82",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
-    "Writing/Antitheriomorphosis/Atomic Amplification.md",
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Atomic Amplification.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
     "Notepad.md",
     "Notepad 2.md",
     "Spending.md",
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
@@ -341,7 +339,6 @@
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
-    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
