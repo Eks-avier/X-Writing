@@ -92,7 +92,8 @@
               "title": "Domination of Energy - Profile"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -283,9 +284,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Domination of Energy - Profile"
             }
           }
         ],
@@ -310,7 +313,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "5372e7050f06df1d",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
