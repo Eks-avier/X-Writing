@@ -133,72 +133,85 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 									1. This made learning martial arts incredibly intuitive,
 									2. And, thanks to his unparalleled physical prowess, he excelled at them quickly.
 									3. He also gained experience wielding a variety of weapons.
-				4. This event is parallel to the other Titan's adjustment period during 2020-2022.
-					1. Kong eventually returned to a Skull Island that is barely holding on.
-						1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
-					2. Manda explained that there is nothing to be done now.
-						1. The island had already degraded too much.
-						2. The residents having migrated to the Hollow Earth.
-						3. In a few months more, Skull Island will disappear from the face of the Earth.
-						4. Kong despairs in the realization that memories of his childhood and parents would finally sink into the ocean's depths.
-								1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
-									1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
-									2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
-									3. Godzilla gave some history on the species of Kong that wouldn't have been possible had he not been human right now.
-										1. The Royal House of Kong, as their title suggests, were the rightful rulers of their species.
-											1. They were stronger, smarter and aged very slowly in comparison to the rest of their kind. 
-												1. They would take almost a millennia to die.
-												2. They remained in their prime state for far, far longer.
-											2. One day, during a civil war among their people, the Royal House of Kong was deposed by the one who called himself the Skar King. 
-												1. It was said that the Royal Line was utterly annihilated.
-											3. But, Godzilla was surprised that they continued on in Skull Island.
-										2. Curious to search for this island, he physically swam in search of it.
-											1. He was surprised to find it barely there, parts having already sunken.
-					3. Kong versus Godzilla would happen.
-						1. Kong, sensing that a dangerous being was in his dying territory, moved to get Jia out of the way.
-							1. She, Drs. Nathan Lind and Ilene Andrews boarded upon one of the last Monarch vessels away from the island.
-							2. Kong would defend what was left of the island, and if he died, then at least he would die a warrior—a captain sinking along with his ship.
-							3. He encountered Godzilla.
-								1. At first, the latter was fascinated.
-								2. He thought the bones of the specimens brought to Castle Bravo were the last of the Kongs, who died recently.
-								3. Lo and behold, before him stands not just a living giant ape but the true heir to the throne of their species.
-							4. Kong responded with aggression, seeking to know who this being is and why he is.
-								4. Godzilla, who was weary from his fight with Ghidorah and still adjusting to his human body, attempted to diffuse the situation.
-								5. Unfortunately, Kong suddenly realized that this is the fabled *King of the Monsters*.
-									1. This was the one who was urged the Skar King to eliminate their family.
-								6. Godzilla, having no clue what he meant, sought to explain.
-									2. But all explanations fell on the enraged Kong's deaf ears.
-								7. A fight was about to break out and Godzilla was loathe to do so again, still spiritually exhausted from Ghidorah.
-									1. But something about Kong compelled him. 
-						2. Godzilla purposefully limited himself to his physical might,
-							1. One, he was unsure if using his abilities would be a good idea given the increasing fragility of the island
-							2. A voice in his mind also urged him on.
-								1. If he were to lose here, no one would know.
-								2. If he were to win, it would be hollow.
-							3. But the determination in those onyx-colored eyes of Kong compelled him to accept the challenge.
-						3. Kong's unprecedented fighting style confused Godzilla.
-							1. They were relative in strength
-								1. But Kong was faster and more agile.
-								2. He weaved between attacks and unleashed precise hits.
-								3. His resourcefulness allowed him to craft tools mid-fight.
-						4. For the first time since Ghidorah, a fire within Godzilla's spirit was lit again.
-							2. This was all new.
-							3. He had holes in his body, gashes, wounds, and the like but he could not help but feel a build-up within.
-								1. Sheer joy overflowed from him.
-							4. Godzilla began countering Kong by the second
-								2. He began to become more mobile, more fluid in his combat.
-								3. Kong was beginning to be on the back foot.
-									1. Each strike hit harder despite the wounds he inflicted.
-									2. Each movement of his opponent became harder to read.
-										1. Feints, dodges, and other unorthodox attacks that Godzilla was dumbfounded by mere moments ago was being used against him.
-									3. Kong realized that Godzilla was learning as the fight goes on.
-										1. And despite the compounding injuries, he kept going.
-											1. Sheer joy overflowed from within.
-							5. At the end, the one with the most endurance won.
-								1. After a particularly powerful jab to the stomach, Kong lurched over.
-								2. Godzilla stood atop Kong's broken body.
-								3. Unbroken and unbent, Kong waited for the final hit.
-								4. But it never came, Godzilla lent him a hand.
-								5. Right then and there, amidst the blood, sweat, and destruction, Kong was recognized as Alpha Sovereign.
-								6. The first since Mothra and the current one and only Sovereign as she received the title of Alpha Divine.
-								7. 
+		3. This event is parallel to the other Titan's adjustment period during 2020-2022.
+			1. Kong eventually returned to a Skull Island that is barely holding on.
+				1. In his travels, he encountered one of the Titans that the readers would eventually come to know as Manda, the Guardian of Mu and Northeastern Warden.
+				2. Manda explained that there is nothing to be done now.
+					1. The island had already degraded too much.
+					2. The residents having migrated to the Hollow Earth.
+					3. In a few months more, Skull Island will disappear from the face of the Earth.
+					4. Kong despairs in the realization that memories of his childhood and parents would finally sink into the ocean's depths.
+						1. Luckily, Monarch had moved the immaculately preserved remains of Kong's mother and father to safety—to Castle Bravo.
+							1. Godzilla, now somewhat used to his human body by this time, was surprised to know that remnants of Kong's species still remained.
+							2. As far as he was concerned, he dealt with the last of them after Skar King attempted to invade the surface world.
+							3. Godzilla gave some history on the species of Kong that wouldn't have been possible had he not been human right now.
+								1. The Royal House of Kong, as their title suggests, were the rightful rulers of their species.
+									1. They were stronger, smarter and aged very slowly in comparison to the rest of their kind. 
+										1. They would take almost a millennia to die.
+										2. They remained in their prime state for far, far longer.
+									2. One day, during a civil war among their people, the Royal House of Kong was deposed by the one who called himself the Skar King. 
+										1. It was said that the Royal Line was utterly annihilated.
+										2. But, Godzilla was surprised that they continued on in Skull Island.
+									3. Curious to search for this island, he physically swam in search of it.
+										4. He was surprised to find it barely there, parts having already sunken.
+		4. Kong versus Godzilla would happen.
+			1. Kong, sensing that a dangerous being was in his dying territory, moved to get Jia out of the way.
+				1. She, Drs. Nathan Lind and Ilene Andrews boarded upon one of the last Monarch vessels away from the island.
+				2. Kong would defend what was left of the island, and if he died, then at least he would die a warrior—a captain sinking along with his ship.
+				3. He encountered Godzilla.
+					1. At first, the latter was fascinated.
+					2. He thought the bones of the specimens brought to Castle Bravo were the last of the Kongs, who died recently.
+					3. Lo and behold, before him stands not just a living giant ape but the true heir to the throne of their species.
+				4. Kong responded with aggression, seeking to know who this being is and why he is.
+					4. Godzilla, who was weary from his fight with Ghidorah and still adjusting to his human body, attempted to diffuse the situation.
+					5. Unfortunately, Kong suddenly realized that this is the fabled *King of the Monsters*.
+						1. This was the one who was urged the Skar King to eliminate their family.
+					6. Godzilla, having no clue what he meant, sought to explain.
+						2. But all explanations fell on the enraged Kong's deaf ears.
+					7. A fight was about to break out and Godzilla was loathe to do so again, still spiritually exhausted from Ghidorah.
+						1. But something about Kong compelled him. 
+			2. Godzilla purposefully limited himself to his physical might,
+				1. One, he was unsure if using his abilities would be a good idea given the increasing fragility of the island
+				2. A voice in his mind also urged him on.
+					1. If he were to lose here, no one would know.
+					2. If he were to win, it would be hollow.
+				3. But the determination in those onyx-colored eyes of Kong compelled him to accept the challenge.
+			3. Kong's unprecedented fighting style confused Godzilla.
+				1. They were relative in strength
+					1. But Kong was faster and more agile.
+					2. He weaved between attacks and unleashed precise hits.
+					3. His resourcefulness allowed him to craft tools mid-fight.
+			4. For the first time since Ghidorah, a fire within Godzilla's spirit was lit again.
+				2. This was all new.
+				3. He had holes in his body, gashes, wounds, and the like but he could not help but feel a build-up within.
+					1. Sheer joy overflowed from him.
+				4. Godzilla began countering Kong by the second
+					2. He began to become more mobile, more fluid in his combat.
+					3. Kong was beginning to be on the back foot.
+						1. Each strike hit harder despite the wounds he inflicted.
+						2. Each movement of his opponent became harder to read.
+							1. Feints, dodges, and other unorthodox attacks that Godzilla was dumbfounded by mere moments ago was being used against him.
+						3. Kong realized that Godzilla was learning as the fight goes on.
+							1. And despite the compounding injuries, he kept going.
+								1. Sheer joy overflowed from within.
+		5. At the end, the one with the most endurance won.
+			1. After a particularly powerful jab to the stomach, Kong lurched over.
+			2. Godzilla stood atop Kong's broken body.
+			3. Unbroken and unbent, Kong waited for the final hit.
+			4. But it never came, Godzilla lent him a hand.
+				1. He saw the fire he had rarely seen in millions of years of life.
+					1. It reminded Godzilla of himself.
+					2. This fire never wavered, even in the face of defeat.
+					3. It harkened him back to a younger version of himself, alone and lost in the tundras of the North
+						1. His father was nowhere to be found, supposedly gone into the South to seek Southern Gojira.
+						2. He has not yet returned.
+					4. It brought him back to the countless battles across the eons
+					5. It brough him back to recent times, in 2019, to Ghidorah.
+				2. It wasn't just subordination that he saw in Kong's eyes.
+				3. It wasn't the cold, calculated malice in Ghidorah's eyes.
+				4. It wasn't the grace and dignity in Mothra's sapphire eyes that compelled him to make her remain by his side forever.
+				5. The vision before him was something achingly familiar.
+				6. 
+			5. Right then and there, amidst the blood, sweat, and destruction, Kong was recognized as Alpha Sovereign.
+				1. A new brotherhood would be formed, one born from a kindred conncetion.
+										
