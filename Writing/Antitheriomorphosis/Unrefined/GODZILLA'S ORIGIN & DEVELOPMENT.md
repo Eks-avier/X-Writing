@@ -3,15 +3,15 @@
 ### Early Years
 
 - Born to last breeding pair of Northern T. gojira approximately 250 million years ago
-- Mother died shortly after laying the egg , killed defending their cavern from MUTO attack
+- Mother died shortly after laying the egg, killed defending their cavern from MUTO attack
 - Inherited rare golden eyes from mother (unusual Northern trait, comparable to human redheads)
-- Raised solely by father (Dagon), who compressed traditional 15-year development timeline
-- Initially smaller than typical Northern hatchlings, creating personal insecurity
+- Raised solely by father (Dagon), who compressed traditional (human-equivalent) 15-year development timeline
+- Initially smaller than typical Northern hatchlings, worrying his father
 - Struggled with atomic breath development, requiring tail-step intervention technique
 
 ### Father's Disappearance
 
-- When Godzilla reached approximately age 10, Dagon journeyed south seeking other T. gojira
+- When Godzilla reached the human-equivalent age of 10, Dagon journeyed south seeking other T. gojira
 - Found only dead/infected Southern faction members being parasitized by MUTOs
 - Confronted MUTO Prime (Jinshin-Mushi) a.k.a “Mother Prime” and was defeated
 - Became incubator for parasites that would emerge in 2014
@@ -27,7 +27,7 @@
 
 ### The Truth Discovered
 
-- Only recently (post-Antitheriomorphosis) discovered Dagon's skeleton at MONARCH facility
+- Only recently (post-Antitheriomorphosis) discovered Dagon's skeleton at MONARCH facility during 2020
 - Learned his father had died protecting the species rather than abandoning him
 - This revelation fundamentally transformed his understanding of his life narrative
 - Reconciliation with father's memory deeply influenced current leadership approach
