@@ -68,7 +68,7 @@ Godzilla first developed the idea of Atomic Amplification post-fight with Kong. 
 							2. At half a year, he was back to normal
 							3. By the beginning of 2021, he expanded his senses even more
 								1. He became more precise in identifying types, sources, and radiation.
-		5. 
+		5. These issues were said to be inherenent li
 
 Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this “limitation” while training in various martial arts and finding his personal style.
 
