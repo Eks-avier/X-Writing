@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,10 +285,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md"
+                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Keystone Arc"
+              "title": "File properties for Atomic Amplification"
             }
           }
         ],
@@ -313,8 +313,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0922eb1f9b3eceb3",
+  "active": "2cb087a31580ed82",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
