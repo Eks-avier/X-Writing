@@ -1,0 +1,58 @@
+The Atomic Amplification is the first ability Godzilla developed post-Antitheriomorphosis. 
+
+It is inspired by two things:
+1. The way Anguirus uses his natural damage absorption ability to empower himself. 
+2. Kong's fighting style that closely resembles human martial arts. 
+
+Godzilla's goal here is to create a way for him to fully utilize the unique human body to his advantage. When Amplified, he receives a boost to his entire physical body. HIs strength goes up, his physical defense goes up, his senses are boosted beyond their typical levels, his reaction speed goes up, his agility and speed goes up considerably. This allows Godzilla to approach combat in an entirely new direction. It has been so enjoyable to him, in fact, that prior to the Xilien Invasion, he has barely used his Atomic Breath and Nuclear Pulse—instead opting to utilize Atomic Amplification on top of his newfound unarmed close combat skills, which he developed thanks to Kong.
+
+Atomic Amplification represents Godzilla's acceptance of the human body that he was unexpectedly forced into. It represents his growth as a character, from someone who relies on brute force and instinct to someone who integrates it with a more disciplined and precise approach. Atomic Amplification is the unification of his Titan and human self.
+
+Godzilla first developed the idea of Atomic Amplification post-fight with Kong. After being introduced to the idea of human martial arts from his then-opponent, he sought ways to integrate his atomic energy into his new fighting style. However, this was new territory for him. Godzilla's species were masters of projecting their atomic energies in the form of the Atomic Breath. This singular ability became their species' signature weapon—the power of the stars shot from their maws, annihilating everything in its wake. It is useful *as* a Titan, but as a human, it became too unwieldy for Godzilla. The human lungs and mouth were not the same. He couldn't control it anymore, not its range, its output, nor how it manifests—sometimes it's a mid-ranged cone and sometimes its the concentrated beam he has been used to for millions of years. It remains as destructive as it has always been, but its inconsistency made it a hazard for everything around him, including himself. Godzilla now has to think of a new way to fight in this human form, at least until he gains better control of his Atomic Breath (so he said to himself). 
+
+Finding a way to integrate atomic energy into a physical fighting style in an entirely new body proved to be incredibly difficult to visualize. While *Titanus gojira* have mastered utilizing their Atomic Breath, capable of adjusting its intensity, range, and size, they have little control of what happens to the energy *inside* their bodies and *after* they fired their devastating attack. In other words, they can only coalesce energy internally in preparation for the Atomic Breath while lacking a way to wield their atomic energy externally whatsoever. This profound lack of both advanced internal energy manipulation meant that he couldn't even direct the flow of atomic energy within his body unless it's for utilizing the atomic breath, much less find a way to empower himself using the energy pumping throughout his body. This limitation was said understood by their species as an inherent limitation of their control over atomic energy—a curious belief for the species most known to adapt and evolve to anything limitlessly (and now known in the present day to be capable of *dominating* **any** form of energy). For the first few months following his battle with Kong, he thought of many ways around this "limitation" while training in various martial arts and finding his personal style. 
+
+Eventually, his first breakthrough came from the one and only Anguirus, one of his oldest and most loyal friends. Anguirus is ability is simple, he absorbs damage from any source. It is the inherent ability of his species, which was known for their fierce, protective, and unwavering nature. Underneath this tough ability is the hidden option to utilize the absorbed damage to empower physical constitution, allowing Anguirus to use his opponent's momentum against them, literally. This incredible ability is often overlooked due to its lack of flashiness. However, to those who are aware of and know how it works, it is a formidable ability fit for one and only Stalwart Vanguard, whose hardiness could only be matched by his unfailing loyalty to his brother-in-arms the King of the Monsters. Godzilla, inspired by Anguirus' empowerment ability, finally developed his intuition for the Atomic Amplification. Instead of relying on the external energy absorbed from an opponent to empower one's physical capabilities, like Anguirus's ability, Godzilla would utilize his own internal energy to achieve the same result himself. In a sense, Atomic Amplification is an homage to his brother-in-arms, a callback to their enduring relationship made manifest in the form of Godzilla's most favorite thing to do: combat. A shame it ended up being as Anguirus at this point in time was beginnning to be blinded by jealousy towards Kong, mistakenly interpreting the development of Godzilla's newest ability as a sign of moving on from him. To Anguirus, it's Kong who was the inspiration to Godzilla's Atomic Amplification.
+
+Despite this intuition, the biggest problem has yet been conquered: internal energy manipulation. The King, never backing down from a challenge. So, he studied Anguirus' method of empowering himself via damage he absorbed. Luckily, he had multiple chances to observe due to his brother's increasingly volatile state, which he interpreted as a sign of agitation in human form. With his recently evolved energy sense after the events of 2019, he could now perceive a wider variety of energy types, allowing him to begin theorizing in his mind. While he knew that Anguirus was not known for his volatility, he did know that his best friend needed a way to vent himself of his distress. It's a funny parallel to Anguirus' ability, what he receives, he must eventually give back. Anguiurs would take in more missions, get himself hurt, become more reckless, and the like. Thanks to Monarch's drones, Godzilla was able to receive the footage which he used to study. However, he needed to actually *see* the energy flowing within Anguirus to learn it, so while the footage did help, he did want to eventually have a light-hearted spar with his best friend. Anguirus, of course, would gladly accept as he is so eager to be prove that he still has a place by Godzilla's side. Unfortunately *and* fortunately, the Stalwart Vanguard's increasingly unstable emotional state became the perfect way to test Godzilla's theories. His friend was willingly to take more hits and in return Godzilla got a vivid view of the energy that flowing within his friend's body. He and Anguirus would finish and he would return to Kong to further test his theories. Bit by bit, the problem was being conquered. Anguirus, however, was bit by bit cracking. This dance of theirs happened regularly.
+
+
+> You okay? You look like your boyfriend dumped you...
+
+> I don't understand, Nathan Draper. 
+
+> You know... your boyfriend... Godzilla?
+
+> A boy... friend?
+
+> Yeah, your lovey-dovey—oh forget it...
+
+> The Alpha Paramount and I are not in a romantical relationship, such a thing is a disgusting prospect and it is blasphemy against our millions of years of brotherhoo—
+
+> Okay! Okay! I get it! I get!
+
+>Geez... you really are as uptight as the others say...
+
+> And who said that?
+
+> No one...! No one you need to know...
+
+> I will know, Draper.
+
+> Uhm... uhm... okay... so, uh, you look like a little brother who's upset because he couldn't play with his older bro on the Playstation because he keeps playing with his new best friend.
+
+>What..?
+
+>For CHRIST'S SAKE—
+
+>Ah... I see now. How illuminating...
+
+>Wait, you do?! Oh gosh, I thought I have to explain what a Playstation is to you...
+
+>A new best friend... 
+
+> Yeah...?
+
+>I thank you, Nathan Draper... for the insight.
+
+>You're, uh, welcome? Please don't hunt down my friends...
