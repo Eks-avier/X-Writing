@@ -120,4 +120,7 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 			1. When he and Godzilla fought in 2022, Kong had done a little bit of exploring across the human world. 
 				1. His experience as a bipedal Titan helped make the transition to human form nearly effortless.
 				2. His only problem then was learning human speech and dealing with the perspective shift from being a giant monster to a tiny human.
-				3. Kong's "disappearance" alarmed many of the 
+				3. Kong's "disappearance" alarmed many of the Monarch operatives and scientists stationed at Skull Island. 
+					1. It was the most important concern, superseding even Skull Island's imminent sinking after one of Ghidorah's generated storms merged with the island's perpetual storm cell.
+					2. It became an ongoing mystery until Jia eventually revealed that Kong had left the island months ago, hitching a ride on one of Monarch's many vehicles with help from her and Dr. Ilene Andrews. 
+						1. Jia urged him to go and explore the world beyond, to finally escape this island that 
