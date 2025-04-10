@@ -111,4 +111,4 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 
 ## Observations
 
-1. 
+1.  Prior to finalizing 
