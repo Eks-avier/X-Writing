@@ -81,9 +81,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1744063430958,
-      "modifiedDate": 1744063430958,
-      "sizeInBytes": 5145,
+      "createdDate": 1744133424357,
+      "modifiedDate": 1744133424357,
+      "sizeInBytes": 4844,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07666666666666666,
@@ -817,6 +817,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743965836072,
+      "modifiedDate": 1743965836072,
+      "sizeInBytes": 33228,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -884,31 +909,6 @@
       "createdDate": 1743846352140,
       "modifiedDate": 1743846352140,
       "sizeInBytes": 4496,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743846388169,
-      "modifiedDate": 1743846388169,
-      "sizeInBytes": 19374,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1034,31 +1034,6 @@
       "createdDate": 1743679569935,
       "modifiedDate": 1743679569935,
       "sizeInBytes": 35838,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Godzilla, the King of the Monsters II.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743959940430,
-      "modifiedDate": 1743959940430,
-      "sizeInBytes": 14811,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1217,31 +1192,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/The Weakening of the Divine Mandate.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743971053922,
-      "modifiedDate": 1743971053922,
-      "sizeInBytes": 481,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1256,8 +1206,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1743846388160,
-      "modifiedDate": 1743846388160,
+      "createdDate": 1744134214982,
+      "modifiedDate": 1744134214982,
       "sizeInBytes": 5009,
       "sessionStart": {
         "noteCount": 0,
@@ -1309,6 +1259,31 @@
       "createdDate": 1743846388266,
       "modifiedDate": 1743846388266,
       "sizeInBytes": 4236,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Atomic Amplification.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744144873213,
+      "modifiedDate": 1744144873213,
+      "sizeInBytes": 8172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1381,9 +1356,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1743970018072,
-      "modifiedDate": 1743970018072,
-      "sizeInBytes": 7646,
+      "createdDate": 1744132639100,
+      "modifiedDate": 1744132639100,
+      "sizeInBytes": 7632,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1392,7 +1367,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Story Arcs/ BIOLLANTE BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN.md": {
+    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1409,6 +1384,31 @@
       "createdDate": 1744064508942,
       "modifiedDate": 1744064508942,
       "sizeInBytes": 22407,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744132355801,
+      "modifiedDate": 1744132355801,
+      "sizeInBytes": 4856,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2059,6 +2059,31 @@
       "createdDate": 1743846388426,
       "modifiedDate": 1743846388426,
       "sizeInBytes": 5180,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743971053922,
+      "modifiedDate": 1743971053922,
+      "sizeInBytes": 481,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2817,81 +2842,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Cultural Heritage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743846388762,
-      "modifiedDate": 1743846388762,
-      "sizeInBytes": 20444,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Core Identity.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743846388769,
-      "modifiedDate": 1743846388769,
-      "sizeInBytes": 15,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1743965836072,
-      "modifiedDate": 1743965836072,
-      "sizeInBytes": 33228,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3081,9 +3031,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1743965350934,
-      "modifiedDate": 1743965350934,
-      "sizeInBytes": 15725,
+      "createdDate": 1744144491524,
+      "modifiedDate": 1744144491524,
+      "sizeInBytes": 15709,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

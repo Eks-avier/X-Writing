@@ -245,7 +245,7 @@ These limitations create an intriguing duality - a being who can detect a single
 
 **Related Notes**:
 - [[Godzilla, the King of the Monsters]]
-- [[Godzilla - Energy Domination]]
+- [[Godzilla - Abilities and Energy Manipulation]]
 - [[Godzilla - Physical Capabilities and Combat]]
 - [[Godzilla - Personality and Relationships]]
 - [[Mothra, the Queen of the Monsters]]
