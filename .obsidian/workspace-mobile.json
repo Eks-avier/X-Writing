@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wardens - Human Identities"
+              "title": "Anguirus's Three Names"
             }
           }
         ],
@@ -139,7 +139,7 @@
         }
       },
       {
-        "id": "60e475d6d1f12de2",
+        "id": "5420de89275e9447",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -222,6 +222,7 @@
   },
   "active": "07db8c6ed1789a39",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
@@ -252,7 +253,6 @@
     "Tags/#atm+species+classification+ascendant_line",
     "Tags/#atm+species+titanus_gojira",
     "Writing/Antitheriomorphosis/Titanus Gojira.md",
-    "llm-instructions-2.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
     "Writing/Antitheriomorphosis/Characters/Titans",
