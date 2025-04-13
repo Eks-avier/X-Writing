@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md",
+                "file": "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Amplification"
+              "title": "The Weakening of the Divine Mandate"
             }
           },
           {
@@ -186,13 +186,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -315,8 +313,8 @@
   },
   "active": "2cb087a31580ed82",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Atomic Amplification.md",
+    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
