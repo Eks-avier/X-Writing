@@ -1,19 +1,19 @@
 ---
-title: "Universal Hierarchy of Priorities"
-parent: "[[Titanus Gojira]]"
-component_type: "society"
-component_category: "value_system"
+title: Universal Hierarchy of Priorities
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: society
+component_category: value_system
 related_components:
   - "[[Energy Communication]]"
   - "[[Factional Divisions]]"
   - "[[Northern Culture]]"
 manifestations:
-  - "Directive of Heaven"
-  - "Family Obligations"
-  - "Factional Loyalty"
-  - "Friendship Bonds"
-  - "Species Preservation"
-current_status: "Adapted in Godzilla's leadership"
+  - Directive of Heaven
+  - Family Obligations
+  - Factional Loyalty
+  - Friendship Bonds
+  - Species Preservation
+current_status: Adapted in Godzilla's leadership
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -221,4 +221,4 @@ Despite these significant modifications, the core hierarchical structure remains
 - [[Northern Culture]] - Most structured application of the hierarchy system
 - [[Southern Culture]] - Most adaptive approach to hierarchy implementation
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

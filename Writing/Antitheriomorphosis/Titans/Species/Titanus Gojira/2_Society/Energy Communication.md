@@ -1,18 +1,18 @@
 ---
-title: "Energy Communication"
-parent: "[[Titanus Gojira]]"
-component_type: "society"
-component_category: "communication"
+title: Energy Communication
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: society
+component_category: communication
 related_components:
   - "[[Domination of Energy]]"
   - "[[Dorsal Fin Structure]]"
   - "[[Factional Divisions]]"
 manifestations:
-  - "Energy Signatures"
-  - "Multi-dimensional Language"
-  - "Factional Dialects"
-  - "Knowledge Transmission"
-current_status: "Limited to Godzilla and Divine Moths"
+  - Energy Signatures
+  - Multi-dimensional Language
+  - Factional Dialects
+  - Knowledge Transmission
+current_status: Limited to Godzilla and Divine Moths
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -209,4 +209,4 @@ This persistence represents a crucial connection to their prehistoric existenceâ
 - [[Factional Divisions]] - Source of dialectical variations in communication style
 - [[Universal Hierarchy of Priorities]] - Value system communicated through energy patterns
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

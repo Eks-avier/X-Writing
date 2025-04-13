@@ -1,18 +1,18 @@
 ---
-title: "Limitless Adaptation"
-parent: "[[Titanus Gojira]]"
-component_type: "biology"
-component_category: "ability"
+title: Limitless Adaptation
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: biology
+component_category: ability
 related_components:
   - "[[Domination of Energy]]"
   - "[[Regenerative Systems]]"
   - "[[Physical Characteristics]]"
 manifestations:
-  - "Cellular Reprogramming"
-  - "Tissue Transmutation"
-  - "Neural Plasticity"
-  - "Challenge Response"
-current_status: "Active in Godzilla"
+  - Cellular Reprogramming
+  - Tissue Transmutation
+  - Neural Plasticity
+  - Challenge Response
+current_status: Active in Godzilla
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -125,4 +125,4 @@ His physical form represents not inherited traits but the cumulative result of i
 - [[Physical Characteristics]] - Current form represents cumulative adaptations over millions of years
 - [[Species Decline]] - Despite this ability, specialized threats eventually overwhelmed adaptation capacity
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

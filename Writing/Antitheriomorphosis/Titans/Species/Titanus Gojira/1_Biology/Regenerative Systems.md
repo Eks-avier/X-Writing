@@ -1,19 +1,19 @@
 ---
-title: "Regenerative Systems"
-parent: "[[Titanus Gojira]]"
-component_type: "biology"
-component_category: "physiological"
+title: Regenerative Systems
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: biology
+component_category: physiological
 related_components:
   - "[[Limitless Adaptation]]"
   - "[[Domination of Energy]]"
   - "[[Physical Characteristics]]"
 manifestations:
-  - "Cellular Reconstruction"
-  - "Adaptive Healing"
-  - "Energy Integration"
-  - "Scar-Free Restoration"
-  - "Continuous Renewal"
-current_status: "Active in remaining specimen"
+  - Cellular Reconstruction
+  - Adaptive Healing
+  - Energy Integration
+  - Scar-Free Restoration
+  - Continuous Renewal
+current_status: Active in remaining specimen
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -162,4 +162,4 @@ These advantages created a species whose members measured existence in geologica
 - [[Physical Characteristics]] - Perfect condition maintained through continuous regeneration
 - [[Reproductive Biology]] - Reduced reproductive pressure due to extended individual lifespans
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

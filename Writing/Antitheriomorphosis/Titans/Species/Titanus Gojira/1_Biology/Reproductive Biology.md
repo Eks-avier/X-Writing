@@ -1,18 +1,18 @@
 ---
-title: "Reproductive Biology"
-parent: "[[Titanus Gojira]]"
-component_type: "biology"
-component_category: "physiological"
+title: Reproductive Biology
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: biology
+component_category: physiological
 related_components:
   - "[[Dorsal Fin Structure]]"
   - "[[Energy Communication]]"
   - "[[Factional Divisions]]"
 manifestations:
-  - "Monogamous Pair Bonding"
-  - "Extended Gestation"
-  - "Energy Transfer Development"
-  - "Interfactional Reproduction"
-current_status: "Non-viable with single remaining member"
+  - Monogamous Pair Bonding
+  - Extended Gestation
+  - Energy Transfer Development
+  - Interfactional Reproduction
+current_status: Non-viable with single remaining member
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -120,4 +120,4 @@ These interfactional pairings helped maintain genetic diversity while preserving
 - [[Factional Divisions]] - Regional variations in reproductive practices
 - [[Species Decline]] - How specialized predation targeted reproductive cycle
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

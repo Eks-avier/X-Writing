@@ -167,695 +167,6 @@
         "nonWhitespaceCharacterCount": 4253
       }
     },
-    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1231,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.1033333333333335,
-      "characterCount": 10315,
-      "nonWhitespaceCharacterCount": 8915,
-      "readingTimeInMinutes": 4.645283018867924,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744059555465,
-      "modifiedDate": 1744059724751,
-      "sizeInBytes": 10335,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.1033333333333335,
-        "wordCount": 1231,
-        "characterCount": 10315,
-        "nonWhitespaceCharacterCount": 8915
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1224,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.08,
-      "characterCount": 9688,
-      "nonWhitespaceCharacterCount": 8318,
-      "readingTimeInMinutes": 4.618867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743959212150,
-      "modifiedDate": 1743959256422,
-      "sizeInBytes": 9843,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.08,
-        "wordCount": 1224,
-        "characterCount": 9688,
-        "nonWhitespaceCharacterCount": 8318
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 874,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9133333333333336,
-      "characterCount": 7037,
-      "nonWhitespaceCharacterCount": 5964,
-      "readingTimeInMinutes": 3.29811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743505112324,
-      "modifiedDate": 1743505132727,
-      "sizeInBytes": 7041,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.9133333333333336,
-        "wordCount": 874,
-        "characterCount": 7037,
-        "nonWhitespaceCharacterCount": 5964
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 562,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.8733333333333333,
-      "characterCount": 5888,
-      "nonWhitespaceCharacterCount": 4697,
-      "readingTimeInMinutes": 2.120754716981132,
-      "linkCount": 5,
-      "embedCount": 9,
-      "aliases": null,
-      "createdDate": 1743664862702,
-      "modifiedDate": 1743766406324,
-      "sizeInBytes": 5896,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8733333333333333,
-        "wordCount": 562,
-        "characterCount": 5888,
-        "nonWhitespaceCharacterCount": 4697
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1460,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.866666666666666,
-      "characterCount": 12209,
-      "nonWhitespaceCharacterCount": 10587,
-      "readingTimeInMinutes": 5.509433962264151,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665889602,
-      "modifiedDate": 1743846388221,
-      "sizeInBytes": 12741,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.866666666666666,
-        "wordCount": 1460,
-        "characterCount": 12209,
-        "nonWhitespaceCharacterCount": 10587
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Current Status",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "historical",
-        "component_category": "extinction_status",
-        "species_status": "Near-extinct",
-        "extinction_cause": "Specialized MUTO parasitism",
-        "extinction_timeframe": "Progressive decline over millions of years",
-        "related_documents": [
-          "[[Godzilla Legacy]]",
-          "[[Titanus Zilla Relationship]]",
-          "[[Decline and Extinction]]"
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/history/extinction"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Universal Hierarchy of Priorities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1861,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.203333333333333,
-      "characterCount": 16788,
-      "nonWhitespaceCharacterCount": 14267,
-      "readingTimeInMinutes": 7.022641509433963,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743767185871,
-      "modifiedDate": 1743767200096,
-      "sizeInBytes": 17358,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.203333333333333,
-        "wordCount": 1861,
-        "characterCount": 16788,
-        "nonWhitespaceCharacterCount": 14267
-      },
-      "frontmatter": {
-        "title": "Universal Hierarchy of Priorities",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "society",
-        "component_category": "value_system",
-        "related_components": [
-          "[[Energy Communication]]",
-          "[[Factional Divisions]]",
-          "[[Northern Culture]]"
-        ],
-        "manifestations": [
-          "Directive of Heaven",
-          "Family Obligations",
-          "Factional Loyalty",
-          "Friendship Bonds",
-          "Species Preservation"
-        ],
-        "current_status": "Adapted in Godzilla's leadership",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/society/values"
-        ],
-        "created": "2025-04-07",
-        "last_modified": "2025-04-07"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Faction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1726,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.753333333333333,
-      "characterCount": 15149,
-      "nonWhitespaceCharacterCount": 13182,
-      "readingTimeInMinutes": 6.513207547169811,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665663047,
-      "modifiedDate": 1743682518924,
-      "sizeInBytes": 16170,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.753333333333333,
-        "wordCount": 1726,
-        "characterCount": 15149,
-        "nonWhitespaceCharacterCount": 13182
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Northern Faction",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "faction",
-        "component_category": "regional_variation",
-        "faction_name": "Northern Gojira",
-        "territory": "Northern hemisphere polar regions extending into boreal forests and cold oceans",
-        "extinction_timeframe": "Latest surviving faction",
-        "distinctive_traits": [
-          "White dorsal fins with crystalline structure",
-          "Cooler-toned scales with silvery undertones",
-          "Broader build with enhanced insulation",
-          "Superior energy conservation",
-          "Strict hierarchical organization"
-        ],
-        "related_documents": [
-          {
-            "[[Northern Culture]]": "Cultural practices and social structures"
-          },
-          {
-            "[[Southern Faction]]": "Contrasting adaptations and philosophy"
-          },
-          {
-            "[[Eastern Faction]]": "Historical territorial disputes"
-          },
-          {
-            "[[Western Faction]]": "Occasional cooperative hunting"
-          },
-          {
-            "[[Godzilla]]": "Last surviving member"
-          }
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/faction/northern"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Culture.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4324,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.413333333333334,
-      "characterCount": 37263,
-      "nonWhitespaceCharacterCount": 32449,
-      "readingTimeInMinutes": 16.316981132075473,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743669559315,
-      "modifiedDate": 1743846388237,
-      "sizeInBytes": 38015,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 14.413333333333334,
-        "wordCount": 4324,
-        "characterCount": 37263,
-        "nonWhitespaceCharacterCount": 32449
-      },
-      "frontmatter": {
-        "title": "Northern Titanus gojira: Cultural Profile",
-        "parent": "[[Titanus Gojira Species Profile]]",
-        "component_type": "culture",
-        "component_category": "titan_culture",
-        "related_entities": [
-          "[[Godzilla, the King of the Monsters]]",
-          "[[Dagon, the Last Northern Patriarch]]"
-        ],
-        "faction": "Northern",
-        "territory": "Northern Hemisphere",
-        "cultural_emphasis": "Family bonds",
-        "distinctive_traits": [
-          "Whiter dorsal fins",
-          "Cooler-toned scales",
-          "Cold environment adaptation",
-          "Familial prioritization"
-        ],
-        "tags": [
-          "atm",
-          "atm/culture/northern_gojira",
-          "atm/titan/northern_faction"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Energy Communication.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1537,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.123333333333333,
-      "characterCount": 14615,
-      "nonWhitespaceCharacterCount": 12386,
-      "readingTimeInMinutes": 5.8,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743767141898,
-      "modifiedDate": 1743767157421,
-      "sizeInBytes": 15180,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.123333333333333,
-        "wordCount": 1537,
-        "characterCount": 14615,
-        "nonWhitespaceCharacterCount": 12386
-      },
-      "frontmatter": {
-        "title": "Energy Communication",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "society",
-        "component_category": "communication",
-        "related_components": [
-          "[[Domination of Energy]]",
-          "[[Dorsal Fin Structure]]",
-          "[[Factional Divisions]]"
-        ],
-        "manifestations": [
-          "Energy Signatures",
-          "Multi-dimensional Language",
-          "Factional Dialects",
-          "Knowledge Transmission"
-        ],
-        "current_status": "Limited to Godzilla and Divine Moths",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/society/communication"
-        ],
-        "created": "2025-04-07",
-        "last_modified": "2025-04-07"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 860,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8666666666666667,
-      "characterCount": 8108,
-      "nonWhitespaceCharacterCount": 6855,
-      "readingTimeInMinutes": 3.2452830188679247,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665337416,
-      "modifiedDate": 1743700695712,
-      "sizeInBytes": 8632,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8666666666666667,
-        "wordCount": 860,
-        "characterCount": 8108,
-        "nonWhitespaceCharacterCount": 6855
-      },
-      "frontmatter": {
-        "title": "Limitless Adaptation",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "ability",
-        "related_components": [
-          "[[Domination of Energy]]",
-          "[[Regenerative Systems]]",
-          "[[Physical Characteristics]]"
-        ],
-        "manifestations": [
-          "Cellular Reprogramming",
-          "Tissue Transmutation",
-          "Neural Plasticity",
-          "Challenge Response"
-        ],
-        "current_status": "Active in Godzilla",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/ability"
-        ],
-        "created": "2025-04-05",
-        "last_modified": "2025-04-05"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Reproductive Biology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 718,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3933333333333335,
-      "characterCount": 7219,
-      "nonWhitespaceCharacterCount": 6104,
-      "readingTimeInMinutes": 2.709433962264151,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743765662673,
-      "modifiedDate": 1743765900709,
-      "sizeInBytes": 7789,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3933333333333335,
-        "wordCount": 718,
-        "characterCount": 7219,
-        "nonWhitespaceCharacterCount": 6104
-      },
-      "frontmatter": {
-        "title": "Reproductive Biology",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "physiological",
-        "related_components": [
-          "[[Dorsal Fin Structure]]",
-          "[[Energy Communication]]",
-          "[[Factional Divisions]]"
-        ],
-        "manifestations": [
-          "Monogamous Pair Bonding",
-          "Extended Gestation",
-          "Energy Transfer Development",
-          "Interfactional Reproduction"
-        ],
-        "current_status": "Non-viable with single remaining member",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/physiological"
-        ],
-        "created": "2025-04-07",
-        "last_modified": "2025-04-07"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Regenerative Systems.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 909,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.03,
-      "characterCount": 8902,
-      "nonWhitespaceCharacterCount": 7474,
-      "readingTimeInMinutes": 3.430188679245283,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743708663081,
-      "modifiedDate": 1743765153579,
-      "sizeInBytes": 9476,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.03,
-        "wordCount": 909,
-        "characterCount": 8902,
-        "nonWhitespaceCharacterCount": 7474
-      },
-      "frontmatter": {
-        "title": "Regenerative Systems",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "physiological",
-        "related_components": [
-          "[[Limitless Adaptation]]",
-          "[[Domination of Energy]]",
-          "[[Physical Characteristics]]"
-        ],
-        "manifestations": [
-          "Cellular Reconstruction",
-          "Adaptive Healing",
-          "Energy Integration",
-          "Scar-Free Restoration",
-          "Continuous Renewal"
-        ],
-        "current_status": "Active in remaining specimen",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/physiological"
-        ],
-        "created": "2025-04-07",
-        "last_modified": "2025-04-07"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Physical Characteristics.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1082,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.6066666666666665,
-      "characterCount": 10780,
-      "nonWhitespaceCharacterCount": 9290,
-      "readingTimeInMinutes": 4.083018867924529,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743703457248,
-      "modifiedDate": 1743768537238,
-      "sizeInBytes": 11325,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.6066666666666665,
-        "wordCount": 1082,
-        "characterCount": 10780,
-        "nonWhitespaceCharacterCount": 9290
-      },
-      "frontmatter": {
-        "title": "Physical Characteristics",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "physiological",
-        "related_components": [
-          "[[Limitless Adaptation]]",
-          "[[Dorsal Fin Structure]]",
-          "[[Regenerative Systems]]"
-        ],
-        "manifestations": [
-          "Dermal Armor",
-          "Radiation Processing Organs",
-          "Muscular Architecture",
-          "Sensory Systems",
-          "Factional Variations"
-        ],
-        "current_status": "Preserved in human form",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/physiological"
-        ],
-        "created": "2025-04-04",
-        "last_modified": "2025-04-04"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 808,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.6933333333333334,
-      "characterCount": 7898,
-      "nonWhitespaceCharacterCount": 6630,
-      "readingTimeInMinutes": 3.049056603773585,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743702945431,
-      "modifiedDate": 1743766406322,
-      "sizeInBytes": 7908,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6933333333333334,
-        "wordCount": 808,
-        "characterCount": 7898,
-        "nonWhitespaceCharacterCount": 6630
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 978,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.26,
-      "characterCount": 10194,
-      "nonWhitespaceCharacterCount": 8587,
-      "readingTimeInMinutes": 3.690566037735849,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743703457248,
-      "modifiedDate": 1743766406320,
-      "sizeInBytes": 10198,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.26,
-        "wordCount": 978,
-        "characterCount": 10194,
-        "nonWhitespaceCharacterCount": 8587
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 965,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.216666666666667,
-      "characterCount": 8860,
-      "nonWhitespaceCharacterCount": 7396,
-      "readingTimeInMinutes": 3.641509433962264,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743699104376,
-      "modifiedDate": 1743846388251,
-      "sizeInBytes": 9386,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.216666666666667,
-        "wordCount": 965,
-        "characterCount": 8860,
-        "nonWhitespaceCharacterCount": 7396
-      },
-      "frontmatter": {
-        "title": "Domination of Energy",
-        "parent": "[[Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "ability",
-        "related_components": [
-          "[[Limitless Adaptation]]",
-          "[[Dorsal Fin Structure]]",
-          "[[Atomic Projection]]"
-        ],
-        "manifestations": [
-          "Energy Sensing",
-          "Absorption",
-          "Conversion",
-          "Projection",
-          "Manipulation"
-        ],
-        "current_status": "Fully realized only in Godzilla",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/ability"
-        ],
-        "created": "2025-04-05",
-        "last_modified": "2025-04-05"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1209,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.03,
-      "characterCount": 9575,
-      "nonWhitespaceCharacterCount": 8185,
-      "readingTimeInMinutes": 4.562264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055072,
-      "modifiedDate": 1744580063916,
-      "sizeInBytes": 9641,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.03,
-        "wordCount": 1209,
-        "characterCount": 9572,
-        "nonWhitespaceCharacterCount": 8182
-      }
-    },
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5214,6 +4525,456 @@
         "wordCount": 54,
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1209,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.03,
+      "characterCount": 9570,
+      "nonWhitespaceCharacterCount": 8180,
+      "readingTimeInMinutes": 4.562264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055072,
+      "modifiedDate": 1744580246769,
+      "sizeInBytes": 9636,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 874,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9133333333333336,
+      "characterCount": 7037,
+      "nonWhitespaceCharacterCount": 5964,
+      "readingTimeInMinutes": 3.29811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743505112324,
+      "modifiedDate": 1743505132727,
+      "sizeInBytes": 7041,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.076666666666667,
+      "characterCount": 9685,
+      "nonWhitespaceCharacterCount": 8315,
+      "readingTimeInMinutes": 4.615094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743959212150,
+      "modifiedDate": 1744580325683,
+      "sizeInBytes": 9840,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1231,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.1033333333333335,
+      "characterCount": 10315,
+      "nonWhitespaceCharacterCount": 8915,
+      "readingTimeInMinutes": 4.645283018867924,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744059555465,
+      "modifiedDate": 1744059724751,
+      "sizeInBytes": 10335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 562,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8733333333333333,
+      "characterCount": 5888,
+      "nonWhitespaceCharacterCount": 4697,
+      "readingTimeInMinutes": 2.120754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743664862702,
+      "modifiedDate": 1743766406324,
+      "sizeInBytes": 5896,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1005,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.35,
+      "characterCount": 9422,
+      "nonWhitespaceCharacterCount": 7884,
+      "readingTimeInMinutes": 3.792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743699104376,
+      "modifiedDate": 1744580241218,
+      "sizeInBytes": 9444,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 978,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.26,
+      "characterCount": 10232,
+      "nonWhitespaceCharacterCount": 8625,
+      "readingTimeInMinutes": 3.690566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743703457248,
+      "modifiedDate": 1744580241310,
+      "sizeInBytes": 10236,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 808,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.6933333333333334,
+      "characterCount": 7936,
+      "nonWhitespaceCharacterCount": 6668,
+      "readingTimeInMinutes": 3.049056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743702945431,
+      "modifiedDate": 1744580241420,
+      "sizeInBytes": 7946,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Physical Characteristics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.75,
+      "characterCount": 11392,
+      "nonWhitespaceCharacterCount": 9825,
+      "readingTimeInMinutes": 4.245283018867925,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743703457248,
+      "modifiedDate": 1744580241487,
+      "sizeInBytes": 11400,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Regenerative Systems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 951,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.17,
+      "characterCount": 9520,
+      "nonWhitespaceCharacterCount": 8016,
+      "readingTimeInMinutes": 3.5886792452830187,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743708663081,
+      "modifiedDate": 1744580241526,
+      "sizeInBytes": 9534,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Reproductive Biology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 761,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5366666666666666,
+      "characterCount": 7837,
+      "nonWhitespaceCharacterCount": 6648,
+      "readingTimeInMinutes": 2.871698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743765662673,
+      "modifiedDate": 1744580241570,
+      "sizeInBytes": 7849,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 899,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9966666666666666,
+      "characterCount": 8680,
+      "nonWhitespaceCharacterCount": 7357,
+      "readingTimeInMinutes": 3.392452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665337416,
+      "modifiedDate": 1744580241451,
+      "sizeInBytes": 8692,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Energy Communication.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1580,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.266666666666667,
+      "characterCount": 15218,
+      "nonWhitespaceCharacterCount": 12915,
+      "readingTimeInMinutes": 5.962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743767141898,
+      "modifiedDate": 1744580241602,
+      "sizeInBytes": 15240,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Culture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4378,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.593333333333334,
+      "characterCount": 37881,
+      "nonWhitespaceCharacterCount": 32985,
+      "readingTimeInMinutes": 16.52075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743669559315,
+      "modifiedDate": 1743846388237,
+      "sizeInBytes": 38015,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Faction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1816,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.053333333333334,
+      "characterCount": 16156,
+      "nonWhitespaceCharacterCount": 14059,
+      "readingTimeInMinutes": 6.8528301886792455,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665663047,
+      "modifiedDate": 1743682518924,
+      "sizeInBytes": 16170,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1498,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.993333333333333,
+      "characterCount": 12715,
+      "nonWhitespaceCharacterCount": 11036,
+      "readingTimeInMinutes": 5.652830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665889602,
+      "modifiedDate": 1743846388221,
+      "sizeInBytes": 12741,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Universal Hierarchy of Priorities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1905,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.35,
+      "characterCount": 17400,
+      "nonWhitespaceCharacterCount": 14801,
+      "readingTimeInMinutes": 7.188679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743767185871,
+      "modifiedDate": 1744580241650,
+      "sizeInBytes": 17416,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/The Warden Tier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2684,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.946666666666667,
+      "characterCount": 20872,
+      "nonWhitespaceCharacterCount": 17824,
+      "readingTimeInMinutes": 10.128301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744580328326,
+      "modifiedDate": 1744580369791,
+      "sizeInBytes": 20963,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

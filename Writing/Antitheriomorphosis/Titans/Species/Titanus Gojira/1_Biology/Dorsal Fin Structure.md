@@ -180,4 +180,4 @@ Following Antitheriomorphosis, the dorsal fin structures remain part of Godzilla
 - [[Physical Characteristics]] - Integrated component of overall defensive and energy systems
 - [[Atomic Projection]] - Primary channeling system for energy release applications
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

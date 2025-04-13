@@ -86,7 +86,7 @@
 - **Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
 - **Command Rights:** Direct authority over all Titans within their cardinal territories
 
-### Intercardinal Wardens
+### Intercar Wardens
 
 - **Titan Title:** Warden of the [Intercardinal Direction]
 - **Human Designation:** Varies by individual

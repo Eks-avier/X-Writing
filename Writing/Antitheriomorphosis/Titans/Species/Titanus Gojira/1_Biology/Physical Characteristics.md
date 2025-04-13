@@ -1,7 +1,6 @@
 ---
-
 title: Physical Characteristics
-parent: "[[Titanus Gojira]]"
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
 component_type: biology
 component_category: physiological
 related_components:
@@ -179,4 +178,4 @@ Following Antitheriomorphosis, these physical characteristics manifest in modifi
 - [[Regenerative Systems]] - Maintains physical integrity through continuous renewal
 - [[Reproductive Biology]] - Physical characteristics optimized for species continuation
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

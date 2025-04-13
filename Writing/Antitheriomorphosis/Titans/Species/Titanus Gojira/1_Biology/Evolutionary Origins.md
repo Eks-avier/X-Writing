@@ -127,4 +127,4 @@ Once the species established its core abilities, particularly Limitless Adaptati
 - [[Physical Characteristics]] - Body structure evolved to maximize radiation processing efficiency
 - [[Dorsal Fin Structure]] - Began as simple thermal regulators before specializing as energy collectors
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])

@@ -41,7 +41,7 @@ A descendant of the [[Northerners]], one of the four great factions of _Titanus 
 ### Titan Form
 
 > [!info] Titan Identity
-> - **Species:** _[[Titanus Gojira]]_
+> - **Species:** _[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]_
 > - **Height:** 120 meters (394 feet)
 > - **Weight:** 100,000 metric tonnes
 > - **Status:** Dormant (due to [[Antitheriomorphosis]])

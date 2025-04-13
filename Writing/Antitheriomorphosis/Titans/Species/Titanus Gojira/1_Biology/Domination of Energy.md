@@ -1,19 +1,19 @@
 ---
-title: "Domination of Energy"
-parent: "[[Titanus Gojira]]"
-component_type: "biology"
-component_category: "ability"
+title: Domination of Energy
+parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
+component_type: biology
+component_category: ability
 related_components:
   - "[[Limitless Adaptation]]"
   - "[[Dorsal Fin Structure]]"
   - "[[Atomic Projection]]"
 manifestations:
-  - "Energy Sensing"
-  - "Absorption"
-  - "Conversion"
-  - "Projection"
-  - "Manipulation"
-current_status: "Fully realized only in Godzilla"
+  - Energy Sensing
+  - Absorption
+  - Conversion
+  - Projection
+  - Manipulation
+current_status: Fully realized only in Godzilla
 tags:
   - atm
   - atm/species/titanus_gojira
@@ -156,4 +156,4 @@ However, this state currently remains unsustainable, creating a temporal limitat
 - [[Atomic Projection]] - Most common application of the Energy Domination ability
 - [[The Zone]] - Mental state allowing perfect energy perception and control
 
-[Return to Hub Document]([[Titanus Gojira]])
+[Return to Hub Document]([[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]])
