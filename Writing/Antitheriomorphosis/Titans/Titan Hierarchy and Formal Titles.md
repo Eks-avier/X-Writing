@@ -8,7 +8,7 @@
 - **Human Designation:** King of the Monsters
 - **Form of Direct Address:** “Alpha” (by Titans), “Sir” (by humans)
 - **Authority Scope:** Supreme authority over all Titans and final arbiter in all Titan matters
-- **Symbolic Regalia:** Central throne in Monster Island Palace, obsidian crown incorporating dorsal fins representing the four factions of *Titanus gojira*
+- **Symbolic Regalia:** Central throne in Monster Island Palace, obsidian crown incorporating bones and dorsal fins of the four factions of *Titanus gojira*
 - **Recognition Protocol:** All Titans instinctively lower their heads in his presence; speaking is permitted only after he acknowledges them
 - **Command Rights:** Can issue direct commands to any Titan regardless of rank or territory
 
@@ -31,7 +31,7 @@
 - **Human Designation:** King of the Hollow Earth
 - **Form of Direct Address:** “Sovereign” (by Titans), “Lord Kong/Kevin” (by humans)
 - **Authority Scope:** Complete governance of Hollow Earth territories and species
-- **Special Authority:** Can requisition surface Wardens with Godzilla's permission; independent governance of Hollow Earth
+- **Special Authority:** Can requisition surface Wardens with Godzilla's permission;  independent governance of Hollow Earth
 - **Symbolic Regalia:** Throne incorporating elements of Iwi design and his ancestral legacy, crown built from parental remains
 - **Recognition Protocol:** Hollow Earth Titans strike chest once as sign of respect; surface Titans acknowledge with head nod
 - **Command Rights:** Full command over Hollow Earth species; limited authority over surface Titans when in Hollow Earth
@@ -86,7 +86,7 @@
 - **Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
 - **Command Rights:** Direct authority over all Titans within their cardinal territories
 
-### Intercar Wardens
+### Intercardinal Wardens
 
 - **Titan Title:** Warden of the [Intercardinal Direction]
 - **Human Designation:** Varies by individual

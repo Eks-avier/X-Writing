@@ -1,4 +1,4 @@
-# The Wardens: Complete Character Compendium
+# The Wardens of the Surface
 
 ## Cardinal Wardens
 
@@ -10,13 +10,13 @@
 - Represents the fundamental nature of ice—crystalline, direct, and uncompromising
 
 **Human Identity:**
-- **Name:** Scylla Frost (officially), often just "Scylla"
+- **Name:** Scylla Frost (officially), often just “Scylla”
 - **Origin:** Kept her original name, added surname for documentation
-- **Reasoning:** "Why change what already works? Humans name their daughters stranger things."
-- **Madison's Input:** Suggested "Selene" but was politely rebuffed
-- **Documentation:** Official Monarch records list her as "S. Frost" in most contexts
+- **Reasoning:** “Why change what already works? Humans name their daughters stranger things.”
+- **Madison's Input:** Suggested “Selene” but was politely rebuffed
+- **Documentation:** Official Monarch records list her as “S. Frost” in most contexts
 - **Approach:** Uses name functionally, sees no need for disguise
-- **Typical Response:** "If someone realizes I'm named after myself, they're already aware of too much."
+- **Typical Response:** “If someone realizes I'm named after myself, they're already aware of too much.”
 
 **Physical Appearance:**
 - White flowing hair that subtly glimmers with embedded ice crystals, creating a star-like effect
@@ -31,9 +31,9 @@
 - The archetypal ice queen—cold, blunt, and efficient in all interactions
 - Cuts through pretense with precision that rivals her ice formations
 - Provides clarity when needed, regardless of diplomatic consequences
-- Appears perpetually overdressed in casual settings but insists she's "just wearing a plain sundress"
+- Appears perpetually overdressed in casual settings but insists she's “just wearing a plain sundress”
 - Takes immaculate care of her skin, avoiding direct sunlight whenever possible
-- Secretly enjoys the "serpent club's" attempts to annoy her, though she'd never admit it
+- Secretly enjoys the “serpent club's” attempts to annoy her, though she'd never admit it
 - Ranks surprisingly high (3rd) in the unofficial Titan power hierarchy, much to Rodan's constant irritation
 
 **Powers and Abilities:**
@@ -53,7 +53,7 @@
 
 **Relationships and Dynamics:**
 - Maintains ongoing rivalry with Rodan, who resents her higher power ranking
-- Perpetual target of the self-proclaimed "serpent club's" teasing efforts
+- Perpetual target of the self-proclaimed “serpent club's” teasing efforts
 - Surprisingly respected by Godzilla for her directness and clarity
 - Unintentionally parallels Mothra in her light-refracting aesthetic, fueling Rodan's conspiracy theories
 - Secretly enjoys Mothra's compliments about her hair's star-like quality
@@ -68,12 +68,12 @@
 **Human Identity:**
 - **Name:** Nathan Winters
 - **Origin:** Self-created from (N)orth Levi(athan)
-- **Surname Addition:** "Winters" reflects his Arctic domain
+- **Surname Addition:** “Winters” reflects his Arctic domain
 - **Madison's Contribution:** Minor tweaking of his self-selected name
-- **Special Project:** Founder of "The Nathan Club" with Nathan Draper (Psionic Division) and Nathan Lind (Hollow Earth Outpost)
+- **Special Project:** Founder of “The Nathan Club” with Nathan Draper (Psionic Division) and Nathan Lind (Hollow Earth Outpost)
 - **Club Activities:** Etymology discussions, professional observations, competitive game nights
 - **Pride Point:** Takes immense pride in having figured out human naming conventions independently
-- **Notable Quote:** "The name was obvious. I am surprised others required assistance."
+- **Notable Quote:** “The name was obvious. I am surprised others required assistance.”
 
 **Physical Appearance:**
 - Silver-white hair that changes length frequently—sometimes shoulder-length and tied, sometimes short and slicked back
@@ -86,9 +86,9 @@
 
 **Personality and Expression:**
 - Presents an icy exterior that conceals a surprisingly warm, playful personality
-- As Rodan accurately observed: "He looks like an asshole but is actually a softie"
+- As Rodan accurately observed: “He looks like an asshole but is actually a softie”
 - Maintains formal dignity with strangers but becomes playfully goofy with trusted companions
-- Founded the "Nathan Club" with others sharing his name, displaying his whimsical side
+- Founded the “Nathan Club” with others sharing his name, displaying his whimsical side
 - Takes immense pride in having selected his own human name without assistance
 - Constantly changes his approach, never using the same method twice
 
@@ -109,24 +109,24 @@
 
 **Relationships and Dynamics:**
 - Entertainment partner with Bakunawa, organizing social events for Warden gatherings
-- Core member of the "serpent club" despite his higher Cardinal status
-- Takes his "Nathan Club" leadership responsibilities surprisingly seriously
+- Core member of the “serpent club” despite his higher Cardinal status
+- Takes his “Nathan Club” leadership responsibilities surprisingly seriously
 - Frequently sides with other hydrokinetic Wardens over Scylla despite their shared Cardinal status
 - Often carries Behemoth when aerial transportation is needed
 
 ### Bram Sylvan - Lord Warden of the West
 
 **Domain and Authority:**
-- Oversees the Americas bordering Pacific and Atlantic 
+- Oversees the Americas bordering Pacific and Atlantic
 - Monitors and maintains forest ecosystems and plant life
 - Represents the nurturing aspect of nature—quiet strength that sustains rather than dominates
 
 **Human Identity:**
 - **Name:** Bram Sylvan
-- **Origin:** "Bram" (shortened from "Abraham," meaning "father of multitudes")
-- **Surname:** "Sylvan" (relating to woods) reflects his domain and abilities
+- **Origin:** “Bram” (shortened from “Abraham,” meaning “father of multitudes”)
+- **Surname:** “Sylvan” (relating to woods) reflects his domain and abilities
 - **Connection:** Name suggests ancient wisdom and natural authority
-- **Madison's Notes:** "He wanted something that sounded like a wise forest steward"
+- **Madison's Notes:** “He wanted something that sounded like a wise forest steward”
 - **Usage Pattern:** Enjoys using his human name, finds it appropriately dignified
 - **Special Touch:** Signs conservation documents with a small leaf symbol beside his name
 
@@ -137,7 +137,7 @@
 - Large, burly build with natural body hair
 - Prefers loose-fitting, practical clothes that provide coverage
 - Often appears soiled from gardening but remains immaculately clean when on duty
-- Carries a daily "fleur du jour" in a special pocket—a different flower or plant each day
+- Carries a daily “fleur du jour” in a special pocket—a different flower or plant each day
 - Tiny plants occasionally sprout from his hair or clothing when he's content
 
 **Personality and Expression:**
@@ -168,7 +168,7 @@
 - Mentor figure to Amhuluk, sharing plant knowledge with the younger Warden
 - Often carried by hydrokinetics when flight is needed
 - His gardens serve as neutral gathering places where hierarchical tensions diminish
-- His "fleur du jour" system has become a communication method recognized by all Titans
+- His “fleur du jour” system has become a communication method recognized by all Titans
 
 ### King Caesar - Lord Warden of the East (Dormant)
 
@@ -179,7 +179,7 @@
 
 **Human Identity:**
 - **Name:** Kai Shisa
-- **Origin:** "Kai" (sea in Japanese), "Shisa" (Okinawan lion-dog guardian statue)
+- **Origin:** “Kai” (sea in Japanese), “Shisa” (Okinawan lion-dog guardian statue)
 - **Selection Process:** Name chosen while still dormant by Monarch researchers
 - **Current Status:** Name remains in official documentation though he hasn't awakened in human form
 - **Cultural Connection:** Maintains ties to his Okinawan cultural origins
@@ -188,7 +188,7 @@
 **Current Status:**
 - Remains dormant, with Manda serving as acting proxy for Eastern territories
 - Human identity papers and background exist in anticipation of awakening
-- According to Bakunawa's possibly exaggerated claims, possesses ability to "walk on water with extreme speed" and "levitate in air with thought alone"
+- According to Bakunawa's possibly exaggerated claims, possesses ability to “walk on water with extreme speed” and “levitate in air with thought alone”
 - Subject of occasional eye-rolling from Scylla when mentioned
 
 ## Intercardinal Wardens
@@ -202,11 +202,11 @@
 
 **Human Identity:**
 - **Name:** Mizuki Ryūga
-- **Origin:** "Mizuki" (beautiful moon/water), "Ryūga" (dragon fang)
+- **Origin:** “Mizuki” (beautiful moon/water), “Ryūga” (dragon fang)
 - **Cultural Basis:** Maintained Japanese cultural connection reflecting Mu guardianship
 - **Selection Process:** Aided by Madison Russell; the name selection went more smoothly than expected
 - **Name Function:** Professional enough for diplomatic interactions, distinctive enough for authority
-- **Special Usage:** Uses only "M. Ryūga" in formal documentation
+- **Special Usage:** Uses only “M. Ryūga” in formal documentation
 
 **Physical Appearance:**
 - Sleek, straight onyx hair typically arranged in various intricate braids
@@ -246,7 +246,7 @@
 - Close regional ally with Bakunawa, exchanging cultural knowledge
 - Serves as King Caesar's official proxy during dormancy
 - Gift-giver to all Wardens, creating personalized items reflecting understanding of each
-- Full participant in the "serpent club" despite her formal nature
+- Full participant in the “serpent club” despite her formal nature
 - Earns reluctant praise from Rodan for her graceful flight techniques
 
 ### Bayani Habagat Luna - Warden of the Southeast
@@ -258,13 +258,13 @@
 
 **Human Identity:**
 - **Name:** Bayani Habagat Luna
-- **Origin:** "Bayani" (hero in Filipino), "Habagat" (southwest monsoon/rainy season), "Luna" (moon)
+- **Origin:** “Bayani” (hero in Filipino), “Habagat” (southwest monsoon/rainy season), “Luna” (moon)
 - **Three-Name Structure:** Reflects Filipino naming conventions rather than formal distinction
-- **Ironic Twist:** Named "hero" despite traditionally being driven away in Filipino folklore
+- **Ironic Twist:** Named “hero” despite traditionally being driven away in Filipino folklore
 - **Cultural Authenticity:** Consulted Filipino Monarch personnel for cultural accuracy
-- **Everyday Usage:** Goes by "Bayani Luna" in most contexts
-- **Manda's Teasing:** Often points out the irony of the "hero" name for a being traditionally driven away
-- **Bakunawa's Defense:** "*Huwag nga kayong mga kontrabida.*" (Don't be such villains)
+- **Everyday Usage:** Goes by “Bayani Luna” in most contexts
+- **Manda's Teasing:** Often points out the irony of the “hero” name for a being traditionally driven away
+- **Bakunawa's Defense:** “*Huwag nga kayong mga kontrabida.*”
 
 **Physical Appearance:**
 - Short, naturally unstyled black hair
@@ -298,7 +298,7 @@
 
 **Environmental Effects:**
 - Constantly surrounded by small animated water constructs
-- Often creates a water replica of his Titan form as a "pet"
+- Often creates a water replica of his Titan form as a “pet”
 - Makes water versions of fellow Wardens for communication or amusement
 - Uses constructs as props for explanations or entertainment
 - His constructs serve as both practical tools and social interaction catalysts
@@ -306,7 +306,7 @@
 **Relationships and Dynamics:**
 - Social planning partner with Leviathan
 - Regional ally and gaming partner with Manda
-- Enthusiastic participant in "serpent club" activities
+- Enthusiastic participant in “serpent club” activities
 - Enjoys participating incognito in regional festivals
 - Subject to teasing about his moon-phase mood changes
 - Primary transport provider for humans during Titan activities
@@ -320,7 +320,7 @@
 
 **Human Identity:**
 - **Name:** Atian Makya
-- **Origin:** "Atian" (river or water spirit in Chinook), "Makya" (one who restores life in Native American traditions)
+- **Origin:** “Atian” (river or water spirit in Chinook), “Makya” (one who restores life in Native American traditions)
 - **Cultural Foundation:** Drawn from Pacific Northwest Native American languages, particularly Chinook Jargon
 - **Selection Process:** Worked with Native American cultural consultants at Monarch
 - **Environmental Connection:** Name reflects his dual nature as water spirit and plant life restorer
@@ -331,7 +331,7 @@
 **Physical Appearance:**
 - Dark, long hair styled in Native American traditions
 - Dark eyes that gleam when comfortable enough to be talkative
-- Adopted Behemoth's "fleur du jour" concept using aquatic plants
+- Adopted Behemoth's “fleur du jour” concept using aquatic plants
 - Clothing incorporates Native American motifs and plant elements
 - Integrates living plant constructs into attire, sustained by his hydrokinesis
 - Warm skin, slightly darker than Bakunawa's
@@ -379,11 +379,11 @@
 
 **Human Identity:**
 - **Name:** Quentin Venus Viento
-- **Origin:** "Quentin" (fifth, maintaining initial "Q"), "Venus" (morning star associated with Quetzalcoatl in Mesoamerican cosmology), "Viento" (wind in Spanish)
+- **Origin:** “Quentin” (fifth, maintaining initial “Q”), “Venus” (morning star associated with Quetzalcoatl in Mesoamerican cosmology), “Viento” (wind in Spanish)
 - **Cultural Connection:** Triple name preserves Mesoamerican astronomical significance and Spanish influence
 - **Selection Process:** Insisted on name reflecting his celestial associations
 - **Madison's Challenge:** Finding something that honored his ancient significance while being functional
-- **Compromise:** Agreed to "Quentin" only after extensive historical discussion about the letter Q
+- **Compromise:** Agreed to “Quentin” only after extensive historical discussion about the letter Q
 - **Special Feature:** Business cards include microscopic Mesoamerican calendar symbols
 - **Venus Connection:** Often schedules important meetings during Venus's visibility phases
 
@@ -428,7 +428,7 @@
 **Relationships and Dynamics:**
 - Shares formal bearing with Manda
 - Maintains begrudging mutual respect with Rodan regarding aerial abilities
-- Surprising participant in "serpent club" despite formal nature
+- Surprising participant in “serpent club” despite formal nature
 - Constant student of human history and cultural knowledge
 - Offers praise to Manda for her flight techniques
 - Approaches Warden duties with scholarly thoroughness
@@ -436,20 +436,23 @@
 ## Collective Dynamics
 
 ### The Serpent Club
+
 An informal alliance of serpentine Wardens including Leviathan, Manda, Bakunawa, and surprisingly Quetzalcoatl. Their shared mission to annoy Scylla creates bonding opportunities beyond formal responsibilities. Despite their different hydrokinetic specialties, they demonstrate remarkable synergy in combat, particularly with binding techniques.
 
 ### Flight Mechanics
+
 Each hydrokinetic Warden has developed distinctive flight methods reflecting their specialties:
 
-* **Scylla:** Creates solid ice platforms from frozen air moisture
-* **Leviathan:** Employs constantly changing platforms of various water states
-* **Manda:** Uses nearly invisible microscopic water droplets creating precise lift
-* **Bakunawa:** Encases himself in form-fitting water sheaths and creates elaborate staircases
-* **Amhuluk:** Still developing flight ability, currently using plant-based ground transportation
-* **Quetzalcoatl:** Natural flight through aerokinesis, elegant and precise
-* **Behemoth:** Cannot fly, must be carried by others
+- **Scylla:** Creates solid ice platforms from frozen air moisture
+- **Leviathan:** Employs constantly changing platforms of various water states
+- **Manda:** Uses nearly invisible microscopic water droplets creating precise lift
+- **Bakunawa:** Encases himself in form-fitting water sheaths and creates elaborate staircases
+- **Amhuluk:** Still developing flight ability, currently using plant-based ground transportation
+- **Quetzalcoatl:** Natural flight through aerokinesis, elegant and precise
+- **Behemoth:** Cannot fly, must be carried by others
 
 ### Power Ranking System
+
 An unofficial hierarchy based on raw power exists alongside the formal structure:
 
 1. Godzilla (immutably first)
@@ -458,18 +461,20 @@ An unofficial hierarchy based on raw power exists alongside the formal structure
 4. Scylla (source of Rodan's irritation)
 5. Rodan/Leviathan (fluctuating positions)
 
-This creates fascinating tension between official authority and recognized capability, with Kong particularly notable for being technically "weaker" in raw power but higher in the formal hierarchy due to his resourcefulness and intelligence.
+This creates fascinating tension between official authority and recognized capability, with Kong particularly notable for being technically “weaker” in raw power but higher in the formal hierarchy due to his resourcefulness and intelligence.
 
 ### Cardinal/Intercardinal Dynamics
+
 The Cardinal Wardens collectively hold 6th position in the formal hierarchy, with Intercardinals at 7th. The Cardinals have established Scylla or Leviathan as representatives, while the newer Intercardinal tier has not yet determined their representative. This creates interesting procedural challenges during formal court, where Intercardinals must either all attend or improvise representation.
 
 ### Environmental Harmony/Chaos
+
 When multiple Wardens gather, their environmental effects create fascinating atmospheric combinations:
 
-* Scylla and Leviathan together can create beautiful ice formations suspended in mist
-* Behemoth and Amhuluk accelerate plant growth exponentially
-* Quetzalcoatl's air currents can scatter Bakunawa's water constructs, creating temporary rainbow effects
-* Manda's pressurized water can sharpen Scylla's ice into devastating weapons
+- Scylla and Leviathan together can create beautiful ice formations suspended in mist
+- Behemoth and Amhuluk accelerate plant growth exponentially
+- Quetzalcoatl's air currents can scatter Bakunawa's water constructs, creating temporary rainbow effects
+- Manda's pressurized water can sharpen Scylla's ice into devastating weapons
 
 These environmental interactions make multi-Warden gatherings immediately distinctive and dramatically atmospheric.
 
@@ -493,17 +498,17 @@ The establishment of human identities for Wardens created several amusing admini
 - **Educational Background:** Fabricating appropriate credentials matching their expertise
 - **Employment History:** Creating reasonable cover stories explaining their specialized knowledge
 - **Tax Identification:** Several Wardens questioned why they needed to participate in human taxation systems
-- **Passport Photos:** Specialized photography sessions with Titans struggling to appear "natural" for identification documents
+- **Passport Photos:** Specialized photography sessions with Titans struggling to appear “natural” for identification documents
 
 ### Madison's Role
 
 Madison Russell played a key role in the humanization process:
 
-> "Warden naming required more cultural research than any other group. Unlike the Alphas and Betas who I know personally, many Wardens maintain strong cultural ties to specific regions. I found myself consulting with various Monarch cultural experts to ensure appropriate names that honored their heritage while functioning in modern contexts.
+> “Warden naming required more cultural research than any other group. Unlike the Alphas and Betas who I know personally, many Wardens maintain strong cultural ties to specific regions. I found myself consulting with various Monarch cultural experts to ensure appropriate names that honored their heritage while functioning in modern contexts.
 >
 > The cardinal/intercardinal distinction created interesting patterns - Cardinals tended toward simpler, more authoritative names while Intercardinals often embraced more complex cultural elements. The exception is Scylla, who simply couldn't be bothered with the entire exercise and kept her own name with minimal modification.
 >
-> I never imagined my art degree would lead to coaching ancient beings on how to look natural for passport photos. The outtakes alone could fill a museum."
+> I never imagined my art degree would lead to coaching ancient beings on how to look natural for passport photos. The outtakes alone could fill a museum.”
 
 ### The Nathan Club
 
@@ -515,5 +520,5 @@ Among the most amusing byproducts of the human identity process:
 - Activities expanded to include a group chat featuring Arctic scenery and organizational gossip
 - Nathan Winters takes immense pride in his founding role and organizational capabilities
 - Now has its own line item in the Monarch social activities budget
-- Has reportedly inspired Kong/Kevin to consider founding a "Kevin Club"
+- Has reportedly inspired Kong/Kevin to consider founding a “Kevin Club”
 - Remains a source of bewilderment to Godzilla
