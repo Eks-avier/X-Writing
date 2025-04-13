@@ -55,7 +55,7 @@
 
 - **Titan Title:** Stalwart Vanguard
 - **Human Designation:** The Unfailing
-- **Form of Direct Address:** “Vanguard” (by Titans), “Sir Anguirus/Alexios” (by humans)
+- **Form of Direct Address:** “Vanguard” (by Titans), “Lord Anguirus/Alexios” (by humans)
 - **Authority Scope:** Enforcement of Alpha Paramount's will, protection of Godzilla's domain
 - **Position Significance:** Right hand of Godzilla, defender and loyal enforcer
 - **Symbolic Regalia:** Armored collar incorporating his carapace plates and obsidian elements attached to a light brown cloak
@@ -86,7 +86,7 @@
 - **Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
 - **Command Rights:** Direct authority over all Titans within their cardinal territories
 
-### Directional Wardens
+### Intercardinal Wardens
 
 - **Titan Title:** Warden of the [Intercardinal Direction]
 - **Human Designation:** Varies by individual
