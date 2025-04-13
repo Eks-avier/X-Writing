@@ -41,12 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md",
+<<<<<<< HEAD
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
+=======
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+>>>>>>> origin/main
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Atomic Amplification"
+<<<<<<< HEAD
+              "title": "Godzilla - Physicality and Forms"
+=======
+              "title": "Mothra, the Queen of the Monsters"
+>>>>>>> origin/main
             }
           }
         ],
@@ -139,7 +147,11 @@
         }
       },
       {
-        "id": "2cac5f29b3f48efb",
+<<<<<<< HEAD
+        "id": "75a906868099ed71",
+=======
+        "id": "dc07eec8ca1c179c",
+>>>>>>> origin/main
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -220,20 +232,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07db8c6ed1789a39",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
-    "The Nordsons and Lepidiels.canvas",
-    "Writing/Antitheriomorphosis/Atomic Amplification.md",
-    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-    "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
-    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
+<<<<<<< HEAD
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
+    "Writing/Antitheriomorphosis/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+=======
+>>>>>>> origin/main
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
@@ -251,8 +261,13 @@
     "Tags/#atm+titan+titan-culture",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
     "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Societal/Northern Culture.md",
     "Tags/#atm+species+classification+ascendant_line",
     "Tags/#atm+species+titanus_gojira",
+    "Writing/Antitheriomorphosis/Titanus Gojira.md",
+    "llm-instructions-2.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
     "Writing/Antitheriomorphosis/Characters/Titans",

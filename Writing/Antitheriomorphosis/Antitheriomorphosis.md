@@ -82,7 +82,7 @@ This universe integrates computer science concepts as metaphors for magical syst
 - **Atlantean Golden Age**:
   - Battra teaches humans sorcery; Atlantis flourishes under his guidance
   - Mothra leads the Eclipse civilization
-  - A human tribe discovers forbidden soul manipulation
+  - Another human tribe discovers forbidden soul manipulation
   - Mothra issues the Divine Mandate Against Sorcery, rendering humanity “Null”
   - Battra is exiled from Earth
   - Atlantis collapses

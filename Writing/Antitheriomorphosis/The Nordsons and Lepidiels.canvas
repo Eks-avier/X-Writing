@@ -155,6 +155,17 @@
       "y": -340
     },
     {
+      "height": 60,
+      "id": "62d23b3c559be1da",
+      "styleAttributes": {
+      },
+      "text": "# Mrs. Lepidiel",
+      "type": "text",
+      "width": 200,
+      "x": 1058,
+      "y": -640
+    },
+    {
       "color": "1",
       "height": 60,
       "id": "a3e496e9b929346f",
@@ -205,17 +216,6 @@
       "width": 280,
       "x": -254,
       "y": -372
-    },
-    {
-      "height": 60,
-      "id": "62d23b3c559be1da",
-      "styleAttributes": {
-      },
-      "text": "# Mrs. Lepidiel",
-      "type": "text",
-      "width": 200,
-      "x": 1058,
-      "y": -640
     },
     {
       "color": "6",

@@ -1,0 +1,19 @@
+{
+  "tabSize": 3,
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "attachmentFolderPath": "/",
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "newFileLocation": "current"
+}
