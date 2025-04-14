@@ -35,10 +35,14 @@
 	- Economic and tactical, whether in daily life or in combat situations
 	- Graceful in spite of his height and weight
 	- Perfectly balanced
+- **Posture**: Perfect and subconsciously effortless military bearing 
+	- Subconsciously never bows or looks down, ever. 
+		- Those who are taller than him are compelled to look down
+		- Those who are shorter than him are forced to look up
 - **Presence**: Passively threatening and intimidating causing people's fight or flight instinct to be triggered often.
-	- Some cower
-	- Some flee
-	- Some freeze in their spots and sweat
+	- Some subconsciously cower
+	- Some flee the area without knowing why
+	- Some freeze in their spots and experience elevated sweat response
 - **Expression**: 
 	- Almost always stoic
 	- Favors micro-expressions
