@@ -23,14 +23,14 @@
             "id": "90a667c1ce6d5f95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The Wardens of the Surface"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -183,7 +183,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -236,13 +237,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Wardens of the Surface"
+              "title": "Outline"
             }
           },
           {
@@ -279,11 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for The Wardens of the Surface"
+              "title": "File properties"
             }
           }
         ],
@@ -309,9 +307,9 @@
   },
   "active": "90a667c1ce6d5f95",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
