@@ -1,4 +1,32 @@
-# The Wardens of the Surface
+# The Wardens of Earth: Comprehensive Guide
+
+## Overview: The Warden System
+
+Wardens serve as the territorial representatives of the Alpha Paramount, governing specific geographic regions and maintaining order within their domains. The Warden system follows a directional framework:
+
+- **Cardinal Wardens** oversee the four primary directions (North, East, South, West)
+- **Intercardinal Wardens** govern intermediate directions (Northeast, Southeast, Northwest, Southwest)
+
+Together, they form a comprehensive network of authority that spans the surface world, creating a balanced system of governance under the Alpha Paramount's ultimate authority.
+
+## Hierarchy and Position
+
+The Warden tier occupies a crucial position in the Titan hierarchy:
+
+- **Hierarchy Position**: Wardens collectively hold the 6th position in the formal hierarchy, below the Beta Tier
+  - Cardinal Wardens hold slightly higher status than Intercardinals
+  - Cardinals typically select either Scylla or Leviathan as their representative in formal matters
+  - Intercardinals have not yet determined their permanent representative, creating procedural challenges
+
+- **Authority Scope**: Wardens have direct authority over all Titans within their designated territories
+  - Required to report territorial developments to the Alpha Paramount
+  - Responsible for maintaining ecological balance in their regions
+  - Serve as first responders to threats within their domains
+  - Function as the Paramount's voice in regional matters
+
+- **Representation Requirements**: During formal court, either all Wardens must attend or designated representatives must be sent
+  - Cardinals and Intercardinals typically coordinate attendance to ensure proper representation
+  - Failure to represent a direction is considered a serious breach of protocol
 
 ## Cardinal Wardens
 
@@ -10,13 +38,13 @@
 - Represents the fundamental nature of ice—crystalline, direct, and uncompromising
 
 **Human Identity:**
-- **Name:** Scylla Frost (officially), often just “Scylla”
+- **Name:** Scylla Frost (officially), often just "Scylla"
 - **Origin:** Kept her original name, added surname for documentation
-- **Reasoning:** “Why change what already works? Humans name their daughters stranger things.”
-- **Madison's Input:** Suggested “Selene” but was politely rebuffed
-- **Documentation:** Official Monarch records list her as “S. Frost” in most contexts
+- **Reasoning:** "Why change what already works? Humans name their daughters stranger things."
+- **Madison's Input:** Suggested "Selene" but was politely rebuffed
+- **Documentation:** Official Monarch records list her as "S. Frost" in most contexts
 - **Approach:** Uses name functionally, sees no need for disguise
-- **Typical Response:** “If someone realizes I'm named after myself, they're already aware of too much.”
+- **Typical Response:** "If someone realizes I'm named after myself, they're already aware of too much."
 
 **Physical Appearance:**
 - White flowing hair that subtly glimmers with embedded ice crystals, creating a star-like effect
@@ -31,18 +59,25 @@
 - The archetypal ice queen—cold, blunt, and efficient in all interactions
 - Cuts through pretense with precision that rivals her ice formations
 - Provides clarity when needed, regardless of diplomatic consequences
-- Appears perpetually overdressed in casual settings but insists she's “just wearing a plain sundress”
+- Appears perpetually overdressed in casual settings but insists she's "just wearing a plain sundress"
 - Takes immaculate care of her skin, avoiding direct sunlight whenever possible
-- Secretly enjoys the “serpent club's” attempts to annoy her, though she'd never admit it
+- Secretly enjoys the "serpent club's" attempts to annoy her, though she'd never admit it
 - Ranks surprisingly high (3rd) in the unofficial Titan power hierarchy, much to Rodan's constant irritation
 
 **Powers and Abilities:**
-- Possesses the greatest raw power and speed among hydrokinetic Wardens
-- Masters all water states but specializes in ice with unparalleled skill
-- Creates massive ice structures and flash-freezes environments in seconds
-- Employs rigid, devastatingly efficient combat techniques
-- Flies by stepping across invisible frozen moisture platforms in the air
-- Directs ice with surgical precision in both offensive and defensive applications
+- **Element:** Water (Ice Specialization)
+- **Theme:** Rigidity and Precision
+- **Specialty:** Flash-freezing and ice structure creation
+- **Key Abilities:**
+  - Creates massive ice structures with extreme speed
+  - Precision freezing for targeted immobilization
+  - Infuses ice constructs with venom of variable potency
+  - Environmental manipulation through ice expansion
+  - Can freeze blood and bodily fluids
+  - Controls ambient temperature in her vicinity
+- **Fighting Style:** Cold, calculating, and precise; formal and protocol-oriented
+- **Flight Method:** Creates solid ice platforms from frozen air moisture
+- **Team Role:** Strategic powerhouse and area control specialist
 
 **Environmental Effects:**
 - Emanates a passively chilling aura that lowers temperature in her vicinity
@@ -53,10 +88,15 @@
 
 **Relationships and Dynamics:**
 - Maintains ongoing rivalry with Rodan, who resents her higher power ranking
-- Perpetual target of the self-proclaimed “serpent club's” teasing efforts
+- Perpetual target of the self-proclaimed "serpent club's" teasing efforts
 - Surprisingly respected by Godzilla for her directness and clarity
 - Unintentionally parallels Mothra in her light-refracting aesthetic, fueling Rodan's conspiracy theories
 - Secretly enjoys Mothra's compliments about her hair's star-like quality
+
+**Formal Title:** Lady Warden of the South
+**Form of Direct Address:** "Lady Warden" (by Titans), "Lady Frost" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
+**Command Rights:** Direct authority over all Titans within southern territories
 
 ### Nathan Winters - Lord Warden of the North
 
@@ -68,12 +108,12 @@
 **Human Identity:**
 - **Name:** Nathan Winters
 - **Origin:** Self-created from (N)orth Levi(athan)
-- **Surname Addition:** “Winters” reflects his Arctic domain
+- **Surname Addition:** "Winters" reflects his Arctic domain
 - **Madison's Contribution:** Minor tweaking of his self-selected name
-- **Special Project:** Founder of “The Nathan Club” with Nathan Draper (Psionic Division) and Nathan Lind (Hollow Earth Outpost)
+- **Special Project:** Founder of "The Nathan Club" with Nathan Draper (Psionic Division) and Nathan Lind (Hollow Earth Outpost)
 - **Club Activities:** Etymology discussions, professional observations, competitive game nights
 - **Pride Point:** Takes immense pride in having figured out human naming conventions independently
-- **Notable Quote:** “The name was obvious. I am surprised others required assistance.”
+- **Notable Quote:** "The name was obvious. I am surprised others required assistance."
 
 **Physical Appearance:**
 - Silver-white hair that changes length frequently—sometimes shoulder-length and tied, sometimes short and slicked back
@@ -86,18 +126,26 @@
 
 **Personality and Expression:**
 - Presents an icy exterior that conceals a surprisingly warm, playful personality
-- As Rodan accurately observed: “He looks like an asshole but is actually a softie”
+- As Rodan accurately observed: "He looks like an asshole but is actually a softie"
 - Maintains formal dignity with strangers but becomes playfully goofy with trusted companions
-- Founded the “Nathan Club” with others sharing his name, displaying his whimsical side
+- Founded the "Nathan Club" with others sharing his name, displaying his whimsical side
 - Takes immense pride in having selected his own human name without assistance
 - Constantly changes his approach, never using the same method twice
 
 **Powers and Abilities:**
-- The most versatile of all hydrokinetic Wardens, mastering all water states equally
-- Transitions between water states faster than any other hydrokinetic
-- Employs constantly changing water platforms for flight, never using the same method twice
-- Utilizes fluid, flowing combat techniques that adapt to opponents
-- Assesses situations and deploys the most appropriate water state for maximum effect
+- **Element:** Water (Full Spectrum Hydrokinesis)
+- **Theme:** Fluidity and Adaptability
+- **Specialty:** Master of all water states with emphasis on liquid form
+- **Key Abilities:**
+  - Creates powerful water streams and constructs
+  - Seamlessly transitions between water states (liquid, solid, gas)
+  - Generates weather effects (rain, hail, snow)
+  - Controls atmospheric moisture
+  - Pressurizes water for enhanced attacks
+  - Can extract water from living beings
+- **Fighting Style:** Rhythmic and flowing, incorporating cultural elements from Northern domains
+- **Flight Method:** Employs constantly changing water platforms, never using the same method twice
+- **Team Role:** Coordinator and connective element between different Warden fighting styles
 
 **Environmental Effects:**
 - Produces a mood-dependent aura that changes with his emotional state:
@@ -109,10 +157,15 @@
 
 **Relationships and Dynamics:**
 - Entertainment partner with Bakunawa, organizing social events for Warden gatherings
-- Core member of the “serpent club” despite his higher Cardinal status
-- Takes his “Nathan Club” leadership responsibilities surprisingly seriously
+- Core member of the "serpent club" despite his higher Cardinal status
+- Takes his "Nathan Club" leadership responsibilities surprisingly seriously
 - Frequently sides with other hydrokinetic Wardens over Scylla despite their shared Cardinal status
 - Often carries Behemoth when aerial transportation is needed
+
+**Formal Title:** Lord Warden of the North
+**Form of Direct Address:** "Lord Warden" (by Titans), "Lord Winters" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
+**Command Rights:** Direct authority over all Titans within northern territories
 
 ### Bram Sylvan - Lord Warden of the West
 
@@ -123,10 +176,10 @@
 
 **Human Identity:**
 - **Name:** Bram Sylvan
-- **Origin:** “Bram” (shortened from “Abraham,” meaning “father of multitudes”)
-- **Surname:** “Sylvan” (relating to woods) reflects his domain and abilities
+- **Origin:** "Bram" (shortened from "Abraham," meaning "father of multitudes")
+- **Surname:** "Sylvan" (relating to woods) reflects his domain and abilities
 - **Connection:** Name suggests ancient wisdom and natural authority
-- **Madison's Notes:** “He wanted something that sounded like a wise forest steward”
+- **Madison's Notes:** "He wanted something that sounded like a wise forest steward"
 - **Usage Pattern:** Enjoys using his human name, finds it appropriately dignified
 - **Special Touch:** Signs conservation documents with a small leaf symbol beside his name
 
@@ -137,7 +190,7 @@
 - Large, burly build with natural body hair
 - Prefers loose-fitting, practical clothes that provide coverage
 - Often appears soiled from gardening but remains immaculately clean when on duty
-- Carries a daily “fleur du jour” in a special pocket—a different flower or plant each day
+- Carries a daily "fleur du jour" in a special pocket—a different flower or plant each day
 - Tiny plants occasionally sprout from his hair or clothing when he's content
 
 **Personality and Expression:**
@@ -149,12 +202,19 @@
 - Can soften even Scylla's icy demeanor slightly
 
 **Powers and Abilities:**
-- Phytokinesis mastery matched only by Methuselah
-- Perceives through plant life across his territory
-- Communicates with flora over vast distances
-- Creates defensive barriers or offensive strikes through plant manipulation
-- Establishes environmental monitoring networks using plant connections
-- Cannot fly independently but creates platforms for ground-based rapid travel
+- **Element:** Flora and Earth
+- **Theme:** Growth and Nurturing
+- **Specialty:** Plant manipulation and ecosystem control
+- **Key Abilities:**
+  - Accelerates plant growth even in harsh environments
+  - Maximizes potential of limited plant material
+  - Creates defensive and offensive plant structures
+  - Stabilizes altered terrain with root networks
+  - Establishes sensory networks through plant life
+  - Enhances physical combat with plant extensions
+- **Fighting Style:** Balanced between supportive growth and physical combat
+- **Flight Method:** Cannot fly independently but creates platforms for ground-based rapid travel
+- **Team Role:** Terraforming specialist and battlefield stabilizer
 
 **Environmental Effects:**
 - Emanates a changing floral scent that differs daily
@@ -168,18 +228,23 @@
 - Mentor figure to Amhuluk, sharing plant knowledge with the younger Warden
 - Often carried by hydrokinetics when flight is needed
 - His gardens serve as neutral gathering places where hierarchical tensions diminish
-- His “fleur du jour” system has become a communication method recognized by all Titans
+- His "fleur du jour" system has become a communication method recognized by all Titans
+
+**Formal Title:** Lord Warden of the West
+**Form of Direct Address:** "Lord Warden" (by Titans), "Lord Sylvan" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with formal nod
+**Command Rights:** Direct authority over all Titans within western territories
 
 ### King Caesar - Lord Warden of the East (Dormant)
 
 **Domain and Authority:**
 - Theoretically controls East Asian territories
 - Currently dormant in Titan form
-- Human identity papers prepared but unused
+- Manda serves as acting proxy for Eastern territories
 
 **Human Identity:**
 - **Name:** Kai Shisa
-- **Origin:** “Kai” (sea in Japanese), “Shisa” (Okinawan lion-dog guardian statue)
+- **Origin:** "Kai" (sea in Japanese), "Shisa" (Okinawan lion-dog guardian statue)
 - **Selection Process:** Name chosen while still dormant by Monarch researchers
 - **Current Status:** Name remains in official documentation though he hasn't awakened in human form
 - **Cultural Connection:** Maintains ties to his Okinawan cultural origins
@@ -188,8 +253,13 @@
 **Current Status:**
 - Remains dormant, with Manda serving as acting proxy for Eastern territories
 - Human identity papers and background exist in anticipation of awakening
-- According to Bakunawa's possibly exaggerated claims, possesses ability to “walk on water with extreme speed” and “levitate in air with thought alone”
+- According to Bakunawa's possibly exaggerated claims, possesses ability to "walk on water with extreme speed" and "levitate in air with thought alone"
 - Subject of occasional eye-rolling from Scylla when mentioned
+
+**Formal Title:** Lord Warden of the East (dormant)
+**Form of Direct Address:** N/A (dormant status)
+**Recognition Protocol:** Formal acknowledgment of authority despite absence
+**Command Rights:** Temporarily transferred to Manda as proxy
 
 ## Intercardinal Wardens
 
@@ -202,11 +272,11 @@
 
 **Human Identity:**
 - **Name:** Mizuki Ryūga
-- **Origin:** “Mizuki” (beautiful moon/water), “Ryūga” (dragon fang)
+- **Origin:** "Mizuki" (beautiful moon/water), "Ryūga" (dragon fang)
 - **Cultural Basis:** Maintained Japanese cultural connection reflecting Mu guardianship
 - **Selection Process:** Aided by Madison Russell; the name selection went more smoothly than expected
 - **Name Function:** Professional enough for diplomatic interactions, distinctive enough for authority
-- **Special Usage:** Uses only “M. Ryūga” in formal documentation
+- **Special Usage:** Uses only "M. Ryūga" in formal documentation
 
 **Physical Appearance:**
 - Sleek, straight onyx hair typically arranged in various intricate braids
@@ -228,13 +298,19 @@
 - Appears almost psychic in anticipating others' needs through meticulous observation
 
 **Powers and Abilities:**
-- Hydrokinetic specialty in unparalleled precision and pressure control
-- Pressurizes water to achieve piercing and slicing effects
-- Uses microscopic water droplets for flight, creating near-invisible support
-- Creates and wields a water/ice bow with pressurized water arrows
-- Heals with precisely controlled water application
-- Combines graceful movement with devastating impact
-- Combat style resembles ancient martial arts or dance forms
+- **Element:** Water (Pressure Specialization)
+- **Theme:** Discipline and Precision
+- **Specialty:** Water pressure manipulation
+- **Key Abilities:**
+  - Compresses water to diamond-like density
+  - Creates pressurized water arrows and cutting arcs
+  - Forms serpentine water streams that constrict and crush
+  - Simulates abyssal pressures in localized areas
+  - Creates "pressure points" that can implode or explode
+  - Serpentine binding techniques
+- **Fighting Style:** Fluid yet disciplined, resembling Japanese martial arts
+- **Flight Method:** Uses microscopic water droplets for flight, creating near-invisible support
+- **Team Role:** Precision striker and binding specialist
 
 **Environmental Effects:**
 - Emanates a heavy, pressuring aura different from Scylla's chill
@@ -246,8 +322,13 @@
 - Close regional ally with Bakunawa, exchanging cultural knowledge
 - Serves as King Caesar's official proxy during dormancy
 - Gift-giver to all Wardens, creating personalized items reflecting understanding of each
-- Full participant in the “serpent club” despite her formal nature
+- Full participant in the "serpent club" despite her formal nature
 - Earns reluctant praise from Rodan for her graceful flight techniques
+
+**Formal Title:** Warden of the Northeast
+**Form of Direct Address:** "Warden" (by Titans), "Warden Ryūga" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with casual nod
+**Command Rights:** Authority over Titans within Northeast territories, subject to Cardinal oversight
 
 ### Bayani Habagat Luna - Warden of the Southeast
 
@@ -258,13 +339,13 @@
 
 **Human Identity:**
 - **Name:** Bayani Habagat Luna
-- **Origin:** “Bayani” (hero in Filipino), “Habagat” (southwest monsoon/rainy season), “Luna” (moon)
+- **Origin:** "Bayani" (hero in Filipino), "Habagat" (southwest monsoon/rainy season), "Luna" (moon)
 - **Three-Name Structure:** Reflects Filipino naming conventions rather than formal distinction
-- **Ironic Twist:** Named “hero” despite traditionally being driven away in Filipino folklore
+- **Ironic Twist:** Named "hero" despite traditionally being driven away in Filipino folklore
 - **Cultural Authenticity:** Consulted Filipino Monarch personnel for cultural accuracy
-- **Everyday Usage:** Goes by “Bayani Luna” in most contexts
-- **Manda's Teasing:** Often points out the irony of the “hero” name for a being traditionally driven away
-- **Bakunawa's Defense:** “*Huwag nga kayong mga kontrabida.*”
+- **Everyday Usage:** Goes by "Bayani Luna" in most contexts
+- **Manda's Teasing:** Often points out the irony of the "hero" name for a being traditionally driven away
+- **Bakunawa's Defense:** "*Huwag nga kayong mga kontrabida.*"
 
 **Physical Appearance:**
 - Short, naturally unstyled black hair
@@ -288,17 +369,25 @@
 - Enjoys organizing social gatherings and games
 
 **Powers and Abilities:**
-- Creates the most refined and durable water constructs
-- Encases himself in form-fitting water sheaths for flight
-- Manifests platforms to transport others, especially Monarch personnel
-- Creates weapons and tools from various water states
-- Power increases noticeably with the moon's fullness
-- Employs bioluminescent water for visibility and dramatic effect
-- Constantly cycles through different water-state weapons in combat
+- **Element:** Water (Weapon and Light Specialization)
+- **Theme:** Illumination and Weapon Mastery
+- **Specialty:** Bioluminescent water constructs and weapon formation
+- **Key Abilities:**
+  - Creates highly detailed functional water weapons
+  - Generates bioluminescent water formations
+  - Infuses water with bioelectric energy
+  - Draws power from lunar cycles
+  - Employs guerrilla warfare tactics
+  - Creates water traps and mines
+  - Expert at water extraction from living beings
+- **Fighting Style:** Adaptable weaponmaster drawing from Filipino martial traditions
+- **Flight Method:** Encases himself in form-fitting water sheaths and creates elaborate staircases
+- **Team Role:** Special weapons expert and tactical ambusher
+- **Celestial Connection:** Powers enhanced by moonlight
 
 **Environmental Effects:**
 - Constantly surrounded by small animated water constructs
-- Often creates a water replica of his Titan form as a “pet”
+- Often creates a water replica of his Titan form as a "pet"
 - Makes water versions of fellow Wardens for communication or amusement
 - Uses constructs as props for explanations or entertainment
 - His constructs serve as both practical tools and social interaction catalysts
@@ -306,10 +395,15 @@
 **Relationships and Dynamics:**
 - Social planning partner with Leviathan
 - Regional ally and gaming partner with Manda
-- Enthusiastic participant in “serpent club” activities
+- Enthusiastic participant in "serpent club" activities
 - Enjoys participating incognito in regional festivals
 - Subject to teasing about his moon-phase mood changes
 - Primary transport provider for humans during Titan activities
+
+**Formal Title:** Warden of the Southeast
+**Form of Direct Address:** "Warden" (by Titans), "Warden Luna" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with casual nod
+**Command Rights:** Authority over Titans within Southeast territories, subject to Cardinal oversight
 
 ### Atian Makya - Warden of the Northwest
 
@@ -320,7 +414,7 @@
 
 **Human Identity:**
 - **Name:** Atian Makya
-- **Origin:** “Atian” (river or water spirit in Chinook), “Makya” (one who restores life in Native American traditions)
+- **Origin:** "Atian" (river or water spirit in Chinook), "Makya" (one who restores life in Native American traditions)
 - **Cultural Foundation:** Drawn from Pacific Northwest Native American languages, particularly Chinook Jargon
 - **Selection Process:** Worked with Native American cultural consultants at Monarch
 - **Environmental Connection:** Name reflects his dual nature as water spirit and plant life restorer
@@ -331,7 +425,7 @@
 **Physical Appearance:**
 - Dark, long hair styled in Native American traditions
 - Dark eyes that gleam when comfortable enough to be talkative
-- Adopted Behemoth's “fleur du jour” concept using aquatic plants
+- Adopted Behemoth's "fleur du jour" concept using aquatic plants
 - Clothing incorporates Native American motifs and plant elements
 - Integrates living plant constructs into attire, sustained by his hydrokinesis
 - Warm skin, slightly darker than Bakunawa's
@@ -347,13 +441,19 @@
 - Still finding his voice and place among established Wardens
 
 **Powers and Abilities:**
-- Controls liquid and gaseous water states but not ice
-- Blends water manipulation with plant control
-- Creates ground-based transportation through rapidly growing plants
-- Specializes in healing both environments and individuals
-- Focuses on supportive applications over direct offense
-- Aspires to master vapor-based flight like Leviathan
-- Currently relies on other Wardens for aerial transportation
+- **Element:** Water-Plant Hybrid
+- **Theme:** Life and Healing
+- **Specialty:** Regenerative waters and plant growth
+- **Key Abilities:**
+  - Imbues water with plant-growth properties
+  - Creates healing waters with regenerative effects
+  - Controls localized water cycles
+  - Forms underwater plant networks
+  - Generates "primordial waters" for accelerated healing
+  - Creates protective bubbles for injured teammates
+- **Fighting Style:** Supportive and defensive with increasing offensive potential
+- **Flight Method:** Still developing flight ability, currently using plant-based ground transportation
+- **Team Role:** Primary healer and defensive support
 
 **Environmental Effects:**
 - Constant thin mist surrounds him
@@ -370,6 +470,11 @@
 - Maintains deep connection to Indigenous perspectives in his territories
 - Youngest of current Wardens, still developing relationships with others
 
+**Formal Title:** Warden of the Northwest
+**Form of Direct Address:** "Warden" (by Titans), "Warden Makya" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with casual nod
+**Command Rights:** Authority over Titans within Northwest territories, subject to Cardinal oversight
+
 ### Quentin Venus Viento - Warden of the Southwest
 
 **Domain and Authority:**
@@ -379,11 +484,11 @@
 
 **Human Identity:**
 - **Name:** Quentin Venus Viento
-- **Origin:** “Quentin” (fifth, maintaining initial “Q”), “Venus” (morning star associated with Quetzalcoatl in Mesoamerican cosmology), “Viento” (wind in Spanish)
+- **Origin:** "Quentin" (fifth, maintaining initial "Q"), "Venus" (morning star associated with Quetzalcoatl in Mesoamerican cosmology), "Viento" (wind in Spanish)
 - **Cultural Connection:** Triple name preserves Mesoamerican astronomical significance and Spanish influence
 - **Selection Process:** Insisted on name reflecting his celestial associations
 - **Madison's Challenge:** Finding something that honored his ancient significance while being functional
-- **Compromise:** Agreed to “Quentin” only after extensive historical discussion about the letter Q
+- **Compromise:** Agreed to "Quentin" only after extensive historical discussion about the letter Q
 - **Special Feature:** Business cards include microscopic Mesoamerican calendar symbols
 - **Venus Connection:** Often schedules important meetings during Venus's visibility phases
 
@@ -408,13 +513,20 @@
 - Perhaps the most enigmatic of the Wardens
 
 **Powers and Abilities:**
-- Unique dual mastery over air and earth elements
-- Natural flight ability through aerokinesis
-- Earth manipulation for both offensive and defensive applications
-- Combines aerial attacks with ground-based assaults
-- Moves with exceptional elegance rivaling Rodan
-- Weaponizes both air pressure and earth movements simultaneously
-- Uses air currents as sensory extensions to explore surroundings
+- **Element:** Air and Earth
+- **Theme:** Celestial Connection and Adaptability
+- **Specialty:** Atmospheric manipulation and enhancement
+- **Key Abilities:**
+  - Controls atmospheric pressure zones
+  - Creates wind scrying networks
+  - Channels "solar wind" at dawn and dusk
+  - Redirects existing air currents with precision
+  - Forms air "feathers" as both armor and weapons
+  - Refracts light through air manipulation
+- **Fighting Style:** Incorporates traditional Mesoamerican martial arts
+- **Flight Method:** Natural flight through aerokinesis, elegant and precise
+- **Team Role:** Elemental bridge between hydrokinetic and earth-based Wardens
+- **Celestial Connection:** Powers peak at dawn and dusk
 
 **Environmental Effects:**
 - Constant currents of air swirl around him
@@ -428,12 +540,147 @@
 **Relationships and Dynamics:**
 - Shares formal bearing with Manda
 - Maintains begrudging mutual respect with Rodan regarding aerial abilities
-- Surprising participant in “serpent club” despite formal nature
+- Surprising participant in "serpent club" despite formal nature
 - Constant student of human history and cultural knowledge
 - Offers praise to Manda for her flight techniques
 - Approaches Warden duties with scholarly thoroughness
 
-## Collective Dynamics
+**Formal Title:** Warden of the Southwest
+**Form of Direct Address:** "Warden" (by Titans), "Warden Viento" (by humans)
+**Recognition Protocol:** Regional Titans bow; equals acknowledge with casual nod
+**Command Rights:** Authority over Titans within Southwest territories, subject to Cardinal oversight
+
+## Special Position: The Liminal Sentinel
+
+### Baragon - The Liminal Sentinel
+
+**Domain and Authority:**
+- Guardian of the boundary between World Above and World Below
+- Oversees transition zones connecting surface and Hollow Earth
+- Operates partially outside both hierarchies while connecting them
+- Reports directly to both Alpha Paramount and Alpha Sovereign
+- Serves as advisor to Kong similar to how Anguirus serves Godzilla
+
+**Core Identity:**
+- **Species:** Emergent Line with unique evolutionary adaptations
+- **Standing:** Equivalent to Warden in surface hierarchy, advisor to Kong
+- **Alternative Title:** Known to humans as "the Subterranean Monster"
+- **Position Significance:** Bridge between surface world and Hollow Earth governance
+
+**Physical Characteristics:**
+
+- **Human Form:**
+  - Partially blind (limited conventional sight, compensated by earth-sense)
+  - Eyes appear clouded or damaged but still functional
+  - Movement has unusual grounded quality, maintaining constant contact with earth
+  - Often places palm against surfaces to "see" through vibration
+  - Warm skin tone with subtle reddish undertones
+
+**Powers and Abilities:**
+
+- **Earth-Sense:**
+  - Unparalleled lithokinesis allowing "sight" through earth/stone
+  - Can sense through solid matter for miles in all directions
+  - Able to detect minute movements and changes in earth composition
+  - Less effective when not in contact with ground
+
+- **Fire Manipulation:**
+  - Control of subterranean heat and flame
+  - Adaptation to deep earth environments near magma chambers
+  - Can release controlled heat blasts and manipulate existing fire
+  - Requires more concentration than earth manipulation
+
+- **Combat Abilities:**
+  - Forms earth structures and barriers
+  - Triggers localized earthquakes
+  - Creates volcanic plumes and lava flows
+  - Manipulates molten rock with precision
+  - Launches stone projectiles of varying sizes
+  - Controls fire and heat
+  - Senses movement through earth vibrations
+
+**Environmental Effects:**
+- Ground subtly shifts and settles in his presence
+- Noticeable warmth radiates from beneath his feet
+- Small tremors precede emotional intensity
+- Minor seismic activity signals his approach before visual confirmation
+- Stone and soil respond to his movements like water to a hydrokinetic
+
+**Species History:**
+- Evolved in the boundary space between surface and Hollow Earth
+- Most individuals completely blind, developed earth-sense as compensation
+- Rare individuals (including Baragon) developed partial sight
+- Historically served as scouts and messengers between realms
+- Species decimated by both Ghidorah (surface) and Skar King (Hollow Earth)
+- Baragon potentially last of his kind or one of very few survivors
+
+**Relationships and Dynamics:**
+- Close working relationship with Kong, mirroring Anguirus's bond with Godzilla
+- Collaborates with Behemoth on terraforming projects
+- Maintains natural alliance with Amhuluk due to complementary abilities
+- Serves as Kong's primary advisor on surface matters
+- Bridges communication between surface and Hollow Earth governance systems
+
+**Formal Title:** Liminal Sentinel
+**Form of Direct Address:** "Sentinel" (by Titans), "Sentinel Baragon" (by humans)
+**Recognition Protocol:** Acknowledged by both surface and Hollow Earth Titans
+**Command Rights:** Authority over boundary zones and transition territories
+
+## Regional Titans
+
+Regional Titans serve as the local representatives of the Warden's authority, maintaining order in specific territories while reporting to their respective directional Wardens.
+
+### Varan - Guardian of Coastal Mountain Ranges
+
+- **Domain:** Coastal mountain ranges of East Asia
+- **Notable Abilities:** Gliding using membrane flaps, amphibious adaptation
+- **Territory:** Japanese archipelago and Korean peninsula coastal regions
+- **Standing:** Regional guardian reporting to East Cardinal Warden (King Caesar)
+- **Hierarchical Position:** Reports to Manda during Caesar's dormancy
+
+### Gorosaurus - Guardian of Southeast Asian Territories
+
+- **Domain:** Southeast Asian jungle regions and island territories
+- **Notable Abilities:** Devastating kangaroo-like kick attack, powerful jaws
+- **Territory:** Indochina peninsula and surrounding regions
+- **Standing:** Regional guardian reporting to Southeast Intercardinal Warden (Bakunawa)
+- **Specialized Function:** Primary enforcer within Bakunawa's jurisdiction
+
+### Kumonga - Guardian of Desert Ecosystems
+
+- **Domain:** Major desert and arid environments worldwide
+- **Notable Abilities:** Web spinning, venom injection, precision attacks
+- **Territory:** Multiple desert ecosystems including Gobi and Australian outback
+- **Standing:** Regional guardian with territory spanning multiple Warden domains
+- **Unique Position:** Reports to multiple Wardens due to widespread territory
+
+### Alpha Kamacuras - Guardian of Jungle Regions
+
+- **Domain:** Dense jungle and rainforest territories
+- **Notable Abilities:** Camouflage, swarm coordination, speed
+- **Territory:** Central African and Amazon basin ecosystems
+- **Standing:** Regional guardian commanding numerous lesser Kamacuras (Territorial rank)
+- **Coordination Function:** Commands insectoid swarm with quasi-hive mind capabilities
+
+## Territorial and Primal Classifications
+
+Below the Regional Titans in the hierarchy are specialized categories with limited autonomy:
+
+### Territorial Titans
+Semi-sentient beings with defined territories but limited decision-making capabilities:
+- **Camazotz** - Bat-like Titan overseeing cave systems
+- **Tiamat** - Water dragon controlling specific oceanic territories
+- **Yamata No Orochi** - Multi-headed serpent in isolated Japanese mountains
+- **Sekhmet** - Lion-like Titan patrolling specific African savannas
+
+### Primals
+Instinct-driven Titans requiring oversight from higher ranks:
+- Smaller Skullcrawlers
+- Leafwings
+- Various MUTO subspecies
+- Sker Buffalo herds
+
+## Collective Dynamics and Battle Synergies
 
 ### The Serpent Club
 
@@ -450,6 +697,67 @@ Each hydrokinetic Warden has developed distinctive flight methods reflecting the
 - **Amhuluk:** Still developing flight ability, currently using plant-based ground transportation
 - **Quetzalcoatl:** Natural flight through aerokinesis, elegant and precise
 - **Behemoth:** Cannot fly, must be carried by others
+- **Baragon:** Travels underground, emerging where needed
+
+### Battle Combinations
+
+The Wardens have developed numerous powerful combination techniques:
+
+#### Hydrokinetic Alliance
+- **Tripartite Binding Technique** (Nathan, Bayani, Mizuki)
+  - Nathan creates flexible water bindings
+  - Bayani reinforces with bioluminescent energy
+  - Mizuki applies crushing pressure
+
+- **Flash Freeze Artillery** (Nathan, Scylla, Mizuki)
+  - Mizuki forms high-pressure water projectiles
+  - Nathan guides and accelerates them
+  - Scylla flash-freezes them mid-flight for devastating impact
+
+- **Moon Tide Amplification** (Nathan, Bayani)
+  - Nathan creates massive water movements
+  - Bayani's lunar connection amplifies the tidal force
+  - Results in overwhelming wave assaults
+
+#### Earth-Flora Coalition
+- **Living Terrain** (Baragon, Bram)
+  - Baragon creates earth platforms and structures
+  - Bram immediately stabilizes with root networks
+  - Creates defensible positions for the team
+
+- **Volcanic Bloom** (Baragon, Bram, Atian)
+  - Baragon generates heated ground and minerals
+  - Atian provides specialized water
+  - Bram accelerates growth in the enriched environment
+  - Creates rapid-growth combat flora
+
+#### Cross-Element Combinations
+- **Celestial Illumination** (Bayani, Quentin)
+  - Bayani's bioluminescent water combines with Quentin's light-refracting air
+  - Creates disorienting light effects that obscure team movements
+
+- **Thermal Cycling** (Quentin, Scylla, Baragon)
+  - Baragon heats targeted areas
+  - Quentin rapidly cycles air temperature
+  - Scylla flash-freezes the affected zone
+  - Creates structural weaknesses through rapid expansion/contraction
+
+- **Pollen Storm** (Bram, Quentin, Atian)
+  - Bram generates combat pollen and spores
+  - Atian infuses them with water properties
+  - Quentin precisely distributes them across the battlefield
+  - Creates zones of healing for allies or harmful effects for enemies
+
+### Environmental Adaptations
+
+The Wardens have developed specialized techniques for different environments:
+
+#### Antarctic Battlefield
+- Nathan and Scylla operate at peak capacity in this environment
+- Other hydrokinetics benefit from abundant frozen water
+- Baragon must dig beneath ice to access usable earth material
+- Bram maximizes potential of limited Antarctic flora (lichens, algae, mosses)
+- Quentin enhances freezing winds and provides air support for plant dispersion
 
 ### Power Ranking System
 
@@ -461,22 +769,11 @@ An unofficial hierarchy based on raw power exists alongside the formal structure
 4. Scylla (source of Rodan's irritation)
 5. Rodan/Leviathan (fluctuating positions)
 
-This creates fascinating tension between official authority and recognized capability, with Kong particularly notable for being technically “weaker” in raw power but higher in the formal hierarchy due to his resourcefulness and intelligence.
+This creates fascinating tension between official authority and recognized capability, with Kong particularly notable for being technically "weaker" in raw power but higher in the formal hierarchy due to his resourcefulness and intelligence.
 
 ### Cardinal/Intercardinal Dynamics
 
 The Cardinal Wardens collectively hold 6th position in the formal hierarchy, with Intercardinals at 7th. The Cardinals have established Scylla or Leviathan as representatives, while the newer Intercardinal tier has not yet determined their representative. This creates interesting procedural challenges during formal court, where Intercardinals must either all attend or improvise representation.
-
-### Environmental Harmony/Chaos
-
-When multiple Wardens gather, their environmental effects create fascinating atmospheric combinations:
-
-- Scylla and Leviathan together can create beautiful ice formations suspended in mist
-- Behemoth and Amhuluk accelerate plant growth exponentially
-- Quetzalcoatl's air currents can scatter Bakunawa's water constructs, creating temporary rainbow effects
-- Manda's pressurized water can sharpen Scylla's ice into devastating weapons
-
-These environmental interactions make multi-Warden gatherings immediately distinctive and dramatically atmospheric.
 
 ## Human Identity Administration
 
@@ -498,17 +795,17 @@ The establishment of human identities for Wardens created several amusing admini
 - **Educational Background:** Fabricating appropriate credentials matching their expertise
 - **Employment History:** Creating reasonable cover stories explaining their specialized knowledge
 - **Tax Identification:** Several Wardens questioned why they needed to participate in human taxation systems
-- **Passport Photos:** Specialized photography sessions with Titans struggling to appear “natural” for identification documents
+- **Passport Photos:** Specialized photography sessions with Titans struggling to appear "natural" for identification documents
 
 ### Madison's Role
 
 Madison Russell played a key role in the humanization process:
 
-> “Warden naming required more cultural research than any other group. Unlike the Alphas and Betas who I know personally, many Wardens maintain strong cultural ties to specific regions. I found myself consulting with various Monarch cultural experts to ensure appropriate names that honored their heritage while functioning in modern contexts.
+> "Warden naming required more cultural research than any other group. Unlike the Alphas and Betas who I know personally, many Wardens maintain strong cultural ties to specific regions. I found myself consulting with various Monarch cultural experts to ensure appropriate names that honored their heritage while functioning in modern contexts.
 >
 > The cardinal/intercardinal distinction created interesting patterns - Cardinals tended toward simpler, more authoritative names while Intercardinals often embraced more complex cultural elements. The exception is Scylla, who simply couldn't be bothered with the entire exercise and kept her own name with minimal modification.
 >
-> I never imagined my art degree would lead to coaching ancient beings on how to look natural for passport photos. The outtakes alone could fill a museum.”
+> I never imagined my art degree would lead to coaching ancient beings on how to look natural for passport photos. The outtakes alone could fill a museum."
 
 ### The Nathan Club
 
@@ -520,5 +817,5 @@ Among the most amusing byproducts of the human identity process:
 - Activities expanded to include a group chat featuring Arctic scenery and organizational gossip
 - Nathan Winters takes immense pride in his founding role and organizational capabilities
 - Now has its own line item in the Monarch social activities budget
-- Has reportedly inspired Kong/Kevin to consider founding a “Kevin Club”
+- Has reportedly inspired Kong/Kevin to consider founding a "Kevin Club"
 - Remains a source of bewilderment to Godzilla

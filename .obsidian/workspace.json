@@ -23,14 +23,17 @@
             "id": "b6261a51fb3ae58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-                "mode": "source",
-                "source": false
+                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
+                "viewState": {
+                  "x": -1726,
+                  "y": -816.5,
+                  "zoom": -2.7679130166874546
+                }
               },
-              "icon": "lucide-file",
-              "title": "Structure of the Titan Hierarchy"
+              "icon": "lucide-layout-dashboard",
+              "title": "The Titan Hierarchy"
             }
           }
         ],
@@ -180,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structure of the Titan Hierarchy"
+              "title": "Outline of The Titan Hierarchy"
             }
           },
           {
@@ -224,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
+                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Structure of the Titan Hierarchy"
+              "title": "File properties for The Titan Hierarchy"
             }
           }
         ],
@@ -253,6 +256,9 @@
   },
   "active": "b6261a51fb3ae58e",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Baragon, the Liminal Sentinel.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
@@ -262,8 +268,6 @@
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
     "conflict-files-obsidian-git.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Communication Styles of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
@@ -298,6 +302,4 @@
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
-    "Main Alternate Universe/Untitled.canvas"
-  ]
-}
+    "
