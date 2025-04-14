@@ -32,26 +32,9 @@
               "icon": "lucide-file",
               "title": "Power Hierarchy of the Titans"
             }
-          },
-          {
-            "id": "0922eb1f9b3eceb3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
-                "viewState": {
-                  "x": 501.70430178235256,
-                  "y": 113.52697036765494,
-                  "zoom": -1.6666665039062498
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Domination of Energy"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domination of Energy"
+              "title": "Outline of Power Hierarchy of the Titans"
             }
           },
           {
@@ -242,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas"
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Domination of Energy"
+              "title": "File properties for Power Hierarchy of the Titans"
             }
           }
         ],
@@ -269,13 +252,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d23a77c4a916c5a8",
+  "active": "b6261a51fb3ae58e",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
     "conflict-files-obsidian-git.md",
