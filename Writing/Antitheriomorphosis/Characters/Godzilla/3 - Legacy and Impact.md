@@ -305,7 +305,7 @@ Godzilla's presence has directly influenced evolutionary paths of countless spec
 - For his influence on the Titan hierarchy, see [[Hierarchical Position]]
 - For relationships with key figures, see [[10 - Personal Relationships]]
 <<<<<<< HEAD
-- For energy manipulation legacy, see [[Domination of Energy]]
+- For energy manipulation legacy, see [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]
 =======
 - For energy manipulation legacy, see [[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]
 > > > > > > > origin/main

@@ -4556,19 +4556,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 808,
+      "wordCount": 809,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.6933333333333334,
-      "characterCount": 7936,
-      "nonWhitespaceCharacterCount": 6668,
-      "readingTimeInMinutes": 3.049056603773585,
-      "linkCount": 0,
+      "pageCount": 2.6966666666666668,
+      "characterCount": 8004,
+      "nonWhitespaceCharacterCount": 6735,
+      "readingTimeInMinutes": 3.0528301886792453,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743702945431,
-      "modifiedDate": 1744580241420,
-      "sizeInBytes": 7946,
+      "modifiedDate": 1744603423839,
+      "sizeInBytes": 8014,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4681,25 +4681,50 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1580,
+      "wordCount": 1538,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.266666666666667,
-      "characterCount": 15218,
-      "nonWhitespaceCharacterCount": 12915,
-      "readingTimeInMinutes": 5.962264150943396,
-      "linkCount": 0,
+      "pageCount": 5.126666666666667,
+      "characterCount": 14721,
+      "nonWhitespaceCharacterCount": 12491,
+      "readingTimeInMinutes": 5.80377358490566,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743767141898,
-      "modifiedDate": 1744580241602,
-      "sizeInBytes": 15240,
+      "modifiedDate": 1744603424408,
+      "sizeInBytes": 15376,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Energy Communication",
+        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
+        "component_type": "society",
+        "component_category": "communication",
+        "related_components": [
+          "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]",
+          "[[Dorsal Fin Structure]]",
+          "[[Factional Divisions]]"
+        ],
+        "manifestations": [
+          "Energy Signatures",
+          "Multi-dimensional Language",
+          "Factional Dialects",
+          "Knowledge Transmission"
+        ],
+        "current_status": "Limited to Godzilla and Divine Moths",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/society/communication"
+        ],
+        "created": "2025-04-07",
+        "last_modified": "2025-04-07"
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Culture.md": {
@@ -4958,7 +4983,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "The Nordsons and Lepidiels.canvas": {
+    "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -4975,6 +5000,31 @@
       "createdDate": 1744603157164,
       "modifiedDate": 1744603157164,
       "sizeInBytes": 5076,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744603432603,
+      "modifiedDate": 1744603432603,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

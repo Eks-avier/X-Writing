@@ -37,32 +37,21 @@
             "id": "0922eb1f9b3eceb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
-                "mode": "source",
-                "source": false
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+                "viewState": {
+                  "x": 501.70430178235256,
+                  "y": 113.52697036765494,
+                  "zoom": -1.6666665039062498
+                }
               },
-              "icon": "lucide-file",
-              "title": "Keystone Arc"
-            }
-          },
-          {
-            "id": "94741859cc814df7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-layout-dashboard",
+              "title": "Domination of Energy"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Domination of Energy"
             }
           },
           {
@@ -251,9 +241,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Domination of Energy"
             }
           }
         ],
@@ -277,15 +269,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "94741859cc814df7",
+  "active": "d23a77c4a916c5a8",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
-    "The Nordsons and Lepidiels.canvas",
+    "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
     "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
@@ -306,7 +300,6 @@
     "Notepad.md",
     "Notepad 2.md",
     "Spending.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
@@ -318,7 +311,6 @@
     "Tags/#atm+species+classification+ascendant_line",
     "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",

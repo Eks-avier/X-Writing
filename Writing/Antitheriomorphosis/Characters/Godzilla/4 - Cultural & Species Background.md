@@ -584,7 +584,7 @@ Godzilla's support of Kong's Hollow Earth exploration includes search for possib
 - For his current status as Alpha Paramount, see [[6 - Hierarchical Position & Authority]]
 - For more about his father, see [[Dagon, the Last Northern Patriarch]]
 <<<<<<< HEAD
-- For his power development, see [[Domination of Energy ]]
+- For his power development, see [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]
 =======
 - For his power development, see [[Writing/Antitheriomorphosis/Unrefined/Domination of Energy]]
 > > > > > > > origin/main

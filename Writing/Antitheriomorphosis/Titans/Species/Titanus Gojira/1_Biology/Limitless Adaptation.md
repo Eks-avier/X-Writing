@@ -4,7 +4,7 @@ parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
 component_type: biology
 component_category: ability
 related_components:
-  - "[[Domination of Energy]]"
+  - "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]"
   - "[[Regenerative Systems]]"
   - "[[Physical Characteristics]]"
 manifestations:
@@ -120,7 +120,7 @@ His physical form represents not inherited traits but the cumulative result of i
 
 ## Related Aspects
 
-- [[Domination of Energy]] - Provides energy reserves necessary for major adaptations
+- [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]] - Provides energy reserves necessary for major adaptations
 - [[Regenerative Systems]] - Works in concert with adaptation to ensure improved recovery
 - [[Physical Characteristics]] - Current form represents cumulative adaptations over millions of years
 - [[Species Decline]] - Despite this ability, specialized threats eventually overwhelmed adaptation capacity

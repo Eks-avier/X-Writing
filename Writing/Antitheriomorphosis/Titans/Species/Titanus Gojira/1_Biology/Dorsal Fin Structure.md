@@ -175,7 +175,7 @@ Following Antitheriomorphosis, the dorsal fin structures remain part of Godzilla
 
 ## Related Aspects
 
-- [[Domination of Energy]] - Dorsal fins serve as primary collection apparatus for energy absorption
+- [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]] - Dorsal fins serve as primary collection apparatus for energy absorption
 - [[Evolutionary Origins]] - Fins represent key adaptive development in species history
 - [[Physical Characteristics]] - Integrated component of overall defensive and energy systems
 - [[Atomic Projection]] - Primary channeling system for energy release applications

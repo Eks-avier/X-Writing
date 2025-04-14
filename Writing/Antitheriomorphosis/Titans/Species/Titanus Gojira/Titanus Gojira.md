@@ -54,7 +54,7 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 
 ### Energy Domination
 
-![[Domination of Energy#Summary]]
+![[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy#Summary]]
 
 ## Society & Behavior
 

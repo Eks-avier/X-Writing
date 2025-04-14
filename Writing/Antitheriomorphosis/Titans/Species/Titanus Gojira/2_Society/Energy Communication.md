@@ -4,7 +4,7 @@ parent: "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]"
 component_type: society
 component_category: communication
 related_components:
-  - "[[Domination of Energy]]"
+  - "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]"
   - "[[Dorsal Fin Structure]]"
   - "[[Factional Divisions]]"
 manifestations:
@@ -204,7 +204,7 @@ This persistence represents a crucial connection to their prehistoric existenceâ
 
 ## Related Aspects
 
-- [[Domination of Energy]] - The communication system represents an unconscious application of energy control
+- [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]] - The communication system represents an unconscious application of energy control
 - [[Dorsal Fin Structure]] - Physical mechanism for visual component of energy communication
 - [[Factional Divisions]] - Source of dialectical variations in communication style
 - [[Universal Hierarchy of Priorities]] - Value system communicated through energy patterns

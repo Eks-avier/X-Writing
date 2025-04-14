@@ -123,7 +123,7 @@ Once the species established its core abilities, particularly Limitless Adaptati
 ## Related Aspects
 
 - [[Limitless Adaptation]] - Evolved from these early radiation processing capabilities
-- [[Domination of Energy]] - Foundation established through primitive radiation absorption
+- [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]] - Foundation established through primitive radiation absorption
 - [[Physical Characteristics]] - Body structure evolved to maximize radiation processing efficiency
 - [[Dorsal Fin Structure]] - Began as simple thermal regulators before specializing as energy collectors
 

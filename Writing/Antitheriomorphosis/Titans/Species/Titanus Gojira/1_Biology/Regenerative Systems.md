@@ -5,7 +5,7 @@ component_type: biology
 component_category: physiological
 related_components:
   - "[[Limitless Adaptation]]"
-  - "[[Domination of Energy]]"
+  - "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]"
   - "[[Physical Characteristics]]"
 manifestations:
   - Cellular Reconstruction
@@ -158,7 +158,7 @@ These advantages created a species whose members measured existence in geologica
 ## Related Aspects
 
 - [[Limitless Adaptation]] - Directly enhances regeneration through learning from each healing event
-- [[Domination of Energy]] - Provides energy resources necessary for rapid healing processes
+- [[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]] - Provides energy resources necessary for rapid healing processes
 - [[Physical Characteristics]] - Perfect condition maintained through continuous regeneration
 - [[Reproductive Biology]] - Reduced reproductive pressure due to extended individual lifespans
 
