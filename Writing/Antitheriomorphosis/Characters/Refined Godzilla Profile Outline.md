@@ -98,6 +98,11 @@
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
 		- Apparently, she is also distracted when she sess his undershirt peeking
 			- What does she even want at this point?!
-		- Now wears them whenever he feels like it
-	- **Underpants**: Prefers 
+		- Now wears them whenever he feels like it, typically in winter so he isn't too obvious that he isn't cold
+	- **Underpants**: Owns a variety of the following and *all* are black:
+		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
+			- He only uses boxer shorts and briefs in his private quarters and he is lounging
+				- Of course no one but him knows this, but Mothra has observed a pattern
+					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect what each Titan's preferred underpants is.  
+						- She then made a little res
 - 
