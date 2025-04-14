@@ -72,8 +72,20 @@
 	4. Navy blues
 	5. Forest greens
 - **Clothing Material**: All clothing used to be breathable, flexible, durable, and comfortable materials but Mothra personally replaced each shirt's material with her own silk.
-	- Any other new clothes he would have are made with her silk, which is
-		- 
+	- Any other new clothes he would have are made with her silk, which is:
+		- Supremely durable
+			- Bulletproof and also proofed against other high-speed projectiles
+			- Fireproof
+			- Waterproof
+			- Highly blast resistant
+		- Highly flexible
+			- He can comfortably fight in them
+			- Returns to its original form if stretched
+		- Easily maintainable
+			- Mothra can simply repair it herself, and she produces unlimited silk
+			- Cleaning it is effortless too as dirt and stains 
+		- Can channel his atomic energy albeit limitedly
+			- High energy output can compromise the integrity of the clothes
 - **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
 - **Shirts**: Nearly all of his shirts are button-downs
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
