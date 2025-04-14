@@ -17,7 +17,7 @@ modified: 2024-04-07
 > [!quote] Energy Mastery
 > “Where once he was a walking apocalypse, he is now something far more precise, his mastery of energy sharpened by necessity.”
 
-This document details the energy-based abilities and techniques of [[Godzilla, the King of the Monsters]], focusing on his signature power: domination of energy.
+This document details the energy-based abilities and techniques of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]], focusing on his signature power: domination of energy.
 
 ## Core Abilities
 
@@ -192,7 +192,7 @@ This soul strength explains why, despite being unable to cast spells or manipula
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Physical Capabilities and Combat]]
 - [[Godzilla - Sensory Capabilities]]
 - [[Godzilla - Biology and Physiology]]

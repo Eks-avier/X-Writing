@@ -16,7 +16,7 @@ modified: 2024-04-07
 > [!quote] Sensory Integration
 > “A being who can detect a single heart palpitation across a room but misses the obvious romantic tension between close companions. The most sophisticated sensory system on the planet is ironically compromised by the very bonds that define his existence.”
 
-This document details the extraordinary sensory capabilities of [[Godzilla, the King of the Monsters]], their applications, limitations, and evolution over time.
+This document details the extraordinary sensory capabilities of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]], their applications, limitations, and evolution over time.
 
 ## Enhanced Senses
 
@@ -244,7 +244,7 @@ These limitations create an intriguing duality - a being who can detect a single
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Energy Domination]]
 - [[Godzilla - Physical Capabilities and Combat]]
 - [[Godzilla - Personality and Relationships]]

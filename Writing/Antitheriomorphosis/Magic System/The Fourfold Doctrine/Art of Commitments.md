@@ -329,7 +329,7 @@ This creates a natural progression from novice to master:
 
 ## VI. Case Study: The Vow of Godzilla and Mothra
 
-Among all known Vows, none are as powerful as the one sworn between [[Godzilla, the King of the Monsters|Godzilla]] and [[Mothra, the Queen of the Monsters|Mothra]].
+Among all known Vows, none are as powerful as the one sworn between [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godzilla]] and [[Mothra, the Queen of the Monsters|Mothra]].
 
 ### Extraordinary Nature
 

@@ -18,7 +18,7 @@ modified: 2024-04-07
 > [!quote] Duality
 > “Godzilla is evolving into a scholar-warrior, reconciling the duality of his nature as both a Titan king and a mentor to humanity.”
 
-This document explores the inner world, behavioral patterns, and significant relationships of [[Godzilla, the King of the Monsters]], focusing on his psychological development and connections with other beings.
+This document explores the inner world, behavioral patterns, and significant relationships of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]], focusing on his psychological development and connections with other beings.
 
 ## Behavior, Mindset and Philosophy
 
@@ -158,7 +158,7 @@ This formalized governance approach represents significant evolution from his pr
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Background and Heritage]]
 - [[Godzilla - Sensory Capabilities]]
 - [[Mothra, the Queen of the Monsters]]

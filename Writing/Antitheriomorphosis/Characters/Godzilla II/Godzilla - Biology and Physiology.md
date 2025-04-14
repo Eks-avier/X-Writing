@@ -17,7 +17,7 @@ modified: 2024-04-07
 > [!quote] Biological Anomaly
 > “For a creature who maintained constant alertness for over 250 million years, the willingness to surrender consciousness—even temporarily—marks unprecedented character development.”
 
-This document details the unique biological functions and physiological processes of [[Godzilla, the King of the Monsters]], focusing on hibernation patterns, sleep evolution, and regenerative capabilities.
+This document details the unique biological functions and physiological processes of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]], focusing on hibernation patterns, sleep evolution, and regenerative capabilities.
 
 ## Hibernation Cycle & Sleep Evolution
 
@@ -161,7 +161,7 @@ Godzilla's regenerative capabilities are directly linked to his energy manipulat
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Abilities and Energy Manipulation]]
 - [[Godzilla - Physical Capabilities and Combat]]
 - [[Mothra, the Queen of the Monsters]]

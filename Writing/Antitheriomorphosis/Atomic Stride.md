@@ -1,6 +1,6 @@
 # Atomic Stride - IN DEVELOPMENT
 
-The Atomic Stride, or Stride as I, [[Godzilla, the King of the Monsters|Godric Nordson]], simply call it, is a developing ability under his *Domination of Energy* aimed to make him more mobile.
+The Atomic Stride, or Stride as I, [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godric Nordson]], simply call it, is a developing ability under his *Domination of Energy* aimed to make him more mobile.
 
 Its goal is simple: to take myself from point A to point B near instantaneously. This ability will be primarily useful in situations where speed and agility is required.
 

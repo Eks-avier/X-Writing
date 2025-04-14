@@ -86,7 +86,7 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 
 ## Representatives
 
-- **[[Godzilla, the King of the Monsters]]**: Last pure member, Northern faction, current Alpha Paramount and bearer of both core abilities in their most refined form
+- **[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]**: Last pure member, Northern faction, current Alpha Paramount and bearer of both core abilities in their most refined form
 - **[[Dagon, the Last Northern Patriarch]]**: Godzilla's father, defender against MUTO Prime whose sacrifice delayed the parasite's advance northward, preserving his son's chance for survival
 
 ## Data Analysis

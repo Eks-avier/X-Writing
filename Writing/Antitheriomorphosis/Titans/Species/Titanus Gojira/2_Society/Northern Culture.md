@@ -1,19 +1,19 @@
 ---
 title: "Northern Titanus gojira: Cultural Profile"
 parent: "[[Titanus Gojira Species Profile]]"
-component_type: "culture"
-component_category: "titan_culture"
+component_type: culture
+component_category: titan_culture
 related_entities:
-  - "[[Godzilla, the King of the Monsters]]"
+  - "[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]"
   - "[[Dagon, the Last Northern Patriarch]]"
-faction: "Northern"
-territory: "Northern Hemisphere"
-cultural_emphasis: "Family bonds"
+faction: Northern
+territory: Northern Hemisphere
+cultural_emphasis: Family bonds
 distinctive_traits:
-  - "Whiter dorsal fins"
-  - "Cooler-toned scales"
-  - "Cold environment adaptation"
-  - "Familial prioritization"
+  - Whiter dorsal fins
+  - Cooler-toned scales
+  - Cold environment adaptation
+  - Familial prioritization
 tags:
   - atm
   - atm/culture/northern_gojira

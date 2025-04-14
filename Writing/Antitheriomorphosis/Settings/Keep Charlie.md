@@ -62,7 +62,7 @@ This emergency system serves as an absolute failsafe against persistent intrusio
 
 ## History
 
-Following his subjugation by the [[Godzilla, the King of the Monsters]] and [[Mothra, the Queen of the Monsters]], Battra was ordered to assist Monarch, leading to Castle Bravo's transformation into a mobile fortress. When Mothra lifted the [[Divine Mandate]]—which had prevented humans from accessing sorcery—Battra established the Keep to train emerging sorcerers.
+Following his subjugation by the [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]] and [[Mothra, the Queen of the Monsters]], Battra was ordered to assist Monarch, leading to Castle Bravo's transformation into a mobile fortress. When Mothra lifted the [[Divine Mandate]]—which had prevented humans from accessing sorcery—Battra established the Keep to train emerging sorcerers.
 
 The facility's creation was precipitated by the appearance of three young sorcerers and [[Miki Saegusa]], humanity's first natural psychic in millennia. To accommodate these students without disrupting Castle Bravo's scientific operations, Battra sacrificed one of his pocket universes to create Keep Charlie.
 

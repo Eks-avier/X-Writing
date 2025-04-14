@@ -17,7 +17,7 @@ modified: 2024-04-07
 > [!quote] Cultural Legacy
 > “A descendant of the Northerners, one of the four great factions of _Titanus gojira_, Godzilla embodies their raw power and resilience.”
 
-This document covers the cultural background, heritage, and historical significance of [[Godzilla, the King of the Monsters]], focusing on his Northern _Titanus gojira_ lineage.
+This document covers the cultural background, heritage, and historical significance of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]], focusing on his Northern _Titanus gojira_ lineage.
 
 ## Cultural Heritage
 
@@ -168,7 +168,7 @@ In more recent times, Godzilla's pivotal historical contributions include:
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Personality and Relationships]]
 - [[Dagon, the Last Northern Patriarch]]
 - [[Mothra, the Queen of the Monsters]]

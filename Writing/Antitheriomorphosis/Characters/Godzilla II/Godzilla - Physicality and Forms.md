@@ -16,7 +16,7 @@ modified: 2024-04-07
 > [!quote] Presence
 > "Despite his human appearance, Godric cannot truly hide among humanity due to his overwhelming presence."
 
-This document details the physical manifestation of [[Godzilla, the King of the Monsters]] in both his current human form and original Titan form, along with associated regalia and appearance-related attributes.
+This document details the physical manifestation of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]] in both his current human form and original Titan form, along with associated regalia and appearance-related attributes.
 
 ## Human Form
 
@@ -193,7 +193,7 @@ Unlike ceremonial crowns of human kings, Godzilla's crown serves a deeply person
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Sensory Capabilities]]
 - [[Godzilla - Abilities and Energy Manipulation]]
 - [[Mothra, the Queen of the Monsters]]

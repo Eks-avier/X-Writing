@@ -17,7 +17,7 @@ modified: 2024-04-07
 > [!quote] Fighting Philosophy
 > “Power is absolute. Fight to end quickly—no wasted effort, no unnecessary flash. Never reckless, never hasty. Every move deliberate and measured. Rarely initiates combat, but once engaged, fights with unstoppable force.”
 
-This document details the physical capabilities, combat style, and fighting evolution of [[Godzilla, the King of the Monsters]] in his human form as Godric Nordson.
+This document details the physical capabilities, combat style, and fighting evolution of [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]] in his human form as Godric Nordson.
 
 ## Physical Capabilities
 
@@ -288,7 +288,7 @@ This comprehensive approach represents a fighting system that adapts with each e
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Abilities and Energy Manipulation]]
 - [[Godzilla - Sensory Capabilities]]
 - [[Godzilla - Biology and Physiology]]

@@ -16,7 +16,7 @@ modified: 2024-04-07
 > [!tip] Interesting Facts
 > “Despite his seriousness, he secretly enjoys cooking, particularly if meat is involved—a fact known only to Mothra, who is given credit for his dishes.”
 
-This document contains miscellaneous information, interesting facts, and contextual notes about [[Godzilla, the King of the Monsters]] that don't fit neatly into other categories.
+This document contains miscellaneous information, interesting facts, and contextual notes about [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]] that don't fit neatly into other categories.
 
 ## Personal Trivia
 
@@ -99,7 +99,7 @@ This document contains miscellaneous information, interesting facts, and context
 ---
 
 **Related Notes**:
-- [[Godzilla, the King of the Monsters]]
+- [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]
 - [[Godzilla - Physicality and Forms]]
 - [[Godzilla - Personality and Relationships]]
 - [[Mothra, the Queen of the Monsters]]

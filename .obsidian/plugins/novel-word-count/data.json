@@ -2668,13 +2668,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1804,
+      "wordCount": 1806,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.013333333333334,
-      "characterCount": 15458,
-      "nonWhitespaceCharacterCount": 13291,
-      "readingTimeInMinutes": 6.807547169811321,
+      "pageCount": 6.02,
+      "characterCount": 15560,
+      "nonWhitespaceCharacterCount": 13391,
+      "readingTimeInMinutes": 6.815094339622641,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": [
@@ -2682,8 +2682,8 @@
         "Godric's Sensory System"
       ],
       "createdDate": 1743965334175,
-      "modifiedDate": 1744144491524,
-      "sizeInBytes": 15709,
+      "modifiedDate": 1744649034446,
+      "sizeInBytes": 15811,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 6.013333333333334,
@@ -4706,25 +4706,51 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 4378,
+      "wordCount": 4324,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 14.593333333333334,
-      "characterCount": 37881,
-      "nonWhitespaceCharacterCount": 32985,
-      "readingTimeInMinutes": 16.52075471698113,
-      "linkCount": 0,
+      "pageCount": 14.413333333333334,
+      "characterCount": 37263,
+      "nonWhitespaceCharacterCount": 32449,
+      "readingTimeInMinutes": 16.316981132075473,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743669559315,
-      "modifiedDate": 1743846388237,
-      "sizeInBytes": 38015,
+      "modifiedDate": 1744649035027,
+      "sizeInBytes": 38048,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "title": "Northern Titanus gojira: Cultural Profile",
+        "parent": "[[Titanus Gojira Species Profile]]",
+        "component_type": "culture",
+        "component_category": "titan_culture",
+        "related_entities": [
+          "[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]",
+          "[[Dagon, the Last Northern Patriarch]]"
+        ],
+        "faction": "Northern",
+        "territory": "Northern Hemisphere",
+        "cultural_emphasis": "Family bonds",
+        "distinctive_traits": [
+          "Whiter dorsal fins",
+          "Cooler-toned scales",
+          "Cold environment adaptation",
+          "Familial prioritization"
+        ],
+        "tags": [
+          "atm",
+          "atm/culture/northern_gojira",
+          "atm/titan/northern_faction"
+        ],
+        "created": "2025-04-03",
+        "last_modified": "2025-04-03"
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Northern Faction.md": {
@@ -5025,6 +5051,31 @@
       "createdDate": 1744059555465,
       "modifiedDate": 1744059724751,
       "sizeInBytes": 10335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 93,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744649060573,
+      "modifiedDate": 1744649261131,
+      "sizeInBytes": 113,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

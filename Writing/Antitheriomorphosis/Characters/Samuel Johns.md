@@ -18,7 +18,7 @@ File: Main Alternate Universe/Characters/Samuel Johns.md
 
 Samuel Johns is a purely telepathic student in Monarch's Psionic Division, specializing in psychic abilities such as mind linking and psychic projection. He is one of only a few individuals capable of projecting his consciousness at a distance. Though highly skilled in Psionic, he lacks significant combat training, something that concerns both his instructors and his mission partner, [[First Lieutenant Blaine Richmond Carter]].
 
-Samuel's background is one of hardship. He spent nearly 20 years in an underground facility as a test subject before being rescued by [[Godzilla, the King of the Monsters]] alongside other Psionic-sensitive individuals. Since then, he has been under Monarch's care and is now part of the first generation of Psionic students at Castle Bravo. His mission alongside Blaine marks his first major assignment outside of a controlled training environment.
+Samuel's background is one of hardship. He spent nearly 20 years in an underground facility as a test subject before being rescued by [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]] alongside other Psionic-sensitive individuals. Since then, he has been under Monarch's care and is now part of the first generation of Psionic students at Castle Bravo. His mission alongside Blaine marks his first major assignment outside of a controlled training environment.
 
 ## Personality
 

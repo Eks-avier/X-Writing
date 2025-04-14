@@ -24,7 +24,7 @@ As the true Divine Moth and Earth's celestial guardian, Mothra embodies divine a
 
 A direct servant of Heaven through her inherited divine soul, Mothra upholds cosmic order with both mercy and judgment. While her twin brother [[Battra, the Lord of the Mystic Arts|Battra]] chose arcane knowledge over immortality, Mothra honored their species' [[Covenant]] with the Heavens, trading magical aptitude for eternal reincarnation. This choice grants her true immortality—not merely longevity, but the absolute certainty that her soul will persist through endless cycles of death and rebirth.
 
-The [[Antitheriomorphosis]] that transformed the Titans into human form has created unprecedented challenges for Mothra. For the first time in countless millennia, she experiences proximity with other Titans—particularly [[Godzilla, the King of the Monsters|Godzilla]]—in ways that awaken unfamiliar emotions and reactions. Though she maintains her divine authority and wisdom, this new existence has begun to blur the line between her celestial perspective and mortal experience.
+The [[Antitheriomorphosis]] that transformed the Titans into human form has created unprecedented challenges for Mothra. For the first time in countless millennia, she experiences proximity with other Titans—particularly [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godzilla]]—in ways that awaken unfamiliar emotions and reactions. Though she maintains her divine authority and wisdom, this new existence has begun to blur the line between her celestial perspective and mortal experience.
 
 ## Basic Profile
 
@@ -276,7 +276,7 @@ As she begins experiencing emotions more directly in human form, these ancient w
 > [!info] Key Relationships
 > Mothra maintains complex relationships with other Titans and humans, balancing ancient ties with new dynamics in her human form.
 
-### [[Godzilla, the King of the Monsters|Godzilla]] (Oldest Friend, Unspoken Feelings)
+### [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godzilla]] (Oldest Friend, Unspoken Feelings)
 
 Having known each other since they were hatchlings, Mothra and Godzilla share an unbreakable bond forged through countless shared experiences, including defending each other from the [[Jinshin-Mushi]] in their youth. Though they were often separated for millennia during their Titan existence, their transformation into humans has made them inseparable for the first time.
 

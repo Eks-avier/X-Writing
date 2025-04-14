@@ -269,7 +269,7 @@ Battra's exile following the Atlantean incident deepened this divide, yet he con
 
 Despite theatrical mockery and apparent disdain, Battra still secretly bakes treats for Monarch personnel and allows Mothra to take credit—one of the few hobbies they share without competition or conflict.
 
-### [[Godzilla, the King of the Monsters|Godzilla]] (Oldest Friend, Respected Adversary)
+### [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godzilla]] (Oldest Friend, Respected Adversary)
 
 Battra and Godzilla share a bond that transcends their apparent differences. From their first meeting as vulnerable hatchlings, they formed a connection that endured through eons of separation. Unlike his relationship with Mothra, Battra achieved true reconciliation with Godzilla during their battle in the Xillien Invasion—fitting for a species whose “love language,” as Battra once jokingly observed, is combat.
 

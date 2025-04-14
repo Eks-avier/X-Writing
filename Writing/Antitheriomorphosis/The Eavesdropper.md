@@ -1,6 +1,6 @@
 # The Eavesdropper
 
-The Eavesdropper is a mystical concoction created by [[Battra, the Lord of the Mystic Arts|Battra]] for senior [[Monarch]] personnel. While ostensibly created to grant immunity to [[Keep Charlie]]'s intangibility failsafe, it serves a more covert purpose as a security measure ordered by [[Godzilla, the King of the Monsters|Godzilla]] and [[Mothra, the Queen of the Monsters|Mothra]].
+The Eavesdropper is a mystical concoction created by [[Battra, the Lord of the Mystic Arts|Battra]] for senior [[Monarch]] personnel. While ostensibly created to grant immunity to [[Keep Charlie]]'s intangibility failsafe, it serves a more covert purpose as a security measure ordered by [[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters|Godzilla]] and [[Mothra, the Queen of the Monsters|Mothra]].
 
 ## Properties
 
