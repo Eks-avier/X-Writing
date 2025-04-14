@@ -48,4 +48,5 @@
 	- Almost always stoic
 	- Favors micro-expressions
 - **Stillness**: Can remain perfectly motionless for extended periods of time when observing
-- **Sunbathing**: A habit he likes to recreationally; it also allows him to absorb solar energy
+- **Sunbathing**: A habit he likes to do recreationally; it also allows him to absorb solar energy at the same time
+- 
