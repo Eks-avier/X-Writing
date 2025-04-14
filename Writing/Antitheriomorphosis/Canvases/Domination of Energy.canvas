@@ -168,6 +168,7 @@
       "y": -680
     },
     {
+<<<<<<< HEAD
       "height": 50,
       "id": "bd6f79d0c059d1cf",
       "styleAttributes": {
@@ -201,6 +202,8 @@
       "y": -660
     },
     {
+=======
+>>>>>>> origin/main
       "height": 110,
       "id": "d8175de54cd52914",
       "styleAttributes": {
@@ -212,6 +215,7 @@
       "y": -180
     },
     {
+<<<<<<< HEAD
       "height": 50,
       "id": "c7423167f86da180",
       "styleAttributes": {
@@ -312,6 +316,9 @@
     },
     {
       "height": 50,
+=======
+      "height": 50,
+>>>>>>> origin/main
       "id": "7d88b77f835f5c05",
       "styleAttributes": {
       },
@@ -323,6 +330,20 @@
     },
     {
       "height": 50,
+<<<<<<< HEAD
+=======
+      "id": "c7423167f86da180",
+      "styleAttributes": {
+      },
+      "text": "# Energy Manipulation",
+      "type": "text",
+      "width": 381,
+      "x": -182,
+      "y": -120
+    },
+    {
+      "height": 50,
+>>>>>>> origin/main
       "id": "06742d418f47bd70",
       "styleAttributes": {
       },
@@ -333,6 +354,20 @@
       "y": -440
     },
     {
+<<<<<<< HEAD
+=======
+      "height": 50,
+      "id": "bd6f79d0c059d1cf",
+      "styleAttributes": {
+      },
+      "text": "# Domination of Energy",
+      "type": "text",
+      "width": 385,
+      "x": -182,
+      "y": -630
+    },
+    {
+>>>>>>> origin/main
       "height": 50,
       "id": "f7e601abadc659ce",
       "styleAttributes": {
@@ -345,6 +380,31 @@
     },
     {
       "height": 50,
+<<<<<<< HEAD
+=======
+      "id": "15fc477595b18667",
+      "styleAttributes": {
+      },
+      "text": "# Asymmetrical Permeable Shield",
+      "type": "text",
+      "width": 506,
+      "x": -101,
+      "y": 469
+    },
+    {
+      "height": 60,
+      "id": "b1a8a9bd2dd4e290",
+      "styleAttributes": {
+      },
+      "text": "# Energy Communication",
+      "type": "text",
+      "width": 423,
+      "x": -201,
+      "y": 163
+    },
+    {
+      "height": 50,
+>>>>>>> origin/main
       "id": "82881d1172c305d8",
       "styleAttributes": {
       },
@@ -367,6 +427,86 @@
     },
     {
       "height": 50,
+<<<<<<< HEAD
+=======
+      "id": "9073af40da0bd27c",
+      "styleAttributes": {
+      },
+      "text": "# Magic Nullification",
+      "type": "text",
+      "width": 320,
+      "x": 1360,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "b79b6fe59df756cd",
+      "styleAttributes": {
+      },
+      "text": "# Magic Disruption",
+      "type": "text",
+      "width": 316,
+      "x": 951,
+      "y": -360
+    },
+    {
+      "height": 60,
+      "id": "a478908b04bf7175",
+      "styleAttributes": {
+      },
+      "text": "# The Zone",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -600
+    },
+    {
+      "height": 50,
+      "id": "16271fbfcb6bf7c2",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Breath",
+      "type": "text",
+      "width": 256,
+      "x": 671,
+      "y": 579
+    },
+    {
+      "height": 50,
+      "id": "a631b387fb15f077",
+      "styleAttributes": {
+      },
+      "text": "# Nuclear Pulse",
+      "type": "text",
+      "width": 286,
+      "x": 994,
+      "y": 519
+    },
+    {
+      "height": 60,
+      "id": "a3dfb63aa174e7ff",
+      "styleAttributes": {
+      },
+      "text": "# Burning ",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -660
+    },
+    {
+      "height": 50,
+      "id": "6193907361043c0c",
+      "styleAttributes": {
+      },
+      "text": "# Energy Conversion",
+      "type": "text",
+      "width": 338,
+      "x": 180,
+      "y": -260
+    },
+    {
+      "height": 50,
+>>>>>>> origin/main
       "id": "d1638a185da0af89",
       "styleAttributes": {
       },
@@ -397,6 +537,20 @@
       "width": 305,
       "x": 315,
       "y": 629
+<<<<<<< HEAD
+=======
+    },
+    {
+      "height": 123,
+      "id": "b2e1e1e047388a2e",
+      "styleAttributes": {
+      },
+      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
+      "type": "text",
+      "width": 370,
+      "x": 731,
+      "y": 40
+>>>>>>> origin/main
     }
   ]
 }

@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "90a667c1ce6d5f95",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
             "id": "b6261a51fb3ae58e",
             "type": "leaf",
             "state": {
@@ -89,8 +75,7 @@
               "title": "Domination of Energy - Profile"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,13 +290,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90a667c1ce6d5f95",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
+    "The Nordsons and Lepidiels.canvas",
+    "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Communication Styles of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
@@ -332,7 +319,6 @@
     "Notepad.md",
     "Notepad 2.md",
     "Spending.md",
-    "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
