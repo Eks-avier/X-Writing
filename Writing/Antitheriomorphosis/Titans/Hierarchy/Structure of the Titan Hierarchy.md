@@ -331,5 +331,4 @@ See the following files for additional details regarding the Titan Hierarchy:
 
 - [[Power Hierarchy of the Titans]] - Discusses the informal hierarchy of the Titans that are based entirely on raw power output
 - [[Adaptations of the Titan Hierarchy]] - Discusses how the Titan Hierarchy has evolved in light of the [[Antitheriomorphosis]]
-- [[Protocols of the Titan Hierarchy ]] - Discusses the protocols at the Palace of Monster Island
-- [[Communication Styles of the Titan Hierarchy]] - Discusses how the Titans are to be formally addressed post-Antitheriomorphosis
+- [[Protocols of the Titan Hierarchy]] - Discusses the protocols at the Palace of Monster Island

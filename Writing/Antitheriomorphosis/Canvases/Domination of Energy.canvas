@@ -168,6 +168,39 @@
       "y": -680
     },
     {
+      "height": 50,
+      "id": "bd6f79d0c059d1cf",
+      "styleAttributes": {
+      },
+      "text": "# Domination of Energy",
+      "type": "text",
+      "width": 385,
+      "x": -182,
+      "y": -630
+    },
+    {
+      "height": 60,
+      "id": "a478908b04bf7175",
+      "styleAttributes": {
+      },
+      "text": "# The Zone",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -600
+    },
+    {
+      "height": 60,
+      "id": "a3dfb63aa174e7ff",
+      "styleAttributes": {
+      },
+      "text": "# Burning ",
+      "type": "text",
+      "width": 267,
+      "x": 940,
+      "y": -660
+    },
+    {
       "height": 110,
       "id": "d8175de54cd52914",
       "styleAttributes": {
@@ -180,17 +213,6 @@
     },
     {
       "height": 50,
-      "id": "7d88b77f835f5c05",
-      "styleAttributes": {
-      },
-      "text": "# Energy Perception",
-      "type": "text",
-      "width": 314,
-      "x": -529,
-      "y": -260
-    },
-    {
-      "height": 50,
       "id": "c7423167f86da180",
       "styleAttributes": {
       },
@@ -199,39 +221,6 @@
       "width": 381,
       "x": -182,
       "y": -120
-    },
-    {
-      "height": 50,
-      "id": "06742d418f47bd70",
-      "styleAttributes": {
-      },
-      "text": "# Energy Absoprtion",
-      "type": "text",
-      "width": 325,
-      "x": -685,
-      "y": -440
-    },
-    {
-      "height": 50,
-      "id": "bd6f79d0c059d1cf",
-      "styleAttributes": {
-      },
-      "text": "# Domination of Energy",
-      "type": "text",
-      "width": 385,
-      "x": -182,
-      "y": -630
-    },
-    {
-      "height": 50,
-      "id": "f7e601abadc659ce",
-      "styleAttributes": {
-      },
-      "text": "# Internal Energy Manipulation",
-      "type": "text",
-      "width": 483,
-      "x": -711,
-      "y": 280
     },
     {
       "height": 50,
@@ -257,28 +246,6 @@
     },
     {
       "height": 50,
-      "id": "82881d1172c305d8",
-      "styleAttributes": {
-      },
-      "text": "# Atomic Amplifcation",
-      "type": "text",
-      "width": 338,
-      "x": -638,
-      "y": 629
-    },
-    {
-      "height": 50,
-      "id": "1b88a66702d53ddb",
-      "styleAttributes": {
-      },
-      "text": "# [[Atomic Stride|Atomic Stride]]",
-      "type": "text",
-      "width": 271,
-      "x": -605,
-      "y": 820
-    },
-    {
-      "height": 50,
       "id": "9073af40da0bd27c",
       "styleAttributes": {
       },
@@ -298,17 +265,6 @@
       "width": 316,
       "x": 951,
       "y": -360
-    },
-    {
-      "height": 60,
-      "id": "a478908b04bf7175",
-      "styleAttributes": {
-      },
-      "text": "# The Zone",
-      "type": "text",
-      "width": 267,
-      "x": 940,
-      "y": -600
     },
     {
       "height": 50,
@@ -333,17 +289,6 @@
       "y": 519
     },
     {
-      "height": 60,
-      "id": "a3dfb63aa174e7ff",
-      "styleAttributes": {
-      },
-      "text": "# Burning ",
-      "type": "text",
-      "width": 267,
-      "x": 940,
-      "y": -660
-    },
-    {
       "height": 50,
       "id": "6193907361043c0c",
       "styleAttributes": {
@@ -353,6 +298,72 @@
       "width": 338,
       "x": 180,
       "y": -260
+    },
+    {
+      "height": 123,
+      "id": "b2e1e1e047388a2e",
+      "styleAttributes": {
+      },
+      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
+      "type": "text",
+      "width": 370,
+      "x": 731,
+      "y": 40
+    },
+    {
+      "height": 50,
+      "id": "7d88b77f835f5c05",
+      "styleAttributes": {
+      },
+      "text": "# Energy Perception",
+      "type": "text",
+      "width": 314,
+      "x": -529,
+      "y": -260
+    },
+    {
+      "height": 50,
+      "id": "06742d418f47bd70",
+      "styleAttributes": {
+      },
+      "text": "# Energy Absoprtion",
+      "type": "text",
+      "width": 325,
+      "x": -685,
+      "y": -440
+    },
+    {
+      "height": 50,
+      "id": "f7e601abadc659ce",
+      "styleAttributes": {
+      },
+      "text": "# Internal Energy Manipulation",
+      "type": "text",
+      "width": 483,
+      "x": -711,
+      "y": 280
+    },
+    {
+      "height": 50,
+      "id": "82881d1172c305d8",
+      "styleAttributes": {
+      },
+      "text": "# Atomic Amplifcation",
+      "type": "text",
+      "width": 338,
+      "x": -638,
+      "y": 629
+    },
+    {
+      "height": 50,
+      "id": "1b88a66702d53ddb",
+      "styleAttributes": {
+      },
+      "text": "# [[Atomic Stride|Atomic Stride]]",
+      "type": "text",
+      "width": 271,
+      "x": -605,
+      "y": 820
     },
     {
       "height": 50,
@@ -386,17 +397,6 @@
       "width": 305,
       "x": 315,
       "y": 629
-    },
-    {
-      "height": 123,
-      "id": "b2e1e1e047388a2e",
-      "styleAttributes": {
-      },
-      "text": "# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
-      "type": "text",
-      "width": 370,
-      "x": 731,
-      "y": 40
     }
   ]
 }

@@ -4042,7 +4042,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055097,
-      "modifiedDate": 1744284408558,
+      "modifiedDate": 1744602728635,
       "sizeInBytes": 8679,
       "sessionStart": {
         "noteCount": 1,
@@ -4527,31 +4527,6 @@
         "nonWhitespaceCharacterCount": 307
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 875,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9166666666666665,
-      "characterCount": 7038,
-      "nonWhitespaceCharacterCount": 5965,
-      "readingTimeInMinutes": 3.30188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743505112324,
-      "modifiedDate": 1744599552792,
-      "sizeInBytes": 7042,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4881,19 +4856,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2632,
+      "wordCount": 2616,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 8.773333333333333,
-      "characterCount": 20556,
-      "nonWhitespaceCharacterCount": 17125,
-      "readingTimeInMinutes": 9.932075471698113,
-      "linkCount": 5,
+      "pageCount": 8.72,
+      "characterCount": 20424,
+      "nonWhitespaceCharacterCount": 17012,
+      "readingTimeInMinutes": 9.871698113207547,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744599631961,
-      "modifiedDate": 1744602423637,
-      "sizeInBytes": 20732,
+      "modifiedDate": 1744602741735,
+      "sizeInBytes": 20600,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4906,31 +4881,6 @@
           "atm",
           "atm/titan"
         ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Communication Styles of the Titan Hierarchy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 266,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8866666666666667,
-      "characterCount": 2130,
-      "nonWhitespaceCharacterCount": 1816,
-      "readingTimeInMinutes": 1.0037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744600649270,
-      "modifiedDate": 1744600649586,
-      "sizeInBytes": 2130,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md": {
@@ -4983,31 +4933,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 345,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.15,
-      "characterCount": 2538,
-      "nonWhitespaceCharacterCount": 2151,
-      "readingTimeInMinutes": 1.3018867924528301,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744600609061,
-      "modifiedDate": 1744602416044,
-      "sizeInBytes": 2538,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5050,6 +4975,31 @@
       "createdDate": 1744059555465,
       "modifiedDate": 1744059724751,
       "sizeInBytes": 10335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 609,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.03,
+      "characterCount": 4650,
+      "nonWhitespaceCharacterCount": 3952,
+      "readingTimeInMinutes": 2.29811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744600609061,
+      "modifiedDate": 1744602709425,
+      "sizeInBytes": 4650,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
