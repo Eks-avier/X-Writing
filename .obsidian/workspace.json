@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Psionic and Sorcery Divisions"
+              "title": "Monarch Personnel Roster"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Psionic and Sorcery Divisions"
+              "title": "Outline of Monarch Personnel Roster"
             }
           },
           {
@@ -258,10 +258,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Psionic and Sorcery Divisions"
+              "title": "File properties for Monarch Personnel Roster"
             }
           }
         ],
@@ -289,8 +289,8 @@
   },
   "active": "5ccea63ae9fa9536",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
