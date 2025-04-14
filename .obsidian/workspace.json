@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Power Hierarchy of the Titans.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
                 "mode": "source",
                 "source": false
               },
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,7 +297,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md"
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
               },
               "icon": "lucide-info",
               "title": "File properties for Structure of the Titan Hierarchy"
@@ -326,12 +326,13 @@
   },
   "active": "2cb087a31580ed82",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Titans/Adaptations of the Titan Hierarchy Post-ATM.md",
-    "Writing/Antitheriomorphosis/Titans/Post-Antitheriomorphosis State of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Power Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/Communication Styles of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Protocols of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Post-Antitheriomorphosis State of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Communication Styles of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
     "Writing/Antitheriomorphosis/Titans/Species/.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
@@ -352,7 +353,6 @@
     "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
-    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
@@ -363,7 +363,6 @@
     "Tags/#atm+species+titanus_gojira",
     "Tags/#atm+species+classification+ascendant_line",
     "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
-    "Writing/Antitheriomorphosis/Unrefined",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Untitled.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",

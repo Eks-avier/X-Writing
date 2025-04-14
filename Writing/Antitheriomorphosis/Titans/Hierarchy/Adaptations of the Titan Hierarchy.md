@@ -1,4 +1,4 @@
-Post-Antitheriomorphosis Adaptations
+# Adaptions of the Titan Hierarchy
 
 Following transformation into human form, Titans have adapted their governance:
 

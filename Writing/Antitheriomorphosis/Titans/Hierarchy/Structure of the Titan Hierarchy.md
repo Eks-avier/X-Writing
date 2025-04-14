@@ -315,8 +315,11 @@ The Alpha and Beta tiers maintain consistent authority regardless of realm:
 
 This ensures continuity of leadership while allowing for specialized regional governance within each domain. When Alphas or Betas travel between realms, local authorities defer to their higher status regardless of territorial boundaries.
 
-## [[Protocols of the Titan Hierarchy]]
+# Related Files
 
-## [[Communication Styles of the Titan Hierarchy]]
+See the following files for additional details regarding the Titan Hierarchy:
 
-## [[Adaptations of the Titan Hierarchy Post-ATM]]
+- [[Power Hierarchy of the Titans]] - Discusses the informal hierarchy of the Titans that are based entirely on raw power output
+- [[Adaptations of the Titan Hierarchy]] - Discusses how the Titan Hierarchy has evolved in light of the Antitheriomorphosis
+- [[Protocols of the Titan Hierarchy]] - Discusses the protocols at the Palace of Monster Island
+- [[Communication Styles of the Titan Hierarchy]] - Discusses how the Titans are to be formally addressed post-[[Antitheriomorphosis]]
