@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titan Hierarchy System"
+              "title": "Structure of the Titan Hierarchy"
             }
           },
           {
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Antitheriomorphosis"
+              "title": "Outline of Structure of the Titan Hierarchy"
             }
           },
           {
@@ -283,19 +283,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md"
+                "file": "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Atomic Amplification"
+              "title": "File properties for Structure of the Titan Hierarchy"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,10 +310,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2cb087a31580ed82",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
+    "Writing/Antitheriomorphosis/Titans/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
+    "Writing/Antitheriomorphosis/Titans/Species/.md",
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
     "Writing/Antitheriomorphosis/Titans/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/The Warden Tier.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
@@ -338,8 +339,6 @@
     "Writing/Antitheriomorphosis/Characters/Andrew Julius Ford.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/9 - Domination of Energy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/7 - Combat Evolution.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Background and Heritage.md",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
