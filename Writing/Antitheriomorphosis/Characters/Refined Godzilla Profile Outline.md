@@ -106,4 +106,9 @@
 					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.  
 						- She then wrote a paper that documented her findings with Baragon as her accomplice.
 	- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
-- 
+		- They appear nearly like formal trousers
+			- He hates having too many pockets as they are too bulky and unnecessary
+				- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
+					- Godzilla/Godric never asked for that but he appreciates the gesture
+	- **Shorts**: Predominantly swimming trunks and are all black in color
+		- He rarely uses them, his trousers serve their purpose well
