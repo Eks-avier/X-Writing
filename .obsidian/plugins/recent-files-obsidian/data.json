@@ -5,8 +5,16 @@
       "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
     },
     {
+      "basename": "Protocols of the Titan Hierarchy ",
+      "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy .md"
+    },
+    {
       "basename": "Adaptations of the Titan Hierarchy",
       "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md"
+    },
+    {
+      "basename": "Communication Styles of the Titan Hierarchy",
+      "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/Communication Styles of the Titan Hierarchy.md"
     },
     {
       "basename": "Power Hierarchy of the Titans",
@@ -17,12 +25,8 @@
       "path": "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md"
     },
     {
-      "basename": "Titan Hierarchy and Formal Titles",
-      "path": "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md"
-    },
-    {
       "basename": "The Wardens of the Surface",
-      "path": "Writing/Antitheriomorphosis/Titans/The Wardens of the Surface.md"
+      "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md"
     },
     {
       "basename": "The Weakening of the Divine Mandate",
@@ -58,7 +62,7 @@
     },
     {
       "basename": "The Scales of 'Titanus mosura'",
-      "path": "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md"
+      "path": "Writing/Antitheriomorphosis/Titans/Species/The Scales of 'Titanus mosura'.md"
     },
     {
       "basename": "Biollante, the Rose of the North",
@@ -187,14 +191,6 @@
     {
       "basename": "1 - The Proposition",
       "path": "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/1 - The Proposition.md"
-    },
-    {
-      "basename": "2 - Historical Timeline",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla/2 - Historical Timeline.md"
-    },
-    {
-      "basename": "Godzilla - Background and Heritage",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Background and Heritage.md"
     }
   ],
   "omittedPaths": [],

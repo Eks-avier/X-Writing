@@ -1,4 +1,4 @@
-The Informal Power Hierarchy
+# Power Hierarchy of the Titans
 
 Alongside the formal standing system, an unofficial hierarchy based on raw power exists:
 

@@ -1,4 +1,4 @@
-Formal Court Protocols
+# Protocols of the Titan Hierarchy
 
 ### Court Structure
 
@@ -50,3 +50,4 @@ Monster Island Palace serves as the physical manifestation of Titan governance:
 - Beta Tier presents requests rather than petitions, standing at full height
 - All petitions addressed to Paramount regardless of subject matter
 - Divine Alpha and Sovereign Alpha may endorse petitions with formal gestures
+
