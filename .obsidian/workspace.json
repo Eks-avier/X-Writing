@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refined Godzilla Profile Outline"
+              "title": "Antitheriomorphosis"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refined Godzilla Profile Outline"
+              "title": "Outline of Antitheriomorphosis"
             }
           },
           {
@@ -245,10 +245,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
+                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Refined Godzilla Profile Outline"
+              "title": "File properties for Antitheriomorphosis"
             }
           }
         ],
@@ -276,8 +276,8 @@
   },
   "active": "5ccea63ae9fa9536",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
