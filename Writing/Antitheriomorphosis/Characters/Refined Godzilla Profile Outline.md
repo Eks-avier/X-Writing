@@ -71,6 +71,12 @@
 	3. Charcoal gray
 	4. Navy blues
 	5. Forest greens
+- **Clothing Material**: All clothing used to be breathable, flexible, durable, and comfortable materials but Mothra personally replaced each shirt's material with her own silk.
+	- Any other new clothes he would have are made with her silk, which is
+		- 
 - **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
-- **Shirts**: Nearly all of his shirts are button-downs with his favorite colors
-	- 
+- **Shirts**: Nearly all of his shirts are button-downs
+	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
+		- He only has *one* green shirt.
+			- It came from a set of three, along with a blue and black shirt.
+	- **Undershirts**: Uses them from time to time for styling diversity
