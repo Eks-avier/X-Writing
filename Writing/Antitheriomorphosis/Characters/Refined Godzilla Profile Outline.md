@@ -111,4 +111,4 @@
 				- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
 					- Godzilla/Godric never asked for that but he appreciates the gesture
 	- **Shorts**: Predominantly swimming trunks and are all black in color
-		- He rarely uses them, his trousers serve their purpose well
+		- He rarely uses them, even for their intended purpose, as his trousers are
