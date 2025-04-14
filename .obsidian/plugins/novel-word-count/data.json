@@ -4956,19 +4956,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3305,
+      "wordCount": 2807,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 11.016666666666667,
-      "characterCount": 26144,
-      "nonWhitespaceCharacterCount": 21952,
-      "readingTimeInMinutes": 12.471698113207546,
-      "linkCount": 1,
+      "pageCount": 9.356666666666667,
+      "characterCount": 22271,
+      "nonWhitespaceCharacterCount": 18631,
+      "readingTimeInMinutes": 10.592452830188678,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744599631961,
-      "modifiedDate": 1744600611278,
-      "sizeInBytes": 26332,
+      "modifiedDate": 1744601013840,
+      "sizeInBytes": 22447,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4983,7 +4983,57 @@
         ]
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Protocols of the Titan Hierarchy.md": {
+    "Writing/Antitheriomorphosis/Titans/Communication Styles of the Titan Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 266,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8866666666666667,
+      "characterCount": 2130,
+      "nonWhitespaceCharacterCount": 1816,
+      "readingTimeInMinutes": 1.0037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744600649270,
+      "modifiedDate": 1744600649586,
+      "sizeInBytes": 2130,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Power Hierarchy of the Titans.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 75,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25,
+      "characterCount": 554,
+      "nonWhitespaceCharacterCount": 477,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744600780663,
+      "modifiedDate": 1744600780767,
+      "sizeInBytes": 558,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Protocols of the Titan Hierarchy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5008,7 +5058,32 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Communication Styles of the Titan Hierarchy.md": {
+    "Writing/Antitheriomorphosis/Titans/Post-Antitheriomorphosis State of the Titan Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 245,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 1913,
+      "nonWhitespaceCharacterCount": 1649,
+      "readingTimeInMinutes": 0.9245283018867925,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744601007175,
+      "modifiedDate": 1744601007385,
+      "sizeInBytes": 1917,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Adaptations of the Titan Hierarchy Post-ATM.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5022,8 +5097,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1744600649270,
-      "modifiedDate": 1744600649270,
+      "createdDate": 1744601053855,
+      "modifiedDate": 1744601053855,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
