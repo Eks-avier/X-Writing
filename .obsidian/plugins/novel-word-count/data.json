@@ -2292,13 +2292,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3345,
+      "wordCount": 3333,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 11.15,
-      "characterCount": 25503,
-      "nonWhitespaceCharacterCount": 21547,
-      "readingTimeInMinutes": 12.622641509433961,
+      "pageCount": 11.11,
+      "characterCount": 25398,
+      "nonWhitespaceCharacterCount": 21461,
+      "readingTimeInMinutes": 12.577358490566038,
       "linkCount": 24,
       "embedCount": 0,
       "aliases": [
@@ -2308,8 +2308,8 @@
         "Guardian of the Earth"
       ],
       "createdDate": 1743271055172,
-      "modifiedDate": 1744058165131,
-      "sizeInBytes": 25824,
+      "modifiedDate": 1744605962235,
+      "sizeInBytes": 25771,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 11.15,
@@ -3942,7 +3942,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055102,
-      "modifiedDate": 1743405830711,
+      "modifiedDate": 1744605906300,
       "sizeInBytes": 11974,
       "sessionStart": {
         "noteCount": 1,

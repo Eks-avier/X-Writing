@@ -61,6 +61,26 @@
             }
           },
           {
+            "id": "c02cf2f4691ce91e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "ea5da70b445b87e7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
             "id": "eb74688af16976a4",
             "type": "leaf",
             "state": {
@@ -76,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#atm/history",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -105,26 +125,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "c02cf2f4691ce91e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "bd598ef401d8e6a8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
             }
           }
         ]
@@ -248,11 +248,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-cleaner-redux:Clean files": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Notepad 2.md",
     "Notepad.md",
