@@ -2,10 +2,11 @@
 
 #atm #wip
 
-## Physical Qualities
+## Physical Features
 
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
+- **Sex**: Male
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Hair**: Black
 	- **Hair Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
@@ -22,8 +23,15 @@
 	- Defined jawline
 	- High cheekbones
 	- Strong brow ridge
-- **Notes**:
-	- Physical proportions are immaculate
+- **Others**:
+	- Physical proportions are immaculate, so much so that it unnerves people at first glance
 		- Nigh-perfect face harmony; all facial features are proportional to one another 
-		- Nigh-perfect anatomical symmetry and proportions
+		- Nigh-perfect anatomical symmetry and proportions 
+	- Originally right handed when first discovered by Monarch, is now fully ambidextrous
 
+## Physical Characteristics
+
+- **Movement**:
+	- Economic
+	- Graceful in spite of his height and weight
+	- Perfectly balanced
