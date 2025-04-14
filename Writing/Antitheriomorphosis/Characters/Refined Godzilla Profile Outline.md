@@ -103,6 +103,7 @@
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
 			- He only uses boxer shorts and briefs in his private quarters and he is lounging
 				- Of course no one but him knows this, but Mothra has observed a pattern
-					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect what each Titan's preferred underpants is.  
-						- She then made a little res
+					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.  
+						- She then wrote a paper that documented her findings with Baragon as her accomplice.
+	- **Trousers**: 
 - 
