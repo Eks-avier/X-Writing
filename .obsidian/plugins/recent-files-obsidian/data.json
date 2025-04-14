@@ -5,8 +5,16 @@
       "path": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
     },
     {
+      "basename": "1 - Identity & Appearance",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md"
+    },
+    {
       "basename": "Godzilla - Physicality and Forms",
       "path": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md"
+    },
+    {
+      "basename": "Voices of the Titans - Nordsons",
+      "path": "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md"
     },
     {
       "basename": "Godzilla - Biology and Physiology",
@@ -43,10 +51,6 @@
     {
       "basename": "Notepad",
       "path": "Notepad.md"
-    },
-    {
-      "basename": "Voices of the Titans - Nordsons",
-      "path": "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md"
     },
     {
       "basename": "The Divine Inheritance",
@@ -195,10 +199,6 @@
     {
       "basename": "Power Dynamics",
       "path": "Writing/Antitheriomorphosis/Power Dynamics.md"
-    },
-    {
-      "basename": "The First Divine Moth Sorcerer in Generations",
-      "path": "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md"
     }
   ],
   "omittedPaths": [],

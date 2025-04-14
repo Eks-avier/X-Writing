@@ -49,4 +49,28 @@
 	- Favors micro-expressions
 - **Stillness**: Can remain perfectly motionless for extended periods of time when observing
 - **Sunbathing**: A habit he likes to do recreationally; it also allows him to absorb solar energy at the same time
-- 
+- **Voice**: 
+	- Deep, resonant baritone 
+	- Naturally rich and clear
+	- Velvety smooth, with natural gravitas that can easily command attention
+	- Can fill a room without even trying
+	- **Speech**: 
+		- Measured and deliberately paced; rarely rushes words
+		- Naturally emphasizes important points
+		- Economical with word choice
+			- Naturally selects the most concise way to speak
+- **Temperature**: Possesses a highly elevated body temperature, most noticeable in winter wherein he requires little to no protection
+	
+## Attire
+
+### Daily 
+
+- **Color Palette**: The following colors are ordered according to preference
+	1. Black
+	2. White
+	3. Charcoal gray
+	4. Navy blues
+	5. Forest greens
+- **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
+- **Shirts**: Nearly all of his shirts are button-downs with his favorite colors
+	- 
