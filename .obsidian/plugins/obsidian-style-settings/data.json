@@ -26,5 +26,6 @@
   "primary-theme@@zero-popup-blur": false,
   "primary-theme@@zero-popup-popdown": false,
   "primary-theme@@progress-bar-width": "200px",
-  "primary-theme@@h1-vt-align-center": true
+  "primary-theme@@h1-vt-align-center": false,
+  "primary-theme@@h1-text-align": "center"
 }

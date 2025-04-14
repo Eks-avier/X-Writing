@@ -41,28 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Writing/Antitheriomorphosis/Atomic Amplification.md",
-=======
-<<<<<<< HEAD
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
-=======
-                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
->>>>>>> origin/main
->>>>>>> origin/main
+                "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Atomic Amplification"
-=======
-<<<<<<< HEAD
-              "title": "Godzilla - Physicality and Forms"
-=======
-              "title": "Mothra, the Queen of the Monsters"
->>>>>>> origin/main
->>>>>>> origin/main
+              "title": "Titanus Gojira"
             }
           }
         ],
@@ -155,15 +139,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "id": "2cac5f29b3f48efb",
-=======
-<<<<<<< HEAD
-        "id": "75a906868099ed71",
-=======
-        "id": "dc07eec8ca1c179c",
->>>>>>> origin/main
->>>>>>> origin/main
+        "id": "44f8c0089cabd36e",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -218,7 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Antitheriomorphosis/Keep Charlie Students.md",
+            "file": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -244,54 +220,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07db8c6ed1789a39",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "The Nordsons and Lepidiels.canvas",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
+    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
+    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
+    "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Atomic Amplification.md",
+    "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
     "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
-=======
-<<<<<<< HEAD
-    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
-    "Writing/Antitheriomorphosis/Atomic Amplification.md",
->>>>>>> origin/main
     "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-=======
->>>>>>> origin/main
     "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone WIP.md",
     "Writing/Antitheriomorphosis/Keep Charlie Students.md",
     "Writing/Antitheriomorphosis/Hierarchy of the Titans.md",
-    "Notepad 2.md",
-    "Notepad.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Physical Characteristics.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Tags/#atm+titan+northern-faction",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+titan-culture",
-    "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
     "Tags/#atm+species+classification+ascendant_line",
     "Tags/#atm+species+titanus_gojira",
-<<<<<<< HEAD
-=======
-    "Writing/Antitheriomorphosis/Titanus Gojira.md",
-    "llm-instructions-2.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
->>>>>>> origin/main
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla/Identity",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
     "Writing/Antitheriomorphosis/Characters/Titans",

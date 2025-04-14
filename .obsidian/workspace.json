@@ -20,20 +20,17 @@
             }
           },
           {
-            "id": "b6261a51fb3ae58e",
+            "id": "547fd03d3de4f6c8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-                "viewState": {
-                  "x": -1726,
-                  "y": -816.5,
-                  "zoom": -2.7679130166874546
-                }
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Titan Hierarchy"
+              "icon": "lucide-file",
+              "title": "Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -183,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Titan Hierarchy"
+              "title": "Outline of Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -227,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas"
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Titan Hierarchy"
+              "title": "File properties for Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -254,8 +251,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6261a51fb3ae58e",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
+    "Notepad 2.md",
+    "Notepad.md",
+    "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
+    "Writing/Antitheriomorphosis/The Divine Inheritance.md",
+    "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura",
+    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Characters/Baragon, the Liminal Sentinel.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
@@ -280,12 +285,6 @@
     "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Atomic Amplification.md",
-    "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
-    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
-    "Notepad.md",
-    "Notepad 2.md",
-    "Spending.md",
-    "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+northern-faction",
@@ -294,12 +293,11 @@
     "titan",
     "Tags/#atm+species+titanus_gojira",
     "Tags/#atm+species+classification+ascendant_line",
-    "Writing/Antitheriomorphosis/Creation Instructions/Info Repo",
-    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
-    "
+    "Main Alternate Universe/Untitled.canvas"
+  ]
+}

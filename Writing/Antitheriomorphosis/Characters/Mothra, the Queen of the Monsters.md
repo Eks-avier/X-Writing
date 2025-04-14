@@ -16,7 +16,7 @@ File: Main Alternate Universe/Characters/Mothra, the Queen of the Monsters.md
 
 # **Mothra, The Queen of The Monsters**
 
-> *"She radiates divine authority with effortless grace—a celestial guardian whose light can both heal and annihilate."*
+> *“She radiates divine authority with effortless grace—a celestial guardian whose light can both heal and annihilate.”*
 
 ## Overview
 
@@ -57,7 +57,7 @@ Maintains a completely human appearance at all times, though with subtle indicat
 
 | Attribute      | Description                                                     |
 | -------------- | --------------------------------------------------------------- |
-| **Height**     | 5'8" (173 cm)                                                   |
+| **Height**     | 5'8” (173 cm)                                                   |
 | **Weight**     | ~65 kg                                                          |
 | **Build**      | Surprisingly muscular but lean, hidden beneath modest clothing  |
 | **Hair**       | Platinum-blonde, long and voluminous, reflecting her Titan form |
@@ -119,7 +119,7 @@ When Mothra uses her abilities, her powers manifest as light-based phenomena rat
 ## Abilities & Powers
 
 > [!quote] Divine Precision
-> "Unlike *Titanus gojira*, who wields energy through brute force, Mothra manipulates light energy with precision and grace."
+> “Unlike *Titanus gojira*, who wields energy through brute force, Mothra manipulates light energy with precision and grace.”
 
 ### Core Abilities
 
@@ -136,11 +136,10 @@ Mothra's scales represent her most versatile and powerful ability set, combining
 
 #### Reflective Properties
 
-- **Perfect Reflection**: Scales can reflect ANY force—physical, energy, magical, or psychic—back to its source
+- **Perfect Reflection**: Scales can reflect *any* force—physical, energy, magical, or psychic—back to its source
 - **Force Amplification**: Reflected forces can compound upon themselves, potentially returning with greater intensity
-- **Passive Protection**: Scales remain in an "active mode" at all times, providing perpetual defense
+- **Passive Protection**: Scales remain in an “active mode” at all times, providing perpetual defense
 - **Adjustable Radius**: Can maintain scales at skin level or expand them to create force-field-like protection zones
-- **Attacker Feedback**: Physical attacks are reflected back, causing pain to the attacker
 
 #### Offensive Applications
 
@@ -180,13 +179,13 @@ The scales themselves have distinct manifestation patterns:
 Mothra's scales are uniquely powerful due to her inheritance of the Heavenly Instance's soul:
 
 - **Divine Enhancement**: All family members who inherited the divine soul experienced extraordinary scale strengthening
-- **Personal Uniqueness**: The specific property of "reflection" appears to be Mothra's alone
+- **Personal Uniqueness**: The specific property of “reflection” appears to be Mothra's alone
 - **Species Anomaly**: Her perfectly reflecting scales are not the species norm but an enhancement from her divine soul
 - **Fixed Identity**: A Divine Moth's scale properties remain consistent across all incarnations, representing core identity
 
 ### Soul Fragments & Power Regulation
 
-Mothra's power is distributed across seven soul fragments, which she scattered across the world as eggs serving as "save points":
+Mothra's power is distributed across seven soul fragments, which she scattered across the world as eggs serving as “save points”:
 
 #### Current Fragment Status
 
@@ -293,15 +292,15 @@ The truth neither fully comprehends is that their father, as the previous holder
 
 Despite intellectually understanding she never chose her inheritance, Battra remains unable to overcome his emotional response:
 
-> "I **never** chose this!" She exclaimed. The younger visage of her older brother shimmering despite the cloak of the night...
-> 
-> "How many millions of years will it take for you to understan—"
-> 
-> "I do. I have always understood..."
-> 
-> "... But I can't help myself..."
-> 
-> "Is it just a habit at this point? I don't know anymore... But I can't stop the envy perpetually boiling in my heart."
+> “I **never** chose this!” She exclaimed. The younger visage of her older brother shimmering despite the cloak of the night…
+>
+> “How many millions of years will it take for you to understan—”
+>
+> “I do. I have always understood…”
+>
+> “… But I can't help myself…”
+>
+> “Is it just a habit at this point? I don't know anymore… But I can't stop the envy perpetually boiling in my heart.”
 
 Their conflict has been intensified by their status as the last of their kind. Such sibling rivalry was historically rare among Divine Moths, but without parents or other siblings to provide perspective, their differences became magnified beyond reconciliation.
 
@@ -360,9 +359,7 @@ Mothra has developed a deep appreciation for human activities and pursuits since
 Mothra's development follows three parallel journeys that ultimately converge:
 
 1. **Emotional Awakening:** Learning to experience rather than merely observe emotions, particularly through her evolving relationship with Godzilla
-
 2. **Accepting Humanity's True Nature:** Confronting the reality that humans possess both light and shadow, neither of which diminishes her love for them
-
 3. **Reconciliation with Battra:** Acknowledging her own shadow and responsibility in their estrangement
 
 These three paths lead toward the same destination—Mothra evolving beyond her divine detachment to embrace the full spectrum of existence. The divine moth who guides humanity must ultimately learn from mortals about acceptance, wholeness, and the beauty found in acknowledging both light and shadow.

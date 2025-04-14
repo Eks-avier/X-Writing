@@ -269,28 +269,6 @@
     },
     {
       "height": 60,
-      "id": "bd0a9015aa043908",
-      "styleAttributes": {
-      },
-      "text": "# The Art of Spell Casting",
-      "type": "text",
-      "width": 464,
-      "x": -252,
-      "y": 626
-    },
-    {
-      "height": 60,
-      "id": "ec081defddd1e677",
-      "styleAttributes": {
-      },
-      "text": "# Spells",
-      "type": "text",
-      "width": 151,
-      "x": -95,
-      "y": 300
-    },
-    {
-      "height": 60,
       "id": "df078f405475f5d2",
       "styleAttributes": {
       },
@@ -313,80 +291,25 @@
     },
     {
       "height": 60,
-      "id": "d839f9e5be513a69",
+      "id": "8924aac1ccb068cc",
       "styleAttributes": {
       },
-      "text": "#  Soul Infusion",
+      "text": "# The Null",
       "type": "text",
-      "width": 297,
-      "x": -184,
-      "y": -480
+      "width": 250,
+      "x": -1080,
+      "y": -920
     },
     {
       "height": 60,
-      "id": "6e65128452019efd",
+      "id": "e4fb9ffbf1fa5664",
       "styleAttributes": {
       },
-      "text": "# Structured Primus",
+      "text": "# Incantations",
       "type": "text",
-      "width": 344,
-      "x": -208,
-      "y": -276
-    },
-    {
-      "height": 50,
-      "id": "e195ff79ab69aab8",
-      "styleAttributes": {
-      },
-      "text": "# The Art of Spell Optimization",
-      "type": "text",
-      "width": 464,
-      "x": -252,
-      "y": 746
-    },
-    {
-      "height": 60,
-      "id": "07e42a0e3bbad991",
-      "styleAttributes": {
-      },
-      "text": "# The Art of Spell Keeping",
-      "type": "text",
-      "width": 464,
-      "x": -252,
-      "y": 686
-    },
-    {
-      "height": 60,
-      "id": "6659447f52b2ee49",
-      "styleAttributes": {
-      },
-      "text": "# Fire  Magic",
-      "type": "text",
-      "width": 240,
-      "x": 680,
-      "y": -168
-    },
-    {
-      "height": 60,
-      "id": "79bc7ed494dad8c4",
-      "styleAttributes": {
-      },
-      "text": "# Water Magic",
-      "type": "text",
-      "width": 240,
-      "x": 680,
-      "y": -108
-    },
-    {
-      "height": 50,
-      "id": "1335ca0a0a5eef0d",
-      "styleAttributes": {
-      },
-      "text": "# The Art of Commitments",
-      "type": "text",
-      "width": 464,
-      "x": -252,
-      "y": 796
+      "width": 250,
+      "x": 873,
+      "y": 695
     },
     {
       "height": 60,
@@ -434,116 +357,6 @@
     },
     {
       "height": 60,
-      "id": "25c9fbf6620776f3",
-      "styleAttributes": {
-      },
-      "text": "# Covenants",
-      "type": "text",
-      "width": 300,
-      "x": 424,
-      "y": 1427
-    },
-    {
-      "height": 60,
-      "id": "8924aac1ccb068cc",
-      "styleAttributes": {
-      },
-      "text": "# The Null",
-      "type": "text",
-      "width": 250,
-      "x": -1080,
-      "y": -920
-    },
-    {
-      "height": 60,
-      "id": "f02cc22aa5fe7d1d",
-      "styleAttributes": {
-      },
-      "text": "# Alchemy",
-      "type": "text",
-      "width": 236,
-      "x": -785,
-      "y": -276
-    },
-    {
-      "height": 60,
-      "id": "9c8c8c0e88893693",
-      "styleAttributes": {
-      },
-      "text": "# Earth Magic",
-      "type": "text",
-      "width": 240,
-      "x": 680,
-      "y": -48
-    },
-    {
-      "height": 60,
-      "id": "6b5a5625bb8c0682",
-      "styleAttributes": {
-      },
-      "text": "# Air Magic",
-      "type": "text",
-      "width": 240,
-      "x": 680,
-      "y": 12
-    },
-    {
-      "height": 60,
-      "id": "e4fb9ffbf1fa5664",
-      "styleAttributes": {
-      },
-      "text": "# Incantations",
-      "type": "text",
-      "width": 250,
-      "x": 873,
-      "y": 695
-    },
-    {
-      "height": 60,
-      "id": "f943b1535115789c",
-      "styleAttributes": {
-      },
-      "text": "# Cursed Energy",
-      "type": "text",
-      "width": 278,
-      "x": -465,
-      "y": -76
-    },
-    {
-      "height": 60,
-      "id": "ad6d50c00dc23ccb",
-      "styleAttributes": {
-      },
-      "text": "# Elemental Energy",
-      "type": "text",
-      "width": 306,
-      "x": 123,
-      "y": -76
-    },
-    {
-      "height": 60,
-      "id": "424ab37a24091056",
-      "styleAttributes": {
-      },
-      "text": "# Curses",
-      "type": "text",
-      "width": 179,
-      "x": -756,
-      "y": 72
-    },
-    {
-      "height": 60,
-      "id": "eb5ba38fd4198546",
-      "styleAttributes": {
-      },
-      "text": "# Cursed Spirits",
-      "type": "text",
-      "width": 254,
-      "x": -1107,
-      "y": 200
-    },
-    {
-      "height": 60,
       "id": "b3e7b929f106cc71",
       "styleAttributes": {
       },
@@ -585,6 +398,193 @@
       "width": 357,
       "x": -980,
       "y": 995
+    },
+    {
+      "height": 60,
+      "id": "ec081defddd1e677",
+      "styleAttributes": {
+      },
+      "text": "# Spells",
+      "type": "text",
+      "width": 151,
+      "x": -95,
+      "y": 300
+    },
+    {
+      "height": 60,
+      "id": "d839f9e5be513a69",
+      "styleAttributes": {
+      },
+      "text": "#  Soul Infusion",
+      "type": "text",
+      "width": 297,
+      "x": -184,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "6e65128452019efd",
+      "styleAttributes": {
+      },
+      "text": "# Structured Primus",
+      "type": "text",
+      "width": 344,
+      "x": -208,
+      "y": -276
+    },
+    {
+      "height": 60,
+      "id": "6659447f52b2ee49",
+      "styleAttributes": {
+      },
+      "text": "# Fire  Magic",
+      "type": "text",
+      "width": 240,
+      "x": 680,
+      "y": -168
+    },
+    {
+      "height": 60,
+      "id": "25c9fbf6620776f3",
+      "styleAttributes": {
+      },
+      "text": "# Covenants",
+      "type": "text",
+      "width": 300,
+      "x": 424,
+      "y": 1427
+    },
+    {
+      "height": 60,
+      "id": "f02cc22aa5fe7d1d",
+      "styleAttributes": {
+      },
+      "text": "# Alchemy",
+      "type": "text",
+      "width": 236,
+      "x": -785,
+      "y": -276
+    },
+    {
+      "height": 60,
+      "id": "f943b1535115789c",
+      "styleAttributes": {
+      },
+      "text": "# Cursed Energy",
+      "type": "text",
+      "width": 278,
+      "x": -465,
+      "y": -76
+    },
+    {
+      "height": 60,
+      "id": "424ab37a24091056",
+      "styleAttributes": {
+      },
+      "text": "# Curses",
+      "type": "text",
+      "width": 179,
+      "x": -756,
+      "y": 72
+    },
+    {
+      "height": 60,
+      "id": "eb5ba38fd4198546",
+      "styleAttributes": {
+      },
+      "text": "# Cursed Spirits",
+      "type": "text",
+      "width": 254,
+      "x": -1107,
+      "y": 200
+    },
+    {
+      "height": 60,
+      "id": "bd0a9015aa043908",
+      "styleAttributes": {
+      },
+      "text": "# The Art of Spell Casting",
+      "type": "text",
+      "width": 464,
+      "x": -252,
+      "y": 626
+    },
+    {
+      "height": 50,
+      "id": "e195ff79ab69aab8",
+      "styleAttributes": {
+      },
+      "text": "# The Art of Spell Optimization",
+      "type": "text",
+      "width": 464,
+      "x": -252,
+      "y": 746
+    },
+    {
+      "height": 60,
+      "id": "07e42a0e3bbad991",
+      "styleAttributes": {
+      },
+      "text": "# The Art of Spell Keeping",
+      "type": "text",
+      "width": 464,
+      "x": -252,
+      "y": 686
+    },
+    {
+      "height": 60,
+      "id": "79bc7ed494dad8c4",
+      "styleAttributes": {
+      },
+      "text": "# Water Magic",
+      "type": "text",
+      "width": 240,
+      "x": 680,
+      "y": -108
+    },
+    {
+      "height": 50,
+      "id": "1335ca0a0a5eef0d",
+      "styleAttributes": {
+      },
+      "text": "# The Art of Commitments",
+      "type": "text",
+      "width": 464,
+      "x": -252,
+      "y": 796
+    },
+    {
+      "height": 60,
+      "id": "9c8c8c0e88893693",
+      "styleAttributes": {
+      },
+      "text": "# Earth Magic",
+      "type": "text",
+      "width": 240,
+      "x": 680,
+      "y": -48
+    },
+    {
+      "height": 60,
+      "id": "6b5a5625bb8c0682",
+      "styleAttributes": {
+      },
+      "text": "# Air Magic",
+      "type": "text",
+      "width": 240,
+      "x": 680,
+      "y": 12
+    },
+    {
+      "height": 60,
+      "id": "ad6d50c00dc23ccb",
+      "styleAttributes": {
+      },
+      "text": "# Elemental Energy",
+      "type": "text",
+      "width": 306,
+      "x": 123,
+      "y": -76
     }
   ]
 }
