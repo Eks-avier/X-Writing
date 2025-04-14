@@ -32,6 +32,13 @@
 ## Physical Characteristics
 
 - **Movement**:
-	- Economic
+	- Economic and tactical, whether in daily life or in combat situations
 	- Graceful in spite of his height and weight
 	- Perfectly balanced
+- **Presence**: Passively threatening and intimidating causing people's fight or flight instinct to be triggered often.
+	- Some cower
+	- Some flee
+	- Some freeze in their spots and sweat
+- **Expression**: 
+	- Almost always stoic
+	- Favors micro-expressions
