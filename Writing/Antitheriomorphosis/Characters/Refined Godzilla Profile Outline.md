@@ -105,5 +105,5 @@
 				- Of course no one but him knows this, but Mothra has observed a pattern
 					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.  
 						- She then wrote a paper that documented her findings with Baragon as her accomplice.
-	- **Trousers**: 
+	- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
 - 
