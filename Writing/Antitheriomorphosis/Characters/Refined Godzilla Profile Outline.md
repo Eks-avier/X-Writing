@@ -28,6 +28,9 @@
 		- Nigh-perfect face harmony; all facial features are proportional to one another 
 		- Nigh-perfect anatomical symmetry and proportions 
 	- Originally right handed when first discovered by Monarch, is now fully ambidextrous
+	- During the early days of his transformation, his body is cleanly shaved
+		- He kept up the routine up until the following year
+		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
 
 ## Physical Characteristics
 
@@ -83,12 +86,18 @@
 			- Returns to its original form if stretched
 		- Easily maintainable
 			- Mothra can simply repair it herself, and she produces unlimited silk
-			- Cleaning it is effortless too as dirt and stains 
+			- Cleaning it is just as effortless as typical dirt and stains do not cling to them
 		- Can channel his atomic energy albeit limitedly
 			- High energy output can compromise the integrity of the clothes
 - **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
-- **Shirts**: Nearly all of his shirts are button-downs
+- **Shirts**: Nearly all of his shirts are long-sleeved button-downs
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
 		- He only has *one* green shirt.
 			- It came from a set of three, along with a blue and black shirt.
-	- **Undershirts**: Uses them from time to time for styling diversity
+- **Underwear**:
+	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
+		- Apparently, she is also distracted when she sess his undershirt peeking
+			- What does she even want at this point?!
+		- Now wears them whenever he feels like it
+	- **Underpants**: Prefers 
+- 
