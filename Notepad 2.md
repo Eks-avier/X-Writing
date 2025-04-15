@@ -2,7 +2,7 @@
 
 These are good options, and I agree with your recommendations with the sole exception of 2 for I don't know how to feel about the shadow organization appearing this early.
 
-The perspective of this chapter is through Stella, who is the younger twin.
+The perspective of this chapter is through Stella, who is the younger twin. 
 
 My intention for chapter 1 is based on two things:
 1. Bakunawa's rampage in the form of the storm raging; vivid images of rain, lightning, thunder, howling winds, and the destruction of buildings and buildings; the complete darkness
