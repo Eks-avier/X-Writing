@@ -18,15 +18,15 @@
 	- No blemishes
 	- No scars
 	- No markings of any kind
-- **Facial Features**: 
+- **Facial Features**:
 	- Square-like face
 	- Defined jawline
 	- High cheekbones
 	- Strong brow ridge
 - **Others**:
 	- Physical proportions are immaculate, so much so that it unnerves people at first glance
-		- Nigh-perfect face harmony; all facial features are proportional to one another 
-		- Nigh-perfect anatomical symmetry and proportions 
+		- Nigh-perfect face harmony; all facial features are proportional to one another
+		- Nigh-perfect anatomical symmetry and proportions
 	- Originally right handed when first discovered by Monarch, is now fully ambidextrous
 	- During the early days of his transformation, his body is cleanly shaved
 		- He kept up the routine up until the following year
@@ -38,35 +38,35 @@
 	- Economic and tactical, whether in daily life or in combat situations
 	- Graceful in spite of his height and weight
 	- Perfectly balanced
-- **Posture**: Perfect and subconsciously effortless military bearing 
+- **Posture**: Perfect and subconsciously effortless military bearing
 	- Subconsciously never bows, looks down, or looks up.
 		- Those who are taller than him are compelled to look down
 		- Those who are shorter than him are forced to look up
-		- In the event that he is "required" to bow or look down, he won't
+		- In the event that he is “required” to bow or look down, he won't
 - **Presence**: Passively threatening and intimidating causing people's fight or flight instinct to be triggered often.
 	- Some subconsciously cower
 	- Some flee the area without knowing why
 	- Some freeze in their spots and experience elevated sweat response
-- **Expression**: 
+- **Expression**:
 	- Almost always stoic
 	- Favors micro-expressions
 - **Stillness**: Can remain perfectly motionless for extended periods of time when observing
 - **Sunbathing**: A habit he likes to do recreationally; it also allows him to absorb solar energy at the same time
-- **Voice**: 
-	- Deep, resonant baritone 
+- **Voice**:
+	- Deep, resonant baritone
 	- Naturally rich and clear
 	- Velvety smooth, with natural gravitas that can easily command attention
 	- Can fill a room without even trying
-	- **Speech**: 
+	- **Speech**:
 		- Measured and deliberately paced; rarely rushes words
 		- Naturally emphasizes important points
 		- Economical with word choice
 			- Naturally selects the most concise way to speak
 - **Temperature**: Possesses a highly elevated body temperature, most noticeable in winter wherein he requires little to no protection
-	
+
 ## Attire
 
-### Daily 
+### Daily
 
 - **Color Palette**: The following colors are ordered according to preference
 	1. Black
@@ -103,7 +103,7 @@
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
 			- He only uses boxer shorts and briefs in his private quarters and he is lounging
 				- Of course no one but him knows this, but Mothra has observed a pattern
-					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.  
+					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
 						- She then wrote a paper that documented her findings with Baragon as her accomplice.
 	- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
 		- They appear nearly like formal trousers
@@ -111,4 +111,5 @@
 				- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
 					- Godzilla/Godric never asked for that but he appreciates the gesture
 	- **Shorts**: Predominantly swimming trunks and are all black in color
-		- He rarely uses them, even for their intended purpose, as his trousers are
+		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
+			- What do you mean it causes slight drag
