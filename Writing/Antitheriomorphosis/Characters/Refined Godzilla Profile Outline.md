@@ -96,7 +96,7 @@
 			- It came from a set of three, along with a blue and black shirt.
 - **Underwear**:
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
-		- Apparently, she is also distracted when she sess his undershirt peeking
+		- Apparently, she is also distracted when she sees his undershirt peeking
 			- *What does she even want at this point?!*
 		- Now wears them whenever he feels like it, typically in winter so he isn't too obvious that he isn't cold
 	- **Underpants**: Owns a variety of the following and *all* are black:
