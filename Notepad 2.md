@@ -2,7 +2,7 @@
 
 These are good options, and I agree with your recommendations with the sole exception of 2 for I don't know how to feel about the shadow organization appearing this early.
 
-The perspective of this chapter is through Stella.
+The perspective of this chapter is through Stella, who is the younger twin.
 
 My intention for chapter 1 is based on two things:
 1. Bakunawa's rampage in the form of the storm raging; vivid images of rain, lightning, thunder, howling winds, and the destruction of buildings and buildings; the complete darkness
@@ -34,7 +34,12 @@ Finally, during the opening scene with the Balagtas family, I'm considering the 
 - Stella and Sierra just finished school and were on the way to the mall with family as a little treat. Suddenly, she felt a pain in her head (the psionic pulse reaching her) then a horrible roar reverberating across the sky (Ghidorah's call). In a few moments, the storm began to slowly grow in strength. 
 - TVs suddenly began showing breaking news, live coverage from other countries about a roar heard across the world, then the immediate following of environmental anomalies: 
 	- In Arizona, everything was frozen in the span of a few seconds for several miles and a winter storm unlike any other manifested (Scylla)
+	- Areas in East Asia experiencing rain that can 'cut' as if the water itself was pressurized, each droplet a knife falling down (Manda)
+	- Northern Europe suffering a winter storm unlike any other, entire regions freezing almost instantly, waters threatening to consume many islands, some already gone (Leviathan)
+	- From the sky, both Arizona and bordering states as well as Northern Europe look unnaturally white a cause of snow and ice.
+	- The entire state of New Jersey is not only experiencing a storm (one of many by Ghidorah) but also a complete outage of electricity and EMP so strong it began affecting the environment (Barb, the MUTO Queen)
 	- In Germany, earthquakes suddenly began with plants beginning to "walk" or move in an unnatural ways (Methuselah)
 	- Every country in seemingly every continent reported of the same picture: a giant monster awakening and then causing destruction
-	- Suddenly, even that live coverage got cut as the *Malacanang* issued alarms everywhere. Suddenly, broadcast on a shore in Visayas filled every TV: a powerful shaking of the ground in the area, then a a giant dragon rose gracefully and roared: Bakunawa has risen from the depths.
+	- Suddenly, even that live coverage got cut as the *Malacanang* issued alarms everywhere. Suddenly, broadcast on a shore in Visayas filled every TV: a powerful shaking of the ground in the area, then a groan, then a giant dragon rose gracefully and roared: Bakunawa has risen from the depths.
+
 What do you think of these changes?
