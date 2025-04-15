@@ -113,3 +113,27 @@
 	- **Shorts**: Predominantly swimming trunks and are all black in color
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
 			- *Drag? I care not.*
+
+## Seasonal Physique
+
+- **Active Season**:
+	- 10% to 12% body fat
+	- Spans from December to August
+	- Defined musculature
+	- Angular facial features
+	- Higher body temperature
+- **Dormant Period**:
+	- 15% to 18% body fat
+	- Spans September to November
+	- Softer musculature
+	- Softened facial features
+	- Lower body temperature
+- **Notes**:
+	- Established post-Antitheriomorphosis
+	- Began in 2021
+
+### Relationship with Sleep
+
+- Godzilla does **not** require sleep
+- Godzilla does **not** need to ear
+- 
