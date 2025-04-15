@@ -74,7 +74,7 @@
 	3. Charcoal gray
 	4. Navy blues
 	5. Forest greens
-- **Clothing Material**: **All** clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of  personally replaced each shirt's material with her own silk.
+- **Clothing Material**: **All** clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of personally replaced each shirt's material with her own silk.
 	- Any other new clothes he would have are made with her silk, which is:
 		- Supremely durable
 			- Bulletproof and also proofed against other high-speed projectiles
@@ -112,4 +112,4 @@
 					- Godzilla/Godric never asked for that but he appreciates the gesture
 	- **Shorts**: Predominantly swimming trunks and are all black in color
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
-			- *It causes slight drag? Okay.*
+			- *Drag? I care not.*
