@@ -74,7 +74,7 @@
 	3. Charcoal gray
 	4. Navy blues
 	5. Forest greens
-- **Clothing Material**: All clothing used to be breathable, flexible, durable, and comfortable materials but Mothra personally replaced each shirt's material with her own silk.
+- **Clothing Material**: **All** clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of  personally replaced each shirt's material with her own silk.
 	- Any other new clothes he would have are made with her silk, which is:
 		- Supremely durable
 			- Bulletproof and also proofed against other high-speed projectiles
@@ -92,12 +92,12 @@
 - **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
 - **Shirts**: Nearly all of his shirts are long-sleeved button-downs
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
-		- He only has *one* green shirt.
+		- He only has **one** green shirt.
 			- It came from a set of three, along with a blue and black shirt.
 - **Underwear**:
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
 		- Apparently, she is also distracted when she sess his undershirt peeking
-			- What does she even want at this point?!
+			- *What does she even want at this point?!*
 		- Now wears them whenever he feels like it, typically in winter so he isn't too obvious that he isn't cold
 	- **Underpants**: Owns a variety of the following and *all* are black:
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
@@ -112,4 +112,4 @@
 					- Godzilla/Godric never asked for that but he appreciates the gesture
 	- **Shorts**: Predominantly swimming trunks and are all black in color
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
-			- What do you mean it causes slight drag
+			- *It causes slight drag? Okay.*
