@@ -78,7 +78,7 @@ She's also very modest too, which is fair. Maria Lepidiel doesn't strike her as 
 
 However, whenever Godric suddenly popped a top button on his shirt. Madison swore she kept seing someone fall over (*Are we seriously acting like a bunch of teenagers in a professional setting? Christ...*). 
 
-He did this a total of 4 times in this month. 2 of those happened because he had to demonstrate a fighting technique *while clothed the way he did, a testament to Mothra's fine craft* and the final two because Madison suggested he looked more casual.
+He did this a total of 4 times in this month. 2 of those happened because he had to demonstrate a fighting technique *while clothed the way he did, a testament to Mothra's fine craft* and the final two because Madison suggested he looked more casual and for some official photos.
 
 *Look, as much as we appreciate you getting our King of the Monsters a quote-on-quote change in style, we'd prefer not to have random accidents happen in the base.*
 
@@ -87,14 +87,17 @@ He did this a total of 4 times in this month. 2 of those happened because he had
 *Madison, for the love of God...*
 
 This "form" of him came in two types, which Madison only now realized because... well, it's not a common occurrence:
-1. He had no undershirt on, revealing some hair sticking out—he's not as hairy as Kong, but it seems he stopped shaving his body after 2020.
-2. He had an undershirt on, either black and white. It peeped a bit when he popped the button. 
+1. He had no undershirt on, revealing some hair sticking out—he's not as hairy as Kong, but it seems he stopped shaving his body after 2020. (Happened two times, one when he was demonstrating and the other because Madison asked for it in their shoot: *Dude, have a bit more style!*)
+2. He had an undershirt on, either black and white. It peeped a bit when he popped the button. (Also happened two times, one when he demonstrated again and the other because Madison came for another round of photos: *These'll be for your ID cards, open it up a bit; makes you look like a teacher.*)
 
-Of the four, two of them was without (when he demonstrated fighting) and the other two was due to Madison's suggestion.
+Whether or not he wore one made no distinction, one side likes it and the other not. All it did for Madison was fuel curiosity. Why is he so particular about his damn clothing? Rodan would happily show his arms and legs, Kong too. Anguirus, while formal, doesn't care if he's revealing. But Godzilla (and Mothra) seemingly makes a conscious effort to cover as much, heck, even Scylla likes clothing modesty.
+
+*You know, I thi*
 
 But instead of attraction (why should she? He's more like the big brother she never had), Madison developed an increasing curiosity. 
 
 Several theories were raised, aided my his father and some of the fellow core staff of Monarch:
 1. *Are you serious? If I were thirsted over by even a fraction like that, I'd be cocooning myself* — Dr. Stanton
-2. *Perhaps,  it's because he misses his protective scales?* — Dr. (Ilene) Chen
-3. *Or maybe it's none of our business* — Dr. Russell
+2. *Perhaps, it's because he misses his protective scales?* — Dr. (Ilene) Chen
+3. *It's likely he's just genuinely modest, does he really need to strut around with his huge guns out? Wear his shirt with most of the top buttons popped?* — Dr. Coleman
+4. *Or maybe, just maybe, it's none of our business and we should all just go back to work* — Dr. Russell*
