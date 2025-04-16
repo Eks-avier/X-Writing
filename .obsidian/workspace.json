@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "10 - Personal Relationships"
+              "title": "Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 - Personal Relationships"
+              "title": "Outline of Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -244,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 10 - Personal Relationships"
+              "title": "File properties for Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -275,6 +275,7 @@
   },
   "active": "5ccea63ae9fa9536",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
     "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
@@ -307,7 +308,6 @@
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
-    "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy",
     "Tags/#atm+titan+titan-culture",
     "Tags/#atm+titan+species-profile",
