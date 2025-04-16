@@ -126,7 +126,7 @@ And if she has amassed several photos of Godric in normal, stoic poses some with
 
 *Hey, gotta make money somehow and I ensured they won't be leaked. I made very sure of it.*
 
-*Maddie you made an internal OnlyFans.
+*Maddie you made an OnlyFans.
 
 *Look at my new laptop! It's the latest!* 
 
@@ -146,6 +146,11 @@ And if she has amassed several photos of Godric in normal, stoic poses some with
 
 She would, after a while, eventually learn of the real reason. 
 
-"I've been alive and remained Alpha Paramount for a quarter of a billion years. Who I am is immutable... thus, I suppose I see no need to change what I already found fitting for me."
+"I've been alive for a quarter of a billion years and I've practically remained the same, more or less; I see no change in changing what already works for me."
 
-And Madison's new found business acumen gained 
+"So... it just works?"
+
+"It just works."
+
+And Madison's new found business acumen gained another brilliant idea. What could possibly boost morale even more? Her dad's gonna love the increased productivity!
+
