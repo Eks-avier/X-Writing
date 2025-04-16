@@ -2929,31 +2929,6 @@
         "File": "Main Alternate Universe/Characters/Samuel Johns.md"
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2425,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.083333333333334,
-      "characterCount": 15716,
-      "nonWhitespaceCharacterCount": 12696,
-      "readingTimeInMinutes": 9.150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744649060573,
-      "modifiedDate": 1744828023747,
-      "sizeInBytes": 15720,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.696666666666666,
-        "wordCount": 1709,
-        "characterCount": 11169,
-        "nonWhitespaceCharacterCount": 9136
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Nathan Draper.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5295,6 +5270,31 @@
         "wordCount": 54,
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2425,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.083333333333334,
+      "characterCount": 15716,
+      "nonWhitespaceCharacterCount": 12696,
+      "readingTimeInMinutes": 9.150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744649060573,
+      "modifiedDate": 1744828023747,
+      "sizeInBytes": 15720,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

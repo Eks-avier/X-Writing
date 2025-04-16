@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Godzilla - Biology and Physiology",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md"
+    },
+    {
+      "basename": "Notepad 2",
+      "path": "Notepad 2.md"
+    },
+    {
       "basename": "Refined Godzilla Profile Outline",
-      "path": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
     },
     {
       "basename": "Titan Species Profile Instruction Set",
@@ -49,10 +57,6 @@
       "path": "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md"
     },
     {
-      "basename": "Notepad 2",
-      "path": "Notepad 2.md"
-    },
-    {
       "basename": "The Wardens of the Surface",
       "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Adaptations of the Titan Hierarchy",
       "path": "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md"
-    },
-    {
-      "basename": "Godzilla - Biology and Physiology",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md"
     },
     {
       "basename": "Mothra, the Queen of the Monsters",
@@ -195,10 +195,6 @@
     {
       "basename": "Architecture of Spell Casting",
       "path": "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md"
-    },
-    {
-      "basename": "Commitment Access",
-      "path": "Writing/Antitheriomorphosis/Magic System/Commitment Access.md"
     }
   ],
   "omittedPaths": [],
