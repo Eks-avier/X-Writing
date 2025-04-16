@@ -101,7 +101,7 @@
 		- Now wears them whenever he feels like it, typically in winter so he isn't too obvious that he isn't cold
 	- **Underpants**: Owns a variety of the following and *all* are black:
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
-			- He only uses boxer shorts and briefs in his private quarters and he is lounging
+			- He only uses boxer shorts and briefs in his private quarters and when he is lounging
 				- Of course no one but him knows this, but Mothra has observed a pattern
 					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
 						- She then wrote a paper that documented her findings with Baragon as her accomplice.
