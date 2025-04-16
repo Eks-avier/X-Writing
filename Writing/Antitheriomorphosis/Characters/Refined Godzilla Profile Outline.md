@@ -136,7 +136,7 @@
 
 As a *Titanus gojira*, he does not require sleep nor conventional food to sustain himself. He can absorb solar radiation, geothermal radiation, and nuclear radiation to remain sated indefinitely. He also doesn't need the restorative effects of sleep due to his regeneration factor, which is also empowered during his intake of radiation. He consumes radiation, his regeneration quickens, he becomes sated, he continues to be awake; the cycle repeats.
 
-As a Titan, creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen to him: vibrations in the ground, scents in the air, sounds from the environment, and energy signatures pulsating across the world. His species have inherently heightened and refined senses; but, thanks to his age, this only improved substantially. What his usual species could detect from vast kilometers, he could do so across half the entire world. After his fight with Ghidorah, his senses only further improved. Something about the combination of Serizawa death by his gift of a nuke, stress from fighting the golden arsehole, and seeing Mothra die so soon after they've only just met in this period of time seemed to have exponentially developed his senses. His body appeared to have 'memorized' the experience, his species' inherent ability of limitless adaptation kicking in despite being under the impression that it was *only* due to Serizawa and Mothra that his growth was expedited. Those who think the Alpha Paramount is vulnerable in what appeared to be a sleeping position would be sorely mistaken. 
+As a Titan, creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen to him: vibrations in the ground, scents in the air, sounds from the environment, and energy signatures pulsating across the world. His species have inherently heightened and refined senses; but, thanks to his age, this only improved substantially. What his usual species could detect from vast kilometers, he could do so across half the entire world. After his fight with Ghidorah, his senses only further improved. Something about the combination of Serizawa death by his gift of a nuke, stress from fighting the golden arsehole, and seeing Mothra die so soon after they've only just met in this period of time seemed to have exponentially developed his senses. His body appeared to have 'memorized' the experience, his species' inherent ability of limitless adaptation kicking in despite being under the impression that it was *only* due to Serizawa and Mothra that his growth was expedited. Those who think the Alpha Paramount is vulnerable in what appeared to be a sleeping position would be sorely mistaken.
 
 As a human, his senses carried over. However, the sudden strain of experiencing the world in such vivid detail with a smaller body. Effectively, he was in shock most of the time. His body would eventually acclimate; he will always adapt after all. During his adjustment period though, he found respite in sleep, allowing him to cleanly processed the sensations he received from the environment. Overtime, the acuity and fidelity of his senses would return to the way he was used to, his body able to adjust thanks to the power of sleep.
 
@@ -144,7 +144,7 @@ His newfound appreciation of sleep produced an interesting pattern. He would rem
 
 Godric's favorite way to cut down fat is swimming. He'll swim for miles, sometimes even across continents. However, he'll eventually slim down as his body uses the fat as energy to fuel him. Fitness comes natural to him, which others might find unfair; he genuinely doesn't need to go to gym.
 
-The reasoning behind the cycle's dates is simple. His dormant periods coincide with less human activity and he wakes up just in time for holidays. 
+The reasoning behind the cycle's dates is simple. His dormant periods coincide with less human activity and he wakes up just in time for holidays.
 
 - Key concepts to understand:
 	1. He does **not** require sleep
@@ -157,4 +157,8 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 
 ## History
 
+## Abilities
+
 ## Relationships
+
+## Role in the Story
