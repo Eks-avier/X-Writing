@@ -140,8 +140,21 @@ As a Titan, creatures tend to assume that he sleeps when he lays down with his e
 
 As a human, his senses carried over. However, the sudden strain of experiencing the world in such vivid detail with a smaller body. Effectively, he was in shock most of the time. His body would eventually acclimate; he will always adapt after all. During his adjustment period though, he found respite in sleep, allowing him to cleanly processed the sensations he received from the environment. Overtime, the acuity and fidelity of his senses would return to the way he was used to, his body able to adjust thanks to the power of sleep.
 
-His newfound appreciation of sleep produced an interesting pattern. He would remain active from December to August and then dormant from September to November. In his active season, he would appear leaner and more angular with a higher body temperature. In contrast, he is softer, rounder, his musculature less defined, and his body temperature lower. This is because when sleeping, he actually shifts to using what he had consumed rather than what he had absorbed. His power requires some level of consciousness. Thus, when he lets his consciousness dip in sleep, he is essentially ceasing 
+His newfound appreciation of sleep produced an interesting pattern. He would remain active from December to August and then dormant from September to November. In his active season, he would appear leaner and more angular with a higher body temperature. In contrast, he is softer, rounder, his musculature less defined, and his body temperature lower. This is because when sleeping, he actually shifts to using what he had consumed rather than what he had absorbed. When he sleeps, he suspends the mechanism of his body converting radiation into energy. Thus, when he lets his consciousness dip in sleep, he is essentially relying on nutrients and minerals he had consumed. This gives him the bulkier appearance in this period. Once he wakes up, he begins cutting down any other fat still in him, returning him to his usual body weight.
+
+Godric's favorite way to cut down fat is swimming. He'll swim for miles, sometimes even across continents. However, he'll eventually slim down as his body uses the fat as energy to fuel him. Fitness comes natural to him, which others might find unfair; he genuinely doesn't need to go to gym.
+
+The reasoning behind the cycle's dates is simple. His dormant periods coincide with less human activity and he wakes up just in time for holidays. 
 
 - Key concepts to understand:
 	1. He does **not** require sleep
 	2. He does **not** need to eat
+	3. He used sleep to improve the acclimation of his senses when he transformed into a human.
+	4. His seasonal cycle was **only** implemented as a human
+	5. He cuts down in the beginning of his active season
+	6. He bulks up at the beginning of his dormant season, increasing his caloric intake
+	7. He leaves instructions for Anguirus and Rodan as they take over together with Mothra and Kong
+
+## History
+
+## Relationships
