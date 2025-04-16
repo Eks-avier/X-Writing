@@ -1,9 +1,10 @@
-# Refined Godzilla Profile Outline
+# Refined Godzilla Profile OuAE6XCtline
 
 #atm #wip
 
 ## Physical Features
 
+- **Human Name**: Godric Nordson
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
 - **Sex**: Male
@@ -117,6 +118,7 @@
 	- **Shorts**: Predominantly swimming trunks and are all black in color
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
 			- *Drag? I care not.*
+	- **Notes**: 
 
 ## Seasonal Physique
 
@@ -142,6 +144,8 @@ As a *Titanus gojira*, he does not require sleep nor conventional food to sustai
 
 As a Titan, creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen to him: vibrations in the ground, scents in the air, sounds from the environment, and energy signatures pulsating across the world. His species have inherently heightened and refined senses; but, thanks to his age, this only improved substantially. What his usual species could detect from vast kilometers, he could do so across half the entire world. After his fight with Ghidorah, his senses only further improved. Something about the combination of Serizawa death by his gift of a nuke, stress from fighting the golden arsehole, and seeing Mothra die so soon after they've only just met in this period of time seemed to have exponentially developed his senses. His body appeared to have 'memorized' the experience, his species' inherent ability of limitless adaptation kicking in despite being under the impression that it was *only* due to Serizawa and Mothra that his growth was expedited. Those who think the Alpha Paramount is vulnerable in what appeared to be a sleeping position would be sorely mistaken.
 
+Additionally, it is often mistaken that he requires hibernation. However, because winter is special for Northern *Titanus gojira* such as himself, they don't have a biological imperative for it. However, he eventually learned how to sleep for extended periods of time if he found a particular era boring. In this state, he remains in limbo between consciousness and not, a form of light sleep that can be stretched for millennia. If his senses pick up anything wrong, 
+
 As a human, his senses carried over. However, the sudden strain of experiencing the world in such vivid detail with a smaller body. Effectively, he was in shock most of the time. His body would eventually acclimate; he will always adapt after all. During his adjustment period though, he found respite in sleep, allowing him to cleanly processed the sensations he received from the environment. Overtime, the acuity and fidelity of his senses would return to the way he was used to, his body able to adjust thanks to the power of sleep.
 
 His newfound appreciation of sleep produced an interesting pattern. He would remain active from December to August and then dormant from September to November. In his active season, he would appear leaner and more angular with a higher body temperature. In contrast, he is softer, rounder, his musculature less defined, and his body temperature lower. This is because when sleeping, he actually shifts to using what he had consumed rather than what he had absorbed. When he sleeps, he suspends the mechanism of his body converting radiation into energy. Thus, when he lets his consciousness dip in sleep, he is essentially relying on nutrients and minerals he had consumed. This gives him the bulkier appearance in this period. Once he wakes up, he begins cutting down any other fat still in him, returning him to his usual body weight.
@@ -153,11 +157,12 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 - Key concepts to understand:
 	1. He does **not** require sleep
 	2. He does **not** need to eat
-	3. He used sleep to improve the acclimation of his senses when he transformed into a human.
-	4. His seasonal cycle was **only** implemented as a human
-	5. He cuts down in the beginning of his active season
-	6. He bulks up at the beginning of his dormant season, increasing his caloric intake
-	7. He leaves instructions for Anguirus and Rodan as they take over together with Mothra and Kong
+	3. He does **not** need to hibernate
+	4. He used sleep to improve the acclimation of his senses when he transformed into a human.
+	5. His seasonal cycle was **only** implemented as a human
+	6. He cuts down in the beginning of his active season
+	7. He bulks up at the beginning of his dormant season, increasing his caloric intake
+	8. He leaves instructions for Anguirus and Rodan as they take over together with Mothra and Kong
 
 ## History
 

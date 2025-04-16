@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wardens of the Surface"
+              "title": "Refined Godzilla Profile Outline"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "Notepad 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,16 +81,6 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
-            }
-          },
-          {
-            "id": "ea5da70b445b87e7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
             }
           },
           {
@@ -132,16 +121,17 @@
             }
           },
           {
-            "id": "d23a77c4a916c5a8",
+            "id": "8460f4d6619fd9d3",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "mk-path-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Wardens of the Surface"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -239,10 +229,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Wardens of the Surface"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           }
         ],
@@ -268,16 +258,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5ccea63ae9fa9536",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
+    "conflict-files-obsidian-git.md",
+    "Notepad 2.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-    "Notepad 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
@@ -297,11 +289,9 @@
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Characters/Baragon, the Liminal Sentinel.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Titans/Hierarchy",
     "Tags/#atm+titan+titan-culture",
