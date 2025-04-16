@@ -74,9 +74,23 @@ The most people get out of him every other week or so are sleeves rolled up slig
 
 Maddie found this entire thing odd, Mothra's silk is quite possibly the best clothing material in the entire world. Breathable, seemingly indestructible, flexible,  and the worst stains washed off it like hot butter on a pan. Heck, half of her wardrobe's custom made from the Queen of the Monsters. The bonus is that she has direct connection to their maker and that they're endlessly customizable. 
 
-She's also very modest too, which is fair. Maria Lepidiel doesn't strike her as someone that enjoys flaunting ph
+She's also very modest too, which is fair. Maria Lepidiel doesn't strike her as someone that enjoys flaunting physical beauty. She's effortlessly beautiful (*Maria, does your always have to look that good?*)
 
-However, when Godric suddenly popped a top button on his shirt. Madison swore she saw someone fall over (*Are we seriously acting like this in a professional setting? Christ...*). She noticed some of the hair visible on his chest (*Weird, guess he got tired shaving his body*). More curious is that he sometimes wears an undershirt (*How the hell is he wearing just an undershirt in fucking winter*?) She found lots of staff loved that too. 
+However, whenever Godric suddenly popped a top button on his shirt. Madison swore she kept seing someone fall over (*Are we seriously acting like a bunch of teenagers in a professional setting? Christ...*). 
+
+He did this a total of 4 times in this month. 2 of those happened because he had to demonstrate a fighting technique *while clothed the way he did, a testament to Mothra's fine craft* and the final two because Madison suggested he looked more casual.
+
+*Look, as much as we appreciate you getting our King of the Monsters a quote-on-quote change in style, we'd prefer not to have random accidents happen in the base.*
+
+*Are you sure it's because they can see his chest hair, and not because they're clumsy.*
+
+*Madison, for the love of God...*
+
+This "form" of him came in two types, which Madison only now realized because... well, it's not a common occurrence:
+1. He had no undershirt on, revealing some hair sticking out—he's not as hairy as Kong, but it seems he stopped shaving his body after 2020.
+2. He had an undershirt on, either black and white. It peeped a bit when he popped the button. 
+
+Of the four, two of them was without (when he demonstrated fighting) and the other two was due to Madison's suggestion.
 
 But instead of attraction (why should she? He's more like the big brother she never had), Madison developed an increasing curiosity. 
 
