@@ -194,8 +194,25 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 					- Thus, Japan's government knows who Godzilla is.
 						- Although as far as they are concerned, only Godzilla has turned into a human.
 						- Nevertheless, Godzilla himself made them swear an oath never to leak that information to the public, lest he come and destroy the country.
-			- In conclusion, he will remain *Gojira* (or *Godzilla*) to 
-	- However, t
+			- In conclusion, he will remain *Gojira* (or *Godzilla*) to them.
+				- But only to them and not the Japanese public
+	- However, the idea of finally having a name for himself intrigued him.
+		- His species was classified as *Titanus gojira*
+			- He approved the name
+		- There are four main factions of the species: North, South, East, and West
+			- Godzilla, specifically was a *Northern Titanus gojira*
+		- All *T. gojira* are patriarchal, though how by how much? That defers per race.
+			- The North specifically are strictly patriarchal
+		- It is thus common for names to be patrilineal
+			- Typically, a son or daughter will have a name that goes like so:
+			  -  *Son/Daughter of [Father]*
+				  - Formally, this is how they are identified.
+				  - Though rare, it is also valid to be named after their grandfathers
+			  - Curiously, this means it is also common for sons to be juniors 
+		  - Godzilla's father was identified as Dagon
+			  - After a bit of heartfelt reunion with his father's skeletal remains 3 months post-Antitheriomorphosis, as it is the skeleton that was excavated from the Philippines in 1999l; it is the same skeleton that housed two MUTOs, Godzilla was informed that he was designated as Dagon.
+		  - This would mean that in the culture of the Northern Gojira, Godzilla would have been named the following:
+			  - 
 ## Abilities
 
 ## Relationships
