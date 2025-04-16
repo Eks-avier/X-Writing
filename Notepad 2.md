@@ -120,7 +120,7 @@ Madison had said nothing more then. After a moment, "I'm planning this neat litt
 
 Godric made the slightest hint of an eye roll and went with Maddie.
 
-And if Madison has amassed several photos of Godric in normal, stoic poses some with his button popped, some with his undershirt on, some with his sleeves rolled, some with his shirt untucked... Then no one would know, they sell a lot.
+And if she has amassed several photos of Godric in normal, stoic poses some with his button popped, some with his undershirt on, some with his sleeves rolled, some with his shirt untucked... Then no one would know, they sell a lot.
 
 *Maddie, please don't tell me you were selling his photos to our staff.*
 
@@ -128,16 +128,24 @@ And if Madison has amassed several photos of Godric in normal, stoic poses some 
 
 *Maddie you made an internal OnlyFans.
 
-*Look at my new laptop! Look at this telescope, Dad!*
+*Look at my new laptop! It's the latest!* 
 
-*You can't be serious, your allowance can make company CEOs jealous...*
+*You can't be serious, your old one was literally a model from last year*
 
-*Hey, just fulfilling the people's needs.*
+*Look at this telescope, Dad!*
+
+*Since when did you ever need one?!*
+
+*For stargazing, duh.*
+
+*Maddie, your allowance can already make some company CEOs cry.*
+
+*Hey, I was just fulfilling the people's needs. Besides, aren't you proud that your daughter's got a talented business mind.*
+
+*Madison...*
 
 She would, after a while, eventually learn of the real reason. 
 
-"I've been alive and remained Alpha Paramount for a quarter of a billion years. Who I am is immuI suppose I see no need to change what I already found fitting for me."
+"I've been alive and remained Alpha Paramount for a quarter of a billion years. Who I am is immutable... thus, I suppose I see no need to change what I already found fitting for me."
 
-"The other Titans—"
-
-"Are entitled to what they want to wear, it's not like you can stop any of us anyway,"  he said, winking at him.
+And Madison's new found business acumen gained 
