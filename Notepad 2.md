@@ -72,11 +72,11 @@ The most people get out of him every other week or so are sleeves rolled up slig
 
 *One of them, and I quote, said "I want him to choke me."*
 
-Maddie found this entire thing odd, Mothra's silk is quite possibly the best clothing material in the entire world. Breathable, seemingly indestructible, flexible,  and the worst stains washed off it like hot butter on a pan. Heck, half of her wardrobe's custom made from the Queen of the Monsters. The bonus is that she has direct connection to their maker and that they're endlessly customizable. 
+Maddie found this entire thing odd, Mothra's silk is quite possibly the best clothing material in the entire world. Breathable, seemingly indestructible, flexible,  and the worst stains washed off of it like hot butter on a pan. Heck, half of Madison's wardrobe is full of custom made clothing from the Queen of the Monsters herself. 
 
-She's also very modest too, which is fair. Maria Lepidiel doesn't strike her as someone that enjoys flaunting physical beauty. She's effortlessly beautiful (*Maria, does your always have to look that good?*)
+Mothra's also very modest too, which is fair. Maria Lepidiel doesn't strike Madison as someone that enjoys flaunting physical beauty. She's effortlessly beautiful (*Maria, do always have to look that good?*) Also, she frequently tries different dresses, none that go above her knees or show her arms, but the variety and color is enough to be considered as diverse. She even wore gorgeous hats that make her seem related to the British Monarchy. So why doesn't Godric do so?
 
-However, whenever Godric suddenly popped a top button on his shirt. Madison swore she kept seing someone fall over (*Are we seriously acting like a bunch of teenagers in a professional setting? Christ...*). 
+However, whenever Godric suddenly popped a top button on his shirt. Madison swore she kept seeing someone fall over, some looking at Godric a little too much until he looks back and they cower (*Are we seriously acting like a bunch of teenagers in a professional setting? Christ...*). 
 
 He did this a total of 4 times in this month. 2 of those happened because he had to demonstrate a fighting technique *while clothed the way he did, a testament to Mothra's fine craft* and the final two because Madison suggested he looked more casual and for some official photos.
 
@@ -108,10 +108,36 @@ But what does the King of the Monsters himself say?
 
 "I like the look."
 
+"No way."
+
+A hum of affirmation. 
+
+Madison had said nothing more then. After a moment, "I'm planning this neat little website for Monarch—don't worry it's just for within Monarch—I need everyone's pictures and..."
+
+"And...?"
+
+"You're the only one whom I haven't taken pictures of yet!"
+
+Godric made the slightest hint of an eye roll and went with Maddie.
+
 And if Madison has amassed several photos of Godric in normal, stoic poses some with his button popped, some with his undershirt on, some with his sleeves rolled, some with his shirt untucked... Then no one would know, they sell a lot.
 
 *Maddie, please don't tell me you were selling his photos to our staff.*
 
 *Hey, gotta make money somehow and I ensured they won't be leaked. I made very sure of it.*
 
-*You're incorrigible... your allowance makes some CEOs jealous...*
+*Maddie you made an internal OnlyFans.
+
+*Look at my new laptop! Look at this telescope, Dad!*
+
+*You can't be serious, your allowance can make company CEOs jealous...*
+
+*Hey, just fulfilling the people's needs.*
+
+She would, after a while, eventually learn of the real reason. 
+
+"I've been alive and remained Alpha Paramount for a quarter of a billion years. Who I am is immuI suppose I see no need to change what I already found fitting for me."
+
+"The other Titans—"
+
+"Are entitled to what they want to wear, it's not like you can stop any of us anyway,"  he said, winking at him.
