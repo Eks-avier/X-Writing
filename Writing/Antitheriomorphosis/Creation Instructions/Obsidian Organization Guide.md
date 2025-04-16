@@ -119,6 +119,8 @@ This guide provides a structured approach to organizing your Antitheriomorphosis
 
 ## Tag-Based Organization
 
+All tags must be tagged with `#atm` tag to centralize everything one tag
+
 ### Primary Tag Categories
 
 ```

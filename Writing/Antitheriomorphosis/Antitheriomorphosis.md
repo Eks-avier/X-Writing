@@ -46,6 +46,7 @@ Short stories and character vignettes within the universe should be titled:
 ### Obsidian Integration
 
 - All files should use the prefix `ATM-` in filenames to clearly identify them as part of this universe
+- All files should possess the `#atm` tag
 - Main narrative branches should be organized in separate folders
 - Character profiles should use the template format: `ATM-Character-[Name]`
 - Timeline events should be tagged with `#atm-timeline`
