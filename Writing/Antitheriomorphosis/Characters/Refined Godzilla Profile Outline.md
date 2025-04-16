@@ -225,7 +225,10 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 				  - The name would then stick, even with the Titans.
 		  - For his first name, Madison presented him with a few choices:
 			  - What caught Godzilla's eye was the name *Godric*
-				  - An old Anglo-Saxon name that essentially meant *the power of God* or the *ruler of God*
+				  - An old Anglo-Saxon name that essentially meant *power of God* or the *ruler of God*
+				  - It seemed apt for who he is, a representation of who he is
+				  - Madison also thought it sounded regal
+		  - Henceforth, he shall be known as Godric Nordson
 ## Abilities
 
 ## Relationships
