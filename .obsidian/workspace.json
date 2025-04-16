@@ -20,20 +20,6 @@
             }
           },
           {
-            "id": "6bd8e88a199c946b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
-            }
-          },
-          {
             "id": "5ccea63ae9fa9536",
             "type": "leaf",
             "state": {
@@ -155,7 +141,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,9 +238,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           }
         ],
@@ -278,7 +267,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6bd8e88a199c946b",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
