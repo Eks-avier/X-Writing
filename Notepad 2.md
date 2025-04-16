@@ -90,15 +90,19 @@ This "form" of him came in two types, which Madison only now realized because...
 1. He had no undershirt on, revealing some hair sticking out—he's not as hairy as Kong, but it seems he stopped shaving his body after 2020. (Happened two times, one when he was demonstrating and the other because Madison asked for it in their shoot: *Dude, have a bit more style!*)
 2. He had an undershirt on, either black and white. It peeped a bit when he popped the button. (Also happened two times, one when he demonstrated again and the other because Madison came for another round of photos: *These'll be for your ID cards, open it up a bit; makes you look like a teacher.*)
 
-Whether or not he wore one made no distinction, one side likes it and the other not. All it did for Madison was fuel curiosity. Why is he so particular about his damn clothing? Every other Titan either will flaunt or not care. But Godzilla (and Mothra) seemingly makes a conscious effort to cover as much. She can understand Mothra's reasons, but *him* not so much.
+Whether or not he wore one made no distinction, one side likes it and the other not. Discussions about various... parts of the Alpha Paramount echoed through the facility.
+
+*Can we please stop objectifying the King of the Monsters!*
+
+All it did for Madison was fuel curiosity. Why is he so particular about his damn clothing? Every other Titan either will flaunt or not care. But Godzilla (and Mothra) seemingly makes a conscious effort to cover as much. She can understand Mothra's reasons, but *him* not so much.
 
 *You know, I think it's just their style as people. Does this really need scrutinizing?*
 
-But instead of attraction (Why should she? He's more like the big brother she never had, the brother she wished was still alive in some ways), Madison's curiosity only grew. These are the type of studies that could only be done by her and her alone. 
+But instead of attraction (Why should she? He's more like the big brother she never had or more somberly the brother she wished was still alive), Madison's curiosity only grew. These are the type of studies that could only be done by her and her alone. 
 
 She must get to the bottom of this.
 
-Several theories were raised, aided my his father and some of the fellow core staff of Monarch:
+Several theories were raised, aided by her father and some of the fellow core staff of Monarch:
 1. *Are you serious? If I were thirsted over by even a fraction like that, I'd be cocooning myself* — Dr. Stanton
 2. *Perhaps, it's because he misses his protective scales? They don't work like human skin, hence his modest style.* — Dr. (Ilene) Chen
 3. *It's likely he's just genuinely modest, does he really need to strut around with his huge guns out? Wear his shirt with most of the top buttons popped? Wear a compression shirt? Yeah, I thought so* — Dr. Coleman
@@ -150,7 +154,6 @@ She would, after a while, eventually learn of the real reason.
 
 "So... it just works?"
 
-"It just works."
+"It just works, why change it?"
 
 And Madison's new found business acumen gained another brilliant idea. What could possibly boost morale even more? Her dad's gonna love the increased productivity!
-
