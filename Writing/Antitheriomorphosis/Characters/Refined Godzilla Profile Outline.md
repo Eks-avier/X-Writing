@@ -134,7 +134,9 @@
 
 ### Relationship with Sleep
 
-Az
+As a *Titanus gojira*, he does not require sleep nor conventional food to sustain himself. He can absorb solar radiation, geothermal radiation, and nuclear radiation to remain sated indefinitely. He also doesn't need the restorative effects of sleep due to his regeneration factor, which is also empowered during his intake of radiation. He consumes radiation, his regeneration quickens, he becomes sated, he continues to be awake; the cycle repeats.
+
+As a Titan, creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen to him: vibrations in the ground, disturbances 
 
 - Key concepts to understand:
 	1. He does **not** require sleep
