@@ -175,8 +175,27 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 			- They didn't name themselves *Godzilla* or *Rodan* or *Anguirus* or *Scylla* or *Leviathan* or *Bakunawa* and so on...
 			- Now they will make an attempt to change their names again? To add titles?
 		- Madison retorted that that's precisely the point, now *they* get to decide what to name themselves. 
-		- The first 
-
+	- The novel idea that the Titans themselves now get to choose how they will be called in the human tongue struck them true.
+		- The first to possess a human name is Leviathan, forming *Nathan*.
+			- *N*orth Levi*athan* 
+		- The second to follow was Scylla, who simply retained her name.
+		- Then, the rest of the Cardinals and Intercardinals 
+		- It was actually Godzilla first who provided a name for himself.
+			- Rodan and Anguirus clearly weren't ready yey, but perhaps seeing their leader might empower them to come forth soon enough.
+- Madison presented him with a couple of names:
+	- Should he be named after Serizawa?
+	- Should he possess a Western or Eastern based name?
+- Godzilla's solution was simple. 
+	- His approach would be both Western and Eastern:
+		- For his Eastern approach:
+			- The Titans who were turned into humans practically disappeared from public eye
+			- For all intents and purposes, they were missing to the general public.
+				- With the sole exception of Japan, from whose waters Godzilla's human form was found
+					- Thus, Japan's government knows who Godzilla is.
+						- Although as far as they are concerned, only Godzilla has turned into a human.
+						- Nevertheless, Godzilla himself made them swear an oath never to leak that information to the public, lest he come and destroy the country.
+			- In conclusion, he will remain *Gojira* (or *Godzilla*) to 
+	- However, t
 ## Abilities
 
 ## Relationships
