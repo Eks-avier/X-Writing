@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "6bd8e88a199c946b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
+            }
+          },
+          {
             "id": "5ccea63ae9fa9536",
             "type": "leaf",
             "state": {
@@ -47,7 +61,8 @@
               "title": "Notepad 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,6 +76,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fb16df59da2c755e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "1e6c383c6b9c0453",
             "type": "leaf",
             "state": {
@@ -71,6 +96,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "741876040235a8d7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -119,24 +154,12 @@
               "icon": "longform",
               "title": "Longform"
             }
-          },
-          {
-            "id": "8460f4d6619fd9d3",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 333,
-    "collapsed": true
+    "width": 333
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -228,20 +251,17 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Refined Godzilla Profile Outline"
+              "title": "File properties"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +278,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "6bd8e88a199c946b",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
     "conflict-files-obsidian-git.md",
+    "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
     "Notepad 2.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
