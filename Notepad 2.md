@@ -43,3 +43,44 @@ Finally, during the opening scene with the Balagtas family, I'm considering the 
 	- Suddenly, even that live coverage got cut as the *Malacanang* issued alarms everywhere. Suddenly, broadcast on a shore in Visayas filled every TV: a powerful shaking of the ground in the area, then a groan, then a giant dragon rose gracefully and roared: Bakunawa has risen from the depths.
 
 What do you think of these changes?
+
+---
+
+Ah, this brought me to another topic about him that's marginally tangential to this.
+
+Godric is actually quite modest in clothing! 
+
+At first, Madison thought it's because he doesn't want to reveal his physique (she's one of the first people who saw him post-Antitheriomorphosis, she knows what he looks like). This is why she often teased him: that the Alpha Paramount is surprisingly modest with clothing. 
+
+*You know, big guy. Lots of men with your status and physique would love to walk around revealing some muscle here and there. Try some t-shirts, at least. Besides, it's not like we could stop you.*
+
+*I have no need of them*
+
+All his clothes are long-sleeved, he doesn't wear jackets though (*Should I? It's not cold.*). He never wears shorts, even casual settings. Most especially in casual settings, he practically dresses the same 
+
+*Is there a distinction? I remain clothed after all; and no, I do not feel warm in them.*
+
+The behavior is jarring enough that the upper echelon of Monarch, including Maddie, began to find it... odd. 
+
+*Madison, can you stop urging the King of the Monsters to act like a damn thirst trapper.*
+
+*Dad, I'm not telling him to treat base hallways as a fashion ramp in Mr. Universe; I'm just curious why he's not wearing literally anything else*
+
+The most people get out of him every other week or so are sleeves rolled up slightly, likely to not get them dirty. They were raised just below the forearm, high enough to reveal it 
+
+*Maddie, please don't tell me that this technician fainted because of Godric and not the heat...*
+
+*One of them, and I quote, said "I want him to choke me."*
+
+Maddie found this entire thing odd, Mothra's silk is quite possibly the best clothing material in the entire world. Breathable, seemingly indestructible, flexible,  and the worst stains washed off it like hot butter on a pan. Heck, half of her wardrobe's custom made from the Queen of the Monsters. The bonus is that she has direct connection to their maker and that they're endlessly customizable. 
+
+She's also very modest too, which is fair. Maria Lepidiel doesn't strike her as someone that enjoys flaunting ph
+
+However, when Godric suddenly popped a top button on his shirt. Madison swore she saw someone fall over (*Are we seriously acting like this in a professional setting? Christ...*). She noticed some of the hair visible on his chest (*Weird, guess he got tired shaving his body*). More curious is that he sometimes wears an undershirt (*How the hell is he wearing just an undershirt in fucking winter*?) She found lots of staff loved that too. 
+
+But instead of attraction (why should she? He's more like the big brother she never had), Madison developed an increasing curiosity. 
+
+Several theories were raised, aided my his father and some of the fellow core staff of Monarch:
+1. *Are you serious? If I were thirsted over by even a fraction like that, I'd be cocooning myself* — Dr. Stanton
+2. *Perhaps,  it's because he misses his protective scales?* — Dr. (Ilene) Chen
+3. *Or maybe it's none of our business* — Dr. Russell
