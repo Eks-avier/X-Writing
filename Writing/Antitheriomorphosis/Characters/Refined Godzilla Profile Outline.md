@@ -212,7 +212,20 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 		  - Godzilla's father was identified as Dagon
 			  - After a bit of heartfelt reunion with his father's skeletal remains 3 months post-Antitheriomorphosis, as it is the skeleton that was excavated from the Philippines in 1999l; it is the same skeleton that housed two MUTOs, Godzilla was informed that he was designated as Dagon.
 		  - This would mean that in the culture of the Northern Gojira, Godzilla would have been named the following:
-			  - 
+			  1. Son of Dagon
+			  2. Dagon Junior
+			  3. Dagonson
+		  - The aforementioned names would all be equally accepted in their culture
+		  - Though he was finally shaken by the fact that his father did not abandon him, he felt guilty that he had cursed his name for literal eons.
+			  - He did not feel like he deserved being named after his father
+			  - Equally, he also represented not just his own father but his entire race
+		  - Thus, he figured that he would go as *Nordson*
+			  - This name represents that he is what most Titans have actually often called him as ages ago: *The Last Son of the North* or *The Last Northerner*
+			  - It wouldn't be until they interacted with ancient humans that he would gain the name Godzilla/Gojira
+				  - The name would then stick, even with the Titans.
+		  - For his first name, Madison presented him with a few choices:
+			  - What caught Godzilla's eye was the name *Godric*
+				  - An old Anglo-Saxon name that essentially meant *the power of God* or the *ruler of God*
 ## Abilities
 
 ## Relationships

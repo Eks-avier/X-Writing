@@ -16,6 +16,8 @@ All factions shared same fundamental value hierarchy, with different emphasis:
 4. **Love for Race** (factional obligations)
 5. **Love for Species** (general T. gojira obligations)
 
+
+## The Northerners
 ### Northern Social Structure
 
 - **Family Unit**: Extended group of 6-10 individuals functioning as cooperative unit
@@ -27,7 +29,7 @@ All factions shared same fundamental value hierarchy, with different emphasis:
 - **Leadership Selection**: Based on adaptability rather than age or raw strength
 - **Core Philosophy**: “The mark of a good family is a family that moves as one”
 
-### Reproductive Limitations
+### Reproductive Limitations 
 
 - Typically single offspring per cycle (rarely two)
 - Extended gestation (15-18 months) and maturation (equivalent to 14-16 human years)
@@ -60,7 +62,6 @@ All factions shared same fundamental value hierarchy, with different emphasis:
   - Self-limitation through territorial requirements
   - Radiation consumption needs
   - Internal conflicts
-  - “Purity trap” (refusal to adapt through hybridization)
   - MUTO parasitism targeting radiation-rich eggs
 - Godzilla remains last pure Northern T. gojira
 - T. zilla hybrid species survives as evolutionary offshoot

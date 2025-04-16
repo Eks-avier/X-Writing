@@ -27,8 +27,6 @@
 ### Hierarchy Position
 
 - Zilla Jr. designated as the Alpha of *Titanus zilla*
-- First case where species preservation officially recognized as valid reason for declining advancement
-- Required Godzilla's direct intervention during Behemoth's formal challenge
 
 ### Transformation Capability
 
