@@ -134,6 +134,8 @@
 
 ### Relationship with Sleep
 
-- Godzilla does **not** require sleep
-- Godzilla does **not** need to ear
-- 
+Az
+
+- Key concepts to understand:
+	1. He does **not** require sleep
+	2. He does **not** need to eat

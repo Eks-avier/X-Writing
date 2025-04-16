@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wardens of the Surface"
+              "title": "Refined Godzilla Profile Outline"
             }
           }
         ],
@@ -139,7 +139,7 @@
         }
       },
       {
-        "id": "fa8bcd2cd89abe5c",
+        "id": "df44f1998b6b484e",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -220,8 +220,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07db8c6ed1789a39",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md",
@@ -248,7 +249,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Story Arcs/Keystone WIP.md",
-    "Writing/Antitheriomorphosis/Keep Charlie Students.md",
     "Tags/#atm+titan+northern-faction",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+titan-culture",
