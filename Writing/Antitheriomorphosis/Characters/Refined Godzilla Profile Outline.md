@@ -7,6 +7,9 @@
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
 - **Sex**: Male
+- **Age**: 250 m.y. old
+- **Documented Age**: 25
+- **Birthday**: November 3
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Hair**: Black
 	- **Hair Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
@@ -31,6 +34,7 @@
 	- During the early days of his transformation, his body is cleanly shaved
 		- He kept up the routine up until the following year
 		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
+	- Some people think he looks older than his apparent age (25), likely due to his regal appearance
 
 ## Physical Characteristics
 
@@ -74,7 +78,7 @@
 	3. Charcoal gray
 	4. Navy blues
 	5. Forest greens
-- **Clothing Material**: **All** clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of personally replaced each shirt's material with her own silk.
+- **Clothing Material**: **All** clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of garment making, she personally replaced each of his clothes' material with her own silk.
 	- Any other new clothes he would have are made with her silk, which is:
 		- Supremely durable
 			- Bulletproof and also proofed against other high-speed projectiles
@@ -93,7 +97,7 @@
 - **Shirts**: Nearly all of his shirts are long-sleeved button-downs
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
 		- He only has **one** green shirt.
-			- It came from a set of three, along with a blue and black shirt.
+			- It came from a set of three, along with a blue and black shirt that was given to him 
 - **Underwear**:
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
 		- Apparently, she is also distracted when she sees his undershirt peeking
@@ -102,7 +106,7 @@
 	- **Underpants**: Owns a variety of the following and *all* are black:
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
 			- He only uses boxer shorts and briefs in his private quarters and when he is lounging
-				- Of course no one but him knows this, but Mothra has observed a pattern
+				- Of course no one but him knows this, but Mothra has observed such pattern
 					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
 						- She then wrote a paper that documented her findings with Baragon as her accomplice.
 	- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
