@@ -13,7 +13,7 @@ status: active
 
 # **Godzilla, The King of the Monsters**
 
-> *"A living force of nature contained within perfect human proportions, his mere presence commands respect and triggers instinctual fear."*
+> *“A living force of nature contained within perfect human proportions, his mere presence commands respect and triggers instinctual fear.”*
 
 ## Basic Profile
 
@@ -23,7 +23,7 @@ status: active
 > - **Human Name**: Godric Nordson
 > - **Documented Age**: 25
 > - **Actual Age**: Approximately 250 million years
-> - **Height**: 6'5" (196 cm)
+> - **Height**: 6'5” (196 cm)
 > - **Weight**: 265 lbs (120 kg)
 > - **Birthday**: November 3
 > - **Status**: Alpha Paramount (King of the Monsters)
@@ -79,12 +79,14 @@ status: active
 - **Style**: Simple, functional, form-fitting, unembellished clothing allowing for mobility
 
 #### Shirts
+
 - **Button-downs**: Nearly all shirts are long-sleeved button-downs
   - **Distribution**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest green (only one)
 - **Alternatives**: 10 plain form-fitting t-shirts (black/white) and 3 henleys (one white, two black)
   - Rarely used despite being remade with Mothra's silk
 
 #### Undergarments
+
 - **Undershirts**: Black or white variants, all plain
   - Wears periodically, especially in winter to appear affected by cold
 - **Underpants**: All black, varied styles:
@@ -92,6 +94,7 @@ status: active
   - Boxer shorts and briefs reserved for private quarters
 
 #### Lower Garments
+
 - **Trousers**: Tactical pants with reduced pockets resembling formal trousers
   - Dislikes bulk and unnecessary pockets
 - **Shorts**: Predominantly black swimming trunks, rarely used
