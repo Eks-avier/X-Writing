@@ -1,120 +1,109 @@
 ---
 aliases:
-
-- Godzilla
-- Godric
-- Alpha Paramount
-- King of the Monsters tags:
-- atm
-- atm/titan
-- atm/titan/character/main status: refined
+  - Godzilla
+  - Godric
+  - Alpha Paramount
+  - King of the Monsters
+tags:
+  - atm
+  - atm/titan
+  - atm/titan/character/main
+status: active
 ---
 
-# Godric Nordson - Physical Profile
+# **Godzilla, The King of the Monsters**
+
+> *"A living force of nature contained within perfect human proportions, his mere presence commands respect and triggers instinctual fear."*
 
 ## Basic Profile
 
-| Attribute            | Detail                                |
-| -------------------- | ------------------------------------- |
-| **Human Name**       | Godric Nordson                        |
-| **Titan Name**       | Godzilla                              |
-| **Height**           | 6'5” (196 cm)                         |
-| **Weight**           | 265 lbs (120 kg)                      |
-| **Age (Documented)** | 25                                    |
-| **Age (Actual)**     | ~250 million years                    |
-| **Title**            | Alpha Paramount, King of the Monsters |
-| **Birthday**         | November 3                            |
+### Human Form
 
-## Physical Features
+> [!info] Human Identity
+> - **Human Name**: Godric Nordson
+> - **Documented Age**: 25
+> - **Actual Age**: Approximately 250 million years
+> - **Height**: 6'5" (196 cm)
+> - **Weight**: 265 lbs (120 kg)
+> - **Birthday**: November 3
+> - **Status**: Alpha Paramount (King of the Monsters)
 
-### Appearance
+### Titan Form
 
-- **Hair**: Black, short but styled back with occasional strands falling across forehead
-- **Eyes**:
-    - **Apparent Color**: Light blue (effect of atomic energy, almost always present)
-    - **True Color**: Gold (maternal trait, rarely revealed)
-- **Skin**: Caucasian with slight tan from sun exposure
-    - No blemishes, scars, or markings
-- **Facial Structure**:
-    - Square-like face with defined jawline
-    - High cheekbones and strong brow ridge
-    - Perfect facial harmony and symmetry (unnervingly so)
-- **Build**:
-    - Impeccable anatomical proportions
-    - Fully ambidextrous
-    - Modest body hair on arms, chest, legs, and groin
+> [!info] Titan Identity
+> - **Species**: *Titanus gojira* (Northern variant)
+> - **Status**: Dormant (due to Antitheriomorphosis)
 
-## Physical Characteristics
+## Physical Appearance
 
-### Presence & Demeanor
+### Core Features
 
-- **Movement**: Economical, tactical, graceful despite height/weight
-- **Posture**: Perfect military bearing maintained effortlessly
-    - Never bows or adjusts eyeline to accommodate others' heights
-- **Presence**: Passively intimidating, triggers fight-or-flight response
-- **Expression**: Predominantly stoic, favors micro-expressions
-- **Stillness**: Capable of remaining perfectly motionless during observation
+| Attribute | Description |
+|-----------|-------------|
+| **Hair** | Black, short but long enough to style back; occasionally falls across forehead |
+| **Eyes** | Typically light blue (energy effect); true color gold (maternal trait, rarely revealed) |
+| **Skin** | Caucasian with slight tan; no blemishes, scars or markings of any kind |
+| **Build** | Powerful musculature with immaculate proportions that can unnerve people at first glance |
+| **Face** | Square-like with defined jawline, high cheekbones, strong brow ridge; perfect facial harmony |
+
+### Physical Characteristics
+
+- **Movement**: Economical, tactical, and graceful despite size; perfectly balanced in all situations
+- **Posture**: Perfect military bearing maintained effortlessly; never bows, looks down, or looks up
+- **Presence**: Passively threatening and intimidating; triggers fight-or-flight responses in others
+- **Expression**: Predominantly stoic with preference for micro-expressions
+- **Stillness**: Capable of remaining perfectly motionless for extended periods while observing
+- **Voice**: Deep, resonant baritone; naturally rich and clear with velvety smoothness; fills rooms effortlessly
+  - **Speech Pattern**: Measured, deliberate pacing; naturally emphasizes important points; economical word choice
 - **Temperature**: Highly elevated body temperature, most noticeable in winter
 
-### Voice
+### Seasonal Physique
 
-- Deep, resonant baritone with natural gravitas
-- Velvety smooth quality that fills rooms effortlessly
-- **Speech Pattern**:
-    - Measured, deliberately paced
-    - Economical word choice
-    - Natural emphasis on important points
+- **Active Season** (December-August):
+  - 10-12% body fat
+  - Defined musculature
+  - Angular facial features
+  - Higher body temperature
+- **Dormant Period** (September-November):
+  - 15-18% body fat
+  - Softer musculature
+  - Softened facial features
+  - Lower body temperature
 
 ## Attire
 
-### Core Wardrobe
+### Daily Wardrobe
 
-- **Color Palette** (in order of preference):
-    1. Black
-    2. White
-    3. Charcoal gray
-    4. Navy blue
-    5. Forest green
-- **Shirts**: Primarily long-sleeved button-downs
-    - 40% white, 40% black, 10% gray, 9% navy, 1% green (single shirt)
-    - **Alternatives**: 10 form-fitting t-shirts (black/white), 3 henleys (1 white, 2 black)
-- **Undershirts**: Plain white or black, worn occasionally
-- **Trousers**: Tactical pants with reduced pockets, resembling formal trousers
-- **Underwear**: All black
-    - 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
-- **Shorts**: Black swimming trunks, rarely used
+- **Color Palette** (in order of preference): Black, white, charcoal gray, navy blue, forest green
+- **Primary Clothing**: All garments now made from Mothra's silk, offering supreme durability and protection
+- **Style**: Simple, functional, form-fitting, unembellished clothing allowing for mobility
 
-### Material
+#### Shirts
+- **Button-downs**: Nearly all shirts are long-sleeved button-downs
+  - **Distribution**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest green (only one)
+- **Alternatives**: 10 plain form-fitting t-shirts (black/white) and 3 henleys (one white, two black)
+  - Rarely used despite being remade with Mothra's silk
 
-All clothing now made with Mothra's silk, providing:
+#### Undergarments
+- **Undershirts**: Black or white variants, all plain
+  - Wears periodically, especially in winter to appear affected by cold
+- **Underpants**: All black, varied styles:
+  - 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
+  - Boxer shorts and briefs reserved for private quarters
 
-- Supreme durability (bulletproof, fireproof, waterproof)
-- High flexibility
-- Easy maintenance
-- Limited atomic energy channeling capability
-
-## Seasonal Physique
-
-### Active Season (December-August)
-
-- 10-12% body fat
-- Defined musculature
-- Angular facial features
-- Higher body temperature
-
-### Dormant Period (September-November)
-
-- 15-18% body fat
-- Softer musculature
-- Softened facial features
-- Lower body temperature
+#### Lower Garments
+- **Trousers**: Tactical pants with reduced pockets resembling formal trousers
+  - Dislikes bulk and unnecessary pockets
+- **Shorts**: Predominantly black swimming trunks, rarely used
 
 ## Trivia
 
-- Enjoys sunbathing both recreationally and for energy absorption
-- Madison included him in her research paper documenting Titans' underwear preferences, with Baragon serving as her accomplice through his earth-sense abilities
-- Mothra finds his chest hair distracting but is equally distracted by his visible undershirt
-- Possesses a collection of unworn t-shirts and henleys he considers discarding but Madison insists he keep for “variety”
-- Only owns one green shirt, which was part of a gifted set
-- Swimming is his preferred method of reducing body fat
-- His perfectly proportioned appearance makes him appear older than his documented age
+- Fully ambidextrous, though originally right-handed when first discovered by Monarch
+- Initially maintained a clean-shaven appearance but has since grown modest body hair
+- Often appears older than his documented age due to his regal bearing
+- Subject of Madison's research paper documenting Titans' preferred undergarments (detected by Baragon's earth-sense)
+- Mothra finds his chest hair distracting but is equally distracted by visible undershirts
+- Sunbathes recreationally, which doubles as solar energy absorption
+- Prefers swimming as his primary exercise when reducing seasonal weight
+- Possesses only one green shirt, which came from a gift set of three
+- His perfectly symmetrical features and proportions are so precise they create an uncanny valley effect for some humans

@@ -5301,13 +5301,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 479,
+      "wordCount": 529,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5966666666666667,
-      "characterCount": 3983,
-      "nonWhitespaceCharacterCount": 3385,
-      "readingTimeInMinutes": 1.8075471698113208,
+      "pageCount": 1.7633333333333334,
+      "characterCount": 4355,
+      "nonWhitespaceCharacterCount": 3678,
+      "readingTimeInMinutes": 1.9962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
@@ -5317,8 +5317,8 @@
         "King of the Monsters"
       ],
       "createdDate": 1744830910871,
-      "modifiedDate": 1744879523102,
-      "sizeInBytes": 4127,
+      "modifiedDate": 1744882390052,
+      "sizeInBytes": 4512,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5337,7 +5337,8 @@
           "atm",
           "atm/titan",
           "atm/titan/character/main"
-        ]
+        ],
+        "status": "active"
       }
     }
   }
