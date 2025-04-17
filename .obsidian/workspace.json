@@ -27,7 +27,7 @@
               "state": {
                 "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Refined Godzilla Profile Outline"
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refined Godzilla Profile Outline"
+              "title": "Outline of Godric Nordson - Physical Profile"
             }
           },
           {
@@ -268,10 +268,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Refined Godzilla Profile Outline"
+              "title": "File properties for Godric Nordson - Physical Profile"
             }
           }
         ],
@@ -297,10 +297,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "5ccea63ae9fa9536",
+  "active": "2e8930929a3697d7",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",
