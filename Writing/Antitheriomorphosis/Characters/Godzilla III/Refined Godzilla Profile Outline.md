@@ -99,6 +99,7 @@
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
 		- He only has **one** green shirt.
 			- It came from a set of three, along with a blue and black shirt that was given to him
+	- **Alternatives**:
 - **Underwear**:
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
 		- Apparently, she is also distracted when she sees his undershirt peeking
