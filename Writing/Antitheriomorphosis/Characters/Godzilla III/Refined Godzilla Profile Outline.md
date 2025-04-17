@@ -118,7 +118,6 @@
 	- **Shorts**: Predominantly swimming trunks and are all black in color
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
 			- *Drag? I care not.*
-	- **Notes**:
 
 ## Seasonal Physique
 
