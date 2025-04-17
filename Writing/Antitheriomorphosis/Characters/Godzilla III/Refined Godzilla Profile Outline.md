@@ -124,6 +124,12 @@
 		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
 			- *Drag? I care not.*
 
+### Formal Attire
+
+- **Upper**: In a twist that *no one* could have expected, Godric absolutely does not 
+- **Lower**: 
+
+
 ## Seasonal Physique
 
 - **Active Season**:
@@ -172,24 +178,24 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 
 ## Name History
 
-- 6 months after the Antitheriomorphosis, Madison suggested that the Titans adopt human names. 
+- 6 months after the Antitheriomorphosis, Madison suggested that the Titans adopt human names.
 	- This didn't go well for the current roster of Titans, namely Godzilla, Anguirus, Rodan, the Cardinal and Intercardinal Wardens.
 		- Why would they need a human name? Are their names as it is not enough?
 		- Humans were the ones to give their current names after all.
-			- They didn't name themselves *Godzilla* or *Rodan* or *Anguirus* or *Scylla* or *Leviathan* or *Bakunawa* and so on...
+			- They didn't name themselves *Godzilla* or *Rodan* or *Anguirus* or *Scylla* or *Leviathan* or *Bakunawa* and so on…
 			- Now they will make an attempt to change their names again? To add titles?
-		- Madison retorted that that's precisely the point, now *they* get to decide what to name themselves. 
+		- Madison retorted that that's precisely the point, now *they* get to decide what to name themselves.
 	- The novel idea that the Titans themselves now get to choose how they will be called in the human tongue struck them true.
 		- The first to possess a human name is Leviathan, forming *Nathan*.
-			- *N*orth Levi*athan* 
+			- *N*orth Levi*athan*
 		- The second to follow was Scylla, who simply retained her name.
-		- Then, the rest of the Cardinals and Intercardinals 
+		- Then, the rest of the Cardinals and Intercardinals
 		- It was actually Godzilla first who provided a name for himself.
 			- Rodan and Anguirus clearly weren't ready yey, but perhaps seeing their leader might empower them to come forth soon enough.
 - Madison presented him with a couple of names:
 	- Should he be named after Serizawa?
 	- Should he possess a Western or Eastern based name?
-- Godzilla's solution was simple. 
+- Godzilla's solution was simple.
 	- His approach would be both Western and Eastern:
 		- For his Eastern approach:
 			- The Titans who were turned into humans practically disappeared from public eye
@@ -212,7 +218,7 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 			  -  *Son/Daughter of [Father]*
 				  - Formally, this is how they are identified.
 				  - Though rare, it is also valid to be named after their grandfathers
-			  - Curiously, this means it is also common for sons to be juniors 
+			  - Curiously, this means it is also common for sons to be juniors
 		  - Godzilla's father was identified as Dagon
 			  - After a bit of heartfelt reunion with his father's skeletal remains 3 months post-Antitheriomorphosis, as it is the skeleton that was excavated from the Philippines in 1999l; it is the same skeleton that housed two MUTOs, Godzilla was informed that he was designated as Dagon.
 		  - This would mean that in the culture of the Northern Gojira, Godzilla would have been named the following:
@@ -233,6 +239,7 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 				  - It seemed apt for who he is, a representation of who he is
 				  - Madison also thought it sounded regal
 		  - Henceforth, he shall be known as Godric Nordson
+
 ## Abilities
 
 ## Relationships
