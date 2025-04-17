@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godzilla - Biology and Physiology"
+              "title": "Godric Nordson - Physical Profile"
             }
           }
         ],
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -209,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla - Biology and Physiology"
+              "title": "Outline of Godric Nordson - Physical Profile"
             }
           },
           {
@@ -253,10 +254,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla - Biology and Physiology"
+              "title": "File properties for Godric Nordson - Physical Profile"
             }
           }
         ],
@@ -284,8 +285,10 @@
   },
   "active": "2e8930929a3697d7",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III",
     "Notepad 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
@@ -310,7 +313,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla/10 - Personal Relationships.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
@@ -324,7 +326,6 @@
     "Tags/#atm+titan+northern-faction",
     "Writing/Antitheriomorphosis/Characters/Godzilla II",
     "Society",
-    "titan",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",

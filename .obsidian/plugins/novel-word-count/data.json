@@ -5296,6 +5296,51 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
       }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 770,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.566666666666667,
+      "characterCount": 6425,
+      "nonWhitespaceCharacterCount": 5390,
+      "readingTimeInMinutes": 2.9056603773584904,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Godzilla",
+        "King of the Monsters",
+        "Alpha Paramount",
+        "Godric"
+      ],
+      "createdDate": 1744830910871,
+      "modifiedDate": 1744830940067,
+      "sizeInBytes": 6663,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Godzilla",
+          "King of the Monsters",
+          "Alpha Paramount",
+          "Godric"
+        ],
+        "tags": [
+          "atm",
+          "atm/titan",
+          "atm/titan/character/main",
+          "atm/titan/alpha"
+        ],
+        "status": "refined"
+      }
     }
   }
 }
