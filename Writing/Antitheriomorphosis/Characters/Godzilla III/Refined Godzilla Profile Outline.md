@@ -99,7 +99,10 @@
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
 		- He only has **one** green shirt.
 			- It came from a set of three, along with a blue and black shirt that was given to him
-	- **Alternatives**:
+	- **Alternatives**: Possesses 10 plain form-fitting t-shirts and 3 henleys, one white and two black
+		- Though they have been remade with Mothra's silk, he has never found use for them
+			- *Can I throw these out?*
+			- *Absolutely not, big guy—you have zero variety as it is!*
 - **Underwear**:
 	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
 		- Apparently, she is also distracted when she sees his undershirt peeking
