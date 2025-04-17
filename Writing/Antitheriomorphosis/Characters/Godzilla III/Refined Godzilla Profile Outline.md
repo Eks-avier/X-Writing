@@ -126,14 +126,14 @@
 
 ### Formal Attire
 
-- **Upper**: In a twist that *no one* could have expected, Godric absolutely does not care about this form of clothing either. 
+- **Suits**: In a twist that *no one* could have expected, Godric absolutely does not care about this form of clothing either.
 	- *Come on, you could try making a statement!*
 	- *Honestly, Madison, can you stop turning the King of the Monsters into a barbie doll*
 	- *Dad, stay out of this. We're saving him from his awfully plain fashion style*
 	- *Or maybe, just maybe, the style works for him?*
-	- *He needs something, literally anything, that makes him stand out as king of all those giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore colors!*
-	- *And you think his mere presence isn't enough?*
-	- **Suit Color**: - **Lower**: 
+	- *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
+	- *You think his mere presence isn't enough to make a statement?*
+	
 
 
 ## Seasonal Physique
