@@ -271,7 +271,7 @@ Importantly, the factional adaptations primarily affected their physical charact
 **Notable Traits**: Most expressive communication style incorporating complex energy pattern variations; greatest population focus with sophisticated fertility management systems; most flexible social structures adapting to territorial constraints; most accepting of controlled hybridization when population pressures threatened survival.
 
 > [!info] Southern Legacy
-> The Southern faction's greater flexibility toward hybridization eventually led to the emergence of *Titanus zilla* after catastrophic population losses. While this created a species that lacked the core *Titanus gojira* abilities, it preserved approximately 63% of their genetic material—a partial legacy that survived when pure Southern lineages did not. This represents not an ideal outcome but a desperate survival strategy employed when alternatives had vanished. Godzilla's complex perspective on *Titanus zilla* reflects his growing understanding of this reality—that preservation of partial legacy may be preferable to complete extinction.
+> The Southern faction's greater flexibility toward hybridization eventually led to the emergence of *Titanus zilla* after catastrophic population losses. While this created a species that lacked the core *Titanus gojira* abilities, it preserved approximately 47% of their genetic material—a partial legacy that survived when pure Southern lineages did not. This represents not an ideal outcome but a desperate survival strategy employed when alternatives had vanished.
 
 ### Easterners
 
