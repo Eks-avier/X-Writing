@@ -135,7 +135,6 @@
 - **Background:** Daughter of Mark and Emma Russell, survivor of multiple Titan incidents
 - **Notable Traits:**
   - Natural affinity for understanding Titan behavior
-  - Partners with Rodan on increasingly chaotic “experiments”
   - Returned from Asia with information about black market hunters
   - Has earned unusual level of respect from multiple Titans
   - Known as “the Architect” among Titans for her role in designing Monster Island Palace
