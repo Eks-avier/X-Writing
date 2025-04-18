@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monarch Personnel Roster"
+              "title": "Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -167,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Monarch Personnel Roster"
+              "title": "File properties for Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monarch Personnel Roster"
+              "title": "Backlinks for Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Monarch Personnel Roster"
+              "title": "Outgoing links from Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Monarch Personnel Roster"
+              "title": "Outline of Mothra, the Queen of the Monsters"
             }
           },
           {
@@ -275,6 +275,7 @@
   },
   "active": "24e77b026d4d2a46",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
@@ -302,7 +303,6 @@
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
