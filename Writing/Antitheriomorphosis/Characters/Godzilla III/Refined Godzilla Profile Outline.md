@@ -8,7 +8,7 @@
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
 - **Sex**: Male
-- **Age**: 250 m.y. old
+- **Approximated Age**: 250 m.y. old
 - **Documented Age**: 25
 - **Birthday**: November 3
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
@@ -28,7 +28,7 @@
 	- High cheekbones
 	- Strong brow ridge
 - **Others**:
-	- Physical proportions are immaculate, so much so that it unnerves people at first glance
+	- Physical proportions are immaculately aesthetic
 		- Nigh-perfect face harmony; all facial features are proportional to one another
 		- Nigh-perfect anatomical symmetry and proportions
 	- Originally right handed when first discovered by Monarch, is now fully ambidextrous
