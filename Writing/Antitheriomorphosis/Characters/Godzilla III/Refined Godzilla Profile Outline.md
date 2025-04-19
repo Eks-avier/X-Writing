@@ -145,7 +145,31 @@
 		- 1 black
 - **Style**: Classic cut with the most minimum detailing; slightly broader shoulders to accommodate his frame
 - **Tailoring**: Perfect fit requiring no alterations; Mothra's silk naturally conforms to his proportions
-- **Dis**
+- **Distinguishing Features**:
+	- Subtle reinforcement in stress areas
+	- Can safely channel his atomic energy at a higher threshold
+	- Temperature regulation properties for formal events that drag on too long
+
+#### Accessories
+
+- **Ties**:
+	- Collection of six ties:
+		- 3 black ties
+		- 1 charcoal tie
+		- 1 navy blue tie
+		- 1 gold tie
+			- Crafted by Mothra against her better judgement
+				- Matches his true color that only so few know about
+				- She can't articulate why she made it, knowing he likely won't wear it
+			- Remains unworn but carefully preserved
+	- Never patterned or decorative
+	- All reinforced with his own scales, providing that unique texture, despite rarity of use
+	- Never voluntarily worn without significant persuasion
+
+> [!quote]
+“We had to promise him uninterrupted sunbathing for two weeks just to get him to wear the tie for twenty minutes.”
+—Madison on negotiating Godric's formal wear for official photographs
+
 ## Seasonal Physique
 
 - **Active Season**:
