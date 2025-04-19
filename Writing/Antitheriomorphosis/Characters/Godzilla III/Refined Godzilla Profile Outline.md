@@ -239,7 +239,7 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 			  - This name represents that he is what most Titans have actually often called him as ages ago: *The Last Son of the North* or *The Last Northerner*
 			  - It wouldn't be until they interacted with ancient humans that he would gain the name Godzilla/Gojira
 				  - The name would then stick, even with the Titans.
-		  - For his first name, Madison presented him with a few choices: 
+		  - For his first name, Madison presented him with a few choices:    
 			  - What caught Godzilla's eye was the name *Godric*
 				  - An old Anglo-Saxon name that essentially meant *power of God* or the *ruler of God*
 				  - It seemed apt for who he is, a representation of who he is
