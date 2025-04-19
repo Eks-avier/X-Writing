@@ -61,7 +61,8 @@
               "title": "Mothra, the Queen of the Monsters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mothra, the Queen of the Monsters"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -250,12 +251,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,7 +272,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
