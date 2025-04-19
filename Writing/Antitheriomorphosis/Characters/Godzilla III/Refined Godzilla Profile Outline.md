@@ -145,10 +145,16 @@
 		- 1 black
 - **Style**: Classic cut with the most minimum detailing; slightly broader shoulders to accommodate his frame
 - **Tailoring**: Perfect fit requiring no alterations; Mothra's silk naturally conforms to his proportions
-- **Distinguishing Features**:
-	- Subtle reinforcement in stress areas
-	- Can safely channel his atomic energy at a higher threshold
-	- Temperature regulation properties for formal events that drag on too long
+
+#### Scale-Infused Garments
+
+- **Implementation**: After finding a stash of his shed scales in mid-2021, he collaborated with Mothra to integrate them into his formal wear
+- **Appearance**: Carries almost identical texture to his scales, but softened by Mothra's silk
+- **Properties**: 
+	- Creates microscopic energy veins visible only from centimeters away
+	- Allows safer channeling of atomic energy without comprising integrity
+	- **Regeneration**: If damaged, scales regenerate until filling out the silk framework
+	- Limited su
 
 #### Accessories
 
@@ -169,6 +175,9 @@
 > [!quote]
 “We had to promise him uninterrupted sunbathing for two weeks just to get him to wear the tie for twenty minutes.”
 —Madison on negotiating Godric's formal wear for official photographs
+
+> [!quote]
+> “I don't understand why I made it. He won't wear the black ones, let alone this one.” —Mothra's private reflection on the gold tie
 
 ## Seasonal Physique
 
