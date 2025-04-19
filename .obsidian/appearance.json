@@ -4,5 +4,6 @@
   "theme": "system",
   "baseFontSize": 12,
   "nativeMenus": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "textFontFamily": "Rubik"
 }

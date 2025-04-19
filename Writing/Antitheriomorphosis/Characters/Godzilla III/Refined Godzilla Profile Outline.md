@@ -137,11 +137,15 @@
 #### Suits
 
 - **Collection**: Six nearly identical suits, all made from Mothra's silk
-	- **Single-Breasted Suits**:
+	- **Single-Breasted**:
 		- 3 black
 		- 1 charcoal gray
 		- 1 navy blue
-
+	- **Three-Piece**:
+		- 1 black
+- **Style**: Classic cut with the most minimum detailing; slightly broader shoulders to accommodate his frame
+- **Tailoring**: Perfect fit requiring no alterations; Mothra's silk naturally conforms to his proportions
+- **Dis**
 ## Seasonal Physique
 
 - **Active Season**:
