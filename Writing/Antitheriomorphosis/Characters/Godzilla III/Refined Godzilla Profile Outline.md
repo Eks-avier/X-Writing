@@ -227,7 +227,7 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 			  - Curiously, this means it is also common for sons to be juniors
 		  - Godzilla's father was identified as Dagon
 			  - After a bit of heartfelt reunion with his father's skeletal remains 3 months post-Antitheriomorphosis, as it is the skeleton that was excavated from the Philippines in 1999l; it is the same skeleton that housed two MUTOs, Godzilla was informed that he was designated as Dagon.
-		  - This would mean that in the culture of the Northern Gojira, Godzilla would have been named the following:
+		  - This would mean that in the culture of the Northern Gojira, Godzilla would have the human-equivalent names:
 			  1. Son of Dagon
 			  2. Dagon Junior
 			  3. Dagonson
