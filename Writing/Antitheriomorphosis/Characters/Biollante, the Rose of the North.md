@@ -1,4 +1,4 @@
-# Erika Rose Nordson (Biollante)
+# Biollante, the Rose of the North
 
 ## Core Identity
 
@@ -9,7 +9,7 @@
 **True Age:** Less than 1 year since hybridization (retains memories of 24 years as human)
 **Status:** Active, stable hybrid entity
 **Position:** Unofficial Northern Gojira lineage member
-**Affiliations:** Nordson family, Monarch (consultant), ESP Division (trainee)
+**Affiliations:** Nordson family, Monarch (consultant), Psionic Division (trainee)
 
 ## Physical Appearance
 

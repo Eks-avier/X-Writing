@@ -39,14 +39,10 @@
             "id": "07db8c6ed1789a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Refined Godzilla Profile Outline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Refined Godzilla Profile Outline"
+              "title": "New tab"
             }
           }
         ],
@@ -144,8 +140,8 @@
         "state": {
           "type": "mk-path-view",
           "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -208,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,

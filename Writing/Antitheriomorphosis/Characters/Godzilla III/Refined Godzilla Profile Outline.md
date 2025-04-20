@@ -134,27 +134,6 @@
 	- *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
 	- *You think his mere presence isn't enough to make a statement?*
 
-#### Suits
-
-- **Collection**: Six nearly identical suits, all made from Mothra's silk
-	- **Single-Breasted**:
-		- 3 black
-		- 1 charcoal gray
-		- 1 navy blue
-	- **Three-Piece**:
-		- 1 black
-- **Style**: Classic cut with the most minimum detailing; slightly broader shoulders to accommodate his frame
-- **Tailoring**: Perfect fit requiring no alterations; Mothra's silk naturally conforms to his proportions
-
-#### Scale-Infused Garments
-
-- **Implementation**: After finding a stash of his shed scales in mid-2021, he collaborated with Mothra to integrate them into his formal wear
-- **Appearance**: Carries almost identical texture to his scales, but softened by Mothra's silk
-- **Properties**: 
-	- Creates microscopic energy veins visible only from centimeters away
-	- Allows safer channeling of atomic energy without comprising integrity
-	- **Regeneration**: If damaged, scales regenerate until filling out the silk framework
-	- Limited su
 
 #### Accessories
 
