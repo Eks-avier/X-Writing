@@ -288,6 +288,12 @@ He had sought to first explore the USA before moving on to Europe and Asia. He'd
 
 ## Grooming and Maintenance
 
+Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his "territory," whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
+
+### Hair
+
+- **Initial State**: First discovered in human form with long hair.
+	- Maintained this length for 
 
 ## Seasonal Physique
 
