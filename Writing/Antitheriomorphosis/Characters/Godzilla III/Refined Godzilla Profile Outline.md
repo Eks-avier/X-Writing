@@ -158,7 +158,11 @@ For the suit jacket:
 - **Utility**: Contains a modest amount of pockets to put stuff in though Godric carries little or at all
 - **Preferences**: 
 	- Typically keeps it unbuttoned, though it's theorized by most that he either forgets or doesn't care about it
-	- Keeps it on at all times, even in a fight, but removes it when entering areas where no combat is to be expected
+	- Keeps it on at all times, even in a fight, but removes it when entering closed off areas where no combat is expected.
+
+For the suit vest:
+- **Type**: Double-breasted, buttoned
+- **Texture**: Smoother than his coat 
 ## Seasonal Physique
 
 - **Active Season**:
