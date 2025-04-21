@@ -142,7 +142,7 @@
 
 *She's looking again; is it really so distracting?*
 *There's a lot of distracting things about you and your physique, big guy.*
-*I  stopped shaving... should I resume doing so?*
+*I  stopped shaving… should I resume doing so?*
 *Do you want to?*
 *I suppose I can afford to put an undershirt on.*
 *You can't be this dense.*
@@ -151,6 +151,7 @@
 On a slightly unrelated tangent, the combination of Godzilla scales and hide and Mothra's silk provides a material that is nigh-indestructible while maintaining an almost comical lightness.
 
 Monarch has attempted to synthesize it repeatedly to no avail; they got the durability down, but not the regenerative capability or the energy compatibility. They won't even bother with Mothra's silk, it's utterly impossible. Besides, she's rather generous with it anyway.
+
 ### Titan Regalia
 
 This *uniform* is derived from his three-piece-suit, though fitter and more combat-oriented.
@@ -209,36 +210,47 @@ For the trousers:
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
-## Footwear 
+## Footwear
 
-He's had a total of three types of footwear.
+It's not just for his footwear! His meticulousness for his property is universal! They expected his quarters at the underwater base Castle Bravo to look like a cavern with stuff tossed around.
 
-When the time for customization came, Godzilla initially wanted something that could keep up 
+“You expected the quarters of the Titan who brought all the rest to heel for millions of years to look like a frat boy's dorm room?”
 
-Monarch offered him bespoke combat boots reinforced with metal at various places:
-- Toe caps
-- Soles
-- Heels
-- Shank
+Instead they found his clothes and accessories lined up in his wardrobe. He seemed to have planned his attire for the entire week.
 
-Madison often asked him if all that metal was uncomfortable, but she figured the metal would sooner break than his feet would.
+He does his own laundry, his own room cleaning, even the door of his room is spotless. He does the maintenance for all of them too. Madison once spotted him with several books in hand, all neatly piled up, with the one he's reading bookmarked.
 
-But what he really liked is the sound the boots make when he walks. It's quite imposing and reminded him of his own foot falls as a Titan, at the expense of others.
+“A king is a king, apparently.”
 
-Godzilla also has a habit of stomping on things to kill them. The metal shoes make that so much easier.
+When asked, Godric simply said that he doesn't like his territory to look ugly.
 
-Can keep up with him, practical, and simple.
+As for some of his accessories and personal artifacts:
+- **Serizawa's Legacies**:
+   - A pocket watch from his father; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
+      - It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
+      - Godric is debating on making it work again.
+   - Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father Eiji on Godzilla himself through the years.
+      - Originally entrusted to Vivienne Graham, who then was left to Mark when she died.
+      - Godric sometimes reads them, musing on their thoughts on him.
+   - Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
+   - A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
+      - Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
+         - Godric did not respond, but the offer remains open.
+      - When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
+   - A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
+   - Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
+   - Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
+   - Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
+   - Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
+      - Their designs are plain, modest, and unembellished.
+      - They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
+      - Maria has her favorites, though she never says which. She just stares.
 
-Unfortunately, it's not *him* or his comfort they need to consider, it's that he can't bring his shoes in public spaces like malls due to the amount of metal. It doesn't really bode well for the plan to hide the Titans-turned-human from the public if their ruler keeps getting stopped and inspected due to his metal shoes. And since he has no other shoes, the rest he either dislikes or break on him, he would just rather remain in the underwater base,
+> [!quote]
+> “Do we tell her it's inappropriate?”
+> “It's kinda cute., she thinks we don't notice.”
 
-That would change when the shed material was recovered.  
-
-First, he wanted footwear to match his regalia. So, he instructed shoes match the theme first. Then, the scales properties would take over. It provided unparalleled protection and durability with little weight, allowing for stealth.
-
-However, he found he missed the sound and the lethal things he could do with it. So, they made it so he can still create a sound whenever he wanted to and he could still crush anything with it. Perfect.
-
-Now, he wanted one with a less formal theme, so he instructed that another set be made. It's standard daily footwear that would replace his old metal combat shoes. Still simple in design and black. The goal is to make this pair of shoes unsuspecting, the right amount of scales to reinforce it while keeping the metal to an acceptable minimum. He gets to keep his most practical use for the shoes: stomping on something.
-
+Here you go! Let's try and flesh these out!
 
 ## Seasonal Physique
 
