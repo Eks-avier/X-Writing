@@ -5,20 +5,28 @@
       "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
     },
     {
-      "basename": "Biollante, the Rose of the North",
-      "path": "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md"
-    },
-    {
       "basename": "Godzilla - Physical Profile",
       "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla - Physical Profile.md"
+    },
+    {
+      "basename": "Character Profile Creation Instructions",
+      "path": "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md"
+    },
+    {
+      "basename": "Obsidian Organization Guide",
+      "path": "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md"
+    },
+    {
+      "basename": "1 - Identity & Appearance",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md"
     },
     {
       "basename": "Mothra, the Queen of the Monsters",
       "path": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md"
     },
     {
-      "basename": "1 - Identity & Appearance",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md"
+      "basename": "Biollante, the Rose of the North",
+      "path": "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md"
     },
     {
       "basename": "Monarch Personnel Roster",
@@ -49,20 +57,12 @@
       "path": "Writing/Antitheriomorphosis/Creation Instructions/Titan Species Profile Instruction Set.md"
     },
     {
-      "basename": "Obsidian Organization Guide",
-      "path": "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md"
-    },
-    {
       "basename": "Resolving Northern Gojira Documentation Overlap ",
       "path": "Writing/Antitheriomorphosis/Creation Instructions/Resolving Northern Gojira Documentation Overlap .md"
     },
     {
       "basename": "Information on the Northern Gojira ",
       "path": "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md"
-    },
-    {
-      "basename": "Character Profile Creation Instructions",
-      "path": "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md"
     },
     {
       "basename": "Cultural Heritage Creation Instructions",
@@ -195,10 +195,6 @@
     {
       "basename": "Unrefined - Godzilla's Regalia",
       "path": "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md"
-    },
-    {
-      "basename": "Limitless Adaptation",
-      "path": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md"
     }
   ],
   "omittedPaths": [],
