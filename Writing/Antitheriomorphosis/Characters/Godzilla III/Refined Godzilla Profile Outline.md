@@ -233,9 +233,13 @@ Unfortunately, it's not *him* or his comfort they need to consider, it's that he
 
 That would change when the shed material was recovered.  
 
-First, he wanted footwear to match his regalia. So, he instructed shoes match the theme first. Then, the scales properties would take over. It provided unparalleled protection and durability with little weight. 
+First, he wanted footwear to match his regalia. So, he instructed shoes match the theme first. Then, the scales properties would take over. It provided unparalleled protection and durability with little weight, allowing for stealth.
 
-However, he found he missed the sound and the lethal things he could do with it. So, they 
+However, he found he missed the sound and the lethal things he could do with it. So, they made it so he can still create a sound whenever he wanted to and he could still crush anything with it. Perfect.
+
+Now, he wanted one with a less formal theme, so he instructed that another set be made. It's standard daily footwear that would replace his old metal combat shoes. Still simple in design and black. The goal is to make this pair of shoes unsuspecting, the right amount of scales to reinforce it while keeping the metal to an acceptable minimum. He gets to keep his most practical use for the shoes: stomping on something.
+
+
 ## Seasonal Physique
 
 - **Active Season**:
