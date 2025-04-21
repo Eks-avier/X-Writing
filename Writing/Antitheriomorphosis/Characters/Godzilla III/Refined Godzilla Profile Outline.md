@@ -144,7 +144,7 @@
 
 This *uniform* is derived from his three-piece-suit, though fitter and more combat-oriented.
 
-For the suit jacket:
+For the jacket:
 - **Type**: Frock coat
 - **Length**: Knee-length
 - **Texture**: Rougher than his typical attire, an indication of greater scale count, but not completely as it is still smoothened by Mothra's silk
@@ -160,7 +160,7 @@ For the suit jacket:
 	- Typically keeps it unbuttoned, though it's theorized by most that he either forgets or doesn't care about it
 	- Keeps it on at all times, even in a fight, but removes it when entering closed off areas where no combat is expected.
 
-For the suit vest:
+For the waistcoat:
 - **Type**: Double-breasted, buttoned
 - **Texture**: Smoother than his coat, but the same scale-like feel remains present
 - **Fit**:
@@ -174,6 +174,23 @@ For the suit vest:
 	- On occasion, perhaps twice in a week, he will be seen using it with his daily attire
 		- Seems to be his favorite due to this versatility
 	- He doesn't seem warm when wearing it
+
+For the shirt:
+- He just uses his daily ones
+	- **Colors**: White or black
+- **Preference**:
+	- It's guaranteed he will wear white if his waistcoat is used with his daily.
+	- Will typically be seen wearing a black shirt when in a formal occasions, but isn't opposed to using whites either.
+	- Sometimes wears an undershirt, black or white, underneat
+
+> [!quote] Layered Deception
+> “Perhaps with these four layers, people will cease questioning me if I'm cold for winter.”
+> “Big guy, you're still underdressed for most of us. Do you know how many layers people wear in winter?”
+
+For the trousers:
+-  Perfectly identical to his typical ones had they not feature the same patterns and material as his vest and jacket.
+	- Most are surprised he wouldn't use his daily pants here (*Please don't tempt him to do so.* )
+- **Fit**: Keeps the same mobility 
 
 ## Seasonal Physique
 
