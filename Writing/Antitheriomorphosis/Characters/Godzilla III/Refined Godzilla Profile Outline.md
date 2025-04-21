@@ -205,10 +205,17 @@ For the trousers:
 	- Somehow more flattering on his lower region that his usual trousers.
 
 > [!quote] Unwanted Questions
-> “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not only a Titan, but of the King of the Monsters himself.”
+> “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not only a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
+## Footwear 
+
+He's had a total of three types of footwear.
+
+When the time for customization came, Godzilla initially wanted something that was simple, practical, and could keep up with him.
+
+Monarch offered him combat boots with metal 
 ## Seasonal Physique
 
 - **Active Season**:
