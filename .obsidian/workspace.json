@@ -230,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Obsidian Organization Guide"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Organization Guide"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -335,7 +335,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "290a1dfd339bcf41",
+  "active": "bbb0a45794d0aaa5",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
