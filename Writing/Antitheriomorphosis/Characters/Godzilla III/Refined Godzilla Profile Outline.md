@@ -32,7 +32,7 @@ tags: [atm, wip]
 	- High cheekbones
 	- Strong brow ridge
 - **Others**:
-	- Physical proportions are immaculately aesthetic
+	- Physical proportions are aesthetic
 		- Nigh-perfect face harmony; all facial features are proportional to one another
 		- Nigh-perfect anatomical symmetry and proportions
 	- Originally right handed when first discovered by Monarch, is now fully ambidextrous
@@ -108,7 +108,7 @@ tags: [atm, wip]
 			- *Can I throw these out?*
 			- *Absolutely not, big guy—you have zero variety as it is!*
 - **Underwear**:
-	- **Undershirts**:  Plani
+	- **Undershirts**:  Plain black or white variants
 		- Uses them from time to time as Mothra finds his chest hair distracting
 			- Apparently, she is also distracted when she sees his undershirt peeking
 				- *What does she even want at this point?!*
@@ -285,6 +285,9 @@ Though he finds traffic customs questionable, he still follows them with mechani
 When it comes to maintenance, he approaches it with the same fastidiousness as he does with any of his possessions. Madison saw him one day with his owner's manual, two or three books on vehicle maintenance, and a curious video on the same topic in his YouTube history (because she has his devices), and the next he was on his vehicle working. It's his territory and it demands he take good care of it.
 
 He had sought to first explore the USA before moving on to Europe and Asia. He'd pay for the journeys himself.
+
+## Grooming and Maintenance
+
 
 ## Seasonal Physique
 
