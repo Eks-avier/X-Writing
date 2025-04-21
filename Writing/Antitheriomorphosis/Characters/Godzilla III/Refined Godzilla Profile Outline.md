@@ -216,7 +216,9 @@ It's not just for his footwear! His meticulousness for his property is universal
 
 “You expected the quarters of the Titan who brought all the rest to heel for millions of years to look like a frat boy's dorm room?”
 
-Instead they found his clothes and accessories lined up in his wardrobe. He seemed to have planned his attire for the entire week.
+Instead they found his clothes and accessories lined up in his wardrobe. He seemed to have planned his attire for the entire week. His bed is neatly made, though it's as plain as they expected.
+
+“It looks like one of those memes where they show a man's room and it's just a blanket on the floor with nothing else.”
 
 He does his own laundry, his own room cleaning, even the door of his room is spotless. He does the maintenance for all of them too. Madison once spotted him with several books in hand, all neatly piled up, with the one he's reading bookmarked.
 
@@ -226,17 +228,18 @@ When asked, Godric simply said that he doesn't like his territory to look ugly.
 
 As for some of his accessories and personal artifacts:
 - **Serizawa's Legacies**:
-   - A pocket watch from his father; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
+   - A pocket watch from his father Eiji Serizawa; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
       - It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
       - Godric is debating on making it work again.
-   - Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father Eiji on Godzilla himself through the years.
-      - Originally entrusted to Vivienne Graham, who then was left to Mark when she died.
-      - Godric sometimes reads them, musing on their thoughts on him.
+   - Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father on Godzilla through the years.
+      - Originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
+      - Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, and sometimes he wished Ishiro was still alive for conversation.
    - Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
    - A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
       - Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
          - Godric did not respond, but the offer remains open.
       - When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
+  - A state-of-the-art and latest in model tablet. At least this one, people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
    - A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
    - Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
    - Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
@@ -248,9 +251,8 @@ As for some of his accessories and personal artifacts:
 
 > [!quote]
 > “Do we tell her it's inappropriate?”
-> “It's kinda cute., she thinks we don't notice.”
-
-Here you go! Let's try and flesh these out!
+> “It looks like she's gazing at his… you know…”
+> “It's kinda cute; she thinks we don't notice.”
 
 ## Seasonal Physique
 
