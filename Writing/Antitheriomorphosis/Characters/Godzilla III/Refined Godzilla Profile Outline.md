@@ -316,8 +316,27 @@ Godric approaches personal grooming with the same meticulous attention he applie
 			- He also enjoys the practice
 	- Achieves perfect precision through touch alone at his first try
 		- Still sometimes uses mirrors for absolute perfection, also just to see how he looks. Moreso on the latter than the prior.
-- **Body Hair Management**: 
+- **Body Hair Management**: Initially attempted complete body shaving
+	- Lasted for a bout two months before he got sick of it, calling it an inefficient use of time. 
+	- Currently maintains a natural state except for his facial area
+- **Preferences**: Adamantly refuses certain styles
+	- Rejects all suggestions of any sort of mustache cultivation
+	- Ignores both Maria and Madison's teasing about beard potential
+		- For some reason the prior really wants to see him one. The answer is still no.
+		- He remains unaffected by Maria's subtle hints
 
+### Biological Advantages
+
+- **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
+	- Renders traditional hygiene products unnecessary
+	- Maintains effortless pristine cleanliness
+- **Bathing Preferences**: Rarely requires bathes for hygienic purposes
+	- Prefers complete submersion when bathing for pleasure and recreation
+		- The only moment he will ever be unclothed
+			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
+				- *Dad, this isn't necessary--*
+				- *You haven't heard what they whisper; it's for their own safety, not his.*
+		- In the dark of night, will drop into ocean surrounding Castle Bravo to swim leisurely
 ## Seasonal Physique
 
 - **Active Season**:
