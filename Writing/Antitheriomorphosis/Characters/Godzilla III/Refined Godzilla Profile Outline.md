@@ -147,22 +147,34 @@ This *uniform* is derived from his three-piece-suit, though fitter and more comb
 For the suit jacket:
 - **Type**: Frock coat
 - **Length**: Knee-length
-- **Texture**:  Rougher than his typical attire, an indication of greater scale count, but not completely as it is still smoothened by Mothra's silk
-- **Fit**: 
+- **Texture**: Rougher than his typical attire, an indication of greater scale count, but not completely as it is still smoothened by Mothra's silk
+- **Fit**:
 	- Highly flattering on his physique
 	- Tapered at his torso
 	- Enables high mobility in combat, not the opposite
-- **Design**: 
+- **Design**:
 	- Single-breasted
 	- Vents that enable seamless leg movement
 - **Utility**: Contains a modest amount of pockets to put stuff in though Godric carries little or at all
-- **Preferences**: 
+- **Preferences**:
 	- Typically keeps it unbuttoned, though it's theorized by most that he either forgets or doesn't care about it
 	- Keeps it on at all times, even in a fight, but removes it when entering closed off areas where no combat is expected.
 
 For the suit vest:
 - **Type**: Double-breasted, buttoned
-- **Texture**: Smoother than his coat 
+- **Texture**: Smoother than his coat, but the same scale-like feel remains present
+- **Fit**:
+	- Hugs his physique excellently
+	- Does not impede combat mobility
+- **Design**:
+	- Complements his jacket
+	- Features interconnected shapes, which from afar seemed random, but are actually just his dorsal fins.
+		- These aren't featured prominently; from afar, they seem plain
+- **Preferences**:
+	- On occasion, perhaps twice in a week, he will be seen using it with his daily attire
+		- Seems to be his favorite due to this versatility
+	- He doesn't seem warm when wearing it
+
 ## Seasonal Physique
 
 - **Active Season**:
