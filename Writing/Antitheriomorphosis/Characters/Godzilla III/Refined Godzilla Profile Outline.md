@@ -278,7 +278,9 @@ With his vision, who knows what he can see?
 
 Driving, as people found, was approached with the same meticulousness as his personal organization. It seems that Monarch really has to stop assuming he'd be primal in his habits.
 
-Though he finds traffic customs questionable, he still follows them with mechanical perfection. After all, the Alpha Paramount 
+Though he finds traffic customs questionable, he still follows them with mechanical perfection. After all, the Alpha Paramount should claim victory in whatever he does, even in the mundane. It's less of him submitting to rules and more so a declaration of victory in a competition no one was in. 
+
+When it comes to maintenance, he approaches it with the same fastidiousness as he does with any possessions. Madison saw him one day with his owner's manual, two or three books on vehicle maintenance, and a curious video on the same topic in his YouTube history (because she has his devices), and the next he was on his vehicle working. It's his territory and it demands he take good care of it.
 ## Seasonal Physique
 
 - **Active Season**:
