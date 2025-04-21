@@ -210,7 +210,7 @@ For the trousers:
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
-## Footwear
+## Personal Organization
 
 It's not just for his footwear! His meticulousness for his property is universal! They expected his quarters at the underwater base Castle Bravo to look like a cavern with stuff tossed around.
 
@@ -253,6 +253,14 @@ As for some of his accessories and personal artifacts:
 > “Do we tell her it's inappropriate?”
 > “It looks like she's gazing at his… you know…”
 > “It's kinda cute; she thinks we don't notice.”
+
+## Pickup Truck
+
+Alright, now let's go to one of his more unexpected possessions: his pickup truck.
+
+Born from an unexpected prompt, Godric's pickup was not in his list of possessions, yet it eventually evolved to be a part of his person. 
+
+When Rodan was still learning to fly, not with his wings but with aerokinesis, he demanded that he have a custom-made motorcycle after watching too many vlogs in YouTube. He reasoned that it fulfilled his desire to go fast, his independence from being stuck in an underwater base without either crashing on the ocean surface after a failed flight or through helicopters and planes, and his 
 
 ## Seasonal Physique
 
