@@ -290,10 +290,33 @@ He had sought to first explore the USA before moving on to Europe and Asia. He'd
 
 Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his "territory," whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
 
-### Hair
+### Hair 
 
-- **Initial State**: First discovered in human form with long hair.
-	- Maintained this length for 
+- **Initial State**: First discovered in human form with long hair
+	- Maintained this length for about three months
+	- Period represented experimental adaptation to having hair
+- **First Adjustment**: Attempted a buzzcut after finding his long hair impractical
+	- Madison intervened before he considered going bald
+		- She found amusement in the fact that someone with scales now possessed hair. In practice, she just said it looked good and practical on him already.
+- **Practical Phase**: Determined that short hair was most functional for daily activities
+	- Also disliked the extremely short style of a buzzcut
+	- Allowed gradual few inches of growth for versatility
+- **Current Preference**: Short but sufficient length to style back.
+	- Some strands occasionally fall across his forehead
+		- Maria secretly found this charming
+	- Plans future maintenance cut to a few centimeters longer than buzz cut
+
+### Facial Grooming
+
+- **Management**: Maintains a clean-shaven appearance
+	- Shaves regularly due to moderately rapid hair growth
+	- Uses specialized reinforced razors after destroying previous ones
+		- Prefers a classic safety razor or straight razor rather than an electric ones
+			- Because they tend to break down on him
+			- He also enjoys the practice
+	- Achieves perfect precision through touch alone at his first try
+		- Still sometimes uses mirrors for absolute perfection, also just to see how he looks. Moreso on the latter than the prior.
+- **Body Hair Management**: 
 
 ## Seasonal Physique
 
