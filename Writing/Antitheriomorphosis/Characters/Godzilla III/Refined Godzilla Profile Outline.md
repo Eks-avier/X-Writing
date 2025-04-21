@@ -108,11 +108,11 @@ tags: [atm, wip]
 			- *Can I throw these out?*
 			- *Absolutely not, big guy—you have zero variety as it is!*
 - **Underwear**:
-	- **Undershirts**: Uses them from time to time as Mothra finds his chest hair distracting
-		- Apparently, she is also distracted when she sees his undershirt peeking
-			- *What does she even want at this point?!*
-		- Now wears them whenever he feels like it, typically in winter so he isn't too obvious that he isn't cold
-		- Comes in black and white
+	- **Undershirts**:  Plani
+		- Uses them from time to time as Mothra finds his chest hair distracting
+			- Apparently, she is also distracted when she sees his undershirt peeking
+				- *What does she even want at this point?!*
+		- Now wears them whenever he feels like it, typically in winter so he has an excuse to look cold even though he really isn't
 	- **Underpants**: Owns a variety of the following and *all* are black:
 		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
 			- He only uses boxer shorts and briefs in his private quarters and when he is lounging
