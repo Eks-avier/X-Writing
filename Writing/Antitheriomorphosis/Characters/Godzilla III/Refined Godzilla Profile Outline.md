@@ -260,27 +260,27 @@ Alright, now let's go to one of his more unexpected possessions: his pickup truc
 
 Born from an unexpected prompt, Godric's pickup was not in his list of possessions, yet it eventually evolved to be a part of his person. 
 
-When Rodan was still learning to fly, not with his wings but with aerokinesis, he demanded that he have a custom-made motorcycle after watching too many vlogs in YouTube. He reasoned that it fulfilled his desire to go fast, his independence from being stuck in an underwater base without either crashing on the ocean surface after a failed flight or through helicopters and planes, and his curiosity about human technology, particularly transportation methods.
+When Rodan was still learning to fly, not with his wings but with aerokinesis, he demanded that he have a custom-made motorcycle after watching too many moto vlogs in YouTube. He reasoned that it fulfilled his desire to go fast, his independence from being stuck in an underwater base without either crashing on the ocean surface after a failed flight or through helicopters and planes, and his curiosity about human technology, particularly transportation methods.
 
-A lightbulb in her head, Madison thought it would do all the currently gathered Titans on Castle Bravo to also receive vehicles of their own. For once, her father agreed with one of her outlandish ideas as carrying Titans by helicopter or plane was getting increasingly expensive especially when they wanted to explore human civilization. They cut their expenses while the Titans learn how to navigate on their own, as well as learning to be responsible of human technology.
+A lightbulb in her head, Madison thought it would do all the currently gathered Titans on Castle Bravo to also receive vehicles of their own. For once, her father agreed with one of her outlandish ideas as carrying Titans by helicopter or plane was getting increasingly expensive especially when they wanted to explore human civilization. They cut their expenses while the Titans learn how to navigate on their own, as well as learning to be responsible of human technology. Besides, it also helped with the hiding the Titans protocol, who expects a giant monster to drive?
 
 Once Rodan was sufficiently satisfied, they moved to Godzilla out of respect. Madison thought she'd deal with him personally to avoid any friction. Out of all the various options they viewed, from sports cars to motorcycles, Godric settled on a pickup truck.
 
 Madison was wise not to question. 
 
-His truck is black, absolutely unembellished, and powerful. Once again, he was offered to have it run on atomic energy. Monarch seems to be so eager to do that. But, he declined. He wanted to fully experience owning a vehicle.
+His truck is black, absolutely unembellished, and powerful. Once again, he was offered to have it run on atomic energy. Monarch seems to be so eager to do that. But, he declined. He wanted to fully experience owning a vehicle. He only wanted some subtle shielding from his radiation, though he had gotten better at controlling its emission.
 
-Of all the parts of his truck, his favorite is the pickup bed. He had deliberately left some pillows, a comforter, and even a portable hammock in his truck so he can consistently stargaze. 
+Of all the parts of his truck, his favorite is the pickup bed. He had deliberately left some pillows, a comforter, and even a portable hammock in his truck that he can put on the bed anytime so he can consistently stargaze. 
 
-For that alone, he preferred rural locations far away from cities. 
+For that alone, he preferred rural locations far away from cities. With his vision, who knows what he can see?
 
-With his vision, who knows what he can see?
-
-Driving, as people found, was approached with the same meticulousness as his personal organization. It seems that Monarch really has to stop assuming he'd be primal in his habits.
+Driving, as people found, was approached with the same meticulousness as his personal organization. It seems that Monarch really has to stop assuming he'd be primal in his habits. 
 
 Though he finds traffic customs questionable, he still follows them with mechanical perfection. After all, the Alpha Paramount should claim victory in whatever he does, even in the mundane. It's less of him submitting to rules and more so a declaration of victory in a competition no one was in. 
 
-When it comes to maintenance, he approaches it with the same fastidiousness as he does with any possessions. Madison saw him one day with his owner's manual, two or three books on vehicle maintenance, and a curious video on the same topic in his YouTube history (because she has his devices), and the next he was on his vehicle working. It's his territory and it demands he take good care of it.
+When it comes to maintenance, he approaches it with the same fastidiousness as he does with any of his possessions. Madison saw him one day with his owner's manual, two or three books on vehicle maintenance, and a curious video on the same topic in his YouTube history (because she has his devices), and the next he was on his vehicle working. It's his territory and it demands he take good care of it.
+
+He had sought to first explore the USA before moving on to Europe and Asia. He'd pay for the journeys himself.
 ## Seasonal Physique
 
 - **Active Season**:
