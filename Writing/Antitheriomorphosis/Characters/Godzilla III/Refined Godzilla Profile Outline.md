@@ -213,9 +213,29 @@ For the trousers:
 
 He's had a total of three types of footwear.
 
-When the time for customization came, Godzilla initially wanted something that was simple, practical, and could keep up with him.
+When the time for customization came, Godzilla initially wanted something that could keep up 
 
-Monarch offered him combat boots with metal 
+Monarch offered him bespoke combat boots reinforced with metal at various places:
+- Toe caps
+- Soles
+- Heels
+- Shank
+
+Madison often asked him if all that metal was uncomfortable, but she figured the metal would sooner break than his feet would.
+
+But what he really liked is the sound the boots make when he walks. It's quite imposing and reminded him of his own foot falls as a Titan, at the expense of others.
+
+Godzilla also has a habit of stomping on things to kill them. The metal shoes make that so much easier.
+
+Can keep up with him, practical, and simple.
+
+Unfortunately, it's not *him* or his comfort they need to consider, it's that he can't bring his shoes in public spaces like malls due to the amount of metal. It doesn't really bode well for the plan to hide the Titans-turned-human from the public if their ruler keeps getting stopped and inspected due to his metal shoes. And since he has no other shoes, the rest he either dislikes or break on him, he would just rather remain in the underwater base,
+
+That would change when the shed material was recovered.  
+
+First, he wanted footwear to match his regalia. So, he instructed shoes match the theme first. Then, the scales properties would take over. It provided unparalleled protection and durability with little weight. 
+
+However, he found he missed the sound and the lethal things he could do with it. So, they 
 ## Seasonal Physique
 
 - **Active Season**:
