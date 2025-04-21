@@ -140,6 +140,17 @@
 *Yeah, but we'd also be all dead so…*
 *Exactly.*
 
+*She's looking again; is it really so distracting?*
+*There's a lot of distracting things about you and your physique, big guy.*
+*I  stopped shaving... should I resume doing so?*
+*Do you want to?*
+*I suppose I can afford to put an undershirt on.*
+*You can't be this dense.*
+*I am more than a hundred kilograms., after all.*
+
+On a slightly unrelated tangent, the combination of Godzilla scales and hide and Mothra's silk provides a material that is nigh-indestructible while maintaining an almost comical lightness.
+
+Monarch has attempted to synthesize it repeatedly to no avail; they got the durability down, but not the regenerative capability or the energy compatibility. They won't even bother with Mothra's silk, it's utterly impossible. Besides, she's rather generous with it anyway.
 ### Titan Regalia
 
 This *uniform* is derived from his three-piece-suit, though fitter and more combat-oriented.
@@ -185,12 +196,18 @@ For the shirt:
 
 > [!quote] Layered Deception
 > “Perhaps with these four layers, people will cease questioning me if I'm cold for winter.”
-> “Big guy, you're still underdressed for most of us. Do you know how many layers people wear in winter?”
+> “Big guy, you're still underdressed. Do you know how many layers people wear in winter?”
 
 For the trousers:
 -  Perfectly identical to his typical ones had they not feature the same patterns and material as his vest and jacket.
 	- Most are surprised he wouldn't use his daily pants here (*Please don't tempt him to do so.* )
-- **Fit**: Keeps the same mobility 
+- **Fit**: Enables, rather than impedes, his combat.
+	- Somehow more flattering on his lower region that his usual trousers.
+
+> [!quote] Unwanted Questions
+> “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not only a Titan, but of the King of the Monsters himself.”
+> “Dad, you do realize that's not gonna stop them, right?”
+> “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
 ## Seasonal Physique
 
