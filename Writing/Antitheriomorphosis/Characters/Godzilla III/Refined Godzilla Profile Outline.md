@@ -134,29 +134,22 @@
 	- *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
 	- *You think his mere presence isn't enough to make a statement?*
 
+*That's the rest of them.*
+*Please tell me you have more…*
+*Serizawa nuked me, himself, and a portion of Atlantis; we could have had enough to even build you a house.*
+*Yeah, but we'd also be all dead so…*
+*Exactly.*
 
-#### Accessories
+### Titan Regalia
 
-- **Ties**:
-	- Collection of six ties:
-		- 3 black ties
-		- 1 charcoal tie
-		- 1 navy blue tie
-		- 1 gold tie
-			- Crafted by Mothra against her better judgement
-				- Matches his true color that only so few know about
-				- She can't articulate why she made it, knowing he likely won't wear it
-			- Remains unworn but carefully preserved
-	- Never patterned or decorative
-	- All reinforced with his own scales, providing that unique texture, despite rarity of use
-	- Never voluntarily worn without significant persuasion
+This *uniform* is derived from his three-piece-suit, though fitter and more combat-oriented.
 
-> [!quote]
-“We had to promise him uninterrupted sunbathing for two weeks just to get him to wear the tie for twenty minutes.”
-—Madison on negotiating Godric's formal wear for official photographs
+For the suit jacket:
+- **Type**: Frock coat
+- **Length**: Knee-length
+- **Texture**:  Rougher than his typical attire, an 
+- **Design**: Hugs his frame sufficiently; tapered at his torso
 
-> [!quote]
-> “I don't understand why I made it. He won't wear the black ones, let alone this one.” —Mothra's private reflection on the gold tie
 
 ## Seasonal Physique
 

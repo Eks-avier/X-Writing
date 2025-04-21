@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -286,8 +287,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fa53d5fbc7e7a28c",
+  "active": "bbb0a45794d0aaa5",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla - Physical Profile.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
@@ -315,7 +317,6 @@
     "conflict-files-obsidian-git.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
