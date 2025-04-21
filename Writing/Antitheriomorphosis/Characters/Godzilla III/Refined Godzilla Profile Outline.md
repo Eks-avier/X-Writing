@@ -108,7 +108,7 @@ tags: [atm, wip]
 			- *Can I throw these out?*
 			- *Absolutely not, big guy—you have zero variety as it is!*
 - **Underwear**:
-	- **Undershirts**:  Plain black or white variants
+	- **Undershirts**: Plain black or white variants
 		- Uses them from time to time as Mothra finds his chest hair distracting
 			- Apparently, she is also distracted when she sees his undershirt peeking
 				- *What does she even want at this point?!*
@@ -146,7 +146,7 @@ tags: [atm, wip]
 
 *She's looking again; is it really so distracting?*
 *There's a lot of distracting things about you and your physique, big guy.*
-*I  stopped shaving… should I resume doing so?*
+*I stopped shaving… should I resume doing so?*
 *Do you want to?*
 *I suppose I can afford to put an undershirt on.*
 *You can't be this dense.*
@@ -288,9 +288,9 @@ He had sought to first explore the USA before moving on to Europe and Asia. He'd
 
 ## Grooming and Maintenance
 
-Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his "territory," whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
+Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his “territory,” whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
 
-### Hair 
+### Hair
 
 - **Initial State**: First discovered in human form with long hair
 	- Maintained this length for about three months
@@ -317,7 +317,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- Achieves perfect precision through touch alone at his first try
 		- Still sometimes uses mirrors for absolute perfection, also just to see how he looks. Moreso on the latter than the prior.
 - **Body Hair Management**: Initially attempted complete body shaving
-	- Lasted for a bout two months before he got sick of it, calling it an inefficient use of time. 
+	- Lasted for a bout two months before he got sick of it, calling it an inefficient use of time.
 	- Currently maintains a natural state except for his facial area
 - **Preferences**: Adamantly refuses certain styles
 	- Rejects all suggestions of any sort of mustache cultivation
@@ -336,7 +336,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
 				- *Dad, this isn't necessary--*
 				- *You haven't heard what they whisper; it's for their own safety, not his.*
-		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely. 
+		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely.
 			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.*
 			- *That's a bit too dramatic, don't you think?*
 		- Stays submerged underwater for extended periods, alarming people who don't know who he is
@@ -362,7 +362,31 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- Self-cleaning through passive sterilization
 	- Immaculate appearance regardless of whatever he consumes or puts in his mouth
 	- Regenerates, just like any part of his body, though they have never seen dental damage
-- **Thermal **
+- **Thermal Management**: His breath can be far too hot for non-Titans
+	- Requires careful modulation of his energy
+	- The reason why he himself advised most people to stay at a distance
+	- Visible steam effect is emitted in cold environments
+		- Is attempting to conceal this through improved energy modulation
+
+### Biohazard Considerations
+
+- **Bodily Fluids**: All of them are potentially harmful to humans
+	- Elevated temperature alone can cause damage!
+	- His radioactive emissions can vary with emotional and physical state
+	- Direct contact protocols were implemented
+- **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
+	- Monarch upper management shows reduced sensitivity to radioactive effects
+	- Long-term exposure seems to play a part in creating limited adaptation
+	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
+		- Fuels people's delusional desires to be near him even more
+			- *You didn't have to mention that little factoid.*
+		- Both theories are considered, though most lean heavily into Godric's improving control
+
+> [!quote]
+> “That is *so* cool!”
+> “Madison, it's not cool to be tagged for potential radioactive contaminat--”
+> “Am I gonna breathe atomic energy too?!”
+> “God help us all if that ever happened. I don't think I'll be able to take an atomic-breathing Madison.”
 
 ## Seasonal Physique
 
