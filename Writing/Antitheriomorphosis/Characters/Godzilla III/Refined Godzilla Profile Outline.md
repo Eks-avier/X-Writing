@@ -336,7 +336,34 @@ Godric approaches personal grooming with the same meticulous attention he applie
 			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
 				- *Dad, this isn't necessary--*
 				- *You haven't heard what they whisper; it's for their own safety, not his.*
-		- In the dark of night, will drop into ocean surrounding Castle Bravo to swim leisurely
+		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely. 
+			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.*
+			- *That's a bit too dramatic, don't you think?*
+		- Stays submerged underwater for extended periods, alarming people who don't know who he is
+			- He can hold his breath for an extended amount of time
+				- Learning of ways to indefinitely remain submerged again.
+			- Waters he submerges in are treated as hazards, hence the secondary excuse of his private pool
+				- *What's the primary excuse then?*
+				- *Avoiding sexual harassment.*
+- **Product Usage**: Requires minimal toiletry
+	- Still uses basic products suggested by Madison, particularly when it concerns his hair
+	- Scents don't adhere to his skin
+	- Possesses a unique scent
+- **Radiation Cleansing**: When finding himself absolutely filthy, employs as an elevated energy output
+	- Boils everything in a short radius around him
+	- Lethal to non-Titans
+
+### Dental Characteristics
+
+- **Maintenance Challenges**: Traditional brushing methods proved to be impractical
+	- Resulted in destroyed toothbrushes
+	- Eventually abandoned conventional dental hygiene procedures
+- **Natural Properties**: Teeth maintain perfect condition without any intervention
+	- Self-cleaning through passive sterilization
+	- Immaculate appearance regardless of whatever he consumes or puts in his mouth
+	- Regenerates, just like any part of his body, though they have never seen dental damage
+- **Thermal **
+
 ## Seasonal Physique
 
 - **Active Season**:
