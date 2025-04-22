@@ -4,8 +4,6 @@ tags: [atm, wip]
 
 # Refined Godzilla Profile
 
-#atm #wip
-
 ## Physical Features
 
 - **Human Name**: Godric Nordson
@@ -17,20 +15,29 @@ tags: [atm, wip]
 - **Birthday**: November 3
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Hair**: Black
-	- **Hair Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
-	- **Hair Style**: Typically styled back with occasional strands falling across his forehead
+	- **Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
+	- **Style**: Typically styled back with occasional strands falling across his forehead
+	- **Texture**: Appears soft and is so to the touch, but will resist being cut by conventional tools
 - **Eye Color**:
-	- **Faux Eye Color**: Light blue (an effect of his atomic energy in use); almost always in use
+	- **Faux Eye Color**: Light blue (an effect of his atomic energy in use); default state
 	- **True Eye Color**: Gold (maternal trait); rarely revealed, or at all
-- **Skin color**: Caucasian with a slight tan due to constant exposure to the sun that goes away in winter
-	- No blemishes
-	- No scars
-	- No markings of any kind
+- **Skin**:
+	- **Color**: Caucasian with a slight tan due to constant exposure to the sun that goes away in winter
+	- **Texture**: Slightly rough, as if worked by the elements
+		- No blemishes
+		- No scars
+		- No markings of any kind
 - **Facial Features**:
 	- Square-like face
 	- Defined jawline
 	- High cheekbones
 	- Strong brow ridge
+- **Dental Features**:
+	-  Perfectly aligned
+	- Human in appearance, but sharp and incredibly durable
+		- He can bite not just through bone, but to reinforced metals
+	- Can regenerate if damaged, just like any body part of his
+	- Bite force is effectively the highest ever recorded
 - **Others**:
 	- Physical proportions are aesthetic
 		- Nigh-perfect face harmony; all facial features are proportional to one another
@@ -39,7 +46,17 @@ tags: [atm, wip]
 	- During the early days of his transformation, his body is cleanly shaved
 		- He kept up the routine up until the following year
 		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
-	- Some people think he looks older than his apparent age (25), likely due to his regal appearance
+	- Some people think he looks older than his apparent age (25), likely due to his regal and stoic bearing
+		- He also doesn't act like a 25 year old sometimes
+
+> [!quote] Young Regality
+> “Why did we even document him as 25 years old?”
+> “You can't see it?! He looks younger than some of our junior staff!”
+> “Yeah, but he doesn't act like it…”
+> “Exactly. Please find me a 25 year old that speaks and moves like this.”
+> “In one of those Ivy leagues maybe…?”
+> “Yeah right…”
+> “OH MY GOD, I JUST REALIZED… HE'S A ZOOMER?!”
 
 ## Physical Characteristics
 
@@ -65,13 +82,81 @@ tags: [atm, wip]
 	- Deep, resonant baritone
 	- Naturally rich and clear
 	- Velvety smooth, with natural gravitas that can easily command attention
-	- Can fill a room without even trying
+		- Can definitely be mistaken as seductive, though that's just delusion most of the time
+	- Can fill a room without even
 	- **Speech**:
 		- Measured and deliberately paced; rarely rushes words
 		- Naturally emphasizes important points
 		- Economical with word choice
 			- Naturally selects the most concise way to speak
 - **Temperature**: Possesses a highly elevated body temperature, most noticeable in winter wherein he requires little to no protection
+
+### Biological Advantages
+
+- **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
+	- Renders traditional hygiene products unnecessary
+	- Maintains effortless pristine cleanliness
+- **Bathing Preferences**: Rarely requires bathes for hygienic purposes
+	- Prefers complete submersion when bathing for pleasure and recreation
+		- The only moment he will ever be unclothed
+			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
+				- *Dad, this isn't necessary--*
+				- *You haven't heard what they whisper; it's for their own safety, not his.*
+		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely.
+			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.*
+			- *That's a bit too dramatic, don't you think?*
+		- Stays submerged underwater for extended periods, alarming people who don't know who he is
+			- He can hold his breath for an extended amount of time
+				- Learning of ways to indefinitely remain submerged again.
+			- Waters he submerges in are treated as hazards, hence the secondary excuse of his private pool
+				- *What's the primary excuse then?*
+				- *Avoiding sexual harassment.*
+- **Product Usage**: Requires minimal toiletry
+	- Still uses basic products suggested by Madison, particularly when it concerns his hair
+	- Scents don't adhere to his skin
+	- Possesses a unique scent
+- **Radiation Cleansing**: When finding himself absolutely filthy, employs as an elevated energy output
+	- Boils everything in a short radius around him
+	- Lethal to non-Titans
+
+### Biohazard Considerations
+
+- **Bodily Fluids**: All of them are potentially harmful to humans
+	- Elevated temperature alone can cause damage!
+	- His radioactive emissions can vary with emotional and physical state
+	- Direct contact protocols were implemented
+- **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
+	- Monarch upper management shows reduced sensitivity to radioactive effects
+	- Long-term exposure seems to play a part in creating limited adaptation
+	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
+		- Fuels people's delusional desires to be near him even more
+			- *You didn't have to mention that little factoid.*
+		- Both theories are considered, though most lean heavily into Godric's improving control
+
+> [!quote]
+> “That is *so* cool!”
+> “Madison, it's not cool to be tagged for potential radioactive contaminat--”
+> “Am I gonna breathe atomic energy too?!”
+> “God help us all if that ever happened.
+
+## Seasonal Physique
+
+- **Active Season**:
+	- 10% to 12% body fat
+	- Spans from December to August
+	- Defined musculature
+	- Angular facial features
+	- Higher body temperature
+- **Dormant Period**:
+	- 15% to 18% body fat
+	- Spans September to November
+	- Softer musculature
+	- Softened facial features
+	- Eats more
+	- Lower body temperature
+- **Notes**:
+	- Established post-Antitheriomorphosis
+	- Began in 2021
 
 ## Attire
 
@@ -107,50 +192,98 @@ tags: [atm, wip]
 		- Though they have been remade with Mothra's silk, he has never found use for them
 			- *Can I throw these out?*
 			- *Absolutely not, big guy—you have zero variety as it is!*
-- **Underwear**:
 	- **Undershirts**: Plain black or white variants
 		- Uses them from time to time as Mothra finds his chest hair distracting
 			- Apparently, she is also distracted when she sees his undershirt peeking
 				- *What does she even want at this point?!*
 		- Now wears them whenever he feels like it, typically in winter so he has an excuse to look cold even though he really isn't
-	- **Underpants**: Owns a variety of the following and *all* are black:
-		- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
-			- He only uses boxer shorts and briefs in his private quarters and when he is lounging
-				- Of course no one but him knows this, but Mothra has observed such pattern
-					- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
-						- She then wrote a paper that documented her findings with Baragon as her accomplice.
-	- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
-		- They appear nearly like formal trousers
-			- He hates having too many pockets as they are too bulky and unnecessary
-				- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
-					- Godzilla/Godric never asked for that but he appreciates the gesture
-	- **Shorts**: Predominantly swimming trunks and are all black in color
-		- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
-			- *Drag? I care not.*
+- **Underpants**: Owns a variety of the following and *all* are black:
+	- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
+		- He only uses boxer shorts and briefs in his private quarters and when he is lounging
+			- Of course no one but him knows this, but Mothra has observed such pattern
+				- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
+					- She then wrote a paper that documented her findings with Baragon as her accomplice.
+- **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
+	- They appear nearly like formal trousers
+		- He hates having too many pockets as they are too bulky and unnecessary
+			- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
+				- Godzilla/Godric never asked for that but he appreciates the gesture
+- **Shorts**: Predominantly swimming trunks and are all black in color
+	- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
+		- *Drag? I care not.*
+
+> [!quote]
+> *She's looking again; is it really so distracting?*
+> *There's a lot of distracting things about you and your physique, big guy.*
+> *I stopped shaving… should I resume doing so?*
+> *Do you want to?*
+> *I suppose I can afford to put an undershirt on.*
+> *You can't be this dense.*
+> *I am more than a hundred kilograms., after all.*
 
 ### Formal Attire
 
-- **Suits**: In a twist that *no one* could have expected, Godric absolutely does not care about this form of clothing either.
-	- *Come on, you could try making a statement!*
-	- *Honestly, Madison, can you stop turning the King of the Monsters into a barbie doll*
-	- *Dad, stay out of this. We're saving him from his awfully plain fashion style*
-	- *Or maybe, just maybe, the style works for him?*
-	- *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
-	- *You think his mere presence isn't enough to make a statement?*
+Godric has a modest collection of formal attire that he typically uses when he attends formal events involving Monarch.
 
-*That's the rest of them.*
-*Please tell me you have more…*
-*Serizawa nuked me, himself, and a portion of Atlantis; we could have had enough to even build you a house.*
-*Yeah, but we'd also be all dead so…*
-*Exactly.*
+Because the Titans-turned-humans aren't revealed to the world, he doesn't appear as a distinguished guest but just a background presence. He is sometimes accompanied by either Maria or Alexios, who do have some measure of appreciation for the formal atmosphere. The rest find no reason to participate. However, try as he might, Nordson still manages to find himself attracting or intimidating heads, often slowly finding himself at the center without his knowing.
 
-*She's looking again; is it really so distracting?*
-*There's a lot of distracting things about you and your physique, big guy.*
-*I stopped shaving… should I resume doing so?*
-*Do you want to?*
-*I suppose I can afford to put an undershirt on.*
-*You can't be this dense.*
-*I am more than a hundred kilograms., after all.*
+#### Suits
+
+- **Collection**: He possesses a modest number of 7 suits. Some were gifted to him and some were made by Mothra herself. All of them however, were modified by Mothra to integrate her silk.
+	- 4 single-breasted suits
+		- 2 black
+		- 1 navy blue
+		- 1 charcoal gray
+	- 3 double-breasted suits
+		- 1 black
+		- 1 navy blue
+		- 1 forest green
+			- Gifted to him by Mark in the Christmas of 2020
+				- Godric greatly appreciates the gesture, but has not find a use for it
+					- Mark doesn't mind, he's just secretly happy Godric didn't reject it
+
+| **Type**        | **Color**     | **Cut**  | **Fit**   | Origin / Specific Notes                                 |
+| :-------------- | :------------ | :------- | :-------- | :------------------------------------------------------ |
+| Single-Breasted | Black         | American | Classical | -                                                       |
+| Double-Breasted | Navy Blue     | American | Classical | -                                                       |
+| Single-Breasted | Charcoal Gray | British  | Classical | -                                                       |
+| Double-Breasted | Forest Green  | American | Modern    | Gifted by Mark (Christmas 2020); Unused but appreciated |
+| Single-Breasted | Navy Blue     | Italian  | Modern    | -                                                       |
+| Double-Breasted | Black         | British  | Modern    | -                                                       |
+| Single-Breasted | Black         | British  | Tailored  | Used more frequently than the rest                      |
+
+### Accessories
+
+- **Ties**: He *hates* wearing them, Maria and Madison have to painfully negotiate with him to wear them in required events, often having to strike unfair deals in the process.
+	- However, he does possess some and they are all solid-colored:
+		- 3 black
+		- 1 charcoal gray
+		- 1 navy blue
+		- 1 gold
+			- Made for him by Maria because she's one of the very few beings who has seen his true eye color, and she thought a gold tie would complement his eyes so well.
+			- He has not even removed it from its specially made case that Maria stores every garment she wears.
+	- His ties are reinforced with his shed scales despite infrequent use
+	-  They are never patterned or decorative
+- **Cufflinks**: Single pair of matte obsidian black cufflinks
+	- Contains microscopic fragments of his shed dorsal fins
+	- Glows subtly when he's using his power
+- **Pocket Squares**: Two plain white square, often folded identically every time.
+	- He seldom uses them
+
+> [!quote] Making Statements
+> *Come on, you could try making a statement!*
+> *Honestly, Madison, can you stop turning the King of the Monsters into a barbie doll*
+> *Dad, stay out of this. We're saving him from his awfully plain fashion style*
+> *Or maybe, just maybe, the style works for him?*
+> *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
+*You think his mere presence isn't enough to make a statement?*
+
+> [!quote] Scale Scarcity
+> *That's the rest of them.*
+> *Please tell me you have more…*
+> *Serizawa nuked me, himself, and a portion of Atlantis; we could have had enough to even build you a house.*
+> *Yeah, but we'd also be all dead if he didn't ,so…*
+> *Exactly.*
 
 On a slightly unrelated tangent, the combination of Godzilla scales and hide and Mothra's silk provides a material that is nigh-indestructible while maintaining an almost comical lightness.
 
@@ -158,12 +291,12 @@ Monarch has attempted to synthesize it repeatedly to no avail; they got the dura
 
 ### Titan Regalia
 
-This *uniform* is derived from his three-piece-suit, though fitter and more combat-oriented.
+This uniform is modeled after a typical three-piece suit, though modified to greatly enable combat.
 
 For the jacket:
 - **Type**: Frock coat
 - **Length**: Knee-length
-- **Texture**: Rougher than his typical attire, an indication of greater scale count, but not completely as it is still smoothened by Mothra's silk
+- **Texture**: Rougher than his typical attire, an indication of greater scale count but not completely as it is still smoothened by Mothra's silk
 - **Fit**:
 	- Highly flattering on his physique
 	- Tapered at his torso
@@ -197,7 +330,9 @@ For the shirt:
 - **Preference**:
 	- It's guaranteed he will wear white if his waistcoat is used with his daily.
 	- Will typically be seen wearing a black shirt when in a formal occasions, but isn't opposed to using whites either.
-	- Sometimes wears an undershirt, black or white, underneat
+	- Sometimes wears an undershirt, the color of which matches his shirt
+		- White for white shirts
+		- Black for all the other colors
 
 > [!quote] Layered Deception
 > “Perhaps with these four layers, people will cease questioning me if I'm cold for winter.”
@@ -230,28 +365,27 @@ He does his own laundry, his own room cleaning, even the door of his room is spo
 
 When asked, Godric simply said that he doesn't like his territory to look ugly.
 
-As for some of his accessories and personal artifacts:
-- **Serizawa's Legacies**:
-   - A pocket watch from his father Eiji Serizawa; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
-      - It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
-      - Godric is debating on making it work again.
-   - Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father on Godzilla through the years.
-      - Originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
-      - Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, and sometimes he wished Ishiro was still alive for conversation.
-   - Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
-   - A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
-      - Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
+As for some of his personal artifacts:
+- A pocket watch from Ishiro's father Eiji Serizawa; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
+	- It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
+	- Godric is debating on making it work again.
+- Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father on Godzilla through the years.
+	- Originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
+	- Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, and sometimes he wished Ishiro was still alive for conversation.
+- Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
+- A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
+	- Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
          - Godric did not respond, but the offer remains open.
-      - When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
-  - A state-of-the-art and latest in model tablet. At least this one, people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
-   - A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
-   - Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
-   - Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
-   - Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
-   - Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
-      - Their designs are plain, modest, and unembellished.
-      - They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
-      - Maria has her favorites, though she never says which. She just stares.
+	- When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
+- A state-of-the-art and latest in model tablet. At least this one, people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
+- A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
+- Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
+- Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
+- Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
+- Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
+	- Their designs are plain, modest, with no embellishments
+	- They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
+	- Maria has her favorites, though she never says which. She just stares.
 
 > [!quote]
 > “Do we tell her it's inappropriate?”
@@ -272,7 +406,7 @@ Once Rodan was sufficiently satisfied, they moved to Godzilla out of respect. Ma
 
 Madison was wise not to question.
 
-His truck is black, absolutely unembellished, and powerful. Once again, he was offered to have it run on atomic energy. Monarch seems to be so eager to do that. But, he declined. He wanted to fully experience owning a vehicle. He only wanted some subtle shielding from his radiation, though he had gotten better at controlling its emission.
+His truck is black, completely without embellishment, and powerful. Once again, he was offered to have it run on atomic energy. Monarch seems to be so eager to do that. But, he declined as he wanted to fully experience owning a vehicle. He only wanted some subtle shielding from his radiation, though he had gotten better at controlling its emission.
 
 Of all the parts of his truck, his favorite is the pickup bed. He had deliberately left some pillows, a comforter, and even a portable hammock in his truck that he can put on the bed anytime so he can consistently stargaze.
 
@@ -285,6 +419,112 @@ Though he finds traffic customs questionable, he still follows them with mechani
 When it comes to maintenance, he approaches it with the same fastidiousness as he does with any of his possessions. Madison saw him one day with his owner's manual, two or three books on vehicle maintenance, and a curious video on the same topic in his YouTube history (because she has his devices), and the next he was on his vehicle working. It's his territory and it demands he take good care of it.
 
 He had sought to first explore the USA before moving on to Europe and Asia. He'd pay for the journeys himself.
+
+### Road Presence
+
+His commanding presence extends beyond formal settings to everyday situations:
+
+- **Traffic Interactions**: Nearly zero incidents despite extensive travel
+  - Other drivers instinctively maintain distance from his vehicle
+  - A single glare sufficient to deter even the most aggressive motorists
+  - No recorded instances of road rage directed toward him
+- **Public Recognition**: Despite covert status, creates unmistakable impression
+  - Gas station attendants remember him but cannot explain why
+  - Service professionals demonstrate unusual deference without understanding reason
+  - Local law enforcement unconsciously avoid pulling over his vehicle
+
+> [!quote] Instinctual Response
+> “I was about to honk at the black pickup that was driving exactly the speed limit, but when I got alongside and saw the driver… I suddenly remembered I needed to take the next exit.”
+> —Motorist account from Monarch surveillance transcript
+
+## Financial Independence & Historical Witness
+
+While Godric's meticulous nature extends to most aspects of his existence, even his patience has boundaries. Financial administration represents one domain he willingly delegates to Monarch, focusing his attention on matters more befitting the Alpha Paramount.
+
+### Atlantean Revenue Stream
+
+Godric maintains complete financial independence through a uniquely historical method:
+
+- **Artifact Recovery**: Personal retrieval of Atlantean treasures
+  - Locations precisely remembered from time as the region's “ward”
+  - Items dated between 12,000-14,000 years old
+  - Recovery operations conducted independently without assistance
+  - Artifacts partially preserved despite Serizawa's nuclear detonation
+- **Historical Significance**: Items verify existence of mythological civilization
+  - Archaeological community initially skeptical until authentication
+  - Multiple scholarly paradigms shattered by confirmation
+  - Represents direct physical evidence of pre-historical advanced civilization
+- **Distribution System**: Transfers artifacts to Monarch for museum placement
+  - Items loaned rather than sold to maintain ownership
+  - Generous compensation negotiated by Monarch on his behalf
+  - Funds directed to personal accounts for discretionary use
+- **Financial Scale**: Revenue sufficient to fund “several generations”
+  - Maintains complete independence from Monarch financial support
+  - Covers all personal expenses including vehicle maintenance and travel
+  - Accumulates substantial reserves for future contingencies
+
+> [!quote] Historical Irony
+> “They would wave treasures in front of my snout thinking I wouldn't see or remember them. How odd that now they are the ones forgotten.”
+> —Godric, regarding Atlantean artifacts
+
+### Living Witness to Myth
+
+Godric's connection to Atlantis represents a profound historical significance:
+
+- **Historical Confirmation**: His first-hand knowledge verified what was considered mythical
+  - Identified architectural details impossible to fabricate
+  - Provided locations unknown to modern archaeology
+  - Described cultural practices since confirmed by recovered artifacts
+- **Timeline Verification**: Direct observation places Atlantis approximately 12,000 years ago
+  - Predates conventional understanding of complex civilization
+  - Corresponds with geological evidence of significant sea level changes
+  - Aligns with scattered mythological references across cultures
+- **Public Impact**: Revelation comparable to confirmation of Titans themselves
+  - Scientific community forced to reconsider historical paradigms
+  - Public fascination with both Titans and ancient civilizations intensified
+  - Conspiracy theorists simultaneously validated and confused
+
+> [!quote] Paradigm Shift
+> “How would a person react when not only are Titans real but, apparently, the ancient and legendary city of Atlantis exists?”
+> —Dr. Chen's preliminary report on public response to Atlantean discoveries
+
+### Financial Management Approach
+
+Despite delegating administration, Godric maintains characteristic oversight:
+
+- **Delegation Parameters**: Clear boundaries for Monarch financial management
+  - Handles fundamental paperwork and regulatory compliance
+  - Manages investment portfolio according to specific guidelines
+  - Provides regular detailed accounting for his review
+- **Personal Involvement**: Maintains ultimate decision authority
+  - Reviews financial status with same precision as territory assessments
+  - Authorizes significant expenditures personally
+  - Demonstrates surprising understanding of modern financial systems
+- **Expenditure Patterns**: Predominantly funds three categories
+  - Travel exploration (primary expenditure)
+  - Historical acquisition (books, artifacts, information)
+  - Observatory equipment (increasingly sophisticated)
+
+### Historical Perspective
+
+Godric's relationship with Atlantis reveals his unique temporal perspective:
+
+- **Guardian Memory**: Recalls details of civilizations long considered mythical
+  - Remembers Atlantis as a ward within his territory
+  - Observed their rise, achievements, and eventual fall
+  - Witnessed their attempts to hide treasures from his awareness
+- **Temporal Distance**: Views 12,000 years as relatively recent history
+  - Refers to Atlantean period as “not that long ago”
+  - Casually references rulers and events from pre-historical periods
+  - Occasionally forgets humans don't share his extended timeline
+- **Historical Value**: Recognizes importance of preserving historical knowledge
+  - Ensures artifacts reach appropriate scientific institutions
+  - Provides context unavailable from any other source
+  - Represents living connection to Earth's otherwise inaccessible past
+
+> [!quote] Timeline Perspective
+> “When asked about early Atlantean architecture, he described it as 'their awkward teenage phase' before they 'figured things out.' It's jarring to realize he's discussing a period around 14,000 BCE with the casual familiarity we might use for the 1990s.”
+> —Dr. Ling Chen, Cultural Anthropology Division
 
 ## Grooming and Maintenance
 
@@ -325,35 +565,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 		- For some reason the prior really wants to see him one. The answer is still no.
 		- He remains unaffected by Maria's subtle hints
 
-### Biological Advantages
-
-- **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
-	- Renders traditional hygiene products unnecessary
-	- Maintains effortless pristine cleanliness
-- **Bathing Preferences**: Rarely requires bathes for hygienic purposes
-	- Prefers complete submersion when bathing for pleasure and recreation
-		- The only moment he will ever be unclothed
-			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
-				- *Dad, this isn't necessary--*
-				- *You haven't heard what they whisper; it's for their own safety, not his.*
-		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely.
-			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.*
-			- *That's a bit too dramatic, don't you think?*
-		- Stays submerged underwater for extended periods, alarming people who don't know who he is
-			- He can hold his breath for an extended amount of time
-				- Learning of ways to indefinitely remain submerged again.
-			- Waters he submerges in are treated as hazards, hence the secondary excuse of his private pool
-				- *What's the primary excuse then?*
-				- *Avoiding sexual harassment.*
-- **Product Usage**: Requires minimal toiletry
-	- Still uses basic products suggested by Madison, particularly when it concerns his hair
-	- Scents don't adhere to his skin
-	- Possesses a unique scent
-- **Radiation Cleansing**: When finding himself absolutely filthy, employs as an elevated energy output
-	- Boils everything in a short radius around him
-	- Lethal to non-Titans
-
-### Dental Characteristics
+### Dental Hygiene
 
 - **Maintenance Challenges**: Traditional brushing methods proved to be impractical
 	- Resulted in destroyed toothbrushes
@@ -367,44 +579,6 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- The reason why he himself advised most people to stay at a distance
 	- Visible steam effect is emitted in cold environments
 		- Is attempting to conceal this through improved energy modulation
-
-### Biohazard Considerations
-
-- **Bodily Fluids**: All of them are potentially harmful to humans
-	- Elevated temperature alone can cause damage!
-	- His radioactive emissions can vary with emotional and physical state
-	- Direct contact protocols were implemented
-- **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
-	- Monarch upper management shows reduced sensitivity to radioactive effects
-	- Long-term exposure seems to play a part in creating limited adaptation
-	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
-		- Fuels people's delusional desires to be near him even more
-			- *You didn't have to mention that little factoid.*
-		- Both theories are considered, though most lean heavily into Godric's improving control
-
-> [!quote]
-> “That is *so* cool!”
-> “Madison, it's not cool to be tagged for potential radioactive contaminat--”
-> “Am I gonna breathe atomic energy too?!”
-> “God help us all if that ever happened. I don't think I'll be able to take an atomic-breathing Madison.”
-
-## Seasonal Physique
-
-- **Active Season**:
-	- 10% to 12% body fat
-	- Spans from December to August
-	- Defined musculature
-	- Angular facial features
-	- Higher body temperature
-- **Dormant Period**:
-	- 15% to 18% body fat
-	- Spans September to November
-	- Softer musculature
-	- Softened facial features
-	- Lower body temperature
-- **Notes**:
-	- Established post-Antitheriomorphosis
-	- Began in 2021
 
 ### Relationship with Sleep
 
@@ -434,7 +608,7 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 
 ## History
 
-## Name History
+### Name History
 
 - 6 months after the Antitheriomorphosis, Madison suggested that the Titans adopt human names.
 	- This didn't go well for the current roster of Titans, namely Godzilla, Anguirus, Rodan, the Cardinal and Intercardinal Wardens.

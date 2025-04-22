@@ -14,8 +14,6 @@ aliases:
 
 # **Godzilla, The King of the Monsters**
 
-> _“A force of nature contained within perfect human proportions, his mere presence commands respect and triggers instinctual fear. His physical form may have changed, but the Alpha Paramount remains unmistakable.”_
-
 ## Basic Profile
 
 ### Human Form

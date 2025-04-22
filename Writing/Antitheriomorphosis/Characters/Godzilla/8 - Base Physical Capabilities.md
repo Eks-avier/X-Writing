@@ -40,7 +40,6 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
 ### Notable Feats
 
 - **Structural Impact**: Left hand imprint in reinforced concrete wall during early adaptation phase
-- **Combat Application**: Immobilized Kong briefly with single arm lock during their first human-form sparring
 - **Restraint Demonstration**: Gradually learned to control strength enough to use standard drinking glasses
 
 > [!note] Strength Distribution
