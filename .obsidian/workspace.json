@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla - Physical Profile.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godzilla - Physical Profile"
+              "title": "Refined Godzilla Profile Outline"
             }
           },
           {
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b50585702dff1c67",
@@ -235,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Physical Features"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Physical Features"
+              "title": "Backlinks for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physical Features"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -341,10 +341,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbb0a45794d0aaa5",
+  "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
