@@ -3546,13 +3546,13 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2243,
+      "wordCount": 2229,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.476666666666667,
-      "characterCount": 20018,
-      "nonWhitespaceCharacterCount": 16943,
-      "readingTimeInMinutes": 8.464150943396227,
+      "pageCount": 7.43,
+      "characterCount": 19907,
+      "nonWhitespaceCharacterCount": 16847,
+      "readingTimeInMinutes": 8.41132075471698,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": [
@@ -3561,8 +3561,8 @@
         "The Last Northerner"
       ],
       "createdDate": 1743442092832,
-      "modifiedDate": 1743846388784,
-      "sizeInBytes": 20727,
+      "modifiedDate": 1745340440871,
+      "sizeInBytes": 20616,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.476666666666667,
@@ -4878,31 +4878,6 @@
         "nonWhitespaceCharacterCount": 6464
       }
     },
-    "Writing/Antitheriomorphosis/Atomic Amplification.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8986,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 29.953333333333333,
-      "characterCount": 59920,
-      "nonWhitespaceCharacterCount": 48819,
-      "readingTimeInMinutes": 33.90943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744136957003,
-      "modifiedDate": 1744315383713,
-      "sizeInBytes": 60302,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 29.953333333333333,
-        "wordCount": 8986,
-        "characterCount": 59920,
-        "nonWhitespaceCharacterCount": 48819
-      }
-    },
     "Templates/Magic System - Core Concepts.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5351,6 +5326,31 @@
         "wordCount": 54,
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8986,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 29.953333333333333,
+      "characterCount": 59920,
+      "nonWhitespaceCharacterCount": 48819,
+      "readingTimeInMinutes": 33.90943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744136957003,
+      "modifiedDate": 1744315383713,
+      "sizeInBytes": 60302,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

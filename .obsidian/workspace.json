@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "1e08ec03882d4b39",
+            "id": "30a80507e6719b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 333,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -234,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 8 - Base Physical Capabilities"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -246,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8 - Base Physical Capabilities"
+              "title": "Backlinks for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -279,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8 - Base Physical Capabilities"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -336,14 +337,20 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "bbb0a45794d0aaa5",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
@@ -357,7 +364,6 @@
     "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III",
@@ -367,10 +373,6 @@
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
     "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-    "Writing/Antitheriomorphosis/Unrefined/TITANUS ZILLA SPECIES PROFILE.md",
-    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
-    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
-    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
