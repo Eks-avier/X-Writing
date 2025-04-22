@@ -3148,24 +3148,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1852,
+      "wordCount": 3369,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.173333333333333,
-      "characterCount": 14531,
-      "nonWhitespaceCharacterCount": 12109,
-      "readingTimeInMinutes": 6.988679245283019,
+      "pageCount": 11.23,
+      "characterCount": 28253,
+      "nonWhitespaceCharacterCount": 23318,
+      "readingTimeInMinutes": 12.71320754716981,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Godzilla",
         "Godric",
         "Alpha Paramount",
-        "King of the Monsters"
+        "King of the Monsters",
+        "atm",
+        "atm/titan",
+        "atm/titan/character/main"
       ],
       "createdDate": 1744830910871,
-      "modifiedDate": 1745072622411,
-      "sizeInBytes": 14796,
+      "modifiedDate": 1745263101639,
+      "sizeInBytes": 28618,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 6.173333333333333,
@@ -3178,14 +3181,17 @@
           "Godzilla",
           "Godric",
           "Alpha Paramount",
-          "King of the Monsters"
-        ],
-        "tags": [
+          "King of the Monsters",
+          {
+            "Godric Nordson tags": null
+          },
           "atm",
           "atm/titan",
-          "atm/titan/character/main"
-        ],
-        "status": "active"
+          "atm/titan/character/main",
+          {
+            "atm/titan/paramount status": "active"
+          }
+        ]
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md": {

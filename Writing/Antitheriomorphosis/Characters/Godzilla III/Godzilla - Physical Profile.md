@@ -88,7 +88,8 @@ aliases:
 - **Alternatives**: 10 plain form-fitting t-shirts (black/white) and 3 henleys (one white, two black)
     - Rarely used despite being remade with Mothra's silk
 
-> [!quote] Wardrobe Frustration “Here. Different style. Happy?”
+> [!quote] Wardrobe Frustration
+> “Here. Different style. Happy?”
 >
 > “That's not… THAT'S NOT WHAT I MEANT!!!” —Godric and Madison on his idea of wardrobe variety
 
