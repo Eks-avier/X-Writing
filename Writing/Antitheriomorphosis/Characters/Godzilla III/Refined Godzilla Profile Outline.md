@@ -80,6 +80,20 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 - **Length**: Short on the sides but slightly thicker and longer at the top
 - **Style**: Typically swept back using his hands with some strands occasionally falling across his forehead
 - **Texture**: Appears soft and is soft to the touch yet resists cutting by conventional tools
+- **Previous Experiments**: He has attempted to fix his hair in various styles:
+	- His prior shoulder length look, which he tied back
+	- His buzz cut
+- **Future Experiments**: He seeks to cut his hair by a few centimeters longer than a buzz cut
+- **Notes**: Determines how long his hair is by the length of the strands falling on his forehead. If a single strand reaches his eyes, he may begin considering a cut.
+
+### Eyes
+
+To most people, and even to Monarch, Godric's eyes is a striking light blue. This is accurately represented in all his documentations prepared by Monarch.
+
+However, to those who know him intimately, his true eye color is gold, which he inherited from his mother instead of the standard shades of blue of the Northern Race of *Titanus gojira* like his father.
+
+- **Faux Eye Color**: Light blue (default state)
+	- 
 ## Physical Characteristics
 
 - **Movement**:
