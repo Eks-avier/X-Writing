@@ -18,30 +18,9 @@ tags: [atm, wip]
 	- First resurgence in the modern era, as noted by Dr. Ishiro Serizawa
 	- Doubles as a meta-reference since the first Godzilla film was released in November 3, 1954
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
-- **Hair**: Black
-	- **Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
-	- **Style**: Typically styled back with occasional strands falling across his forehead
-	- **Texture**: Appears soft and is so to the touch, but will resist being cut by conventional tools
 - **Eye Color**:
 	- **Faux Eye Color**: Light blue (an effect of his atomic energy in use); default state
 	- **True Eye Color**: Gold (maternal trait); rarely revealed, or at all
-- **Skin**:
-	- **Color**: Caucasian with a slight tan due to constant exposure to the sun that goes away in winter
-	- **Texture**: Slightly rough, as if worked by the elements
-		- No blemishes
-		- No scars
-		- No markings of any kind
-- **Facial Features**:
-	- Square-like face
-	- Defined jawline
-	- High cheekbones
-	- Strong brow ridge
-- **Dental Features**:
-	-  Perfectly aligned
-	- Human in appearance, but sharp and incredibly durable
-		- He can bite not just through bone, but to reinforced metals
-	- Can regenerate if damaged, just like any body part of his
-	- Bite force is effectively the highest ever recorded
 - **Others**:
 	- Physical proportions are aesthetic
 		- Nigh-perfect face harmony; all facial features are proportional to one another
@@ -60,7 +39,7 @@ tags: [atm, wip]
 > “Exactly. Please find me a 25 year old that speaks and moves like this.”
 > “In one of those Ivy leagues maybe…?”
 > “Yeah right…”
-> “OH MY GOD, I JUST REALIZED… HE'S A ZOOMER?!”
+> “OH MY GOD, I JUST REALIZED… HE'S GEN-Z?!”
 
 ### Facial Structure
 
@@ -114,8 +93,21 @@ His skin appears to be deceptively normal.
 	- Refuses any tattoos
 		- They fade almost immediately
 
-Among *Titanus gojira*, markings of any kind are 
+Among *Titanus gojira*, markings of any kind are typically a result of an ineffective regenerative system, hence his avoidance of any kind of markings even in human form. Both his mind and his body reject such notions.
 
+- **Radiation Properties**: Passively emits low levels of radiation that sterilize the immediate area around him
+
+### Dental Features
+
+His teeth appear entirely human at a glance.
+
+- **Appearance**: Perfectly aligned with conventional human dimensions
+- **Capabilities**: 
+	- Regenerate if damaged
+	- Record-setting bite force beyond any documented species
+		- He was once instructed to bite through reinforced steel.
+			- He succeeded with minimal effort
+- **Maintenance**: Self-sterilizing due to his passive radiation
 ## Physical Characteristics
 
 - **Movement**:
@@ -402,8 +394,8 @@ For the trousers:
 - **Fit**: Enables, rather than impedes, his combat.
 	- Somehow more flattering on his lower region that his usual trousers.
 
-> [!quote] Unwanted Questions
-> “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not only a Titan, but the King of the Monsters himself.”
+> [!quote] Shameless and Undignified
+> “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not just a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
