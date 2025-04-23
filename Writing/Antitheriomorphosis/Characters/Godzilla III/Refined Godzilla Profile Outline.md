@@ -66,7 +66,18 @@ tags: [atm, wip]
 
 Godric's face is described as regal and terrifying. It features a symmetrical structure that projects natural authority.
 
-- Shape
+- **Shape**: Square with an angular and defined jawline
+- **Features**: High cheekbones and strong, but not overly dramatic, brow ridge that gives his eye a subtle shadow
+- **Symmetry**: Near-perfect facial harmony (98.7% bilateral symmetry)
+- **External Perception**: Often appears older than documented age due to stoic and regal bearing
+- **Expression**: Predominantly stoic with subtle micro-expressions
+
+### Hair
+
+A reptilian being possessing hair is sure 
+
+- 
+
 ## Physical Characteristics
 
 - **Movement**:
