@@ -17,7 +17,7 @@ tags: [atm, wip]
 | **Documented Age** | 25 years                                                                               |                                                                                                     |
 |   **Actual Age**   | Approximately 250 million years                                                        |                                                                                                     |
 |    **Birthday**    | November 3 (Administrative designation)                                                |                                                                                                     |
-
+ 
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla / Gojira
 	- He answers to both

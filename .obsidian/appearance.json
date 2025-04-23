@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "",
   "accentColor": "#2d3d4e",
   "theme": "system",
   "baseFontSize": 12,
   "nativeMenus": false,
   "showRibbon": false,
-  "textFontFamily": "Quintessential",
+  "textFontFamily": "Cambria",
   "interfaceFontFamily": "Rubik",
   "monospaceFontFamily": "JetBrains Mono"
 }
