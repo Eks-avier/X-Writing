@@ -10,4 +10,9 @@ To truly understand how Battra uses magic in his Titan form, we must explore how
 
 The Covenant of the species of which Mothra and Battra are members is called *Titanus mosura*, otherwise known colloquially by their fellow Titans as *Divine Moths*, is an agreement between between the ancestors of *Titanus mosura* and the Heavenly Instance. 
 
-The Heavenly Instance is a servant of Heaven itself that was said to be sent to Earth by The One Beyond Heaven, or what most humans would call God, as a protector against cosmic threats. It first descended onto Earth more than half a billion years ago.  The manner in which it appeared on the planet is a complete mystery, as no 
+The Heavenly Instance is a servant of Heaven that was said to be sent to Earth by The One Beyond Heaven, or what most humans would call God, as a protector against cosmic threats. It first descended onto Earth more than half a billion years ago. The manner in which it appeared on the planet is a complete mystery, as no entity from that period of time survived until now. Methuselah, the oldest of Titans, was said to be 300 million years old, born far after the Instance descended.
+
+The Instance bonded with a certain species, a species of gigantic moth-like creatures that would later on become the *Divine Moths*. Though these ancestors of Mothra and Battra were **not** divine at this point in time, they did remain special regardless. Across all of the universe, few living creatures were simultaneously capable of psychic and magical abilities. These 'proto-mosura' represented a rare breed as they would remain as Earth's only psychic-magicians for a long time, at least until they met the Heavenly Instance.
+
+The Heavenly Instance understood the world through the aid of these proto-mosura. As a token of  
+
