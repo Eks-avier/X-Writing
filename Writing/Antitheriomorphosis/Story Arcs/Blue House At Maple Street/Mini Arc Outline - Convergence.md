@@ -1,4 +1,4 @@
-# Domestic Fantasy - Convergence Mini Arc Outlines
+# Mini Arc Outline - Convergence
 
 ## Story Outline
 

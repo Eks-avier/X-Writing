@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dagon Resurrection Arc"
+              "title": "Keystone Arc"
             }
           }
         ],
@@ -125,37 +125,9 @@
               "icon": "lucide-file",
               "title": "Godric Nordson - Physical Features"
             }
-          },
-          {
-            "id": "30a80507e6719b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - Base Physical Capabilities"
-            }
-          },
-          {
-            "id": "ed97b7dd73e9c766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antitheriomorphosis"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 436
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -248,10 +220,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md"
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Antitheriomorphosis"
+              "title": "File properties for Keystone Arc"
             }
           },
           {
@@ -293,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Antitheriomorphosis"
+              "title": "Outline of Keystone Arc"
             }
           },
           {
@@ -354,11 +326,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed97b7dd73e9c766",
+  "active": "94b782cb733d294e",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Edelweiss .md",
+    "Writing/Antitheriomorphosis/Story Arcs/Medieval AU - Drop Off.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - The Winter Cycle.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Plot Outline - Link Disconnected.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 3.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 2.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 1.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/5 - First Day in Meadowvale.md",
     "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
     "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
@@ -370,22 +354,10 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
     "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla - Physical Profile.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/obsidian.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
-    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III",
-    "Notepad 2.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Titan Species Profile Instruction Set.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",

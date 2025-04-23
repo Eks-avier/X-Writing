@@ -33,13 +33,19 @@ All major story arcs should be formatted as:
 
 - **Antitheriomorphosis: The Xillien Invasion** (2023-2024)
 - **Antitheriomorphosis: Keystone** (2025)
-- **Antitheriomorphosis: The Blue House at Maple Street** (2025-2030)
-- **Antitheriomorphosis: Convergence** (Mini arc set in the Blue House at Maple Street)
+- **Antitheriomorphosis: The Blue House at Maple Street** (2025-20)
+	- **Convergence** (Mini arc)
+	- **Winter Cycle** (Mini arc)
 
-#### Planned Arcs with Tentative Names
+#### Planned Major Arcs with Tentative Names
 
-- **Dagon Resurrection Arc** (2026, post The Blue )
+- **Dagon Resurrection Arc** (2026, post-The Blue House at Maple Street)
+- **Biollante Introduction Arc** (2027, 8 months after Dagon's resurrection)
 
+#### Tentative Arcs
+
+- **Link Disconnected**: A story arc that features Samuel Johns of the Psionic Division
+- 
 ### Standalone Stories and Vignettes
 
 Short stories and character vignettes within the universe should be titled:

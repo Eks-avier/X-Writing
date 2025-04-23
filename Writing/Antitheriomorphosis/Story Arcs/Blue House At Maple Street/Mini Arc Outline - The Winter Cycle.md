@@ -1,4 +1,4 @@
-# The Winter Cycle
+# Mini Arc Outline - The Winter Cycle
 
 ## Chapter 1: First Frost
 

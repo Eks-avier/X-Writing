@@ -1,4 +1,4 @@
-# Domestic Fantasy: Enhanced Timeline & Story Beats
+# Plot Outline - Blue House at Maple Street
 
 ## Phase 1: Establishment & Setting (Months 0-3)
 

@@ -20,19 +20,17 @@ Thus, Godzilla was a mix of both their features:
 - He had his mother's obsidian scale coloration.
 - He had his mother's dorsal fin coloration.
 
-Godzilla was merely in an egg when his mother had died. He had never seen her, never felt her touch, just rumbles and some noises that could be either hers or his father's. When he finally hatched from his egg, only his father was there to greet him.
+Godzilla was merely in an egg when his mother had died. He had never seen her nor felt her touch, just rumbles and some noises that could be either hers or his father's. When he finally hatched from his egg, only his father was there to greet him.
 
-He was smaller than expected and seemed to have a weak constitution, likely had something to do with his mother. But such things don't really matter to the Titanus gojira. Other species might discard their offspring for being born weak, but their species is different. Thanks to their bottomless well of potential, such birth defects were merely set backs. After all, Godzilla now is the strongest being on Earth—a prime example of that principle. 
+He was smaller than expected and seemed to have a weak constitution, likely had something to do with his mother. But such things don't really matter to the *Titanus gojira*. Other species might discard their offspring for being born weak, but their species is different. Thanks to their bottomless well of potential, such birth defects were merely set backs. After all, Godzilla now is the strongest being on Earth—a prime example of that principle. 
 
-Yet even so, Dagon simply had trouble admitting just how much he loved his son. In his little child, he saw his dead mate and himself—the proof that their bond was real. Maybe there was hope in there too, that in his son their people will rise once more, even if he looked a little small for his age. One of many of Dagon's regrets was that he never said he was proud of his son enough.
-
-Godzilla would eventually convince himself that these were signs point to his father's inevitable abandonment.
+Yet even so, Dagon simply had trouble admitting just how much he loved his son. In his little child, he saw his dead mate and himself—the proof that their bond was real. Maybe there was hope in there too, that in his son their people will rise once more, even if he looked a little small for his age. One of many of Dagon's regrets was that he never said he was proud of his son enough. Godzilla would, after waiting for so many years for his father to come back, eventually convinced himself that these were signs point to his father's inevitable abandonment.
 
 What he didn't know was that Dagon was proud, that no matter what happens to him, his son will bear his parentage. That fact that he was his son was enough for him to proud. He just wished he had more time to tell him that.
 
 ---
 
-I would like to add that Godzilla regretted hating his father so much (is that in the source files?), that he thought his own sire abandoned him. Perhaps that's what makes the memories of him so painful.
+I would like to add that Godzilla regretted hating his father so much because he thought his own sire abandoned him. Perhaps that's what makes the memories of him so painful.
 
 We can juxtapose this with Maria and Bartholomew. It's not entirely the same, but perhaps this can be one of the hints of the twins' reconciliation. 
 
@@ -48,7 +46,7 @@ He finds that he can't stand looking at himself at all anymore—gold or blue ey
 
 When he dons his blue eyes, he imagines his father looking at him through the features he gave his son. What was once a source of anger, now a source of grief and sorrow.
 
-When he dons his gold eyes, he imagines his faceless mother, looking at him with betrayal and disappointment in the same eyes he held. 
+When he dons his gold eyes, he imagines his faceless mother, looking at him with betrayal and disappointment using the same eyes he held. 
 
 Imagining them in that way is utterly unbearable. He'll fight Ghidorah a thousand times than that. He'll search and destory the Xillien colony in the galaxy himself than suffer that. He'll gratefully be bisected and shredded by Battra's Twin Cutters a million times than see that.
 
