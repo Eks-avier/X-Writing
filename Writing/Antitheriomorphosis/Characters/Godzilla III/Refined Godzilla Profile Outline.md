@@ -6,27 +6,17 @@ tags: [atm, wip]
 
 ## Physical Features
 
-|     Attribute      | Details                                                                                | Notes                                                                                               |
-| :----------------: | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-|   **Human Name**   | Godric Nordson                                                                         | Anglo-Saxon for *power of God* + *son of the north*                                                 |
-|   **Titan Name**   | Godzilla / Gojira                                                                      | He answers to both equally                                                                          |
-|     **Title**      | Alpha Paramount, King of the Monsters                                                  | Alpha Paramount is the title Titans know him by; King of the Monsters is the one humans know him by |
-|     **Height**     | 6'5” (196 cm)                                                                          |                                                                                                     |
-|     **Weight**     | 265 lbs (120 kg)                                                                       |                                                                                                     |
-|    **Body Fat**    | 10-12% (Active Season: December-August)<br>15-18% (Dormant Season: September-November) |                                                                                                     |
-| **Documented Age** | 25 years                                                                               |                                                                                                     |
-|   **Actual Age**   | Approximately 250 million years                                                        |                                                                                                     |
-|    **Birthday**    | November 3 (Administrative designation)                                                |                                                                                                     |
- 
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla / Gojira
-	- He answers to both
+	- He answers to both equally
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
 - **Sex**: Male
 - **Approximated Age**: 250 m.y. old
 - **Documented Age**: 25
 - **Birthday**: November 3
+	- First resurgence in the modern era, as noted by Dr. Ishiro Serizawa
+	- Doubles as a meta-reference since the first Godzilla film was released in November 3, 1954
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Hair**: Black
 	- **Length**: Short, but long enough to be styled back; has experimented with shoulder length tied back
@@ -72,10 +62,11 @@ tags: [atm, wip]
 > “Yeah right…”
 > “OH MY GOD, I JUST REALIZED… HE'S A ZOOMER?!”
 
-### Facial Features
+### Facial Structure
 
-- **Shape**: Square-like with defined jawline
+Godric's face is described as regal and terrifying. It features a symmetrical structure that projects natural authority.
 
+- Shape
 ## Physical Characteristics
 
 - **Movement**:

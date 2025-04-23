@@ -67,7 +67,7 @@ His hair provides an interesting contrast to his Titan form's scaleless appearan
 His skin presents a deceptively normal appearance that masks extraordinary properties:
 
 - **Color**: Caucasian with slight tan that fades in winter
-- **Texture**: Slightly rough as if worked
+- **Texture**: Slightly rough as if worked by the elements
 - **Distinctive Features**:
   - Complete absence of blemishes
   - No scars despite millions of years of combat

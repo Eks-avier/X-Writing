@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 56.10526315789473,
+        "dimension": 56.12565445026178,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -82,7 +82,7 @@
       {
         "id": "b50585702dff1c67",
         "type": "tabs",
-        "dimension": 43.89473684210527,
+        "dimension": 43.87434554973822,
         "children": [
           {
             "id": "290a1dfd339bcf41",
@@ -221,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godric Nordson - Physical Features"
+              "title": "File properties for Refined Godzilla Profile Outline"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godric Nordson - Physical Features"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -304,7 +304,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -329,13 +330,13 @@
   "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
