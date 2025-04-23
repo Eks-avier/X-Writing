@@ -6,17 +6,17 @@ tags: [atm, wip]
 
 ## Physical Features
 
-|     Attribute      | Details                                                                                | Notes |
-| :----------------: | :------------------------------------------------------------------------------------- | :---- |
-|   **Human Name**   | Godric Nordson                                                                         |       |
-|   **Titan Name**   | Godzilla / Gojira                                                                      |       |
-|     **Title**      | Alpha Paramount, King of the Monsters                                                  |       |
-|     **Height**     | 6'5” (196 cm)                                                                          |       |
-|     **Weight**     | 265 lbs (120 kg)                                                                       |       |
-|    **Body Fat**    | 10-12% (Active Season: December-August)<br>15-18% (Dormant Season: September-November) |       |
-| **Documented Age** | 25 years                                                                               |       |
-|   **Actual Age**   | Approximately 250 million years                                                        |       |
-|    **Birthday**    | November 3 (Administrative designation)                                                |       |
+|     Attribute      | Details                                                                                | Notes                                                                                               |
+| :----------------: | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+|   **Human Name**   | Godric Nordson                                                                         | Anglo-Saxon for *power of God* + *son of the north*                                                 |
+|   **Titan Name**   | Godzilla / Gojira                                                                      | He answers to both equally                                                                          |
+|     **Title**      | Alpha Paramount, King of the Monsters                                                  | Alpha Paramount is the title Titans know him by; King of the Monsters is the one humans know him by |
+|     **Height**     | 6'5” (196 cm)                                                                          |                                                                                                     |
+|     **Weight**     | 265 lbs (120 kg)                                                                       |                                                                                                     |
+|    **Body Fat**    | 10-12% (Active Season: December-August)<br>15-18% (Dormant Season: September-November) |                                                                                                     |
+| **Documented Age** | 25 years                                                                               |                                                                                                     |
+|   **Actual Age**   | Approximately 250 million years                                                        |                                                                                                     |
+|    **Birthday**    | November 3 (Administrative designation)                                                |                                                                                                     |
 
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla / Gojira
