@@ -221,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Refined Godzilla Profile Outline"
+              "title": "File properties for Godric Nordson - Physical Features"
             }
           },
           {
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refined Godzilla Profile Outline"
+              "title": "Outline of Godric Nordson - Physical Features"
             }
           },
           {
@@ -327,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43a15a2a89f2394d",
+  "active": "29737c769850a77c",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
