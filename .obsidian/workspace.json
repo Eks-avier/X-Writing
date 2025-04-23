@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physical Features"
+              "title": "Godric Nordson - Physical Features"
             }
           },
           {
@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refined Godzilla Profile Outline"
+              "title": "Godric Nordson - Physical Features"
             }
           },
           {
@@ -235,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Refined Godzilla Profile Outline"
+              "title": "File properties for Godric Nordson - Physical Features"
             }
           },
           {
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Refined Godzilla Profile Outline"
+              "title": "Backlinks for Godric Nordson - Physical Features"
             }
           },
           {
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refined Godzilla Profile Outline"
+              "title": "Outline of Godric Nordson - Physical Features"
             }
           },
           {
@@ -318,8 +318,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -343,8 +342,8 @@
   },
   "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Physical Features.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
