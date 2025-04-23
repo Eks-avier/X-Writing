@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 56.12565445026178,
+        "dimension": 51.19808306709265,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -82,7 +82,7 @@
       {
         "id": "b50585702dff1c67",
         "type": "tabs",
-        "dimension": 43.87434554973822,
+        "dimension": 48.801916932907346,
         "children": [
           {
             "id": "290a1dfd339bcf41",
@@ -106,7 +106,7 @@
               "state": {
                 "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Godric Nordson - Physical Features"
@@ -309,7 +309,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
