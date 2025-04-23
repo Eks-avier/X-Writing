@@ -102,12 +102,46 @@ Among *Titanus gojira*, markings of any kind are typically a result of an ineffe
 His teeth appear entirely human at a glance.
 
 - **Appearance**: Perfectly aligned with conventional human dimensions
-- **Capabilities**: 
+- **Capabilities**:
 	- Regenerate if damaged
 	- Record-setting bite force beyond any documented species
 		- He was once instructed to bite through reinforced steel.
 			- He succeeded with minimal effort
 - **Maintenance**: Self-sterilizing due to his passive radiation
+
+### Anatomical Proportions
+
+Godric's anatomy is one of the closest things to perfection most humans would ever see, demonstrating the undeniable peak of the human male physique.
+
+#### Golden Ratio Architecture
+
+Godric's physique demonstrates the golden ration across many anatomical relationships:
+
+| Relationship               | Measurement        | Ratio | Notes                         |
+| -------------------------- | ------------------ | ----- | ----------------------------- |
+| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
+| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
+| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
+| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
+| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
+
+#### Key Measurements
+
+| Feature                      | Measurement     | Elite Human Comparison  | Notes                                                   |
+| ---------------------------- | --------------- | ----------------------- | ------------------------------------------------------- |
+| **Shoulder Width**           | 21.5” (54.6 cm) | 18-20” (45.7-50.8 cm)   | Perfectly balanced to height                            |
+| **Chest Circumference**      | 47” (119.4 cm)  | 40-44” (101.6-111.8 cm) | Expanded by denser musculature                          |
+| **Waist**                    | 33” (83.8 cm)   | 30-34” (76.2-86.4 cm)   | Creates 1.62 ratio to chest                             |
+| **Neck Circumference**       | 17.5” (44.5 cm) | 15-16” (38.1-40.6 cm)   | Thicker than human proportions would suggest            |
+| **Upper Arm (Bicep/Tricep)** | 16.5” (41.9 cm) | 14-16” (35.6-40.6 cm)   | Appears leaner than measurement suggests due to density |
+| **Forearm**                  | 14” (35.6 cm)   | 11-13” (27.9-33 cm)     | Extraordinary bone and muscle density                   |
+| **Wrist**                    | 7.5” (19.1 cm)  | 6-7” (15.2-17.8 cm)     | Structural reinforcement for immense grip strength      |
+| **Hip Width**                | 14.5” (36.8 cm) | 12-14” (30.5-35.6 cm)   | Balanced for optimal leverage                           |
+| **Thigh Circumference**      | 26” (66 cm)     | 22-25” (55.9-63.5 cm)   | Appears leaner than measurement due to density          |
+| **Calf Circumference**       | 17” (43.2 cm)   | 14-16” (35.6-40.6 cm)   | Enhanced lower leg power                                |
+| **Ankle Circumference**      | 9.5” (24.1 cm)  | 8-9” (20.3-22.9 cm)     | Reinforced structure for impact absorption              |
+| **Foot Length**              | 12.5” (31.8 cm) | 10-12” (25.4-30.5 cm)   | US Size 14, proportional to height                      |
+
 ## Physical Characteristics
 
 - **Movement**:
@@ -394,7 +428,7 @@ For the trousers:
 - **Fit**: Enables, rather than impedes, his combat.
 	- Somehow more flattering on his lower region that his usual trousers.
 
-> [!quote] Shameless and Undignified
+> [!quote] Shameless and Undig
 > “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not just a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”

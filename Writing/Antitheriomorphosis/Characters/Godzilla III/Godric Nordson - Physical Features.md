@@ -92,13 +92,13 @@ His skin presents a deceptively normal appearance that masks extraordinary prope
 
 Godric's physique demonstrates the golden ratio (approximately 1:1.618) across multiple anatomical relationships:
 
-| Relationship | Measurement | Ratio | Notes |
-|--------------|-------------|-------|-------|
-| **Height to Navel** | 196 cm to 121 cm | 1.619 | Perfect golden ratio division |
-| **Shoulder to Waist** | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion |
-| **Upper to Lower Leg** | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation |
-| **Forearm to Hand** | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension |
-| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure |
+| Relationship               | Measurement        | Ratio | Notes                         |
+| -------------------------- | ------------------ | ----- | ----------------------------- |
+| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
+| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
+| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
+| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
+| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
 
 ### Key Measurements
 
