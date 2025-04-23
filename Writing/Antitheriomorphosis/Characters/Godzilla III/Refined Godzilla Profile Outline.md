@@ -6,6 +6,18 @@ tags: [atm, wip]
 
 ## Physical Features
 
+|     Attribute      | Details                                                                                | Notes |
+| :----------------: | :------------------------------------------------------------------------------------- | :---- |
+|   **Human Name**   | Godric Nordson                                                                         |       |
+|   **Titan Name**   | Godzilla / Gojira                                                                      |       |
+|     **Title**      | Alpha Paramount, King of the Monsters                                                  |       |
+|     **Height**     | 6'5” (196 cm)                                                                          |       |
+|     **Weight**     | 265 lbs (120 kg)                                                                       |       |
+|    **Body Fat**    | 10-12% (Active Season: December-August)<br>15-18% (Dormant Season: September-November) |       |
+| **Documented Age** | 25 years                                                                               |       |
+|   **Actual Age**   | Approximately 250 million years                                                        |       |
+|    **Birthday**    | November 3 (Administrative designation)                                                |       |
+
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla / Gojira
 	- He answers to both
@@ -50,6 +62,7 @@ tags: [atm, wip]
 		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
 	- Some people think he looks older than his apparent age (25), likely due to his regal and stoic bearing
 		- He also doesn't act like a 25 year old sometimes
+
 > [!quote] Young Regality
 > “Why did we even document him as 25 years old?”
 > “You can't see it?! He looks younger than some of our junior staff!”
@@ -62,9 +75,6 @@ tags: [atm, wip]
 ### Facial Features
 
 - **Shape**: Square-like with defined jawline
-- 
-
-
 
 ## Physical Characteristics
 

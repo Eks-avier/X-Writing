@@ -5,5 +5,7 @@
   "baseFontSize": 12,
   "nativeMenus": false,
   "showRibbon": false,
-  "textFontFamily": "Rubik"
+  "textFontFamily": "Quintessential",
+  "interfaceFontFamily": "Rubik",
+  "monospaceFontFamily": "JetBrains Mono"
 }
