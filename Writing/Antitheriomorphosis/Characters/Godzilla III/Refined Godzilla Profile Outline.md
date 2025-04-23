@@ -131,7 +131,7 @@ Godric's physique demonstrates the golden ration across many anatomical relation
 | ---------------------------- | --------------- | ----------------------- | ------------------------------------------------------- |
 | **Shoulder Width**           | 21.5” (54.6 cm) | 18-20” (45.7-50.8 cm)   | Perfectly balanced to height                            |
 | **Chest Circumference**      | 47” (119.4 cm)  | 40-44” (101.6-111.8 cm) | Expanded by denser musculature                          |
-| **Waist**                    | 33” (83.8 cm)   | 30-34” (76.2-86.4 cm)   | Creates 1.62 ratio to chest                             |
+| **Waist**                    | 34.6” (83.8 cm) | 30-34” (76.2-86.4 cm)   | Creates 1.62 ratio to chest                             |
 | **Neck Circumference**       | 17.5” (44.5 cm) | 15-16” (38.1-40.6 cm)   | Thicker than human proportions would suggest            |
 | **Upper Arm (Bicep/Tricep)** | 16.5” (41.9 cm) | 14-16” (35.6-40.6 cm)   | Appears leaner than measurement suggests due to density |
 | **Forearm**                  | 14” (35.6 cm)   | 11-13” (27.9-33 cm)     | Extraordinary bone and muscle density                   |
