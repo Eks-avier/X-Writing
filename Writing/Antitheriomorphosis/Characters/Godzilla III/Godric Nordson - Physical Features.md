@@ -92,13 +92,13 @@ His skin presents a deceptively normal appearance that masks extraordinary prope
 
 Godric's physique demonstrates the golden ratio (approximately 1:1.618) across multiple anatomical relationships:
 
-| Relationship               | Measurement        | Ratio | Notes                         |
-| -------------------------- | ------------------ | ----- | ----------------------------- |
-| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
-| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
-| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
-| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
-| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
+| Relationship | Measurement | Ratio | Notes |
+|--------------|-------------|-------|-------|
+| **Height to Navel** | 196 cm to 121 cm | 1.619 | Perfect golden ratio division |
+| **Shoulder to Waist** | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion |
+| **Upper to Lower Leg** | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation |
+| **Forearm to Hand** | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension |
+| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure |
 
 ### Key Measurements
 
@@ -106,7 +106,7 @@ Godric's physique demonstrates the golden ratio (approximately 1:1.618) across m
 |---------|-------------|------------------------|-------|
 | **Shoulder Width** | 21.5” (54.6 cm) | 18-20” (45.7-50.8 cm) | Perfectly balanced to height |
 | **Chest Circumference** | 47” (119.4 cm) | 40-44” (101.6-111.8 cm) | Expanded by denser musculature |
-| **Waist** | 34.6” (88 cm) | 30-34” (76.2-86.4 cm) | Creates 1.62 ratio to chest |
+| **Waist** | 33” (83.8 cm) | 30-34” (76.2-86.4 cm) | Creates 1.62 ratio to chest |
 | **Neck Circumference** | 17.5” (44.5 cm) | 15-16” (38.1-40.6 cm) | Thicker than human proportions would suggest |
 | **Upper Arm (Bicep/Tricep)** | 16.5” (41.9 cm) | 14-16” (35.6-40.6 cm) | Appears leaner than measurement suggests due to density |
 | **Forearm** | 14” (35.6 cm) | 11-13” (27.9-33 cm) | Extraordinary bone and muscle density |
