@@ -49,6 +49,18 @@
             }
           },
           {
+            "id": "98dc3585173dfe59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "e88e175aa90c5b41",
             "type": "leaf",
             "state": {
@@ -91,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b50585702dff1c67",
@@ -340,7 +352,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43a15a2a89f2394d",
+  "active": "98dc3585173dfe59",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
