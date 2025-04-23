@@ -50,7 +50,6 @@ tags: [atm, wip]
 		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
 	- Some people think he looks older than his apparent age (25), likely due to his regal and stoic bearing
 		- He also doesn't act like a 25 year old sometimes
-
 > [!quote] Young Regality
 > “Why did we even document him as 25 years old?”
 > “You can't see it?! He looks younger than some of our junior staff!”
@@ -59,6 +58,13 @@ tags: [atm, wip]
 > “In one of those Ivy leagues maybe…?”
 > “Yeah right…”
 > “OH MY GOD, I JUST REALIZED… HE'S A ZOOMER?!”
+
+### Facial Features
+
+- **Shape**: Square-like with defined jawline
+- 
+
+
 
 ## Physical Characteristics
 
