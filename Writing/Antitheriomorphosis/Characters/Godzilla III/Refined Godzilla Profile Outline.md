@@ -74,10 +74,12 @@ Godric's face is described as regal and terrifying. It features a symmetrical st
 
 ### Hair
 
-A reptilian being possessing hair is sure 
+It seems that the coloration of his hair correlates to the coloration of his dorsal fins, which is interesting as his scale color, dorsal fin color and true eye color were inherited from his mother. Such traits within *Titanus gojira* are rare, often likened to a human redhead. Each major faction of *T. gojira* has different colorations. For a typical Northerner like Godzilla's father Dagon, he has charcoal gray scale coloration, dorsal fins as white as snow, and eyes blue as ice. Godric, and his mother in this case, have scales and dorsal fins the color of night with golden eyes.
 
-- 
-
+- **Color**: Pure black
+- **Length**: Short on the sides but slightly thicker and longer at the top
+- **Style**: Typically swept back using his hands with some strands occasionally falling across his forehead
+- **Texture**: Appears soft and is soft to the touch yet resists cutting by conventional tools
 ## Physical Characteristics
 
 - **Movement**:
