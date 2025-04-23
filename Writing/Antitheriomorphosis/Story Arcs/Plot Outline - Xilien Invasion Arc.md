@@ -1,9 +1,9 @@
-## The Xillien Invasion Arc (2023-2024)
+# Plot Outline - Xilien Invasion Arc
 
 ### Battra's Return to Earth
 
 - When the Divine Mandate weakened, Battra detected Earth's location
-- Allied with the Xilliens to facilitate his return
+- Allied with the Xiliens to facilitate his return
 - Chose a “longer roundabout way” to avoid alerting Earth's Titans to his return
 - His caution demonstrates respect for his sister's power despite their rivalry
 - Requires more development
@@ -12,7 +12,7 @@
 
 - Prepared six additional lives stored in gems on a crown he wears
 - Adaptation for his inability to create a Reincarnation Egg
-- His circumvention of the Divine Covenant of the Titanus Mosura was to exchange his ability to lay a Reincarnation Egg, having to share instead with his sister, in exchange for the ability to use magic
+- His circumvention of the Divine Covenant of the *Titanus msoura* was to exchange his ability to lay a Reincarnation Egg, having to share instead with his sister, in exchange for the ability to use magic
 - Allows him to be “defeated” multiple times while maintaining threat level
 
 ### Major Battle Structure (New Detail)
@@ -35,7 +35,7 @@
    - Gigan is eventually eliminated first
    - Battra is defeated by Mothra
 
-### Battle Convergence and Finale (New Detail)
+### Battle Convergence and Finale
 
 - Battles eventually converge into Mothra vs. Gigan and Battra
 - Then shifts to Godzilla and Mothra vs. Battra and Gigan

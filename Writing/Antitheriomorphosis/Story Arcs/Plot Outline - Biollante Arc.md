@@ -3,7 +3,7 @@ aliases:
   - "BIOLLANTE: BLOSSOMING BONDS - COMPREHENSIVE ARC OUTLIN"
 ---
 
-# BIOLLANTE: BLOSSOMING BONDS
+# Plot Outline - Biollante Arc
 
 ## Comprehensive Arc Outline
 
@@ -159,7 +159,7 @@ aliases:
 
 - Godric arrives to assess threat, joins father at containment perimeter
 - First father-son combat partnership as they implement containment techniques
-- Darius and Godric for the first time fight together 
+- Darius and Godric for the first time fight together
 
 #### The Psionic Approach
 
@@ -553,4 +553,4 @@ aliases:
 - Theoretical framework for consciousness transference
 - Exploration of implications for understanding Antitheriomorphosis
 - Assessment of potential for creating controlled hybrid entities
-- Private notes on familial implications never shared with colleagues 
+- Private notes on familial implications never shared with colleagues

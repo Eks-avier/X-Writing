@@ -1,4 +1,4 @@
-# Keystone: Arc Outline and Character Dynamics
+# Plot Outline - Keystone Arc
 
 ## Arc Overview
 
@@ -273,7 +273,6 @@ The arc concludes with the quartet finding renewed connection with each other wh
   - Prohibition against certain types of magic on Earth
   - Requirement to eventually solve the Antitheriomorphosis
   - Godric and Maria's authority to dissolve the Vow at their discretion
-
 - **Symbolic Significance**:
   - Represents Battra's reintegration into Earth's power structure
   - Acknowledges his responsibility in the conflict that led to his defeat

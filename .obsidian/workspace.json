@@ -68,30 +68,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
+                "file": "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biollante, the Rose of the North"
-            }
-          },
-          {
-            "id": "94b782cb733d294e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keystone Arc"
+              "title": "The First Divine Moth Sorcerer in Generations"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "b50585702dff1c67",
@@ -146,7 +132,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -204,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436
+    "width": 436,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -220,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md"
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Keystone Arc"
+              "title": "File properties for Plot Outline - Dagon Resurrection Arc"
             }
           },
           {
@@ -265,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Keystone Arc"
+              "title": "Outline of Plot Outline - Dagon Resurrection Arc"
             }
           },
           {
@@ -326,34 +313,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94b782cb733d294e",
+  "active": "fa53d5fbc7e7a28c",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Story Arcs/Edelweiss .md",
-    "Writing/Antitheriomorphosis/Story Arcs/Medieval AU - Drop Off.md",
+    "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
+    "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
+    "Writing/Antitheriomorphosis/The Eavesdropper.md",
+    "Writing/Antitheriomorphosis/The Divine Inheritance.md",
+    "Writing/Antitheriomorphosis/Power Dynamics.md",
+    "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
+    "Writing/Antitheriomorphosis/Integral Character Themes.md",
+    "Writing/Antitheriomorphosis/Exceptional.md",
+    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
+    "Writing/Antitheriomorphosis/Settings/Castle Bravo.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Concept - Medieval AU.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Biollante Arc.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Keystone Arc.md",
     "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - The Winter Cycle.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Plot Outline - Link Disconnected.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 3.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 2.md",
     "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 1.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
-    "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Domestic Fantasy/5 - First Day in Meadowvale.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Dagon Resurrection Arc.md",
-    "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Energy Domination.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physical Capabilities and Combat.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Biology and Physiology.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
-    "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",

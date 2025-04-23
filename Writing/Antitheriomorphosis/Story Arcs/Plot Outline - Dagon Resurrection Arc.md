@@ -1,4 +1,4 @@
-# The Echo of Bones: Dagon's Resurrection Narrative Framework
+# Plot Outline - Dagon Resurrection Arc
 
 ## Timeline Placement
 
