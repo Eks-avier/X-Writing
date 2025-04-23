@@ -88,12 +88,34 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 
 ### Eyes
 
+- **Faux Eye Color**: Light blue (default state)
+- **True Eye Color**: Gold
+
 To most people, and even to Monarch, Godric's eyes is a striking light blue. This is accurately represented in all his documentations prepared by Monarch.
 
-However, to those who know him intimately, his true eye color is gold, which he inherited from his mother instead of the standard shades of blue of the Northern Race of *Titanus gojira* like his father.
+However, to those who know him intimately, his true eye color is gold, which he inherited from his mother instead of the standard shades of blue of the Northern Race of *Titanus gojira* like his father. Though, as a result of atomic energy coursing through him, his eyes are often obscured by its bluish hue.
 
-- **Faux Eye Color**: Light blue (default state)
-	- 
+A *Titanus gojira* constantly has atomic energy coursing through its veins, though it is typically not enough to conceal their natural eye colors. This suggests that Godric is constantly on guard for literal millions of years. Hence, even when in moments where he seems to be immobile and resting, his eyes remain blue. Seldom does the gold ever reveal itself, a symbol of his perpetual vigilance.
+
+His gold eyes only reveal themselves when his guard is down, meaning his energy is coursing regularly, or when he is emotionally authentic with people. Both scenarios happen so rarely that despite existing for a quarter of a billion years, his true eye color has only been seen by a handful of beings.
+
+### Skin
+
+His skin appears to be deceptively normal.
+
+- **Color**: Caucasian with slight tan
+	- The tan is caused by his constant exposure in the sun
+	- It fades when winter comes
+- **Texture**: Slightly rough as if worked by the elements
+- **Distinctive Features**:
+	- A complete absence of blemishes
+	- No scars despite millions of years of combat
+	- No birthmarks or identifying marks of any kind
+	- Refuses any tattoos
+		- They fade almost immediately
+
+Among *Titanus gojira*, markings of any kind are 
+
 ## Physical Characteristics
 
 - **Movement**:
