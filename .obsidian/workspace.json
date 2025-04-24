@@ -61,37 +61,9 @@
               "icon": "lucide-file",
               "title": "Mothra, the Queen of the Monsters"
             }
-          },
-          {
-            "id": "fa53d5fbc7e7a28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The First Divine Moth Sorcerer in Generations"
-            }
-          },
-          {
-            "id": "0462fa9f4c3a35a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TITANUS GOJIRA SPECIES & CULTURE"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "b50585702dff1c67",
@@ -141,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,13 +313,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0462fa9f4c3a35a6",
+  "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+    "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
+    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
-    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
-    "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
     "Writing/Antitheriomorphosis/Voices of the Titans - Nordsons.md",
     "Writing/Antitheriomorphosis/The Eavesdropper.md",
     "Writing/Antitheriomorphosis/The Divine Inheritance.md",
@@ -366,9 +341,6 @@
     "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - The Winter Cycle.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Link Disconnected/Link Disconnected à la Claude AI 3.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",

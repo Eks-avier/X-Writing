@@ -144,6 +144,21 @@ Godric's physique demonstrates the golden ration across many anatomical relation
 
 ## Physical Characteristics
 
+### Movement & Posture
+
+Godric's movement patterns reflect his stoic and regal nature.
+
+- **Gait**: Economic and tactical, utilizing minimal energy for maximum effort
+- **Grace**: Surprisingly graceful despite his imposing frame
+- **Balance**: Perfect equilibrium in all positions or terrain
+	- When he kept tripping over himself during his first moments as a human, it's because he still moved as if he had a tail.
+- **Posture**: Effortless military bearing, with a spine perfectly aligned
+- **Quirks**:
+	- Never bows, even when it is required
+	- Never looks down to those smaller than him
+	- Never looks up to those taller than him
+- ****
+
 - **Movement**:
 	- Economic and tactical, whether in daily life or in combat situations
 	- Graceful in spite of his height and weight
