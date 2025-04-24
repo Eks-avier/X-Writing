@@ -181,6 +181,18 @@ His mere presence creates certain physiological effects on others, whether Titan
 		- Economical with word choice
 			- Naturally selects the most concise way to speak
 
+### Heavier Than He Looks
+
+The most significant disconnect between Godric's appearance and reality is his extraordinary density:
+- **Appears to have proportions of someone weighing**: 85-90 kg (187-198 lbs)
+- **Actual weight**: 120 kg (265 lbs)
+- **Effective density**: Approximately 1.35× greater than his appearance suggests
+
+This density is distributed throughout his entire structure:
+- Bone density 2.6 g/cm³ (human average: 1.5-1.8 g/cm³)
+- Muscle tissue density 1.9 g/cm³ (human average: 1.06 g/cm³)
+- Organ tissue density approximately 1.3× human average
+
 ### Biological Advantages
 
 - **Thermal Regulation**: His elevated temperature allows him to be unaffected by the cold
@@ -195,9 +207,9 @@ His mere presence creates certain physiological effects on others, whether Titan
 			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
 				- *Dad, this isn't necessary--*
 				- *You haven't heard what they whisper; it's for their own safety, not his.*
-		- In the dark of night, will drop into the waters surrounding Castle Bravo to swim leisurely.
-			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.*
-			- *That's a bit too dramatic, don't you think?*
+		- In the dark of night, he will drop into the waters surrounding Castle Bravo to swim leisurely.
+			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.* - Madison Russell
+			- *That's a bit too dramatic, don't you think?* - Dr. Rick Stanton
 		- Stays submerged underwater for extended periods, alarming people who don't know who he is
 			- He can hold his breath for an extended amount of time
 				- Learning of ways to indefinitely remain submerged again.
@@ -208,14 +220,14 @@ His mere presence creates certain physiological effects on others, whether Titan
 	- Still uses basic products suggested by Madison, particularly when it concerns his hair
 	- Scents don't adhere to his skin
 	- Possesses a unique scent
-- **Radiation Cleansing**: When finding himself absolutely filthy, employs as an elevated energy output
-	- Boils everything in a short radius around him
+- **Radiation Cleansing**: When finding himself absolutely filthy, employs an elevated energy output
+	- Heats everything to the point of boiling in a short radius around him
 	- Lethal to non-Titans
 
 ### Biohazard Considerations
 
 - **Bodily Fluids**: All of them are potentially harmful to humans
-	- Elevated temperature alone can cause damage!
+	- Elevated temperature during his power use alone can cause damage!
 	- His radioactive emissions can vary with emotional and physical state
 	- Direct contact protocols were implemented
 - **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
@@ -223,7 +235,7 @@ His mere presence creates certain physiological effects on others, whether Titan
 	- Long-term exposure seems to play a part in creating limited adaptation
 	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
 		- Fuels people's delusional desires to be near him even more
-			- *You didn't have to mention that little factoid.*
+			- *You didn't have to mention that little factoid; now everyone's gonna try *
 		- Both theories are considered, though most lean heavily into Godric's improving control
 
 > [!quote]

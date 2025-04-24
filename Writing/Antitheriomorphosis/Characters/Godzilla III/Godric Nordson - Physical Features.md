@@ -117,18 +117,7 @@ Godric's physique demonstrates the golden ratio (approximately 1:1.618) across m
 | **Ankle Circumference** | 9.5” (24.1 cm) | 8-9” (20.3-22.9 cm) | Reinforced structure for impact absorption |
 | **Foot Length** | 12.5” (31.8 cm) | 10-12” (25.4-30.5 cm) | US Size 14, proportional to height |
 
-### The Density Paradox
 
-The most significant disconnect between Godric's appearance and reality is his extraordinary density:
-
-- **Appears to have proportions of someone weighing**: 85-90 kg (187-198 lbs)
-- **Actual weight**: 120 kg (265 lbs)
-- **Effective density**: Approximately 1.35× greater than his appearance suggests
-
-This density is distributed throughout his entire structure:
-- Bone density 2.6 g/cm³ (human average: 1.5-1.8 g/cm³)
-- Muscle tissue density 1.9 g/cm³ (human average: 1.06 g/cm³)
-- Organ tissue density approximately 1.3× human average
 
 ## Physical Characteristics
 
