@@ -178,6 +178,7 @@ His mere presence creates certain physiological effects on others, whether Titan
 		- Naturally emphasizes important points
 		- Economical with word choice
 			- Naturally selects the most concise way to speak
+
 ### Biological Advantages
 
 - **Thermal Regulation**: His elevated temperature allows him to be unaffected by the cold
@@ -227,9 +228,12 @@ His mere presence creates certain physiological effects on others, whether Titan
 > “That is *so* cool!”
 > “Madison, it's not cool to be tagged for potential radioactive contaminat--”
 > “Am I gonna breathe atomic energy too?!”
-> “God help us all if that ever happened.
+> “God help us all if that ever happened."
 
-## Seasonal Physique
+## Seasonal Physique Variation
+
+> [!important] Voluntary Cycle
+> Unlike other organisms whose seasonal changes are driven by biological imperatives, Godric's seasonal cycle represents a purely voluntary adaptation following the Antitheriomorphosis.
 
 - **Active Season**:
 	- 10% to 12% body fat
@@ -247,7 +251,7 @@ His mere presence creates certain physiological effects on others, whether Titan
 	- Established post-Antitheriomorphosis
 	- Began in 2021
 
-To achieve this bulk, **he has to eat more**. 
+To achieve this bulk, **he has to eat more**.
 
 > [!note] Energy Source Transition
 > During dormant periods, Godric's metabolism shifts from radiation-based to conventional nutrition—a state that more closely resembles human metabolic processes. This represents the only time he genuinely requires food rather than consuming it for pleasure or social integration.
