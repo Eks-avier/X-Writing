@@ -235,12 +235,12 @@ This density is distributed throughout his entire structure:
 	- Long-term exposure seems to play a part in creating limited adaptation
 	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
 		- Fuels people's delusional desires to be near him even more
-			- *You didn't have to mention that little factoid; now everyone's gonna try *
+			- *You didn't have to mention that little factoid; now everyone's gonna try clamoring over him more!*
 		- Both theories are considered, though most lean heavily into Godric's improving control
 
 > [!quote]
 > “That is *so* cool!”
-> “Madison, it's not cool to be tagged for potential radioactive contaminat--”
+> “Madison, it's not cool to be tagged for potential radioactive contaminat-”
 > “Am I gonna breathe atomic energy too?!”
 > “God help us all if that ever happened.”
 
