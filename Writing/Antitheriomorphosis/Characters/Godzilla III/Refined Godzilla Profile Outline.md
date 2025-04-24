@@ -247,6 +247,11 @@ His mere presence creates certain physiological effects on others, whether Titan
 	- Established post-Antitheriomorphosis
 	- Began in 2021
 
+To achieve this bulk, **he has to eat more**. 
+
+> [!note] Energy Source Transition
+> During dormant periods, Godric's metabolism shifts from radiation-based to conventional nutrition—a state that more closely resembles human metabolic processes. This represents the only time he genuinely requires food rather than consuming it for pleasure or social integration.
+
 ## Attire
 
 ### Daily
