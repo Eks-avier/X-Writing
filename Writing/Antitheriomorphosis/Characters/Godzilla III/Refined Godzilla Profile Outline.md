@@ -4,6 +4,8 @@ tags: [atm, wip]
 
 # Refined Godzilla Profile
 
+# Physical Profile
+
 ## Physical Features
 
 - **Human Name**: Godric Nordson
@@ -473,7 +475,7 @@ For the trousers:
 - **Fit**: Enables, rather than impedes, his combat.
 	- Somehow more flattering on his lower region that his usual trousers.
 
-> [!quote]  
+> [!quote]
 > “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not just a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
@@ -632,7 +634,7 @@ Godric's relationship with Atlantis reveals his unique temporal perspective:
 
 Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his “territory,” whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
 
-### Hair
+### Hair Grooming
 
 - **Initial State**: First discovered in human form with long hair
 	- Maintained this length for about three months
@@ -648,7 +650,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 		- Maria secretly found this charming
 	- Plans future maintenance cut to a few centimeters longer than buzz cut
 
-### Facial Grooming
+### Facial Hygiene
 
 - **Management**: Maintains a clean-shaven appearance
 	- Shaves regularly due to moderately rapid hair growth
@@ -682,7 +684,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- Visible steam effect is emitted in cold environments
 		- Is attempting to conceal this through improved energy modulation
 
-### Relationship with Sleep
+## Relationship with Sleep
 
 - Key concepts to understand:
 	1. He does **not** require sleep
@@ -708,7 +710,7 @@ Godric's favorite way to cut down fat is swimming. He'll swim for miles, sometim
 
 The reasoning behind the cycle's dates is simple. His dormant periods coincide with less human activity and he wakes up just in time for holidays.
 
-## History
+# History
 
 ### Name History
 
@@ -774,8 +776,8 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 				  - Madison also thought it sounded regal
 		  - Henceforth, he shall be known as Godric Nordson
 
-## Abilities
+# Abilities
 
-## Relationships
+# Relationships
 
-## Role in the Story
+# Role in the Story
