@@ -23,7 +23,7 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
 
 ### Raw Power Output
 
-- **Baseline Level**: Capable of lifting approximately 30-40 tons without energy enhancement
+- **Baseline Level**: Capable of lifting approximately 30-50 tons without energy enhancement
 - **Force Generation**: Punches can shatter reinforced concrete and bend steel
 - **Grip Strength**: Can crush titanium alloys with bare hands
 - **Structural Integrity**: Body capable of exerting maximum force without self-injury
@@ -76,8 +76,6 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
   - Functions normally with multiple penetrating wounds
   - Often responds to severe injuries with apparent amusement
   - Limits unknown as no injury has yet triggered incapacitation through pain alone
-
-````
 
 ## Enhanced Senses
 

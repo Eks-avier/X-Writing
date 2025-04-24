@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 51.19808306709265,
+        "dimension": 54.540481400437635,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -68,7 +68,7 @@
       {
         "id": "b50585702dff1c67",
         "type": "tabs",
-        "dimension": 48.801916932907346,
+        "dimension": 45.459518599562365,
         "children": [
           {
             "id": "290a1dfd339bcf41",
@@ -252,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8 - Base Physical Capabilities"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -295,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,8 +313,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69e2c72fa99bb1d",
+  "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
@@ -339,7 +341,6 @@
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Keystone Arc.md",
     "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - The Winter Cycle.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",

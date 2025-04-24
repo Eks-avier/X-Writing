@@ -228,7 +228,7 @@ His mere presence creates certain physiological effects on others, whether Titan
 > “That is *so* cool!”
 > “Madison, it's not cool to be tagged for potential radioactive contaminat--”
 > “Am I gonna breathe atomic energy too?!”
-> “God help us all if that ever happened."
+> “God help us all if that ever happened.”
 
 ## Seasonal Physique Variation
 
@@ -387,6 +387,37 @@ On a slightly unrelated tangent, the combination of Godzilla scales and hide and
 
 Monarch has attempted to synthesize it repeatedly to no avail; they got the durability down, but not the regenerative capability or the energy compatibility. They won't even bother with Mothra's silk, it's utterly impossible. Besides, she's rather generous with it anyway.
 
+### Personal Artifacts
+
+As for some of his personal artifacts:
+- A pocket watch from Ishiro's father Eiji Serizawa; nonfunctional, its hands are stuck due to the atomic bomb that destroyed Hiroshima
+	- It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
+	- Godric is debating on making it work again.
+- Several leather-bound notebooks that contained the personal thoughts, theories, and analyses of Ishiro and his father on Godzilla through the years.
+	- Eiji's notebooks were originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
+		- Ishiro gave his own notebooks to Mark just before he sacrificed himself.
+	- Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, sometimes wishing Ishiro was still alive for conversation.
+		- He found it funny; no one would have been more delighted to see him as a human.
+- Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
+- A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
+	- Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
+         - Godric did not respond, but the offer remains open.
+	- When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
+- A state-of-the-art and latest in model tablet. At least this one people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
+- A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
+- Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
+- Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
+- Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
+- Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
+	- Their designs are plain, modest, with no embellishments
+	- They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
+	- Maria has her favorites, though she never says which. She just stares.
+
+> [!quote]
+> “Do we tell her it's inappropriate?”
+> “It looks like she's gazing at his… you know…”
+> “It's kinda cute; she thinks we don't notice.”
+
 ### Titan Regalia
 
 This uniform is modeled after a typical three-piece suit, though modified to greatly enable combat.
@@ -442,7 +473,7 @@ For the trousers:
 - **Fit**: Enables, rather than impedes, his combat.
 	- Somehow more flattering on his lower region that his usual trousers.
 
-> [!quote] Shameless and Undig
+> [!quote]  
 > “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not just a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
@@ -462,33 +493,6 @@ He does his own laundry, his own room cleaning, even the door of his room is spo
 “A king is a king, apparently.”
 
 When asked, Godric simply said that he doesn't like his territory to look ugly.
-
-As for some of his personal artifacts:
-- A pocket watch from Ishiro's father Eiji Serizawa; nonfunctional, its hands are stuck just before the atomic bomb that day was dropped.
-	- It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
-	- Godric is debating on making it work again.
-- Several leather-bound notebooks that contained the personal thoughts and theories of Ishiro and his father on Godzilla through the years.
-	- Originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
-	- Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, and sometimes he wished Ishiro was still alive for conversation.
-- Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
-- A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
-	- Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
-         - Godric did not respond, but the offer remains open.
-	- When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
-- A state-of-the-art and latest in model tablet. At least this one, people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
-- A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
-- Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
-- Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
-- Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
-- Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
-	- Their designs are plain, modest, with no embellishments
-	- They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
-	- Maria has her favorites, though she never says which. She just stares.
-
-> [!quote]
-> “Do we tell her it's inappropriate?”
-> “It looks like she's gazing at his… you know…”
-> “It's kinda cute; she thinks we don't notice.”
 
 ## Pickup Truck
 
