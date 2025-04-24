@@ -252,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Outline - Dagon Resurrection Arc"
+              "title": "Outline of Refined Godzilla Profile Outline"
             }
           },
           {
@@ -295,8 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,8 +315,8 @@
   "active": "43a15a2a89f2394d",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
     "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",

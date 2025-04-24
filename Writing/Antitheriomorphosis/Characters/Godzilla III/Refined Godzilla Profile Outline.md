@@ -144,8 +144,6 @@ Godric's physique demonstrates the golden ration across many anatomical relation
 
 ## Physical Characteristics
 
-### Movement & Posture
-
 Godric's movement patterns reflect his stoic and regal nature.
 
 - **Gait**: Economic and tactical, utilizing minimal energy for maximum effort
@@ -157,41 +155,34 @@ Godric's movement patterns reflect his stoic and regal nature.
 	- Never bows, even when it is required
 	- Never looks down to those smaller than him
 	- Never looks up to those taller than him
-- ****
+	- These are all subconscious, people are forced to adjust to him
 
-- **Movement**:
-	- Economic and tactical, whether in daily life or in combat situations
-	- Graceful in spite of his height and weight
-	- Perfectly balanced
-- **Posture**: Perfect and subconsciously effortless military bearing
-	- Subconsciously never bows, looks down, or looks up.
-		- Those who are taller than him are compelled to look down
-		- Those who are shorter than him are forced to look up
-		- In the event that he is “required” to bow or look down, he won't
-- **Presence**: Passively threatening and intimidating causing people's fight or flight instinct to be triggered often.
-	- Some subconsciously cower
-	- Some flee the area without knowing why
-	- Some freeze in their spots and experience elevated sweat response
-- **Expression**:
-	- Almost always stoic
-	- Favors micro-expressions
-- **Stillness**: Can remain perfectly motionless for extended periods of time when observing
+His mere presence creates certain physiological effects on others, whether Titan, human, or animal.
+
+- Animals either cower or become submissive
+- The fight-or-flight response is passively triggered for most humans
+	- People often find reason to leave him or defer to him
+- Some people do get used to the sensation or are curiously not affected, though this phenomena is incredibly rare.
+	- As far as people are concerned only Madison Russell is unaffected, allowing her to act in light-hearted ways with him
+		- Godric very much appreciates this
 - **Sunbathing**: A habit he likes to do recreationally; it also allows him to absorb solar energy at the same time
 - **Voice**:
 	- Deep, resonant baritone
 	- Naturally rich and clear
 	- Velvety smooth, with natural gravitas that can easily command attention
 		- Can definitely be mistaken as seductive, though that's just delusion most of the time
-	- Can fill a room without even
+	- Can fill a room without even trying
+	- Doesn't have any particular side effects besides being attractive to people
 	- **Speech**:
 		- Measured and deliberately paced; rarely rushes words
 		- Naturally emphasizes important points
 		- Economical with word choice
 			- Naturally selects the most concise way to speak
-- **Temperature**: Possesses a highly elevated body temperature, most noticeable in winter wherein he requires little to no protection
-
 ### Biological Advantages
 
+- **Thermal Regulation**: His elevated temperature allows him to be unaffected by the cold
+	- Hence why he requires little to no clothing in winter
+		- Though of course he attempts to cover this up to avoid suspicion
 - **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
 	- Renders traditional hygiene products unnecessary
 	- Maintains effortless pristine cleanliness
@@ -251,7 +242,6 @@ Godric's movement patterns reflect his stoic and regal nature.
 	- Spans September to November
 	- Softer musculature
 	- Softened facial features
-	- Eats more
 	- Lower body temperature
 - **Notes**:
 	- Established post-Antitheriomorphosis
