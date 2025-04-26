@@ -45,13 +45,14 @@ tags: [atm, wip]
 
 ### Facial Structure
 
-Godric's face is described as regal and terrifying. It features a symmetrical structure that projects natural authority.
+Godric's face embodies classical masculine perfection, an uncanny combination of regality, r. It features a symmetrical structure that projects natural authority.
 
 - **Shape**: Square with an angular and defined jawline
 - **Features**: High cheekbones and strong, but not overly dramatic, brow ridge that gives his eye a subtle shadow
 - **Symmetry**: Near-perfect facial harmony (98.7% bilateral symmetry)
 - **External Perception**: Often appears older than documented age due to stoic and regal bearing
 - **Expression**: Predominantly stoic with subtle micro-expressions
+
 
 ### Hair
 
@@ -78,7 +79,7 @@ However, to those who know him intimately, his true eye color is gold, which he 
 
 A *Titanus gojira* constantly has atomic energy coursing through its veins, though it is typically not enough to conceal their natural eye colors. This suggests that Godric is constantly on guard for literal millions of years. Hence, even when in moments where he seems to be immobile and resting, his eyes remain blue. Seldom does the gold ever reveal itself, a symbol of his perpetual vigilance.
 
-His gold eyes only reveal themselves when his guard is down, meaning his energy is coursing regularly, or when he is emotionally authentic with people. Both scenarios happen so rarely that despite existing for a quarter of a billion years, his true eye color has only been seen by a handful of beings.
+His gold eyes only reveal themselves when his guard is down, causing his energy to course regularly, or when he is emotionally authentic with people. Both scenarios happen so rarely that despite existing for a quarter of a billion years, his true eye color has only been seen by a handful of beings.
 
 ### Skin
 
@@ -115,18 +116,6 @@ His teeth appear entirely human at a glance.
 
 Godric's anatomy is one of the closest things to perfection most humans would ever see, demonstrating the undeniable peak of the human male physique.
 
-#### Golden Ratio Architecture
-
-Godric's physique demonstrates the golden ration across many anatomical relationships:
-
-| Relationship               | Measurement        | Ratio | Notes                         |
-| -------------------------- | ------------------ | ----- | ----------------------------- |
-| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
-| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
-| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
-| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
-| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
-
 #### Key Measurements
 
 | Feature                      | Measurement     | Elite Human Comparison  | Notes                                                   |
@@ -143,6 +132,18 @@ Godric's physique demonstrates the golden ration across many anatomical relation
 | **Calf Circumference**       | 17” (43.2 cm)   | 14-16” (35.6-40.6 cm)   | Enhanced lower leg power                                |
 | **Ankle Circumference**      | 9.5” (24.1 cm)  | 8-9” (20.3-22.9 cm)     | Reinforced structure for impact absorption              |
 | **Foot Length**              | 12.5” (31.8 cm) | 10-12” (25.4-30.5 cm)   | US Size 14, proportional to height                      |
+
+#### Golden Ratio Architecture
+
+Godric's physique demonstrates the golden ration across many anatomical relationships:
+
+| Relationship               | Measurement        | Ratio | Notes                         |
+| -------------------------- | ------------------ | ----- | ----------------------------- |
+| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
+| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
+| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
+| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
+| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
 
 ## Physical Characteristics
 
