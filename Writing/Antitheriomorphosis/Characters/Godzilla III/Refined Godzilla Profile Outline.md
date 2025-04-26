@@ -53,7 +53,6 @@ Godric's face embodies classical masculine perfection, an uncanny combination of
 - **External Perception**: Often appears older than documented age due to stoic and regal bearing
 - **Expression**: Predominantly stoic with subtle micro-expressions
 
-
 ### Hair
 
 It seems that the coloration of his hair correlates to the coloration of his dorsal fins, which is interesting as his scale color, dorsal fin color and true eye color were inherited from his mother. Such traits within *Titanus gojira* are rare, often likened to a human redhead. Each major faction of *T. gojira* has different colorations. For a typical Northerner like Godzilla's father Dagon, he has charcoal gray scale coloration, dorsal fins as white as snow, and eyes blue as ice. Godric, and his mother in this case, have scales and dorsal fins the color of night with golden eyes.
@@ -137,13 +136,15 @@ Godric's anatomy is one of the closest things to perfection most humans would ev
 
 Godric's physique demonstrates the golden ration across many anatomical relationships:
 
-| Relationship               | Measurement        | Ratio | Notes                         |
-| -------------------------- | ------------------ | ----- | ----------------------------- |
-| **Height to Navel**        | 196 cm to 121 cm   | 1.619 | Perfect golden ratio division |
-| **Shoulder to Waist**      | 54.6 cm to 33.7 cm | 1.620 | Classic V-taper proportion    |
-| **Upper to Lower Leg**     | 59.3 cm to 36.7 cm | 1.616 | Ideal leg segmentation        |
-| **Forearm to Hand**        | 35.6 cm to 22.1 cm | 1.611 | Harmonious arm extension      |
-| **Facial Width to Height** | 16.2 cm to 26.3 cm | 1.623 | Balanced facial structure     |
+| Relationship               | Measurement [cm] | Ratio | Notes                         |
+| -------------------------- | ---------------- | ----- | ----------------------------- |
+| **Height to Navel**        | 196 to 121       | 1.619 | Perfect golden ratio division |
+| **Shoulder to Waist**      | 54.6 to 33.7     | 1.620 | Classic V-taper proportion    |
+| **Upper to Lower Leg**     | 59.3 to 36.7     | 1.616 | Ideal leg segmentation        |
+| **Forearm to Hand**        | 35.6 to 22.1     | 1.611 | Harmonious arm extension      |
+| **Arm Length to Torso**    | 89.1 to 55.0     | 1.620 | Classical Proportioning       |
+| **Hand Length to Palm**    | 22.1 to 13.5     | 1.623 |                               |
+| **Facial Width to Height** | 16.2 to 26.3     | 1.623 | Balanced facial structure     |
 
 ## Physical Characteristics
 
