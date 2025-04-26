@@ -83,7 +83,21 @@ In an effort to properly translate his Northern *Titanus gojira* heritage, the m
 | **Celtic**             | 25%            | Skin texture, muscular density, slight weathering quality   |
 | **Slavic**             | 20%            | Subtle cheekbone structure, eye placement, neck musculature |
 
-This blend produces a face that seems broadly recognizable to Northern Europeans, yet when he moves his f
+This blend produces a face that seems broadly recognizable to Northern Europeans, until he moves his face. Such an effect makes him familiar yet unplaceable. Sometimes he'll appear a marvel of antiquity, and sometimes he'll seem like a master of the wilderness.
+
+### Refined Ruggedness
+
+
+> [!important] Rugged Regality
+> Godric embodies a peculiar contradiction: mathematical perfection merged cleanly with primordial wilderness, a man of order and an untamed beast
+
+#### The Ordered Man
+
+- **Museum Quality**: Appears as the perfect classical specimen ready for a shift in a museum
+- **Impression**: A Renaissance painting made real, he evokes nobility and formal authority
+- **Social Context**: Would fit in formal events, hidden in the background yet undeniably attention-grabbing
+- 
+
 
 ### Hair
 
