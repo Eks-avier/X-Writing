@@ -47,7 +47,7 @@ tags: [atm, wip]
 
 Godric's face combines mathematical precision and balance with elemental weathering to create something simultaneously classical and primal.
 
-- **Overall Shape**: Square with an angles and definition that is both pronounced yet not at all exaggerated 
+- **Overall Shape**: Square with an angles and definition that is both pronounced yet not at all exaggerated
 - **Jawline**: Sharply defined with perfect bilateral symmetry; creates a strong horizontal line
 - **Cheekbones**: High and prominent without being too sharp nor dramatic, allowing for natural shadows to be produced beneath
 - **Brow**: Strong, but neither overly heavy nor dramatic brow ridge that casts his eyes in a subtle shadow
@@ -72,8 +72,18 @@ Godric's near-perfect 98.7% bilateral symmetry creates an unconscious, instinctu
 - A near-perfect distribution of modest body hair
 - Perfect alignment of teeth
 
-## Blend of European Ethnicities
+## Balanced Blend of European Ethnicities
 
+In an effort to properly translate his Northern *Titanus gojira* heritage, the mysterious Antitheriomorphosis has drawn from subtle yet unmistakable Northern European aesthetics, that is then blended with primarily with Mediterranean ideals and subtly with Slavic ones.
+
+| **Heritage Influence** | **Percentage** | **Primary Features**                                        |
+| ---------------------- | -------------- | ----------------------------------------------------------- |
+| **Nordic & Germanic**  | 30%            | Strong jawline, brow structure, height proportions          |
+| **Greco-Roman**        | 25%            | Nose structure, facial symmetry, golden-ratio adherence     |
+| **Celtic**             | 25%            | Skin texture, muscular density, slight weathering quality   |
+| **Slavic**             | 20%            | Subtle cheekbone structure, eye placement, neck musculature |
+
+This blend produces a face that seems broadly recognizable to Northern Europeans, yet when he moves his f
 
 ### Hair
 
