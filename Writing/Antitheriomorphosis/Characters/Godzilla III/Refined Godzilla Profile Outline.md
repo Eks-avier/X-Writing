@@ -51,10 +51,29 @@ Godric's face combines mathematical precision and balance with elemental weather
 - **Jawline**: Sharply defined with perfect bilateral symmetry; creates a strong horizontal line
 - **Cheekbones**: High and prominent without being too sharp nor dramatic, allowing for natural shadows to be produced beneath
 - **Brow**: Strong, but neither overly heavy nor dramatic brow ridge that casts his eyes in a subtle shadow
-- **Forehead**: Broad yet proportional and balanced; neither too high 
-- **Symmetry**: Near-perfect facial harmony (98.7% bilateral symmetry)
+- **Forehead**: Broad yet proportional and balanced; neither too high nor too low
+- **Lips**: Full but definitively masculine, with a defined Cupid's bow
+- **Chin**: Strong and slightly squared with a subtle cleft
+- **Ears**: Close to the head with perfect symmetry and proportion
 - **External Perception**: Often appears older than documented age due to stoic and regal bearing
 - **Expression**: Predominantly stoic with subtle micro-expressions
+
+His face maintains a perpetual stoic expression that occasionally produces micro-expressions only those who are closest to him can detect and parse.
+
+The classical balance creates an almost sculptural quality while the subtle weathering all through out expresses motion and experience that no mere sculpture could achieve.
+
+## Uncanny Symmetry
+
+Godric's near-perfect 98.7% bilateral symmetry creates an unconscious, instinctual discomfort in observers, leading their brains to register something fundamentally inhuman without the capacity to articulate why.
+
+- Perfectly aligned features on both sides of his face
+- Identical musculature development on both sides of the body
+- Fingerprints that almost look too identical
+- A near-perfect distribution of modest body hair
+- Perfect alignment of teeth
+
+## Blend of European Ethnicities
+
 
 ### Hair
 
