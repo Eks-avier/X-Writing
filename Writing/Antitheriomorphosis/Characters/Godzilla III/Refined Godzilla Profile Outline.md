@@ -45,10 +45,13 @@ tags: [atm, wip]
 
 ### Facial Structure
 
-Godric's face embodies classical masculine perfection, an uncanny combination of regality, r. It features a symmetrical structure that projects natural authority.
+Godric's face combines mathematical precision and balance with elemental weathering to create something simultaneously classical and primal.
 
-- **Shape**: Square with an angular and defined jawline
-- **Features**: High cheekbones and strong, but not overly dramatic, brow ridge that gives his eye a subtle shadow
+- **Overall Shape**: Square with an angles and definition that is both pronounced yet not at all exaggerated 
+- **Jawline**: Sharply defined with perfect bilateral symmetry; creates a strong horizontal line
+- **Cheekbones**: High and prominent without being too sharp nor dramatic, allowing for natural shadows to be produced beneath
+- **Brow**: Strong, but neither overly heavy nor dramatic brow ridge that casts his eyes in a subtle shadow
+- **Forehead**: Broad yet proportional and balanced; neither too high 
 - **Symmetry**: Near-perfect facial harmony (98.7% bilateral symmetry)
 - **External Perception**: Often appears older than documented age due to stoic and regal bearing
 - **Expression**: Predominantly stoic with subtle micro-expressions
@@ -142,8 +145,11 @@ Godric's physique demonstrates the golden ration across many anatomical relation
 | **Shoulder to Waist**      | 54.6 to 33.7     | 1.620 | Classic V-taper proportion    |
 | **Upper to Lower Leg**     | 59.3 to 36.7     | 1.616 | Ideal leg segmentation        |
 | **Forearm to Hand**        | 35.6 to 22.1     | 1.611 | Harmonious arm extension      |
-| **Arm Length to Torso**    | 89.1 to 55.0     | 1.620 | Classical Proportioning       |
-| **Hand Length to Palm**    | 22.1 to 13.5     | 1.623 |                               |
+| **Arm Length to Torso**    | 89.1 to 55.0     | 1.620 | Perfect extension proportion  |
+| **Hand Length to Palm**    | 22.1 to 13.6     | 1.623 | Classical proportioning       |
+| **Neck to Head Height**    | 16.2 to 26.3     | 1.623 | Regal bearing proportion      |
+| **Chest to Hip Ratio**     | 119.4 to 73.7    | 1.621 | Creates V-taper even at rest  |
+| **Calf to Foot Length**    | 43.2 to 26.7     | 1.618 | Balanced lower extremity      |
 | **Facial Width to Height** | 16.2 to 26.3     | 1.623 | Balanced facial structure     |
 
 ## Physical Characteristics
