@@ -138,12 +138,16 @@ His gold eyes only reveal themselves when his guard is down, causing his energy 
 
 ### Skin
 
-From afar, his skin appears relatively normal: a young man's weathered skin brought about by constant outdoor wrk
+From afar, his skin appears relatively normal: a young man's weathered skin brought about by constant outdoor work. From up close, an interesting phenomenon can be observed: his skin is paradoxically both perfect *and* weathered - neither damaged nor scarred, but textured by his perpetual exposure to the elements.
 
 - **Color**: Caucasian with slight tan
 	- The tan is caused by his constant exposure in the sun
 	- It fades when winter comes
-- **Texture**: Slightly rough as if worked by the elements
+- **Base Texture**: Slightly rougher than expected, like weathered leather that endured the years.
+- **Appearance**: Neither damaged nor scarred, but textured by constant exposure to the outdoors.
+- **Touch Sensation**: Warm and firm, in striking contrast to common expectation, with microscopic variations that lend a subtle yet captivating tactile richness.
+- **Response**: Slightly resistant to pressure, like a surface that has adapted to withstand incredible forces.
+- **Overall Effect**: It beckons someone to a person who has lived outdoors for decades, despite his actual exposure spanning eons.
 - **Distinctive Features**:
 	- A complete absence of blemishes
 	- No scars despite millions of years of combat
