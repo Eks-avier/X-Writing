@@ -123,6 +123,7 @@ Godric's facial hair seems to be capable of transforming him from ranger to rege
 - **3-5 Day Growth**: Peak rugged allure - a virile man with regal bearing.
 
 This accelerated growth pattern plateaus at approximately 5mm length, creating a perfect stubble perpetually - unless maintained into a short beard, though it usually never gets to this point.
+
 ### Eyes
 
 - **Faux Eye Color**: Light blue (default state)
@@ -334,6 +335,9 @@ To achieve this bulk, **he has to eat more**.
 
 > [!note] Energy Source Transition
 > During dormant periods, Godric's metabolism shifts from radiation-based to conventional nutrition—a state that more closely resembles human metabolic processes. This represents the only time he genuinely requires food rather than consuming it for pleasure or social integration.
+
+> [!note] The Winter Awakening
+The winter of 2020 marked a pivotal moment when Maria's attraction to Godric first awakened. His dormant appearance—larger frame, softer features, stubbled face, and clothes seemingly straining against his increased bulk despite their flexible material—presented a more rugged, masculine presence that contrasted with his typically precise, angular form.
 
 ## Attire
 
@@ -556,6 +560,12 @@ For the trousers:
 > “I will fire anyone who says and answers the question “How big is he?”. For the love of God, people, have some shame, that's not just a Titan, but the King of the Monsters himself.”
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
+
+## Personal Territories
+
+> [!info] Territorial Management
+In response to growing restlessness among humanized Titans in early 2021, Mark Russell initiated the creation of three dedicated facilities for Godric to provide necessary territorial stability.
+
 
 ## Personal Organization
 
