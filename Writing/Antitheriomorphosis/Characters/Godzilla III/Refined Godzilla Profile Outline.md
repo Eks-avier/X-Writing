@@ -92,11 +92,11 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 
 #### The Aesthetics of Antiquity
 
-When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority - a CEO of a high-end lucrative company or a literal king of a nation. He indubitably fits in formal events; though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in prestigious events and are able to find some measure of success in doing so, they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
+When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and natural authority - a CEO of a high-end lucrative company or a rightful king of a nation. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans into prestigious events - and are able to find some measure of success in doing so - they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
 
 #### The Virility of Ruggedness
 
-When Godric allows his shaving routine to lapse, he shifts from an Adonic figure to something Heraclean—wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry. To those who look upon him, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it—and stands ready to shield others against its brutal forces.
+When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry. To those who look upon him, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and end up succeeding. 
 
 ### Hair
 
