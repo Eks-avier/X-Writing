@@ -91,13 +91,11 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 > [!important] Rugged Regality
 > Godric embodies a peculiar contradiction: mathematical perfection merged cleanly with primordial wilderness, a man of order and an untamed beast
 
-#### The Ordered Man
-
 - **Museum Quality**: Appears as the perfect classical specimen ready for a shift in a museum
 - **Impression**: A Renaissance painting made real, he evokes nobility and formal authority
 - **Social Context**: Would fit in formal events, hidden in the background yet undeniably attention-grabbing
-- 
 
+- 
 
 ### Hair
 
