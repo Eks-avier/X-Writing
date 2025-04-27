@@ -92,11 +92,11 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 
 #### The Aesthetics of Antiquity
 
-When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority. He indubitably fits in formal events. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in prestigious events and are able to find some measure of success in doing so, they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
+When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority - a CEO of a high-end lucrative company or a literal king of a nation. He indubitably fits in formal events; though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in prestigious events and are able to find some measure of success in doing so, they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
 
 #### The Virility of Ruggedness
 
-When Godric becomes lax in his 
+When Godric opts to relax his shaving routine, he transforms from Adonic to Heraclean - wilder and more primal. He evokes image of a man dutifully managing his ranch, a proficient hunter stalking his next prey. When people look at him, they see someone who will protect from the elements of the wilderness 
 
 ### Hair
 
