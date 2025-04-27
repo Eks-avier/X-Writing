@@ -93,7 +93,7 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 #### The Aesthetics of Antiquity
 
 
-When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people as a 
+When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority. He indubitably fits in formal events. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in their prestigious events, they seem to be unable to hide the classical appeal of one Mr. Nordson from grabbing everyone's attention. 
 
 - **Museum Quality**: Appears as the perfect classical specimen ready for a shift in a museum
 - **Impression**: A Renaissance painting made real, he evokes nobility and formal authority
