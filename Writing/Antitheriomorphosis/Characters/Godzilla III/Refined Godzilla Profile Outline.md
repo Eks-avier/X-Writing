@@ -117,8 +117,12 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 Godric's facial hair seems to be capable of transforming him from ranger to regent in a span of a day.
 
 - **Clean-Shaven**: During mornings, his shaving routine reveals the classical museum specimen - marked by a perfect jawline, defined features
-- **12-Hour Stubble**: When evening comes, a faint shadow
+- **12-Hour Stubble**: When evening comes, a faint shadow appears, hinting at his rugged and immediate nature
+- **24-Hour Growth**: A protector against the wilderness emerges from classical aesthetics
+- **48-Hour Growth**: Complete character shift - a primal protector with perfect underlying structure
+- **3-5 Day Growth**: Peak rugged allure - a virile man with regal bearing.
 
+This accelerated growth pattern plateaus at approximately 5mm length, creating a perfect stubble perpetually - unless maintained into a short beard, though it usually never gets to this point.
 ### Eyes
 
 - **Faux Eye Color**: Light blue (default state)
@@ -134,7 +138,7 @@ His gold eyes only reveal themselves when his guard is down, causing his energy 
 
 ### Skin
 
-His skin appears to be deceptively normal.
+From afar, his skin appears relatively normal: a young man's weathered skin brought about by constant outdoor wrk
 
 - **Color**: Caucasian with slight tan
 	- The tan is caused by his constant exposure in the sun
