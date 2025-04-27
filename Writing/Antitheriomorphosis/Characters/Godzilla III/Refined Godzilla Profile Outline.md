@@ -96,7 +96,7 @@ When Godric grooms himself, his features allow him to effortlessly appear as the
 
 #### The Virility of Ruggedness
 
-When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry. To those who look upon him, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and end up succeeding. 
+When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry with unwavering precision. When he people see him in this state, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his unbroken reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and distinguished by his unerring triumph over them.
 
 ### Hair
 
@@ -111,6 +111,13 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 	- His buzz cut
 - **Future Experiments**: He seeks to cut his hair by a few centimeters longer than a buzz cut
 - **Notes**: Determines how long his hair is by the length of the strands falling on his forehead. If a single strand reaches his eyes, he may begin considering a cut.
+
+#### Facial Hair
+
+Godric's facial hair seems to be capable of transforming him from ranger to regent in a span of a day.
+
+- **Clean-Shaven**: During mornings, his shaving routine reveals the classical museum specimen - marked by a perfect jawline, defined features
+- **12-Hour Stubble**: When evening comes, a faint shadow
 
 ### Eyes
 
