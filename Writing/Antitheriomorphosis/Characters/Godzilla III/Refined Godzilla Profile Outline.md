@@ -96,7 +96,7 @@ When Godric grooms himself, his features allow him to effortlessly appear as the
 
 #### The Virility of Ruggedness
 
-When Godric opts to relax his shaving routine, he transforms from Adonic to Heraclean - wilder and more primal. He evokes image of a man dutifully managing his ranch, a proficient hunter stalking his next prey. When people look at him, they see someone who will protect from the elements of the wilderness 
+When Godric allows his shaving routine to lapse, he shifts from an Adonic figure to something Heraclean—wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry. To those who look upon him, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it—and stands ready to shield others against its brutal forces.
 
 ### Hair
 
