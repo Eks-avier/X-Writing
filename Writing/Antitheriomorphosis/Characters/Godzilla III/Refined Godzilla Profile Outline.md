@@ -92,16 +92,11 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 
 #### The Aesthetics of Antiquity
 
+When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority. He indubitably fits in formal events. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in prestigious events and are able to find some measure of success in doing so, they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
 
-When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and formal authority. He indubitably fits in formal events. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans in their prestigious events, they seem to be unable to hide the classical appeal of one Mr. Nordson from grabbing everyone's attention. 
+#### The Virility of Ruggedness
 
-- **Museum Quality**: Appears as the perfect classical specimen ready for a shift in a museum
-- **Impression**: A Renaissance painting made real, he evokes nobility and formal authority
-- **Social Context**: Would fit in formal events, hidden in the background yet undeniably attention-grabbing
-
-#### The Impression of Ruggedness
-
-
+When Godric becomes lax in his 
 
 ### Hair
 
