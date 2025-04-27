@@ -17,8 +17,8 @@ tags: [atm, wip]
 - **Approximated Age**: 250 m.y. old
 - **Documented Age**: 25
 - **Birthday**: November 3
-	- First resurgence in the modern era, as noted by Dr. Ishiro Serizawa
-	- Doubles as a meta-reference since the first Godzilla film was released in November 3, 1954
+	- First resurgence in the modern era, as noted by Eiji Serizawa
+	- Doubles as a meta-reference since the first Godzilla film was released in that date on 1954
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Eye Color**:
 	- **Faux Eye Color**: Light blue (an effect of his atomic energy in use); default state
@@ -31,8 +31,8 @@ tags: [atm, wip]
 	- During the early days of his transformation, his body is cleanly shaved
 		- He kept up the routine up until the following year
 		- He doesn't bother now and has grown a modest amount of hair at places, particularly most noticeable around his arms, chest, legs and groin.
-	- Some people think he looks older than his apparent age (25), likely due to his regal and stoic bearing
-		- He also doesn't act like a 25 year old sometimes
+	- Random people in public who encounter him are surprised he's 25, often thinking he's older than that
+		- A hint to his true age that people subconsciously pick up
 
 > [!quote] Young Regality
 > “Why did we even document him as 25 years old?”
@@ -87,15 +87,13 @@ This blend produces a face that seems broadly recognizable to Northern Europeans
 
 ### Refined Ruggedness
 
-
 > [!important] Rugged Regality
 > Godric embodies a peculiar contradiction: mathematical perfection merged cleanly with primordial wilderness, a man of order and an untamed beast
 
+#### Museum 
 - **Museum Quality**: Appears as the perfect classical specimen ready for a shift in a museum
 - **Impression**: A Renaissance painting made real, he evokes nobility and formal authority
 - **Social Context**: Would fit in formal events, hidden in the background yet undeniably attention-grabbing
-
-- 
 
 ### Hair
 
