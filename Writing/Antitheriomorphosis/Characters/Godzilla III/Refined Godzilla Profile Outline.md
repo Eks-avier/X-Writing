@@ -103,8 +103,6 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 It seems that the coloration of his hair correlates to the coloration of his dorsal fins, which is interesting as his scale color, dorsal fin color and true eye color were inherited from his mother. Such traits within *Titanus gojira* are rare, often likened to a human redhead. Each major faction of *T. gojira* has different colorations. For a typical Northerner like Godzilla's father Dagon, he has charcoal gray scale coloration, dorsal fins as white as snow, and eyes blue as ice. Godric, and his mother in this case, have scales and dorsal fins the color of night with golden eyes.
 
 - **Color**: Pure black
-- **Length**: Short on the sides but slightly thicker and longer at the top
-- **Style**: Typically swept back using his hands with some strands occasionally falling across his forehead
 - **Texture**: Appears soft and is soft to the touch yet resists cutting by conventional tools
 - **Previous Experiments**: He has attempted to fix his hair in various styles:
 	- His prior shoulder length look, which he tied back
@@ -160,6 +158,9 @@ Among *Titanus gojira*, markings of any kind are typically a result of an ineffe
 
 - **Radiation Properties**: Passively emits low levels of radiation that sterilize the immediate area around him
 
+### Hands
+
+- **Structure**: Perfect proportions with golden ration finger lengths
 ### Dental Features
 
 His teeth appear entirely human at a glance.
