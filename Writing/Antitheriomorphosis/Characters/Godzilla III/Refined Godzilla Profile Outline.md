@@ -161,6 +161,7 @@ Among *Titanus gojira*, markings of any kind are typically a result of an ineffe
 ### Hands
 
 - **Structure**: Perfect proportions with golden ration finger lengths
+
 ### Dental Features
 
 His teeth appear entirely human at a glance.
@@ -259,6 +260,16 @@ This density is distributed throughout his entire structure:
 - Bone density 2.6 g/cm³ (human average: 1.5-1.8 g/cm³)
 - Muscle tissue density 1.9 g/cm³ (human average: 1.06 g/cm³)
 - Organ tissue density approximately 1.3× human average
+
+### Proximity Effects
+
+Humans tend to experience a predictable pattern of responses based on their distance from Godric
+
+| **Distance**    | **Conscious Response**            | **Subconscious Response**                |
+| --------------- | --------------------------------- | ---------------------------------------- |
+| **>15 meters**  | Conventional attraction           | Normal social interest                   |
+| **5-15 meters** | Recognition of unusual perfection | Growing unease with continued attraction |
+| **<5 meters**   | Awareness of commanding presence  | Fight-or-flight activation               |
 
 ### Biological Advantages
 
@@ -566,7 +577,6 @@ For the trousers:
 
 > [!info] Territorial Management
 In response to growing restlessness among humanized Titans in early 2021, Mark Russell initiated the creation of three dedicated facilities for Godric to provide necessary territorial stability.
-
 
 ## Personal Organization
 
