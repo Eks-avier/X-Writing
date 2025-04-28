@@ -6,7 +6,7 @@ Okay, let's develop Godric's hairstyle further than the vague description I gave
 
 Godric's hair is slightly shorter on the sides and the back and slightly longer at the top. It has enough length on the top to be swept back and for some strands to fall on his forehead. However, his preferred length is usually just above the brow - any longer than that and he will consider cutting. 
 
-It's rather textured than smooth and can be slightly tousled throughout the day, especially if he's doing physical work. The strands that fall on his hair are typically tendrils that dance across his forehead when he works; it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria is most affected, as per usual. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight.
+His hair in general is rather textured than smooth and can be slightly tousled throughout the day, especially if he's doing physical work. The strands that fall on his hair are typically tendrils that dance across his forehead when he works; it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria is most affected, as per usual. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight.
 
 I think it looks business like? I don't know the term, but it looks professional yet has potential to make him look even more rugged.
 
@@ -16,7 +16,9 @@ When it comes to maintenance and grooming, Godric initially had his hair done by
 
 His first five haircuts were primarily done by said barbers. However, Godric was already analyzing them in order to be able to do it himself. By his second appointment, he already possessed enough theory to be able to do it himself - and he would have succeeded had he tried. However, patient and meticulous as he is, he opted to “gather more intel”, silently eyeing the poor hair cutter who seemed to be incredibly intimidated. Not only does he have to learn new tools *just to be able to even* cut this man's hair, he has to deal with his eyes snapping and tracking onto every movement he does. Once he had his fifth and most recent appointment, he was already fully capable of achieving the cut he currently wears, able to replicate and optimize it further for his use. Madison also remarked that he could be a barber himself, with eyes and hand-eye coordination like his, who knows how well he could've done.
 
-For his next cut, which would be soon, he has several plans and ideas.
+For his next cut, which would be soon, he has several plans and ideas. 
+
+He has also considered adding products, but find that they deteriorate far too quickly due to his biology.
 
 ## Maria's Dilemma
 
