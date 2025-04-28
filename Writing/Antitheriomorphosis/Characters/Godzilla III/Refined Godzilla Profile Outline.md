@@ -588,9 +588,13 @@ In response to growing restlessness among humanized Titans in early 2021, Mark R
 
 ### Private Pool
 
-This i
+A large swimming facility that is exclusively meant for his use. It features an underwater hatch that provides an exit or entry way into open ocean. It serves Godric's multiple needs, mainly a need for recreational activity via swimming, an exit point for nighttime ocean excursions, and a connection to global patrol routes. Only Godric himself is allowed unrestricted access; the rest require his explicit permission. It's monitoring protocols only exist at entry points, allowing him to truly be in his natural element.
 
 ### Private Training Facility
+
+Connected to the pool, it serves as a space for calibrating his strength and practicing control with the human body. Prior to this facility, he used to train how to control his titanic strength at laboratories within Castle Bravo, now he has his own private gym. 
+
+It features specialized reinforced materials intended to withstand his strength, but it remains insufficient to truly test his capabilities. Thus, he uses it as a way to understand srength modulation through conventional human exercvise 
 
 ### Private Quarters
 
