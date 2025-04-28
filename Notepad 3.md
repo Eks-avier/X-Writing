@@ -19,4 +19,16 @@ It's rather textured than smooth and can be slightly tousled throughout the day,
 
 ## Self-Sufficiency 
 
-When it comes to maintenance and grooming, Godric initially had his hair done by barbers hired by Monarch. Typically these people were already existing staff in Castle Bravo, or they had to be brought in from other outposts. Mark figured this works better than having to hire someone then make them swear secrecy or offer them a job at an outpost. Luckily, Nordson is addicted to self-sufficiency. After all, in the world of Titans it is one of the keys to survival; and as the Titan at the top of the hierarchy, he must embody this more than anyone else
+When it comes to maintenance and grooming, Godric initially had his hair done by barbers hired by Monarch. Typically these people were already existing staff in Castle Bravo, or they had to be brought in from other outposts. Mark figured this works better than having to hire someone then make them swear secrecy or offer them a job at an outpost. Luckily, Nordson is addicted to self-sufficiency. After all, in the world of Titans it is one of the keys to survival; and as the Titan at the top of the hierarchy, he has a duty to embody this more than anyone else - in spite of everyone doing their own thing anyway. It seems this is less of a status signal and more of a personal preference. In contrast, Rodan and Bakunawa love staying for hours with a barber or a stylist just to chat and explore hairstyles.
+
+His first five haircuts were primarily done by said barbers. However, Godric was already analyzing them in order to be able to do it himself. By his second appointment, he already possessed enough theory to be able to do it himself - and he would have succeeded had he tried. However, patient and meticulous as he is, he opted to "gather more intel", silently eyeing the poor hair cutter who seemed to be incredibly intimidated. Not only does he have to learn new tools to cut this man's hair, he has to deal with his eyes snapping and tracking onto every movement he does. Once he had his fifth and most recent appointment, he was already fully capable of achieving the cut he currently wears, able to replicate and optimize it further for his use. Madison also remarked that he could be a barber himself, with eyes and hand-eye coordination like his, who knows how well he could've done. 
+
+For his next cut, which would be soon, he has several plans and ideas. 
+
+## Maria's Dilemma
+
+Maria finds his hair "distracting". There is nothing more to it - certainly. Sure she can see that tendril of hair swaying across his forehead and visions of herself sweeping them back into his head while caressing his cheek - and oops, that's not intended. His hair is fascinating. He used to have none, and now he has them. Big deal, right?
+
+Then in the winter of 2020, it changed. He just woke up, went for a swim, and she was outside his pool wanting to talk about human traditions done in winter. 
+
+The interaction was simple and straightforward. She asked for permission, he opened the door. She saw his damp hair, water dripping into his half-naked form, a strong stubble framing his face
