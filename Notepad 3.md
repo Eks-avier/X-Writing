@@ -4,7 +4,7 @@ Okay, let's develop Godric's hairstyle further than the vague description I gave
 
 ## The Description
 
-Godric's hair is short, his fringe has enough length on the top to be swept back and for some strands to fall on his forehead. However, his preferred length is usually just above the brow - any longer than that and he will consider cutting. 
+Godric's hair is short, his fringe has enough length on the top to be swept back and for some strands to fall on his forehead. However, his preferred length is usually just above the brow - any longer than that and he will consider cutting.
 
 His hair in general is rather textured than smooth and due to products never working on him is slightly tousled, especially if he's doing physical work. The strands that fall on his hair are typically tendrils that dance across his forehead when he works; it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria is most affected, as per usual. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight.
 
@@ -16,7 +16,7 @@ When it comes to maintenance and grooming, Godric initially had his hair done by
 
 His first five haircuts were primarily done by said barbers. However, Godric was already analyzing them in order to be able to do it himself. By his second appointment, he already possessed enough theory to be able to do it himself - and he would have succeeded had he tried. However, patient and meticulous as he is, he opted to “gather more intel”, silently eyeing the poor hair cutter who seemed to be incredibly intimidated. Not only does he have to learn new tools *just to be able to even* cut this man's hair, he has to deal with his eyes snapping and tracking onto every movement he does. Once he had his fifth and most recent appointment, he was already fully capable of achieving the cut he currently wears, able to replicate and optimize it further for his use. Madison also remarked that he could be a barber himself, with eyes and hand-eye coordination like his, who knows how well he could've done.
 
-For his next cut, which would be soon, he has several plans and ideas, most of which point to a crew cut of sorts. It's marginally longer than a buzz cut but shorter that some tendrils don't fall anymore. 
+For his next cut, which would be soon, he has several plans and ideas, most of which point to a crew cut of sorts. It's marginally longer than a buzz cut but shorter that some tendrils don't fall anymore.
 
 He has also considered adding products, but find that they deteriorate far too quickly due to his biology.
 
@@ -34,21 +34,22 @@ That was the last time she saw Godric like that because he began to wear his und
 
 Stupid Maria, ruining such a *fantastic* view like that. If she could just get a hold of herself, he might have not done that.
 
-Oh Heaven help her, guide her, and give her strength... A damp, bulky, and rugged Godric is her weakness.
+Oh Heaven help her, guide her, and give her strength… A damp, bulky, and rugged Godric is her weakness.
 
-She eagerly avoided him until December, only to then find out that *no*... it's not *just* a damp Godric she finds, as the humans call it, *hot*;
+She eagerly avoided him until December, only to then find out that *no*… it's not *just* a damp Godric she finds, as the humans call it, *hot*;
 
 ### The Cyle
 
-But their cycle continues: 
+But their cycle continues:
 - he does something
-- she likes it 
-- he thinks he''s being improper, so he "fixes" it
+- she likes it
+- he thinks he''s being improper, so he “fixes” it
 - she thinks he's disinterested
 - he notices her too much
 - she doesn't seem ready for anything romantical
-- he doesn't even bother, because "why would she bother with him"
+- he doesn't even bother, because “why would she bother with him”
 - he does something new
 - she likes it
 
 The cycle repeats ad infinitum.
+

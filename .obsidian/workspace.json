@@ -83,7 +83,7 @@
               "state": {
                 "file": "Notepad 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Notepad 3"
@@ -293,8 +293,8 @@
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
     "Notepad 3.md",
-    "Notepad 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Notepad 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",

@@ -581,6 +581,43 @@ For the trousers:
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
+## Clothing Philosophy and Presentation
+
+> [!important] Territory Management Through Appearance
+> “Proper clothing is a signal of proper territory management, which signals his status.”
+
+Godric's approach to clothing evolved from initial confusion to understanding it as status projection:
+
+### The Evolution of Understanding
+
+- **Initial Disconnect**: Struggled to comprehend purpose of clothing given his invulnerability
+- **Madison's Insight**: Reframed clothing as visual representation of hierarchical position
+- **Current Philosophy**: Views clothing as extension of personal territory and status marker
+
+### Armor Symbolism
+
+Despite requiring no physical protection, his clothing has evolved into genuine armor:
+
+- **Maria's Silk Integration**: All garments remade with divine moth silk
+- **Scale Reinforcement**: Key items infused with shed scales
+- **Durability Enhancement**: Combined materials create genuinely protective layer
+- **Regenerative Properties**: Silk-scale blend maintains integrity through self-repair
+- **Energy Compatibility**: Limited ability to channel atomic energy
+
+### Material Preferences
+
+- **Pre-Silk Phase**: Struggled with conventional fabrics that deteriorated too quickly
+- **Denim Aversion**: Particularly dislikes this material
+- **Flexibility Requirement**: Prioritizes materials allowing combat mobility
+- **Current Preference**: Exclusively wears Maria's silk-based garments
+
+### Modesty Standard
+
+- **Coverage Prioritization**: Maintains full coverage in all public settings
+- **Species Values**: For *Titanus gojira*, maximum coverage signals superiority
+- **Practical Approach**: Long sleeves and full pants in all settings regardless of temperature
+- **Formal Preference**: Button-downs, tactical pants, proper shoes
+
 ## Personal Territories
 
 > [!info] Territorial Management
@@ -807,6 +844,49 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- The reason why he himself advised most people to stay at a distance
 	- Visible steam effect is emitted in cold environments
 		- Is attempting to conceal this through improved energy modulation
+
+## Psychology
+
+Godric still perceives himself as *Godzilla* despite his human form. He cannot conceive himself as a potential romantic interest for any human who finds him attractive. Moreover, he considers the difference in lifespan and experience unbridgeable. He attempts to understand human attraction through the lens of territorial behavior as he cannot fathom why humans would find someone like him, an entirely different species, appealing.
+
+This creates a magnificent misinterpretation where he accurately detects all physiological signs of attraction but completely miscategorizes their meaning:
+
+| **Observed Human Behavior**            | **Godric's Interpretation**                      | **Actual Meaning**                     |
+| -------------------------------------- | ------------------------------------------------ | -------------------------------------- |
+| Prolonged eye contact                  | Dominance challenge or submission signal         | nterest and attraction                 |
+| Nervous laughter                       | Stress vocalization due to predator presence     | Attraction-based nervousness           |
+| Frequent proximity seeking             | Attempting to establish alliance with Alpha      | Desire for romantic/physical closeness |
+| Competitive behavior when he's present | Resource competition for Alpha's attention       | Jealousy over romantic interest        |
+| Gift-giving or offering assistance     | Tribute offering to establish favorable position | Flirtation and relationship building   |
+| Physical appearance enhancement        | Status display to improve hierarchical standing  | Attempting to appear attractive        |
+
+### The Maria Exception
+
+The situation with Maria represents a unique blind spot:
+
+- **Sensory Barrier**: Her reflective scales block his usual physiological reading ability
+- **Deliberate Restraint**: His respect prevents him from attempting to penetrate this barrier
+- **Trust Assumption**: Believes deep assessment unnecessary due to their ancient bond
+- **Perfect Misinterpretation**: Misreads her attraction signals completely
+
+### The Maria Exception
+
+The situation with Maria represents a unique blind spot:
+
+- **Sensory Barrier**: Her reflective scales block his usual physiological reading ability
+- **Deliberate Restraint**: His respect prevents him from attempting to penetrate this barrier
+- **Trust Assumption**: Believes deep assessment unnecessary due to their ancient bond
+- **Perfect Misinterpretation**: Misreads her attraction signals completely
+
+| Maria's Actual Behavior | Godric's Interpretation | Reality |
+|--------------------------|--------------------------|---------|
+| Lingering glances | Seeking connection with fellow ancient being | Romantic admiration |
+| Staring at his chest | Noticing disorder requiring correction | Physical attraction |
+| Distraction by undershirt | Continued concern about improper presentation | Finding the hint of hidden skin attractive |
+| Attention to his clothing | Admiring her own craftsmanship | Admiring him wearing her creation |
+| Preference for his stubbled appearance | Unknown cultural significance | Finding his rugged appearance attractive |
+
+This creates a perfect parallel with Maria's own dilemma—she refuses to read his mind due to ethics and fear of rejection, while he cannot correctly interpret her signals due to species disconnect and sensory barriers.
 
 ## Relationship with Sleep
 
