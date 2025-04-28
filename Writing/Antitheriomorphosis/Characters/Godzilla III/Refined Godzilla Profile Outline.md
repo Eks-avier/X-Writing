@@ -160,7 +160,7 @@ Among *Titanus gojira*, markings of any kind are typically a result of an ineffe
 
 ### Hands
 
-- **Structure**: Perfect proportions with golden ration finger lengths
+His hands possess perfect proportions, following golden ringer ration lengths. They are subtly calloused and textured despite possessing perfect regeneration, making him seem to have known manual labor - which they indubitably do - despite healing any damage. One popular theory from Monarch attempts to explain this phenomenon through the constant radiation he is emitting actively remodelling his tissues to maintain optimal function.
 
 ### Dental Features
 
@@ -592,13 +592,17 @@ A large swimming facility that is exclusively meant for his use. It features an 
 
 ### Private Training Facility
 
-Connected to the pool, it serves as a space for calibrating his strength and practicing control with the human body. Prior to this facility, he used to train how to control his titanic strength at laboratories within Castle Bravo, now he has his own private gym. 
+Connected to the pool, it serves as a space for calibrating his strength and practicing control with the human body. Prior to this facility, he used to train how to control his titanic strength at laboratories within Castle Bravo, now he has his own private gym.
 
-It features specialized reinforced materials intended to withstand his strength, but it remains insufficient to truly test his capabilities. Thus, he uses it as a way to understand srength modulation through conventional human exercvise 
+It features specialized reinforced materials intended to withstand his strength, but it remains insufficient to truly test his capabilities. Thus, he uses it as a way to understand strength modulation through conventional human exercise forms, often weightlifting. It's access is limited to Maria, Alexios, Roman, Mark, and Madison by invitation.
 
 ### Private Quarters
 
+It is a slightly enlarged standard quarters with ocean-facing windows. As with most of his arrangements, it's minimal - spartan - and filled only with his essentials, limited only to his wardrobe and a few significant artifacts with historical meaning. It sole purpose is to give him a space for solitude, contemplation, and during dormant periods: rest.
+
 ### Command Center Territory
+
+Despite not having full ownership of this space, Godric has established subtle territorial claims with within shared space. He has specific stations that others instinctively avoid, the ability to stand whenever he wants at the observation windows overlooking the sea, and some subtle environment markers recognizable only to his fellow Titans.
 
 ## Personal Organization
 
