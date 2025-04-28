@@ -5101,6 +5101,31 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307
       }
+    },
+    "Notepad 3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 414,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.38,
+      "characterCount": 2286,
+      "nonWhitespaceCharacterCount": 1859,
+      "readingTimeInMinutes": 1.5622641509433963,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745804843550,
+      "modifiedDate": 1745805140690,
+      "sizeInBytes": 2286,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
