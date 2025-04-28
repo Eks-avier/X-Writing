@@ -9,10 +9,14 @@ Maria is especially weak to him when his hair is all damp and it falls on his he
 
 # Developing Godric's Hair
 
-Okay, let's develop Godric's hairstyle further than the vague description I gave you. Unfortunately, I don't have precise knowledge of men's haircuts to flesh out what I have envisioned. I have the image, but I don't know how to describe it. Thus, I will have to lean on you for its acutalization.
+Okay, let's develop Godric's hairstyle further than the vague description I gave you. Unfortunately, I don't have precise knowledge of men's haircuts to flesh out what I have envisioned. I have the image, but I don't know how to describe it. Thus, I will have to lean on you for its actualization.
 
 ## The Description
 
 Godric's hair is short on the sides and the back and longer at the top. It has enough length on the top to be swept back and for some strands to fall on his forehead. However, his preferred length is usually just above the brow - any longer than that and he will consider cutting. 
 
-It's rather textured and can be slightly tousled 
+It's rather textured than smooth and can be slightly tousled throughout the day, especially if he's doing physical work. The strands that fall on his hair are typically tendrils that dance across his forehead when he works; it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria is most affected, as per usual. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight. 
+
+## Self-Sufficiency 
+
+When it comes to maintenance and grooming, Godric initially had his hair done by barbers hired by Monarch. Typically these people were already existing staff in Castle Bravo, or they had to be brought in from other outposts. Mark figured this works better than having to hire someone then make them swear secrecy or offer them a job at an outpost. Luckily, Nordson is addicted to self-sufficiency. After all, in the world of Titans it is one of the keys to survival; and as the Titan at the top of the hierarchy, he must embody this more than anyone else
