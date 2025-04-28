@@ -263,13 +263,21 @@ This density is distributed throughout his entire structure:
 
 ### Proximity Effects
 
-Humans tend to experience a predictable pattern of responses based on their distance from Godric
+Humans tend to experience a predictable pattern of responses based on their distance from Godric. From afar, they see a conventionally handsome young man, but the closer they get to him, the more they *feel* his inherent predatory presence.
 
 | **Distance**    | **Conscious Response**            | **Subconscious Response**                |
 | --------------- | --------------------------------- | ---------------------------------------- |
 | **>15 meters**  | Conventional attraction           | Normal social interest                   |
 | **5-15 meters** | Recognition of unusual perfection | Growing unease with continued attraction |
 | **<5 meters**   | Awareness of commanding presence  | Fight-or-flight activation               |
+
+This layered perception allows Godric to move through human society with minimal - relative to his previous form as a Titan - disruption. Most people would never get close enough to experience his true predatory presence.
+
+Humans possess evolutionary memory of predator encounters in their limbic system. What they experience near Godric is the activation of ancient survival circuits:
+
+- Recognition patterns for apex predator presence
+- Instinctive submission behaviors preserved from evolutionary history
+- Territorial deference mechanisms embedded in primate psychology
 
 ### Biological Advantages
 
@@ -577,6 +585,16 @@ For the trousers:
 
 > [!info] Territorial Management
 In response to growing restlessness among humanized Titans in early 2021, Mark Russell initiated the creation of three dedicated facilities for Godric to provide necessary territorial stability.
+
+### Private Pool
+
+This i
+
+### Private Training Facility
+
+### Private Quarters
+
+### Command Center Territory
 
 ## Personal Organization
 

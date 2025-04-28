@@ -67,6 +67,33 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Notepad 3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 978,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.26,
+      "characterCount": 5562,
+      "nonWhitespaceCharacterCount": 4537,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 3.690566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745804843550,
+      "modifiedDate": 1745809240519,
+      "sizeInBytes": 5572,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.26,
+        "wordCount": 978,
+        "characterCount": 5562,
+        "nonWhitespaceCharacterCount": 4537,
+        "newlineCount": 55
+      }
+    },
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -77,6 +104,7 @@
       "pageCount": 2.2533333333333334,
       "characterCount": 5252,
       "nonWhitespaceCharacterCount": 4322,
+      "newlineCount": 112,
       "readingTimeInMinutes": 2.550943396226415,
       "linkCount": 0,
       "embedCount": 0,
@@ -89,7 +117,8 @@
         "pageCount": 2.2533333333333334,
         "wordCount": 676,
         "characterCount": 5252,
-        "nonWhitespaceCharacterCount": 4322
+        "nonWhitespaceCharacterCount": 4322,
+        "newlineCount": 112
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md": {
@@ -102,6 +131,7 @@
       "pageCount": 2.5966666666666667,
       "characterCount": 5837,
       "nonWhitespaceCharacterCount": 4896,
+      "newlineCount": 146,
       "readingTimeInMinutes": 2.939622641509434,
       "linkCount": 0,
       "embedCount": 0,
@@ -114,7 +144,8 @@
         "pageCount": 2.5966666666666667,
         "wordCount": 779,
         "characterCount": 5837,
-        "nonWhitespaceCharacterCount": 4896
+        "nonWhitespaceCharacterCount": 4896,
+        "newlineCount": 146
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md": {
@@ -127,6 +158,7 @@
       "pageCount": 6.773333333333333,
       "characterCount": 17477,
       "nonWhitespaceCharacterCount": 15057,
+      "newlineCount": 317,
       "readingTimeInMinutes": 7.667924528301887,
       "linkCount": 1,
       "embedCount": 0,
@@ -141,7 +173,8 @@
         "pageCount": 6.773333333333333,
         "wordCount": 2032,
         "characterCount": 17477,
-        "nonWhitespaceCharacterCount": 15057
+        "nonWhitespaceCharacterCount": 15057,
+        "newlineCount": 317
       },
       "frontmatter": {
         "aliases": [
@@ -159,6 +192,7 @@
       "pageCount": 0.7333333333333333,
       "characterCount": 1723,
       "nonWhitespaceCharacterCount": 1467,
+      "newlineCount": 37,
       "readingTimeInMinutes": 0.8301886792452831,
       "linkCount": 0,
       "embedCount": 0,
@@ -171,7 +205,8 @@
         "pageCount": 0.7333333333333333,
         "wordCount": 220,
         "characterCount": 1723,
-        "nonWhitespaceCharacterCount": 1467
+        "nonWhitespaceCharacterCount": 1467,
+        "newlineCount": 37
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md": {
@@ -184,6 +219,7 @@
       "pageCount": 33.25,
       "characterCount": 81207,
       "nonWhitespaceCharacterCount": 70483,
+      "newlineCount": 682,
       "readingTimeInMinutes": 37.64150943396226,
       "linkCount": 10,
       "embedCount": 0,
@@ -199,7 +235,8 @@
         "pageCount": 33.25,
         "wordCount": 9975,
         "characterCount": 81207,
-        "nonWhitespaceCharacterCount": 70483
+        "nonWhitespaceCharacterCount": 70483,
+        "newlineCount": 682
       },
       "frontmatter": {
         "title": "'Titanus gojira' Species Profile",
@@ -240,6 +277,7 @@
       "pageCount": 1.1566666666666667,
       "characterCount": 3007,
       "nonWhitespaceCharacterCount": 2590,
+      "newlineCount": 67,
       "readingTimeInMinutes": 1.3094339622641509,
       "linkCount": 0,
       "embedCount": 0,
@@ -252,7 +290,8 @@
         "pageCount": 1.1566666666666667,
         "wordCount": 347,
         "characterCount": 3007,
-        "nonWhitespaceCharacterCount": 2590
+        "nonWhitespaceCharacterCount": 2590,
+        "newlineCount": 67
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md": {
@@ -265,6 +304,7 @@
       "pageCount": 2.0833333333333335,
       "characterCount": 4482,
       "nonWhitespaceCharacterCount": 3839,
+      "newlineCount": 31,
       "readingTimeInMinutes": 2.358490566037736,
       "linkCount": 0,
       "embedCount": 0,
@@ -277,7 +317,8 @@
         "pageCount": 2.0833333333333335,
         "wordCount": 625,
         "characterCount": 4482,
-        "nonWhitespaceCharacterCount": 3839
+        "nonWhitespaceCharacterCount": 3839,
+        "newlineCount": 31
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md": {
@@ -290,6 +331,7 @@
       "pageCount": 13.436666666666667,
       "characterCount": 32212,
       "nonWhitespaceCharacterCount": 26185,
+      "newlineCount": 179,
       "readingTimeInMinutes": 15.211320754716981,
       "linkCount": 11,
       "embedCount": 0,
@@ -302,7 +344,8 @@
         "pageCount": 13.436666666666667,
         "wordCount": 4031,
         "characterCount": 32212,
-        "nonWhitespaceCharacterCount": 26185
+        "nonWhitespaceCharacterCount": 26185,
+        "newlineCount": 179
       },
       "frontmatter": {
         "title": "Godzilla: Physical Appearance",
@@ -359,6 +402,7 @@
       "pageCount": 13.756666666666666,
       "characterCount": 34979,
       "nonWhitespaceCharacterCount": 30403,
+      "newlineCount": 469,
       "readingTimeInMinutes": 15.573584905660377,
       "linkCount": 6,
       "embedCount": 0,
@@ -376,7 +420,8 @@
         "pageCount": 13.756666666666666,
         "wordCount": 4127,
         "characterCount": 34979,
-        "nonWhitespaceCharacterCount": 30403
+        "nonWhitespaceCharacterCount": 30403,
+        "newlineCount": 469
       },
       "frontmatter": {
         "title": "Northern Titanus gojira: Cultural Profile",
@@ -421,6 +466,7 @@
       "pageCount": 0.96,
       "characterCount": 2273,
       "nonWhitespaceCharacterCount": 1943,
+      "newlineCount": 42,
       "readingTimeInMinutes": 1.0867924528301887,
       "linkCount": 0,
       "embedCount": 0,
@@ -433,7 +479,8 @@
         "pageCount": 0.96,
         "wordCount": 288,
         "characterCount": 2273,
-        "nonWhitespaceCharacterCount": 1943
+        "nonWhitespaceCharacterCount": 1943,
+        "newlineCount": 42
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md": {
@@ -446,6 +493,7 @@
       "pageCount": 10.706666666666667,
       "characterCount": 21522,
       "nonWhitespaceCharacterCount": 18014,
+      "newlineCount": 276,
       "readingTimeInMinutes": 12.120754716981132,
       "linkCount": 0,
       "embedCount": 0,
@@ -458,7 +506,8 @@
         "pageCount": 10.706666666666667,
         "wordCount": 3212,
         "characterCount": 21522,
-        "nonWhitespaceCharacterCount": 18014
+        "nonWhitespaceCharacterCount": 18014,
+        "newlineCount": 276
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Atomic Stride.md": {
@@ -471,6 +520,7 @@
       "pageCount": 2.8966666666666665,
       "characterCount": 5324,
       "nonWhitespaceCharacterCount": 4365,
+      "newlineCount": 103,
       "readingTimeInMinutes": 3.279245283018868,
       "linkCount": 5,
       "embedCount": 0,
@@ -483,7 +533,8 @@
         "pageCount": 2.8966666666666665,
         "wordCount": 869,
         "characterCount": 5324,
-        "nonWhitespaceCharacterCount": 4365
+        "nonWhitespaceCharacterCount": 4365,
+        "newlineCount": 103
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md": {
@@ -496,6 +547,7 @@
       "pageCount": 4.503333333333333,
       "characterCount": 11710,
       "nonWhitespaceCharacterCount": 10080,
+      "newlineCount": 199,
       "readingTimeInMinutes": 5.09811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -508,7 +560,8 @@
         "pageCount": 4.503333333333333,
         "wordCount": 1351,
         "characterCount": 11710,
-        "nonWhitespaceCharacterCount": 10080
+        "nonWhitespaceCharacterCount": 10080,
+        "newlineCount": 199
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Narrative Sidepiece.md": {
@@ -521,6 +574,7 @@
       "pageCount": 10.12,
       "characterCount": 18602,
       "nonWhitespaceCharacterCount": 15428,
+      "newlineCount": 273,
       "readingTimeInMinutes": 11.456603773584906,
       "linkCount": 0,
       "embedCount": 0,
@@ -533,7 +587,8 @@
         "pageCount": 10.12,
         "wordCount": 3036,
         "characterCount": 18602,
-        "nonWhitespaceCharacterCount": 15428
+        "nonWhitespaceCharacterCount": 15428,
+        "newlineCount": 273
       }
     },
     "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md": {
@@ -546,6 +601,7 @@
       "pageCount": 29.953333333333333,
       "characterCount": 59920,
       "nonWhitespaceCharacterCount": 48819,
+      "newlineCount": 735,
       "readingTimeInMinutes": 33.90943396226415,
       "linkCount": 0,
       "embedCount": 0,
@@ -558,7 +614,8 @@
         "pageCount": 29.953333333333333,
         "wordCount": 8986,
         "characterCount": 59920,
-        "nonWhitespaceCharacterCount": 48819
+        "nonWhitespaceCharacterCount": 48819,
+        "newlineCount": 735
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md": {
@@ -571,6 +628,7 @@
       "pageCount": 4.1033333333333335,
       "characterCount": 10315,
       "nonWhitespaceCharacterCount": 8915,
+      "newlineCount": 160,
       "readingTimeInMinutes": 4.645283018867924,
       "linkCount": 0,
       "embedCount": 0,
@@ -583,7 +641,8 @@
         "pageCount": 4.1033333333333335,
         "wordCount": 1231,
         "characterCount": 10315,
-        "nonWhitespaceCharacterCount": 8915
+        "nonWhitespaceCharacterCount": 8915,
+        "newlineCount": 160
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
@@ -596,6 +655,7 @@
       "pageCount": 1.88,
       "characterCount": 5854,
       "nonWhitespaceCharacterCount": 4814,
+      "newlineCount": 154,
       "readingTimeInMinutes": 2.128301886792453,
       "linkCount": 5,
       "embedCount": 9,
@@ -608,7 +668,8 @@
         "pageCount": 1.88,
         "wordCount": 564,
         "characterCount": 5854,
-        "nonWhitespaceCharacterCount": 4814
+        "nonWhitespaceCharacterCount": 4814,
+        "newlineCount": 154
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
@@ -621,6 +682,7 @@
       "pageCount": 4.866666666666666,
       "characterCount": 12209,
       "nonWhitespaceCharacterCount": 10587,
+      "newlineCount": 179,
       "readingTimeInMinutes": 5.509433962264151,
       "linkCount": 5,
       "embedCount": 0,
@@ -633,7 +695,8 @@
         "pageCount": 4.866666666666666,
         "wordCount": 1460,
         "characterCount": 12209,
-        "nonWhitespaceCharacterCount": 10587
+        "nonWhitespaceCharacterCount": 10587,
+        "newlineCount": 179
       },
       "frontmatter": {
         "title": "Titanus gojira: Current Status",
@@ -665,6 +728,7 @@
       "pageCount": 3.033333333333333,
       "characterCount": 9008,
       "nonWhitespaceCharacterCount": 7579,
+      "newlineCount": 143,
       "readingTimeInMinutes": 3.4339622641509435,
       "linkCount": 5,
       "embedCount": 0,
@@ -677,7 +741,8 @@
         "pageCount": 3.033333333333333,
         "wordCount": 910,
         "characterCount": 9008,
-        "nonWhitespaceCharacterCount": 7579
+        "nonWhitespaceCharacterCount": 7579,
+        "newlineCount": 143
       },
       "frontmatter": {
         "title": "Regenerative Systems",
@@ -716,6 +781,7 @@
       "pageCount": 2.3933333333333335,
       "characterCount": 7257,
       "nonWhitespaceCharacterCount": 6142,
+      "newlineCount": 102,
       "readingTimeInMinutes": 2.709433962264151,
       "linkCount": 5,
       "embedCount": 0,
@@ -728,7 +794,8 @@
         "pageCount": 2.3933333333333335,
         "wordCount": 718,
         "characterCount": 7257,
-        "nonWhitespaceCharacterCount": 6142
+        "nonWhitespaceCharacterCount": 6142,
+        "newlineCount": 102
       },
       "frontmatter": {
         "title": "Reproductive Biology",
@@ -766,6 +833,7 @@
       "pageCount": 2.87,
       "characterCount": 8214,
       "nonWhitespaceCharacterCount": 6960,
+      "newlineCount": 107,
       "readingTimeInMinutes": 3.249056603773585,
       "linkCount": 5,
       "embedCount": 0,
@@ -778,7 +846,8 @@
         "pageCount": 2.87,
         "wordCount": 861,
         "characterCount": 8214,
-        "nonWhitespaceCharacterCount": 6960
+        "nonWhitespaceCharacterCount": 6960,
+        "newlineCount": 107
       },
       "frontmatter": {
         "title": "Limitless Adaptation",
@@ -816,6 +885,7 @@
       "pageCount": 3.6066666666666665,
       "characterCount": 10818,
       "nonWhitespaceCharacterCount": 9328,
+      "newlineCount": 159,
       "readingTimeInMinutes": 4.083018867924529,
       "linkCount": 5,
       "embedCount": 0,
@@ -828,7 +898,8 @@
         "pageCount": 3.6066666666666665,
         "wordCount": 1082,
         "characterCount": 10818,
-        "nonWhitespaceCharacterCount": 9328
+        "nonWhitespaceCharacterCount": 9328,
+        "newlineCount": 159
       },
       "frontmatter": {
         "title": "Physical Characteristics",
@@ -867,6 +938,7 @@
       "pageCount": 2.6966666666666668,
       "characterCount": 8004,
       "nonWhitespaceCharacterCount": 6735,
+      "newlineCount": 130,
       "readingTimeInMinutes": 3.0528301886792453,
       "linkCount": 5,
       "embedCount": 0,
@@ -879,7 +951,8 @@
         "pageCount": 2.6966666666666668,
         "wordCount": 809,
         "characterCount": 8004,
-        "nonWhitespaceCharacterCount": 6735
+        "nonWhitespaceCharacterCount": 6735,
+        "newlineCount": 130
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md": {
@@ -892,6 +965,7 @@
       "pageCount": 3.263333333333333,
       "characterCount": 10300,
       "nonWhitespaceCharacterCount": 8692,
+      "newlineCount": 183,
       "readingTimeInMinutes": 3.6943396226415093,
       "linkCount": 5,
       "embedCount": 0,
@@ -904,7 +978,8 @@
         "pageCount": 3.263333333333333,
         "wordCount": 979,
         "characterCount": 10300,
-        "nonWhitespaceCharacterCount": 8692
+        "nonWhitespaceCharacterCount": 8692,
+        "newlineCount": 183
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md": {
@@ -917,6 +992,7 @@
       "pageCount": 3.216666666666667,
       "characterCount": 8898,
       "nonWhitespaceCharacterCount": 7434,
+      "newlineCount": 137,
       "readingTimeInMinutes": 3.641509433962264,
       "linkCount": 5,
       "embedCount": 0,
@@ -929,7 +1005,8 @@
         "pageCount": 3.216666666666667,
         "wordCount": 965,
         "characterCount": 8898,
-        "nonWhitespaceCharacterCount": 7434
+        "nonWhitespaceCharacterCount": 7434,
+        "newlineCount": 137
       },
       "frontmatter": {
         "title": "Domination of Energy",
@@ -968,6 +1045,7 @@
       "pageCount": 6.203333333333333,
       "characterCount": 16826,
       "nonWhitespaceCharacterCount": 14305,
+      "newlineCount": 202,
       "readingTimeInMinutes": 7.022641509433963,
       "linkCount": 5,
       "embedCount": 0,
@@ -980,7 +1058,8 @@
         "pageCount": 6.203333333333333,
         "wordCount": 1861,
         "characterCount": 16826,
-        "nonWhitespaceCharacterCount": 14305
+        "nonWhitespaceCharacterCount": 14305,
+        "newlineCount": 202
       },
       "frontmatter": {
         "title": "Universal Hierarchy of Priorities",
@@ -1019,6 +1098,7 @@
       "pageCount": 5.753333333333333,
       "characterCount": 15149,
       "nonWhitespaceCharacterCount": 13182,
+      "newlineCount": 223,
       "readingTimeInMinutes": 6.513207547169811,
       "linkCount": 7,
       "embedCount": 0,
@@ -1031,7 +1111,8 @@
         "pageCount": 5.753333333333333,
         "wordCount": 1726,
         "characterCount": 15149,
-        "nonWhitespaceCharacterCount": 13182
+        "nonWhitespaceCharacterCount": 13182,
+        "newlineCount": 223
       },
       "frontmatter": {
         "title": "Titanus gojira: Northern Faction",
@@ -1084,6 +1165,7 @@
       "pageCount": 14.413333333333334,
       "characterCount": 37263,
       "nonWhitespaceCharacterCount": 32449,
+      "newlineCount": 499,
       "readingTimeInMinutes": 16.316981132075473,
       "linkCount": 5,
       "embedCount": 0,
@@ -1096,7 +1178,8 @@
         "pageCount": 14.413333333333334,
         "wordCount": 4324,
         "characterCount": 37263,
-        "nonWhitespaceCharacterCount": 32449
+        "nonWhitespaceCharacterCount": 32449,
+        "newlineCount": 499
       },
       "frontmatter": {
         "title": "Northern Titanus gojira: Cultural Profile",
@@ -1135,6 +1218,7 @@
       "pageCount": 5.126666666666667,
       "characterCount": 14721,
       "nonWhitespaceCharacterCount": 12491,
+      "newlineCount": 191,
       "readingTimeInMinutes": 5.80377358490566,
       "linkCount": 5,
       "embedCount": 0,
@@ -1147,7 +1231,8 @@
         "pageCount": 5.126666666666667,
         "wordCount": 1538,
         "characterCount": 14721,
-        "nonWhitespaceCharacterCount": 12491
+        "nonWhitespaceCharacterCount": 12491,
+        "newlineCount": 191
       },
       "frontmatter": {
         "title": "Energy Communication",
@@ -1185,6 +1270,7 @@
       "pageCount": 17.743333333333332,
       "characterCount": 42761,
       "nonWhitespaceCharacterCount": 36517,
+      "newlineCount": 818,
       "readingTimeInMinutes": 20.08679245283019,
       "linkCount": 0,
       "embedCount": 0,
@@ -1197,7 +1283,8 @@
         "pageCount": 17.743333333333332,
         "wordCount": 5323,
         "characterCount": 42761,
-        "nonWhitespaceCharacterCount": 36517
+        "nonWhitespaceCharacterCount": 36517,
+        "newlineCount": 818
       }
     },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md": {
@@ -1210,6 +1297,7 @@
       "pageCount": 8.72,
       "characterCount": 20424,
       "nonWhitespaceCharacterCount": 17012,
+      "newlineCount": 331,
       "readingTimeInMinutes": 9.871698113207547,
       "linkCount": 4,
       "embedCount": 0,
@@ -1222,7 +1310,8 @@
         "pageCount": 8.72,
         "wordCount": 2616,
         "characterCount": 20424,
-        "nonWhitespaceCharacterCount": 17012
+        "nonWhitespaceCharacterCount": 17012,
+        "newlineCount": 331
       },
       "frontmatter": {
         "tags": [
@@ -1241,6 +1330,7 @@
       "pageCount": 2.03,
       "characterCount": 4650,
       "nonWhitespaceCharacterCount": 3952,
+      "newlineCount": 100,
       "readingTimeInMinutes": 2.29811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -1253,7 +1343,8 @@
         "pageCount": 2.03,
         "wordCount": 609,
         "characterCount": 4650,
-        "nonWhitespaceCharacterCount": 3952
+        "nonWhitespaceCharacterCount": 3952,
+        "newlineCount": 100
       }
     },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md": {
@@ -1266,6 +1357,7 @@
       "pageCount": 0.25333333333333335,
       "characterCount": 557,
       "nonWhitespaceCharacterCount": 478,
+      "newlineCount": 11,
       "readingTimeInMinutes": 0.28679245283018867,
       "linkCount": 0,
       "embedCount": 0,
@@ -1278,7 +1370,8 @@
         "pageCount": 0.25333333333333335,
         "wordCount": 76,
         "characterCount": 557,
-        "nonWhitespaceCharacterCount": 478
+        "nonWhitespaceCharacterCount": 478,
+        "newlineCount": 11
       }
     },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md": {
@@ -1291,6 +1384,7 @@
       "pageCount": 0.81,
       "characterCount": 2170,
       "nonWhitespaceCharacterCount": 1887,
+      "newlineCount": 44,
       "readingTimeInMinutes": 0.9169811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -1303,7 +1397,8 @@
         "pageCount": 0.81,
         "wordCount": 243,
         "characterCount": 2170,
-        "nonWhitespaceCharacterCount": 1887
+        "nonWhitespaceCharacterCount": 1887,
+        "newlineCount": 44
       }
     },
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md": {
@@ -1316,6 +1411,7 @@
       "pageCount": 4.25,
       "characterCount": 7549,
       "nonWhitespaceCharacterCount": 6258,
+      "newlineCount": 21,
       "readingTimeInMinutes": 4.811320754716981,
       "linkCount": 0,
       "embedCount": 0,
@@ -1328,7 +1424,8 @@
         "pageCount": 4.25,
         "wordCount": 1275,
         "characterCount": 7549,
-        "nonWhitespaceCharacterCount": 6258
+        "nonWhitespaceCharacterCount": 6258,
+        "newlineCount": 21
       }
     },
     "Writing/Antitheriomorphosis/The Eavesdropper.md": {
@@ -1341,6 +1438,7 @@
       "pageCount": 0.74,
       "characterCount": 1681,
       "nonWhitespaceCharacterCount": 1437,
+      "newlineCount": 28,
       "readingTimeInMinutes": 0.8377358490566038,
       "linkCount": 7,
       "embedCount": 0,
@@ -1353,7 +1451,8 @@
         "pageCount": 0.74,
         "wordCount": 222,
         "characterCount": 1681,
-        "nonWhitespaceCharacterCount": 1437
+        "nonWhitespaceCharacterCount": 1437,
+        "newlineCount": 28
       }
     },
     "Writing/Antitheriomorphosis/The Divine Inheritance.md": {
@@ -1366,6 +1465,7 @@
       "pageCount": 0.3233333333333333,
       "characterCount": 601,
       "nonWhitespaceCharacterCount": 495,
+      "newlineCount": 10,
       "readingTimeInMinutes": 0.3660377358490566,
       "linkCount": 0,
       "embedCount": 0,
@@ -1378,7 +1478,8 @@
         "pageCount": 0.3233333333333333,
         "wordCount": 97,
         "characterCount": 601,
-        "nonWhitespaceCharacterCount": 495
+        "nonWhitespaceCharacterCount": 495,
+        "newlineCount": 10
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md": {
@@ -1391,6 +1492,7 @@
       "pageCount": 0.9866666666666667,
       "characterCount": 2098,
       "nonWhitespaceCharacterCount": 1729,
+      "newlineCount": 47,
       "readingTimeInMinutes": 1.1169811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -1403,7 +1505,8 @@
         "pageCount": 0.9866666666666667,
         "wordCount": 296,
         "characterCount": 2098,
-        "nonWhitespaceCharacterCount": 1729
+        "nonWhitespaceCharacterCount": 1729,
+        "newlineCount": 47
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md": {
@@ -1416,6 +1519,7 @@
       "pageCount": 29.61,
       "characterCount": 51739,
       "nonWhitespaceCharacterCount": 42322,
+      "newlineCount": 328,
       "readingTimeInMinutes": 33.52075471698113,
       "linkCount": 0,
       "embedCount": 0,
@@ -1428,7 +1532,8 @@
         "pageCount": 29.61,
         "wordCount": 8883,
         "characterCount": 51739,
-        "nonWhitespaceCharacterCount": 42322
+        "nonWhitespaceCharacterCount": 42322,
+        "newlineCount": 328
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Keystone Arc.md": {
@@ -1441,6 +1546,7 @@
       "pageCount": 9.09,
       "characterCount": 20994,
       "nonWhitespaceCharacterCount": 17923,
+      "newlineCount": 344,
       "readingTimeInMinutes": 10.290566037735848,
       "linkCount": 0,
       "embedCount": 0,
@@ -1453,7 +1559,8 @@
         "pageCount": 9.09,
         "wordCount": 2727,
         "characterCount": 20994,
-        "nonWhitespaceCharacterCount": 17923
+        "nonWhitespaceCharacterCount": 17923,
+        "newlineCount": 344
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md": {
@@ -1466,6 +1573,7 @@
       "pageCount": 6.28,
       "characterCount": 15526,
       "nonWhitespaceCharacterCount": 13303,
+      "newlineCount": 328,
       "readingTimeInMinutes": 7.109433962264151,
       "linkCount": 0,
       "embedCount": 0,
@@ -1478,7 +1586,8 @@
         "pageCount": 6.28,
         "wordCount": 1884,
         "characterCount": 15526,
-        "nonWhitespaceCharacterCount": 13303
+        "nonWhitespaceCharacterCount": 13303,
+        "newlineCount": 328
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Biollante Arc.md": {
@@ -1491,6 +1600,7 @@
       "pageCount": 8.39,
       "characterCount": 22271,
       "nonWhitespaceCharacterCount": 19177,
+      "newlineCount": 553,
       "readingTimeInMinutes": 9.49811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -1505,7 +1615,8 @@
         "pageCount": 8.39,
         "wordCount": 2517,
         "characterCount": 22271,
-        "nonWhitespaceCharacterCount": 19177
+        "nonWhitespaceCharacterCount": 19177,
+        "newlineCount": 553
       },
       "frontmatter": {
         "aliases": [
@@ -1523,6 +1634,7 @@
       "pageCount": 2.87,
       "characterCount": 4875,
       "nonWhitespaceCharacterCount": 3969,
+      "newlineCount": 53,
       "readingTimeInMinutes": 3.249056603773585,
       "linkCount": 0,
       "embedCount": 0,
@@ -1535,7 +1647,8 @@
         "pageCount": 2.87,
         "wordCount": 861,
         "characterCount": 4875,
-        "nonWhitespaceCharacterCount": 3969
+        "nonWhitespaceCharacterCount": 3969,
+        "newlineCount": 53
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Concept - Medieval AU.md": {
@@ -1548,6 +1661,7 @@
       "pageCount": 1.0566666666666666,
       "characterCount": 1647,
       "nonWhitespaceCharacterCount": 1300,
+      "newlineCount": 51,
       "readingTimeInMinutes": 1.1962264150943396,
       "linkCount": 0,
       "embedCount": 0,
@@ -1560,7 +1674,8 @@
         "pageCount": 1.0566666666666666,
         "wordCount": 317,
         "characterCount": 1647,
-        "nonWhitespaceCharacterCount": 1300
+        "nonWhitespaceCharacterCount": 1300,
+        "newlineCount": 51
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md": {
@@ -1573,6 +1688,7 @@
       "pageCount": 4.806666666666667,
       "characterCount": 8223,
       "nonWhitespaceCharacterCount": 6608,
+      "newlineCount": 412,
       "readingTimeInMinutes": 5.441509433962264,
       "linkCount": 0,
       "embedCount": 0,
@@ -1585,7 +1701,8 @@
         "pageCount": 4.806666666666667,
         "wordCount": 1442,
         "characterCount": 8223,
-        "nonWhitespaceCharacterCount": 6608
+        "nonWhitespaceCharacterCount": 6608,
+        "newlineCount": 412
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md": {
@@ -1598,6 +1715,7 @@
       "pageCount": 5.266666666666667,
       "characterCount": 11390,
       "nonWhitespaceCharacterCount": 9609,
+      "newlineCount": 173,
       "readingTimeInMinutes": 5.962264150943396,
       "linkCount": 0,
       "embedCount": 0,
@@ -1610,7 +1728,8 @@
         "pageCount": 5.266666666666667,
         "wordCount": 1580,
         "characterCount": 11390,
-        "nonWhitespaceCharacterCount": 9609
+        "nonWhitespaceCharacterCount": 9609,
+        "newlineCount": 173
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md": {
@@ -1623,6 +1742,7 @@
       "pageCount": 11.323333333333334,
       "characterCount": 25912,
       "nonWhitespaceCharacterCount": 22162,
+      "newlineCount": 342,
       "readingTimeInMinutes": 12.818867924528302,
       "linkCount": 0,
       "embedCount": 0,
@@ -1635,7 +1755,8 @@
         "pageCount": 11.323333333333334,
         "wordCount": 3397,
         "characterCount": 25912,
-        "nonWhitespaceCharacterCount": 22162
+        "nonWhitespaceCharacterCount": 22162,
+        "newlineCount": 342
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - The Winter Cycle.md": {
@@ -1648,6 +1769,7 @@
       "pageCount": 6.8133333333333335,
       "characterCount": 13988,
       "nonWhitespaceCharacterCount": 11661,
+      "newlineCount": 199,
       "readingTimeInMinutes": 7.713207547169811,
       "linkCount": 0,
       "embedCount": 0,
@@ -1660,7 +1782,8 @@
         "pageCount": 6.8133333333333335,
         "wordCount": 2044,
         "characterCount": 13988,
-        "nonWhitespaceCharacterCount": 11661
+        "nonWhitespaceCharacterCount": 11661,
+        "newlineCount": 199
       }
     },
     "Writing/Antitheriomorphosis/Settings/Keep Charlie.md": {
@@ -1673,6 +1796,7 @@
       "pageCount": 1.8533333333333333,
       "characterCount": 4223,
       "nonWhitespaceCharacterCount": 3610,
+      "newlineCount": 73,
       "readingTimeInMinutes": 2.09811320754717,
       "linkCount": 16,
       "embedCount": 0,
@@ -1685,7 +1809,8 @@
         "pageCount": 1.8533333333333333,
         "wordCount": 556,
         "characterCount": 4223,
-        "nonWhitespaceCharacterCount": 3610
+        "nonWhitespaceCharacterCount": 3610,
+        "newlineCount": 73
       }
     },
     "Writing/Antitheriomorphosis/Settings/Castle Bravo.md": {
@@ -1698,6 +1823,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 14,
       "nonWhitespaceCharacterCount": 12,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -1710,7 +1836,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 14,
-        "nonWhitespaceCharacterCount": 12
+        "nonWhitespaceCharacterCount": 12,
+        "newlineCount": 1
       }
     },
     "Writing/Antitheriomorphosis/Power Dynamics.md": {
@@ -1723,6 +1850,7 @@
       "pageCount": 0.7166666666666667,
       "characterCount": 1821,
       "nonWhitespaceCharacterCount": 1567,
+      "newlineCount": 40,
       "readingTimeInMinutes": 0.8113207547169812,
       "linkCount": 0,
       "embedCount": 0,
@@ -1735,7 +1863,8 @@
         "pageCount": 0.7166666666666667,
         "wordCount": 215,
         "characterCount": 1821,
-        "nonWhitespaceCharacterCount": 1567
+        "nonWhitespaceCharacterCount": 1567,
+        "newlineCount": 40
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - The Art of Spell Optimization.md": {
@@ -1748,6 +1877,7 @@
       "pageCount": 3.3066666666666666,
       "characterCount": 8001,
       "nonWhitespaceCharacterCount": 6782,
+      "newlineCount": 206,
       "readingTimeInMinutes": 3.7433962264150944,
       "linkCount": 0,
       "embedCount": 0,
@@ -1760,7 +1890,8 @@
         "pageCount": 3.3066666666666666,
         "wordCount": 992,
         "characterCount": 8001,
-        "nonWhitespaceCharacterCount": 6782
+        "nonWhitespaceCharacterCount": 6782,
+        "newlineCount": 206
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - Time Manipulation .md": {
@@ -1773,6 +1904,7 @@
       "pageCount": 2.1433333333333335,
       "characterCount": 5156,
       "nonWhitespaceCharacterCount": 4420,
+      "newlineCount": 111,
       "readingTimeInMinutes": 2.4264150943396228,
       "linkCount": 0,
       "embedCount": 0,
@@ -1785,7 +1917,8 @@
         "pageCount": 2.1433333333333335,
         "wordCount": 643,
         "characterCount": 5156,
-        "nonWhitespaceCharacterCount": 4420
+        "nonWhitespaceCharacterCount": 4420,
+        "newlineCount": 111
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - The Art of Spell Keeping.md": {
@@ -1798,6 +1931,7 @@
       "pageCount": 3.65,
       "characterCount": 8422,
       "nonWhitespaceCharacterCount": 7158,
+      "newlineCount": 158,
       "readingTimeInMinutes": 4.132075471698113,
       "linkCount": 0,
       "embedCount": 0,
@@ -1810,7 +1944,8 @@
         "pageCount": 3.65,
         "wordCount": 1095,
         "characterCount": 8422,
-        "nonWhitespaceCharacterCount": 7158
+        "nonWhitespaceCharacterCount": 7158,
+        "newlineCount": 158
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - The Art of Spell Casting.md": {
@@ -1823,6 +1958,7 @@
       "pageCount": 3.243333333333333,
       "characterCount": 7876,
       "nonWhitespaceCharacterCount": 6711,
+      "newlineCount": 154,
       "readingTimeInMinutes": 3.671698113207547,
       "linkCount": 0,
       "embedCount": 0,
@@ -1835,7 +1971,8 @@
         "pageCount": 3.243333333333333,
         "wordCount": 973,
         "characterCount": 7876,
-        "nonWhitespaceCharacterCount": 6711
+        "nonWhitespaceCharacterCount": 6711,
+        "newlineCount": 154
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - Spatial Separation Magic.md": {
@@ -1848,6 +1985,7 @@
       "pageCount": 2.39,
       "characterCount": 6151,
       "nonWhitespaceCharacterCount": 5307,
+      "newlineCount": 142,
       "readingTimeInMinutes": 2.7056603773584906,
       "linkCount": 0,
       "embedCount": 0,
@@ -1860,7 +1998,8 @@
         "pageCount": 2.39,
         "wordCount": 717,
         "characterCount": 6151,
-        "nonWhitespaceCharacterCount": 5307
+        "nonWhitespaceCharacterCount": 5307,
+        "newlineCount": 142
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - The Art of Commitments.md": {
@@ -1873,6 +2012,7 @@
       "pageCount": 7.383333333333334,
       "characterCount": 17061,
       "nonWhitespaceCharacterCount": 14530,
+      "newlineCount": 286,
       "readingTimeInMinutes": 8.358490566037736,
       "linkCount": 5,
       "embedCount": 0,
@@ -1887,7 +2027,8 @@
         "pageCount": 7.383333333333334,
         "wordCount": 2215,
         "characterCount": 17061,
-        "nonWhitespaceCharacterCount": 14530
+        "nonWhitespaceCharacterCount": 14530,
+        "newlineCount": 286
       },
       "frontmatter": {
         "aliases": [
@@ -1905,6 +2046,7 @@
       "pageCount": 1.7866666666666666,
       "characterCount": 4272,
       "nonWhitespaceCharacterCount": 3652,
+      "newlineCount": 98,
       "readingTimeInMinutes": 2.0226415094339623,
       "linkCount": 0,
       "embedCount": 0,
@@ -1917,7 +2059,8 @@
         "pageCount": 1.7866666666666666,
         "wordCount": 536,
         "characterCount": 4272,
-        "nonWhitespaceCharacterCount": 3652
+        "nonWhitespaceCharacterCount": 3652,
+        "newlineCount": 98
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md": {
@@ -1930,6 +2073,7 @@
       "pageCount": 2.23,
       "characterCount": 4980,
       "nonWhitespaceCharacterCount": 4227,
+      "newlineCount": 92,
       "readingTimeInMinutes": 2.5245283018867926,
       "linkCount": 0,
       "embedCount": 0,
@@ -1942,7 +2086,8 @@
         "pageCount": 2.23,
         "wordCount": 669,
         "characterCount": 4980,
-        "nonWhitespaceCharacterCount": 4227
+        "nonWhitespaceCharacterCount": 4227,
+        "newlineCount": 92
       }
     },
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md": {
@@ -1955,6 +2100,7 @@
       "pageCount": 0.35,
       "characterCount": 714,
       "nonWhitespaceCharacterCount": 598,
+      "newlineCount": 9,
       "readingTimeInMinutes": 0.39622641509433965,
       "linkCount": 1,
       "embedCount": 0,
@@ -1967,7 +2113,8 @@
         "pageCount": 0.35,
         "wordCount": 105,
         "characterCount": 714,
-        "nonWhitespaceCharacterCount": 598
+        "nonWhitespaceCharacterCount": 598,
+        "newlineCount": 9
       }
     },
     "Writing/Antitheriomorphosis/Magic System/The Fourfold Doctrine/Art of Spell Casting.md": {
@@ -1980,6 +2127,7 @@
       "pageCount": 9.24,
       "characterCount": 28456,
       "nonWhitespaceCharacterCount": 22294,
+      "newlineCount": 353,
       "readingTimeInMinutes": 10.460377358490566,
       "linkCount": 27,
       "embedCount": 0,
@@ -1995,7 +2143,8 @@
         "pageCount": 9.24,
         "wordCount": 2772,
         "characterCount": 28456,
-        "nonWhitespaceCharacterCount": 22294
+        "nonWhitespaceCharacterCount": 22294,
+        "newlineCount": 353
       },
       "frontmatter": {
         "title": "The Art of Spell Casting",
@@ -2037,6 +2186,7 @@
       "pageCount": 8.87,
       "characterCount": 21516,
       "nonWhitespaceCharacterCount": 18442,
+      "newlineCount": 458,
       "readingTimeInMinutes": 10.041509433962265,
       "linkCount": 41,
       "embedCount": 0,
@@ -2051,7 +2201,8 @@
         "pageCount": 8.87,
         "wordCount": 2661,
         "characterCount": 21516,
-        "nonWhitespaceCharacterCount": 18442
+        "nonWhitespaceCharacterCount": 18442,
+        "newlineCount": 458
       },
       "frontmatter": {
         "title": "The Art of Commitments",
@@ -2089,6 +2240,7 @@
       "pageCount": 24.836666666666666,
       "characterCount": 55758,
       "nonWhitespaceCharacterCount": 46588,
+      "newlineCount": 1012,
       "readingTimeInMinutes": 28.116981132075473,
       "linkCount": 1,
       "embedCount": 0,
@@ -2101,7 +2253,8 @@
         "pageCount": 24.836666666666666,
         "wordCount": 7451,
         "characterCount": 55758,
-        "nonWhitespaceCharacterCount": 46588
+        "nonWhitespaceCharacterCount": 46588,
+        "newlineCount": 1012
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Soul/Soul Resonance.md": {
@@ -2114,6 +2267,7 @@
       "pageCount": 6.173333333333333,
       "characterCount": 15069,
       "nonWhitespaceCharacterCount": 12804,
+      "newlineCount": 264,
       "readingTimeInMinutes": 6.988679245283019,
       "linkCount": 0,
       "embedCount": 0,
@@ -2126,7 +2280,8 @@
         "pageCount": 6.173333333333333,
         "wordCount": 1852,
         "characterCount": 15069,
-        "nonWhitespaceCharacterCount": 12804
+        "nonWhitespaceCharacterCount": 12804,
+        "newlineCount": 264
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Soul/Soul Infusion.md": {
@@ -2139,6 +2294,7 @@
       "pageCount": 7.733333333333333,
       "characterCount": 17209,
       "nonWhitespaceCharacterCount": 14727,
+      "newlineCount": 214,
       "readingTimeInMinutes": 8.754716981132075,
       "linkCount": 0,
       "embedCount": 0,
@@ -2151,7 +2307,8 @@
         "pageCount": 7.733333333333333,
         "wordCount": 2320,
         "characterCount": 17209,
-        "nonWhitespaceCharacterCount": 14727
+        "nonWhitespaceCharacterCount": 14727,
+        "newlineCount": 214
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Soul/Soul Imperceptibility.md": {
@@ -2164,6 +2321,7 @@
       "pageCount": 7.3933333333333335,
       "characterCount": 16939,
       "nonWhitespaceCharacterCount": 14558,
+      "newlineCount": 209,
       "readingTimeInMinutes": 8.369811320754717,
       "linkCount": 0,
       "embedCount": 0,
@@ -2176,7 +2334,8 @@
         "pageCount": 7.3933333333333335,
         "wordCount": 2218,
         "characterCount": 16939,
-        "nonWhitespaceCharacterCount": 14558
+        "nonWhitespaceCharacterCount": 14558,
+        "newlineCount": 209
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Rigorous Magic.md": {
@@ -2189,6 +2348,7 @@
       "pageCount": 7.92,
       "characterCount": 13795,
       "nonWhitespaceCharacterCount": 11206,
+      "newlineCount": 260,
       "readingTimeInMinutes": 8.966037735849056,
       "linkCount": 0,
       "embedCount": 0,
@@ -2201,7 +2361,8 @@
         "pageCount": 7.92,
         "wordCount": 2376,
         "characterCount": 13795,
-        "nonWhitespaceCharacterCount": 11206
+        "nonWhitespaceCharacterCount": 11206,
+        "newlineCount": 260
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md": {
@@ -2214,6 +2375,7 @@
       "pageCount": 4.383333333333334,
       "characterCount": 11187,
       "nonWhitespaceCharacterCount": 9384,
+      "newlineCount": 224,
       "readingTimeInMinutes": 4.962264150943396,
       "linkCount": 0,
       "embedCount": 0,
@@ -2226,7 +2388,8 @@
         "pageCount": 4.383333333333334,
         "wordCount": 1315,
         "characterCount": 11187,
-        "nonWhitespaceCharacterCount": 9384
+        "nonWhitespaceCharacterCount": 9384,
+        "newlineCount": 224
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Incantations and Chants.md": {
@@ -2239,6 +2402,7 @@
       "pageCount": 3.0933333333333333,
       "characterCount": 7110,
       "nonWhitespaceCharacterCount": 6031,
+      "newlineCount": 130,
       "readingTimeInMinutes": 3.5018867924528303,
       "linkCount": 0,
       "embedCount": 0,
@@ -2251,7 +2415,8 @@
         "pageCount": 3.0933333333333333,
         "wordCount": 928,
         "characterCount": 7110,
-        "nonWhitespaceCharacterCount": 6031
+        "nonWhitespaceCharacterCount": 6031,
+        "newlineCount": 130
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Primus, the Fundamental Force of Magic.md": {
@@ -2264,6 +2429,7 @@
       "pageCount": 1.7566666666666666,
       "characterCount": 4394,
       "nonWhitespaceCharacterCount": 3816,
+      "newlineCount": 59,
       "readingTimeInMinutes": 1.9886792452830189,
       "linkCount": 0,
       "embedCount": 0,
@@ -2276,7 +2442,8 @@
         "pageCount": 1.7566666666666666,
         "wordCount": 527,
         "characterCount": 4394,
-        "nonWhitespaceCharacterCount": 3816
+        "nonWhitespaceCharacterCount": 3816,
+        "newlineCount": 59
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Commitments in Spell Optimization.md": {
@@ -2289,6 +2456,7 @@
       "pageCount": 6.966666666666667,
       "characterCount": 16920,
       "nonWhitespaceCharacterCount": 14666,
+      "newlineCount": 220,
       "readingTimeInMinutes": 7.886792452830188,
       "linkCount": 0,
       "embedCount": 0,
@@ -2301,7 +2469,8 @@
         "pageCount": 6.966666666666667,
         "wordCount": 2090,
         "characterCount": 16920,
-        "nonWhitespaceCharacterCount": 14666
+        "nonWhitespaceCharacterCount": 14666,
+        "newlineCount": 220
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Divine Mandate Against Sorcery.md": {
@@ -2314,6 +2483,7 @@
       "pageCount": 6.426666666666667,
       "characterCount": 12234,
       "nonWhitespaceCharacterCount": 10193,
+      "newlineCount": 127,
       "readingTimeInMinutes": 7.275471698113208,
       "linkCount": 0,
       "embedCount": 0,
@@ -2326,7 +2496,8 @@
         "pageCount": 6.426666666666667,
         "wordCount": 1928,
         "characterCount": 12234,
-        "nonWhitespaceCharacterCount": 10193
+        "nonWhitespaceCharacterCount": 10193,
+        "newlineCount": 127
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Core Concepts/The Soul.md": {
@@ -2339,6 +2510,7 @@
       "pageCount": 4.61,
       "characterCount": 10355,
       "nonWhitespaceCharacterCount": 8881,
+      "newlineCount": 114,
       "readingTimeInMinutes": 5.218867924528302,
       "linkCount": 4,
       "embedCount": 0,
@@ -2355,7 +2527,8 @@
         "pageCount": 4.61,
         "wordCount": 1383,
         "characterCount": 10355,
-        "nonWhitespaceCharacterCount": 8881
+        "nonWhitespaceCharacterCount": 8881,
+        "newlineCount": 114
       },
       "frontmatter": {
         "title": "The Soul: Fundamental Essence",
@@ -2393,6 +2566,7 @@
       "pageCount": 0.0033333333333333335,
       "characterCount": 10,
       "nonWhitespaceCharacterCount": 9,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
@@ -2405,7 +2579,8 @@
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
         "characterCount": 10,
-        "nonWhitespaceCharacterCount": 9
+        "nonWhitespaceCharacterCount": 9,
+        "newlineCount": 1
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Core Concepts/Primus.md": {
@@ -2418,6 +2593,7 @@
       "pageCount": 0.0033333333333333335,
       "characterCount": 8,
       "nonWhitespaceCharacterCount": 7,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
@@ -2430,7 +2606,8 @@
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
         "characterCount": 8,
-        "nonWhitespaceCharacterCount": 7
+        "nonWhitespaceCharacterCount": 7,
+        "newlineCount": 1
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Commitment Access.md": {
@@ -2443,6 +2620,7 @@
       "pageCount": 4.373333333333333,
       "characterCount": 10371,
       "nonWhitespaceCharacterCount": 8939,
+      "newlineCount": 171,
       "readingTimeInMinutes": 4.950943396226415,
       "linkCount": 0,
       "embedCount": 0,
@@ -2455,7 +2633,8 @@
         "pageCount": 4.373333333333333,
         "wordCount": 1312,
         "characterCount": 10371,
-        "nonWhitespaceCharacterCount": 8939
+        "nonWhitespaceCharacterCount": 8939,
+        "newlineCount": 171
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/Umbra Simulacrum.md": {
@@ -2468,6 +2647,7 @@
       "pageCount": 0.3233333333333333,
       "characterCount": 691,
       "nonWhitespaceCharacterCount": 567,
+      "newlineCount": 28,
       "readingTimeInMinutes": 0.3660377358490566,
       "linkCount": 0,
       "embedCount": 0,
@@ -2480,7 +2660,8 @@
         "pageCount": 0.3233333333333333,
         "wordCount": 97,
         "characterCount": 691,
-        "nonWhitespaceCharacterCount": 567
+        "nonWhitespaceCharacterCount": 567,
+        "newlineCount": 28
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Umbra Simulacrum Technique.md": {
@@ -2493,6 +2674,7 @@
       "pageCount": 1.9966666666666666,
       "characterCount": 4616,
       "nonWhitespaceCharacterCount": 3933,
+      "newlineCount": 102,
       "readingTimeInMinutes": 2.260377358490566,
       "linkCount": 0,
       "embedCount": 0,
@@ -2505,7 +2687,8 @@
         "pageCount": 1.9966666666666666,
         "wordCount": 599,
         "characterCount": 4616,
-        "nonWhitespaceCharacterCount": 3933
+        "nonWhitespaceCharacterCount": 3933,
+        "newlineCount": 102
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/Singularity.md": {
@@ -2518,6 +2701,7 @@
       "pageCount": 3.47,
       "characterCount": 8496,
       "nonWhitespaceCharacterCount": 7097,
+      "newlineCount": 190,
       "readingTimeInMinutes": 3.9283018867924526,
       "linkCount": 0,
       "embedCount": 0,
@@ -2530,7 +2714,8 @@
         "pageCount": 3.47,
         "wordCount": 1041,
         "characterCount": 8496,
-        "nonWhitespaceCharacterCount": 7097
+        "nonWhitespaceCharacterCount": 7097,
+        "newlineCount": 190
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Singularity Technique.md": {
@@ -2543,6 +2728,7 @@
       "pageCount": 3.433333333333333,
       "characterCount": 8423,
       "nonWhitespaceCharacterCount": 7034,
+      "newlineCount": 191,
       "readingTimeInMinutes": 3.8867924528301887,
       "linkCount": 0,
       "embedCount": 0,
@@ -2555,7 +2741,8 @@
         "pageCount": 3.433333333333333,
         "wordCount": 1030,
         "characterCount": 8423,
-        "nonWhitespaceCharacterCount": 7034
+        "nonWhitespaceCharacterCount": 7034,
+        "newlineCount": 191
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md": {
@@ -2568,6 +2755,7 @@
       "pageCount": 3.84,
       "characterCount": 9121,
       "nonWhitespaceCharacterCount": 7614,
+      "newlineCount": 157,
       "readingTimeInMinutes": 4.347169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -2580,7 +2768,8 @@
         "pageCount": 3.84,
         "wordCount": 1152,
         "characterCount": 9121,
-        "nonWhitespaceCharacterCount": 7614
+        "nonWhitespaceCharacterCount": 7614,
+        "newlineCount": 157
       }
     },
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md": {
@@ -2593,6 +2782,7 @@
       "pageCount": 4.836666666666667,
       "characterCount": 11437,
       "nonWhitespaceCharacterCount": 9843,
+      "newlineCount": 157,
       "readingTimeInMinutes": 5.475471698113208,
       "linkCount": 0,
       "embedCount": 0,
@@ -2605,7 +2795,8 @@
         "pageCount": 4.836666666666667,
         "wordCount": 1451,
         "characterCount": 11437,
-        "nonWhitespaceCharacterCount": 9843
+        "nonWhitespaceCharacterCount": 9843,
+        "newlineCount": 157
       }
     },
     "Writing/Antitheriomorphosis/Characters/Suki Takao.md": {
@@ -2618,6 +2809,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 14,
       "nonWhitespaceCharacterCount": 10,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -2630,7 +2822,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 14,
-        "nonWhitespaceCharacterCount": 10
+        "nonWhitespaceCharacterCount": 10,
+        "newlineCount": 3
       },
       "frontmatter": {
         "undefined": "",
@@ -2647,6 +2840,7 @@
       "pageCount": 1.8666666666666667,
       "characterCount": 4106,
       "nonWhitespaceCharacterCount": 3453,
+      "newlineCount": 68,
       "readingTimeInMinutes": 2.1132075471698113,
       "linkCount": 11,
       "embedCount": 0,
@@ -2662,7 +2856,8 @@
         "pageCount": 1.8666666666666667,
         "wordCount": 560,
         "characterCount": 4106,
-        "nonWhitespaceCharacterCount": 3453
+        "nonWhitespaceCharacterCount": 3453,
+        "newlineCount": 68
       },
       "frontmatter": {
         "aliases": [
@@ -2682,6 +2877,7 @@
       "pageCount": 1.3933333333333333,
       "characterCount": 2813,
       "nonWhitespaceCharacterCount": 2326,
+      "newlineCount": 66,
       "readingTimeInMinutes": 1.5773584905660378,
       "linkCount": 0,
       "embedCount": 0,
@@ -2696,7 +2892,8 @@
         "pageCount": 1.3933333333333333,
         "wordCount": 418,
         "characterCount": 2813,
-        "nonWhitespaceCharacterCount": 2326
+        "nonWhitespaceCharacterCount": 2326,
+        "newlineCount": 66
       },
       "frontmatter": {
         "aliases": [
@@ -2714,6 +2911,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 17,
       "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -2726,7 +2924,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
       },
       "frontmatter": {
         "undefined": "",
@@ -2743,6 +2942,7 @@
       "pageCount": 11.116666666666667,
       "characterCount": 25500,
       "nonWhitespaceCharacterCount": 21561,
+      "newlineCount": 363,
       "readingTimeInMinutes": 12.584905660377359,
       "linkCount": 24,
       "embedCount": 0,
@@ -2760,7 +2960,8 @@
         "pageCount": 11.116666666666667,
         "wordCount": 3335,
         "characterCount": 25500,
-        "nonWhitespaceCharacterCount": 21561
+        "nonWhitespaceCharacterCount": 21561,
+        "newlineCount": 363
       },
       "frontmatter": {
         "aliases": [
@@ -2790,6 +2991,7 @@
       "pageCount": 6.1033333333333335,
       "characterCount": 16186,
       "nonWhitespaceCharacterCount": 13674,
+      "newlineCount": 386,
       "readingTimeInMinutes": 6.909433962264151,
       "linkCount": 0,
       "embedCount": 0,
@@ -2802,7 +3004,8 @@
         "pageCount": 6.1033333333333335,
         "wordCount": 1831,
         "characterCount": 16186,
-        "nonWhitespaceCharacterCount": 13674
+        "nonWhitespaceCharacterCount": 13674,
+        "newlineCount": 386
       }
     },
     "Writing/Antitheriomorphosis/Characters/Julia Simmons.md": {
@@ -2815,6 +3018,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 17,
       "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -2827,7 +3031,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
       },
       "frontmatter": {
         "undefined": "",
@@ -2844,6 +3049,7 @@
       "pageCount": 3.91,
       "characterCount": 9108,
       "nonWhitespaceCharacterCount": 7692,
+      "newlineCount": 213,
       "readingTimeInMinutes": 4.426415094339623,
       "linkCount": 0,
       "embedCount": 0,
@@ -2856,7 +3062,8 @@
         "pageCount": 3.91,
         "wordCount": 1173,
         "characterCount": 9108,
-        "nonWhitespaceCharacterCount": 7692
+        "nonWhitespaceCharacterCount": 7692,
+        "newlineCount": 213
       }
     },
     "Writing/Antitheriomorphosis/Characters/Kane Smithson.md": {
@@ -2869,6 +3076,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 17,
       "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -2881,7 +3089,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
       },
       "frontmatter": {
         "undefined": "",
@@ -2898,6 +3107,7 @@
       "pageCount": 4.93,
       "characterCount": 12752,
       "nonWhitespaceCharacterCount": 10716,
+      "newlineCount": 290,
       "readingTimeInMinutes": 5.581132075471698,
       "linkCount": 0,
       "embedCount": 0,
@@ -2910,7 +3120,8 @@
         "pageCount": 4.93,
         "wordCount": 1479,
         "characterCount": 12752,
-        "nonWhitespaceCharacterCount": 10716
+        "nonWhitespaceCharacterCount": 10716,
+        "newlineCount": 290
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md": {
@@ -2923,6 +3134,7 @@
       "pageCount": 11.13,
       "characterCount": 28036,
       "nonWhitespaceCharacterCount": 23133,
+      "newlineCount": 584,
       "readingTimeInMinutes": 12.6,
       "linkCount": 0,
       "embedCount": 0,
@@ -2943,7 +3155,8 @@
         "pageCount": 11.13,
         "wordCount": 3339,
         "characterCount": 28036,
-        "nonWhitespaceCharacterCount": 23133
+        "nonWhitespaceCharacterCount": 23133,
+        "newlineCount": 584
       },
       "frontmatter": {
         "aliases": [
@@ -2967,25 +3180,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8694,
+      "wordCount": 8735,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 28.98,
-      "characterCount": 60086,
-      "nonWhitespaceCharacterCount": 48520,
-      "readingTimeInMinutes": 32.80754716981132,
+      "pageCount": 29.116666666666667,
+      "characterCount": 60467,
+      "nonWhitespaceCharacterCount": 48840,
+      "newlineCount": 879,
+      "readingTimeInMinutes": 32.9622641509434,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744649060573,
-      "modifiedDate": 1745870924412,
-      "sizeInBytes": 60328,
+      "modifiedDate": 1745871055742,
+      "sizeInBytes": 60709,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 27.313333333333333,
-        "wordCount": 8194,
-        "characterCount": 56483,
-        "nonWhitespaceCharacterCount": 45531
+        "pageCount": 28.98,
+        "wordCount": 8694,
+        "characterCount": 60086,
+        "nonWhitespaceCharacterCount": 48520,
+        "newlineCount": 877
       },
       "frontmatter": {
         "tags": [
@@ -3004,6 +3219,7 @@
       "pageCount": 8.053333333333333,
       "characterCount": 21325,
       "nonWhitespaceCharacterCount": 17587,
+      "newlineCount": 389,
       "readingTimeInMinutes": 9.116981132075471,
       "linkCount": 4,
       "embedCount": 0,
@@ -3022,7 +3238,8 @@
         "pageCount": 8.053333333333333,
         "wordCount": 2416,
         "characterCount": 21325,
-        "nonWhitespaceCharacterCount": 17587
+        "nonWhitespaceCharacterCount": 17587,
+        "newlineCount": 389
       },
       "frontmatter": {
         "aliases": [
@@ -3053,6 +3270,7 @@
       "pageCount": 1.4133333333333333,
       "characterCount": 3535,
       "nonWhitespaceCharacterCount": 3012,
+      "newlineCount": 64,
       "readingTimeInMinutes": 1.6,
       "linkCount": 23,
       "embedCount": 0,
@@ -3071,7 +3289,8 @@
         "pageCount": 1.4133333333333333,
         "wordCount": 424,
         "characterCount": 3535,
-        "nonWhitespaceCharacterCount": 3012
+        "nonWhitespaceCharacterCount": 3012,
+        "newlineCount": 64
       },
       "frontmatter": {
         "aliases": [
@@ -3102,6 +3321,7 @@
       "pageCount": 2.4033333333333333,
       "characterCount": 5678,
       "nonWhitespaceCharacterCount": 4864,
+      "newlineCount": 94,
       "readingTimeInMinutes": 2.720754716981132,
       "linkCount": 5,
       "embedCount": 0,
@@ -3117,7 +3337,8 @@
         "pageCount": 2.4033333333333333,
         "wordCount": 721,
         "characterCount": 5678,
-        "nonWhitespaceCharacterCount": 4864
+        "nonWhitespaceCharacterCount": 4864,
+        "newlineCount": 94
       },
       "frontmatter": {
         "aliases": [
@@ -3144,6 +3365,7 @@
       "pageCount": 6.02,
       "characterCount": 15560,
       "nonWhitespaceCharacterCount": 13391,
+      "newlineCount": 243,
       "readingTimeInMinutes": 6.815094339622641,
       "linkCount": 9,
       "embedCount": 0,
@@ -3159,7 +3381,8 @@
         "pageCount": 6.02,
         "wordCount": 1806,
         "characterCount": 15560,
-        "nonWhitespaceCharacterCount": 13391
+        "nonWhitespaceCharacterCount": 13391,
+        "newlineCount": 243
       },
       "frontmatter": {
         "aliases": [
@@ -3186,6 +3409,7 @@
       "pageCount": 4.4,
       "characterCount": 10483,
       "nonWhitespaceCharacterCount": 8685,
+      "newlineCount": 189,
       "readingTimeInMinutes": 4.981132075471698,
       "linkCount": 9,
       "embedCount": 0,
@@ -3201,7 +3425,8 @@
         "pageCount": 4.4,
         "wordCount": 1320,
         "characterCount": 10483,
-        "nonWhitespaceCharacterCount": 8685
+        "nonWhitespaceCharacterCount": 8685,
+        "newlineCount": 189
       },
       "frontmatter": {
         "aliases": [
@@ -3228,6 +3453,7 @@
       "pageCount": 5.41,
       "characterCount": 12280,
       "nonWhitespaceCharacterCount": 10516,
+      "newlineCount": 157,
       "readingTimeInMinutes": 6.124528301886793,
       "linkCount": 24,
       "embedCount": 0,
@@ -3244,7 +3470,8 @@
         "pageCount": 5.41,
         "wordCount": 1623,
         "characterCount": 12280,
-        "nonWhitespaceCharacterCount": 10516
+        "nonWhitespaceCharacterCount": 10516,
+        "newlineCount": 157
       },
       "frontmatter": {
         "aliases": [
@@ -3273,6 +3500,7 @@
       "pageCount": 5.3,
       "characterCount": 13223,
       "nonWhitespaceCharacterCount": 11351,
+      "newlineCount": 285,
       "readingTimeInMinutes": 6,
       "linkCount": 9,
       "embedCount": 0,
@@ -3289,7 +3517,8 @@
         "pageCount": 5.3,
         "wordCount": 1590,
         "characterCount": 13223,
-        "nonWhitespaceCharacterCount": 11351
+        "nonWhitespaceCharacterCount": 11351,
+        "newlineCount": 285
       },
       "frontmatter": {
         "aliases": [
@@ -3317,6 +3546,7 @@
       "pageCount": 3.9233333333333333,
       "characterCount": 9509,
       "nonWhitespaceCharacterCount": 8133,
+      "newlineCount": 155,
       "readingTimeInMinutes": 4.441509433962264,
       "linkCount": 6,
       "embedCount": 0,
@@ -3333,7 +3563,8 @@
         "pageCount": 3.9233333333333333,
         "wordCount": 1177,
         "characterCount": 9509,
-        "nonWhitespaceCharacterCount": 8133
+        "nonWhitespaceCharacterCount": 8133,
+        "newlineCount": 155
       },
       "frontmatter": {
         "aliases": [
@@ -3361,6 +3592,7 @@
       "pageCount": 4.05,
       "characterCount": 10275,
       "nonWhitespaceCharacterCount": 8854,
+      "newlineCount": 190,
       "readingTimeInMinutes": 4.584905660377358,
       "linkCount": 12,
       "embedCount": 0,
@@ -3377,7 +3609,8 @@
         "pageCount": 4.05,
         "wordCount": 1215,
         "characterCount": 10275,
-        "nonWhitespaceCharacterCount": 8854
+        "nonWhitespaceCharacterCount": 8854,
+        "newlineCount": 190
       },
       "frontmatter": {
         "aliases": [
@@ -3405,6 +3638,7 @@
       "pageCount": 4.3133333333333335,
       "characterCount": 10034,
       "nonWhitespaceCharacterCount": 8576,
+      "newlineCount": 167,
       "readingTimeInMinutes": 4.8830188679245285,
       "linkCount": 18,
       "embedCount": 0,
@@ -3421,7 +3655,8 @@
         "pageCount": 4.3133333333333335,
         "wordCount": 1294,
         "characterCount": 10034,
-        "nonWhitespaceCharacterCount": 8576
+        "nonWhitespaceCharacterCount": 8576,
+        "newlineCount": 167
       },
       "frontmatter": {
         "aliases": [
@@ -3449,6 +3684,7 @@
       "pageCount": 11.223333333333333,
       "characterCount": 32592,
       "nonWhitespaceCharacterCount": 27267,
+      "newlineCount": 665,
       "readingTimeInMinutes": 12.705660377358491,
       "linkCount": 2,
       "embedCount": 0,
@@ -3465,7 +3701,8 @@
         "pageCount": 11.223333333333333,
         "wordCount": 3367,
         "characterCount": 32592,
-        "nonWhitespaceCharacterCount": 27267
+        "nonWhitespaceCharacterCount": 27267,
+        "newlineCount": 665
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3513,6 +3750,7 @@
       "pageCount": 7.946666666666666,
       "characterCount": 22287,
       "nonWhitespaceCharacterCount": 18805,
+      "newlineCount": 442,
       "readingTimeInMinutes": 8.99622641509434,
       "linkCount": 2,
       "embedCount": 0,
@@ -3529,7 +3767,8 @@
         "pageCount": 7.946666666666666,
         "wordCount": 2384,
         "characterCount": 22287,
-        "nonWhitespaceCharacterCount": 18805
+        "nonWhitespaceCharacterCount": 18805,
+        "newlineCount": 442
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3572,6 +3811,7 @@
       "pageCount": 6.953333333333333,
       "characterCount": 17792,
       "nonWhitespaceCharacterCount": 15322,
+      "newlineCount": 318,
       "readingTimeInMinutes": 7.871698113207547,
       "linkCount": 1,
       "embedCount": 0,
@@ -3588,7 +3828,8 @@
         "pageCount": 6.953333333333333,
         "wordCount": 2086,
         "characterCount": 17792,
-        "nonWhitespaceCharacterCount": 15322
+        "nonWhitespaceCharacterCount": 15322,
+        "newlineCount": 318
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3631,6 +3872,7 @@
       "pageCount": 5.69,
       "characterCount": 16050,
       "nonWhitespaceCharacterCount": 13547,
+      "newlineCount": 331,
       "readingTimeInMinutes": 6.441509433962264,
       "linkCount": 0,
       "embedCount": 0,
@@ -3647,7 +3889,8 @@
         "pageCount": 5.69,
         "wordCount": 1707,
         "characterCount": 16050,
-        "nonWhitespaceCharacterCount": 13547
+        "nonWhitespaceCharacterCount": 13547,
+        "newlineCount": 331
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3686,6 +3929,7 @@
       "pageCount": 5.61,
       "characterCount": 16770,
       "nonWhitespaceCharacterCount": 14016,
+      "newlineCount": 340,
       "readingTimeInMinutes": 6.350943396226415,
       "linkCount": 1,
       "embedCount": 0,
@@ -3702,7 +3946,8 @@
         "pageCount": 5.61,
         "wordCount": 1683,
         "characterCount": 16770,
-        "nonWhitespaceCharacterCount": 14016
+        "nonWhitespaceCharacterCount": 14016,
+        "newlineCount": 340
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3751,6 +3996,7 @@
       "pageCount": 14.706666666666667,
       "characterCount": 37491,
       "nonWhitespaceCharacterCount": 32371,
+      "newlineCount": 565,
       "readingTimeInMinutes": 16.649056603773584,
       "linkCount": 10,
       "embedCount": 0,
@@ -3763,7 +4009,8 @@
         "pageCount": 14.706666666666667,
         "wordCount": 4412,
         "characterCount": 37491,
-        "nonWhitespaceCharacterCount": 32371
+        "nonWhitespaceCharacterCount": 32371,
+        "newlineCount": 565
       },
       "frontmatter": {
         "section": "Cultural & Species Background",
@@ -3810,6 +4057,7 @@
       "pageCount": 8.83,
       "characterCount": 22950,
       "nonWhitespaceCharacterCount": 19106,
+      "newlineCount": 404,
       "readingTimeInMinutes": 9.99622641509434,
       "linkCount": 16,
       "embedCount": 0,
@@ -3822,7 +4070,8 @@
         "pageCount": 8.83,
         "wordCount": 2649,
         "characterCount": 22950,
-        "nonWhitespaceCharacterCount": 19106
+        "nonWhitespaceCharacterCount": 19106,
+        "newlineCount": 404
       },
       "frontmatter": {
         "section": "Historical Timeline",
@@ -3863,6 +4112,7 @@
       "pageCount": 6.433333333333334,
       "characterCount": 17454,
       "nonWhitespaceCharacterCount": 15246,
+      "newlineCount": 290,
       "readingTimeInMinutes": 7.283018867924528,
       "linkCount": 6,
       "embedCount": 0,
@@ -3875,7 +4125,8 @@
         "pageCount": 6.433333333333334,
         "wordCount": 1930,
         "characterCount": 17454,
-        "nonWhitespaceCharacterCount": 15246
+        "nonWhitespaceCharacterCount": 15246,
+        "newlineCount": 290
       },
       "frontmatter": {
         "section": "Legacy & Impact",
@@ -3914,6 +4165,7 @@
       "pageCount": 7.78,
       "characterCount": 23494,
       "nonWhitespaceCharacterCount": 19797,
+      "newlineCount": 455,
       "readingTimeInMinutes": 8.80754716981132,
       "linkCount": 0,
       "embedCount": 0,
@@ -3930,7 +4182,8 @@
         "pageCount": 7.78,
         "wordCount": 2334,
         "characterCount": 23494,
-        "nonWhitespaceCharacterCount": 19797
+        "nonWhitespaceCharacterCount": 19797,
+        "newlineCount": 455
       },
       "frontmatter": {
         "character": "Godzilla/Godric Nordson",
@@ -3972,6 +4225,7 @@
       "pageCount": 3.99,
       "characterCount": 10792,
       "nonWhitespaceCharacterCount": 8300,
+      "newlineCount": 190,
       "readingTimeInMinutes": 4.516981132075472,
       "linkCount": 12,
       "embedCount": 0,
@@ -3991,7 +4245,8 @@
         "pageCount": 3.99,
         "wordCount": 1197,
         "characterCount": 10792,
-        "nonWhitespaceCharacterCount": 8300
+        "nonWhitespaceCharacterCount": 8300,
+        "newlineCount": 190
       },
       "frontmatter": {
         "section": "Basic Identity",
@@ -4025,6 +4280,7 @@
       "pageCount": 0.006666666666666667,
       "characterCount": 17,
       "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -4037,7 +4293,8 @@
         "pageCount": 0.006666666666666667,
         "wordCount": 2,
         "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
       },
       "frontmatter": {
         "undefined": "",
@@ -4054,6 +4311,7 @@
       "pageCount": 1.6233333333333333,
       "characterCount": 3798,
       "nonWhitespaceCharacterCount": 3216,
+      "newlineCount": 82,
       "readingTimeInMinutes": 1.8377358490566038,
       "linkCount": 5,
       "embedCount": 0,
@@ -4070,7 +4328,8 @@
         "pageCount": 1.6233333333333333,
         "wordCount": 487,
         "characterCount": 3798,
-        "nonWhitespaceCharacterCount": 3216
+        "nonWhitespaceCharacterCount": 3216,
+        "newlineCount": 82
       },
       "frontmatter": {
         "aliases": [
@@ -4091,6 +4350,7 @@
       "pageCount": 7.7,
       "characterCount": 18102,
       "nonWhitespaceCharacterCount": 15459,
+      "newlineCount": 349,
       "readingTimeInMinutes": 8.716981132075471,
       "linkCount": 0,
       "embedCount": 0,
@@ -4105,7 +4365,8 @@
         "pageCount": 7.7,
         "wordCount": 2310,
         "characterCount": 18102,
-        "nonWhitespaceCharacterCount": 15459
+        "nonWhitespaceCharacterCount": 15459,
+        "newlineCount": 349
       },
       "frontmatter": {
         "aliases": [
@@ -4123,6 +4384,7 @@
       "pageCount": 4.703333333333333,
       "characterCount": 12303,
       "nonWhitespaceCharacterCount": 10633,
+      "newlineCount": 261,
       "readingTimeInMinutes": 5.324528301886793,
       "linkCount": 0,
       "embedCount": 0,
@@ -4135,7 +4397,8 @@
         "pageCount": 4.703333333333333,
         "wordCount": 1411,
         "characterCount": 12303,
-        "nonWhitespaceCharacterCount": 10633
+        "nonWhitespaceCharacterCount": 10633,
+        "newlineCount": 261
       }
     },
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md": {
@@ -4148,6 +4411,7 @@
       "pageCount": 9.863333333333333,
       "characterCount": 22332,
       "nonWhitespaceCharacterCount": 19090,
+      "newlineCount": 310,
       "readingTimeInMinutes": 11.166037735849057,
       "linkCount": 6,
       "embedCount": 0,
@@ -4164,7 +4428,8 @@
         "pageCount": 9.863333333333333,
         "wordCount": 2959,
         "characterCount": 22332,
-        "nonWhitespaceCharacterCount": 19090
+        "nonWhitespaceCharacterCount": 19090,
+        "newlineCount": 310
       },
       "frontmatter": {
         "aliases": [
@@ -4193,6 +4458,7 @@
       "pageCount": 4.21,
       "characterCount": 9337,
       "nonWhitespaceCharacterCount": 7853,
+      "newlineCount": 242,
       "readingTimeInMinutes": 4.766037735849056,
       "linkCount": 0,
       "embedCount": 0,
@@ -4205,7 +4471,8 @@
         "pageCount": 4.21,
         "wordCount": 1263,
         "characterCount": 9337,
-        "nonWhitespaceCharacterCount": 7853
+        "nonWhitespaceCharacterCount": 7853,
+        "newlineCount": 242
       }
     },
     "Writing/Antitheriomorphosis/Characters/Baragon, the Liminal Sentinel.md": {
@@ -4218,6 +4485,7 @@
       "pageCount": 2.23,
       "characterCount": 5615,
       "nonWhitespaceCharacterCount": 4821,
+      "newlineCount": 129,
       "readingTimeInMinutes": 2.5245283018867926,
       "linkCount": 0,
       "embedCount": 0,
@@ -4230,7 +4498,8 @@
         "pageCount": 2.23,
         "wordCount": 669,
         "characterCount": 5615,
-        "nonWhitespaceCharacterCount": 4821
+        "nonWhitespaceCharacterCount": 4821,
+        "newlineCount": 129
       }
     },
     "Writing/Antitheriomorphosis/Characters/Arthur Calloway.md": {
@@ -4243,6 +4512,7 @@
       "pageCount": 2.8333333333333335,
       "characterCount": 7246,
       "nonWhitespaceCharacterCount": 6233,
+      "newlineCount": 164,
       "readingTimeInMinutes": 3.207547169811321,
       "linkCount": 0,
       "embedCount": 0,
@@ -4255,7 +4525,8 @@
         "pageCount": 2.8333333333333335,
         "wordCount": 850,
         "characterCount": 7246,
-        "nonWhitespaceCharacterCount": 6233
+        "nonWhitespaceCharacterCount": 6233,
+        "newlineCount": 164
       }
     },
     "Writing/Antitheriomorphosis/Characters/Anguirus, the Stalwart Vanguard.md": {
@@ -4268,6 +4539,7 @@
       "pageCount": 0.013333333333333334,
       "characterCount": 35,
       "nonWhitespaceCharacterCount": 29,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.01509433962264151,
       "linkCount": 0,
       "embedCount": 0,
@@ -4282,7 +4554,8 @@
         "pageCount": 0.013333333333333334,
         "wordCount": 4,
         "characterCount": 35,
-        "nonWhitespaceCharacterCount": 29
+        "nonWhitespaceCharacterCount": 29,
+        "newlineCount": 3
       },
       "frontmatter": {
         "aliases": [
@@ -4300,6 +4573,7 @@
       "pageCount": 1.7033333333333334,
       "characterCount": 3817,
       "nonWhitespaceCharacterCount": 3222,
+      "newlineCount": 64,
       "readingTimeInMinutes": 1.9283018867924528,
       "linkCount": 0,
       "embedCount": 0,
@@ -4312,7 +4586,8 @@
         "pageCount": 1.7033333333333334,
         "wordCount": 511,
         "characterCount": 3817,
-        "nonWhitespaceCharacterCount": 3222
+        "nonWhitespaceCharacterCount": 3222,
+        "newlineCount": 64
       }
     },
     "Writing/Antitheriomorphosis/Characters/Andrew Julius Ford.md": {
@@ -4325,6 +4600,7 @@
       "pageCount": 0.01,
       "characterCount": 22,
       "nonWhitespaceCharacterCount": 17,
+      "newlineCount": 3,
       "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 0,
@@ -4341,7 +4617,8 @@
         "pageCount": 0.01,
         "wordCount": 3,
         "characterCount": 22,
-        "nonWhitespaceCharacterCount": 17
+        "nonWhitespaceCharacterCount": 17,
+        "newlineCount": 3
       },
       "frontmatter": {
         "aliases": [
@@ -4362,6 +4639,7 @@
       "pageCount": 3.77,
       "characterCount": 11507,
       "nonWhitespaceCharacterCount": 9697,
+      "newlineCount": 415,
       "readingTimeInMinutes": 4.2679245283018865,
       "linkCount": 0,
       "embedCount": 0,
@@ -4374,7 +4652,8 @@
         "pageCount": 3.77,
         "wordCount": 1131,
         "characterCount": 11507,
-        "nonWhitespaceCharacterCount": 9697
+        "nonWhitespaceCharacterCount": 9697,
+        "newlineCount": 415
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Resolving Northern Gojira Documentation Overlap .md": {
@@ -4387,6 +4666,7 @@
       "pageCount": 4.45,
       "characterCount": 14241,
       "nonWhitespaceCharacterCount": 11673,
+      "newlineCount": 482,
       "readingTimeInMinutes": 5.037735849056604,
       "linkCount": 0,
       "embedCount": 0,
@@ -4399,7 +4679,8 @@
         "pageCount": 4.45,
         "wordCount": 1335,
         "characterCount": 14241,
-        "nonWhitespaceCharacterCount": 11673
+        "nonWhitespaceCharacterCount": 11673,
+        "newlineCount": 482
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Species Profile Creation Instructions.md": {
@@ -4412,6 +4693,7 @@
       "pageCount": 4.263333333333334,
       "characterCount": 11824,
       "nonWhitespaceCharacterCount": 9967,
+      "newlineCount": 375,
       "readingTimeInMinutes": 4.826415094339622,
       "linkCount": 0,
       "embedCount": 0,
@@ -4424,7 +4706,8 @@
         "pageCount": 4.263333333333334,
         "wordCount": 1279,
         "characterCount": 11824,
-        "nonWhitespaceCharacterCount": 9967
+        "nonWhitespaceCharacterCount": 9967,
+        "newlineCount": 375
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md": {
@@ -4437,6 +4720,7 @@
       "pageCount": 6.61,
       "characterCount": 20155,
       "nonWhitespaceCharacterCount": 16865,
+      "newlineCount": 695,
       "readingTimeInMinutes": 7.483018867924528,
       "linkCount": 0,
       "embedCount": 0,
@@ -4449,7 +4733,8 @@
         "pageCount": 6.61,
         "wordCount": 1983,
         "characterCount": 20155,
-        "nonWhitespaceCharacterCount": 16865
+        "nonWhitespaceCharacterCount": 16865,
+        "newlineCount": 695
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md": {
@@ -4462,6 +4747,7 @@
       "pageCount": 4.98,
       "characterCount": 9372,
       "nonWhitespaceCharacterCount": 7670,
+      "newlineCount": 69,
       "readingTimeInMinutes": 5.637735849056604,
       "linkCount": 0,
       "embedCount": 0,
@@ -4474,7 +4760,8 @@
         "pageCount": 4.98,
         "wordCount": 1494,
         "characterCount": 9372,
-        "nonWhitespaceCharacterCount": 7670
+        "nonWhitespaceCharacterCount": 7670,
+        "newlineCount": 69
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Cultural Heritage Creation Instructions.md": {
@@ -4487,6 +4774,7 @@
       "pageCount": 5.296666666666667,
       "characterCount": 14110,
       "nonWhitespaceCharacterCount": 12040,
+      "newlineCount": 401,
       "readingTimeInMinutes": 5.996226415094339,
       "linkCount": 0,
       "embedCount": 0,
@@ -4499,7 +4787,8 @@
         "pageCount": 5.296666666666667,
         "wordCount": 1589,
         "characterCount": 14110,
-        "nonWhitespaceCharacterCount": 12040
+        "nonWhitespaceCharacterCount": 12040,
+        "newlineCount": 401
       }
     },
     "Writing/Antitheriomorphosis/Creation Instructions/Character Profile Creation Instructions.md": {
@@ -4512,6 +4801,7 @@
       "pageCount": 9.23,
       "characterCount": 26290,
       "nonWhitespaceCharacterCount": 22185,
+      "newlineCount": 740,
       "readingTimeInMinutes": 10.449056603773585,
       "linkCount": 0,
       "embedCount": 0,
@@ -4524,7 +4814,8 @@
         "pageCount": 9.23,
         "wordCount": 2769,
         "characterCount": 26290,
-        "nonWhitespaceCharacterCount": 22185
+        "nonWhitespaceCharacterCount": 22185,
+        "newlineCount": 740
       }
     },
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas": {
@@ -4537,6 +4828,7 @@
       "pageCount": 0.12,
       "characterCount": 319,
       "nonWhitespaceCharacterCount": 263,
+      "newlineCount": 21,
       "readingTimeInMinutes": 0.13584905660377358,
       "linkCount": 0,
       "embedCount": 0,
@@ -4549,7 +4841,8 @@
         "pageCount": 0.12,
         "wordCount": 36,
         "characterCount": 319,
-        "nonWhitespaceCharacterCount": 263
+        "nonWhitespaceCharacterCount": 263,
+        "newlineCount": 21
       }
     },
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas": {
@@ -4562,6 +4855,7 @@
       "pageCount": 0.07666666666666666,
       "characterCount": 190,
       "nonWhitespaceCharacterCount": 157,
+      "newlineCount": 11,
       "readingTimeInMinutes": 0.08679245283018867,
       "linkCount": 0,
       "embedCount": 0,
@@ -4574,7 +4868,8 @@
         "pageCount": 0.07666666666666666,
         "wordCount": 23,
         "characterCount": 190,
-        "nonWhitespaceCharacterCount": 157
+        "nonWhitespaceCharacterCount": 157,
+        "newlineCount": 11
       }
     },
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas": {
@@ -4587,6 +4882,7 @@
       "pageCount": 0.24333333333333335,
       "characterCount": 566,
       "nonWhitespaceCharacterCount": 457,
+      "newlineCount": 33,
       "readingTimeInMinutes": 0.27547169811320754,
       "linkCount": 0,
       "embedCount": 0,
@@ -4599,7 +4895,8 @@
         "pageCount": 0.24333333333333335,
         "wordCount": 73,
         "characterCount": 566,
-        "nonWhitespaceCharacterCount": 457
+        "nonWhitespaceCharacterCount": 457,
+        "newlineCount": 33
       }
     },
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas": {
@@ -4612,6 +4909,7 @@
       "pageCount": 0.26,
       "characterCount": 675,
       "nonWhitespaceCharacterCount": 573,
+      "newlineCount": 25,
       "readingTimeInMinutes": 0.2943396226415094,
       "linkCount": 1,
       "embedCount": 0,
@@ -4624,7 +4922,8 @@
         "pageCount": 0.26,
         "wordCount": 78,
         "characterCount": 675,
-        "nonWhitespaceCharacterCount": 573
+        "nonWhitespaceCharacterCount": 573,
+        "newlineCount": 25
       }
     },
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md": {
@@ -4637,6 +4936,7 @@
       "pageCount": 3.3333333333333335,
       "characterCount": 7972,
       "nonWhitespaceCharacterCount": 6724,
+      "newlineCount": 196,
       "readingTimeInMinutes": 3.7735849056603774,
       "linkCount": 1,
       "embedCount": 0,
@@ -4649,7 +4949,8 @@
         "pageCount": 3.3333333333333335,
         "wordCount": 1000,
         "characterCount": 7972,
-        "nonWhitespaceCharacterCount": 6724
+        "nonWhitespaceCharacterCount": 6724,
+        "newlineCount": 196
       }
     },
     "Templates/Magic System - Core Concepts.md": {
@@ -4662,6 +4963,7 @@
       "pageCount": 1.55,
       "characterCount": 4160,
       "nonWhitespaceCharacterCount": 3535,
+      "newlineCount": 93,
       "readingTimeInMinutes": 1.7547169811320755,
       "linkCount": 0,
       "embedCount": 0,
@@ -4674,7 +4976,8 @@
         "pageCount": 1.55,
         "wordCount": 465,
         "characterCount": 4160,
-        "nonWhitespaceCharacterCount": 3535
+        "nonWhitespaceCharacterCount": 3535,
+        "newlineCount": 93
       }
     },
     "Templates/Character References Template.md": {
@@ -4687,6 +4990,7 @@
       "pageCount": 2.3533333333333335,
       "characterCount": 7144,
       "nonWhitespaceCharacterCount": 5854,
+      "newlineCount": 214,
       "readingTimeInMinutes": 2.6641509433962263,
       "linkCount": 9,
       "embedCount": 0,
@@ -4699,7 +5003,8 @@
         "pageCount": 2.3533333333333335,
         "wordCount": 706,
         "characterCount": 7144,
-        "nonWhitespaceCharacterCount": 5854
+        "nonWhitespaceCharacterCount": 5854,
+        "newlineCount": 214
       }
     },
     "Spending.md": {
@@ -4712,6 +5017,7 @@
       "pageCount": 0.03666666666666667,
       "characterCount": 42,
       "nonWhitespaceCharacterCount": 30,
+      "newlineCount": 12,
       "readingTimeInMinutes": 0.04150943396226415,
       "linkCount": 0,
       "embedCount": 0,
@@ -4724,7 +5030,8 @@
         "pageCount": 0.03666666666666667,
         "wordCount": 11,
         "characterCount": 42,
-        "nonWhitespaceCharacterCount": 30
+        "nonWhitespaceCharacterCount": 30,
+        "newlineCount": 12
       }
     },
     "Notepad.md": {
@@ -4737,6 +5044,7 @@
       "pageCount": 15.32,
       "characterCount": 27010,
       "nonWhitespaceCharacterCount": 21980,
+      "newlineCount": 327,
       "readingTimeInMinutes": 17.343396226415095,
       "linkCount": 0,
       "embedCount": 0,
@@ -4749,7 +5057,8 @@
         "pageCount": 15.32,
         "wordCount": 4596,
         "characterCount": 27010,
-        "nonWhitespaceCharacterCount": 21980
+        "nonWhitespaceCharacterCount": 21980,
+        "newlineCount": 327
       }
     },
     "Notepad 2.md": {
@@ -4762,6 +5071,7 @@
       "pageCount": 6.743333333333333,
       "characterCount": 11947,
       "nonWhitespaceCharacterCount": 9785,
+      "newlineCount": 159,
       "readingTimeInMinutes": 7.633962264150943,
       "linkCount": 0,
       "embedCount": 0,
@@ -4774,7 +5084,8 @@
         "pageCount": 6.743333333333333,
         "wordCount": 2023,
         "characterCount": 11947,
-        "nonWhitespaceCharacterCount": 9785
+        "nonWhitespaceCharacterCount": 9785,
+        "newlineCount": 159
       }
     },
     "Journal/To My Fellow Kupalords.md": {
@@ -4787,6 +5098,7 @@
       "pageCount": 0.49333333333333335,
       "characterCount": 849,
       "nonWhitespaceCharacterCount": 693,
+      "newlineCount": 15,
       "readingTimeInMinutes": 0.5584905660377358,
       "linkCount": 0,
       "embedCount": 0,
@@ -4799,7 +5111,8 @@
         "pageCount": 0.49333333333333335,
         "wordCount": 148,
         "characterCount": 849,
-        "nonWhitespaceCharacterCount": 693
+        "nonWhitespaceCharacterCount": 693,
+        "newlineCount": 15
       }
     },
     "Journal/On Godzilla.md": {
@@ -4812,6 +5125,7 @@
       "pageCount": 4.383333333333334,
       "characterCount": 7257,
       "nonWhitespaceCharacterCount": 5915,
+      "newlineCount": 50,
       "readingTimeInMinutes": 4.962264150943396,
       "linkCount": 0,
       "embedCount": 0,
@@ -4824,7 +5138,8 @@
         "pageCount": 4.383333333333334,
         "wordCount": 1315,
         "characterCount": 7257,
-        "nonWhitespaceCharacterCount": 5915
+        "nonWhitespaceCharacterCount": 5915,
+        "newlineCount": 50
       }
     },
     "Journal/Journal.md": {
@@ -4837,6 +5152,7 @@
       "pageCount": 0.0033333333333333335,
       "characterCount": 9,
       "nonWhitespaceCharacterCount": 8,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
@@ -4849,7 +5165,8 @@
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
         "characterCount": 9,
-        "nonWhitespaceCharacterCount": 8
+        "nonWhitespaceCharacterCount": 8,
+        "newlineCount": 1
       }
     },
     "Journal/A Letter to My Sweetest Pookie.md": {
@@ -4862,6 +5179,7 @@
       "pageCount": 1.87,
       "characterCount": 3007,
       "nonWhitespaceCharacterCount": 2425,
+      "newlineCount": 31,
       "readingTimeInMinutes": 2.116981132075472,
       "linkCount": 0,
       "embedCount": 0,
@@ -4874,7 +5192,8 @@
         "pageCount": 1.87,
         "wordCount": 561,
         "characterCount": 3007,
-        "nonWhitespaceCharacterCount": 2425
+        "nonWhitespaceCharacterCount": 2425,
+        "newlineCount": 31
       }
     },
     "Journal/8-30-24.md": {
@@ -4887,6 +5206,7 @@
       "pageCount": 0.06666666666666667,
       "characterCount": 143,
       "nonWhitespaceCharacterCount": 117,
+      "newlineCount": 7,
       "readingTimeInMinutes": 0.07547169811320754,
       "linkCount": 0,
       "embedCount": 0,
@@ -4899,7 +5219,8 @@
         "pageCount": 0.06666666666666667,
         "wordCount": 20,
         "characterCount": 143,
-        "nonWhitespaceCharacterCount": 117
+        "nonWhitespaceCharacterCount": 117,
+        "newlineCount": 7
       }
     },
     "Journal/8-29-24.md": {
@@ -4912,6 +5233,7 @@
       "pageCount": 0.12333333333333334,
       "characterCount": 227,
       "nonWhitespaceCharacterCount": 183,
+      "newlineCount": 8,
       "readingTimeInMinutes": 0.13962264150943396,
       "linkCount": 0,
       "embedCount": 0,
@@ -4924,7 +5246,8 @@
         "pageCount": 0.12333333333333334,
         "wordCount": 37,
         "characterCount": 227,
-        "nonWhitespaceCharacterCount": 183
+        "nonWhitespaceCharacterCount": 183,
+        "newlineCount": 8
       }
     },
     "Journal/8-27-24.md": {
@@ -4937,6 +5260,7 @@
       "pageCount": 0.21,
       "characterCount": 353,
       "nonWhitespaceCharacterCount": 281,
+      "newlineCount": 10,
       "readingTimeInMinutes": 0.23773584905660378,
       "linkCount": 0,
       "embedCount": 0,
@@ -4949,7 +5273,8 @@
         "pageCount": 0.21,
         "wordCount": 63,
         "characterCount": 353,
-        "nonWhitespaceCharacterCount": 281
+        "nonWhitespaceCharacterCount": 281,
+        "newlineCount": 10
       }
     },
     "Curiosity/STL - Unordered Maps.md": {
@@ -4962,6 +5287,7 @@
       "pageCount": 0.8533333333333334,
       "characterCount": 1704,
       "nonWhitespaceCharacterCount": 1396,
+      "newlineCount": 42,
       "readingTimeInMinutes": 0.9660377358490566,
       "linkCount": 0,
       "embedCount": 0,
@@ -4974,7 +5300,8 @@
         "pageCount": 0.8533333333333334,
         "wordCount": 256,
         "characterCount": 1704,
-        "nonWhitespaceCharacterCount": 1396
+        "nonWhitespaceCharacterCount": 1396,
+        "newlineCount": 42
       }
     },
     "Curiosity/Basic Project Essentials Revision.md": {
@@ -4987,6 +5314,7 @@
       "pageCount": 0.13333333333333333,
       "characterCount": 315,
       "nonWhitespaceCharacterCount": 258,
+      "newlineCount": 8,
       "readingTimeInMinutes": 0.1509433962264151,
       "linkCount": 0,
       "embedCount": 0,
@@ -4999,7 +5327,8 @@
         "pageCount": 0.13333333333333333,
         "wordCount": 40,
         "characterCount": 315,
-        "nonWhitespaceCharacterCount": 258
+        "nonWhitespaceCharacterCount": 258,
+        "newlineCount": 8
       }
     },
     "Curiosity/Learning C++.md": {
@@ -5012,6 +5341,7 @@
       "pageCount": 0.20333333333333334,
       "characterCount": 750,
       "nonWhitespaceCharacterCount": 600,
+      "newlineCount": 47,
       "readingTimeInMinutes": 0.23018867924528302,
       "linkCount": 0,
       "embedCount": 0,
@@ -5024,7 +5354,8 @@
         "pageCount": 0.20333333333333334,
         "wordCount": 61,
         "characterCount": 750,
-        "nonWhitespaceCharacterCount": 600
+        "nonWhitespaceCharacterCount": 600,
+        "newlineCount": 47
       }
     },
     "Curiosity/Curiosity.md": {
@@ -5037,6 +5368,7 @@
       "pageCount": 0.0033333333333333335,
       "characterCount": 11,
       "nonWhitespaceCharacterCount": 10,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
@@ -5049,7 +5381,8 @@
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
         "characterCount": 11,
-        "nonWhitespaceCharacterCount": 10
+        "nonWhitespaceCharacterCount": 10,
+        "newlineCount": 1
       }
     },
     "College/College.md": {
@@ -5062,6 +5395,7 @@
       "pageCount": 0.0033333333333333335,
       "characterCount": 9,
       "nonWhitespaceCharacterCount": 8,
+      "newlineCount": 1,
       "readingTimeInMinutes": 0.0037735849056603774,
       "linkCount": 0,
       "embedCount": 0,
@@ -5074,7 +5408,8 @@
         "pageCount": 0.0033333333333333335,
         "wordCount": 1,
         "characterCount": 9,
-        "nonWhitespaceCharacterCount": 8
+        "nonWhitespaceCharacterCount": 8,
+        "newlineCount": 1
       }
     },
     "College/1-27-25 - Physics.md": {
@@ -5087,6 +5422,7 @@
       "pageCount": 0.18,
       "characterCount": 366,
       "nonWhitespaceCharacterCount": 307,
+      "newlineCount": 10,
       "readingTimeInMinutes": 0.2037735849056604,
       "linkCount": 0,
       "embedCount": 0,
@@ -5099,32 +5435,8 @@
         "pageCount": 0.18,
         "wordCount": 54,
         "characterCount": 366,
-        "nonWhitespaceCharacterCount": 307
-      }
-    },
-    "Notepad 3.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 978,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.26,
-      "characterCount": 5562,
-      "nonWhitespaceCharacterCount": 4537,
-      "readingTimeInMinutes": 3.690566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745804843550,
-      "modifiedDate": 1745809240519,
-      "sizeInBytes": 5572,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "nonWhitespaceCharacterCount": 307,
+        "newlineCount": 10
       }
     }
   }
