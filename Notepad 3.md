@@ -4,11 +4,17 @@ Okay, let's develop Godric's hairstyle further than the vague description I gave
 
 ## The Description
 
-Godric's hair is short, his fringe has enough length on the top to be swept back and for some strands to fall on his forehead. However, his preferred length is usually just above the brow - any longer than that and he will consider cutting.
+Godric's hair is somewhere between short to medium-length.
 
-His hair in general is rather textured than smooth and due to products never working on him is slightly tousled, especially if he's doing physical work. The strands that fall on his hair are typically tendrils that dance across his forehead when he works; it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria is most affected, as per usual. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight.
+When he prepares for the day, he sweeps it back into a side part.
 
-I think it looks business like? I don't know the term, but it looks professional yet has potential to make him look even more rugged.
+However, when he does any sort of physical activity, the length allows some strands to stray and fall down on his forehead. They dance across its surface, dangling rather than stiffly moving - it adds that deliciously masculine and virile ruggedness that enthralls women and some men alike - Maria most affected, as per usual.
+
+His hair in general is soft to the touch, but develops a slightly tousled appearance over the course of the day, especially if he's doing physical work. This quality only becomes more prominent during his dormant period, wherein he will shave less as he sleeps for several days straight.
+
+When I try to imagine Godric's hair, I envision a mix of a cowboy's and a businessman's hair; his signature blend of refined ruggednes/rugged refinement shining through
+
+What do you think? What could this be? I can imagine him wearing some classical styles.
 
 ## Self-Sufficiency
 
