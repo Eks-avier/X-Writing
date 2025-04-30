@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "c39a82bda869fda4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notepad 3"
+            }
+          },
+          {
+            "id": "5ae6e9d4c6ba226a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refined Godzilla Profile Outline"
+            }
+          },
+          {
             "id": "07db8c6ed1789a39",
             "type": "leaf",
             "state": {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +236,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -221,10 +248,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab52f142b77365ff",
+  "active": "5ae6e9d4c6ba226a",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Unrefined/Atomic Stride.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Concept - Medieval AU.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 4.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
@@ -241,15 +278,6 @@
     "The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
-    "Writing/Antitheriomorphosis/Titans/Wardens - Human Identities.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla - Physicality and Forms.md",
-    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Blossoming Bonds Arc .md",
-    "Writing/Antitheriomorphosis/Story Arcs/Scene - Eyes of Mine.md",
-    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md",
-    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
-    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla - Refined/Identity/Physical Appearance .md",
     "Tags/#atm+titan+northern-faction",
     "Tags/#atm+titan+species-profile",
     "Tags/#atm+titan+titan-culture",
@@ -259,7 +287,6 @@
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla",
     "Writing/Antitheriomorphosis/Characters/Titans",
     "Tags/#atm+titan",
-    "Tags/#atm+titan+northern_gojira+godzilla",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas"

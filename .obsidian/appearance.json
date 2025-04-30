@@ -2,10 +2,8 @@
   "cssTheme": "Primary",
   "accentColor": "#2d3d4e",
   "theme": "system",
-  "baseFontSize": 18,
+  "baseFontSize": 12,
   "nativeMenus": false,
   "showRibbon": false,
-  "textFontFamily": "Quintessential",
-  "interfaceFontFamily": "Rubik",
-  "monospaceFontFamily": "JetBrains Mono"
+  "textFontFamily": "Rubik"
 }

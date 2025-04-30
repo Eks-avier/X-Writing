@@ -13,7 +13,7 @@
   "maxCharsPerLine": 64,
   "isDimUnfocusedEnabled": false,
   "isDimHighlightListParentEnabled": false,
-  "isDimTableAsOneEnabled": true,
+  "isDimTableAsOneEnabled": false,
   "dimUnfocusedMode": "paragraphs",
   "dimUnfocusedEditorsBehavior": "dim",
   "dimmedOpacity": 0.25,

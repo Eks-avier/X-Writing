@@ -34,15 +34,6 @@ tags: [atm, wip]
 	- Random people in public who encounter him are surprised he's 25, often thinking he's older than that
 		- A hint to his true age that people subconsciously pick up
 
-> [!quote] Young Regality
-> “Why did we even document him as 25 years old?”
-> “You can't see it?! He looks younger than some of our junior staff!”
-> “Yeah, but he doesn't act like it…”
-> “Exactly. Please find me a 25 year old that speaks and moves like this.”
-> “In one of those Ivy leagues maybe…?”
-> “Yeah right…”
-> “OH MY GOD, I JUST REALIZED… HE'S GEN-Z?!”
-
 ### Facial Structure
 
 Godric's face combines mathematical precision and balance with elemental weathering to create something simultaneously classical and primal.

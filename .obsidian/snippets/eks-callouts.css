@@ -1,0 +1,60 @@
+/* Programming-focused Callouts */
+
+.callout[data-callout="code"] {
+  --callout-color: 79, 174, 212;
+  --callout-icon: lucide-code;
+}
+
+.callout[data-callout="bug"] {
+  --callout-color: 220, 38, 38;
+  --callout-icon: lucide-bug;
+}
+
+.callout[data-callout="cmake"] {
+  --callout-color: 0, 122, 204;
+  --callout-icon: lucide-hammer;
+}
+
+/* Narrative-focused Callouts */
+
+.callout[data-callout="worldbuilding"] {
+  --callout-color: 121, 116, 14;
+  --callout-icon: lucide-globe;
+}
+
+.callout[data-callout="character"] {
+  --callout-color: 251, 146, 60;
+  --callout-icon: lucide-user;
+}
+
+.callout[data-callout="dialogue"] {
+  --callout-color: 45, 212, 191;
+  --callout-icon: lucide-message-circle;
+}
+
+.callout[data-callout="plot"] {
+  --callout-color: 16, 185, 129;
+  --callout-icon: lucide-milestone;
+}
+
+.callout[data-callout="scene"] {
+  --callout-color: 139, 92, 246;
+  --callout-icon: lucide-theater;
+}
+
+/* Bridge Callouts */
+
+.callout[data-callout="metaphor"] {
+  --callout-color: 234, 88, 12;
+  --callout-icon: lucide-combine;
+}
+
+.callout[data-callout="structure"] {
+  --callout-color: 8, 145, 178;
+  --callout-icon: lucide-layout-template;
+}
+
+.callout[data-callout="magic-system"] {
+  --callout-color: 192, 38, 211;
+  --callout-icon: lucide-wand;
+}

@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Primary",
+  "accentColor": "#2d3d4e",
+  "theme": "system",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "showRibbon": false,
+  "textFontFamily": "Quintessential",
+  "interfaceFontFamily": "Rubik",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "eks-callouts"
+  ]
+}
