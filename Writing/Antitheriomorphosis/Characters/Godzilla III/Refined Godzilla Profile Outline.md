@@ -518,7 +518,7 @@ This uniform is modeled after a typical three-piece suit, though modified to gre
 
 For the jacket:
 - **Type**: Frock coat
-- **Length**: Knee-length
+- **Length**: Below knee-length
 - **Texture**: Rougher than his typical attire, an indication of greater scale count but not completely as it is still smoothened by Mothra's silk
 - **Fit**:
 	- Highly flattering on his physique
