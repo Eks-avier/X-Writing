@@ -236,9 +236,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "switcher:Open quick switcher": false,
