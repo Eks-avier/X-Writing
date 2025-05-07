@@ -275,11 +275,11 @@ Barring Maria's completely perfect anatomy, Godric's is one of the closest thing
 
 ### Adonis Index (Shoulder-to-Waist Circumference)
 
-| Measurement | Value | Golden Ratio (φ) | Deviation | Notes |
-|-------------|-------|-----------------|-----------|-------|
-| Shoulder Circumference | 52.2” (132.6cm) | — | — | Base measurement |
-| Waist Circumference | 32.4” (82.3cm) | — | — | Secondary measurement |
-| **Adonis Index** | **1.611** | **1.618** | **0.43%** | Approaches but never reaches perfect φ |
+| Measurement            | Value           | Golden Ratio (φ) | Deviation | Notes                                  |
+| ---------------------- | --------------- | ---------------- | --------- | -------------------------------------- |
+| Shoulder Circumference | 52.2” (132.6cm) | —                | —         | Base measurement                       |
+| Waist Circumference    | 32.4” (82.3cm)  | —                | —         | Secondary measurement                  |
+| **Adonis Index**       | **1.611**       | **1.618**        | **0.43%** | Approaches but never reaches perfect φ |
 
 ### Comprehensive Measurements
 
