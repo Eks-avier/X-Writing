@@ -4,7 +4,7 @@
 	- Responds to either equally
 - **Human Name**: Maria Lepidiel
 - **Height**: 5'8'' (173 cm) 
-- **Weight**: ~143 lbs (~65 kg)
+- **Weight**: ~143 lbs (~65 kg) 
 - **Sex**: Female
 - **Approximated Age**: 250 m.y. old
 - **Documented Age**: 24
