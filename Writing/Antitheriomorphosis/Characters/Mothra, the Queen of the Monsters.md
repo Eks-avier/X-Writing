@@ -70,7 +70,7 @@ Maintains a completely human appearance at all times, though with subtle indicat
 
 Mothra's face and clothing subtly illuminate with different colors reflecting her emotional state:
 
-- **Reddish-yellow**: Anger or protective instinct activatd
+- **Reddish-yellow**: Anger or protective instinct activated
 - **Pink**: Flustered, embarrassed, or experiencing attraction
 - **Blue**: Peace, contentment, or deep focus
 - **White-gold**: Divine authority being exercised
