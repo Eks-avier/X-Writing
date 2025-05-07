@@ -6,9 +6,9 @@ tags: [atm, wip]
 
 ## Basic Overview
 
-- **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla / Gojira
 	- He answers to both equally
+- **Human Name**: Godric Nordson
 - **Height**: 6'5'' (196 cm)
 - **Weight**: 265 lbs (120 kg)
 - **Sex**: Male

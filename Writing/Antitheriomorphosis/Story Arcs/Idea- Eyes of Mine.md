@@ -38,7 +38,7 @@ Another addition is Godric's willingness to have blue eyes now. Normally, when h
 
 He always hated it before, secretly. Whenever his eyes are blue and he looks at himself in the mirror—it almost looks like his father looking at him. Eons ago, the mere sight would send him in a sour and pained mood.
 
-Yet now, even after learning the truth, it still remains painful. But anger no longer swells in him, just grief and regret. Now he finds himself wondering... if he had black hair because of his dark dorsal fin coloration thanks to his mother, would his father have white hair due to his snow white ones? Godric still finds it too painful to look at his reflection. 
+Yet now, even after learning the truth, it still remains painful. But anger no longer swells in him, grief and regret all that remains. Now he finds himself wondering... if he had black hair because of his dark dorsal fin coloration thanks to his mother, would his father have white hair due to his snow white ones? Many questions about his father's potential human form flood his mind, and while Godric still finds it too painful to look at his reflection, it's for an entirely different reason now.
 
 Not even his own mother's eyes could save him from such sorrow. He was happy to have them, happy to at least have something different from his father in visage. Now, he sometimes imagines a vague, faceless apparition of her, the only feature he knows would he the eyes he himself carried. Yet even in the facelessness of his mother—she would look ashamed. She would look at his own son betrayed; his own son who cursed his own father and her mate for eons.
 
