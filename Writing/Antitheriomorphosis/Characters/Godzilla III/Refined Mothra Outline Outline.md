@@ -3,14 +3,13 @@
 - **Titan Name**: Mothra / Mosura
 	- Responds to either equally
 - **Human Name**: Maria Lepidiel
-- **Height**: 6'5'' (196 cm)
-- **Weight**: 265 lbs (120 kg)
-- **Sex**: Male
+- **Height**: 5'8'' (173 cm) 
+- **Weight**: ~143 lbs (~65 kg)
+- **Sex**: Female
 - **Approximated Age**: 250 m.y. old
-- **Documented Age**: 25
-- **Birthday**: November 3
-	- First resurgence in the modern era, as noted by Eiji Serizawa
-	- Doubles as a meta-reference since the first Godzilla film was released in that date on 1954
+- **Documented Age**: 24
+- **Birthday**: December 12
+	- Meta reference to the release date of `Godzilla `
 - **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
 - **Others**:
 	- Physical proportions are aesthetic
