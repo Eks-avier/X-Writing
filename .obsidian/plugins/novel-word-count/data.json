@@ -67,6 +67,557 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 676,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.2533333333333334,
+      "characterCount": 5252,
+      "nonWhitespaceCharacterCount": 4322,
+      "newlineCount": 112,
+      "readingTimeInMinutes": 2.550943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743974967727,
+      "modifiedDate": 1743974999496,
+      "sizeInBytes": 5292,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.2533333333333334,
+        "wordCount": 676,
+        "characterCount": 5252,
+        "nonWhitespaceCharacterCount": 4322,
+        "newlineCount": 112
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 779,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5966666666666667,
+      "characterCount": 5837,
+      "nonWhitespaceCharacterCount": 4896,
+      "newlineCount": 146,
+      "readingTimeInMinutes": 2.939622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743846243544,
+      "modifiedDate": 1743846264603,
+      "sizeInBytes": 5869,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5966666666666667,
+        "wordCount": 779,
+        "characterCount": 5837,
+        "nonWhitespaceCharacterCount": 4896,
+        "newlineCount": 146
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2032,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.773333333333333,
+      "characterCount": 17477,
+      "nonWhitespaceCharacterCount": 15057,
+      "newlineCount": 317,
+      "readingTimeInMinutes": 7.667924528301887,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Unrefined - Godzilla: Base Physical Capabilities"
+      ],
+      "createdDate": 1743623415299,
+      "modifiedDate": 1743623698138,
+      "sizeInBytes": 17600,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.773333333333333,
+        "wordCount": 2032,
+        "characterCount": 17477,
+        "nonWhitespaceCharacterCount": 15057,
+        "newlineCount": 317
+      },
+      "frontmatter": {
+        "aliases": [
+          "Unrefined - Godzilla: Base Physical Capabilities"
+        ]
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/TITANUS ZILLA SPECIES PROFILE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 220,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7333333333333333,
+      "characterCount": 1723,
+      "nonWhitespaceCharacterCount": 1467,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 0.8301886792452831,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055076,
+      "modifiedDate": 1744827390869,
+      "sizeInBytes": 1737,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7333333333333333,
+        "wordCount": 220,
+        "characterCount": 1723,
+        "nonWhitespaceCharacterCount": 1467,
+        "newlineCount": 37
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9975,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 33.25,
+      "characterCount": 81207,
+      "nonWhitespaceCharacterCount": 70483,
+      "newlineCount": 682,
+      "readingTimeInMinutes": 37.64150943396226,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": [
+        "Titanus gojira",
+        "'Titanus gojira' Species Profile"
+      ],
+      "createdDate": 1743616456917,
+      "modifiedDate": 1744877250702,
+      "sizeInBytes": 81951,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 33.25,
+        "wordCount": 9975,
+        "characterCount": 81207,
+        "nonWhitespaceCharacterCount": 70483,
+        "newlineCount": 682
+      },
+      "frontmatter": {
+        "title": "'Titanus gojira' Species Profile",
+        "parent": "[[Titan Species]]",
+        "alias": [
+          "Titanus gojira",
+          "'Titanus gojira' Species Profile"
+        ],
+        "component_type": "species",
+        "component_category": "titan_biology",
+        "related_entities": [
+          "[[Godzilla]]",
+          "[[Titanus zilla]]",
+          "[[MUTO]]"
+        ],
+        "species_status": "Near-extinct",
+        "last_pure_member": "Godzilla",
+        "core_abilities": [
+          "Limitless Adaptation",
+          "Domination of Energy"
+        ],
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/species/classification/ascendant_line"
+        ],
+        "created": "2025-04-03",
+        "last_modified": "2025-04-03"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 347,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1566666666666667,
+      "characterCount": 3007,
+      "nonWhitespaceCharacterCount": 2590,
+      "newlineCount": 67,
+      "readingTimeInMinutes": 1.3094339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055074,
+      "modifiedDate": 1744827292221,
+      "sizeInBytes": 3019,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1566666666666667,
+        "wordCount": 347,
+        "characterCount": 3007,
+        "nonWhitespaceCharacterCount": 2590,
+        "newlineCount": 67
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 625,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0833333333333335,
+      "characterCount": 4482,
+      "nonWhitespaceCharacterCount": 3839,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 2.358490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743846349128,
+      "modifiedDate": 1743846352140,
+      "sizeInBytes": 4496,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.0833333333333335,
+        "wordCount": 625,
+        "characterCount": 4482,
+        "nonWhitespaceCharacterCount": 3839,
+        "newlineCount": 31
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4031,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.436666666666667,
+      "characterCount": 32212,
+      "nonWhitespaceCharacterCount": 26185,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 15.211320754716981,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743586100172,
+      "modifiedDate": 1743965836072,
+      "sizeInBytes": 33228,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 13.436666666666667,
+        "wordCount": 4031,
+        "characterCount": 32212,
+        "nonWhitespaceCharacterCount": 26185,
+        "newlineCount": 179
+      },
+      "frontmatter": {
+        "title": "Godzilla: Physical Appearance",
+        "parent": "[[Godzilla]]",
+        "component_type": "identity",
+        "component_category": "physical_characteristics",
+        "related_aspects": [
+          "[[Cultural Heritage]]",
+          "[[Regeneration]]",
+          "[[Clothing Regalia]]",
+          "[[Godzilla - Energy Domination]]"
+        ],
+        "evolution_points": [
+          {
+            "Titan Form": "Original massive form prior to Antitheriomorphosis"
+          },
+          {
+            "Early Human Form": "Initial manifestation after transformation"
+          },
+          {
+            "Adjusted Human Form": "Refined appearance after adaptation period"
+          },
+          {
+            "Post-Invasion Form": "Present physical characteristics with 'Zone' state enhancements"
+          }
+        ],
+        "physical_presence_rating": 10,
+        "adaptability_rating": 10,
+        "distinctive_features": [
+          "golden eyes",
+          "blue eyes",
+          "controlled movements",
+          "gravitational presence",
+          "beard growth"
+        ],
+        "seasonal_changes": true,
+        "tags": [
+          "atm",
+          "atm/titans/godzilla",
+          "atm/identity/physical",
+          "atm/appearance"
+        ],
+        "created": "2025-04-02",
+        "last_modified": "2025-04-02"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.756666666666666,
+      "characterCount": 34979,
+      "nonWhitespaceCharacterCount": 30403,
+      "newlineCount": 469,
+      "readingTimeInMinutes": 15.573584905660377,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "Northern Titanus gojira: Cultural Profile",
+        "Northern Titanus gojira",
+        "Northerners",
+        "Northerner"
+      ],
+      "createdDate": 1743620988893,
+      "modifiedDate": 1744649034846,
+      "sizeInBytes": 35889,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 13.756666666666666,
+        "wordCount": 4127,
+        "characterCount": 34979,
+        "nonWhitespaceCharacterCount": 30403,
+        "newlineCount": 469
+      },
+      "frontmatter": {
+        "title": "Northern Titanus gojira: Cultural Profile",
+        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira|Titanus gojira]]",
+        "alias": [
+          "Northern Titanus gojira: Cultural Profile",
+          "Northern Titanus gojira",
+          "Northerners",
+          "Northerner"
+        ],
+        "component_type": "culture",
+        "component_category": "titan_culture",
+        "related_entities": [
+          "[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]",
+          "[[Dagon, the Last Northern Patriarch]]"
+        ],
+        "faction": "Northern",
+        "territory": "Northern Hemisphere",
+        "cultural_emphasis": "Family bonds",
+        "distinctive_traits": [
+          "Whiter dorsal fins",
+          "Cooler-toned scales",
+          "Cold environment adaptation",
+          "Familial prioritization"
+        ],
+        "tags": [
+          "atm",
+          "atm/culture/northern_gojira",
+          "atm/titan/northern_faction"
+        ],
+        "created": "2025-04-03",
+        "last_modified": "2025-04-03"
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 288,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.96,
+      "characterCount": 2273,
+      "nonWhitespaceCharacterCount": 1943,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 1.0867924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055039,
+      "modifiedDate": 1744283770712,
+      "sizeInBytes": 2291,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.96,
+        "wordCount": 288,
+        "characterCount": 2273,
+        "nonWhitespaceCharacterCount": 1943,
+        "newlineCount": 42
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3212,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.706666666666667,
+      "characterCount": 21522,
+      "nonWhitespaceCharacterCount": 18014,
+      "newlineCount": 276,
+      "readingTimeInMinutes": 12.120754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055036,
+      "modifiedDate": 1743846388209,
+      "sizeInBytes": 21568,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 10.706666666666667,
+        "wordCount": 3212,
+        "characterCount": 21522,
+        "nonWhitespaceCharacterCount": 18014,
+        "newlineCount": 276
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1351,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.503333333333333,
+      "characterCount": 11710,
+      "nonWhitespaceCharacterCount": 10080,
+      "newlineCount": 199,
+      "readingTimeInMinutes": 5.09811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055021,
+      "modifiedDate": 1741370314601,
+      "sizeInBytes": 11782,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.503333333333333,
+        "wordCount": 1351,
+        "characterCount": 11710,
+        "nonWhitespaceCharacterCount": 10080,
+        "newlineCount": 199
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Narrative Sidepiece.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3036,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.12,
+      "characterCount": 18602,
+      "nonWhitespaceCharacterCount": 15428,
+      "newlineCount": 273,
+      "readingTimeInMinutes": 11.456603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055025,
+      "modifiedDate": 1743846388182,
+      "sizeInBytes": 19374,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 10.12,
+        "wordCount": 3036,
+        "characterCount": 18602,
+        "nonWhitespaceCharacterCount": 15428,
+        "newlineCount": 273
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Atomic Stride.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 869,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8966666666666665,
+      "characterCount": 5324,
+      "nonWhitespaceCharacterCount": 4365,
+      "newlineCount": 103,
+      "readingTimeInMinutes": 3.279245283018868,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055014,
+      "modifiedDate": 1744649034081,
+      "sizeInBytes": 5335,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.8966666666666665,
+        "wordCount": 869,
+        "characterCount": 5324,
+        "nonWhitespaceCharacterCount": 4365,
+        "newlineCount": 103
+      }
+    },
+    "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8986,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 29.953333333333333,
+      "characterCount": 59920,
+      "nonWhitespaceCharacterCount": 48819,
+      "newlineCount": 735,
+      "readingTimeInMinutes": 33.90943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744136957003,
+      "modifiedDate": 1744315383713,
+      "sizeInBytes": 60302,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 29.953333333333333,
+        "wordCount": 8986,
+        "characterCount": 59920,
+        "nonWhitespaceCharacterCount": 48819,
+        "newlineCount": 735
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 948,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.16,
+      "characterCount": 6722,
+      "nonWhitespaceCharacterCount": 5689,
+      "newlineCount": 106,
+      "readingTimeInMinutes": 3.577358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746641479868,
+      "modifiedDate": 1746641496608,
+      "sizeInBytes": 6776,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.16,
+        "wordCount": 948,
+        "characterCount": 6722,
+        "nonWhitespaceCharacterCount": 5689,
+        "newlineCount": 106
+      }
+    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -92,6 +643,79 @@
         "characterCount": 10315,
         "nonWhitespaceCharacterCount": 8915,
         "newlineCount": 160
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 564,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.88,
+      "characterCount": 5854,
+      "nonWhitespaceCharacterCount": 4814,
+      "newlineCount": 154,
+      "readingTimeInMinutes": 2.128301886792453,
+      "linkCount": 5,
+      "embedCount": 9,
+      "aliases": null,
+      "createdDate": 1743664862702,
+      "modifiedDate": 1744649034927,
+      "sizeInBytes": 5862,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.88,
+        "wordCount": 564,
+        "characterCount": 5854,
+        "nonWhitespaceCharacterCount": 4814,
+        "newlineCount": 154
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1460,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.866666666666666,
+      "characterCount": 12209,
+      "nonWhitespaceCharacterCount": 10587,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 5.509433962264151,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665889602,
+      "modifiedDate": 1743846388221,
+      "sizeInBytes": 12741,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.866666666666666,
+        "wordCount": 1460,
+        "characterCount": 12209,
+        "nonWhitespaceCharacterCount": 10587,
+        "newlineCount": 179
+      },
+      "frontmatter": {
+        "title": "Titanus gojira: Current Status",
+        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
+        "component_type": "historical",
+        "component_category": "extinction_status",
+        "species_status": "Near-extinct",
+        "extinction_cause": "Specialized MUTO parasitism",
+        "extinction_timeframe": "Progressive decline over millions of years",
+        "related_documents": [
+          "[[Godzilla Legacy]]",
+          "[[Titanus Zilla Relationship]]",
+          "[[Decline and Extinction]]"
+        ],
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/history/extinction"
+        ]
       }
     },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/2_Society/Universal Hierarchy of Priorities.md": {
@@ -319,79 +943,6 @@
         "last_modified": "2025-04-07"
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1460,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.866666666666666,
-      "characterCount": 12209,
-      "nonWhitespaceCharacterCount": 10587,
-      "newlineCount": 179,
-      "readingTimeInMinutes": 5.509433962264151,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665889602,
-      "modifiedDate": 1743846388221,
-      "sizeInBytes": 12741,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.866666666666666,
-        "wordCount": 1460,
-        "characterCount": 12209,
-        "nonWhitespaceCharacterCount": 10587,
-        "newlineCount": 179
-      },
-      "frontmatter": {
-        "title": "Titanus gojira: Current Status",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "historical",
-        "component_category": "extinction_status",
-        "species_status": "Near-extinct",
-        "extinction_cause": "Specialized MUTO parasitism",
-        "extinction_timeframe": "Progressive decline over millions of years",
-        "related_documents": [
-          "[[Godzilla Legacy]]",
-          "[[Titanus Zilla Relationship]]",
-          "[[Decline and Extinction]]"
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/history/extinction"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 564,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.88,
-      "characterCount": 5854,
-      "nonWhitespaceCharacterCount": 4814,
-      "newlineCount": 154,
-      "readingTimeInMinutes": 2.128301886792453,
-      "linkCount": 5,
-      "embedCount": 9,
-      "aliases": null,
-      "createdDate": 1743664862702,
-      "modifiedDate": 1744649034927,
-      "sizeInBytes": 5862,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.88,
-        "wordCount": 564,
-        "characterCount": 5854,
-        "nonWhitespaceCharacterCount": 4814,
-        "newlineCount": 154
-      }
-    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Reproductive Biology.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -550,6 +1101,112 @@
         "last_modified": "2025-04-04"
       }
     },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 861,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.87,
+      "characterCount": 8214,
+      "nonWhitespaceCharacterCount": 6960,
+      "newlineCount": 107,
+      "readingTimeInMinutes": 3.249056603773585,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743665337416,
+      "modifiedDate": 1744603424346,
+      "sizeInBytes": 8828,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.87,
+        "wordCount": 861,
+        "characterCount": 8214,
+        "nonWhitespaceCharacterCount": 6960,
+        "newlineCount": 107
+      },
+      "frontmatter": {
+        "title": "Limitless Adaptation",
+        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
+        "component_type": "biology",
+        "component_category": "ability",
+        "related_components": [
+          "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]",
+          "[[Regenerative Systems]]",
+          "[[Physical Characteristics]]"
+        ],
+        "manifestations": [
+          "Cellular Reprogramming",
+          "Tissue Transmutation",
+          "Neural Plasticity",
+          "Challenge Response"
+        ],
+        "current_status": "Active in Godzilla",
+        "tags": [
+          "atm",
+          "atm/species/titanus_gojira",
+          "atm/biology/ability"
+        ],
+        "created": "2025-04-05",
+        "last_modified": "2025-04-05"
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 809,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.6966666666666668,
+      "characterCount": 8004,
+      "nonWhitespaceCharacterCount": 6735,
+      "newlineCount": 130,
+      "readingTimeInMinutes": 3.0528301886792453,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743702945431,
+      "modifiedDate": 1744603423839,
+      "sizeInBytes": 8014,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.6966666666666668,
+        "wordCount": 809,
+        "characterCount": 8004,
+        "nonWhitespaceCharacterCount": 6735,
+        "newlineCount": 130
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 979,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.263333333333333,
+      "characterCount": 10300,
+      "nonWhitespaceCharacterCount": 8692,
+      "newlineCount": 183,
+      "readingTimeInMinutes": 3.6943396226415093,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743703457248,
+      "modifiedDate": 1744603423717,
+      "sizeInBytes": 10304,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.263333333333333,
+        "wordCount": 979,
+        "characterCount": 10300,
+        "nonWhitespaceCharacterCount": 8692,
+        "newlineCount": 183
+      }
+    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -603,112 +1260,6 @@
         "last_modified": "2025-04-05"
       }
     },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 809,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.6966666666666668,
-      "characterCount": 8004,
-      "nonWhitespaceCharacterCount": 6735,
-      "newlineCount": 130,
-      "readingTimeInMinutes": 3.0528301886792453,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743702945431,
-      "modifiedDate": 1744603423839,
-      "sizeInBytes": 8014,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6966666666666668,
-        "wordCount": 809,
-        "characterCount": 8004,
-        "nonWhitespaceCharacterCount": 6735,
-        "newlineCount": 130
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 861,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.87,
-      "characterCount": 8214,
-      "nonWhitespaceCharacterCount": 6960,
-      "newlineCount": 107,
-      "readingTimeInMinutes": 3.249056603773585,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743665337416,
-      "modifiedDate": 1744603424346,
-      "sizeInBytes": 8828,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.87,
-        "wordCount": 861,
-        "characterCount": 8214,
-        "nonWhitespaceCharacterCount": 6960,
-        "newlineCount": 107
-      },
-      "frontmatter": {
-        "title": "Limitless Adaptation",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]",
-        "component_type": "biology",
-        "component_category": "ability",
-        "related_components": [
-          "[[Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy]]",
-          "[[Regenerative Systems]]",
-          "[[Physical Characteristics]]"
-        ],
-        "manifestations": [
-          "Cellular Reprogramming",
-          "Tissue Transmutation",
-          "Neural Plasticity",
-          "Challenge Response"
-        ],
-        "current_status": "Active in Godzilla",
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/biology/ability"
-        ],
-        "created": "2025-04-05",
-        "last_modified": "2025-04-05"
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 979,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.263333333333333,
-      "characterCount": 10300,
-      "nonWhitespaceCharacterCount": 8692,
-      "newlineCount": 183,
-      "readingTimeInMinutes": 3.6943396226415093,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743703457248,
-      "modifiedDate": 1744603423717,
-      "sizeInBytes": 10304,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.263333333333333,
-        "wordCount": 979,
-        "characterCount": 10300,
-        "nonWhitespaceCharacterCount": 8692,
-        "newlineCount": 183
-      }
-    },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -734,33 +1285,6 @@
         "characterCount": 42761,
         "nonWhitespaceCharacterCount": 36517,
         "newlineCount": 818
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 243,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.81,
-      "characterCount": 2170,
-      "nonWhitespaceCharacterCount": 1887,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 0.9169811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744601530627,
-      "modifiedDate": 1744602310680,
-      "sizeInBytes": 2170,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.81,
-        "wordCount": 243,
-        "characterCount": 2170,
-        "nonWhitespaceCharacterCount": 1887,
-        "newlineCount": 44
       }
     },
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md": {
@@ -850,528 +1374,31 @@
         "newlineCount": 11
       }
     },
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Mothra's Regalia.md": {
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 676,
+      "wordCount": 243,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.2533333333333334,
-      "characterCount": 5252,
-      "nonWhitespaceCharacterCount": 4322,
-      "newlineCount": 112,
-      "readingTimeInMinutes": 2.550943396226415,
+      "pageCount": 0.81,
+      "characterCount": 2170,
+      "nonWhitespaceCharacterCount": 1887,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 0.9169811320754717,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743974967727,
-      "modifiedDate": 1743974999496,
-      "sizeInBytes": 5292,
+      "createdDate": 1744601530627,
+      "modifiedDate": 1744602310680,
+      "sizeInBytes": 2170,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.2533333333333334,
-        "wordCount": 676,
-        "characterCount": 5252,
-        "nonWhitespaceCharacterCount": 4322,
-        "newlineCount": 112
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 779,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5966666666666667,
-      "characterCount": 5837,
-      "nonWhitespaceCharacterCount": 4896,
-      "newlineCount": 146,
-      "readingTimeInMinutes": 2.939622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743846243544,
-      "modifiedDate": 1743846264603,
-      "sizeInBytes": 5869,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5966666666666667,
-        "wordCount": 779,
-        "characterCount": 5837,
-        "nonWhitespaceCharacterCount": 4896,
-        "newlineCount": 146
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/TITANUS ZILLA SPECIES PROFILE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 220,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7333333333333333,
-      "characterCount": 1723,
-      "nonWhitespaceCharacterCount": 1467,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 0.8301886792452831,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055076,
-      "modifiedDate": 1744827390869,
-      "sizeInBytes": 1737,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7333333333333333,
-        "wordCount": 220,
-        "characterCount": 1723,
-        "nonWhitespaceCharacterCount": 1467,
-        "newlineCount": 37
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/The Hands of the King.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 625,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.0833333333333335,
-      "characterCount": 4482,
-      "nonWhitespaceCharacterCount": 3839,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 2.358490566037736,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743846349128,
-      "modifiedDate": 1743846352140,
-      "sizeInBytes": 4496,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.0833333333333335,
-        "wordCount": 625,
-        "characterCount": 4482,
-        "nonWhitespaceCharacterCount": 3839,
-        "newlineCount": 31
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9975,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 33.25,
-      "characterCount": 81207,
-      "nonWhitespaceCharacterCount": 70483,
-      "newlineCount": 682,
-      "readingTimeInMinutes": 37.64150943396226,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": [
-        "Titanus gojira",
-        "'Titanus gojira' Species Profile"
-      ],
-      "createdDate": 1743616456917,
-      "modifiedDate": 1744877250702,
-      "sizeInBytes": 81951,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 33.25,
-        "wordCount": 9975,
-        "characterCount": 81207,
-        "nonWhitespaceCharacterCount": 70483,
-        "newlineCount": 682
-      },
-      "frontmatter": {
-        "title": "'Titanus gojira' Species Profile",
-        "parent": "[[Titan Species]]",
-        "alias": [
-          "Titanus gojira",
-          "'Titanus gojira' Species Profile"
-        ],
-        "component_type": "species",
-        "component_category": "titan_biology",
-        "related_entities": [
-          "[[Godzilla]]",
-          "[[Titanus zilla]]",
-          "[[MUTO]]"
-        ],
-        "species_status": "Near-extinct",
-        "last_pure_member": "Godzilla",
-        "core_abilities": [
-          "Limitless Adaptation",
-          "Domination of Energy"
-        ],
-        "tags": [
-          "atm",
-          "atm/species/titanus_gojira",
-          "atm/species/classification/ascendant_line"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Base Physical Capabilities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2032,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.773333333333333,
-      "characterCount": 17477,
-      "nonWhitespaceCharacterCount": 15057,
-      "newlineCount": 317,
-      "readingTimeInMinutes": 7.667924528301887,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "Unrefined - Godzilla: Base Physical Capabilities"
-      ],
-      "createdDate": 1743623415299,
-      "modifiedDate": 1743623698138,
-      "sizeInBytes": 17600,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.773333333333333,
-        "wordCount": 2032,
-        "characterCount": 17477,
-        "nonWhitespaceCharacterCount": 15057,
-        "newlineCount": 317
-      },
-      "frontmatter": {
-        "aliases": [
-          "Unrefined - Godzilla: Base Physical Capabilities"
-        ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 347,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1566666666666667,
-      "characterCount": 3007,
-      "nonWhitespaceCharacterCount": 2590,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 1.3094339622641509,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055074,
-      "modifiedDate": 1744827292221,
-      "sizeInBytes": 3019,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1566666666666667,
-        "wordCount": 347,
-        "characterCount": 3007,
-        "nonWhitespaceCharacterCount": 2590,
-        "newlineCount": 67
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Physical Appearance .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4031,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.436666666666667,
-      "characterCount": 32212,
-      "nonWhitespaceCharacterCount": 26185,
-      "newlineCount": 179,
-      "readingTimeInMinutes": 15.211320754716981,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743586100172,
-      "modifiedDate": 1743965836072,
-      "sizeInBytes": 33228,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.436666666666667,
-        "wordCount": 4031,
-        "characterCount": 32212,
-        "nonWhitespaceCharacterCount": 26185,
-        "newlineCount": 179
-      },
-      "frontmatter": {
-        "title": "Godzilla: Physical Appearance",
-        "parent": "[[Godzilla]]",
-        "component_type": "identity",
-        "component_category": "physical_characteristics",
-        "related_aspects": [
-          "[[Cultural Heritage]]",
-          "[[Regeneration]]",
-          "[[Clothing Regalia]]",
-          "[[Godzilla - Energy Domination]]"
-        ],
-        "evolution_points": [
-          {
-            "Titan Form": "Original massive form prior to Antitheriomorphosis"
-          },
-          {
-            "Early Human Form": "Initial manifestation after transformation"
-          },
-          {
-            "Adjusted Human Form": "Refined appearance after adaptation period"
-          },
-          {
-            "Post-Invasion Form": "Present physical characteristics with 'Zone' state enhancements"
-          }
-        ],
-        "physical_presence_rating": 10,
-        "adaptability_rating": 10,
-        "distinctive_features": [
-          "golden eyes",
-          "blue eyes",
-          "controlled movements",
-          "gravitational presence",
-          "beard growth"
-        ],
-        "seasonal_changes": true,
-        "tags": [
-          "atm",
-          "atm/titans/godzilla",
-          "atm/identity/physical",
-          "atm/appearance"
-        ],
-        "created": "2025-04-02",
-        "last_modified": "2025-04-02"
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4127,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.756666666666666,
-      "characterCount": 34979,
-      "nonWhitespaceCharacterCount": 30403,
-      "newlineCount": 469,
-      "readingTimeInMinutes": 15.573584905660377,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": [
-        "Northern Titanus gojira: Cultural Profile",
-        "Northern Titanus gojira",
-        "Northerners",
-        "Northerner"
-      ],
-      "createdDate": 1743620988893,
-      "modifiedDate": 1744649034846,
-      "sizeInBytes": 35889,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.756666666666666,
-        "wordCount": 4127,
-        "characterCount": 34979,
-        "nonWhitespaceCharacterCount": 30403,
-        "newlineCount": 469
-      },
-      "frontmatter": {
-        "title": "Northern Titanus gojira: Cultural Profile",
-        "parent": "[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira|Titanus gojira]]",
-        "alias": [
-          "Northern Titanus gojira: Cultural Profile",
-          "Northern Titanus gojira",
-          "Northerners",
-          "Northerner"
-        ],
-        "component_type": "culture",
-        "component_category": "titan_culture",
-        "related_entities": [
-          "[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]",
-          "[[Dagon, the Last Northern Patriarch]]"
-        ],
-        "faction": "Northern",
-        "territory": "Northern Hemisphere",
-        "cultural_emphasis": "Family bonds",
-        "distinctive_traits": [
-          "Whiter dorsal fins",
-          "Cooler-toned scales",
-          "Cold environment adaptation",
-          "Familial prioritization"
-        ],
-        "tags": [
-          "atm",
-          "atm/culture/northern_gojira",
-          "atm/titan/northern_faction"
-        ],
-        "created": "2025-04-03",
-        "last_modified": "2025-04-03"
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 288,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.96,
-      "characterCount": 2273,
-      "nonWhitespaceCharacterCount": 1943,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 1.0867924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055039,
-      "modifiedDate": 1744283770712,
-      "sizeInBytes": 2291,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.96,
-        "wordCount": 288,
-        "characterCount": 2273,
-        "nonWhitespaceCharacterCount": 1943,
-        "newlineCount": 42
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3212,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.706666666666667,
-      "characterCount": 21522,
-      "nonWhitespaceCharacterCount": 18014,
-      "newlineCount": 276,
-      "readingTimeInMinutes": 12.120754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055036,
-      "modifiedDate": 1743846388209,
-      "sizeInBytes": 21568,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.706666666666667,
-        "wordCount": 3212,
-        "characterCount": 21522,
-        "nonWhitespaceCharacterCount": 18014,
-        "newlineCount": 276
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1351,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.503333333333333,
-      "characterCount": 11710,
-      "nonWhitespaceCharacterCount": 10080,
-      "newlineCount": 199,
-      "readingTimeInMinutes": 5.09811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055021,
-      "modifiedDate": 1741370314601,
-      "sizeInBytes": 11782,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.503333333333333,
-        "wordCount": 1351,
-        "characterCount": 11710,
-        "nonWhitespaceCharacterCount": 10080,
-        "newlineCount": 199
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Atomic Stride.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 869,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8966666666666665,
-      "characterCount": 5324,
-      "nonWhitespaceCharacterCount": 4365,
-      "newlineCount": 103,
-      "readingTimeInMinutes": 3.279245283018868,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055014,
-      "modifiedDate": 1744649034081,
-      "sizeInBytes": 5335,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8966666666666665,
-        "wordCount": 869,
-        "characterCount": 5324,
-        "nonWhitespaceCharacterCount": 4365,
-        "newlineCount": 103
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Narrative Sidepiece.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3036,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.12,
-      "characterCount": 18602,
-      "nonWhitespaceCharacterCount": 15428,
-      "newlineCount": 273,
-      "readingTimeInMinutes": 11.456603773584906,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055025,
-      "modifiedDate": 1743846388182,
-      "sizeInBytes": 19374,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.12,
-        "wordCount": 3036,
-        "characterCount": 18602,
-        "nonWhitespaceCharacterCount": 15428,
-        "newlineCount": 273
-      }
-    },
-    "Writing/Antitheriomorphosis/Unrefined/Atomic Amplification.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8986,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 29.953333333333333,
-      "characterCount": 59920,
-      "nonWhitespaceCharacterCount": 48819,
-      "newlineCount": 735,
-      "readingTimeInMinutes": 33.90943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744136957003,
-      "modifiedDate": 1744315383713,
-      "sizeInBytes": 60302,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 29.953333333333333,
-        "wordCount": 8986,
-        "characterCount": 59920,
-        "nonWhitespaceCharacterCount": 48819,
-        "newlineCount": 735
+        "pageCount": 0.81,
+        "wordCount": 243,
+        "characterCount": 2170,
+        "nonWhitespaceCharacterCount": 1887,
+        "newlineCount": 44
       }
     },
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md": {
@@ -1399,6 +1426,60 @@
         "characterCount": 7549,
         "nonWhitespaceCharacterCount": 6258,
         "newlineCount": 21
+      }
+    },
+    "Writing/Antitheriomorphosis/The Eavesdropper.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 222,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.74,
+      "characterCount": 1681,
+      "nonWhitespaceCharacterCount": 1437,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.8377358490566038,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055066,
+      "modifiedDate": 1744649034805,
+      "sizeInBytes": 1681,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.74,
+        "wordCount": 222,
+        "characterCount": 1681,
+        "nonWhitespaceCharacterCount": 1437,
+        "newlineCount": 28
+      }
+    },
+    "Writing/Antitheriomorphosis/The Divine Inheritance.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 601,
+      "nonWhitespaceCharacterCount": 495,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743971029533,
+      "modifiedDate": 1743971057362,
+      "sizeInBytes": 605,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3233333333333333,
+        "wordCount": 97,
+        "characterCount": 601,
+        "nonWhitespaceCharacterCount": 495,
+        "newlineCount": 10
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md": {
@@ -1455,33 +1536,6 @@
         "newlineCount": 328
       }
     },
-    "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 883,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9433333333333334,
-      "characterCount": 5010,
-      "nonWhitespaceCharacterCount": 4083,
-      "newlineCount": 53,
-      "readingTimeInMinutes": 3.332075471698113,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744132293751,
-      "modifiedDate": 1746634818369,
-      "sizeInBytes": 5026,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.87,
-        "wordCount": 861,
-        "characterCount": 4875,
-        "nonWhitespaceCharacterCount": 3969,
-        "newlineCount": 53
-      }
-    },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Keystone Arc.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1507,6 +1561,33 @@
         "characterCount": 20994,
         "nonWhitespaceCharacterCount": 17923,
         "newlineCount": 344
+      }
+    },
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1884,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.28,
+      "characterCount": 15526,
+      "nonWhitespaceCharacterCount": 13303,
+      "newlineCount": 328,
+      "readingTimeInMinutes": 7.109433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743757115021,
+      "modifiedDate": 1745432711933,
+      "sizeInBytes": 15566,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.28,
+        "wordCount": 1884,
+        "characterCount": 15526,
+        "nonWhitespaceCharacterCount": 13303,
+        "newlineCount": 328
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Biollante Arc.md": {
@@ -1543,31 +1624,31 @@
         ]
       }
     },
-    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md": {
+    "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1884,
+      "wordCount": 883,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.28,
-      "characterCount": 15526,
-      "nonWhitespaceCharacterCount": 13303,
-      "newlineCount": 328,
-      "readingTimeInMinutes": 7.109433962264151,
+      "pageCount": 2.9433333333333334,
+      "characterCount": 5010,
+      "nonWhitespaceCharacterCount": 4083,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 3.332075471698113,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743757115021,
-      "modifiedDate": 1745432711933,
-      "sizeInBytes": 15566,
+      "createdDate": 1744132293751,
+      "modifiedDate": 1746634818369,
+      "sizeInBytes": 5026,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 6.28,
-        "wordCount": 1884,
-        "characterCount": 15526,
-        "nonWhitespaceCharacterCount": 13303,
-        "newlineCount": 328
+        "pageCount": 2.9433333333333334,
+        "wordCount": 883,
+        "characterCount": 5010,
+        "nonWhitespaceCharacterCount": 4083,
+        "newlineCount": 53
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Concept - Medieval AU.md": {
@@ -1595,33 +1676,6 @@
         "characterCount": 1647,
         "nonWhitespaceCharacterCount": 1300,
         "newlineCount": 51
-      }
-    },
-    "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1442,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.806666666666667,
-      "characterCount": 8223,
-      "nonWhitespaceCharacterCount": 6608,
-      "newlineCount": 412,
-      "readingTimeInMinutes": 5.441509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055031,
-      "modifiedDate": 1745432702072,
-      "sizeInBytes": 8393,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.806666666666667,
-        "wordCount": 1442,
-        "characterCount": 8223,
-        "nonWhitespaceCharacterCount": 6608,
-        "newlineCount": 412
       }
     },
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md": {
@@ -1705,58 +1759,31 @@
         "newlineCount": 173
       }
     },
-    "Writing/Antitheriomorphosis/The Eavesdropper.md": {
+    "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 222,
+      "wordCount": 1442,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.74,
-      "characterCount": 1681,
-      "nonWhitespaceCharacterCount": 1437,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.8377358490566038,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055066,
-      "modifiedDate": 1744649034805,
-      "sizeInBytes": 1681,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.74,
-        "wordCount": 222,
-        "characterCount": 1681,
-        "nonWhitespaceCharacterCount": 1437,
-        "newlineCount": 28
-      }
-    },
-    "Writing/Antitheriomorphosis/The Divine Inheritance.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 601,
-      "nonWhitespaceCharacterCount": 495,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.3660377358490566,
+      "pageCount": 4.806666666666667,
+      "characterCount": 8223,
+      "nonWhitespaceCharacterCount": 6608,
+      "newlineCount": 412,
+      "readingTimeInMinutes": 5.441509433962264,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743971029533,
-      "modifiedDate": 1743971057362,
-      "sizeInBytes": 605,
+      "createdDate": 1743271055031,
+      "modifiedDate": 1745432702072,
+      "sizeInBytes": 8393,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 601,
-        "nonWhitespaceCharacterCount": 495,
-        "newlineCount": 10
+        "pageCount": 4.806666666666667,
+        "wordCount": 1442,
+        "characterCount": 8223,
+        "nonWhitespaceCharacterCount": 6608,
+        "newlineCount": 412
       }
     },
     "Writing/Antitheriomorphosis/Settings/Keep Charlie.md": {
@@ -1982,6 +2009,33 @@
         ]
       }
     },
+    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 669,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.23,
+      "characterCount": 4980,
+      "nonWhitespaceCharacterCount": 4227,
+      "newlineCount": 92,
+      "readingTimeInMinutes": 2.5245283018867926,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055264,
+      "modifiedDate": 1743971861559,
+      "sizeInBytes": 4996,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.23,
+        "wordCount": 669,
+        "characterCount": 4980,
+        "nonWhitespaceCharacterCount": 4227,
+        "newlineCount": 92
+      }
+    },
     "Writing/Antitheriomorphosis/Magic System/Unrefined - Spellcasting Paradigms.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2034,33 +2088,6 @@
         "characterCount": 6151,
         "nonWhitespaceCharacterCount": 5307,
         "newlineCount": 142
-      }
-    },
-    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 669,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.23,
-      "characterCount": 4980,
-      "nonWhitespaceCharacterCount": 4227,
-      "newlineCount": 92,
-      "readingTimeInMinutes": 2.5245283018867926,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055264,
-      "modifiedDate": 1743971861559,
-      "sizeInBytes": 4996,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.23,
-        "wordCount": 669,
-        "characterCount": 4980,
-        "nonWhitespaceCharacterCount": 4227,
-        "newlineCount": 92
       }
     },
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md": {
@@ -2583,31 +2610,31 @@
         "newlineCount": 220
       }
     },
-    "Writing/Antitheriomorphosis/Magic System/Commitment Access.md": {
+    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Umbra Simulacrum Technique.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1312,
+      "wordCount": 599,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.373333333333333,
-      "characterCount": 10371,
-      "nonWhitespaceCharacterCount": 8939,
-      "newlineCount": 171,
-      "readingTimeInMinutes": 4.950943396226415,
+      "pageCount": 1.9966666666666666,
+      "characterCount": 4616,
+      "nonWhitespaceCharacterCount": 3933,
+      "newlineCount": 102,
+      "readingTimeInMinutes": 2.260377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1743271055234,
-      "modifiedDate": 1743062202389,
-      "sizeInBytes": 10375,
+      "createdDate": 1743406176496,
+      "modifiedDate": 1743846388570,
+      "sizeInBytes": 4624,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.373333333333333,
-        "wordCount": 1312,
-        "characterCount": 10371,
-        "nonWhitespaceCharacterCount": 8939,
-        "newlineCount": 171
+        "pageCount": 1.9966666666666666,
+        "wordCount": 599,
+        "characterCount": 4616,
+        "nonWhitespaceCharacterCount": 3933,
+        "newlineCount": 102
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/Umbra Simulacrum.md": {
@@ -2635,33 +2662,6 @@
         "characterCount": 691,
         "nonWhitespaceCharacterCount": 567,
         "newlineCount": 28
-      }
-    },
-    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Umbra Simulacrum Technique.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 599,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.9966666666666666,
-      "characterCount": 4616,
-      "nonWhitespaceCharacterCount": 3933,
-      "newlineCount": 102,
-      "readingTimeInMinutes": 2.260377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743406176496,
-      "modifiedDate": 1743846388570,
-      "sizeInBytes": 4624,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.9966666666666666,
-        "wordCount": 599,
-        "characterCount": 4616,
-        "nonWhitespaceCharacterCount": 3933,
-        "newlineCount": 102
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Singularity Technique.md": {
@@ -2716,6 +2716,33 @@
         "characterCount": 8496,
         "nonWhitespaceCharacterCount": 7097,
         "newlineCount": 190
+      }
+    },
+    "Writing/Antitheriomorphosis/Magic System/Commitment Access.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1312,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.373333333333333,
+      "characterCount": 10371,
+      "nonWhitespaceCharacterCount": 8939,
+      "newlineCount": 171,
+      "readingTimeInMinutes": 4.950943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055234,
+      "modifiedDate": 1743062202389,
+      "sizeInBytes": 10375,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.373333333333333,
+        "wordCount": 1312,
+        "characterCount": 10371,
+        "nonWhitespaceCharacterCount": 8939,
+        "newlineCount": 171
       }
     },
     "Writing/Antitheriomorphosis/Magic System/Architecture of Spell Casting.md": {
@@ -3224,37 +3251,6 @@
         "newlineCount": 213
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Julia Simmons.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 13,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055156,
-      "modifiedDate": 1743846388743,
-      "sizeInBytes": 96,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13,
-        "newlineCount": 3
-      },
-      "frontmatter": {
-        "undefined": "",
-        "File": "Main Alternate Universe/Characters/Julia Simmons.md"
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Kane Smithson.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3284,6 +3280,37 @@
       "frontmatter": {
         "undefined": "",
         "File": "Main Alternate Universe/Characters/Kane Smithson.md"
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Julia Simmons.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055156,
+      "modifiedDate": 1743846388743,
+      "sizeInBytes": 96,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 17,
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "undefined": "",
+        "File": "Main Alternate Universe/Characters/Julia Simmons.md"
       }
     },
     "Writing/Antitheriomorphosis/Characters/Hollow Earth Personnel & Residents.md": {
@@ -3385,11 +3412,11 @@
       "sizeInBytes": 513,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 47,
-        "newlineCount": 6
+        "pageCount": 0.24333333333333335,
+        "wordCount": 73,
+        "characterCount": 509,
+        "nonWhitespaceCharacterCount": 413,
+        "newlineCount": 19
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md": {
@@ -3412,44 +3439,17 @@
       "sizeInBytes": 93007,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 41.64333333333333,
-        "wordCount": 12493,
-        "characterCount": 89886,
-        "nonWhitespaceCharacterCount": 73624,
-        "newlineCount": 1386
+        "pageCount": 42.45333333333333,
+        "wordCount": 12736,
+        "characterCount": 92515,
+        "nonWhitespaceCharacterCount": 75683,
+        "newlineCount": 1424
       },
       "frontmatter": {
         "tags": [
           "atm",
           "wip"
         ]
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1791,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.97,
-      "characterCount": 10221,
-      "nonWhitespaceCharacterCount": 8374,
-      "newlineCount": 95,
-      "readingTimeInMinutes": 6.758490566037736,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746026347041,
-      "modifiedDate": 1745659148170,
-      "sizeInBytes": 10235,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.97,
-        "wordCount": 1791,
-        "characterCount": 10221,
-        "nonWhitespaceCharacterCount": 8374,
-        "newlineCount": 95
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 4.md": {
@@ -3528,6 +3528,33 @@
         "status": "active",
         "created": "2025-04-23",
         "modified": "2025-04-23"
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1791,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.97,
+      "characterCount": 10221,
+      "nonWhitespaceCharacterCount": 8374,
+      "newlineCount": 95,
+      "readingTimeInMinutes": 6.758490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746026347041,
+      "modifiedDate": 1745659148170,
+      "sizeInBytes": 10235,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.97,
+        "wordCount": 1791,
+        "characterCount": 10221,
+        "nonWhitespaceCharacterCount": 8374,
+        "newlineCount": 95
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters.md": {
@@ -4540,6 +4567,37 @@
         "last_updated": "2025-03-24"
       }
     },
+    "Writing/Antitheriomorphosis/Characters/Gerome Marcel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 17,
+      "nonWhitespaceCharacterCount": 13,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055151,
+      "modifiedDate": 1743846388774,
+      "sizeInBytes": 96,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 17,
+        "nonWhitespaceCharacterCount": 13,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "undefined": "",
+        "File": "Main Alternate Universe/Characters/Gerome Marcel.md"
+      }
+    },
     "Writing/Antitheriomorphosis/Characters/First Lieutenant Blaine Richmond Carter.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4577,37 +4635,6 @@
           "1stLt Carter"
         ],
         "File": "Main Alternate Universe/Characters/Blaine Richmond Carter.md"
-      }
-    },
-    "Writing/Antitheriomorphosis/Characters/Gerome Marcel.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 17,
-      "nonWhitespaceCharacterCount": 13,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055151,
-      "modifiedDate": 1743846388774,
-      "sizeInBytes": 96,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13,
-        "newlineCount": 3
-      },
-      "frontmatter": {
-        "undefined": "",
-        "File": "Main Alternate Universe/Characters/Gerome Marcel.md"
       }
     },
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md": {
@@ -4671,33 +4698,6 @@
         "newlineCount": 261
       }
     },
-    "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1263,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.21,
-      "characterCount": 9337,
-      "nonWhitespaceCharacterCount": 7853,
-      "newlineCount": 242,
-      "readingTimeInMinutes": 4.766037735849056,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743960253591,
-      "modifiedDate": 1744063680194,
-      "sizeInBytes": 9377,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.21,
-        "wordCount": 1263,
-        "characterCount": 9337,
-        "nonWhitespaceCharacterCount": 7853,
-        "newlineCount": 242
-      }
-    },
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4743,6 +4743,33 @@
         "created": null,
         "modified": null,
         "File": "Main Alternate Universe/Characters/Battra, the Lord of the Mystic Arts.md"
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Barb, the Turncoat Parasite.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1263,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.21,
+      "characterCount": 9337,
+      "nonWhitespaceCharacterCount": 7853,
+      "newlineCount": 242,
+      "readingTimeInMinutes": 4.766037735849056,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743960253591,
+      "modifiedDate": 1744063680194,
+      "sizeInBytes": 9377,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.21,
+        "wordCount": 1263,
+        "characterCount": 9337,
+        "nonWhitespaceCharacterCount": 7853,
+        "newlineCount": 242
       }
     },
     "Writing/Antitheriomorphosis/Characters/Baragon, the Liminal Sentinel.md": {
@@ -4899,60 +4926,6 @@
         "File": "Main Alternate Universe/Characters/Andrew Julius Ford.md"
       }
     },
-    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 73,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.24333333333333335,
-      "characterCount": 566,
-      "nonWhitespaceCharacterCount": 457,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.27547169811320754,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055102,
-      "modifiedDate": 1744605906300,
-      "sizeInBytes": 11974,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.24333333333333335,
-        "wordCount": 73,
-        "characterCount": 566,
-        "nonWhitespaceCharacterCount": 457,
-        "newlineCount": 33
-      }
-    },
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 78,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 675,
-      "nonWhitespaceCharacterCount": 573,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.2943396226415094,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744603432603,
-      "modifiedDate": 1744603549665,
-      "sizeInBytes": 8679,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.26,
-        "wordCount": 78,
-        "characterCount": 675,
-        "nonWhitespaceCharacterCount": 573,
-        "newlineCount": 25
-      }
-    },
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5005,6 +4978,60 @@
         "characterCount": 190,
         "nonWhitespaceCharacterCount": 157,
         "newlineCount": 11
+      }
+    },
+    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 73,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 566,
+      "nonWhitespaceCharacterCount": 457,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.27547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055102,
+      "modifiedDate": 1744605906300,
+      "sizeInBytes": 11974,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24333333333333335,
+        "wordCount": 73,
+        "characterCount": 566,
+        "nonWhitespaceCharacterCount": 457,
+        "newlineCount": 33
+      }
+    },
+    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 675,
+      "nonWhitespaceCharacterCount": 573,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744603432603,
+      "modifiedDate": 1744603549665,
+      "sizeInBytes": 8679,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26,
+        "wordCount": 78,
+        "characterCount": 675,
+        "nonWhitespaceCharacterCount": 573,
+        "newlineCount": 25
       }
     },
     "Writing/Antitheriomorphosis/Antitheriomorphosis.md": {
@@ -5196,33 +5223,6 @@
         "newlineCount": 159
       }
     },
-    "Journal/On Godzilla.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1315,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.383333333333334,
-      "characterCount": 7257,
-      "nonWhitespaceCharacterCount": 5915,
-      "newlineCount": 50,
-      "readingTimeInMinutes": 4.962264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271054971,
-      "modifiedDate": 1743846388921,
-      "sizeInBytes": 7273,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.383333333333334,
-        "wordCount": 1315,
-        "characterCount": 7257,
-        "nonWhitespaceCharacterCount": 5915,
-        "newlineCount": 50
-      }
-    },
     "Journal/To My Fellow Kupalords.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5248,6 +5248,33 @@
         "characterCount": 849,
         "nonWhitespaceCharacterCount": 693,
         "newlineCount": 15
+      }
+    },
+    "Journal/On Godzilla.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1315,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.383333333333334,
+      "characterCount": 7257,
+      "nonWhitespaceCharacterCount": 5915,
+      "newlineCount": 50,
+      "readingTimeInMinutes": 4.962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271054971,
+      "modifiedDate": 1743846388921,
+      "sizeInBytes": 7273,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.383333333333334,
+        "wordCount": 1315,
+        "characterCount": 7257,
+        "nonWhitespaceCharacterCount": 5915,
+        "newlineCount": 50
       }
     },
     "Journal/Journal.md": {
@@ -5545,33 +5572,6 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307,
         "newlineCount": 10
-      }
-    },
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 948,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.16,
-      "characterCount": 6722,
-      "nonWhitespaceCharacterCount": 5689,
-      "newlineCount": 106,
-      "readingTimeInMinutes": 3.577358490566038,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746641479868,
-      "modifiedDate": 1746641496608,
-      "sizeInBytes": 6776,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     }
   }
