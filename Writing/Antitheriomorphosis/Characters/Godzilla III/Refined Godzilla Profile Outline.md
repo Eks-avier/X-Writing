@@ -1,14 +1,18 @@
 ---
 tags: [atm, wip]
 ---
+
 # Physical Profile
+
 ## Basic Overview
 
 - **Titan Name**: Godzilla / Gojira
 	- He answers to both equally
 - **Human Name**: Godric Nordson
 - **Height**: 6'5'' (196 cm)
-- **Weight**: 265 lbs (120 kg)
+- **Weight**:
+	- **Active Season**: 265 lbs (120 kg)
+	- **Dormant Season**: 285 lbs (129 kg)
 - **Sex**: Male
 - **Approximated Age**: 250 m.y. old
 - **Documented Age**: 25
@@ -257,10 +261,27 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 
 ## Detailed Measurements and Proportions
 
-### Anatomical Proportions
+### Golden Ratio Analysis
 
-Barring Maria's completely perfect anatomy, Godric's is one of the closest things to perfection most humans would ever see, demonstrating the undeniable peak of the human male physique.
-
+| Relationship | Actual Value | Golden Ratio (φ) | Deviation | Notes |
+|--------------|-------------|------------------|-----------|-------|
+| **Facial Proportions** |  |  |  |  |
+| Face Width to Height | 1.618 | 1.618 | 0.00% | Perfect proportion |
+| Eye Width to Face Width | 0.618 | 0.618 | 0.00% | Perfect inverse golden ratio |
+| Nose Length to Face Height | 0.236 | 0.236 | 0.00% | Perfect φ² derivative |
+| Lips Width to Face Width | 0.382 | 0.382 | 0.00% | Perfect golden proportion |
+| **Skeletal Structure** |  |  |  |  |
+| Shoulder Width to Waist Width | 1.617 | 1.618 | 0.06% | Nearly perfect |
+| Height to Navel Point | 1.618 | 1.618 | 0.00% | Perfect division |
+| Upper to Lower Leg | 1.624 | 1.618 | 0.37% | Minor functional adaptation |
+| Forearm to Upper Arm Length | 0.966 | 0.618 | N/A | Inverse ratio relationship (1/φ = 0.618) |
+| Hand Length to Forearm | 0.621 | 0.618 | 0.49% | Nearly perfect with minor adaptation |
+| Foot to Lower Leg Length | 0.887 | 0.886 | 0.11% | Near-perfect (φ× inverse relationship) |
+| **Circumferences** |  |  |  |  |
+| Shoulder to Waist (Adonis Index) | 1.611 | 1.618 | 0.43% | Approaches but never reaches perfect φ |
+| Chest to Waist | 1.451 | 1.618 | 10.32% | **Titan Echo: Thicker torso for power core** |
+| Upper Arm to Forearm | 1.183 | 1.618 | 26.88% | **Titan Echo: Enhanced forearm strength** |
+| Thigh to Calf | 1.528 | 1.618 | 5.56% | Close approximation with adaptation for strength |
 
 ## Detailed Physical Features
 

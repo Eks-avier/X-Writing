@@ -1,6 +1,54 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "Nordson - ",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Writing/Antitheriomorphosis/Characters/Godzilla III",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 632
+              },
+              "name": {
+                "width": 243
+              },
+              "tags": {
+                "width": 223
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "17fbb355-c83a-4da8-a4c5-bc74ce75e673",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "39e27319-731d-4fd1-ab75-683a7d1a47c8",
+      "name": "Godric Nordson"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

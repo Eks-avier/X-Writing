@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "6b95387464165200",
+            "id": "eb950f631250434f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "9cb7a697e28d5c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refined Godzilla Profile Outline"
+              "title": "Outline"
             }
           },
           {
@@ -272,27 +283,30 @@
       }
     ]
   },
-  "active": "6b95387464165200",
+  "active": "9cb7a697e28d5c5e",
   "lastOpenFiles": [
     "Notepad 3.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/The King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Godric Nordson - Physical Features.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 3.md",
     "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
     "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Mothra Outline Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra/Refined Mothra Outline Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
     "Notepad.md",
     "Notepad 2.md",
     "Writing/Antitheriomorphosis/Creation Instructions/The Uncanny Perfection.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 4.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Notepad 3.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Notepad 4.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
     "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
     "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
     "Writing/Antitheriomorphosis/Unrefined/TITANUS GOJIRA SPECIES & CULTURE.md",
@@ -301,10 +315,8 @@
     "Writing/Antitheriomorphosis/The Eavesdropper.md",
     "Writing/Antitheriomorphosis/The Divine Inheritance.md",
     "Writing/Antitheriomorphosis/Power Dynamics.md",
-    "Writing/Antitheriomorphosis/Characters/Biollante, the Rose of the North.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Untitled",
     "Writing/Antitheriomorphosis/Characters/Godzilla III",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
@@ -314,7 +326,6 @@
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Titans/Hierarchy",
-    "Tags/#atm+titan+titan-culture",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",

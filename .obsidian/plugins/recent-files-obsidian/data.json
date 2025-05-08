@@ -9,12 +9,20 @@
       "path": "Notepad 3.md"
     },
     {
+      "basename": "The King of the Monsters",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/The King of the Monsters.md"
+    },
+    {
+      "basename": "Godric Nordson - Physical Features",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Godric Nordson - Physical Features.md"
+    },
+    {
       "basename": "The Divine Soul of the Heavenly Instance",
       "path": "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md"
     },
     {
       "basename": "Notepad 3",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md"
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 3.md"
     },
     {
       "basename": "Mothra, the Queen of the Monsters",
@@ -30,7 +38,7 @@
     },
     {
       "basename": "Refined Mothra Outline Outline",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Mothra Outline Outline.md"
+      "path": "Writing/Antitheriomorphosis/Characters/Mothra/Refined Mothra Outline Outline.md"
     },
     {
       "basename": "1 - Identity & Appearance",
@@ -62,11 +70,7 @@
     },
     {
       "basename": "Notepad 4",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 4.md"
-    },
-    {
-      "basename": "The King of the Monsters",
-      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md"
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md"
     },
     {
       "basename": "Biollante, the Rose of the North",
@@ -195,10 +199,6 @@
     {
       "basename": "Domination of Energy",
       "path": "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md"
-    },
-    {
-      "basename": "Domination of Energy - Profile",
-      "path": "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md"
     }
   ],
   "omittedPaths": [],
