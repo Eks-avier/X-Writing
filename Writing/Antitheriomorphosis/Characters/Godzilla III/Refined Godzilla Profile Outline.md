@@ -345,7 +345,7 @@ Barring Maria's completely perfect anatomy, Godric's is one of the closest thing
 ### Eyes
 
 - **Faux Eye Color**: Light blue (default state)
-- **True Eye Color**: Gold 
+- **True Eye Color**: Gold
 
 To most people, and even to Monarch, Godric's eyes are a striking blue, the color of Cherenkov radiation in an nuclear plant. This is accurately represented in all his documentations prepared by Monarch as part of his human identity.
 
