@@ -347,11 +347,11 @@ Barring Maria's completely perfect anatomy, Godric's is one of the closest thing
 - **Faux Eye Color**: Light blue (default state)
 - **True Eye Color**: Gold
 
-To most people, and even to Monarch, Godric's eyes are a striking light blue. This is accurately represented in all his documentations prepared by Monarch.
+To most people, and even to Monarch, Godric's eyes are a striking blue, the color of Cherenkov radiation in an nuclear plant. This is accurately represented in all his documentations prepared by Monarch as part of his human identity.
 
-However, to those who know him intimately, his true eye color is gold, which he inherited from his mother instead of the standard shades of blue of the Northern Race of *Titanus gojira* like his father. Though, as a result of atomic energy coursing through him, his eyes are often obscured by its bluish hue.
+However, to those who know him intimately, his true eye color is gold, which he inherited from his mother instead of the standard shades of blue of the Northern Race of *Titanus gojira* that his father possessed. Though, as a result of atomic energy actively coursing through him, his eyes are often obscured by the energy's bluish hue.
 
-A *Titanus gojira* constantly has atomic energy coursing through its veins, though it is typically not enough to conceal their natural eye colors. This suggests that Godric is constantly on guard for literal millions of years. Hence, even when in moments where he seems to be immobile and resting, his eyes remain blue. Seldom does the gold ever reveal itself, a symbol of his perpetual vigilance.
+While a *Titanus gojira* constantly has atomic energy coursing through its veins, it is typically not enough to conceal their natural eye colors. For the typical Northerner, there would have been little difference in their eye color aside from a faint glow in their eyes. In contrast, this suggests that Godric is constantly on guard for literal millions of years as his energy is actively coursing through his veins. It is the equivalent of a human constantly flexed  Hence, even when in moments where he seems to be immobile and resting, his eyes remain blue. Seldom does the gold ever reveal itself, a symbol of his perpetual vigilance.
 
 His gold eyes only reveal themselves when his guard is down, causing his energy to course regularly, or when he is emotionally authentic with people. Both scenarios happen so rarely that despite existing for a quarter of a billion years, his true eye color has only been seen by a handful of beings.
 
