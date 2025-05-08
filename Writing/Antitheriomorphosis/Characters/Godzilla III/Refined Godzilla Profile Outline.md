@@ -1,9 +1,7 @@
 ---
 tags: [atm, wip]
 ---
-
 # Physical Profile
-
 ## Basic Overview
 
 - **Titan Name**: Godzilla / Gojira
@@ -262,6 +260,7 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 ### Anatomical Proportions
 
 Barring Maria's completely perfect anatomy, Godric's is one of the closest things to perfection most humans would ever see, demonstrating the undeniable peak of the human male physique.
+
 
 ## Detailed Physical Features
 
