@@ -304,13 +304,13 @@ Barring Maria's completely perfect anatomy, Godric's is one of the closest thing
 
 ### Arm Measurements
 
-| Measurement | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes |
-|-------------|-------------------------|------------------------|---------------------------|--------------------------|-------|
-| Upper Arm | 17.5” (44.5cm) | 18.6” (47.2cm) | 18.7” (47.5cm) | 19.5” (49.5cm) | +6.2% flex change |
-| Forearm | 14.8” (37.6cm) | 15.4” (39.1cm) | 15.7” (39.9cm) | 16.2” (41.1cm) | +4.0% flex change |
-| Wrist | 9.2” (23.4cm) | 9.4” (23.9cm) | 9.6” (24.4cm) | 9.8” (24.9cm) | **Titan Echo: Reinforced structure** |
-| Arm Length | 35.1” (89.1cm) | — | 35.1” (89.1cm) | — | Perfect 1:1.618 to torso length |
-| Hand Length | 8.7” (22.1cm) | — | 8.7” (22.1cm) | — | 0.621 ratio to forearm (near φ inverse) |
+| Measurement | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                                   |
+| ----------- | ----------------------- | ---------------------- | ------------------------ | ----------------------- | --------------------------------------- |
+| Upper Arm   | 17.5” (44.5cm)          | 18.6” (47.2cm)         | 18.7” (47.5cm)           | 19.5” (49.5cm)          | +6.2% flex change                       |
+| Forearm     | 14.8” (37.6cm)          | 15.4” (39.1cm)         | 15.7” (39.9cm)           | 16.2” (41.1cm)          | +4.0% flex change                       |
+| Wrist       | 9.2” (23.4cm)           | 9.4” (23.9cm)          | 9.6” (24.4cm)            | 9.8” (24.9cm)           | **Titan Echo: Reinforced structure**    |
+| Arm Length  | 35.1” (89.1cm)          | —                      | 35.1” (89.1cm)           | —                       | Perfect 1:1.618 to torso length         |
+| Hand Length | 8.7” (22.1cm)           | —                      | 8.7” (22.1cm)            | —                       | 0.621 ratio to forearm (near φ inverse) |
 
 ### Leg Measurements
 
