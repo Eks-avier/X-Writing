@@ -302,35 +302,6 @@ Barring Maria's completely perfect anatomy, Godric's is one of the closest thing
 | Hip | 41” (104.1cm) | 44.3” (112.5cm) | **Titan Echo: Thicker for stability base** |
 | Neck | 18” (45.7cm) | 19.2” (48.8cm) | **Titan Echo: Thicker for power** |
 
-### Arm Measurements
-
-| Measurement | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                                   |
-| ----------- | ----------------------- | ---------------------- | ------------------------ | ----------------------- | --------------------------------------- |
-| Upper Arm   | 17.5” (44.5cm)          | 18.6” (47.2cm)         | 18.7” (47.5cm)           | 19.5” (49.5cm)          | +6.2% flex change                       |
-| Forearm     | 14.8” (37.6cm)          | 15.4” (39.1cm)         | 15.7” (39.9cm)           | 16.2” (41.1cm)          | +4.0% flex change                       |
-| Wrist       | 9.2” (23.4cm)           | 9.4” (23.9cm)          | 9.6” (24.4cm)            | 9.8” (24.9cm)           | **Titan Echo: Reinforced structure**    |
-| Arm Length  | 35.1” (89.1cm)          | —                      | 35.1” (89.1cm)           | —                       | Perfect 1:1.618 to torso length         |
-| Hand Length | 8.7” (22.1cm)           | —                      | 8.7” (22.1cm)            | —                       | 0.621 ratio to forearm (near φ inverse) |
-
-### Leg Measurements
-
-| Measurement | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes |
-|-------------|-------------------------|------------------------|---------------------------|--------------------------|-------|
-| Upper Thigh | 26” (66cm) | 27.1” (68.8cm) | 28.2” (71.6cm) | 29.1” (73.9cm) | +4.2% flex change |
-| Mid-Thigh | 24.3” (61.7cm) | 25.2” (64cm) | 26.4” (67.1cm) | 27.2” (69.1cm) | Proportional taper |
-| Knee | 17.1” (43.4cm) | 17.6” (44.7cm) | 18.2” (46.2cm) | 18.6” (47.2cm) | **Titan Echo: Reinforced joint** |
-| Calf | 17” (43.2cm) | 17.6” (44.7cm) | 18.1” (46cm) | 18.6” (47.2cm) | +3.5% flex change |
-| Ankle | 10.5” (26.7cm) | 10.7” (27.2cm) | 11” (27.9cm) | 11.2” (28.4cm) | **Titan Echo: Enhanced support** |
-| Leg Length | 37” (94cm) | — | 37” (94cm) | — | 3 × head height |
-
-### Depth Measurements
-
-| Measurement | Value | Notes |
-|-------------|-------|-------|
-| Chest Depth | 10.5” (26.7cm) | **Titan Echo: Deeper ribcage for energy storage** |
-| Waist Depth | 8.7” (22.1cm) | Maintains proportional taper |
-| Abdominal Wall Thickness | 3.2” (8.1cm) | **Titan Echo: Enhanced core protection** |
-
 ### Region-Specific Weight Distribution
 
 | Body Region | Percentage of Mass | Human Average | Notes |
