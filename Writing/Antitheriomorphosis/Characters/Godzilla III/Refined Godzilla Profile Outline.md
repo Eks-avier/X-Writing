@@ -261,8 +261,6 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 
 ## Detailed Measurements and Proportions
 
-### Golden Ratio Analysis
-
 ## Detailed Physical Features
 
 ### Eyes
