@@ -2,11 +2,11 @@
 
 ## Introduction
 
-- Rather than becoming obsolete, philosophy and ethics only get more significance as time passes. 
-	- The sudden pervasiveness of artificial intelligence in our daily lives represent is a good place to start when discussing the significance of philosophy and ethics in the contemporary world
-		- In order to ensure that our technologies serve the greater good, we must be diligent or, at the very least, aware of the philosophical and ethical points of concern surrounding the utilization of this novel technology.
-			- A concrete example of this could be the issue of AI art, AI use in academia, or the complete dependency on AI
-				- These are all tenets 
+In an age where artificial intelligence generates artwork, writes essays, and increasingly makes decisions that affect human lives, the ancient disciplines of philosophy and ethics have found renewed urgency. As Bahm suggests in “What is Philosophy?”, philosophical inquiry lives “on the frontier” of human knowledge, making “crude charts of the region which lies beyond.” This frontier mentality perfectly describes our current relationship with emerging technologies. The ethical questions surrounding AI use in creative fields, academia, and daily life aren't merely technical problems—they are fundamentally philosophical ones that echo Jose's observation that “ethical problems confront everybody” and “nobody can really get through life without ethics.”
+
+As a computer science student, I find myself at the intersection of technological capability and ethical responsibility. When examining what makes certain AI applications problematic while others seem beneficial, I'm engaging with the same fundamental questions that philosophers have explored for centuries: What constitutes knowledge? What is the nature of creativity? What responsibilities do we have toward one another? Both readings demonstrate that philosophy and ethics aren't abstract academic exercises but practical frameworks for navigating complex realities.
+
+This reflection explores why understanding philosophy matters for character development, how philosophical approaches remain essential in addressing contemporary challenges (particularly technological ones), and what it means to be ethical in a world of rapidly evolving capabilities. Philosophy and ethics provide essential frameworks not only for developing moral character and guiding personal conduct but also for ensuring that our technological advancement serves human flourishing rather than undermining it.
 
 ## Why Bother Understanding Philosophy?
 
