@@ -278,7 +278,7 @@
                   "state": {
                     "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Anatomical Reference"
