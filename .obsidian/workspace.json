@@ -325,7 +325,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -336,16 +336,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 635,
-        "y": 203,
+        "x": 259,
+        "y": 128,
         "width": 650,
         "height": 673,
         "maximize": false,
-        "zoom": 2
+        "zoom": 1.5
       }
     ]
   },
-  "active": "2b0f9ebbb4aebb6f",
+  "active": "9cb7a697e28d5c5e",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 1.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",

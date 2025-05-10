@@ -32,21 +32,21 @@ All measurements in this document follow these mathematical precision principles
 
 Godric possesses extraordinary tissue density that creates disconnect between appearance and capability:
 
-| Tissue Type       | Godric's Density               | Human Average       | Ratio                    |
-| ----------------- | ------------------------------ | ------------------- | ------------------------ |
-| Bone              | $2.60$ g/cm³                   | $1.50$-$1.80$ g/cm³ | $\sim1.60\times$ greater |
-| Muscle            | $1.90$ g/cm³                   | $1.06$ g/cm³        | $\sim1.80\times$ greater |
-| Organ Tissue      | $\sim1.30\times$ human average | Varies              | $\sim1.30\times$ greater |
-| Connective Tissue | $\sim1.50\times$ human average | Varies              | $\sim1.50\times$ greater |
+| Tissue Type | Godric's Density | Human Average | Ratio |
+|-------------|------------------|---------------|-------|
+| Bone | $2.60$ g/cm³ | $1.50$-$1.80$ g/cm³ | $\sim1.60\times$ greater |
+| Muscle | $1.90$ g/cm³ | $1.06$ g/cm³ | $\sim1.80\times$ greater |
+| Organ Tissue | $\sim1.30\times$ human average | Varies | $\sim1.30\times$ greater |
+| Connective Tissue | $\sim1.50\times$ human average | Varies | $\sim1.50\times$ greater |
 
 ### Weight Distribution
 
-| Body Region | Percentage of Mass | Human Average     | Notes                                                  |
-| ----------- | ------------------ | ----------------- | ------------------------------------------------------ |
-| Torso       | $48.00\%$          | $43.00$-$45.00\%$ | **Titan Echo: Higher mass percentage for energy core** |
-| Arms        | $15.00\%$          | $13.00$-$14.00\%$ | **Titan Echo: Denser musculature for combat**          |
-| Legs        | $33.00\%$          | $35.00$-$37.00\%$ | Proportionally balanced                                |
-| Head        | $4.00\%$           | $7.00$-$8.00\%$   | **Titan Echo: More efficient neural structure**        |
+| Body Region | Percentage of Mass | Human Average | Notes |
+|-------------|-------------------|---------------|-------|
+| Torso | $48.00\%$ | $43.00$-$45.00\%$ | **Titan Echo: Higher mass percentage for energy core** |
+| Arms | $15.00\%$ | $13.00$-$14.00\%$ | **Titan Echo: Denser musculature for combat** |
+| Legs | $33.00\%$ | $35.00$-$37.00\%$ | Proportionally balanced |
+| Head | $4.00\%$ | $7.00$-$8.00\%$ | **Titan Echo: More efficient neural structure** |
 
 ### Seasonal Variation
 
@@ -72,31 +72,31 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 ### Key Height Proportions
 
-| Measurement                | Value                        | Notes                                                        |
-| -------------------------- | ---------------------------- | ------------------------------------------------------------ |
-| Total Height               | $196.00$ cm ($77.17$ inches) | Base measurement                                             |
-| Navel Height from Floor    | $121.14$ cm ($47.69$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
-| Head Height                | $24.50$ cm ($9.65$ inches)   | Perfect $1:8$ ratio to total height                          |
-| Torso Length               | $68.60$ cm ($27.01$ inches)  | Perfect $1:\phi$ ratio with arm length                       |
-| Inseam                     | $89.18$ cm ($35.11$ inches)  | $45.5\%$ of height (classical proportion)                    |
-| Sitting Height             | $102.00$ cm ($40.16$ inches) | Distance from sitting surface to top of head                 |
-| Shoulder Height from Floor | $159.80$ cm ($62.91$ inches) | Distance from ground to acromion process                     |
+| Measurement | Value | Notes |
+|-------------|-------|-------|
+| Total Height | $196.00$ cm ($77.17$ inches) | Base measurement |
+| Navel Height from Floor | $121.14$ cm ($47.69$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
+| Head Height | $24.50$ cm ($9.65$ inches) | Perfect $1:8$ ratio to total height |
+| Torso Length | $68.60$ cm ($27.01$ inches) | Perfect $1:\phi$ ratio with arm length |
+| Inseam | $89.18$ cm ($35.11$ inches) | $45.5\%$ of height (classical proportion) |
+| Sitting Height | $102.00$ cm ($40.16$ inches) | Distance from sitting surface to top of head |
+| Shoulder Height from Floor | $159.80$ cm ($62.91$ inches) | Distance from ground to acromion process |
 
 ### Key Width Proportions
 
-| Measurement                 | Value                       | Notes                                                         |
-| --------------------------- | --------------------------- | ------------------------------------------------------------- |
-| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes             |
-| Waist Width                 | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
-| Hip Width (bi-iliac)        | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis                 |
-| Back Width                  | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached**    |
-| Chest Width                 | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point                           |
-| Head Width                  | $16.20$ cm ($6.38$ inches)  | Straight-line width at widest point                           |
-| Face Width                  | $14.77$ cm ($5.81$ inches)  | Calculated to maintain exact $1.6180$ height-to-width ratio   |
-| Neck Width                  | $14.00$ cm ($5.51$ inches)  | Straight-line width at mid-neck                               |
-| Wrist Width                 | $6.90$ cm ($2.72$ inches)   | Straight-line width across wrist bones                        |
-| Hand Width                  | $10.90$ cm ($4.29$ inches)  | Straight-line width at widest point of palm                   |
-| Foot Width                  | $12.20$ cm ($4.80$ inches)  | Straight-line width at widest point                           |
+| Measurement | Value | Notes |
+|-------------|-------|-------|
+| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes |
+| Waist Width | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
+| Hip Width (bi-iliac) | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis |
+| Back Width | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached** |
+| Chest Width | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point |
+| Head Width | $16.20$ cm ($6.38$ inches) | Straight-line width at widest point |
+| Face Width | $14.77$ cm ($5.81$ inches) | Calculated to maintain exact $1.6180$ height-to-width ratio |
+| Neck Width | $14.00$ cm ($5.51$ inches) | Straight-line width at mid-neck |
+| Wrist Width | $6.90$ cm ($2.72$ inches) | Straight-line width across wrist bones |
+| Hand Width | $10.90$ cm ($4.29$ inches) | Straight-line width at widest point of palm |
+| Foot Width | $12.20$ cm ($4.80$ inches) | Straight-line width at widest point |
 
 ### Key Circumferences (Active Season)
 
