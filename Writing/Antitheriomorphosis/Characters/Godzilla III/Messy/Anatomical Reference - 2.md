@@ -72,15 +72,15 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 ### Key Height Proportions
 
-| Measurement | Value | Notes |
-|-------------|-------|-------|
-| Total Height | $196.00$ cm ($77.17$ inches) | Base measurement |
-| Navel Height from Floor | $121.14$ cm ($47.69$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
-| Head Height | $24.50$ cm ($9.65$ inches) | Perfect $1:8$ ratio to total height |
-| Torso Length | $68.60$ cm ($27.01$ inches) | Perfect $1:\phi$ ratio with arm length |
-| Inseam | $89.18$ cm ($35.11$ inches) | $45.5\%$ of height (classical proportion) |
-| Sitting Height | $102.00$ cm ($40.16$ inches) | Distance from sitting surface to top of head |
-| Shoulder Height from Floor | $159.80$ cm ($62.91$ inches) | Distance from ground to acromion process |
+| Measurement                | Value                        | Notes                                                        |
+| -------------------------- | ---------------------------- | ------------------------------------------------------------ |
+| Total Height               | $196.00$ cm ($77.17$ inches) | Base measurement                                             |
+| Navel Height from Floor    | $121.14$ cm ($47.69$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
+| Head Height                | $24.50$ cm ($9.65$ inches)   | Perfect $1:8$ ratio to total height                          |
+| Torso Length               | $68.60$ cm ($27.01$ inches)  | Perfect $1:\phi$ ratio with arm length                       |
+| Inseam                     | $89.18$ cm ($35.11$ inches)  | $45.5\%$ of height (classical proportion)                    |
+| Sitting Height             | $102.00$ cm ($40.16$ inches) | Distance from sitting surface to top of head                 |
+| Shoulder Height from Floor | $159.80$ cm ($62.91$ inches) | Distance from ground to acromion process                     |
 
 ### Key Width Proportions
 
