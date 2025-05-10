@@ -261,7 +261,6 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 
 ## Detailed Measurements and Proportions
 
-
 ## Detailed Physical Features
 
 ### Eyes
@@ -1313,5 +1312,22 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 # Abilities
 
 # Relationships
-## Primary 
+
+## Primary
+
+1. Maria
+2. Alexios
+3. Roman
+4. Kong
+5. Madison Russell
+6. Mark Russell
+
+## Seconday
+
+1. The Cardinal Wardens
+2. The Intercardinal Wardens
+3. Outpost
+
+## Tertiary
+
 # Role in the Story
