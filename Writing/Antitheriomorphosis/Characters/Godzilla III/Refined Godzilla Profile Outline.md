@@ -1315,19 +1315,22 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 
 ## Primary
 
-1. Maria
-2. Alexios
-3. Roman
-4. Kong
+1. Maria/Mothra
+2. Alexios/Anguirus
+3. Roman/Rodan
+4. Kevin/Kong
 5. Madison Russell
 6. Mark Russell
 
-## Seconday
+## Secondary
 
 1. The Cardinal Wardens
 2. The Intercardinal Wardens
-3. Outpost
+3. Monarch's Upper Management
+4. Outpost 54/Castle Bravo's Staff
 
 ## Tertiary
+
+## Enemies
 
 # Role in the Story
