@@ -261,6 +261,35 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 
 ## Detailed Measurements and Proportions
 
+### Mathematical Foundation & Precision Standards
+
+All measurements in this document follow these mathematical precision principles:
+
+1. **No Rounding**: All values presented to 4 decimal places without rounding when derived from mathematical relationships
+2. **True Golden Ratio**: φ = 1.6180 (to 4 decimal places)
+3. **Deviation Calculation**: ((|Actual - Target|) / Target) × 100%, expressed to 4 decimal places
+4. **Perfect Proportions**: Only values with 0.0000% deviation are considered “perfect”
+5. **Golden Ratio Derivatives**:
+   - Reciprocal of φ (1/φ) = 0.6180
+   - (φ-1)/φ = 0.3820
+   - 1/φ³ = 0.2361
+   - (1+φ)/φ² = 0.8944
+
+This precision ensures mathematical accuracy throughout all proportional analyses.
+
+|                    Measurement                    |      Value       |                          Notes                           |
+| :-----------------------------------------------: | :--------------: | :------------------------------------------------------: |
+|                   Total Height                    |   196 cm (77“)   |                     Base measurement                     |
+|              Navel Height from Floor              | 121.1 cm (47.7”) | Perfect golden ratio division of height (height ÷ 1.618) |
+|                    Head Height                    | 24.5 cm (9.65“)  |            Perfect 1:8 ratio to total height             |
+| Torso Length (7th cervical vertebra to hip joint) |  68.6 cm (27”)   |          Perfect 1:1.618 ratio with arm length           |
+|                      Inseam                       | 89.2 cm (35.1“)  |          45.5% of height (classical proportion)          |
+|                 Upper Leg Length                  | 58.2 cm (22.9”)  |                 1.624 ratio to lower leg                 |
+|                 Lower Leg Length                  | 35.8 cm (14.1“)  |                 Complement to upper leg                  |
+|       Total Leg Length (hip joint to floor)       |   94 cm (37”)    |                     3 × head height                      |
+|                  Sitting Height                   |  102 cm (40.2“)  |       Distance from sitting surface to top of head       |
+|            Shoulder Height from Floor             | 159.8 cm (62.9”) |         Distance from ground to acromion process         |
+
 ### Golden Ratio Analysis
 
 |           Relationship           | Actual Value | Golden Ratio (φ) | Deviation |                       Notes                       |
@@ -282,6 +311,22 @@ When Godric allows his shaving routine to lapse - or during his dormant period -
 |          Chest to Waist          |    1.4506    |      1.6180      | 10.3461%  |   **Titan Echo: Thicker torso for power core**    |
 |       Upper Arm to Forearm       |    1.1835    |      1.6180      | 26.8541%  |     **Titan Echo: Enhanced forearm strength**     |
 |          Thigh to Calf           |    1.5278    |      1.6180      |  5.5747%  |   **Titan Echo: Power adaptation for movement**   |
+
+## Comprehensive Width Measurements
+
+|         Measurement         |      Value      |                               Notes                               |
+| :-------------------------: | :-------------: | :---------------------------------------------------------------: |
+| Shoulder Width (biacromial) | 54.6 cm (21.5“) |         Straight-line distance between acromion processes         |
+|         Waist Width         | 33.8 cm (13.3”) |              Straight-line width at narrowest point               |
+|    Hip Width (bi-iliac)     | 36.8 cm (14.5“) |           Straight-line width at widest point of pelvis           |
+|         Back Width          | 58.9 cm (23.2”) | **Titan Echo: Wider to accommodate dorsal fin attachment points** |
+|         Chest Width         |  48.3 cm (19“)  |                Straight-line width at widest point                |
+|         Head Width          | 16.2 cm (6.4”)  |                Straight-line width at widest point                |
+|         Face Width          | 14.8 cm (5.8“)  |                 Straight-line width at cheekbones                 |
+|         Neck Width          | 14.0 cm (5.5”)  |                  Straight-line width at mid-neck                  |
+|         Wrist Width         |  6.9 cm (2.7“)  |              Straight-line width across wrist bones               |
+|         Hand Width          | 10.9 cm (4.3”)  |            Straight-line width at widest point of palm            |
+|         Foot Width          | 12.2 cm (4.8“)  |                Straight-line width at widest point                |
 
 ## Detailed Physical Features
 

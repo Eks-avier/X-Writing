@@ -264,7 +264,7 @@
                   "state": {
                     "file": "Notepad 3.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
                   "title": "Notepad 3"
