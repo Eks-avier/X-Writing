@@ -1313,5 +1313,5 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 # Abilities
 
 # Relationships
-
+## Primary 
 # Role in the Story
