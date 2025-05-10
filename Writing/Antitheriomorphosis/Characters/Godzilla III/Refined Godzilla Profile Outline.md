@@ -39,8 +39,8 @@ Godric's near-perfect 98.7% bilateral symmetry creates an unconscious, instinctu
 
 - Perfectly aligned features on both sides of his face
 - Identical musculature development on both sides of the body
-- Fingerprints that almost look too identical
-- A near-perfect distribution of modest body hair
+- Fingerprints that *almost* look too identical
+- A *near*-perfect distribution of modest body hair
 - Perfect alignment of teeth
 
 ### Distinctive Physical Characteristics
@@ -260,6 +260,28 @@ When Godric grooms himself, his features allow him to effortlessly appear as the
 When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry with unwavering precision. When he people see him in this state, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his unbroken reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and distinguished by his unerring triumph over them.
 
 ## Detailed Measurements and Proportions
+
+### Golden Ratio Analysis
+
+| Relationship                     | Actual Value | Golden Ratio (φ) | Deviation | Notes                                             |
+| -------------------------------- | ------------ | ---------------- | --------- | ------------------------------------------------- |
+| **Facial Proportions**           |              |                  |           |                                                   |
+| Face Width to Height             | 1.6180       | 1.6180           | 0.0000%   | Perfect mathematical harmony                      |
+| Eye Width to Face Width          | 0.6180       | 0.6180           | 0.0000%   | Perfect reciprocal of φ                           |
+| Nose Length to Face Height       | 0.2361       | 0.2361           | 0.0000%   | Perfect 1/φ³ reciprocal                           |
+| Lips Width to Face Width         | 0.3820       | 0.3820           | 0.0000%   | Perfect (φ-1)/φ proportion                        |
+| **Skeletal Structure**           |              |                  |           |                                                   |
+| Shoulder Width to Waist Width    | 1.6170       | 1.6180           | 0.0618%   | Near-perfect harmony                              |
+| Height to Navel Point            | 1.6180       | 1.6180           | 0.0000%   | Perfect division                                  |
+| Upper to Lower Leg               | 1.6246       | 1.6180           | 0.4079%   | Minor functional adaptation                       |
+| Forearm to Upper Arm Length      | 0.9674       | 0.6180           | 56.5372%  | **Titan Echo: Arm proportion adapted for combat** |
+| Hand Length to Forearm           | 0.6208       | 0.6180           | 0.4531%   | Near-perfect with minor adaptation                |
+| Foot to Lower Leg Length         | 0.8883       | 0.8944           | 0.6821%   | Near-perfect ((1+φ)/φ²) proportioning             |
+| **Circumferences**               |              |                  |           |                                                   |
+| Shoulder to Waist (Adonis Index) | 1.6111       | 1.6180           | 0.4264%   | Approaches but never reaches perfect φ            |
+| Chest to Waist                   | 1.4506       | 1.6180           | 10.3461%  | **Titan Echo: Thicker torso for power core**      |
+| Upper Arm to Forearm             | 1.1835       | 1.6180           | 26.8541%  | **Titan Echo: Enhanced forearm strength**         |
+| Thigh to Calf                    | 1.5278       | 1.6180           | 5.5747%   | **Titan Echo: Power adaptation for movement**     |
 
 ## Detailed Physical Features
 
