@@ -84,19 +84,19 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 ### Key Width Proportions
 
-| Measurement | Value | Notes |
-|-------------|-------|-------|
-| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes |
-| Waist Width | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
-| Hip Width (bi-iliac) | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis |
-| Back Width | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached** |
-| Chest Width | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point |
-| Head Width | $16.20$ cm ($6.38$ inches) | Straight-line width at widest point |
-| Face Width | $14.77$ cm ($5.81$ inches) | Calculated to maintain exact $1.6180$ height-to-width ratio |
-| Neck Width | $14.00$ cm ($5.51$ inches) | Straight-line width at mid-neck |
-| Wrist Width | $6.90$ cm ($2.72$ inches) | Straight-line width across wrist bones |
-| Hand Width | $10.90$ cm ($4.29$ inches) | Straight-line width at widest point of palm |
-| Foot Width | $12.20$ cm ($4.80$ inches) | Straight-line width at widest point |
+| Measurement                 | Value                       | Notes                                                         |
+| --------------------------- | --------------------------- | ------------------------------------------------------------- |
+| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes             |
+| Waist Width                 | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
+| Hip Width (bi-iliac)        | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis                 |
+| Back Width                  | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached**    |
+| Chest Width                 | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point                           |
+| Head Width                  | $16.20$ cm ($6.38$ inches)  | Straight-line width at widest point                           |
+| Face Width                  | $14.77$ cm ($5.81$ inches)  | Calculated to maintain exact $1.6180$ height-to-width ratio   |
+| Neck Width                  | $14.00$ cm ($5.51$ inches)  | Straight-line width at mid-neck                               |
+| Wrist Width                 | $6.90$ cm ($2.72$ inches)   | Straight-line width across wrist bones                        |
+| Hand Width                  | $10.90$ cm ($4.29$ inches)  | Straight-line width at widest point of palm                   |
+| Foot Width                  | $12.20$ cm ($4.80$ inches)  | Straight-line width at widest point                           |
 
 ### Key Circumferences (Active Season)
 
