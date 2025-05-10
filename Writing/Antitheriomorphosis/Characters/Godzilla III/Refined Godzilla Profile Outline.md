@@ -292,25 +292,34 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 
 ### Golden Ratio Analysis
 
-|           Relationship           | Actual Value | Golden Ratio (φ) | Deviation |                       Notes                       |
-| :------------------------------: | :----------: | :--------------: | :-------: | :-----------------------------------------------: |
-|      **Facial Proportions**      |              |                  |           |                                                   |
-|       Face Width to Height       |    1.6180    |      1.6180      |  0.0000%  |           Perfect mathematical harmony            |
-|     Eye Width to Face Width      |    0.6180    |      0.6180      |  0.0000%  |              Perfect reciprocal of φ              |
-|    Nose Length to Face Height    |    0.2361    |      0.2361      |  0.0000%  |              Perfect 1/φ³ reciprocal              |
-|     Lips Width to Face Width     |    0.3820    |      0.3820      |  0.0000%  |            Perfect (φ-1)/φ proportion             |
-|      **Skeletal Structure**      |              |                  |           |                                                   |
-|  Shoulder Width to Waist Width   |    1.6170    |      1.6180      |  0.0618%  |               Near-perfect harmony                |
-|      Height to Navel Point       |    1.6180    |      1.6180      |  0.0000%  |                 Perfect division                  |
-|        Upper to Lower Leg        |    1.6246    |      1.6180      |  0.4079%  |            Minor functional adaptation            |
-|   Forearm to Upper Arm Length    |    0.9674    |      0.6180      | 56.5372%  | **Titan Echo: Arm proportion adapted for combat** |
-|      Hand Length to Forearm      |    0.6208    |      0.6180      |  0.4530%  |        Near-perfect with minor adaptation         |
-|     Foot to Lower Leg Length     |    0.8883    |      0.8944      |  0.6820%  |       Near-perfect ((1+φ)/φ²) proportioning       |
-|        **Circumferences**        |              |                  |           |                                                   |
-| Shoulder to Waist (Adonis Index) |    1.6111    |      1.6180      |  0.4264%  |      Approaches but never reaches perfect φ       |
-|          Chest to Waist          |    1.4506    |      1.6180      | 10.3461%  |   **Titan Echo: Thicker torso for power core**    |
-|       Upper Arm to Forearm       |    1.1835    |      1.6180      | 26.8541%  |     **Titan Echo: Enhanced forearm strength**     |
-|          Thigh to Calf           |    1.5278    |      1.6180      |  5.5747%  |   **Titan Echo: Power adaptation for movement**   |
+#### Facial Proportions Analysis
+
+|       Relationship       | Actual Value | Golden Ratio (φ) | Deviation |             Notes             |
+| :----------------------: | :----------: | :--------------: | :-------: | :---------------------------: |
+| Face Width to Height     |    1.6180    |      1.6180      |  0.0000%  | Perfect mathematical harmony  |
+| Eye Width to Face Width  |    0.6180    |      0.6180      |  0.0000%  |    Perfect reciprocal of φ    |
+| Nose Length to Face Height |    0.2361    |      0.2361      |  0.0000%  |    Perfect 1/φ³ reciprocal    |
+| Lips Width to Face Width |    0.3820    |      0.3820      |  0.0000%  |  Perfect (φ-1)/φ proportion   |
+
+#### Skeletal Structure Analysis
+
+|         Relationship         | Actual Value | Golden Ratio (φ) | Deviation |                       Notes                       |
+| :--------------------------: | :----------: | :--------------: | :-------: | :-----------------------------------------------: |
+| Shoulder Width to Waist Width|    1.6170    |      1.6180      |  0.0618%  |               Near-perfect harmony                |
+|    Height to Navel Point     |    1.6180    |      1.6180      |  0.0000%  |                 Perfect division                  |
+|      Upper to Lower Leg      |    1.6246    |      1.6180      |  0.4079%  |            Minor functional adaptation            |
+| Forearm to Upper Arm Length  |    0.9674    |      0.6180      | 56.5372%  | **Titan Echo: Arm proportion adapted for combat** |
+|    Hand Length to Forearm    |    0.6208    |      0.6180      |  0.4530%  |        Near-perfect with minor adaptation         |
+|   Foot to Lower Leg Length   |    0.8883    |      0.8944      |  0.6820%  |       Near-perfect ((1+φ)/φ²) proportioning       |
+
+#### Circumferences Analysis
+
+|          Relationship          | Actual Value | Golden Ratio (φ) | Deviation |                     Notes                     |
+| :----------------------------: | :----------: | :--------------: | :-------: | :-------------------------------------------: |
+| Shoulder to Waist (Adonis Index) |    1.6111    |      1.6180      |  0.4264%  |      Approaches but never reaches perfect φ     |
+|         Chest to Waist         |    1.4506    |      1.6180      | 10.3461%  |   **Titan Echo: Thicker torso for power core**  |
+|      Upper Arm to Forearm      |    1.1835    |      1.6180      | 26.8541%  |     **Titan Echo: Enhanced forearm strength**   |
+|         Thigh to Calf          |    1.5278    |      1.6180      |  5.5747%  |   **Titan Echo: Power adaptation for movement** |
 
 ### General Body Measurements
 
@@ -329,7 +338,7 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 
 ### Detailed Measurements by Category
 
-### Width Measurements
+#### Width Measurements
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
@@ -344,6 +353,90 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 | Wrist Width | 6.9 cm (2.7“) | Straight-line width across wrist bones |
 | Hand Width | 10.9 cm (4.3”) | Straight-line width at widest point of palm |
 | Foot Width | 12.2 cm (4.8“) | Straight-line width at widest point |
+
+Okay, here is the table broken down into three separate tables based on the “Arms,” “Legs,” and “Other” categories:
+
+#### Arm Measurements
+
+| Measurement          | Value            | Notes                              |
+|----------------------|------------------|------------------------------------|
+| Total Arm Length     | 89.1 cm (35.1”)  | Shoulder joint to fingertip        |
+| Upper Arm Length     | 36.8 cm (14.5“)  | Shoulder joint to elbow            |
+| Forearm Length       | 35.6 cm (14”)    | Elbow to wrist                     |
+| Hand Length          | 22.1 cm (8.7“)   | Wrist to fingertip                 |
+| Palm Length          | 12.1 cm (4.75”)  | Wrist to base of fingers           |
+| Middle Finger Length | 10.0 cm (3.95“)  | Base to tip                        |
+| Thumb Length         | 8.4 cm (3.3”)    | Base to tip                        |
+| Handspan             | 28.4 cm (11.2“)  | Thumb tip to pinky tip when spread |
+
+#### Leg Measurements
+
+| Measurement   | Value             | Notes                          |
+|---------------|-------------------|--------------------------------|
+| Foot Length   | 31.8 cm (12.5”)   | Heel to toe (US size 14)       |
+| Arch Height   | 4.3 cm (1.7“)     | Floor to highest point of arch |
+| Heel Width    | 7.4 cm (2.9”)     | At widest point                |
+
+#### Other Measurements
+
+| Measurement              | Value            | Notes                                     |
+|--------------------------|------------------|-------------------------------------------|
+| Shoulder-to-Navel Length | 57.2 cm (22.5“)  | Acromion to navel                         |
+| Chest Depth              | 26.7 cm (10.5”)  | **Titan Echo: Deeper for energy storage** |
+| Waist Depth              | 22.1 cm (8.7“)   | Front to back at narrowest point          |
+| Abdominal Wall Thickness | 8.1 cm (3.2”)    | **Titan Echo: Enhanced core protection**  |
+
+### Circumference Measurements
+
+#### Torso Circumference Measurements
+
+| Body Part | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                  |
+|-----------|-------------------------|------------------------|---------------------------|--------------------------|------------------------|
+| Shoulder  | 132.6 cm (52.2“)        | —                      | 136.4 cm (53.7”)          | —                      | Measured around deltoids |
+| Chest     | 119.4 cm (47“)          | 123.4 cm (48.6”)       | 125.7 cm (49.5“)          | 129.5 cm (51”)           | At nipple level        |
+| Waist     | 82.3 cm (32.4“)         | —                      | 91 cm (35.8”)             | —                      | At narrowest point     |
+| Hip       | 104.1 cm (41“)          | —                      | 112.5 cm (44.3”)          | —                      | At widest point        |
+| Neck      | 45.7 cm (18“)           | 47.2 cm (18.6”)        | 48.8 cm (19.2“)           | 50.3 cm (19.8”)          | At mid-neck            |
+
+#### Arm Circumference Measurements
+
+| Body Part | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                      |
+|-----------|-------------------------|------------------------|---------------------------|--------------------------|----------------------------|
+| Upper Arm | 44.5 cm (17.5“)         | 47.2 cm (18.6”)        | 47.5 cm (18.7“)           | 49.5 cm (19.5”)          | At bicep peak              |
+| Forearm   | 37.6 cm (14.8“)         | 39.1 cm (15.4”)        | 39.9 cm (15.7“)           | 41.1 cm (16.2”)          | At widest point            |
+| Wrist     | 23.4 cm (9.2“)          | 23.9 cm (9.4”)         | 24.4 cm (9.6“)            | 24.9 cm (9.8”)           | **Titan Echo: Reinforced** |
+
+#### Leg Circumference Measurements
+
+| Body Part   | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                    |
+|-------------|-------------------------|------------------------|---------------------------|--------------------------|--------------------------|
+| Upper Thigh | 66 cm (26“)             | 68.8 cm (27.1”)        | 71.6 cm (28.2“)           | 73.9 cm (29.1”)          | At gluteal fold          |
+| Mid-Thigh   | 61.7 cm (24.3“)         | 64 cm (25.2”)          | 67.1 cm (26.4“)           | 69.1 cm (27.2”)          | At mid-thigh             |
+| Knee        | 43.4 cm (17.1“)         | 44.7 cm (17.6”)        | 46.2 cm (18.2“)           | 47.2 cm (18.6”)          | At knee joint            |
+| Calf        | 43.2 cm (17“)           | 44.7 cm (17.6”)        | 46 cm (18.1“)             | 47.2 cm (18.6”)          | At widest point          |
+| Ankle       | 26.7 cm (10.5“)         | 27.2 cm (10.7”)        | 27.9 cm (11“)             | 28.4 cm (11.2”)          | **Titan Echo: Enhanced** |
+
+### Weight & Density Analysis
+
+#### Density & Weight Distribution
+
+Godric possesses extraordinary tissue density that creates disconnect between appearance and capability:
+
+| Tissue Type | Godric's Density | Human Average | Ratio |
+|-------------|------------------|---------------|-------|
+| Bone | 2.6 g/cm³ | 1.5-1.8 g/cm³ | ~1.6× greater |
+| Muscle | 1.9 g/cm³ | 1.06 g/cm³ | ~1.8× greater |
+| Organ Tissue | ~1.3× human average | Varies | ~1.3× greater |
+| Connective Tissue | ~1.5× human average | Varies | ~1.5× greater |
+
+#### Region-Specific Weight Distribution
+
+| Body Region | Percentage of Mass | Human Average | Notes |
+|-------------|-------------------|---------------|-------|
+| Torso | 48% | 43-45% | **Titan Echo: Higher mass percentage for energy core** |
+| Arms | 15% | 13-14% | **Titan Echo: Denser musculature for combat** |
+| Legs | 33% | 35-37% | Proportionally balanced |
+| Head | 4% | 7-8% | **Titan Echo: More efficient neural structure** |
 
 ## Detailed Physical Features
 
