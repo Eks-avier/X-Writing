@@ -4,8 +4,8 @@
 
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla/Gojira
-- **Height**: $196.0000$ cm ($77.1654$ inches)
-- **Weight**: $120.0000$ kg ($264.5547$ lbs) Active Season / $129.0000$ kg ($284.3964$ lbs) Dormant Season
+- **Height**: $196.00$ cm ($77.17$ inches)
+- **Weight**: $120.00$ kg ($264.55$ lbs) Active Season / $129.00$ kg ($284.40$ lbs) Dormant Season
 - **Body Fat**: $10$-$12\%$ (Active Season) / $15$-$18\%$ (Dormant Season)
 - **Active Season**: December-August (Leaner, more defined, higher body temperature)
 - **Dormant Season**: September-November (Fuller, softer features, lower body temperature)
@@ -14,10 +14,12 @@
 
 All measurements in this document follow these mathematical precision principles:
 
-1. **No Rounding**: All values presented to 4 decimal places without rounding when derived from mathematical relationships
+1. **Hybrid Precision Approach**: 
+   - Physical measurements presented to 2 decimal places (sufficient for anatomical precision)
+   - Mathematical ratios and deviations calculated to 4 decimal places (documenting mathematical harmony)
 2. **True Golden Ratio**: $\phi = 1.6180$ (to 4 decimal places)
 3. **Deviation Calculation**: $((|Actual - Target|) / Target) \times 100\%$, expressed to 4 decimal places
-4. **Perfect Proportions**: Only values with $0.0000\%$ deviation are considered “perfect”
+4. **Perfect Proportions**: Only values with $0.0000\%$ deviation are considered "perfect"
 5. **Golden Ratio Derivatives**:
    - Reciprocal of φ $(1/\phi) = 0.6180$
    - $(\phi-1)/\phi = 0.3820$
@@ -32,37 +34,35 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 | Tissue Type | Godric's Density | Human Average | Ratio |
 |-------------|------------------|---------------|-------|
-| Bone | $2.6$ g/cm³ | $1.5$-$1.8$ g/cm³ | $\sim1.6\times$ greater |
-| Muscle | $1.9$ g/cm³ | $1.06$ g/cm³ | $\sim1.8\times$ greater |
-| Organ Tissue | $\sim1.3\times$ human average | Varies | $\sim1.3\times$ greater |
-| Connective Tissue | $\sim1.5\times$ human average | Varies | $\sim1.5\times$ greater |
+| Bone | $2.60$ g/cm³ | $1.50$-$1.80$ g/cm³ | $\sim1.60\times$ greater |
+| Muscle | $1.90$ g/cm³ | $1.06$ g/cm³ | $\sim1.80\times$ greater |
+| Organ Tissue | $\sim1.30\times$ human average | Varies | $\sim1.30\times$ greater |
+| Connective Tissue | $\sim1.50\times$ human average | Varies | $\sim1.50\times$ greater |
 
 ### Weight Distribution
 
-| Body Region | Percentage of Mass | Human Average | Notes                                                  |
-| ----------- | ------------------ | ------------- | ------------------------------------------------------ |
-| Torso       | $48\%$             | $43$-$45\%$   | **Titan Echo: Higher mass percentage for energy core** |
-| Arms        | $15\%$             | $13$-$14\%$   | **Titan Echo: Denser musculature for combat**          |
-| Legs        | $33\%$             | $35$-$37\%$   | Proportionally balanced                                |
-| Head        | $4\%$              | $7$-$8\%$     | **Titan Echo: More efficient neural structure**        |
+| Body Region | Percentage of Mass | Human Average | Notes |
+|-------------|-------------------|---------------|-------|
+| Torso | $48.00\%$ | $43.00$-$45.00\%$ | **Titan Echo: Higher mass percentage for energy core** |
+| Arms | $15.00\%$ | $13.00$-$14.00\%$ | **Titan Echo: Denser musculature for combat** |
+| Legs | $33.00\%$ | $35.00$-$37.00\%$ | Proportionally balanced |
+| Head | $4.00\%$ | $7.00$-$8.00\%$ | **Titan Echo: More efficient neural structure** |
 
 ### Seasonal Variation
 
 #### Active Season (December-August)
-
-- Body Fat: $10$-$12\%$
+- Body Fat: $10.00$-$12.00\%$
 - Muscle Definition: Highly pronounced
 - Facial Features: Angular and defined
-- Temperature: $100.9°$F ($38.3°$C)
+- Temperature: $100.90°$F ($38.30°$C)
 - Overall Appearance: Classical sculpture precision
 - Human Perception: Intimidating perfection
 
 #### Dormant Season (September-November)
-
-- Body Fat: $15$-$18\%$
+- Body Fat: $15.00$-$18.00\%$
 - Muscle Definition: Softer but still visible
 - Facial Features: Slightly rounded
-- Temperature: $99.5°$F ($37.5°$C)
+- Temperature: $99.50°$F ($37.50°$C)
 - Overall Appearance: Rugged wilderness vitality
 - Human Perception: More approachable yet powerful
 
@@ -70,47 +70,73 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 ### Key Height Proportions
 
-| Measurement                | Value            | Notes                                                    |
-| -------------------------- | ---------------- | -------------------------------------------------------- |
-| Total Height               | 196 cm (77“)     | Base measurement                                         |
-| Navel Height from Floor    | 121.1 cm (47.7”) | Perfect golden ratio division of height (height ÷ 1.618) |
-| Head Height                | 24.5 cm (9.65“)  | Perfect 1:8 ratio to total height                        |
-| Torso Length               | 68.6 cm (27”)    | Perfect 1:1.618 ratio with arm length                    |
-| Inseam                     | 89.2 cm (35.1“)  | 45.5% of height (classical proportion)                   |
-| Sitting Height             | 102 cm (40.2”)   | Distance from sitting surface to top of head             |
-| Shoulder Height from Floor | 159.8 cm (62.9“) | Distance from ground to acromion process                 |
+| Measurement | Value | Notes |
+|-------------|-------|-------|
+| Total Height | $196.00$ cm ($77.17$ inches) | Base measurement |
+| Navel Height from Floor | $121.14$ cm ($47.69$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
+| Head Height | $24.50$ cm ($9.65$ inches) | Perfect $1:8$ ratio to total height |
+| Torso Length | $68.60$ cm ($27.01$ inches) | Perfect $1:\phi$ ratio with arm length |
+| Inseam | $89.18$ cm ($35.11$ inches) | $45.5\%$ of height (classical proportion) |
+| Sitting Height | $102.00$ cm ($40.16$ inches) | Distance from sitting surface to top of head |
+| Shoulder Height from Floor | $159.80$ cm ($62.91$ inches) | Distance from ground to acromion process |
 
 ### Key Width Proportions
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
-| Shoulder Width (biacromial) | 54.6 cm (21.5”) | Straight-line distance between acromion processes |
-| Waist Width | 33.8 cm (13.3“) | Straight-line width at narrowest point |
-| Hip Width (bi-iliac) | 36.8 cm (14.5”) | Straight-line width at widest point of pelvis |
-| Back Width | 58.9 cm (23.2“) | **Titan Echo: Wider where dorsal fins were once attached** |
-| Chest Width | 48.3 cm (19”) | Straight-line width at widest point |
+| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes |
+| Waist Width | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
+| Hip Width (bi-iliac) | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis |
+| Back Width | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached** |
+| Chest Width | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point |
+| Head Width | $16.20$ cm ($6.38$ inches) | Straight-line width at widest point |
+| Face Width | $14.77$ cm ($5.81$ inches) | Calculated to maintain exact $1.6180$ height-to-width ratio |
+| Neck Width | $14.00$ cm ($5.51$ inches) | Straight-line width at mid-neck |
+| Wrist Width | $6.90$ cm ($2.72$ inches) | Straight-line width across wrist bones |
+| Hand Width | $10.90$ cm ($4.29$ inches) | Straight-line width at widest point of palm |
+| Foot Width | $12.20$ cm ($4.80$ inches) | Straight-line width at widest point |
 
 ### Key Circumferences (Active Season)
 
 | Body Part | Relaxed | Flexed | Notes |
 |-----------|---------|--------|-------|
-| Chest | $119.4$ cm ($47$ inches) | $123.4$ cm ($48.6$ inches) | At nipple level |
-| Waist | $82.3$ cm ($32.4$ inches) | — | At narrowest point |
-| Hip | $104.1$ cm ($41$ inches) | — | At widest point |
-| Upper Arm | $44.5$ cm ($17.5$ inches) | $47.2$ cm ($18.6$ inches) | At bicep peak |
-| Thigh | $66$ cm ($26$ inches) | $68.8$ cm ($27.1$ inches) | At gluteal fold |
-| Calf | $43.2$ cm ($17$ inches) | $44.7$ cm ($17.6$ inches) | At widest point |
+| **Torso** |  |  |  |
+| Shoulder | $132.60$ cm ($52.20$ inches) | — | Measured around deltoids |
+| Chest | $119.40$ cm ($47.01$ inches) | $123.40$ cm ($48.58$ inches) | At nipple level |
+| Waist | $82.31$ cm ($32.41$ inches) | — | Calculated to maintain $1.4506$ chest-to-waist ratio |
+| Hip | $104.10$ cm ($41.00$ inches) | — | At widest point |
+| Neck | $45.70$ cm ($18.00$ inches) | $47.20$ cm ($18.58$ inches) | At mid-neck |
+| **Arms** |  |  |  |
+| Upper Arm | $44.50$ cm ($17.52$ inches) | $47.20$ cm ($18.58$ inches) | At bicep peak |
+| Forearm | $37.60$ cm ($14.80$ inches) | $39.10$ cm ($15.39$ inches) | At widest point |
+| Wrist | $23.40$ cm ($9.21$ inches) | $23.90$ cm ($9.41$ inches) | **Titan Echo: Reinforced** |
+| **Legs** |  |  |  |
+| Upper Thigh | $66.00$ cm ($25.98$ inches) | $68.80$ cm ($27.09$ inches) | At gluteal fold |
+| Mid-Thigh | $61.70$ cm ($24.29$ inches) | $64.00$ cm ($25.20$ inches) | At mid-thigh |
+| Knee | $43.40$ cm ($17.09$ inches) | $44.70$ cm ($17.60$ inches) | At knee joint |
+| Calf | $43.20$ cm ($17.01$ inches) | $44.70$ cm ($17.60$ inches) | At widest point |
+| Ankle | $26.70$ cm ($10.51$ inches) | $27.20$ cm ($10.71$ inches) | **Titan Echo: Enhanced** |
 
 ### Key Circumferences (Dormant Season)
 
 | Body Part | Relaxed | Flexed | Notes |
 |-----------|---------|--------|-------|
-| Chest | $125.7$ cm ($49.5$ inches) | $129.5$ cm ($51$ inches) | At nipple level |
-| Waist | $91$ cm ($35.8$ inches) | — | At narrowest point |
-| Hip | $112.5$ cm ($44.3$ inches) | — | At widest point |
-| Upper Arm | $47.5$ cm ($18.7$ inches) | $49.5$ cm ($19.5$ inches) | At bicep peak |
-| Thigh | $71.6$ cm ($28.2$ inches) | $73.9$ cm ($29.1$ inches) | At gluteal fold |
-| Calf | $46$ cm ($18.1$ inches) | $47.2$ cm ($18.6$ inches) | At widest point |
+| **Torso** |  |  |  |
+| Shoulder | $136.40$ cm ($53.70$ inches) | — | Measured around deltoids |
+| Chest | $125.70$ cm ($49.49$ inches) | $129.50$ cm ($50.98$ inches) | At nipple level |
+| Waist | $91.00$ cm ($35.83$ inches) | — | At narrowest point |
+| Hip | $112.50$ cm ($44.29$ inches) | — | At widest point |
+| Neck | $48.80$ cm ($19.21$ inches) | $50.30$ cm ($19.80$ inches) | At mid-neck |
+| **Arms** |  |  |  |
+| Upper Arm | $47.50$ cm ($18.70$ inches) | $49.50$ cm ($19.49$ inches) | At bicep peak |
+| Forearm | $39.90$ cm ($15.71$ inches) | $41.10$ cm ($16.18$ inches) | At widest point |
+| Wrist | $24.40$ cm ($9.61$ inches) | $24.90$ cm ($9.80$ inches) | **Titan Echo: Reinforced** |
+| **Legs** |  |  |  |
+| Upper Thigh | $71.60$ cm ($28.19$ inches) | $73.90$ cm ($29.09$ inches) | At gluteal fold |
+| Mid-Thigh | $67.10$ cm ($26.42$ inches) | $69.10$ cm ($27.20$ inches) | At mid-thigh |
+| Knee | $46.20$ cm ($18.19$ inches) | $47.20$ cm ($18.58$ inches) | At knee joint |
+| Calf | $46.00$ cm ($18.11$ inches) | $47.20$ cm ($18.58$ inches) | At widest point |
+| Ankle | $27.90$ cm ($10.98$ inches) | $28.40$ cm ($11.18$ inches) | **Titan Echo: Enhanced** |
 
 ## 5. Golden Ratio Analysis
 
@@ -152,62 +178,68 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
-| Total Leg Length | 94 cm (37“) | 3 × head height |
-| Upper Leg Length | 58.2 cm (22.9”) | 1.624 ratio to lower leg |
-| Lower Leg Length | 35.8 cm (14.1“) | Complement to upper leg |
-| Foot Length | 31.8 cm (12.5”) | Heel to toe (US size 14) |
-| Arch Height | 4.3 cm (1.7“) | Floor to highest point of arch |
-| Heel Width | 7.4 cm (2.9”) | At widest point |
-| Foot Width | 12.2 cm (4.8“) | Straight-line width at widest point |
-| Ankle Circumference | 26.7 cm (10.5”) | **Titan Echo: Enhanced** |
+| Total Leg Length | $94.00$ cm ($37.01$ inches) | $3 \times$ head height |
+| Upper Leg Length | $58.20$ cm ($22.91$ inches) | $1.6257$ ratio to lower leg |
+| Lower Leg Length | $35.80$ cm ($14.09$ inches) | Complement to upper leg |
+| Foot Length | $31.80$ cm ($12.52$ inches) | Heel to toe (US size 14) |
+| Arch Height | $4.30$ cm ($1.69$ inches) | Floor to highest point of arch |
+| Heel Width | $7.40$ cm ($2.91$ inches) | At widest point |
+| Foot Width | $12.20$ cm ($4.80$ inches) | Straight-line width at widest point |
+| Ankle Circumference | $26.70$ cm ($10.51$ inches) | **Titan Echo: Enhanced** |
+| Knee Circumference | $43.40$ cm ($17.09$ inches) | At knee joint |
 
 ### Arm Measurements
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
-| Total Arm Length | 89.1 cm (35.1“) | Shoulder joint to fingertip |
-| Upper Arm Length | 36.8 cm (14.5”) | Shoulder joint to elbow |
-| Forearm Length | 35.6 cm (14“) | Elbow to wrist |
-| Hand Length | 22.1 cm (8.7”) | Wrist to fingertip |
-| Palm Length | 12.1 cm (4.75“) | Wrist to base of fingers |
-| Middle Finger Length | 10.0 cm (3.95”) | Base to tip |
-| Thumb Length | 8.4 cm (3.3“) | Base to tip |
-| Handspan | 28.4 cm (11.2”) | Thumb tip to pinky tip when spread |
-| Wrist Width | 6.9 cm (2.7“) | Straight-line width across wrist bones |
-| Hand Width | 10.9 cm (4.3”) | Straight-line width at widest point |
-| Wrist Circumference | 23.4 cm (9.2“) | **Titan Echo: Reinforced** |
+| Total Arm Length | $89.10$ cm ($35.08$ inches) | Shoulder joint to fingertip |
+| Upper Arm Length | $36.80$ cm ($14.49$ inches) | Shoulder joint to elbow |
+| Forearm Length | $35.60$ cm ($14.02$ inches) | Elbow to wrist |
+| Hand Length | $22.10$ cm ($8.70$ inches) | Wrist to fingertip |
+| Palm Length | $12.10$ cm ($4.76$ inches) | Wrist to base of fingers |
+| Middle Finger Length | $10.00$ cm ($3.94$ inches) | Base to tip |
+| Thumb Length | $8.40$ cm ($3.31$ inches) | Base to tip |
+| Handspan | $28.40$ cm ($11.18$ inches) | Thumb tip to pinky tip when spread |
+| Wrist Width | $6.90$ cm ($2.72$ inches) | Straight-line width across wrist bones |
+| Hand Width | $10.90$ cm ($4.29$ inches) | Straight-line width at widest point |
+| Wrist Circumference | $23.40$ cm ($9.21$ inches) | **Titan Echo: Reinforced** |
+| Forearm Circumference | $37.60$ cm ($14.80$ inches) | At widest point |
+| Upper Arm Circumference | $44.50$ cm ($17.52$ inches) | At bicep peak |
 
 ### Torso Measurements
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
-| Shoulder-to-Navel Length | 57.2 cm (22.5”) | Acromion to navel |
-| Chest Depth | 26.7 cm (10.5“) | **Titan Echo: Deeper for energy storage** |
-| Waist Depth | 22.1 cm (8.7”) | Front to back at narrowest point |
-| Abdominal Wall Thickness | 8.1 cm (3.2“) | **Titan Echo: Enhanced core protection** |
-| Neck Width | 14.0 cm (5.5”) | Straight-line width at mid-neck |
-| Neck Circumference | 45.7 cm (18“) | At mid-neck |
-| Shoulder Circumference | 132.6 cm (52.2”) | Measured around deltoids |
+| Shoulder-to-Navel Length | $57.20$ cm ($22.52$ inches) | Acromion to navel |
+| Chest Depth | $26.70$ cm ($10.51$ inches) | **Titan Echo: Deeper for energy storage** |
+| Waist Depth | $22.10$ cm ($8.70$ inches) | Front to back at narrowest point |
+| Abdominal Wall Thickness | $8.10$ cm ($3.19$ inches) | **Titan Echo: Enhanced core protection** |
+| Neck Width | $14.00$ cm ($5.51$ inches) | Straight-line width at mid-neck |
+| Neck Circumference | $45.70$ cm ($18.00$ inches) | At mid-neck |
+| Shoulder Circumference | $132.60$ cm ($52.20$ inches) | Measured around deltoids |
+| Chest Circumference | $119.40$ cm ($47.01$ inches) | At nipple level |
+| Waist Circumference | $82.31$ cm ($32.41$ inches) | At narrowest point |
+| Hip Circumference | $104.10$ cm ($41.00$ inches) | At widest point |
 
 ### Facial Measurements
 
 | Measurement | Value | Notes |
 |-------------|-------|-------|
-| Head Circumference | 62.2 cm (24.5“) | Standard measurement |
-| Face Height | 23.9 cm (9.4”) | Hairline to chin |
-| Face Width | 14.8 cm (5.8“) | Perfect golden ratio to height (1:1.618) |
-| Head Width | 16.2 cm (6.4”) | Straight-line width at widest point |
-| Eye Width | 3.65 cm (1.44“) | Perfect inverse golden ratio to face width (0.618:1) |
-| Interpupillary Distance | 6.35 cm (2.5”) | Precisely 1/10 of total head height |
-| Nose Length | 5.64 cm (2.22“) | Perfect φ² derivative (0.236) of face height |
-| Nose Width | 3.48 cm (1.37”) | Perfect golden ratio to nose length |
-| Lip Width | 5.65 cm (2.22“) | Perfect golden proportion (0.382) of face width |
-| Upper Lip Height | 0.95 cm (0.37”) | Perfect Cupid's bow |
-| Ear Height | 6.5 cm (2.56“) | Aligned perfectly with golden section points |
-| Ear Width | 3.4 cm (1.34”) | Front to back |
-| Jawline Length | 23.9 cm (9.4“) | Ear to ear around chin |
-| Chin Height | 3.18 cm (1.25”) | Perfect φ³ derivative of face height |
-| Forehead Height | 7.97 cm (3.14“) | Exactly 1/3 of face height |
+| Head Circumference | $62.20$ cm ($24.49$ inches) | Standard measurement |
+| Face Height | $23.90$ cm ($9.41$ inches) | Hairline to chin |
+| Face Width | $14.77$ cm ($5.81$ inches) | Calculated for perfect $1.6180$ height-to-width ratio |
+| Head Width | $16.20$ cm ($6.38$ inches) | Straight-line width at widest point |
+| Eye Width | $3.65$ cm ($1.44$ inches) | Perfect inverse golden ratio to face width ($0.6180:1$) |
+| Interpupillary Distance | $6.35$ cm ($2.50$ inches) | Precisely $1/10$ of total head height |
+| Nose Length | $5.64$ cm ($2.22$ inches) | Perfect $\phi^2$ derivative ($0.2361$) of face height |
+| Nose Width | $3.48$ cm ($1.37$ inches) | Perfect golden ratio to nose length |
+| Lip Width | $5.64$ cm ($2.22$ inches) | Perfect golden proportion ($0.3820$) of face width |
+| Upper Lip Height | $0.95$ cm ($0.37$ inches) | Perfect Cupid's bow |
+| Ear Height | $6.50$ cm ($2.56$ inches) | Aligned perfectly with golden section points |
+| Ear Width | $3.40$ cm ($1.34$ inches) | Front to back |
+| Jawline Length | $23.90$ cm ($9.41$ inches) | Ear to ear around chin |
+| Chin Height | $3.18$ cm ($1.25$ inches) | Perfect $\phi^3$ derivative of face height |
+| Forehead Height | $7.97$ cm ($3.14$ inches) | Exactly $1/3$ of face height |
 
 ## 7. Unique Physiological Traits
 
@@ -215,10 +247,10 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 One of Godric's most distinctive physical traits is his minimal change between relaxed and flexed states. This creates a perpetual impression of readiness even at rest:
 
-- Upper arm expansion when flexed: $+6.2\%$
-- Forearm expansion when flexed: $+4.0\%$
-- Chest expansion when flexed: $+3.4\%$
-- Thigh expansion when flexed: $+4.2\%$
+- Upper arm expansion when flexed: $+6.20\%$ 
+- Forearm expansion when flexed: $+4.00\%$
+- Chest expansion when flexed: $+3.40\%$
+- Thigh expansion when flexed: $+4.20\%$
 
 This reduced muscle expansion parallels his perpetually blue eyes (vs. true gold), symbolizing his constant vigilance. Even at rest, his muscles remain partially engaged, ready for immediate action.
 
@@ -250,10 +282,10 @@ Specific anatomical features that preserve aspects of his Titan form:
 
 | Titan | Upper Arm | Forearm | Wrist | Position | Combat Style |
 |-------|-----------|---------|-------|----------|--------------|
-| **Anguirus** | 18.5” (47cm) | 15” (38.1cm) | 9” (22.9cm) | Ground Extreme | Defensive/Endurance |
-| **Godric** | 17.5” (44.5cm) | 14.8” (37.6cm) | 9.2” (23.4cm) | Ground-Leaning | Balanced Power |
-| **Kong** | 16” (40.6cm) | 13” (33cm) | 8” (20.3cm) | Air-Leaning | Tactical Mobility |
-| **Rodan** | 15” (38.1cm) | 12” (30.5cm) | 7.5” (19.1cm) | Air Extreme | Speed/Agility |
+| **Anguirus** | $47.00$ cm ($18.50$ inches) | $38.10$ cm ($15.00$ inches) | $22.90$ cm ($9.00$ inches) | Ground Extreme | Defensive/Endurance |
+| **Godric** | $44.50$ cm ($17.52$ inches) | $37.60$ cm ($14.80$ inches) | $23.40$ cm ($9.21$ inches) | Ground-Leaning | Balanced Power |
+| **Kong** | $40.60$ cm ($16.00$ inches) | $33.00$ cm ($13.00$ inches) | $20.30$ cm ($8.00$ inches) | Air-Leaning | Tactical Mobility |
+| **Rodan** | $38.10$ cm ($15.00$ inches) | $30.50$ cm ($12.00$ inches) | $19.10$ cm ($7.50$ inches) | Air Extreme | Speed/Agility |
 
 ## 9. Mathematical Essence & Character Embodiment
 
@@ -261,20 +293,20 @@ Specific anatomical features that preserve aspects of his Titan form:
 
 Godric's body presents a deliberate mathematical pattern that mirrors his character essence:
 
-- **Face (Most Visible)**: Perfect mathematical harmony with $0.00\%$ deviation from golden ratio proportions - embodying his vigilant guardian persona
-- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.06$-$0.49\%$) - representing his approach to perfection
-- **Torso/Core (Less Visible)**: Deliberate deviations from perfection ($5$-$10\%$) - containing his authentic mortality and power
+- **Face (Most Visible)**: Perfect mathematical harmony with $0.0000\%$ deviation from golden ratio proportions - embodying his vigilant guardian persona
+- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.0618$-$0.4759\%$) - representing his approach to perfection
+- **Torso/Core (Less Visible)**: Deliberate deviations from perfection ($5.0000$-$10.3461\%$) - containing his authentic mortality and power
 
 This creates a gradient of mathematical authenticity - his most public features embody perfect mathematical harmony, while his hidden core preserves the proportional echoes of his true Titan nature.
 
 ### Self-Referential Perfection
 
-The golden ratio ($\phi \approx 1.618$) and its inverse ($1/\phi \approx 0.618$) create a unique mathematical self-reference throughout Godric's body:
+The golden ratio ($\phi \approx 1.6180$) and its inverse ($1/\phi \approx 0.6180$) create a unique mathematical self-reference throughout Godric's body:
 
 - No matter how the golden ratio is divided or inverted, it always recreates forms of itself
 - His face achieves perfect $\phi$ harmony in all dimensions
-- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.617$)
-- His circumferences create deliberate deviations as “Titan Echoes” (chest-to-waist at $1.451$)
+- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.6170$)
+- His circumferences create deliberate deviations as "Titan Echoes" (chest-to-waist at $1.4506$)
 
 This mathematical recursion mirrors Godric's own timeless nature - the being who has ruled since the Permian period, always maintaining his core identity despite countless forms and challenges.
 
@@ -282,8 +314,8 @@ This mathematical recursion mirrors Godric's own timeless nature - the being who
 
 The most profound aspect of Godric's proportions is how they embody both his near-perfection and his mortality:
 
-- His facial perfection ($0.00\%$ deviation) represents his superhuman vigilance
-- His structural near-perfection ($0.06\%$ deviation in shoulder-to-waist width) represents his approach to divinity
-- His core deviations ($10.32\%$ in chest-to-waist ratio) echo his mortality and authentic power
+- His facial perfection ($0.0000\%$ deviation) represents his superhuman vigilance
+- His structural near-perfection ($0.0618\%$ deviation in shoulder-to-waist width) represents his approach to divinity
+- His core deviations ($10.3461\%$ in chest-to-waist ratio) echo his mortality and authentic power
 
-This perfectly complements his “golden eyes versus blue eyes” duality. His physiological pattern of perfect surface with authentic core mirrors how his authentic gold irises (mortality, vulnerability) occasionally peek through his perpetually vigilant blue (divine perfection).
+This perfectly complements his "golden eyes versus blue eyes" duality. His physiological pattern of perfect surface with authentic core mirrors how his authentic gold irises (mortality, vulnerability) occasionally peek through his perpetually vigilant blue (divine perfection).
