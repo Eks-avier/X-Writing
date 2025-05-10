@@ -87,7 +87,7 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 | Measurement | Value | Notes |
 |-------------|-------|-------|
 | Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes |
-| Waist Width | $33.77$ cm ($13.30$ inches) | Calculated to maintain exact $1.6170$ shoulder-to-waist ratio |
+| Waist Width | $33.75$ cm ($13.29$ inches) | Calculated to maintain exact $1.6178$ shoulder-to-waist ratio |
 | Hip Width (bi-iliac) | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis |
 | Back Width | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached** |
 | Chest Width | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point |
@@ -105,7 +105,7 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 | **Torso** |  |  |  |
 | Shoulder | $132.60$ cm ($52.20$ inches) | — | Measured around deltoids |
 | Chest | $119.40$ cm ($47.01$ inches) | $123.40$ cm ($48.58$ inches) | At nipple level |
-| Waist | $82.31$ cm ($32.41$ inches) | — | Calculated to maintain $1.4506$ chest-to-waist ratio |
+| Waist | $82.30$ cm ($32.40$ inches) | — | Calculated to maintain $1.4506$ chest-to-waist ratio |
 | Hip | $104.10$ cm ($41.00$ inches) | — | At widest point |
 | Neck | $45.70$ cm ($18.00$ inches) | $47.20$ cm ($18.58$ inches) | At mid-neck |
 | **Arms** |  |  |  |
@@ -231,8 +231,11 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 | Face Height | $23.90$ cm ($9.41$ inches) | Hairline to chin |
 | Face Width | $14.77$ cm ($5.81$ inches) | Calculated for perfect $1.6180$ height-to-width ratio |
 | Head Width | $16.20$ cm ($6.38$ inches) | Straight-line width at widest point |
-| Eye Width | $3.65$ cm ($1.44$ inches) | Perfect inverse golden ratio to face width ($0.6180:1$) |
+| Eye Width (individual) | $3.65$ cm ($1.44$ inches) | Width of each eye from corner to corner |
+| Biocular Width | $9.13$ cm ($3.59$ inches) | Total width across both eyes, exhibits inverse golden ratio to face width ($0.6180:1$) |
 | Interpupillary Distance | $6.35$ cm ($2.50$ inches) | Precisely $1/10$ of total head height |
+| Eye Socket Depth | $2.20$ cm ($0.87$ inches) | **Titan Echo: Deep-set “hunter eyes”** |
+| Brow Ridge Prominence | $0.85$ cm ($0.33$ inches) | **Titan Echo: Pronounced protective structure** |
 | Nose Length | $5.64$ cm ($2.22$ inches) | Perfect $\phi^2$ derivative ($0.2361$) of face height |
 | Nose Width | $3.48$ cm ($1.37$ inches) | Perfect golden ratio to nose length |
 | Lip Width | $5.64$ cm ($2.22$ inches) | Perfect golden proportion ($0.3820$) of face width |
@@ -242,6 +245,19 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 | Jawline Length | $23.90$ cm ($9.41$ inches) | Ear to ear around chin |
 | Chin Height | $3.18$ cm ($1.25$ inches) | Perfect $\phi^3$ derivative of face height |
 | Forehead Height | $7.97$ cm ($3.14$ inches) | Exactly $1/3$ of face height |
+
+#### Hunter Eyes Characteristics
+
+Godric's eyes exhibit the classic “hunter eyes” structure found in apex predators, perfectly aligned with his status as Alpha Paramount:
+
+- **Deep-Set Positioning**: Eyes recessed within protective orbital cavities
+- **Minimal Upper Eyelid Exposure**: Creates focused, alert appearance at rest
+- **Pronounced Brow Ridge**: Provides both protection and shadowing effect
+- **Neutral Canthal Tilt**: Perfectly horizontal eye alignment conveying stability and focus
+- **Well-Defined Orbital Rim**: Sharp definition of eye socket structure
+- **Hooded Appearance**: Slight overlap of upper brow creating natural shielding
+
+These characteristics create his penetrating gaze that triggers instinctual recognition in humans while maintaining perfect mathematical harmony with his other facial features. The deep-set nature enhances rather than compromises his golden ratio relationships by adding a depth dimension to his otherwise perfect proportions.
 
 ## 7. Unique Physiological Traits
 
@@ -296,7 +312,7 @@ Specific anatomical features that preserve aspects of his Titan form:
 Godric's body presents a deliberate mathematical pattern that mirrors his character essence:
 
 - **Face (Most Visible)**: Perfect mathematical harmony with $0.0000\%$ deviation from golden ratio proportions - embodying his vigilant guardian persona
-- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.0618$-$0.4759\%$) - representing his approach to perfection
+- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.0124$-$0.4759\%$) - representing his approach to perfection
 - **Torso/Core (Less Visible)**: Deliberate deviations from perfection ($5.0000$-$10.3461\%$) - containing his authentic mortality and power
 
 This creates a gradient of mathematical authenticity - his most public features embody perfect mathematical harmony, while his hidden core preserves the proportional echoes of his true Titan nature.
@@ -307,7 +323,7 @@ The golden ratio ($\phi \approx 1.6180$) and its inverse ($1/\phi \approx 0.6180
 
 - No matter how the golden ratio is divided or inverted, it always recreates forms of itself
 - His face achieves perfect $\phi$ harmony in all dimensions
-- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.6170$)
+- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.6178$)
 - His circumferences create deliberate deviations as “Titan Echoes” (chest-to-waist at $1.4506$)
 
 This mathematical recursion mirrors Godric's own timeless nature - the being who has ruled since the Permian period, always maintaining his core identity despite countless forms and challenges.
@@ -317,7 +333,7 @@ This mathematical recursion mirrors Godric's own timeless nature - the being who
 The most profound aspect of Godric's proportions is how they embody both his near-perfection and his mortality:
 
 - His facial perfection ($0.0000\%$ deviation) represents his superhuman vigilance
-- His structural near-perfection ($0.0618\%$ deviation in shoulder-to-waist width) represents his approach to divinity
+- His structural near-perfection ($0.0124\%$ deviation in shoulder-to-waist width) represents his approach to divinity
 - His core deviations ($10.3461\%$ in chest-to-waist ratio) echo his mortality and authentic power
 
 This perfectly complements his “golden eyes versus blue eyes” duality. His physiological pattern of perfect surface with authentic core mirrors how his authentic gold irises (mortality, vulnerability) occasionally peek through his perpetually vigilant blue (divine perfection).
