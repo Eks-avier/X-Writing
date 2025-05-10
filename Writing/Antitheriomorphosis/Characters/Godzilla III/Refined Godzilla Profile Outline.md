@@ -314,19 +314,19 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 
 ## Comprehensive Width Measurements
 
-|         Measurement         |      Value      |                                  Notes                                   |
-| :-------------------------: | :-------------: | :----------------------------------------------------------------------: |
-| Shoulder Width (biacromial) | 54.6 cm (21.5“) |            Straight-line distance between acromion processes             |
-|         Waist Width         | 33.8 cm (13.3”) |                  Straight-line width at narrowest point                  |
-|    Hip Width (bi-iliac)     | 36.8 cm (14.5“) |              Straight-line width at widest point of pelvis               |
-|         Back Width          | 58.9 cm (23.2”) | **Titan Echo: Vestigial musculature from former dorsal fin attachments** |
-|         Chest Width         |  48.3 cm (19“)  |                   Straight-line width at widest point                    |
-|         Head Width          | 16.2 cm (6.4”)  |                   Straight-line width at widest point                    |
-|         Face Width          | 14.8 cm (5.8“)  |                    Straight-line width at cheekbones                     |
-|         Neck Width          | 14.0 cm (5.5”)  |                     Straight-line width at mid-neck                      |
-|         Wrist Width         |  6.9 cm (2.7“)  |                  Straight-line width across wrist bones                  |
-|         Hand Width          | 10.9 cm (4.3”)  |               Straight-line width at widest point of palm                |
-|         Foot Width          | 12.2 cm (4.8“)  |                   Straight-line width at widest point                    |
+|         Measurement         |      Value      |                                Notes                                 |
+| :-------------------------: | :-------------: | :------------------------------------------------------------------: |
+| Shoulder Width (biacromial) | 54.6 cm (21.5“) |          Straight-line distance between acromion processes           |
+|         Waist Width         | 33.8 cm (13.3”) |                Straight-line width at narrowest point                |
+|    Hip Width (bi-iliac)     | 36.8 cm (14.5“) |            Straight-line width at widest point of pelvis             |
+|         Back Width          | 58.9 cm (23.2”) | **Titan Echo: Wider musculature from former dorsal fin attachments** |
+|         Chest Width         |  48.3 cm (19“)  |                 Straight-line width at widest point                  |
+|         Head Width          | 16.2 cm (6.4”)  |                 Straight-line width at widest point                  |
+|         Face Width          | 14.8 cm (5.8“)  |                  Straight-line width at cheekbones                   |
+|         Neck Width          | 14.0 cm (5.5”)  |                   Straight-line width at mid-neck                    |
+|         Wrist Width         |  6.9 cm (2.7“)  |                Straight-line width across wrist bones                |
+|         Hand Width          | 10.9 cm (4.3”)  |             Straight-line width at widest point of palm              |
+|         Foot Width          | 12.2 cm (4.8“)  |                 Straight-line width at widest point                  |
 
 ## Detailed Physical Features
 
