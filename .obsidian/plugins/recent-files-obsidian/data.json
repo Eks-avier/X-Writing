@@ -5,6 +5,10 @@
       "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md"
     },
     {
+      "basename": "Anatomical Reference",
+      "path": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference.md"
+    },
+    {
       "basename": "Notepad 3",
       "path": "Notepad 3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Domination of Energy",
       "path": "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas"
-    },
-    {
-      "basename": "Keystone Arc",
-      "path": "Writing/Antitheriomorphosis/Story Arcs/Keystone Arc.md"
     }
   ],
   "omittedPaths": [],
