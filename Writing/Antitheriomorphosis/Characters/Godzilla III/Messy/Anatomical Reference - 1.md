@@ -278,12 +278,12 @@ Specific anatomical features that preserve aspects of his Titan form:
 
 ### Titan Spectrum Positioning
 
-| Titan | Upper Arm | Forearm | Wrist | Position | Combat Style |
-|-------|-----------|---------|-------|----------|--------------|
-| **Anguirus** | 18.5" (47cm) | 15" (38.1cm) | 9" (22.9cm) | Ground Extreme | Defensive/Endurance |
-| **Godric** | 17.5" (44.5cm) | 14.8" (37.6cm) | 9.2" (23.4cm) | Ground-Leaning | Balanced Power |
-| **Kong** | 16" (40.6cm) | 13" (33cm) | 8" (20.3cm) | Air-Leaning | Tactical Mobility |
-| **Rodan** | 15" (38.1cm) | 12" (30.5cm) | 7.5" (19.1cm) | Air Extreme | Speed/Agility |
+| Titan        | Upper Arm      | Forearm        | Wrist         | Position       | Combat Style        |
+| ------------ | -------------- | -------------- | ------------- | -------------- | ------------------- |
+| **Anguirus** | 18.5" (47cm)   | 15" (38.1cm)   | 9" (22.9cm)   | Ground Extreme | Defensive/Endurance |
+| **Godric**   | 17.5" (44.5cm) | 14.8" (37.6cm) | 9.2" (23.4cm) | Ground-Leaning | Balanced Power      |
+| **Kong**     | 16" (40.6cm)   | 13" (33cm)     | 8" (20.3cm)   | Air-Leaning    | Tactical Mobility   |
+| **Rodan**    | 15" (38.1cm)   | 12" (30.5cm)   | 7.5" (19.1cm) | Air Extreme    | Speed/Agility       |
 
 ## 9. Mathematical Essence & Character Embodiment
 
