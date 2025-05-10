@@ -4,9 +4,9 @@
 
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla/Gojira
-- **Height**: 196.0000 cm (77.1654")
-- **Weight**: 120.0000 kg (264.5547 lbs) Active Season / 129.0000 kg (284.3964 lbs) Dormant Season
-- **Body Fat**: 10-12% (Active Season) / 15-18% (Dormant Season)
+- **Height**: $196.0000$ cm ($77.1654$ inches)
+- **Weight**: $120.0000$ kg ($264.5547$ lbs) Active Season / $129.0000$ kg ($284.3964$ lbs) Dormant Season
+- **Body Fat**: $10$-$12\%$ (Active Season) / $15$-$18\%$ (Dormant Season)
 - **Active Season**: December-August (Leaner, more defined, higher body temperature)
 - **Dormant Season**: September-November (Fuller, softer features, lower body temperature)
 
@@ -15,14 +15,14 @@
 All measurements in this document follow these mathematical precision principles:
 
 1. **No Rounding**: All values presented to 4 decimal places without rounding when derived from mathematical relationships
-2. **True Golden Ratio**: $φ = 1.6180$ (to 4 decimal places)
-3. **Deviation Calculation**: $((|Actual - Target|) / Target) × 100\%$, expressed to 4 decimal places
+2. **True Golden Ratio**: $\phi = 1.6180$ (to 4 decimal places)
+3. **Deviation Calculation**: $((|Actual - Target|) / Target) \times 100\%$, expressed to 4 decimal places
 4. **Perfect Proportions**: Only values with $0.0000\%$ deviation are considered "perfect"
 5. **Golden Ratio Derivatives**:
-   - Reciprocal of $φ (1/φ) = 0.6180$
-   - $(φ-1)/φ = 0.3820$
-   - $1/φ³ = 0.2361$
-   - $(1+φ)/φ² = 0.8944$
+   - Reciprocal of φ $(1/\phi) = 0.6180$
+   - $(\phi-1)/\phi = 0.3820$
+   - $1/\phi^3 = 0.2361$
+   - $(1+\phi)/\phi^2 = 0.8944$
 
 ## 3. Body Composition & Density
 
@@ -32,10 +32,10 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 | Tissue Type | Godric's Density | Human Average | Ratio |
 |-------------|------------------|---------------|-------|
-| Bone | 2.6 g/cm³ | 1.5-1.8 g/cm³ | ~1.6× greater |
-| Muscle | 1.9 g/cm³ | 1.06 g/cm³ | ~1.8× greater |
-| Organ Tissue | ~1.3× human average | Varies | ~1.3× greater |
-| Connective Tissue | ~1.5× human average | Varies | ~1.5× greater |
+| Bone | $2.6$ g/cm³ | $1.5$-$1.8$ g/cm³ | $\sim1.6\times$ greater |
+| Muscle | $1.9$ g/cm³ | $1.06$ g/cm³ | $\sim1.8\times$ greater |
+| Organ Tissue | $\sim1.3\times$ human average | Varies | $\sim1.3\times$ greater |
+| Connective Tissue | $\sim1.5\times$ human average | Varies | $\sim1.5\times$ greater |
 
 ### Weight Distribution
 
@@ -49,18 +49,18 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 ### Seasonal Variation
 
 #### Active Season (December-August)
-- Body Fat: 10-12%
+- Body Fat: $10$-$12\%$
 - Muscle Definition: Highly pronounced
 - Facial Features: Angular and defined
-- Temperature: 100.9°F (38.3°C)
+- Temperature: $100.9°$F ($38.3°$C)
 - Overall Appearance: Classical sculpture precision
 - Human Perception: Intimidating perfection
 
 #### Dormant Season (September-November)
-- Body Fat: 15-18%
+- Body Fat: $15$-$18\%$
 - Muscle Definition: Softer but still visible
 - Facial Features: Slightly rounded
-- Temperature: 99.5°F (37.5°C)
+- Temperature: $99.5°$F ($37.5°$C)
 - Overall Appearance: Rugged wilderness vitality
 - Human Perception: More approachable yet powerful
 
@@ -202,10 +202,10 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 One of Godric's most distinctive physical traits is his minimal change between relaxed and flexed states. This creates a perpetual impression of readiness even at rest:
 
-- Upper arm expansion when flexed: +6.2% 
-- Forearm expansion when flexed: +4.0%
-- Chest expansion when flexed: +3.4%
-- Thigh expansion when flexed: +4.2%
+- Upper arm expansion when flexed: $+6.2\%$ 
+- Forearm expansion when flexed: $+4.0\%$
+- Chest expansion when flexed: $+3.4\%$
+- Thigh expansion when flexed: $+4.2\%$
 
 This reduced muscle expansion parallels his perpetually blue eyes (vs. true gold), symbolizing his constant vigilance. Even at rest, his muscles remain partially engaged, ready for immediate action.
 
@@ -235,12 +235,12 @@ Specific anatomical features that preserve aspects of his Titan form:
 
 ### Titan Spectrum Positioning
 
-| Titan | Upper Arm | Forearm | Wrist | Position | Combat Style |
-|-------|-----------|---------|-------|----------|--------------|
-| **Anguirus** | 18.5" (47cm) | 15" (38.1cm) | 9" (22.9cm) | Ground Extreme | Defensive/Endurance |
-| **Godric** | 17.5" (44.5cm) | 14.8" (37.6cm) | 9.2" (23.4cm) | Ground-Leaning | Balanced Power |
-| **Kong** | 16" (40.6cm) | 13" (33cm) | 8" (20.3cm) | Air-Leaning | Tactical Mobility |
-| **Rodan** | 15" (38.1cm) | 12" (30.5cm) | 7.5" (19.1cm) | Air Extreme | Speed/Agility |
+| Titan        | Upper Arm      | Forearm        | Wrist         | Position       | Combat Style        |
+| ------------ | -------------- | -------------- | ------------- | -------------- | ------------------- |
+| **Anguirus** | 18.5" (47cm)   | 15" (38.1cm)   | 9" (22.9cm)   | Ground Extreme | Defensive/Endurance |
+| **Godric**   | 17.5" (44.5cm) | 14.8" (37.6cm) | 9.2" (23.4cm) | Ground-Leaning | Balanced Power      |
+| **Kong**     | 16" (40.6cm)   | 13" (33cm)     | 8" (20.3cm)   | Air-Leaning    | Tactical Mobility   |
+| **Rodan**    | 15" (38.1cm)   | 12" (30.5cm)   | 7.5" (19.1cm) | Air Extreme    | Speed/Agility       |
 
 ## 9. Mathematical Essence & Character Embodiment
 
@@ -248,20 +248,20 @@ Specific anatomical features that preserve aspects of his Titan form:
 
 Godric's body presents a deliberate mathematical pattern that mirrors his character essence:
 
-- **Face (Most Visible)**: Perfect mathematical harmony with 0.00% deviation from golden ratio proportions - embodying his vigilant guardian persona
-- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations (0.06-0.49%) - representing his approach to perfection
-- **Torso/Core (Less Visible)**: Deliberate deviations from perfection (5-10%) - containing his authentic mortality and power
+- **Face (Most Visible)**: Perfect mathematical harmony with $0.00\%$ deviation from golden ratio proportions - embodying his vigilant guardian persona
+- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.06$-$0.49\%$) - representing his approach to perfection
+- **Torso/Core (Less Visible)**: Deliberate deviations from perfection ($5$-$10\%$) - containing his authentic mortality and power
 
 This creates a gradient of mathematical authenticity - his most public features embody perfect mathematical harmony, while his hidden core preserves the proportional echoes of his true Titan nature.
 
 ### Self-Referential Perfection
 
-The golden ratio (φ ≈ 1.618) and its inverse (1/φ ≈ 0.618) create a unique mathematical self-reference throughout Godric's body:
+The golden ratio ($\phi \approx 1.618$) and its inverse ($1/\phi \approx 0.618$) create a unique mathematical self-reference throughout Godric's body:
 
 - No matter how the golden ratio is divided or inverted, it always recreates forms of itself
-- His face achieves perfect φ harmony in all dimensions
-- His skeletal structure approaches perfect harmony (shoulder-to-waist width at 1.617)
-- His circumferences create deliberate deviations as "Titan Echoes" (chest-to-waist at 1.451)
+- His face achieves perfect $\phi$ harmony in all dimensions
+- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.617$)
+- His circumferences create deliberate deviations as "Titan Echoes" (chest-to-waist at $1.451$)
 
 This mathematical recursion mirrors Godric's own timeless nature - the being who has ruled since the Permian period, always maintaining his core identity despite countless forms and challenges.
 
@@ -269,8 +269,8 @@ This mathematical recursion mirrors Godric's own timeless nature - the being who
 
 The most profound aspect of Godric's proportions is how they embody both his near-perfection and his mortality:
 
-- His facial perfection (0.00% deviation) represents his superhuman vigilance
-- His structural near-perfection (0.06% deviation in shoulder-to-waist width) represents his approach to divinity
-- His core deviations (10.32% in chest-to-waist ratio) echo his mortality and authentic power
+- His facial perfection ($0.00\%$ deviation) represents his superhuman vigilance
+- His structural near-perfection ($0.06\%$ deviation in shoulder-to-waist width) represents his approach to divinity
+- His core deviations ($10.32\%$ in chest-to-waist ratio) echo his mortality and authentic power
 
 This perfectly complements his "golden eyes versus blue eyes" duality. His physiological pattern of perfect surface with authentic core mirrors how his authentic gold irises (mortality, vulnerability) occasionally peek through his perpetually vigilant blue (divine perfection).
