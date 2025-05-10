@@ -312,7 +312,7 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 |       Upper Arm to Forearm       |    1.1835    |      1.6180      | 26.8541%  |     **Titan Echo: Enhanced forearm strength**     |
 |          Thigh to Calf           |    1.5278    |      1.6180      |  5.5747%  |   **Titan Echo: Power adaptation for movement**   |
 
-## Comprehensive Width Measurements
+### Comprehensive Width Measurements
 
 |         Measurement         |      Value      |                                Notes                                 |
 | :-------------------------: | :-------------: | :------------------------------------------------------------------: |
@@ -327,6 +327,28 @@ This precision ensures mathematical accuracy throughout all proportional analyse
 |         Wrist Width         |  6.9 cm (2.7“)  |                Straight-line width across wrist bones                |
 |         Hand Width          | 10.9 cm (4.3”)  |             Straight-line width at widest point of palm              |
 |         Foot Width          | 12.2 cm (4.8“)  |                 Straight-line width at widest point                  |
+
+### Comprehensive Circumference Measurements
+
+| Body Part   | Active Season (Relaxed) | Active Season (Flexed) | Dormant Season (Relaxed) | Dormant Season (Flexed) | Notes                      |
+| ----------- | ----------------------- | ---------------------- | ------------------------ | ----------------------- | -------------------------- |
+| **Torso**   |                         |                        |                          |                         |                            |
+| Shoulder    | 132.6 cm (52.2”)        | —                      | 136.4 cm (53.7“)         | —                       | Measured around deltoids   |
+| Chest       | 119.4 cm (47”)          | 123.4 cm (48.6“)       | 125.7 cm (49.5”)         | 129.5 cm (51“)          | At nipple level            |
+| Waist       | 82.3 cm (32.4”)         | —                      | 91 cm (35.8“)            | —                       | At narrowest point         |
+| Hip         | 104.1 cm (41”)          | —                      | 112.5 cm (44.3“)         | —                       | At widest point            |
+| Neck        | 45.7 cm (18”)           | 47.2 cm (18.6“)        | 48.8 cm (19.2”)          | 50.3 cm (19.8“)         | At mid-neck                |
+| **Arms**    |                         |                        |                          |                         |                            |
+| Upper Arm   | 44.5 cm (17.5”)         | 47.2 cm (18.6“)        | 47.5 cm (18.7”)          | 49.5 cm (19.5“)         | At bicep peak              |
+| Forearm     | 37.6 cm (14.8”)         | 39.1 cm (15.4“)        | 39.9 cm (15.7”)          | 41.1 cm (16.2“)         | At widest point            |
+| Wrist       | 23.4 cm (9.2”)          | 23.9 cm (9.4“)         | 24.4 cm (9.6”)           | 24.9 cm (9.8“)          | **Titan Echo: Reinforced** |
+| **Legs**    |                         |                        |                          |                         |                            |
+| Upper Thigh | 66 cm (26”)             | 68.8 cm (27.1“)        | 71.6 cm (28.2”)          | 73.9 cm (29.1“)         | At gluteal fold            |
+| Mid-Thigh   | 61.7 cm (24.3”)         | 64 cm (25.2“)          | 67.1 cm (26.4”)          | 69.1 cm (27.2“)         | At mid-thigh               |
+| Knee        | 43.4 cm (17.1”)         | 44.7 cm (17.6“)        | 46.2 cm (18.2”)          | 47.2 cm (18.6“)         | At knee joint              |
+| Calf        | 43.2 cm (17”)           | 44.7 cm (17.6“)        | 46 cm (18.1”)            | 47.2 cm (18.6“)         | At widest point            |
+| Ankle       | 26.7 cm (10.5”)         | 27.2 cm (10.7“)        | 27.9 cm (11”)            | 28.4 cm (11.2“)         | **Titan Echo: Enhanced**   |
+
 
 ## Detailed Physical Features
 
