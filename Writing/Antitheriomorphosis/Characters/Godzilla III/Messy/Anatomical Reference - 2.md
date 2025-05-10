@@ -5,7 +5,8 @@
 - **Human Name**: Godric Nordson
 - **Titan Name**: Godzilla/Gojira
 - **Height**: $196.0000$ cm ($77.1654$ inches)
-- **Weight**: $120.0000$ kg ($264.5547$ lbs) Active Season / $129.0000$ kg ($284.3964$ lbs) Dormant Season
+- **Weight**: 
+- **Active Season**: $120.0000$ kg ($264.5547$ lbs) / $129.0000$ kg ($284.3964$ lbs) Dormant Season
 - **Body Fat**: $10$-$12\%$ (Active Season) / $15$-$18\%$ (Dormant Season)
 - **Active Season**: December-August (Leaner, more defined, higher body temperature)
 - **Dormant Season**: September-November (Fuller, softer features, lower body temperature)
@@ -113,13 +114,13 @@ Godric possesses extraordinary tissue density that creates disconnect between ap
 
 ### Limb Proportions
 
-| Relationship | Actual Value | Golden Ratio (φ) | Deviation | Notes |
-|--------------|-------------|------------------|-----------|-------|
-| Forearm to Upper Arm Length | 0.9674 | 0.6180 | 56.5372% | **Titan Echo: Arm proportion adapted for combat** |
-| Hand Length to Forearm | 0.6208 | 0.6180 | 0.4531% | Near-perfect with minor adaptation |
-| Foot to Lower Leg Length | 0.8883 | 0.8944 | 0.6821% | Near-perfect ((1+φ)/φ²) proportioning |
-| Upper Arm to Forearm | 1.1835 | 1.6180 | 26.8541% | **Titan Echo: Enhanced forearm strength** |
-| Thigh to Calf | 1.5278 | 1.6180 | 5.5747% | **Titan Echo: Power adaptation for movement** |
+| Relationship                | Actual Value | Golden Ratio (φ) | Deviation | Notes                                             |
+| --------------------------- | ------------ | ---------------- | --------- | ------------------------------------------------- |
+| Forearm to Upper Arm Length | 0.9674       | 0.6180           | 56.5372%  | **Titan Echo: Arm proportion adapted for combat** |
+| Hand Length to Forearm      | 0.6208       | 0.6180           | 0.4530%   | Near-perfect with minor adaptation                |
+| Foot to Lower Leg Length    | 0.8883       | 0.8944           | 0.6820%   | Near-perfect ((1+φ)/φ²) proportioning             |
+| Upper Arm to Forearm        | 1.1835       | 1.6180           | 26.8541%  | **Titan Echo: Enhanced forearm strength**         |
+| Thigh to Calf               | 1.5278       | 1.6180           | 5.5747%   | **Titan Echo: Power adaptation for movement**     |
 
 ### Facial Golden Ratio Analysis
 
