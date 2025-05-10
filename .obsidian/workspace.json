@@ -303,10 +303,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 384,
         "y": 0,
         "width": 640,
-        "height": 1080,
+        "height": 768,
         "maximize": false,
         "zoom": 0
       }
