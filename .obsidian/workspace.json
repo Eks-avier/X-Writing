@@ -30,9 +30,23 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
+          },
+          {
+            "id": "96f222360d223a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomical Reference 4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb950f631250434f",
+  "active": "96f222360d223a22",
   "lastOpenFiles": [
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",
