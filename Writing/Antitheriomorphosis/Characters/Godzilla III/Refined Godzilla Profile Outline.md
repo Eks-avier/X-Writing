@@ -592,12 +592,12 @@ Godric's body hair exhibits much of the same subtly distinctive properties as hi
 
 - Hair covers upper chest in the infraclavicular region, which is just below the collarbones
 - Extends across his pectoral muscles while maintaining sternal connection
-- Creates a cohesive “chest plate” appearance that harkens one back to his Titan form's scaled armored chest
+- Creates a faint “chest plate” appearance from afar that harkens one back to his Titan form's scaled armored chest
 - Naturally tapers toward the sides of his torso
 
 ####### Armor Aesthetic
 
-- Creates a natural protective “armor” appearance on his chest
+- Creates a natural protective “armor” appearance on his chest, but 
 - Moderate cover suggests strength without excess
 - Distinctive without being overwhelming
 
