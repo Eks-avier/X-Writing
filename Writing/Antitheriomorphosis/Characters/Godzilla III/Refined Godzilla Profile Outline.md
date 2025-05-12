@@ -753,10 +753,10 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	3. Charcoal gray
 	4. Navy blues
 	5. Forest greens
-- **Clothing Material**: *All* clothing used to be breathable, flexible, durable, and comfortable materials but upon Mothra getting into the hobby of garment making, she personally replaced each of his clothes' material with her own silk.
+- **Clothing Material**: *All* clothing used to be breathable, flexible, durable, and comfortable but conventional materials. Upon Mothra getting into the hobby of garment making though, she personally replaced each of his clothes' material with her own silk.
 	- Any other new clothes he would have are made with her silk, which is:
 		- Supremely durable
-			- Bulletproof and also proofed against other high-speed projectiles
+			- Bulletproof and also protected against other high-speed projectiles
 			- Fireproof
 			- Waterproof
 			- Highly blast resistant
@@ -764,29 +764,36 @@ Godric approaches personal grooming with the same meticulous attention he applie
 			- He can comfortably fight in them
 			- Returns to its original form if stretched
 		- Easily maintainable
-			- Mothra can simply repair it herself, and she produces unlimited silk
-			- Cleaning it is just as effortless as typical dirt and stains do not cling to them
+			- Mothra can simply repair it herself, and she produces seemingly unlimited silk
+			- Cleaning it is just as effortless: typical dirt and stains do not cling to them
 		- Can channel his atomic energy albeit limitedly
-			- High energy output can compromise the integrity of the clothes
+			- **Note**: High energy output can compromise the integrity of the clothes
 - **Clothing Style**: Simple, functional, form-fitting, and unembellished clothing that allows for mobility and agility
-- **Shirts**: Nearly all of his shirts are long-sleeved button-downs
+- **Shirts**: Nearly all of his shirts are dress shirts with button-up collars
 	- **Colors**: 40% white, 40% black, 10% grays, 9% navy blues, 1% forest greens
 		- He only has **one** green shirt.
 			- It came from a set of three, along with a blue and black shirt that was given to him
-	- **Alternatives**: Possesses 10 plain form-fitting t-shirts and 3 henleys, one white and two black
-		- Though they have been remade with Mothra's silk, he has never found use for them
+	- **Alternatives**: 
+		- 10 plain form-fitting t-shirts
+			- 5 black
+			- 3 white
+			- 2 gray
+		- 3 henleys
+			- 1 white
+			- 2 black
+		- **Note**: Though they have been remade with Mothra's silk, he has never found use for them
 			- *Can I throw these out?*
 			- *Absolutely not, big guy—you have zero variety as it is!*
-	- **Undershirts**: Plain black or white variants
-		- Uses them from time to time as Mothra finds his chest hair distracting
+	- **Undershirts**: Plain black or white variants (10 per each color; 20 in total)
+		- Uses them from time to time as he notices that Mothra finds his chest hair distracting
 			- Apparently, she is also distracted when she sees his undershirt peeking
 				- *What does she even want at this point?!*
 		- Now wears them whenever he feels like it, typically in winter so he has an excuse to look cold even though he really isn't
-- **Underpants**: Owns a variety of the following and *all* are black:
+- **Underpants**: Owns a variety of the following; *all* of them are black:
 	- 70% boxer briefs, 15% midway briefs, 10% boxer shorts, 5% briefs
-		- He only uses boxer shorts and briefs in his private quarters and when he is lounging
+		- He only uses boxer shorts (10%) and briefs (5%) in his private quarters when he is lounging.
 			- Of course no one but him knows this, but Mothra has observed such pattern
-				- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred underpants is.
+				- Funnily enough, it's the half-blind Baragon that was urged by Madison to detect, through his earth-sense, what each Titan's preferred type of underpants is.
 					- She then wrote a paper that documented her findings with Baragon as her accomplice.
 - **Trousers**: Nearly every single pair of trousers he possesses are tactical pants but with vastly reduced amount of pockets
 	- They appear nearly like formal trousers
@@ -794,7 +801,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 			- Anguirus/Alexios on the contrary likes pockets and makes up for both of them
 				- Godzilla/Godric never asked for that but he appreciates the gesture
 - **Shorts**: Predominantly swimming trunks and are all black in color
-	- He rarely uses them, even for their intended purpose, as his trousers are typically do the job
+	- He rarely uses them, even for their intended purpose, as his trousers are typically do the job - a testament to Maria's silk and craftsmanship.
 		- *Drag? I care not.*
 
 > [!quote]
@@ -810,7 +817,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 
 Godric has a modest collection of formal attire that he typically uses when he attends formal events involving Monarch.
 
-Because the Titans-turned-humans aren't revealed to the world, he doesn't appear as a distinguished guest but just a background presence. He is sometimes accompanied by either Maria or Alexios, who do have some measure of appreciation for the formal atmosphere. The rest find no reason to participate. However, try as he might, Nordson still manages to find himself attracting or intimidating heads, often slowly finding himself at the center without his knowing.
+Because the Titans-turned-humans aren't revealed to the world, he doesn't appear as a distinguished guest but just as a background presence. He is sometimes accompanied by either Maria or Alexios, who do have some measure of appreciation for the formal atmosphere; the rest find no reason to participate. However, try as he might, Nordson still manages to find himself either attracting or intimidating people, often slowly finding himself at the center of any event without his knowing.
 
 ##### Suits
 
@@ -845,15 +852,13 @@ Because the Titans-turned-humans aren't revealed to the world, he doesn't appear
 		- 1 charcoal gray
 		- 1 navy blue
 		- 1 gold
-			- Made for him by Maria because she's one of the very few beings who has seen his true eye color, and she thought a gold tie would complement his eyes so well.
-			- He has not even removed it from its specially made case that Maria stores every garment she wears.
-	- His ties are reinforced with his shed scales despite infrequent use
-	-  They are never patterned or decorative
-- **Cufflinks**: Single pair of matte obsidian black cufflinks
+			- Made for him by Maria because she's one of the very few beings who has seen his true eye color; she thought a gold tie would complement his eyes so well.
+			- He has not even removed it from its specially made case in which Maria stores every newly made garment he wears.
+	-  They are *neither* patterned *nor* decorated
+- **Cufflinks**: Single pair of matte obsidian black cufflinks made out of the last of his collected shed scales
 	- Contains microscopic fragments of his shed dorsal fins
 	- Glows subtly when he's using his power
-- **Pocket Squares**: Two plain white square, often folded identically every time.
-	- He seldom uses them
+
 
 > [!quote] Making Statements
 > *Come on, you could try making a statement!*
@@ -894,11 +899,12 @@ As for some of his personal artifacts:
 - A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
 - Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
 - Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
-- Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care which pair and what length they are when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. Takes care of them very well, often seen supplying it with extra radiation to speed up repair.
+- Socks made with Mothra's silk. Plain, black, and in various lengths. He doesn't care what length a pair is when he wears them, though Madison seems to be under the impression there's rhyme or reason in his selection. He takes care of them very well, often seen supplying it with extra radiation to speed up self-repair.
 - Belts that are made with conventional materials with some subtle presences of Mothra's silk. This is a target for integration with future shed material.
-	- Their designs are plain, modest, with no embellishments
-	- They come in different types that Godric takes into account when choosing his attires for the week. The buckles, too, also have varying designs.
-	- Maria has her favorites, though she never says which. She just stares.
+	- The belts' designs are plain, modest, and with no embellishments
+		- Contrary to this, his buckles have varying subtle designs.
+	- They come in different types that Godric takes into account when choosing his attires for the week. 
+	- Maria has her favorites, though she never says which; she just stares.
 
 > [!quote]
 > “Do we tell her it's inappropriate?”
@@ -1000,7 +1006,7 @@ Despite requiring no physical protection, his clothing has evolved into genuine 
 - **Coverage Prioritization**: Maintains full coverage in all public settings
 - **Species Values**: For *Titanus gojira*, maximum coverage signals superiority
 - **Practical Approach**: Long sleeves and full pants in all settings regardless of temperature
-- **Formal Preference**: Button-downs, tactical pants, proper shoes
+- **Formal Preference**: Long-sleeved dress shirts, tactical pants, and proper shoes
 
 ## Territories and Possessions
 
@@ -1017,7 +1023,7 @@ A large swimming facility that is exclusively meant for his use. It features an 
 
 Connected to the pool, it serves as a space for calibrating his strength and practicing control with the human body. Prior to this facility, he used to train how to control his titanic strength at laboratories within Castle Bravo, now he has his own private gym.
 
-It features specialized reinforced materials intended to withstand his strength, but it remains insufficient to truly test his capabilities. Thus, he uses it as a way to understand strength modulation through conventional human exercise forms, often weightlifting. It's access is limited to Maria, Alexios, Roman, Mark, and Madison by invitation.
+It features specialized reinforced materials intended to withstand his strength, but it remains insufficient to truly test his capabilities. Thus, he uses it as a way to understand strength modulation through conventional human exercise forms, often weightlifting. Its access is limited to Maria, Alexios, Roman, Mark, and Madison by invitation.
 
 #### Private Quarters
 
@@ -1187,7 +1193,7 @@ This creates a magnificent misinterpretation where he accurately detects all phy
 
 | **Observed Human Behavior**            | **Godric's Interpretation**                      | **Actual Meaning**                     |
 | -------------------------------------- | ------------------------------------------------ | -------------------------------------- |
-| Prolonged eye contact                  | Dominance challenge or submission signal         | nterest and attraction                 |
+| Prolonged eye contact                  | Dominance challenge or submission signal         | Interest and attraction                |
 | Nervous laughter                       | Stress vocalization due to predator presence     | Attraction-based nervousness           |
 | Frequent proximity seeking             | Attempting to establish alliance with Alpha      | Desire for romantic/physical closeness |
 | Competitive behavior when he's present | Resource competition for Alpha's attention       | Jealousy over romantic interest        |
@@ -1223,13 +1229,13 @@ This creates a perfect parallel with Maria's own dilemma—she refuses to read h
 	5. His seasonal cycle was **only** implemented as a human
 	6. He cuts down in the beginning of his active season
 	7. He bulks up at the beginning of his dormant season, increasing his caloric intake
-	8. He leaves instructions for Anguirus and Rodan as they take over together with Mothra and Kong
+	8. He leaves instructions for Anguirus and Rodan as they take over, together with Mothra and - eventually - Kong
 
-As a *Titanus gojira*, he does not require sleep nor conventional food to sustain himself. He can absorb solar radiation, geothermal radiation, and nuclear radiation to remain sated indefinitely. He also doesn't need the restorative effects of sleep due to his regeneration factor, which is also empowered during his intake of radiation. He consumes radiation, his regeneration quickens, he becomes sated, he continues to be awake; the cycle repeats.
+As a specimen of*Titanus gojira*, he does not require sleep nor conventional food to sustain himself. He can absorb solar radiation, geothermal radiation, and nuclear radiation to remain sated indefinitely. He also doesn't need the restorative effects of sleep due to his regeneration factor, which is also empowered during his intake of radiation. Thus, when he consumes radiation, his regeneration quickens, which sates him, allowing him to remain awake; the cycle repeats.
 
-As a Titan, creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen to him: vibrations in the ground, scents in the air, sounds from the environment, and energy signatures pulsating across the world. His species have inherently heightened and refined senses; but, thanks to his age, this only improved substantially. What his usual species could detect from vast kilometers, he could do so across half the entire world. After his fight with Ghidorah, his senses only further improved. Something about the combination of Serizawa death by his gift of a nuke, stress from fighting the golden arsehole, and seeing Mothra die so soon after they've only just met in this period of time seemed to have exponentially developed his senses. His body appeared to have 'memorized' the experience, his species' inherent ability of limitless adaptation kicking in despite being under the impression that it was *only* due to Serizawa and Mothra that his growth was expedited. Those who think the Alpha Paramount is vulnerable in what appeared to be a sleeping position would be sorely mistaken.
+As a Titan, most creatures tend to assume that he sleeps when he lays down with his eyes closed. This is incorrect. All his senses remain acute and he can detect most things that happen in a colossal area around him: vibrations in the ground, scents in the air, sounds from the environment, and energy signatures pulsating across the world. His species have inherently heightened and refined senses; but, thanks to his age, this only improved substantially. What his usual species could detect from vast kilometers, he could do so across half the entire world. After his fight with Ghidorah, his senses only further improved. Something about the combination of Serizawa death by his gift of a nuke, stress from fighting the golden arsehole, and seeing Mothra die so soon after they've only just met in this period of time seemed to have exponentially developed his senses. His body appeared to have 'memorized' the experience, his species' inherent ability of limitless adaptation kicking in despite being under the impression that it was *only* due to Serizawa and Mothra that his growth was expedited. Those who think the Alpha Paramount is vulnerable in what appeared to be a sleeping position would be sorely mistaken.
 
-Additionally, it is often mistaken that he requires hibernation. However, because winter is special for Northern *Titanus gojira* such as himself, they don't have a biological imperative for it. However, he eventually learned how to sleep for extended periods of time if he found a particular era boring. In this state, he remains in limbo between consciousness and not, a form of light sleep that can be stretched for millennia. If his senses pick up anything wrong,
+Additionally, it is often mistaken that he requires hibernation. However, because winter is special for Northern *Titanus gojira* such as himself, they don't have a biological imperative for it. Instead, he eventually learned how to sleep for extended periods of time if he found a particular era boring. In this state, he remains in the limbo between consciousness and not, a form of light sleep that can be stretched for millennia to millions of years. If his senses pick up anything wrong, he can begin awakening.
 
 As a human, his senses carried over. However, the sudden strain of experiencing the world in such vivid detail with a smaller body. Effectively, he was in shock most of the time. His body would eventually acclimate; he will always adapt after all. During his adjustment period though, he found respite in sleep, allowing him to cleanly processed the sensations he received from the environment. Overtime, the acuity and fidelity of his senses would return to the way he was used to, his body able to adjust thanks to the power of sleep.
 
