@@ -4073,18 +4073,18 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 12129,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 40.43,
+      "characterCount": 85682,
+      "nonWhitespaceCharacterCount": 70352,
+      "newlineCount": 1336,
+      "readingTimeInMinutes": 45.76981132075472,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1744649060573,
       "modifiedDate": 1747007930887,
       "sizeInBytes": 85936,
@@ -4095,6 +4095,12 @@
         "characterCount": 85559,
         "nonWhitespaceCharacterCount": 70286,
         "newlineCount": 1314
+      },
+      "frontmatter": {
+        "tags": [
+          "atm",
+          "wip"
+        ]
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md": {
