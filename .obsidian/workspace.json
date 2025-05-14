@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notepad 6"
+              "title": "Outline of Anatomical Reference 5"
             }
           },
           {
@@ -287,14 +287,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "188898299bf6ed4a",
+  "active": "9e1ee7967fc8c7d7",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 5.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 1.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 0.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
