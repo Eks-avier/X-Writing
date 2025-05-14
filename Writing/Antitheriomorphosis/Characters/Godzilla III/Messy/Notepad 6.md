@@ -39,3 +39,5 @@ Let's discuss his special positions and comparative analyses once we have ensure
 - Isn't the current ratio for his hip to waist ratio a little too big of a ratio, especially for someone his height and weight?
 	- Note that while his weight is 120 kg, his physique has the appearance of someone at 95 kg.
 	- Actually, we may have to redefine what this "hip measurement" is. Honestly, let's redo this measurement. Break it down for me.
+- Hmm, that toros to arm length ratio seems too long for aesthetics.
+	- What's an ape index and how can it help us in this situation?
