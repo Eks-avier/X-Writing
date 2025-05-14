@@ -31,3 +31,8 @@ Please think through *each* instruction with surgical precision:
 Let's discuss his special positions and comparative analyses once we have ensured that his physique is solidly established with *no* inconsistencies whatsoever.
 
 ## Turn 2
+
+- Good job on suggesting something on adjusting Godric's leg length!
+	- Consult the latest anthropometric knowledge, are these measurements plausible on a human?
+	- I didn't actually realize that a `1.6180 : 1` ratio is possible on the legs!
+		- Perhaps we could even keep it closer, just enough that 
