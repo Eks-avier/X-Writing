@@ -532,6 +532,33 @@
         "newlineCount": 100
       }
     },
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1870,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.233333333333333,
+      "characterCount": 15000,
+      "nonWhitespaceCharacterCount": 12976,
+      "newlineCount": 205,
+      "readingTimeInMinutes": 7.056603773584905,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747129452148,
+      "modifiedDate": 1747129457296,
+      "sizeInBytes": 15024,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.233333333333333,
+        "wordCount": 1870,
+        "characterCount": 15000,
+        "nonWhitespaceCharacterCount": 12976,
+        "newlineCount": 205
+      }
+    },
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/3_History/Current Status.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3143,17 +3170,44 @@
       "sizeInBytes": 85936,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 40.266666666666666,
-        "wordCount": 12080,
-        "characterCount": 85385,
-        "nonWhitespaceCharacterCount": 70134,
-        "newlineCount": 1330
+        "pageCount": 40.43,
+        "wordCount": 12129,
+        "characterCount": 85682,
+        "nonWhitespaceCharacterCount": 70352,
+        "newlineCount": 1336
       },
       "frontmatter": {
         "tags": [
           "atm",
           "wip"
         ]
+      }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1511,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.036666666666667,
+      "characterCount": 12464,
+      "nonWhitespaceCharacterCount": 10558,
+      "newlineCount": 242,
+      "readingTimeInMinutes": 5.7018867924528305,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747080344696,
+      "modifiedDate": 1747080344696,
+      "sizeInBytes": 12508,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.036666666666667,
+        "wordCount": 1511,
+        "characterCount": 12464,
+        "nonWhitespaceCharacterCount": 10558,
+        "newlineCount": 242
       }
     },
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 0.md": {
@@ -5707,6 +5761,33 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307,
         "newlineCount": 10
+      }
+    },
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2210,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.366666666666666,
+      "characterCount": 18023,
+      "nonWhitespaceCharacterCount": 15558,
+      "newlineCount": 293,
+      "readingTimeInMinutes": 8.339622641509434,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747135088151,
+      "modifiedDate": 1747145923989,
+      "sizeInBytes": 18041,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

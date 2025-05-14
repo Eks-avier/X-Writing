@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Anatomical Reference 4"
             }
+          },
+          {
+            "id": "2ea38c354d8cf2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conversation Summaries"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -244,10 +257,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96f222360d223a22",
+  "active": "2ea38c354d8cf2df",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 0.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 1.md",
@@ -274,18 +292,14 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Notepad 4.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
     "Writing/Antitheriomorphosis/Creation Instructions/Obsidian Organization Guide.md",
-    "Writing/Antitheriomorphosis/Characters/Battra, the Lord of the Mystic Arts.md",
-    "Writing/Antitheriomorphosis/The First Divine Moth Sorcerer in Generations.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III",
     "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
