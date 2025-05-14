@@ -20,4 +20,11 @@ Please think through *each* instruction with surgical precision:
 
 ## Other Inconsistencies
 
-- For his torso-to-arm length proportion: you're right, we should make sure that 
+- For his torso-to-arm length proportion: you're right, we should make sure that it follows either the golden ratio itself or a derivative.
+	1. First, what is the aesthetic ideal of this ratio in men?
+		- Consult from both classical and modern ideas.
+	2. Second, how can we adjust this to ensure that, as much as possible, none of his other measurements would have to be adjusted.
+- For the face-to-body proportion analysis: you're right in that we do need to clarify how the facial proportions relate to his body measurements. 
+	- Give me ideas that follow aesthetic ideals.
+
+Let's discuss his special positions and comparative analyses once we have ensured that his physique is solidly established with *no* inconsistencies whatsoever.
