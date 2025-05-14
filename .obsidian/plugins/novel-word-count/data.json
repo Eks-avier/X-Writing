@@ -5789,6 +5789,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 181,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.10566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747229745369,
+      "modifiedDate": 1747229934809,
+      "sizeInBytes": 214,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
