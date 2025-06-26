@@ -9,7 +9,7 @@ aliases:
 
 **Human Name:** Darius Nordson (meaning “possessor of good” or “he who holds firm the good”)
 **Apparent Age:** Early to Mid-40s (in human terms)
-**Documented Age:** 40 (Monarch records)
+**Documented Age:** 30 (Monarch records) (Adjusted to 45 to match Godric's age)
 **True Age:** 500 years old (at time of death)
 **Status:** Resurrected in human form
 **Position:** Former Northern Patriarch, Father of current Alpha Paramount

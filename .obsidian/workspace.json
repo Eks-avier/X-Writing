@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "Reorganized + Anatomy"
             }
+          },
+          {
+            "id": "5d8476bd07d3631d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dagon, the Last Northern Patriarch"
+            }
+          },
+          {
+            "id": "2242c89d23bbcff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GODZILLA'S ORIGIN & DEVELOPMENT"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -315,13 +363,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+                "file": "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nordson - Anatomical Measurements and Specifications (Gemini)"
+              "title": "Outline of GODZILLA'S ORIGIN & DEVELOPMENT"
             }
           },
           {
@@ -375,8 +423,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b1fd2bce262dccb",
+  "active": "2242c89d23bbcff4",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
@@ -403,7 +452,6 @@
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
     "Spending.md",
     "Wardens - Human Identities.md",
-    "Notepad.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
