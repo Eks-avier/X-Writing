@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "GODZILLA'S ORIGIN & DEVELOPMENT"
             }
+          },
+          {
+            "id": "e67faff3758be696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Northern Gojira"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -363,13 +387,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
+                "file": "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GODZILLA'S ORIGIN & DEVELOPMENT"
+              "title": "Outline of Northern Gojira"
             }
           },
           {
@@ -423,8 +447,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2242c89d23bbcff4",
+  "active": "e67faff3758be696",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
+    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
@@ -449,9 +476,6 @@
     "Notepad 3.md",
     "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md",
-    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
-    "Spending.md",
-    "Wardens - Human Identities.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
