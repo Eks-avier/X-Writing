@@ -253,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 440,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -370,7 +371,8 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7b1fd2bce262dccb",
