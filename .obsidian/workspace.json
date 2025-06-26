@@ -32,63 +32,151 @@
             }
           },
           {
-            "id": "96f222360d223a22",
+            "id": "05ae0630919fdddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Hair Profile.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Anatomical Reference 4"
+              "title": "Nordson - Hair Profile"
             }
           },
           {
-            "id": "2ea38c354d8cf2df",
+            "id": "6b4b859e1848ab3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Conversation Summaries"
+              "title": "Nordson - Anatomical Measurements and Specifications (Claude)"
             }
           },
           {
-            "id": "9e1ee7967fc8c7d7",
+            "id": "0f40156936f0c21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 5.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Facial Structure & Features.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Anatomical Reference 5"
+              "title": "Nordson - Facial Structure & Features"
             }
           },
           {
-            "id": "188898299bf6ed4a",
+            "id": "c1f87b794e685e72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Ethnic Presentation.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Notepad 6"
+              "title": "Nordson - Ethnic Presentation"
+            }
+          },
+          {
+            "id": "7b1fd2bce262dccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nordson - Anatomical Measurements and Specifications (Gemini)"
+            }
+          },
+          {
+            "id": "d1eba6f9d65cc6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reorganized + Anatomy"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332,
-    "collapsed": true
+    "width": 440
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -227,13 +314,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
-                "followCursor": false,
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notepad 6"
+              "title": "Outline of Nordson - Anatomical Measurements and Specifications (Gemini)"
             }
           },
           {
@@ -270,7 +357,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
+    "width": 327,
     "collapsed": true
   },
   "left-ribbon": {
@@ -283,48 +370,47 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "188898299bf6ed4a",
+  "active": "7b1fd2bce262dccb",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 5.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 6.md",
+    "Writing/Antitheriomorphosis/Magic System/Rigorous Magic.md",
+    "Writing/Antitheriomorphosis/Magic System/Unrefined - Time Manipulation .md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla/8 - Base Physical Capabilities.md",
+    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Ethnic Presentation.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Facial Structure & Features.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Hair Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Dress Shirts.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Nordson - Dress Shirts.md.tmp",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 7.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference 4.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 2.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 1.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 0.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Conversation Summaries.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 3.md",
+    "Notepad 2.md",
+    "Notepad 3.md",
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
+    "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md",
+    "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
+    "Spending.md",
+    "Wardens - Human Identities.md",
+    "Notepad.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Refined Godzilla Profile Outline.md.tmp",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
-    "Notepad 3.md",
-    "College/GED107 - Critical Reflection Paper 1.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/The King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Mothra",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Godric Nordson - Physical Features.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 3.md",
-    "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Idea- Eyes of Mine.md",
-    "Writing/Antitheriomorphosis/Characters/Mothra/Refined Mothra Outline Outline.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla/1 - Identity & Appearance.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Notepad.md",
-    "Notepad 2.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/The Uncanny Perfection.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Notepad 3.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Notepad 4.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~The King of the Monsters.md.tmp",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/~syncthing~Titanus Gojira.md.tmp",
     "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",

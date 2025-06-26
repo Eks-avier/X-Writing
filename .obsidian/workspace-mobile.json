@@ -8,105 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1ff179f5a3d3e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titanus Gojira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Titanus Gojira"
-            }
-          },
-          {
-            "id": "ab52f142b77365ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Refined Godzilla Profile Outline"
-            }
-          },
-          {
-            "id": "c39a82bda869fda4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notepad 3"
-            }
-          },
-          {
-            "id": "5ae6e9d4c6ba226a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structure of the Titan Hierarchy"
-            }
-          },
-          {
-            "id": "ca3eacffc00d77d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hierarchy"
-            }
-          },
-          {
             "id": "f2063bdced0d7333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Lineage"
+              "title": "OpusOrganized"
             }
           },
           {
-            "id": "07db8c6ed1789a39",
+            "id": "6758371317d088c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Refined Godzilla Profile Outline"
+              "title": "Plot Outline - Blue House at Maple Street"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +200,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
+            "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -275,35 +225,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2063bdced0d7333",
+  "active": "6758371317d088c5",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Lineage.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
-    "Writing/Antitheriomorphosis/Unrefined/Atomic Stride.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Concept - Edelweiss.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Concept - Medieval AU.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Biollante Arc.md",
+    "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
+    "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
+    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Singularity Technique.md",
+    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/Singularity.md",
+    "Writing/Antitheriomorphosis/Magic System/Battra's Spells/The Umbra Simulacrum Technique.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 7.md",
+    "Writing/Antitheriomorphosis/Magic System/Unrefined - Spatial Separation Magic.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Ethnic Presentation (Gemini).md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Dress Shirts.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/The King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Lineage System.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Origins of the Wardens.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized.md",
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
+    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
+    "College/ITS112L-EM01-32.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
-    "Writing/Antitheriomorphosis/Characters/Monarch Personnel Roster.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 4.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Notepad 3.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/The King of the Monsters.md",
-    "Writing/Antitheriomorphosis/Creation Instructions/Information on the Northern Gojira .md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Limitless Adaptation.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Evolutionary Origins.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Dorsal Fin Structure.md",
-    "Writing/Antitheriomorphosis/Titans/Species/Titanus Gojira/1_Biology/Domination of Energy.md",
-    "Writing/Antitheriomorphosis/Titans/The Scales of 'Titanus mosura'.md",
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy and Formal Titles.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/Titan Hierarchy System.md",
-    "Writing/Antitheriomorphosis/Characters/Rodan, the Lord of the Skies.md",
-    "Writing/Antitheriomorphosis/Atomic Amplification.md",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",
     "Tags/#atm+titan+species-profile",

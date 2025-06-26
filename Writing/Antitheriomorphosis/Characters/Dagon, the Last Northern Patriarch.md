@@ -8,12 +8,12 @@ aliases:
 ## Core Identity
 
 **Human Name:** Darius Nordson (meaning “possessor of good” or “he who holds firm the good”)
-**Apparent Age:** Mid-40s (in human terms)
-**Documented Age:** 45 (Monarch records)
-**True Age:** Approximately 250-255 million years old at time of death (300-500 years older than Godric)
+**Apparent Age:** Early to Mid-40s (in human terms)
+**Documented Age:** 40 (Monarch records)
+**True Age:** 500 years old (at time of death)
 **Status:** Resurrected in human form
 **Position:** Former Northern Patriarch, Father of current Alpha Paramount
-**Affiliations:** Northern Gojira (legacy), Monarch (advisory), Godric Nordson (family)
+**Affiliations:** Northern Gojira (legacy), Monarch (advisory), Godric Nordson/Godzilla family)
 
 ### The Significance of “Darius”
 

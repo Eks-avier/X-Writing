@@ -29,7 +29,7 @@ The same Nordic, Germanic, Grecian, and Roman blend in his physique remains pres
 
 ## Handymen Are Attractive Too?
 
-It doesn't help the fact that he's supremely competent. He's capable of learning things quickly, has a penchant for being self-sufficent, and prefers the outdoors as much as possible. In fact, despite Castle Bravo being an underwater base prior to Battra's return to Earth, he preferred to be outside the base itself or he swam in the quiet of the night, where no people would see his usually half-naked self (God knows what would happen if people get just even a glimpse of that LMFAOOO). That private pool might be costly, Mark thinks, but if it prevents behaviors unfit for a professional scientific institution, then it's worth it!
+It doesn't help the fact that he's supremely competent. He's capable of learning things quickly, has a penchant for being self-sufficient, and prefers the outdoors as much as possible. In fact, despite Castle Bravo being an underwater base prior to Battra's return to Earth, he preferred to be outside the base itself or he swam in the quiet of the night, where no people would see his usually half-naked self (God knows what would happen if people get just even a glimpse of that LMFAOOO). That private pool might be costly, Mark thinks, but if it prevents behaviors unfit for a professional scientific institution, then it's worth it!
 
 ## King of the Oblivious
 

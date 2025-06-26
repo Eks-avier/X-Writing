@@ -2,24 +2,59 @@
 tags: [atm, wip]
 ---
 
-# Physical Profile
+# Godzilla / Godric Nordson - Refined Profile
 
-## Basic Overview
+## Identity and Basic Information
+
+### Basic Overview
 
 - **Titan Name**: Godzilla / Gojira
 	- He answers to both equally
 - **Human Name**: Godric Nordson
-- **Height**: 6'5'' (196 cm)
-- **Weight**:
-	- **Active Season**: 265 lbs (120 kg)
-	- **Dormant Season**: 285 lbs (129 kg)
-- **Sex**: Male
-- **Approximated Age**: 250 m.y. old
 - **Documented Age**: 25
-- **Birthday**: November 3
+- **Documented Birthday**: November 3
 	- First resurgence in the modern era, as noted by Eiji Serizawa
 	- Doubles as a meta-reference since the first Godzilla film was released in that date on 1954
-- **Body Fat**: 10-12% (December-August); 15%-18% (September-November)
+- **Height**: $195.97$ cm ($6 \text{ ft} \, 5.15 \text{ in}$)
+- **Weight**:
+	- **Active Season**: $120.00$ kg ($264.55$ lbs)
+	- **Dormant Season**: $129.00$ kg ($284.40$ lbs)
+- **Body Fat**:
+	- **Active Season**: $10.00$-$12.00\%$
+	- **Dormant Season**: $15.00$-$18.00\%$
+- **Active Season Period**: December-August
+- **Dormant Season Period**: September-November
+- **Species**: *Titanus gojira*
+- **Ethnicity**: Northerner (Northern Faction)
+- **Sapience**: Minded / Sapient
+- **Lineage**: Ascendant / Superior
+- **Standing**: Alpha Paramount
+- **Magical Aptitude**: Null
+- **Psionic Aptitude**: Non
+- **Living Status**: Alive
+- **Marital Status**: Single
+- **Subtitles(s)**:
+	- King of the Monsters
+	- Ancient Guardian of the Natural World
+	- *Hakaishin* / *Hakaiō*
+	- King of the Earth Defenders
+	- The Last Northerner / The Last Son of the North
+	- The Chief (by Rodan/Roman)
+	- The Boss (typically by Roman/Castle Bravo Staff)
+
+## Physical Profile
+
+### Core Physical Metrics
+
+- **Height**: $195.97$ cm ($6 \text{ ft} \, 5.15 \text{ in}$)
+- **Weight**:
+	- **Active Season**: $120.00$ kg ($264.55$ lbs)
+	- **Dormant Season**: $129.00$ kg ($284.40$ lbs)
+- **Sex**: Male
+- **Approximated Age**: 250 m.y. old
+- **Body Fat**:
+	- **Active Season**: $10.00$-$12.00\%$
+	- **Dormant Season**: $15.00$-$18.00\%$
 - **Others**:
 	- Physical proportions are aesthetic
 		- Nigh-perfect face harmony; all facial features are proportional to one another
@@ -31,143 +66,72 @@ tags: [atm, wip]
 	- Random people in public who encounter him are surprised he's 25, often thinking he's older than that
 		- A hint to his true age that people subconsciously pick up
 
-## General Physical Characteristics
+### General Physical Attributes
 
-### Uncanny Symmetry
+#### Uncanny Symmetry
 
 Godric's near-perfect 98.7% bilateral symmetry creates an unconscious, instinctual discomfort in observers, leading their brains to register something fundamentally inhuman without the capacity to articulate why.
-
 - Perfectly aligned features on both sides of his face
 - Identical musculature development on both sides of the body
 - Fingerprints that *almost* look too identical
 - A *near*-perfect distribution of modest body hair
 - Perfect alignment of teeth
 
-### Distinctive Physical Characteristics
-
-#### Density & Weight Distribution
+#### Extraordinary Density and Weight Distribution
 
 Godric possesses extraordinary tissue density that creates disconnect between appearance and capability:
 
+##### Tissue Density
+
 | Tissue Type | Godric's Density | Human Average | Ratio |
 |-------------|------------------|---------------|-------|
-| Bone | 2.6 g/cm³ | 1.5-1.8 g/cm³ | ~1.6× greater |
-| Muscle | 1.9 g/cm³ | 1.06 g/cm³ | ~1.8× greater |
-| Organ Tissue | ~1.3× human average | Varies | ~1.3× greater |
-| Connective Tissue | ~1.5× human average | Varies | ~1.5× greater |
+| Bone | $2.60$ g/cm³ | $1.50$-$1.80$ g/cm³ | $\sim1.60\times$ greater |
+| Muscle | $1.90$ g/cm³ | $1.06$ g/cm³ | $\sim1.80\times$ greater |
+| Organ Tissue | $\sim1.30\times$ human average | Varies | $\sim1.30\times$ greater |
+| Connective Tissue | $\sim1.50\times$ human average | Varies | $\sim1.50\times$ greater |
 
-#### Region-Specific Weight Distribution
+##### Region-Specific Weight Distribution
 
-| Body Region | Percentage of Mass | Human Average | Notes                                                  |
-| ----------- | ------------------ | ------------- | ------------------------------------------------------ |
-| Torso       | 48%                | 43-45%        | **Titan Echo: Higher mass percentage for energy core** |
-| Arms        | 15%                | 13-14%        | **Titan Echo: Denser musculature for combat**          |
-| Legs        | 33%                | 35-37%        | Proportionally balanced                                |
-| Head        | 4%                 | 7-8%          | **Titan Echo: More efficient neural structure**        |
+| Body Region | Percentage of Mass | Human Average     | Notes                                                  |
+| ----------- | ------------------ | ----------------- | ------------------------------------------------------ |
+| Torso       | $48.00\%$          | $43.00$-$45.00\%$ | **Titan Echo: Higher mass percentage for energy core** |
+| Arms        | $15.00\%$          | $10.00$-$12.00\%$ | **Titan Echo: Denser musculature for combat**          |
+| Legs        | $33.00\%$          | $32.00$-$40.00\%$ | Proportionally balanced                                |
+| Head        | $4.00\%$           | $7.00$-$8.00\%$   | **Titan Echo: More efficient neural structure**        |
 
-#### Heavier Than He Looks
+##### Heavier Than He Looks
 
 The most significant disconnect between Godric's appearance and reality is his extraordinary density:
 - **Appears to have proportions of someone weighing**: 85-90 kg (187-198 lbs)
 - **Actual weight**: 120 kg (265 lbs)
 - **Effective density**: Approximately 1.35× greater than his appearance suggests
 
-This density is distributed throughout his entire structure:
-- Bone density 2.6 g/cm³ (human average: 1.5-1.8 g/cm³)
-- Muscle tissue density 1.9 g/cm³ (human average: 1.06 g/cm³)
-- Organ tissue density approximately 1.3× human average
+This density is distributed throughout his entire structure (as detailed in Tissue Density table).
 
-#### Proximity Effects
-
-Humans tend to experience a predictable pattern of responses based on their distance from Godric. From afar, they see a conventionally handsome young man, but the closer they get to him, the more they *feel* his inherent predatory presence.
-
-| **Distance**    | **Conscious Response**            | **Subconscious Response**                |
-| --------------- | --------------------------------- | ---------------------------------------- |
-| **>15 meters**  | Conventional attraction           | Normal social interest                   |
-| **5-15 meters** | Recognition of unusual perfection | Growing unease with continued attraction |
-| **<5 meters**   | Awareness of commanding presence  | Fight-or-flight activation               |
-
-This layered perception allows Godric to move through human society with minimal - relative to his previous form as a Titan - disruption. Most people would never get close enough to experience his true predatory presence.
-
-Humans possess evolutionary memory of predator encounters in their limbic system. What they experience near Godric is the activation of ancient survival circuits:
-
-- Recognition patterns for apex predator presence
-- Instinctive submission behaviors preserved from evolutionary history
-- Territorial deference mechanisms embedded in primate psychology
-
-#### Biological Advantages
-
-- **Thermal Regulation**: His elevated temperature allows him to be unaffected by the cold
-	- Hence why he requires little to no clothing in winter
-		- Though of course he attempts to cover this up to avoid suspicion
-- **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
-	- Renders traditional hygiene products unnecessary
-	- Maintains effortless pristine cleanliness
-- **Bathing Preferences**: Rarely requires bathes for hygienic purposes
-	- Prefers complete submersion when bathing for pleasure and recreation
-		- The only moment he will ever be unclothed
-			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
-				- *Dad, this isn't necessary--*
-				- *You haven't heard what they whisper; it's for their own safety, not his.*
-		- In the dark of night, he will drop into the waters surrounding Castle Bravo to swim leisurely.
-			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.* - Madison Russell
-			- *That's a bit too dramatic, don't you think?* - Dr. Rick Stanton
-		- Stays submerged underwater for extended periods, alarming people who don't know who he is
-			- He can hold his breath for an extended amount of time
-				- Learning of ways to indefinitely remain submerged again.
-			- Waters he submerges in are treated as hazards, hence the secondary excuse of his private pool
-				- *What's the primary excuse then?*
-				- *Avoiding sexual harassment.*
-- **Product Usage**: Requires minimal toiletry
-	- Still uses basic products suggested by Madison, particularly when it concerns his hair
-	- Scents don't adhere to his skin
-	- Possesses a unique scent
-- **Radiation Cleansing**: When finding himself absolutely filthy, employs an elevated energy output
-	- Heats everything to the point of boiling in a short radius around him
-	- Lethal to non-Titans
-
-#### Biohazard Considerations
-
-- **Bodily Fluids**: All of them are potentially harmful to humans
-	- Elevated temperature during his power use alone can cause damage!
-	- His radioactive emissions can vary with emotional and physical state
-	- Direct contact protocols were implemented
-- **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
-	- Monarch upper management shows reduced sensitivity to radioactive effects
-	- Long-term exposure seems to play a part in creating limited adaptation
-	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
-		- Fuels people's delusional desires to be near him even more
-			- *You didn't have to mention that little factoid; now everyone's gonna try clamoring over him more!*
-		- Both theories are considered, though most lean heavily into Godric's improving control
-
-> [!quote]
-> “That is *so* cool!”
-> “Madison, it's not cool to be tagged for potential radioactive contaminat-”
-> “Am I gonna breathe atomic energy too?!”
-> “God help us all if that ever happened.”
-
-### Seasonal Physique Variation
+#### Seasonal Physique Variation
 
 > [!important] Voluntary Cycle
 > Unlike other organisms whose seasonal changes are driven by biological imperatives, Godric's seasonal cycle represents a purely voluntary adaptation following the Antitheriomorphosis.
 
-- **Active Season**:
-	- 10% to 12% body fat
-	- Spans from December to August
-	- Defined musculature
-	- Angular facial features
-	- Higher body temperature
-- **Dormant Period**:
-	- 15% to 18% body fat
-	- Spans September to November
-	- Softer musculature
-	- Softened facial features
-	- Lower body temperature
-- **Notes**:
-	- Established post-Antitheriomorphosis
-	- Began in 2021
+##### Active Season (December-August)
 
-To achieve this bulk, **he has to eat more**.
+- **Body Fat**: $10.00$-$12.00\%$
+- **Muscle Definition**: Highly pronounced, defined musculature
+- **Facial Features**: Angular and defined
+- **Temperature**: $100.90°$F ($38.30°$C) (Higher body temperature)
+- **Overall Appearance**: Classical sculpture precision
+- **Human Perception**: Intimidating perfection
+- **Notes**: Spans from December to August. Established post-Antitheriomorphosis, began in 2021.
+
+##### Dormant Season (September-November)
+
+- **Body Fat**: $15.00$-$18.00\%$
+- **Muscle Definition**: Softer musculature, still visible
+- **Facial Features**: Slightly rounded, softened facial features
+- **Temperature**: $99.50°$F ($37.50°$C) (Lower body temperature)
+- **Overall Appearance**: Rugged wilderness vitality
+- **Human Perception**: More approachable yet powerful
+- **Notes**: Spans September to November. To achieve this bulk, **he has to eat more**.
 
 > [!note] Energy Source Transition
 > During dormant periods, Godric's metabolism shifts from radiation-based to conventional nutrition—a state that more closely resembles human metabolic processes. This represents the only time he genuinely requires food rather than consuming it for pleasure or social integration.
@@ -175,30 +139,83 @@ To achieve this bulk, **he has to eat more**.
 > [!note] The Winter Awakening
 The winter of 2020 marked a pivotal moment when Maria's attraction to Godric first awakened. His dormant appearance—larger frame, softer features, stubbled face, and clothes seemingly straining against his increased bulk despite their flexible material—presented a more rugged, masculine presence that contrasted with his typically precise, angular form.
 
-### Movement and Presence
+#### Proximity Effects
+
+Humans tend to experience a predictable pattern of responses based on their distance from Godric. From afar, they see a conventionally handsome young man, but the closer they get to him, the more they *feel* his inherent predatory presence.
+
+##### Perception by Distance
+
+| Distance | Conscious Response | Subconscious Response |
+|----------|-------------------|----------------------|
+| >15 meters | Conventional attraction | Normal social interest |
+| 5-15 meters | Recognition of unusual perfection | Growing unease with attraction |
+| <5 meters | Awareness of commanding presence | Fight-or-flight activation |
+
+This layered perception allows Godric to move through human society with minimal - relative to his previous form as a Titan - disruption. Most people would never get close enough to experience his true predatory presence.
+
+##### Evolutionary Response Trigger
+
+Humans possess evolutionary memory of predator encounters in their limbic system. What they experience near Godric is the activation of ancient survival circuits:
+- Recognition patterns for apex predator presence
+- Instinctive submission behaviors preserved from evolutionary history
+- Territorial deference mechanisms embedded in primate psychology
+
+#### Perpetual Readiness (Relaxed vs. Flexed)
+
+One of Godric's most distinctive physical traits is his minimal change between relaxed and flexed states:
+- Upper arm expansion when flexed: $+6.00\%$ (Active Season), $+5.20\%$ (Dormant Season)
+- Forearm expansion when flexed: $+4.00\%$
+- Chest expansion when flexed: $+3.35\%$
+- Thigh expansion when flexed: $+4.24\%$
+
+This reduced muscle expansion parallels his perpetually blue eyes (vs. true gold), symbolizing his constant vigilance. Even at rest, his muscles remain partially engaged, ready for immediate action.
+
+#### Titan Echoes (Anatomical Summary)
+
+Specific anatomical features that preserve aspects of his Titan form:
+1. **Back Structure**: Expanded width and deeper musculature where dorsal fins would attach
+2. **Neck Development**: Thicker than proportions would suggest, reflecting his powerful Titan neck
+3. **Thigh Mass**: Enhanced thickness and power where his primary Titan stability originated
+4. **Core Depth**: Deeper chest and abdominal cavity reflecting his atomic energy storage
+5. **Joint Reinforcement**: Thicker wrists, ankles and knees from supporting titanic weight
+6. **Forearm Development**: Combat-optimized with 2/φ ratio creating ideal power-to-speed balance
+7. **Foot Structure**: Wider with enhanced heel for stability inherited from Titan stance
+
+#### Movement and Presence
 
 Godric's movement patterns reflect his stoic and regal nature.
+
+##### Gait, Grace, Balance, and Posture
 
 - **Gait**: Economic and tactical, utilizing minimal energy for maximum effort
 - **Grace**: Surprisingly graceful despite his imposing frame
 - **Balance**: Perfect equilibrium in all positions or terrain
 	- When he kept tripping over himself during his first moments as a human, it's because he still moved as if he had a tail.
 - **Posture**: Effortless military bearing, with a spine perfectly aligned
-- **Quirks**:
-	- Never bows, even when it is required
-	- Never looks down to those smaller than him
-	- Never looks up to those taller than him
-	- These are all subconscious, people are forced to adjust to him
+
+##### Behavioral Quirks
+
+- Never bows, even when it is required
+- Never looks down to those smaller than him
+- Never looks up to those taller than him
+- These are all subconscious, people are forced to adjust to him
+
+##### Physiological Effects on Others
 
 His mere presence creates certain physiological effects on others, whether Titan, human, or animal.
-
 - Animals either cower or become submissive
 - The fight-or-flight response is passively triggered for most humans
 	- People often find reason to leave him or defer to him
 - Some people do get used to the sensation or are curiously not affected, though this phenomena is incredibly rare.
 	- As far as people are concerned only Madison Russell is unaffected, allowing her to act in light-hearted ways with him
 		- Godric very much appreciates this
+
+##### Recreational Habits
+
 - **Sunbathing**: A habit he likes to do recreationally; it also allows him to absorb solar energy at the same time
+
+#### Voice and Speech
+
 - **Voice**:
 	- Deep, resonant baritone
 	- Naturally rich and clear
@@ -206,31 +223,30 @@ His mere presence creates certain physiological effects on others, whether Titan
 		- Can definitely be mistaken as seductive, though that's just delusion most of the time
 	- Can fill a room without even trying
 	- Doesn't have any particular side effects besides being attractive to people
-	- **Speech**:
-		- Measured and deliberately paced; rarely rushes words
-		- Naturally emphasizes important points
-		- Economical with word choice
-			- Naturally selects the most concise way to speak
+- **Speech**:
+	- Measured and deliberately paced; rarely rushes words
+	- Naturally emphasizes important points
+	- Economical with word choice
+		- Naturally selects the most concise way to speak
 
-## Ethnicity and Appearance
+### Ethnicity and Appearance
 
-### Balanced Blend of European Ethnicities
+#### Blended European Heritage
 
 In an effort to properly translate his Northern *Titanus gojira* heritage, the mysterious Antitheriomorphosis has drawn from subtle yet unmistakable Northern European aesthetics, that is then blended with primarily with Mediterranean ideals and subtly with Slavic ones.
 
-| **Heritage Influence** | **Percentage** | **Primary Features**                                        |
-| ---------------------- | -------------- | ----------------------------------------------------------- |
-| **Nordic & Germanic**  | 30%            | Strong jawline, brow structure, height proportions          |
-| **Greco-Roman**        | 25%            | Nose structure, facial symmetry, golden-ratio adherence     |
-| **Celtic**             | 25%            | Skin texture, muscular density, slight weathering quality   |
-| **Slavic**             | 20%            | Subtle cheekbone structure, eye placement, neck musculature |
+| **Heritage Influence**          | **Percentage** | **Primary Features**                                        |
+| ------------------------------- | -------------- | ----------------------------------------------------------- |
+| **Northern & Western Germanic** | 30%            | Strong jawline, brow structure, height proportions          |
+| **Greco-Roman**                 | 25%            | Nose structure, facial symmetry, golden-ratio adherence     |
+| **Celtic**                      | 25%            | Skin texture, muscular density, slight weathering quality   |
+| **Slavic**                      | 20%            | Subtle cheekbone structure, eye placement, neck musculature |
 
 This blend produces a face that seems broadly recognizable to Northern Europeans, until he moves his face. Such an effect makes him familiar yet unplaceable. Sometimes he'll appear a marvel of antiquity, and sometimes he'll seem like a master of the wilderness.
 
-### Facial Structure
+#### Facial Structure
 
 Godric's face combines mathematical precision and balance with elemental weathering to create something simultaneously classical and primal.
-
 - **Overall Shape**: Square with an angles and definition that is both pronounced yet not at all exaggerated
 - **Jawline**: Sharply defined with perfect bilateral symmetry; creates a strong horizontal line
 - **Cheekbones**: High and prominent without being too sharp nor dramatic, allowing for natural shadows to be produced beneath
@@ -246,24 +262,408 @@ His face maintains a perpetual stoic expression that occasionally produces micro
 
 The classical balance creates an almost sculptural quality while the subtle weathering all through out expresses motion and experience that no mere sculpture could achieve.
 
-### Refined Ruggedness
+#### Refined Ruggedness
 
 > [!important] Rugged Regality
 > Godric embodies a peculiar contradiction: mathematical perfection merged cleanly with primordial wilderness, a man of order and an untamed beast
 
-#### The Aesthetics of Antiquity
+##### The Aesthetics of Antiquity
 
 When Godric grooms himself, his features allow him to effortlessly appear as the perfect classical specimen ready for display in a museum. He leaves an impossible impression on people: a Renaissance painting made real. When people look at him, they see an air nobility and natural authority - a CEO of a high-end lucrative company or a rightful king of a nation. Though Monarch makes an earnest effort to include the Antitheriomorphosized Titans into prestigious events - and are able to find some measure of success in doing so - they seem to be unable to hide one inconspicuous Mr. Nordson from grabbing people's attention with his Adonic aesthetics, despite completely misinterpreting people's reactions to him.
 
-#### The Virility of Ruggedness
+##### The Virility of Ruggedness
 
-When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry with unwavering precision. When he people see him in this state, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his unbroken reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and distinguished by his unerring triumph over them.
+When Godric allows his shaving routine to lapse - or during his dormant period - he shifts from an Adonic figure to something Heraclean - wilder, more primal. He calls to mind the image of a man steadfastly tending his ranch, a seasoned hunter tracking his next quarry with unwavering precision. When people see him in this state, he appears not merely as one who survives the wilderness through skill, but as one who has mastered it - and stands ready to shield others against its brutal forces. This ruggedness reflect his unbroken reality as *the* apex predator of Earth, one who has to weather the constant challenges of life and distinguished by his unerring triumph over them.
 
-## Detailed Measurements and Proportions
+### Detailed Measurements and Proportions
 
-## Detailed Physical Features
+#### Mathematical Foundation and Precision Standards
 
-### Eyes
+All measurements in this document follow these mathematical precision principles:
+
+1.  **Hybrid Precision Approach**:
+    -   Physical measurements presented to 2 decimal places (sufficient for anatomical precision)
+    -   Mathematical ratios and deviations calculated to 4 decimal places (documenting mathematical harmony)
+2.  **True Golden Ratio**: $\phi = 1.6180$ (to 4 decimal places)
+3.  **Deviation Calculation**: $((|Actual - Target|) / Target) \times 100\%$, expressed to 4 decimal places
+4.  **Perfect Proportions**: Only values with $0.0000\%$ deviation are considered “perfect”
+5.  **Golden Ratio Derivatives**:
+    -   Reciprocal of φ $(1/\phi) = 0.6180$
+    -   $(φ-1)/φ = 0.3820$
+    -   $1/φ^3 = 0.2361$
+    -   $2/φ = 1.2361$
+    -   $(1+\phi)/\phi^2 = 0.8944$
+    -   $1/\sqrt{2} = 0.7071$
+    -   $\sqrt{\phi} = 1.2720$
+
+#### The Mathematical Framework of Perfection
+
+Godric's body presents a deliberate mathematical pattern that mirrors his character essence:
+
+##### Surface-to-Core Gradient
+
+- **Face (Most Visible)**: Perfect mathematical harmony with $0.0000\%$ deviation from golden ratio proportions - embodying his vigilant guardian persona
+- **Limbs/Surface (Partially Visible)**: Near-perfect proportions with slight deviations ($0.0124$-$0.4759\%$) - representing his approach to perfection
+- **Torso/Core (Less Visible)**: Deliberate deviations from perfection ($5.0000$-$10.3461\%$) - containing his authentic mortality and power
+
+This creates a gradient of mathematical authenticity - his most public features embody perfect mathematical harmony, while his hidden core preserves the proportional echoes of his true Titan nature.
+
+##### Core Mathematical Relationships
+
+| Relationship            | Measurement        | Ratio    | Mathematical Equivalent      | Deviation | Classification |
+| ----------------------- | ------------------ | -------- | ---------------------------- | --------- | -------------- |
+| Face Height-to-Width    | 22.05:13.63 cm     | 1.6180:1 | φ (1.6180)                   | 0.0000%   | Perfect        |
+| Torso-to-Arm Length     | 69.30:98.00 cm     | 0.7071:1 | 1/√2 (0.7071)                | 0.0000%   | Perfect        |
+| Hip-to-Waist            | 104.69:82.30 cm    | 1.2720:1 | √φ (1.2720)                  | 0.0000%   | Perfect        |
+| Upper Arm-to-Forearm    | 43.18:34.93 cm     | 1.2361:1 | 2/φ (1.2361)                 | 0.0000%   | Perfect        |
+| Upper-to-Lower Leg      | 40.00:35.80 cm     | 1.1173:1 | Classical athletic (1.1-1.2) | 0.0000%   | Perfect        |
+| Shoulder-to-Waist Width | 54<br>.60:33.75 cm | 1.6178:1 | φ (1.6180)                   | 0.0124%   | Near-perfect   |
+| Height to Navel Point   | 195.97:121.12 cm   | 1.6180:1 | φ (1.6180)                   | 0.0000%   | Perfect        |
+| Chest-to-Waist          | 119.40:82.31 cm    | 1.4506:1 | φ (1.6180)                   | 10.3461%  | Titan Echo     |
+
+**Note**: Upper-to-Lower Leg Ratio features an Upper Leg measurement of $40.00$ cm. This may be seen as inconsistent with the established measurement. However, this number actually came from a combination of two measurements: Hip Joint to Crotch and Upper Leg Length (Below Crotch) .
+
+#### Overall Height and Segmentation
+
+The following framework accounts for all components of Godric's height with anatomical precision:
+
+##### Height Components
+
+| Component        | Measurement | Percentage of Height | Notes                                           |
+| ---------------- | ----------- | -------------------- | ----------------------------------------------- |
+| Head Height      | $24.50$ cm  | $12.50\%$            | Perfect $1/8$ of total height                   |
+| Neck Height      | $8.17$ cm   | $4.17\%$             | Classical ideal ($1/3$ of head height)          |
+| Torso Length     | $69.30$ cm  | $35.36\%$            | Adjusted for perfect 1/√2 ratio with arm length |
+| Leg Length       | $94.00$ cm  | $47.97\%$            | Greater trochanter to floor                     |
+| **Total Height** | $195.97$ cm | $100.00\%$           | Sum of all components                           |
+
+##### Torso Segmentation
+
+| Segment         | Measurement | Notes                        |
+| --------------- | ----------- | ---------------------------- |
+| Upper Torso     | $21.83$ cm  | Shoulders to xiphoid process |
+| Mid-Torso       | $27.47$ cm  | Xiphoid to navel             |
+| Pelvic Region   | $20.00$ cm  | Navel to greater trochanter  |
+| **Total Torso** | $69.30$ cm  | Combined torso segments      |
+
+##### Sitting Height Components
+
+| Component | Measurement | Notes |
+|-----------|-------------|-------|
+| Head Height | $24.50$ cm | Perfect $1/8$ of total height |
+| Neck Height | $8.17$ cm | Classical ideal ($1/3$ of head height) |
+| Torso Length | $69.30$ cm | Shoulders to greater trochanter |
+| **Total Sitting Height** | $101.97$ cm | $52.03\%$ of total height |
+
+#### Proportion Inversion: Titan to Human Adaptation
+
+Godric's body exhibits a fascinating inversion of mass distribution that reflects his transformation from Titan to human form:
+
+##### Titan Form Mass Distribution
+
+- Primary power center: Lower body (thunder thighs, tail)
+- Secondary features: Upper limbs (relatively smaller arms)
+- Locomotive force: Generated from hips and tail
+- Combat approach: Full-body rotational movements
+
+##### Human Form Mass Distribution
+
+- Primary power center: Upper body (torso, shoulders, arms)
+- Enhanced feature: Arms (combat-optimized proportions)
+- Locomotive force: Balanced between upper and lower body
+- Combat approach: Precision strikes and manipulative control
+
+This inversion creates a 1.085:1 upper-to-lower body ratio that perfectly positions him between classical sculpture ideals (typically 1.05-1.1:1) and modern athletic builds, embodying his transition between ancient and modern worlds.
+
+The proportion inversion represents a profound evolutionary adaptation—his power center shifting from locomotive base to manipulative upper body, symbolizing his transformation from primordial destroyer to conscious protector.
+
+#### Primary Proportions and Measurements (General)
+
+##### Key Height Proportions
+
+| Measurement | Value | Notes |
+|-------------|-------|-------|
+| Total Height | $195.97$ cm ($77.15$ inches) | Base measurement |
+| Navel Height from Floor | $121.12$ cm ($47.68$ inches) | Perfect golden ratio division of height (height $\div \phi$) |
+| Head Height | $24.50$ cm ($9.65$ inches) | Perfect $1:8$ ratio to total height |
+| Neck Height | $8.17$ cm ($3.22$ inches) | Classical ideal ($1/3$ of head height) |
+| Torso Length | $69.30$ cm ($27.28$ inches) | Adjusted for perfect 1/√2 ratio with arm length |
+| Hip Joint to Crotch | $4.82$ cm ($1.90$ inches) | Distance from greater trochanter to crotch |
+| Inseam | $89.18$ cm ($35.11$ inches) | $45.5\%$ of height (classical proportion) |
+| Sitting Height | $101.97$ cm ($40.15$ inches) | Distance from sitting surface to top of head |
+| Shoulder Height from Floor | $159.77$ cm ($62.90$ inches) | Distance from ground to acromion process |
+
+##### Key Width Proportions
+
+| Measurement                 | Value                       | Notes                                                         |
+| --------------------------- | --------------------------- | ------------------------------------------------------------- |
+| Shoulder Width (biacromial) | $54.60$ cm ($21.50$ inches) | Straight-line distance between acromion processes             |
+| Waist Width                 | $33.75$ cm ($13.29$ inches) | Calculated to maintain exact $1.6178$ shoulder-to-waist ratio |
+| Hip Width (bi-iliac)        | $36.80$ cm ($14.49$ inches) | Straight-line width at widest point of pelvis                 |
+| Back Width                  | $58.90$ cm ($23.19$ inches) | **Titan Echo: Wider where dorsal fins were once attached**    |
+| Chest Width                 | $48.30$ cm ($19.02$ inches) | Straight-line width at widest point                           |
+| Head Width                  | $16.20$ cm ($6.38$ inches)  | Straight-line width at widest point                           |
+| Face Width                  | $13.63$ cm ($5.37$ inches)  | Calculated to maintain exact $1.6180$ height-to-width ratio   |
+| Neck Width                  | $14.00$ cm ($5.51$ inches)  | Straight-line width at mid-neck                               |
+| Wrist Width                 | $6.90$ cm ($2.72$ inches)   | Straight-line width across wrist bones                        |
+| Hand Width                  | $10.90$ cm ($4.29$ inches)  | Straight-line width at widest point of palm                   |
+| Foot Width                  | $12.20$ cm ($4.80$ inches)  | Straight-line width at widest point                           |
+
+##### Key Circumferences (Active Season)
+
+| Body Part | Relaxed | Flexed | Notes |
+|-----------|---------|--------|-------|
+| **Torso** |  |  |  |
+| Shoulder | $132.60$ cm ($52.20$ inches) | — | Measured around deltoids |
+| Chest | $119.40$ cm ($47.01$ inches) | $123.40$ cm ($48.58$ inches) | At nipple level |
+| Waist | $82.31$ cm ($32.40$ inches) | — | Calculated to maintain $1.6111$ chest-to-waist ratio |
+| Hip | $104.69$ cm ($41.22$ inches) | — | Perfect √φ ratio with waist |
+| Neck | $45.70$ cm ($18.00$ inches) | $47.20$ cm ($18.58$ inches) | At mid-neck |
+| **Arms** |  |  |  |
+| Upper Arm | $43.18$ cm ($17.00$ inches) | $45.77$ cm ($18.02$ inches) | Perfect 2/φ ratio with forearm |
+| Forearm | $34.93$ cm ($13.75$ inches) | $36.33$ cm ($14.30$ inches) | At widest point |
+| Wrist | $23.40$ cm ($9.21$ inches) | $23.90$ cm ($9.41$ inches) | **Titan Echo: Reinforced** |
+| **Legs** |  |  |  |
+| Upper Thigh | $66.00$ cm ($25.98$ inches) | $68.80$ cm ($27.09$ inches) | At gluteal fold |
+| Mid-Thigh | $61.70$ cm ($24.29$ inches) | $64.00$ cm ($25.20$ inches) | At mid-thigh |
+| Knee | $43.40$ cm ($17.09$ inches) | $44.70$ cm ($17.60$ inches) | At knee joint |
+| Calf | $43.20$ cm ($17.01$ inches) | $44.70$ cm ($17.60$ inches) | At widest point |
+| Ankle | $26.70$ cm ($10.51$ inches) | $27.20$ cm ($10.71$ inches) | **Titan Echo: Enhanced** |
+
+##### Key Circumferences (Dormant Season)
+
+| Body Part | Relaxed | Flexed | Notes |
+|-----------|---------|--------|-------|
+| **Torso** |  |  |  |
+| Shoulder | $136.40$ cm ($53.70$ inches) | — | Measured around deltoids |
+| Chest | $125.98$ cm ($49.60$ inches) | $129.79$ cm ($51.10$ inches) | At nipple level |
+| Waist | $89.66$ cm ($35.30$ inches) | — | At narrowest point |
+| Hip | $114.05$ cm ($44.90$ inches) | — | Perfect √φ ratio with waist |
+| Neck | $48.77$ cm ($19.20$ inches) | $50.29$ cm ($19.80$ inches) | At mid-neck |
+| **Arms** |  |  |  |
+| Upper Arm | $46.36$ cm ($18.25$ inches) | $48.77$ cm ($19.20$ inches) | Perfect 2/φ ratio with forearm |
+| Forearm | $37.49$ cm ($14.76$ inches) | $38.87$ cm ($15.30$ inches) | At widest point |
+| Wrist | $24.40$ cm ($9.61$ inches) | $24.90$ cm ($9.80$ inches) | **Titan Echo: Reinforced** |
+| **Legs** |  |  |  |
+| Upper Thigh | $71.63$ cm ($28.20$ inches) | $73.91$ cm ($29.10$ inches) | At gluteal fold |
+| Mid-Thigh | $67.10$ cm ($26.42$ inches) | $69.09$ cm ($27.20$ inches) | At mid-thigh |
+| Knee | $46.23$ cm ($18.20$ inches) | $47.24$ cm ($18.60$ inches) | At knee joint |
+| Calf | $45.97$ cm ($18.10$ inches) | $47.24$ cm ($18.60$ inches) | At widest point |
+| Ankle | $27.94$ cm ($11.00$ inches) | $28.45$ cm ($11.20$ inches) | **Titan Echo: Enhanced** |
+
+#### Evolutionary Adaptation: The Combat-Optimized Arm
+
+While Godric's skeletal structure adheres to golden ratio harmonies (0.01-0.47% deviation), his arm proportions represent a unique evolutionary adaptation to human form:
+
+##### The 2/φ Ratio
+
+The upper arm to forearm ratio of 1.2361:1 represents the perfect balance between:
+- Titanic heritage (preserved explosive power)
+- Human functionality (enhanced manipulative precision)
+- Combat optimization (ideal striking to grappling balance)
+
+This ratio creates arms that appear:
+- Powerful without being bulky
+- Functional without being disproportionate
+- Balanced between striking and grappling capabilities
+
+##### Historical and Ethnic Integration
+
+This 1.2361:1 ratio appears in:
+- Roman gladiatorial art
+- Nordic warrior depictions
+- Celtic heroic representations
+
+This perfectly aligns with his blended European heritage, creating a physical form that embodies the ideal warrior-king archetype across multiple cultural traditions.
+
+##### Transition Symbolism
+
+Rather than a deviation, this ratio symbolizes Godric's position at the threshold between Titan and human—a being whose form is actively adapting to new functionality while preserving ancient power.
+
+#### Detailed Measurements by Body Region
+
+##### Leg Measurements
+
+| Measurement                     | Value                       | Notes                                      |
+| ------------------------------- | --------------------------- | ------------------------------------------ |
+| Total Leg Length                | $94.00$ cm ($37.01$ inches) | $3 \times$ head height + $20.50$ cm        |
+| Hip Joint to Crotch             | $4.82$ cm ($1.90$ inches)   | Distance from greater trochanter to crotch |
+| Upper Leg Length (Below Crotch) | $35.18$ cm ($13.85$ inches) | Crotch to knee                             |
+| Lower Leg Length                | $35.80$ cm ($14.09$ inches) | Knee to ankle                              |
+| Ankle Height                    | $18.20$ cm ($7.17$ inches)  | Ankle to floor                             |
+| Foot Length                     | $31.80$ cm ($12.52$ inches) | Heel to toe (US size 14)                   |
+| Arch Height                     | $4.30$ cm ($1.69$ inches)   | Floor to highest point of arch             |
+| Heel Width                      | $7.40$ cm ($2.91$ inches)   | At widest point                            |
+| Foot Width                      | $12.20$ cm ($4.80$ inches)  | Straight-line width at widest point        |
+| Ankle Circumference             | $26.70$ cm ($10.51$ inches) | **Titan Echo: Enhanced**                   |
+| Knee Circumference              | $43.40$ cm ($17.09$ inches) | At knee joint                              |
+
+##### Arm Measurements
+
+| Measurement             | Value                       | Notes                                                            |
+| ----------------------- | --------------------------- | ---------------------------------------------------------------- |
+| Total Arm Length        | $98.00$ cm ($38.58$ inches) | Shoulder joint to fingertip; perfect 1:2 ratio with total height |
+| Upper Arm Length        | $40.61$ cm ($15.99$ inches) | Shoulder joint to elbow                                          |
+| Forearm Length          | $35.31$ cm ($13.90$ inches) | Elbow to wrist                                                   |
+| Hand Length             | $22.08$ cm ($8.69$ inches)  | Wrist to fingertip                                               |
+| Palm Length             | $12.08$ cm ($4.76$ inches)  | Wrist to base of fingers                                         |
+| Middle Finger Length    | $10.00$ cm ($3.94$ inches)  | Base to tip                                                      |
+| Thumb Length            | $8.40$ cm ($3.31$ inches)   | Base to tip                                                      |
+| Handspan                | $28.40$ cm ($11.18$ inches) | Thumb tip to pinky tip when spread                               |
+| Wrist Width             | $6.90$ cm ($2.72$ inches)   | Straight-line width across wrist bones                           |
+| Hand Width              | $10.90$ cm ($4.29$ inches)  | Straight-line width at widest point                              |
+| Wrist Circumference     | $23.40$ cm ($9.21$ inches)  | **Titan Echo: Reinforced**                                       |
+| Forearm Circumference   | $34.93$ cm ($13.75$ inches) | At widest point                                                  |
+| Upper Arm Circumference | $43.18$ cm ($17.00$ inches) | At bicep peak                                                    |
+
+##### Torso Measurements
+
+| Measurement | Value | Notes |
+|-------------|-------|-------|
+| Shoulder-to-Navel Length | $57.17$ cm ($22.51$ inches) | Acromion to navel |
+| Chest Depth | $26.70$ cm ($10.51$ inches) | **Titan Echo: Deeper for energy storage** |
+| Waist Depth | $22.10$ cm ($8.70$ inches) | Front to back at narrowest point |
+| Abdominal Wall Thickness | $8.10$ cm ($3.19$ inches) | **Titan Echo: Enhanced core protection** |
+| Neck Width | $14.00$ cm ($5.51$ inches) | Straight-line width at mid-neck |
+| Neck Circumference | $45.70$ cm ($18.00$ inches) | At mid-neck |
+| Shoulder Circumference | $132.60$ cm ($52.20$ inches) | Measured around deltoids |
+| Chest Circumference | $119.40$ cm ($47.01$ inches) | At nipple level |
+| Waist Circumference | $82.31$ cm ($32.40$ inches) | At narrowest point |
+| Hip Circumference | $104.69$ cm ($41.22$ inches) | At widest point |
+
+##### Facial Measurements
+
+| Measurement             | Value                       | Notes                                                                                  |
+| ----------------------- | --------------------------- | -------------------------------------------------------------------------------------- |
+| Head Circumference      | $62.20$ cm ($24.49$ inches) | Standard measurement                                                                   |
+| Face Height             | $22.05$ cm ($8.68$ inches)  | Hairline to chin                                                                       |
+| Face Width              | $13.63$ cm ($5.37$ inches)  | Calculated for perfect $1.6180$ height-to-width ratio                                  |
+| Head Width              | $16.20$ cm ($6.38$ inches)  | Straight-line width at widest point                                                    |
+| Eye Width (individual)  | $3.65$ cm ($1.44$ inches)   | Width of each eye from corner to corner                                                |
+| Biocular Width          | $9.13$ cm ($3.59$ inches)   | Total width across both eyes, exhibits inverse golden ratio to face width ($0.6180:1$) |
+| Interpupillary Distance | $6.35$ cm ($2.50$ inches)   | Positioned at the golden-section point between the eyes                                |
+| Eye Socket Depth        | $2.20$ cm ($0.87$ inches)   | **Titan Echo: Deep-set “hunter eyes”**                                                 |
+| Brow Ridge Prominence   | $0.85$ cm ($0.33$ inches)   | **Titan Echo: Pronounced protective structure**                                        |
+| Nose Length             | $5.21$ cm ($2.05$ inches)   | Perfect $\phi^2$ derivative ($0.2361$) of face height                                  |
+| Nose Width              | $3.22$ cm ($1.27$ inches)   | Perfect golden ratio to nose length                                                    |
+| Lip Width               | $5.21$ cm ($2.05$ inches)   | Perfect golden proportion ($0.3820$) of face width                                     |
+| Upper Lip Height        | $0.95$ cm ($0.37$ inches)   | Perfect Cupid's bow                                                                    |
+| Ear Height              | $6.50$ cm ($2.56$ inches)   | Aligned perfectly with golden section points                                           |
+| Ear Width               | $3.40$ cm ($1.34$ inches)   | Front to back                                                                          |
+| Jawline Length          | $22.05$ cm ($8.68$ inches)  | Ear to ear around chin                                                                 |
+| Chin Height             | $2.93$ cm ($1.15$ inches)   | Perfect $\phi^3$ derivative of face height                                             |
+| Forehead Height         | $7.35$ cm ($2.89$ inches)   | Exactly $1/3$ of face height                                                           |
+
+###### Hunter Eyes Characteristics
+
+Godric's eyes exhibit the classic “hunter eyes” structure found in apex predators:
+- **Deep-Set Positioning**: Eyes recessed within protective orbital cavities
+- **Minimal Upper Eyelid Exposure**: Creates focused, alert appearance at rest
+- **Pronounced Brow Ridge**: Provides both protection and shadowing effect
+- **Neutral Canthal Tilt**: Perfectly horizontal eye alignment conveying stability and focus
+- **Well-Defined Orbital Rim**: Sharp definition of eye socket structure
+- **Hooded Appearance**: Slight overlap of upper brow creating natural shielding
+
+These characteristics create his penetrating gaze that triggers instinctual recognition in humans while maintaining perfect mathematical harmony with his other facial features.
+
+#### Comparative Anatomical Analysis (with other Titans)
+
+##### Titan Spectrum Positioning
+
+| Titan       | Upper Arm                   | Forearm                     | Wrist                      | Position       | Combat Style        |
+| ----------- | --------------------------- | --------------------------- | -------------------------- | -------------- | ------------------- |
+| **Alexios** | $47.00$ cm ($18.50$ inches) | $38.10$ cm ($15.00$ inches) | $22.90$ cm ($9.00$ inches) | Ground Extreme | Defensive/Endurance |
+| **Godric**  | $43.18$ cm ($17.00$ inches) | $34.93$ cm ($13.75$ inches) | $23.40$ cm ($9.21$ inches) | Ground-Leaning | Balanced Power      |
+| **Kevin**   | $40.60$ cm ($16.00$ inches) | $33.00$ cm ($13.00$ inches) | $20.30$ cm ($8.00$ inches) | Air-Leaning    | Tactical Mobility   |
+| **Roman**   | $38.10$ cm ($15.00$ inches) | $30.50$ cm ($12.00$ inches) | $19.10$ cm ($7.50$ inches) | Air Extreme    | Speed/Agility       |
+
+#### Classical Artistic and Modern Visual References
+
+Godric's physique embodies proportions found in classical masterpieces while maintaining functional combat capability:
+
+##### Classical Influences
+
+- **Polykleitos' Doryphoros**: Similar balanced proportions but with stronger upper body
+- **Apollo Belvedere**: Similar facial perfection with more powerful physique
+- **Heracles of the Classical Period**: Similar strength suggestion without exaggeration
+	- **Hercules & Cacus**
+	- **Farnese Hercules**
+
+##### Modern Reference Points
+
+Visually, his physique evokes:
+- **Daniel Craig in “Casino Royale”**: Functional muscularity without excess
+- **Alexander Skarsgård in “The Northman”**: Rugged capability with classical proportions
+- **Henry Cavill in “Man of Steel”**: Powerful presence without bodybuilder aesthetics
+
+This perfectly captures “refined ruggedness” - equally at home as a museum sculpture or surviving alone in a wilderness, carrying authority without exaggeration.
+
+#### Face-to-Body Proportion Relationships
+
+Godric's face serves as the mathematical blueprint for his entire physique, with golden ratio relationships connecting facial features to body measurements:
+
+| Facial Feature                    | Body Part              | Ratio    | Mathematical Significance  |
+| --------------------------------- | ---------------------- | -------- | -------------------------- |
+| Face height (22.05 cm)            | Head height (24.50 cm) | 0.8998:1 | Nearly exact 9/10 (0.9)    |
+| Nose length (5.21 cm)             | Hand width (10.90 cm)  | 0.4780:1 | Very close to φ-1 (0.4721) |
+| Biocular width (9.13 cm)          | Foot width (12.20 cm)  | 0.7484:1 | Close to 3/4 (0.75)        |
+| Lip width (5.21 cm)               | Wrist width (6.90 cm)  | 0.7551:1 | Close to 3/4 (0.75)        |
+| Eye width (3.65 cm)               | Hand length (22.08 )   | 0.1654:1 | Close to 1/6 (0.1667)      |
+| Interpupillary distance (6.35 cm) | Neck width (14.00 cm)  | 0.4536:1 | Close to φ-1 (0.4721)      |
+
+The most significant golden ratio relationships between face and body include:
+
+1.  **Face Height to Upper Arm Length**:
+    -   Ratio: 22.05:40.61 = 0.5430:1
+    -   Mathematical equivalent: 1/(φ+1) = 0.5436
+    -   Deviation: 0.1103% (nearly perfect)
+2.  **Face Width to Waist Width**:
+    -   Ratio: 13.63:33.75 = 0.4039:1
+    -   Mathematical equivalent: 1/φ^2 = 0.3820
+    -   Deviation: 5.7330% (Titan Echo)
+3.  **Nose Length to Hand Length**:
+    -   Ratio: 5.21:22.08 = 0.2360:1
+    -   Mathematical equivalent: 1/φ^3 = 0.2361
+    -   Deviation: 0.0424% (nearly perfect)
+4.  **Lip Width to Shoulder Width**:
+    -   Ratio: 5.21:54.60 = 0.0954:1
+    -   Mathematical equivalent: 1/φ^4 = 0.0952
+    -   Deviation: 0.2100% (nearly perfect)
+
+These relationships follow the established Hierarchy of Visual Perfection, with visible features showing near-perfect alignment and core features showing deliberate “Titan Echo” deviations.
+
+#### Mathematical Essence and Character Embodiment
+
+##### Self-Referential Perfection
+
+The golden ratio ($\phi \approx 1.6180$) and its derivatives create a unique mathematical self-reference throughout Godric's body:
+- No matter how the golden ratio is divided or inverted, it always recreates forms of itself
+- His face achieves perfect $\phi$ harmony in all dimensions
+- His skeletal structure approaches perfect harmony (shoulder-to-waist width at $1.6178$)
+- His circumferences create deliberate deviations as “Titan Echoes” (chest-to-waist at $1.4506$)
+
+This mathematical recursion mirrors Godric's own timeless nature - the being who has ruled since the Permian period, always maintaining his core identity despite countless forms and challenges.
+
+##### European Ethnic Expression
+
+His 1.2361:1 upper arm to forearm ratio creates a perfect central point among his ethnic influences - Nordic strength, Greco-Roman precision, Celtic functionality, and Slavic robustness - without any single element dominating his harmonious appearance. This balanced representation reflects his role as a unifying force across disparate Titan factions.
+
+##### Seasonal Variation Meaning
+
+His active season (10-12% body fat) emphasizes mathematical harmony and vigilance, while his dormant season (15-18% body fat) reveals his authentic power and primal protective nature - paralleling how his gold eyes occasionally shine through his blue. This cyclical change represents the duality between his perfect guardian persona and his authentic mortal core.
+
+##### Mathematical Mortality
+
+The most profound aspect of Godric's proportions is how they embody both his near-perfection and his mortality:
+- His facial perfection ($0.0000\%$ deviation) represents his superhuman vigilance
+- His structural near-perfection ($0.0124\%$ deviation in shoulder-to-waist width) represents his approach to divinity
+- His core deviations ($10.3461\%$ in chest-to-waist ratio) echo his mortality and authentic power
+
+This perfectly complements his “golden eyes versus blue eyes” duality. His physiological pattern of perfect surface with authentic core mirrors how his authentic gold irises (mortality, vulnerability) occasionally peek through his perpetually vigilant blue (divine perfection).
+
+### Detailed Physical Features
+
+#### Eyes
 
 - **Faux Eye Color**: Light blue (default state)
 - **True Eye Color**: Gold
@@ -276,10 +676,11 @@ While a *Titanus gojira* constantly has atomic energy coursing through its veins
 
 His true gold eyes only reveal themselves when his guard is down, causing his energy to course regularly, or when he is emotionally authentic with people. Both scenarios happen so rarely that despite existing for a quarter of a billion years, his true eye color has only been seen by a handful of beings.
 
-### Skin
+*(Refer to Facial Measurements for “Hunter Eyes Characteristics”)*
+
+#### Skin
 
 From afar, his skin appears relatively normal: a young man's weathered skin brought about by constant outdoor work. From up close, an interesting phenomenon can be observed: his skin is paradoxically both perfect *and* weathered - neither damaged nor scarred, but textured by his perpetual exposure to the elements.
-
 - **Color**: Caucasian with slight tan
 	- The tan is caused by his constant exposure in the sun
 	- It fades when winter comes
@@ -297,10 +698,9 @@ From afar, his skin appears relatively normal: a young man's weathered skin brou
 		- Among *Titanus gojira*, markings of any kind are typically a result of an ineffective regenerative system, hence his avoidance of any kind of markings even in human form. Both his mind and his body reject such notions.
 - **Radiation Properties**: Passively emits low levels of radiation that sterilize the immediate area around him
 
-### Dental Features
+#### Dental Features
 
 His teeth appear entirely human at a glance.
-
 - **Appearance**: Perfectly aligned with conventional human dimensions
 - **Capabilities**:
 	- Regenerate if damaged
@@ -309,20 +709,19 @@ His teeth appear entirely human at a glance.
 			- He succeeded with minimal effort
 - **Maintenance**: Self-sterilizing due to his passive radiation
 
-### Scent
+#### Scent
 
-[Empty section in original document]
+*(This section was empty in the original document)*
 
-### Hair
+#### Hair
 
 It seems that the coloration of his hair correlates to the coloration of his dorsal fins, which is interesting as his scale color, dorsal fin color and true eye color were inherited from his mother. Each major faction of *T. gojira* has different colorations. For a typical Northerner like Godzilla's father Dagon, he has charcoal gray scale coloration, dorsal fins as white as snow, and eyes as blue as ice. Godric, and his mother, have scales and dorsal fins the color of night with golden eyes. Such traits within the*Titanus gojira* species are rare, comparable to a human redhead. The Antitheriomorphosis seemed to have translated his rare maternal traits into human hair and eye color.
 
-#### Head Hair
+##### Head Hair
 
-##### Physical Specifications
+###### Physical Specifications
 
-###### Basic Characteristics
-
+**Basic Characteristics**
 - **Color**: Pure obsidian black
 - **Texture**: Soft to touch yet slightly wavy
 	- Resistant to conventional cutting tools
@@ -331,8 +730,7 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 	- It plateaus just as quickly
 - **Tensile Strength**: Several times stronger than human hair
 
-###### Length Dimensions
-
+**Length Dimensions**
 - **Top**: 3–4 inches (7.6–10.2 cm)
 	- Fringe reaching just above eyebrows when pulled down
 - **Crown**: 2.5–3 inches (6.4–7.6 cm)
@@ -343,24 +741,20 @@ It seems that the coloration of his hair correlates to the coloration of his dor
 	- Taken at the nape
 - **Neckline**: Natural rounded shape following hairline
 
-###### Color Properties
-
+**Color Properties**
 - Pure obsidian black with subtle natural blue undertones in direct sunlight
 - Uniform coloration without variation from root to tip
 - Maintains perfect color retention without fading
-- Appears to absorb moonlight rather than reflect it
 
-##### Hair Management
+###### Hair Management
 
-###### Current Style
-
+**Current Style**
 - Medium-short scissor cut with natural taper
 - Achieves a loosely parted look through a backward sweep
 - Movement during physical activity may cause strands to fall across his forehead
 - If his fringe reaches eye-level, then it's time for a trim
 
-###### Maintenance Protocol
-
+**Maintenance Protocol**
 Godric's hair was initially done by barbers selected under a strict internal hiring process by decreed by Mark at Castle Bravo. Under this directive, every barber had to be drawn from within Monarch's own ranks. Either current personnel at Castle Bravo or stuff seconded from other outposts worldwide were chosen. Monarch's dedication to keeping the Antitheriomorphosized Titans' existence as a secret is the primary motivation for this measure. By employing only individuals who were already bound by Monarch's oath of secrecy, the organization avoided greater risks and expenses associated with contracting external barbers, swearing them to non-disclosure, and then terminating their service. In the optimal scenario, a barber would receive residence at Castle Bravo as Godric's personal stylist; in the worst, Monarch would have to attempt prolonged surveillance beyond ethical means to ensure no leaks of identity may occur. Ultimately, an even more secure and cost-effective solution presented itself in Nordson himself.
 
 In his relentless pursuit of self-sufficiency, Godric sought to master this act of hair management. As the Alpha Paramount, he felt compelled to conquer every facet of his life, and that includes this novel act of caring for uniquely mammalian features. Thus, he began silently, keenly, and rigorously observing throughout his first five appointments. By his second session, he already had absorbed enough information to theoretically execute his own haircut. Yet, as meticulous as he is, he opted to be patient and “gather more intel” before taking matters into his own hands. Godric's intense scrutiny during these sessions, his gaze snapping to follow every movement made, often deeply unnerved his barber, who not already had to content with unusually made scissors but deal with this man's gaze triggering every conceivable prey instinct in him. Moreover, Mark quietly fretted that the scissors-only configuration might deter qualified staff from volunteering; but then again, there's not much he can do if Godric's mere presence causes electronics, shielded or not, to be interfered. By the end of the first five appointments, Godric gave his barber a single praise, for a taciturn personality such was commendable, as their skill provided him with enough information to accelerate his learning curve. By his fifth and most recent session, Godric had attained complete proficiency. He could precisely replicate his existing style, refine it further, or adopt any new cut at will. Madison even observed that, given his extraordinary hand-eye coordination, Godric might have excelled as Castle Bravo's resident barber. This capability was, according to him, simply a hallmark of an excellent Titan. Though, this may just be a personal expression as much of a general ethos as Rodan and Bakunawa relish spending languid hours with stylists to chat or explore new looks. Godric's self-sufficiency in hair care seems to stem from both a personal imperative — just another realm to subdue and conquer.
@@ -373,20 +767,17 @@ In his relentless pursuit of self-sufficiency, Godric sought to master this act 
 	- His prior shoulder length look, which he tied back
 	- His buzz cut
 
-###### Future Considerations
-
+**Future Considerations**
 - Considering crew cut (marginally longer than buzz cut)
 - Eliminates falling strands during activity
 - No product use due to rapid degradation from radiation
 
-#### Facial Hair
+##### Facial Hair
 
-##### Growth Characteristics
+###### Growth Characteristics
 
-###### Timeline
-
+**Timeline**
 Godric's facial hair seems to be capable of transforming him from ranger to regent in a span of a day, exhibiting an accelerated development compared to human standard.
-
 - **Clean-Shaven**: N/A
 	- During mornings, his shaving routine reveals the classical museum specimen - marked by a perfect jawline, defined features
 - **12-Hour Stubble**: Shadow appears
@@ -399,41 +790,36 @@ Godric's facial hair seems to be capable of transforming him from ranger to rege
 	- Peak rugged allure - a virile man with regal bearing.
 	- **Terminal Length**: Approximately 4–5 inches if unrestricted
 
-###### Pattern Distribution
-
+**Pattern Distribution**
 - Exceptionally even coverage across cheeks, jawline, and neck
 - Perfect bilateral symmetry in growth pattern
 - Slightly denser along his jawline, creating natural definition
 - Demonstrates textbook “full” beard growth potential with zero patchiness
 - Covers entire lower facial region including neck with uniform density
 
-###### Texture & Character
-
+**Texture & Character**
 - Slightly coarser than head hair but maintains surprising softness
 - Each strand possesses same tensile strength as head hair
 - Grows perfectly straight with minimal curl
 - Maintains consistent directional growth without irregular patterns
 - Terminal length estimated at 4–5 inches if ever permitted to reach potential
 
-###### Color Properties
-
+**Color Properties**
 - Matches head hair's pure obsidian black coloration
 - Reveals natural blue undertones in direct sunlight
 - Appears slightly darker than head hair due to density differences
 
-##### Shaving Routine
+###### Shaving Routine
 
 Godric approaches facial hair removal with the same methodical precision he applies to all aspects of his territory management:
 
-###### Routine Frequency
-
+**Routine Frequency**
 - Daily during active season, typically performed at precisely 0600 hours
 - Completed in approximately 4–5 minutes through optimized movements
 - Zero deviation from this established routine except during dormant cycle
 - Immediately resumes upon first awakening regardless of beard length
 
-###### Methodology
-
+**Methodology**
 - Employs **traditional straight razor** exclusively
 	- Requires titanium-alloyed blade due to hair strength
 	- Replaces blade after exactly three uses
@@ -447,17 +833,15 @@ Godric approaches facial hair removal with the same methodical precision he appl
 	- Zero nicks or imperfections despite absence of visual guidance
 		- He has a trifold mirror in his bathroom in his quarters, but is fully capable of executing his routine without it
 
-###### Equipment Handling
-
+**Equipment Handling**
 - Maintains dedicated shaving implements separate from hair-cutting tools
 - Stores tools in precise arrangement in his quarters
 - Cleans equipment thoroughly after use
 - Replaces components should wear be visible and/or impeding on the tool's ability to do its job
 
-##### Dormant Period Exception
+###### Dormant Period Exception
 
 The only time Godric's facial hair becomes visible to others is during his dormant cycle, creating a rare phenomenon within Monarch and a dramatic transformation of his appearance.
-
 - **Growth Opportunity**:
 	- Extended sleep periods, ranging from days to weeks, allow uninterrupted facial hair development
 	- Results in beard growth reaching approximately 1.5–2 cm length
@@ -477,39 +861,33 @@ The only time Godric's facial hair becomes visible to others is during his dorma
 
 His bearded appearance creates a brief but memorable impression on personnel. Some staff member have even reportedly “adjusted schedules” to ensure attendance during these appearances.
 
-##### Psychological Aspects
+###### Psychological Aspects
 
-Godric's approach to facial hair reflects deeper aspects of his self-concept, leadership philosophy, and adaptation to human society.
+**Authority Projection**
 
-###### Authority Projection
-
-####### Observational Learning
-
+*Observational Learning*
 - Carefully studied Monarch personnel during initial adaptation period
 - Noted the prevalence of clean-shaven appearance among leadership figures, particularly in military personnel
 	- Observed military officers and some senior scientists eschew facial hair
 - Concluded that a clean-shaven appearance correlates with authority projection in human society
 - Incorporated observation in his personal presentation strategy
 
-####### Control Symbolism
-
+*Control Symbolism*
 - Clean-shaven appearance represents mastery over territory, including his own body
 - Deliberate rejection of facial hair as potential sign of wildness, despite his rugged nature seeping in from time to time
 - Precise management demonstrates his meticulous nature central to his identity
 - Brief bearded appearances serve as reminder that this is a conscious choice for him rather than a limitation
 
-###### Categorical Distinctions
+**Categorical Distinctions**
 
-####### NO Mustaches!
-
+*NO Mustaches!*
 - Rejects any and all suggestions for growing a mustache despite being shown that he will definitely look good with one
 	- Never discusses reasons for this position
 - Possibly because he might look even older
 - Rejects it purely aesthetic grounds
 - Demonstrates rare instance of personal preference over practical consideration
 
-####### Beards… Maybe?
-
+*Beards… Maybe?*
 - Shows more openness to full beards
 	- Has yet to actually maintain one during active periods
 	- Suggests less categorical rejection of this form
@@ -519,35 +897,31 @@ Godric's approach to facial hair reflects deeper aspects of his self-concept, le
 	- It brings out his more rugged nature
 	- Might one day reconsider, but not any time soon
 
-###### The Cover Identity Factor
+**The Cover Identity Factor**
 
-####### Age Perception Management
-
+*Age Perception Management*
 - Madison highlighted that facial hair makes him appear older than his documented age, which is 25
 	- His youthful and vigorous physical appearance lends credence to this age
 - Maintaining cover identity is critical to Monarch's “hiding in plain sight” strategy
 - Facial hair would create additional inconsistency with documented identity.
 	- An over exaggeration on his part
 
-####### Committing to the Bit
-
+*Committing to the Bit*
 - Shows devotion to complete adherence of cover identity
 - Considers Madison's “field trips” to other countries as reconnaissance operations requiring optimal disguise
 - Overcompensates on removing facial hair as part of his broader disguise strategy
 - Often described as “a bit much” by Madison, though she simultaneously appreciates the effort
 
-###### Maria's Misinterpretation
+**Maria's Misinterpretation**
 
-####### Critical Misreading
-
+*Critical Misreading*
 - Interpreted Maria's powerful reaction as distaste rather than attraction
 - Believes she “doesn't like it” based on her strategic avoidance behavior
 - Categorized her reactions as disapproval despite contrary indicators
 - Places **significant** weight on her perceived preference
 - Represents the **primary** motivation despite being completely incorrect
 
-####### Reinforcement Cycle
-
+*Reinforcement Cycle*
 - Her intensified reaction to bearded appearance reinforced his misinterpretation
 - Each dormant cycle strengthens his conviction through consistent pattern
 - Creates a self-perpetuating cycle of misunderstanding
@@ -564,134 +938,122 @@ Godric's approach to facial hair reflects deeper aspects of his self-concept, le
 		- He also doesn't want to think Maria is hiding something from him, he respects her too much
 		- He also trusts her too much that such a deep assessment is unneeded: what important thing could she possibly hiding from him that she wouldn't just say outright?
 
-#### Body Hair
+##### Body Hair
 
-##### Physical Characteristics
+###### Physical Characteristics
 
 Godric's body hair exhibits much of the same subtly distinctive properties as his facial and head hair; its distribution patterns enhance his rugged masculine aesthetic, serving as counter-weight to his more refined visage.
 
-###### Color & Texture
-
+**Color & Texture**
 - Pure obsidian black matching his head and facial hair
 - Slightly finer than his head hair, though still several times stronger than human body hair, maintaining the same unusual tensile strength as his other hair types
 - Demonstrates perfect bilateral symmetry in growth patterns
 
-###### Growth Rate
-
+**Growth Rate**
 - Accelerated compared to human standard, approximately 1.5x normal
 - Reaches plateau length after about 3-4 weeks of growth
 - Terminal length varies by body region
 - Seems to considerably slow down, *almost* to halt, unlike his head or facial hair, thus keeping it at a constant moderate amount.
 	- The natural growth cessation prevents extensive body coverage
 
-##### Distribution Patterns
+###### Distribution Patterns
 
-###### Chest Pattern: Pecto-sterno-infraclavicular
+**Chest Pattern: Pecto-sterno-infraclavicular**
 
-####### Primary Formation
-
+*Primary Formation*
 - Hair covers upper chest in the infraclavicular region, which is just below the collarbones
 - Extends across his pectoral muscles while maintaining sternal connection
 - Creates a faint “chest plate” appearance from afar that harkens one back to his Titan form's scaled armored chest
 - Naturally tapers toward the sides of his torso
 
-####### Armor Aesthetic
-
+*Armor Aesthetic*
 - Creates a natural protective “armor” appearance on his chest, but
 - Moderate cover suggests strength without excess
 - Distinctive without being overwhelming
 
-####### Symbolic Resonance
-
+*Symbolic Resonance*
 - Mirrors his armored Titan chest configuration
 - Creates a subtle bridge between his human appearance and true nature
 - Naturally balanced without appearing contrived
 
-####### Density Characteristics
-
+*Density Characteristics*
 - Moderately dense across all covered regions
 - Individual hairs visible but collectively create a defined pattern
 - Slightly thicker near his sternum and pectoral centers
 - Natural spacing prevents a matted appearance
 - Creates a visual depth and dimension to his chest
 
-###### Abdominal Pattern: Sagittal
+**Abdominal Pattern: Sagittal**
 
-####### Configuration
-
+*Configuration*
 - Single vertical line continuing from his chest pattern
 - Extends from lower chest through navel
 - Maintains consistent width of approximately 1.5 cm
 - Continues from below his navel, transitioning to his nether regions
 
-####### Aesthetic Impact
-
+*Aesthetic Impact*
 - Creates an unbroken vertical line enhancing how his height is perceived
 - Draws attention to his lean waist and defined abdomen
 - Enhances his masculine presence without completely obscuring his musculature
 - Functions as a visual continuation of his chest pattern
 
-###### Secondary Regions
+**Secondary Regions**
 
-####### Upper & Lower Arms
-
+*Upper & Lower Arms*
 - Moderate coverage with decreasing density toward wrists
 - More pronounced on forearms, though still within the realm of a modest amount
 - Creates a natural visual transition from his bare hands to his covered body
 - Follows his natural hair grain patterns
 
-####### Legs
-
+*Legs*
 - Moderate coverage on thighs decreasing toward his knees
 - Lower legs show a lighter but consistent hair presence
 - Natural tapering creates a balanced lower body aesthetic
 - More visible during certain activities or positions
 
-####### Underarm
-
+*Underarm*
 - Moderate presence of hair; standard human patterns maintained
 - Serves functional purposes of scent distribution
 - Never seen due to his propensity for wearing long-sleeved dress shirts
 	- His rigid posture and arm positioning would also hide them regardless even if he isn't wearing his typical attire
 
-####### Back
-
+*Back*
 - Minimal presence
 - Appears like a faint rug running across his back that is only visible up close
 	- Running a hand across his back would trigger the sensation of running a hand across a fine carpet
 - Represents one of his least hirsute areas
 
-##### Maintenance Protocol
+###### Maintenance Protocol
 
 Godric's initial attempt at comprehensive body grooming proved quite unsustainable. Originally, he did complete body shaving for the first two months that he was a human. However, he identified several issues with this configuration. First, he needed specialized titanium-alloyed blades, the same material that his straight razors for shaving were made. Second, he needed at least two blade replacements per full session. Third, the process demanded at least 45 minutes daily just to maintain, lest his hair grows back quickly. Thus, at the end of his second month, he concluded that it was a gigantic waste of time.
 
 His current approach now is to just maintain a completely natural state, with the exception of his hair. He has quickly accepted that his body hair is a territorial feature no different than the quality of dirt or stone on land. Moreover, he has also appreciates that his body actually self-regulates the growth , so he has no worry of becoming a hirsute. Thus, his focus shifted to areas, like his face, that required actual, and feasible, maintenance.
 
-##### Practical Limitations
+###### Practical Limitations
 
-###### Tool Resistance
-
+**Tool Resistance**
 - His body hair possesses the same cutting resistance as his head hair
 - Conventional human razors and clippers completely ineffective
 	- Electric clippers, even those that are shielded, are inconsistent, which is why he employs manual razors
 - Even his specialized razors experience accelerated wear and must be frequently replaced
 
-###### Growth Speed
-
+**Growth Speed**
 - His faster than human growth (1.5x) creates a continuous need for maintenance
 - Daily maintenance is necessary if he were to maintain a hairless state
 - His cost-benefit analysis heavily favors his natural state
 - His time can be better allocated to more meaningful territorial management
 
-##### Aesthetic Balance
+###### Aesthetic Balance
 
 Godric's body hair distribution creates an ideal masculine presentation. It is neither excessive nor sparse, achieving the perfect middle ground. Furthermore, it enhances his musculature without obscuring it while giving it more visual depth and dimensionality, maintaining his refined appearance despite his natural state. It represents the evolutionary optimization of masculine characteristics. The combination of his pecto-sternal-infraclavicular chest pattern with sagittal abdominal distribution creates what appears to be a “blueprint” of idealized masculine hair distribution — functional, attractive, and perfectly balanced.
 
-## Grooming and Maintenance
+## Habits and Presentation
+
+### Grooming and Maintenance
 
 Godric approaches personal grooming with the same meticulous attention he applies to all aspects of his “territory,” whether possessions, living space, or his own physical form. His routine reflects both practical considerations and his evolutionary advantages as Alpha Paramount.
 
-### Hair Grooming
+#### Hair Grooming
 
 - **Initial State**: First discovered in human form with long hair
 	- Maintained this length for about three months
@@ -707,7 +1069,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 		- Maria secretly found this charming
 	- Plans future maintenance cut to a few centimeters longer than buzz cut
 
-### Facial Hygiene
+#### Facial Hygiene
 
 - **Management**: Maintains a clean-shaven appearance
 	- Shaves regularly due to moderately rapid hair growth
@@ -726,7 +1088,7 @@ Godric approaches personal grooming with the same meticulous attention he applie
 		- For some reason the prior really wants to see him one. The answer is still no.
 		- He remains unaffected by Maria's subtle hints
 
-### Dental Hygiene
+#### Dental Hygiene
 
 - **Maintenance Challenges**: Traditional brushing methods proved to be impractical
 	- Resulted in destroyed toothbrushes
@@ -741,11 +1103,11 @@ Godric approaches personal grooming with the same meticulous attention he applie
 	- Visible steam effect is emitted in cold environments
 		- Is attempting to conceal this through improved energy modulation
 
-## Attire and Presentation
+### Attire and Presentation
 
-### Attire
+#### Attire
 
-#### Daily
+##### Daily
 
 - **Color Palette**: The following colors are ordered according to preference
 	1. Black
@@ -827,14 +1189,13 @@ Godric approaches personal grooming with the same meticulous attention he applie
 > *You can't be this dense.*
 > *I am more than a hundred kilograms., after all.*
 
-#### Formal Attire
+##### Formal Attire
 
 Godric has a modest collection of formal attire that he typically uses when he attends formal events involving Monarch.
 
 Because the Titans-turned-humans aren't revealed to the world, he doesn't appear as a distinguished guest but just as a background presence. He is sometimes accompanied by either Maria or Alexios, who do have some measure of appreciation for the formal atmosphere; the rest find no reason to participate. However, try as he might, Nordson still manages to find himself either attracting or intimidating people, often slowly finding himself at the center of any event without his knowing.
 
-##### Suits
-
+**Suits**
 - **Collection**: He possesses a modest number of 7 suits. Some were gifted to him and some were made by Mothra herself. All of them however, were modified by Mothra to integrate her silk.
 	- 4 single-breasted suits
 		- 2 black
@@ -858,14 +1219,12 @@ Because the Titans-turned-humans aren't revealed to the world, he doesn't appear
 | Double-Breasted | Black         | British  | Modern    | -                                                       |
 | Single-Breasted | Black         | British  | Tailored  | Used more frequently than the rest                      |
 
-#### Footwear
+##### Footwear
 
 Much like most things in his new human life, Godric's relationship with footwear has undergone a notable evolution, reflecting both his practical necessities and his adaptation to human form while maintaining his status.
 
-##### Phase I: Metal-Reinforced Combat Boots
-
+**Phase I: Metal-Reinforced Combat Boots**
 Godric will always prioritize function and familiarity, and this reflects in his choice of his first human footwear:
-
 - **Design**: Bespoke combat boots with extensive metal reinforcement
 	- Steel toe caps, plated soles, reinforced heels
 	- Metal shanks extending through the arch of his foot
@@ -883,17 +1242,14 @@ Godric will always prioritize function and familiarity, and this reflects in his
 > **Madison**: Aren't all those metal in his shoes uncomfortable?
 > **Dr. Stanton**: Honestly, I think he feels right at home. Besides, I'm one hundred percent sure the metal will break first before his feet does.
 
-##### Phase II: Metal Detection Problem
-
+**Phase II: Metal Detection Problem**
 Where people might be concerned over his comfort or mobility wearing these metal monstrosities, it's actually the implications of wearing metal shoes that raised concerns, which makes sense as these shoes are lightweight *for him* and his immense physical durability makes wearing them comfortable:
-
 - **Security Conflicts**: The amount of metal that his boots have triggered every security scanner
 	- Creates scenarios where it compromises the initiative to hide the human-form Titans true nature.
 	- Requires either elaborate explanations or general avoidance of standard human facilities
 	- Often results in Godric simply refusing to enter such locations
 
 While Godric himself would have been fine with this configuration, Madison will not accept his exclusion, whether self-inflicted or not. However, convincing him isn't the only challenging part:
-
 - **Limited Options**: Alternative footwear options proved to be either unsatisfactory or impractical
 	- Standard shoes lacked durability, breaking under his strength
 	- Less-reinforced options lacked both the lethality and the “impact sound” he craves
@@ -904,14 +1260,11 @@ In the end, he simply refused to get out of Castle Bravo rather than compromise.
 > **Madison**: So, that's it?! You'd rather just stay here and never visit the surface *ever* because you don't want to wear different shoes?!
 > **Godric**: Yes.
 
-##### Phase III: Scale-Silk Shoes
-
+**Phase III: Scale-Silk Shoes**
 Upon recovery of his shed scales, a new solution now presented itself. Naturally, his clothing would have been prioritized, but once his Titan Regalia was made, he directed all efforts to his footwear - partly because Madison kept nagging at him to join them in her “field trips” and partly because he wanted a way to get out on the surface whenever he wanted without people wondering why he has no footwear.
 
-###### Ceremonial Combat Boots
-
+*Ceremonial Combat Boots*
 Unlike his typical shoes, these are made *entirely* with his scales and Mothra's silk. His scales provide the base and the framework, while her silk ties everything together and adds to the reinforcement.
-
 - **Design**: Formal variant created to match his Titan Regalia
 	- Knee-high combat boots with a structured silhouette
 	- Subtle scale pattern that matches his frock coat and waistcoat
@@ -923,16 +1276,13 @@ Unlike his typical shoes, these are made *entirely* with his scales and Mothra's
 	- Despite its seemingly lightweight appearance, it retains and even exceeds the lethality his metal boots had.
 	- Perfectly balanced between regality and combat readiness
 
-###### Daily Combat Boots
-
+*Daily Combat Boots*
 Unlike his Titan Regalia, his daily shoes are made with a combination of highly durable conventional materials, his shed scales, and Mothra's silk. Once again, his scales provide the framework while Mothra's silk ties everything together. This combination allowed him to save enough scales for *two* variations for everyday use.
-
 - **Design**: Two variation for daily use
 	1. Standard ankle-height version for use in casual situations
 	2. Knee-high variant for extended field operations or combat
 
 Both are visually understated despite their exceptional capabilities. Thanks to his shed scales, it now contains no metal that can be detected but offers protection equal to his metal boots.
-
 - **Material Balance**: Strategic scale distribution provides:
 	- Maximum reinforcement at impact surfaces
 	- Flexibility at articulation points
@@ -943,8 +1293,7 @@ Both are visually understated despite their exceptional capabilities. Thanks to 
 “The Alpha Paramount provided surprisingly specific footwear requirements: must look simple, must allow for stealth, must create intimidating sound on command, and must be able to crush a car engine. Just your standard shoe criteria.”
 —Monarch equipment specialist
 
-##### Maintenance
-
+**Maintenance**
 Contrary to expectations, Godric demonstrates meticulous care for his footwear:
 - **Cleaning Routine**: Thorough, systematic maintenance after each use.
 	- Removes all debris with specialized brushes he and Maria made
@@ -961,20 +1310,17 @@ Contrary to expectations, Godric demonstrates meticulous care for his footwear:
 “Everyone expected the giant radioactive lizard to be careless with his possessions. Turns out, good territorial management translates to excellent maintenance habits. Though now with the self-repairing materials, it's almost unfair how easy his upkeep has become.”
 —Monarch staff observation
 
-##### Resource Allocation
-
+**Resource Allocation**
 The creation of these footwear options represented the final application of his recovered scales. The perfect distribution achieved across his regalia, formal attire, and footwear collection. If he wants more shoes, future scale acquisition is necessary for additional scale-silk applications.
 
-##### Symbolic Significance
-
+**Symbolic Significance**
 Godric's footwear evolution mirrors his broader adaptation to human form:
-
 - **Initial Phase**: Raw power and directness with limited adaptation
 - **Challenge Phase**: Confrontation with human world constraints
 - **Resolution Phase**: Integration of Titan nature with human functionality
 - **Ongoing Theme**: Maintaining identity and authority while adapting to new limitations
 
-#### Accessories
+##### Accessories
 
 - **Ties**: He *hates* wearing them, Maria and Madison have to painfully negotiate with him to wear them in required events, often having to strike unfair deals in the process.
 	- However, he does possess some and they are all solid-colored:
@@ -997,33 +1343,7 @@ Godric's footwear evolution mirrors his broader adaptation to human form:
 > *He needs something, literally anything, that makes him stand out as king of all the giant monsters. We can't have him going out in the same shirt he goes in daily while tossing a suit on top of it. He doesn't even want to explore more colors!*
 *You think his mere presence isn't enough to make a statement?*
 
-#### Personal Artifacts
-
-As for some of his personal artifacts:
-- A pocket watch from Ishiro's father Eiji Serizawa; nonfunctional, its hands are stuck due to the atomic bomb that destroyed Hiroshima
-	- It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
-	- Godric is debating on making it work again.
-- Several leather-bound notebooks that contained the personal thoughts, theories, and analyses of Ishiro and his father on Godzilla through the years.
-	- Eiji's notebooks were originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
-		- Ishiro gave his own notebooks to Mark just before he sacrificed himself.
-	- Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, sometimes wishing Ishiro was still alive for conversation.
-		- He found it funny; no one would have been more delighted to see him as a human.
-- Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
-- A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
-	- Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
-         - Godric did not respond, but the offer remains open.
-	- When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
-- A state-of-the-art and latest in model tablet. At least this one people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
-- A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
-- Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
-- Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
-
-> [!quote]
-> “Do we tell her it's inappropriate?”
-> “It looks like she's gazing at his… you know…”
-> “It's kinda cute; she thinks we don't notice.”
-
-#### Titan Regalia
+##### Titan Regalia
 
 This uniform is modeled after a typical three-piece suit, though modified to greatly enable combat.
 
@@ -1083,7 +1403,7 @@ For the trousers:
 > “Dad, you do realize that's not gonna stop them, right?”
 > “As long as I don't hear it, I don't care; but *please* Madison… please encourage people to have a little bit of shame and dignity”
 
-#### Scales and Silk
+##### Scales and Silk
 
 On a slightly unrelated tangent, the combination of Godzilla scales and hide and Mothra's silk provides a material that is nigh-indestructible while maintaining an almost comical lightness.
 
@@ -1096,42 +1416,112 @@ Monarch has attempted to synthesize it repeatedly to no avail; they got the dura
 > *Yeah, but we'd also be all dead if he didn't ,so…*
 > *Exactly.*
 
-### Clothing Philosophy and Presentation
+#### Clothing Philosophy and Presentation
 
 > [!important] Territory Management Through Appearance
 > “Proper clothing is a signal of proper territory management, which signals his status.”
 
 Godric's approach to clothing evolved from initial confusion to understanding it as status projection:
 
-#### The Evolution of Understanding
+##### The Evolution of Understanding
 
 - **Initial Disconnect**: Struggled to comprehend purpose of clothing given his invulnerability
 - **Madison's Insight**: Reframed clothing as visual representation of hierarchical position
 - **Current Philosophy**: Views clothing as extension of personal territory and status marker
 
-#### Armor Symbolism
+##### Armor Symbolism
 
 Despite requiring no physical protection, his clothing has evolved into genuine armor:
-
 - **Maria's Silk Integration**: All garments remade with divine moth silk
 - **Scale Reinforcement**: Key items infused with shed scales
 - **Durability Enhancement**: Combined materials create genuinely protective layer
 - **Regenerative Properties**: Silk-scale blend maintains integrity through self-repair
 - **Energy Compatibility**: Limited ability to channel atomic energy
 
-#### Material Preferences
+##### Material Preferences
 
 - **Pre-Silk Phase**: Struggled with conventional fabrics that deteriorated too quickly
 - **Denim Aversion**: Particularly dislikes this material
 - **Flexibility Requirement**: Prioritizes materials allowing combat mobility
 - **Current Preference**: Exclusively wears Maria's silk-based garments
 
-#### Modesty Standard
+##### Modesty Standard
 
 - **Coverage Prioritization**: Maintains full coverage in all public settings
 - **Species Values**: For *Titanus gojira*, maximum coverage signals superiority
 - **Practical Approach**: Long sleeves and full pants in all settings regardless of temperature
 - **Formal Preference**: Long-sleeved dress shirts, tactical pants, and proper shoes
+
+### Personal Organization
+
+It's not just for his footwear! His meticulousness for his property is universal! They expected his quarters at the underwater base Castle Bravo to look like a cavern with stuff tossed around.
+
+“You expected the quarters of the Titan who brought all the rest to heel for millions of years to look like a frat boy's dorm room?”
+
+Instead they found his clothes and accessories lined up in his wardrobe. He seemed to have planned his attire for the entire week. His bed is neatly made, though it's as plain as they expected.
+
+“It looks like one of those memes where they show a man's room and it's just a blanket on the floor with nothing else.”
+
+He does his own laundry, his own room cleaning, even the door of his room is spotless. He does the maintenance for all of them too. Madison once spotted him with several books in hand, all neatly piled up, with the one he's reading bookmarked.
+
+“A king is a king, apparently.”
+
+When asked, Godric simply said that he doesn't like his territory to look ugly.
+
+## Abilities and Biological Adaptations
+
+### Biological Advantages
+
+- **Thermal Regulation**: His elevated temperature allows him to be unaffected by the cold
+	- Hence why he requires little to no clothing in winter
+		- Though of course he attempts to cover this up to avoid suspicion
+- **Passive Sterilization**: Passive radiation emission naturally eliminates all bacteria and pathogens
+	- Renders traditional hygiene products unnecessary
+	- Maintains effortless pristine cleanliness
+- **Bathing Preferences**: Rarely requires bathes for hygienic purposes
+	- Prefers complete submersion when bathing for pleasure and recreation
+		- The only moment he will ever be unclothed
+			- Mark, anticipating this preference, initiated that he have a personal pool in Castle Bravo that only Godric himself can access.
+				- *Dad, this isn't necessary--*
+				- *You haven't heard what they whisper; it's for their own safety, not his.*
+		- In the dark of night, he will drop into the waters surrounding Castle Bravo to swim leisurely.
+			- *The Bermuda should be honored the King of the Monsters finds its waters pleasing.* - Madison Russell
+			- *That's a bit too dramatic, don't you think?* - Dr. Rick Stanton
+		- Stays submerged underwater for extended periods, alarming people who don't know who he is
+			- He can hold his breath for an extended amount of time
+				- Learning of ways to indefinitely remain submerged again.
+			- Waters he submerges in are treated as hazards, hence the secondary excuse of his private pool
+				- *What's the primary excuse then?*
+				- *Avoiding sexual harassment.*
+- **Product Usage**: Requires minimal toiletry
+	- Still uses basic products suggested by Madison, particularly when it concerns his hair
+	- Scents don't adhere to his skin
+	- Possesses a unique scent
+- **Radiation Cleansing**: When finding himself absolutely filthy, employs an elevated energy output
+	- Heats everything to the point of boiling in a short radius around him
+	- Lethal to non-Titans
+
+### Biohazard Considerations
+
+- **Bodily Fluids**: All of them are potentially harmful to humans
+	- Elevated temperature during his power use alone can cause damage!
+	- His radioactive emissions can vary with emotional and physical state
+	- Direct contact protocols were implemented
+- **Adaptation Phenomenon**: Certain humans can stand to be in his vicinity, though how this is possible eludes scientists.
+	- Monarch upper management shows reduced sensitivity to radioactive effects
+	- Long-term exposure seems to play a part in creating limited adaptation
+	- People are unsure whether this is Godzilla's improvements in modulation or an adaptive response in the humans he's commonly found with.
+		- Fuels people's delusional desires to be near him even more
+			- *You didn't have to mention that little factoid; now everyone's gonna try clamoring over him more!*
+		- Both theories are considered, though most lean heavily into Godric's improving control
+
+> [!quote]
+> “That is *so* cool!”
+> “Madison, it's not cool to be tagged for potential radioactive contaminat-”
+> “Am I gonna breathe atomic energy too?!”
+> “God help us all if that ever happened.”
+
+### Abilities
 
 ## Territories and Possessions
 
@@ -1158,21 +1548,31 @@ It is a slightly enlarged standard quarters with ocean-facing windows. As with m
 
 Despite not having full ownership of this space, Godric has established subtle territorial claims with within shared space. He has specific stations that others instinctively avoid, the ability to stand whenever he wants at the observation windows overlooking the sea, and some subtle environment markers recognizable only to his fellow Titans.
 
-### Personal Organization
+### Personal Artifacts
 
-It's not just for his footwear! His meticulousness for his property is universal! They expected his quarters at the underwater base Castle Bravo to look like a cavern with stuff tossed around.
+As for some of his personal artifacts:
+- A pocket watch from Ishiro's father Eiji Serizawa; nonfunctional, its hands are stuck due to the atomic bomb that destroyed Hiroshima
+	- It was entrusted in Mark's care before he delivered the nuclear warhead, in what would now be confirmed as Atlantis, to a Godzilla injured by the Oxygen Destroyer.
+	- Godric is debating on making it work again.
+- Several leather-bound notebooks that contained the personal thoughts, theories, and analyses of Ishiro and his father on Godzilla through the years.
+	- Eiji's notebooks were originally entrusted to Vivienne Graham, who then was passed down to Mark when she died.
+		- Ishiro gave his own notebooks to Mark just before he sacrificed himself.
+	- Godric sometimes reads them, musing on their thoughts on him. It's fun to read what the men who chased him for decades thought, sometimes wishing Ishiro was still alive for conversation.
+		- He found it funny; no one would have been more delighted to see him as a human.
+- Dagon's dorsal fin that Godzilla took from his skeletal remains when he finally saw it in late-2020. It remains in a special pendant that he wears. This fin would be the one he uses to represent the Northern faction of their species in the forging of his crown.
+- A state-of-the-art and latest model smartphone. Bought with Monarch's funds by Madison, it *should* have served as a way to contact Godric. But, he doesn't use it. In fact, most people don't even see him carry it. Whether or not it's because he doesn't know how to use it or he can't be bothered is a mystery. It's often in Madison's hands along with her personal phone.
+	- Dr. Stanton offered to have it sent to their science division to run on his atomic energy.
+         - Godric did not respond, but the offer remains open.
+	- When asked why she has it all the time, her excuse is that she's just setting up his apps and accounts despite the fact she can be seen gaming or taking photos of herself (*The cameras are amazing!*).
+- A state-of-the-art and latest in model tablet. At least this one people had seen him use. It's where people typically voice call with him. Though beyond that purpose, he doesn't use it. Once again, Madison is seen gaming on them or using it for her own musings.
+- A leather wallet. Plain, black, and empty. Monarch usually handles their finances.
+- Specialized IDs that are typically used to access facilities in Monarch. Every Titan has one that also documents what they are and what their status is. Godric doesn't need it though, who's gonna stop him? It's more of a pretense and formality.
+- Other governmental IDs. He has a collection of every essential in most countries. These usually populate his wallet if he sought to bring them, though Monarch just usually handles it for him as precaution to avoid being revealed. Mark surprisingly takes it seriously and Godric approves.
 
-“You expected the quarters of the Titan who brought all the rest to heel for millions of years to look like a frat boy's dorm room?”
-
-Instead they found his clothes and accessories lined up in his wardrobe. He seemed to have planned his attire for the entire week. His bed is neatly made, though it's as plain as they expected.
-
-“It looks like one of those memes where they show a man's room and it's just a blanket on the floor with nothing else.”
-
-He does his own laundry, his own room cleaning, even the door of his room is spotless. He does the maintenance for all of them too. Madison once spotted him with several books in hand, all neatly piled up, with the one he's reading bookmarked.
-
-“A king is a king, apparently.”
-
-When asked, Godric simply said that he doesn't like his territory to look ugly.
+> [!quote]
+> “Do we tell her it's inappropriate?”
+> “It looks like she's gazing at his… you know…”
+> “It's kinda cute; she thinks we don't notice.”
 
 ### Pickup Truck
 
@@ -1205,7 +1605,6 @@ He had sought to first explore the USA before moving on to Europe and Asia. He'd
 ### Road Presence
 
 His commanding presence extends beyond formal settings to everyday situations:
-
 - **Traffic Interactions**: Nearly zero incidents despite extensive travel
   - Other drivers instinctively maintain distance from his vehicle
   - A single glare sufficient to deter even the most aggressive motorists
@@ -1226,7 +1625,6 @@ While Godric's meticulous nature extends to most aspects of his existence, even 
 #### Atlantean Revenue Stream
 
 Godric maintains complete financial independence through a uniquely historical method:
-
 - **Artifact Recovery**: Personal retrieval of Atlantean treasures
   - Locations precisely remembered from time as the region's “ward”
   - Items dated between 12,000-14,000 years old
@@ -1252,7 +1650,6 @@ Godric maintains complete financial independence through a uniquely historical m
 #### Living Witness to Myth
 
 Godric's connection to Atlantis represents a profound historical significance:
-
 - **Historical Confirmation**: His first-hand knowledge verified what was considered mythical
   - Identified architectural details impossible to fabricate
   - Provided locations unknown to modern archaeology
@@ -1273,7 +1670,6 @@ Godric's connection to Atlantis represents a profound historical significance:
 #### Financial Management Approach
 
 Despite delegating administration, Godric maintains characteristic oversight:
-
 - **Delegation Parameters**: Clear boundaries for Monarch financial management
   - Handles fundamental paperwork and regulatory compliance
   - Manages investment portfolio according to specific guidelines
@@ -1290,7 +1686,6 @@ Despite delegating administration, Godric maintains characteristic oversight:
 #### Historical Perspective
 
 Godric's relationship with Atlantis reveals his unique temporal perspective:
-
 - **Guardian Memory**: Recalls details of civilizations long considered mythical
   - Remembers Atlantis as a ward within his territory
   - Observed their rise, achievements, and eventual fall
@@ -1328,7 +1723,6 @@ This creates a magnificent misinterpretation where he accurately detects all phy
 #### The Maria Exception
 
 The situation with Maria represents a unique blind spot:
-
 - **Sensory Barrier**: Her reflective scales block his usual physiological reading ability
 - **Deliberate Restraint**: His respect prevents him from attempting to penetrate this barrier
 - **Trust Assumption**: Believes deep assessment unnecessary due to their ancient bond
@@ -1370,7 +1764,13 @@ Godric's favorite way to cut down fat is swimming. He'll swim for miles, sometim
 
 The reasoning behind the cycle's dates is simple. His dormant periods coincide with less human activity and he wakes up just in time for holidays.
 
-# History
+## Relationships
+
+### Allies
+
+### Enemies
+
+## History
 
 ### Name History
 
@@ -1436,28 +1836,4 @@ The reasoning behind the cycle's dates is simple. His dormant periods coincide w
 				  - Madison also thought it sounded regal
 		  - Henceforth, he shall be known as Godric Nordson
 
-# Abilities
-
-# Relationships
-
-## Primary
-
-1. Maria/Mothra
-2. Alexios/Anguirus
-3. Roman/Rodan
-4. Kevin/Kong
-5. Madison Russell
-6. Mark Russell
-
-## Secondary
-
-1. The Cardinal Wardens
-2. The Intercardinal Wardens
-3. Monarch's Upper Management
-4. Outpost 54/Castle Bravo's Staff
-
-## Tertiary
-
-## Enemies
-
-# Role in the Story
+## Role in the Story
