@@ -246,9 +246,33 @@
               "icon": "lucide-file",
               "title": "Northern Gojira"
             }
+          },
+          {
+            "id": "c14646843a1be32f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plot Outline - Blue House at Maple Street"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -387,13 +411,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
+                "file": "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Northern Gojira"
+              "title": "Outline of Plot Outline - Blue House at Maple Street"
             }
           },
           {
@@ -447,10 +471,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e67faff3758be696",
+  "active": "c14646843a1be32f",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Unrefined/Northern Gojira.md",
+    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
     "Writing/Antitheriomorphosis/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md",
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
