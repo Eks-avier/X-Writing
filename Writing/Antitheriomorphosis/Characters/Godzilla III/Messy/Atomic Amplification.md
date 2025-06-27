@@ -704,7 +704,7 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 		3. These records would later form the foundation of what Monarch classified as “Titan Combat Theory.”
 	3. Most importantly, the technique established a precedent for future adaptation.
 		1. Having overcome the supposed limitations of his species, Godzilla proved that evolution remained possible.
-		2. This mindset would prove crucial during the Xillien Invasion, when further adaptation became necessary.
+		2. This mindset would prove crucial during the Xilien Invasion, when further adaptation became necessary.
 		3. The Atomic Amplification thus represented not just an achievement but a prototype for his continued evolution.
 4. As the technique reached its final form, its demonstration became a defining moment in Castle Bravo's history.
 	1. The formal presentation occurred before a select audience of Monarch's highest officials.
@@ -730,6 +730,6 @@ Atomic Amplification represents Godzilla's acceptance of the human body that he 
 		2. The application embraced human precision and adaptability.
 		3. The result was neither compromise nor limitation but synthesis and evolution.
 	3. This integration would soon be tested beyond anything Godzilla anticipated.
-		1. The impending Xillien Invasion would demand further evolution.
+		1. The impending Xilien Invasion would demand further evolution.
 		2. The emotional undercurrents with Anguirus would eventually require confrontation.
 		3. And the perfect balance achieved through Atomic Amplification would prove to be merely the foundation for even greater potential still waiting to be unlocked.
