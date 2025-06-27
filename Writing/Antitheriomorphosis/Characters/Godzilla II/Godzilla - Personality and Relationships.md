@@ -108,7 +108,7 @@ Rodan has successfully hidden his complex feelings toward Mothra from Godzilla's
 
 ### [[Battra, the Lord of the Mystic Arts|Battra]] (Rival, Uneasy Ally)
 
-Despite their philosophical clashes, Battra acknowledges Godzilla's strength and sees him as a force that cannot be ignored. Their confrontation during the [[Xillien Invasion]] pushed Godzilla to develop new abilities, particularly the Atomic Railgun. While observing Battra's perfect magical control, Godzilla gained insights into precision and efficiency that influenced his own energy manipulation.
+Despite their philosophical clashes, Battra acknowledges Godzilla's strength and sees him as a force that cannot be ignored. Their confrontation during the [[Xilien Invasion]] pushed Godzilla to develop new abilities, particularly the Atomic Railgun. While observing Battra's perfect magical control, Godzilla gained insights into precision and efficiency that influenced his own energy manipulation.
 
 Their relationship remains complex, with moments of genuine understanding punctuating their apparent antagonism—a reflection of their shared history as hatchlings exploring Earth together long before titles and responsibilities divided them.
 

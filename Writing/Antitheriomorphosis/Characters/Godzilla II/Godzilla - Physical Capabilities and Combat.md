@@ -294,4 +294,4 @@ This comprehensive approach represents a fighting system that adapts with each e
 - [[Godzilla - Biology and Physiology]]
 - [[Kong, King of the Hollow Earth]]
 - [[Anguirus, the Stalwart Vanguard]]
-- [[Xillien Invasion]]
+- [[Xilien Invasion]]

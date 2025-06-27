@@ -15,7 +15,7 @@
 - His circumvention of the Divine Covenant of the *Titanus msoura* was to exchange his ability to lay a Reincarnation Egg, having to share instead with his sister, in exchange for the ability to use magic
 - Allows him to be “defeated” multiple times while maintaining threat level
 
-### Major Battle Structure (New Detail)
+### Major Battle Structure (for the Titans' Side)
 
 1. **High Ranking Titans (Titan Wardens and Betas) vs. Battra**
    - Earth's transformed Titans face Battra together
@@ -41,6 +41,6 @@
 - Then shifts to Godzilla and Mothra vs. Battra and Gigan
 - Final confrontation: Godzilla and Mothra vs. Battra (after Gigan's defeat)
 - Battra loses his remaining three lives in this final confrontation
-- Humanity launches counter-attack against the main Xillien ship
-- Arc concludes with Burning Godzilla using an atomic laser/railgun to destroy the crashing Xillien mothership
+- Humanity launches counter-attack against the main Xilien ship
+- Arc concludes with Burning Godzilla using an Atomic Railgun to destroy the crashing Xilien mothership
 

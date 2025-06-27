@@ -18,7 +18,7 @@ File: Main Alternate Universe/Characters/Blaine Richmond Carter.md
 
 ## Overview
 
-Blaine Richmond Carter is a highly skilled Marine currently assigned to Monarch. He has extensive combat experience, having served in multiple deployments, including the [[Xillien Invasion]]. Originally from Texas, he grew up on a ranch with his family, including his six-year-old sister. His familiarity with Monarch's supernatural divisions has grown over time, particularly due to his interactions with the Sorcery Division.
+Blaine Richmond Carter is a highly skilled Marine currently assigned to Monarch. He has extensive combat experience, having served in multiple deployments, including the [[Xilien Invasion]]. Originally from Texas, he grew up on a ranch with his family, including his six-year-old sister. His familiarity with Monarch's supernatural divisions has grown over time, particularly due to his interactions with the Sorcery Division.
 
 Although initially skeptical of Psionic Division operatives, Blaine has adapted to working alongside them. His current mission involves investigating an illegal Titan breeding facility alongside [[Samuel Johns]], under the supervision of [[Battra, the Lord of the Mystic Arts]]. Despite his serious demeanor and direct approach, he shows patience with supernatural elements and concern for his mission partner's readiness.
 

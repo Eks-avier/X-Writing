@@ -1,6 +1,6 @@
 # Keep Charlie
 
-Keep Charlie (also known as “the Keep”) is a mystical educational facility housed within [[Castle Bravo]], established by [[Battra, the Lord of the Mystic Arts|Battra]] following the [[Xillien Invasion]]. It serves as Earth's first and only institution dedicated to teaching [[Sorcery]] and [[Psionic]] development.
+Keep Charlie (also known as “the Keep”) is a mystical educational facility housed within [[Castle Bravo]], established by [[Battra, the Lord of the Mystic Arts|Battra]] following the [[Xilien Invasion]]. It serves as Earth's first and only institution dedicated to teaching [[Sorcery]] and [[Psionic]] development.
 
 ## Overview
 

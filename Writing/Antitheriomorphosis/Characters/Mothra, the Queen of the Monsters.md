@@ -333,7 +333,7 @@ Following the [[Antitheriomorphosis]] that transformed Titans into human form, M
 > [!note] Major Events
 > - **[[Atlantean Golden Age Incident]]** - Execution of divine judgment against soul-manipulating sorcerers
 > - **[[Divine Mandate Against Sorcery]]** - Severed humanity's connection to [[Primus]] following the incident
-> - **[[Xillien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders
+> - **[[Xilien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders
 > - **[[Antitheriomorphosis]]** - Transformation into human form, creating unprecedented proximity with other Titans
 
 ## Personal Interests

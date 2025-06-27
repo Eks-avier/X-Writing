@@ -100,7 +100,7 @@ Though he largely isolates himself from humanity, his presence is felt whenever 
 > - **Ghidorah Conflict**: Exhausting battle that temporarily diminished his fighting spirit
 > - **[[Writing/Antitheriomorphosis/Antitheriomorphosis]]** - Transformation into human form, requiring adaptation to new limitations and possibilities
 > - **Kong Confrontation**: Pivotal battle that reignited his love for combat and began his fighting style evolution
-> - **[[Xillien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders, achieved “The Zone” state
+> - **[[Xilien Invasion]]** - Fought alongside Earth's defenders against Battra and alien invaders, achieved “The Zone” state
 > - **Convergence Operation**: Secured Ghidorah fragment from NeuroSync Technologies alongside Kong
 
 ## The Trinity Period

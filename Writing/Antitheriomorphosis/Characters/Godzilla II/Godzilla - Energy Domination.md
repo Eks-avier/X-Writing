@@ -105,7 +105,7 @@ This evolution from destructive rawness to refined precision mirrors Godzilla's 
 
 ## The Atomic Railgun
 
-A precision energy weapon developed after observing MONARCH technology and refined during the [[Xillien Invasion]]:
+A precision energy weapon developed after observing MONARCH technology and refined during the [[Xilien Invasion]]:
 
 ### Mechanics
 
@@ -199,4 +199,4 @@ This soul strength explains why, despite being unable to cast spells or manipula
 - [[Mothra, the Queen of the Monsters]]
 - [[Battra, the Lord of the Mystic Arts]]
 - [[Kong, King of the Hollow Earth]]
-- [[Xillien Invasion]]
+- [[Xilien Invasion]]
