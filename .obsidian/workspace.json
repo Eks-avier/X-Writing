@@ -270,9 +270,33 @@
               "icon": "lucide-file",
               "title": "Domination of Energy - Profile"
             }
+          },
+          {
+            "id": "9be967e2b18b2b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Lineage System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Lineage System"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -411,13 +435,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Lineage System.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domination of Energy - Profile"
+              "title": "Outline of The Lineage System"
             }
           },
           {
@@ -471,8 +495,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14646843a1be32f",
+  "active": "9be967e2b18b2b20",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
     "Writing/Antitheriomorphosis/Unrefined/Godzilla vs Battra .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
     "The Redemption of Ghidorah.md",
@@ -502,7 +527,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 7.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 6.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 4.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Notepad 3.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
