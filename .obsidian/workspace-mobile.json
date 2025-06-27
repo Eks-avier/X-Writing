@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
+                "file": "Spending.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot Outline - Blue House at Maple Street"
+              "title": "Spending"
+            }
+          },
+          {
+            "id": "c894745d267dbbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fundamental Forces Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Fundamental Forces Theory"
+            }
+          },
+          {
+            "id": "dd0612a38f21e596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Redemption of Ghidorah.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Redemption of Ghidorah"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +248,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
+            "file": "The Redemption of Ghidorah.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -225,8 +273,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6758371317d088c5",
+  "active": "dd0612a38f21e596",
   "lastOpenFiles": [
+    "The Fundamental Forces Theory.md",
+    "The Redemption of Ghidorah.md",
+    "Spending.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Untitled.md",
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+    "Writing/Antitheriomorphosis/Characters/Mothra/Refined Mothra Outline Outline.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 0.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Atomic Amplification.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Link Disconnected.md",
     "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Biollante Arc.md",
@@ -244,15 +301,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Power Hierarchy of the Titans.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Lineage System.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Origins of the Wardens.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized.md",
-    "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Unrefined/Domination of Energy - Profile.md",
-    "Writing/Antitheriomorphosis/Unrefined/Unrefined - Godzilla's Regalia.md",
-    "College/ITS112L-EM01-32.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",

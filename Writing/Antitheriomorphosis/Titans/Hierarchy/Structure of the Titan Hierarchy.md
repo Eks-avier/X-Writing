@@ -135,7 +135,7 @@ The hierarchical structure governing the surface world:
    - **Recognition Protocol:** Minimal formal requirements; showing respect to higher ranks
    - **Command Rights:** Authority only over local area and lesser creatures within it
 
-   a. **Palace Custodian** - Special position as lowest rank for intelligent Titans
+   a. **Palace Custodian** - Special position as lowest possible rank for intelligent Titans
       - Currently held by: Barb (the Turncoat Parasite/MUTO Queen)
       - **Description:** Caretaker of Monster Island Palace
       - **Significance:** Position represents both punishment and redemption
