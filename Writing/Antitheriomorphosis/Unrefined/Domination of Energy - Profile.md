@@ -155,7 +155,7 @@ Godzilla's second most fundamental ability after his limitless adaptability is h
 - **Physiological Impact**: Enhanced regeneration works alongside amplification to mitigate strain
 - **Efficiency Improvement**: Energy expenditure reduced through progressive refinement
 
-### Flash Step (Developing)
+### Flash Step / Atomic Stride (Developing)
 
 - **Concept**: Ultra-rapid movement between points
 - **Inspiration**: Human mobility patterns and efficiency
