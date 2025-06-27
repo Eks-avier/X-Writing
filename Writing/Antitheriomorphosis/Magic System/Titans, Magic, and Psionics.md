@@ -2,17 +2,11 @@
 
 ## The Divine Mandate Against Sorcery (DMAS)
 
-The Divine Mandate Against Sorcery was a cosmic decree issued by Mothra that fundamentally altered humanity's relationship with magic:
-
-- **Origin**: During the Golden Age of Atlantis, a human tribe discovered how to modify souls—both their own and others'—which was forbidden by cosmic law
-- **Divine Judgment**: Mothra, as the Divine Instance and filled with grief over her first human friends from the Eclipse civilization, annihilated the tribe completely
-- **The Mandate**: Mothra issued the DMAS, which disabled humanity's perception of Primus (the fifth fundamental force enabling magic) and turned humanity into “Null” beings
-- **Current Status**: Mothra no longer actively reinforces the DMAS, allowing only 10 young sorcerers to practice magic
 - **Theory**: Both Godzilla and Battra independently believe this is a test for Battra—if he can prove himself as a responsible teacher, Mothra may fully lift the Mandate
 
 ## Dual Supernatural Systems
 
-The world contains two distinct but complementary supernatural systems:
+The world appears to contain two distinct but complementary supernatural systems:
 
 ### Sorcery (Mystic Arts)
 

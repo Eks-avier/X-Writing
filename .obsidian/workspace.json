@@ -294,9 +294,57 @@
               "icon": "lucide-file",
               "title": "Plot Outline - Xilien Invasion Arc"
             }
+          },
+          {
+            "id": "af669afd9617baa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Psychic-Sorcery Interface"
+            }
+          },
+          {
+            "id": "3743ab41b5f57729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Titans, Magic, and Psionics"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -435,13 +483,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+                "file": "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Outline - Xilien Invasion Arc"
+              "title": "Outline of Titans, Magic, and Psionics"
             }
           },
           {
@@ -495,8 +543,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9be967e2b18b2b20",
+  "active": "3743ab41b5f57729",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
+    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
     "Writing/Antitheriomorphosis/Magic System/Xilien Invasion.md",
     "Writing/Antitheriomorphosis/The Divine Inheritance.md",
@@ -524,8 +574,6 @@
     "Writing/Antitheriomorphosis/Characters/The Psionic and Sorcery Divisions.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Refined Godzilla Profile Outline.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Ethnic Presentation.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Nordson - Facial Structure & Features.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Nordson - Dress Shirts.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
