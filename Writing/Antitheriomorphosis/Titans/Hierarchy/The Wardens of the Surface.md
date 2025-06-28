@@ -762,7 +762,7 @@ An unofficial hierarchy based on raw power exists alongside the formal structure
 
 1. Godzilla (immutably first)
 2. Mothra (immutably second)
-3. Battra (claimed third position after arrival)
+3. Battra (claimed third position after reincarnation post-Xilien Invasion)
 4. Scylla (source of Rodan's irritation)
 5. Rodan/Leviathan (fluctuating positions)
 
