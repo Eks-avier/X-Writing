@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,7 +340,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Structure of the Titan Hierarchy"
+              "title": "The Wardens of the Surface"
             }
           }
         ],
@@ -421,7 +421,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 440,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -482,13 +483,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
+                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structure of the Titan Hierarchy"
+              "title": "Outline of The Wardens of the Surface"
             }
           },
           {
@@ -544,6 +545,7 @@
   },
   "active": "3743ab41b5f57729",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
     "The Redemption of Ghidorah.md",
@@ -572,7 +574,6 @@
     "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Anatomical Reference - 6.md",
     "Writing/Antitheriomorphosis/Magic System/Rigorous Magic.md",
-    "Writing/Antitheriomorphosis/Magic System/Unrefined - Time Manipulation .md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Nordson - Dress Shirts.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
