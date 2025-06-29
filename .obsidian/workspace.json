@@ -342,9 +342,33 @@
               "icon": "lucide-file",
               "title": "The Wardens of the Surface"
             }
+          },
+          {
+            "id": "7670f0bd0a51e512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetic Field of Current.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Magnetic Field of Current"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -483,13 +507,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
+                "file": "Magnetic Field of Current.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reorganized + Anatomy"
+              "title": "Outline of Magnetic Field of Current"
             }
           },
           {
@@ -543,11 +567,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1eba6f9d65cc6ca",
+  "active": "7670f0bd0a51e512",
   "lastOpenFiles": [
+    "Magnetic Field of Current.md",
+    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
-    "Untitled.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
@@ -572,7 +597,6 @@
     "Writing/Antitheriomorphosis/Characters/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street/Plot Outline - Blue House at Maple Street.md",
     "Writing/Antitheriomorphosis/Unrefined/Titanus Gojira.md",
-    "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Nordson - Dress Shirts.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
