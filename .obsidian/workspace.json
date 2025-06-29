@@ -344,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -483,13 +483,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Wardens of the Surface"
+              "title": "Outline of Reorganized + Anatomy"
             }
           },
           {
@@ -543,10 +543,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3743ab41b5f57729",
+  "active": "d1eba6f9d65cc6ca",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
+    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
     "Untitled.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
