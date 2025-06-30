@@ -1,4 +1,4 @@
-# Godric Nordson's Dress Shirts: Complete Specifications
+# Nordson - Dress Shirts
 
 ## Philosophy and Approach
 

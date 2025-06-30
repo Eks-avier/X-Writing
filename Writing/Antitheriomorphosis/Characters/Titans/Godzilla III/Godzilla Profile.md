@@ -27,7 +27,7 @@ This section provides the fundamental identifying details and a high-level overv
     *   King of the Earth Defenders
     *   The Last Northerner / The Last Son of the North
     *   The Chief (by [[Rodan, the Lord of the Skies|Rodan]])
-    *   The Boss (typically by [[Roman]]/Castle Bravo Staff)
+    *   The Boss (typically by [[Rodan, the Lord of the Skies|Roman]]/Castle Bravo Staff)
 
 ### B. Foundational Information
 
@@ -36,14 +36,14 @@ This section provides the fundamental identifying details and a high-level overv
     *   This date marks his first resurgence in the modern era, as noted by Eiji Serizawa. It also serves as a meta-reference to the release date of the first *Godzilla* film in 1954.
 *   **Approximated True Age:** 250 million years old
 *   **Ethnicity (Human Form):** Northerner (Northern Faction)
-    *   His human appearance is a deliberate translation of his specific Titan lineage and traits, overlaid with a [[Godzilla, King of the Monsters#II B 2 Blended European Aesthetics: A Familiar Yet Unplaceable Enigma|blended European aesthetic]].
+    *   His human appearance is a deliberate translation of his specific Titan lineage and traits, overlaid with a [[#2. Human Aesthetic Framework The Northern Archetype, Idealized|blended European aesthetic]].
 *   **Magical Aptitude:** Null
     *   Incapable of perceiving or wielding magic.
 *   **Psionic Aptitude:** Non
     *   Incapable of perceiving or wielding psionics.
 *   **Living Status:** Alive
 *   **Marital Status:** Single
-    *   (Though his relationship with Maria is formalized and developing into marriage, as detailed in [[Godzilla, King of the Monsters#VII E 2 c The Romance Arc: The Slow Burn & The Blue House|Section VII.E.2.c]]).
+    *   (Though his relationship with Maria is formalized and developing into marriage, as detailed in [[#VII E 2 c The Romance Arc: The Slow Burn & The Blue House|Section VII.E.2.c]]).
 
 ### C. Core Physical Metrics (Human Form)
 

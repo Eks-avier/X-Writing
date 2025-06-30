@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rodan
+  - Roman
 ---
 
 # Rodan: The Lord of the Skies

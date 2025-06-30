@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3cfc255078ca26b0",
+            "id": "b19f189d81ee114c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nordson - Dress Shirts"
+              "title": "Godzilla Profile"
+            }
+          },
+          {
+            "id": "0cc3605cf0621e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rodan, the Lord of the Skies"
             }
           }
         ],
@@ -170,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Dagon Resurrection Arc.md"
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Plot Outline - Dagon Resurrection Arc"
+              "title": "File properties for Godzilla Profile"
             }
           },
           {
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godric Nordson - Physical Features.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godric Nordson - Physical Features"
+              "title": "Backlinks for Godzilla Profile"
             }
           },
           {
@@ -201,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Mothra, the Queen of the Monsters.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mothra, the Queen of the Monsters"
+              "title": "Outgoing links from Godzilla Profile"
             }
           },
           {
@@ -215,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nordson - Dress Shirts"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -254,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -275,8 +299,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cfc255078ca26b0",
+  "active": "b19f189d81ee114c",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Narrative and Thematic Implications of Hair.md",
@@ -288,7 +315,6 @@
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/OpusOrganized.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Ethnic Presentation (Gemini).md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Structure & Features.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/The King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
@@ -298,12 +324,10 @@
     "Notepad 3.md",
     "Spending.md",
     "_Archive/Anatomical Reference - 0.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "_Archive",
     "Writing/Antitheriomorphosis/Characters/Titans/Dagon, the Last Northern Patriarch.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/Antitheriomorphosis/Characters/Humans/Samuel Johns.md",
-    "Writing/Antitheriomorphosis/Characters/Humans/Suki Takao.md",
     "Writing/Antitheriomorphosis/Characters/Humans",
     "Writing/Antitheriomorphosis/Characters/Titans",
     "~syncthing~The Redemption of Ghidorah.md.tmp",
