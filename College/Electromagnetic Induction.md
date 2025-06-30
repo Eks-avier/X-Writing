@@ -14,10 +14,19 @@ $$
 $$
 EMF = -N \frac{\Delta \Phi}{\Delta t}
 $$
-Where $\phi$ is the angle between $B$ and the Normal force.
+Where $\phi$ is the angle between $B$ and the Normal Force to the surface
 
 ---
 
-$$
+- $A = 0.020$
+- $N = 50$
+- $\Phi_{o} = 0^{}$
+- $\Phi = 30$
+- $\Delta t = 0.10$
+- $B = 0.18$
 
-$$
+---
+
+- $B = 0.020$
+- $A = 120 \text{ cm}^2$
+- 
