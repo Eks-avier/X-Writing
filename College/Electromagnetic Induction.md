@@ -12,5 +12,12 @@ $$
 - Should the mag flux change for any reason, an emf is generated.
 
 $$
--N (\Delta)
+EMF = -N \frac{\Delta \Phi}{\Delta t}
+$$
+Where $\phi$ is the angle between $B$ and the Normal force.
+
+---
+
+$$
+
 $$
