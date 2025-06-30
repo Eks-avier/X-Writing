@@ -4,7 +4,7 @@ parent: "[[Titanus Gojira Species Profile]]"
 component_type: culture
 component_category: titan_culture
 related_entities:
-  - "[[Writing/Antitheriomorphosis/Characters/Godzilla II/Godzilla, the King of the Monsters]]"
+  - "[[Godzilla, the King of the Monsters]]"
   - "[[Dagon, the Last Northern Patriarch]]"
 faction: Northern
 territory: Northern Hemisphere
