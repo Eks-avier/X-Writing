@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Electromagnetic Induction.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -388,41 +388,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Electromagnetic Induction"
+              "title": "Godzilla Profile"
             }
           }
         ],
         "currentTab": 16
-      },
-      {
-        "id": "0eff2f11445d5612",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a590273b7c4ab24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Magnetic Field of Current.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Magnetic Field of Current"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -561,13 +531,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Electromagnetic Induction.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Electromagnetic Induction"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -623,8 +593,8 @@
   },
   "active": "df414f22b0cb742c",
   "lastOpenFiles": [
-    "College/Magnetic Field of Current.md",
     "College/Electromagnetic Induction.md",
+    "College/Magnetic Field of Current.md",
     "The Redemption of Ghidorah.md",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
