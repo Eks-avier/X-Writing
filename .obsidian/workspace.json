@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c664ef9b3f30e06a",
+            "id": "3cfc255078ca26b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nordson - Head Hair Profile"
-            }
-          },
-          {
-            "id": "4f68acfa789c90bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Hair Profile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nordson - Facial Hair Profile"
+              "title": "Nordson - Maria's Reactions to Godric's Hair"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,13 +214,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nordson - Head Hair Profile"
+              "title": "Outline"
             }
           },
           {
@@ -298,8 +273,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c664ef9b3f30e06a",
+  "active": "eb950f631250434f",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Narrative and Thematic Implications of Hair.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Psychological Significance of Hair.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Hair Grooming Journey.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Body Hair Profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Hair Profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/OpusOrganized.md",
@@ -321,14 +302,8 @@
     "Writing/Antitheriomorphosis/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/Antitheriomorphosis/Characters/Humans/Samuel Johns.md",
     "Writing/Antitheriomorphosis/Characters/Humans/Suki Takao.md",
-    "Writing/Antitheriomorphosis/Characters/Humans/Julia Simmons.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Kong, King of the Hollow Earth.md",
-    "Writing/Antitheriomorphosis/Characters/Humans/Monarch Personnel Roster.md",
     "Writing/Antitheriomorphosis/Characters/Humans",
     "Writing/Antitheriomorphosis/Characters/Titans",
-    "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
-    "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
     "~syncthing~The Redemption of Ghidorah.md.tmp",
     "~syncthing~The Fundamental Forces Theory.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Structure of the Titan Hierarchy.md.tmp",
@@ -346,6 +321,4 @@
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
-    "Main Alternate Universe/Untitled.canvas"
-  ]
-}
+    "Main Alternate Universe/Untitle
