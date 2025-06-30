@@ -17,6 +17,7 @@ This section provides the fundamental identifying details and a high-level overv
 *   **Species:** *Titanus gojira*
     *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Kratos]].
 *   **Lineage:** Ascendant / Superior
+*   **Sapience:** Sapient / Minded
 *   **Standing:** Alpha Paramount
     *   The supreme authority over all Titans, a position he has held for approximately 250 million years.
 *   **Subtitles:**
@@ -25,8 +26,8 @@ This section provides the fundamental identifying details and a high-level overv
     *   *Hakaishin* / *Hakaiō* (God of Destruction / King of Destruction)
     *   King of the Earth Defenders
     *   The Last Northerner / The Last Son of the North
-    *   The Chief (by Rodan/Roman)
-    *   The Boss (typically by Roman/Castle Bravo Staff)
+    *   The Chief (by [[Rodan, the Lord of the Skies|Rodan]])
+    *   The Boss (typically by [[Roman]]/Castle Bravo Staff)
 
 ### B. Foundational Information
 
@@ -36,7 +37,6 @@ This section provides the fundamental identifying details and a high-level overv
 *   **Approximated True Age:** 250 million years old
 *   **Ethnicity (Human Form):** Northerner (Northern Faction)
     *   His human appearance is a deliberate translation of his specific Titan lineage and traits, overlaid with a [[Godzilla, King of the Monsters#II B 2 Blended European Aesthetics: A Familiar Yet Unplaceable Enigma|blended European aesthetic]].
-*   **Sapience:** Minded / Sapient
 *   **Magical Aptitude:** Null
     *   Incapable of perceiving or wielding magic.
 *   **Psionic Aptitude:** Non
