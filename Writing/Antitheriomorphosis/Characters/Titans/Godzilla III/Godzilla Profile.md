@@ -43,11 +43,11 @@ This section provides the fundamental identifying details and a high-level overv
     *   Incapable of perceiving or wielding psionics.
 *   **Living Status:** Alive
 *   **Marital Status:** Single
-    *   (Though his relationship with Maria is formalized and developing into marriage, as detailed in [[#VII E 2 c The Romance Arc: The Slow Burn & The Blue House|Section VII.E.2.c]]).
+    *   (Though his relationship with Maria is formalized and developing into marriage, as detailed in [[#2. The Sun and Moon Cosmic Partnership & Denied Romance|Section VII.E.2.c]]).
 
 ### C. Core Physical Metrics (Human Form)
 
-For detailed breakdowns of these metrics and their proportions, refer to [[Godzilla, King of the Monsters#II D Anatomical Measurements and Proportional Analysis|Section II.D. Anatomical Measurements and Proportional Analysis]].
+For detailed breakdowns of these metrics and their proportions, refer to [[#D Anatomical Measurements and Proportional Analysis|Section II.D. Anatomical Measurements and Proportional Analysis]].
 
 *   **Height:** $195.97$ cm ($6 \text{ ft} \, 5.15 \text{ in}$)
 *   **Weight:**
@@ -115,7 +115,7 @@ Godric's movements are a physical expression of his stoic and regal nature.
 
 ### B. Ethnic Heritage and Visual Presentation
 
-Godric's human form is a meticulously crafted translation of his ancient Titan lineage, filtered through a lens of blended human aesthetics. It deliberately subverts the trope of a visibly monstrous transformation, instead opting for a subtle, more psychologically resonant approach. Following the core design philosophy of the [[ATM Titan-to-Human Design Philosophy|Antitheriomorphosis Universe]], his appearance is one of disarming, almost mathematical perfection—a “predator's disguise” that masks his true nature behind a veneer of conventional attractiveness. This visage is not arbitrary; it is a direct interpretation of his unique genetic heritage as a *Titanus gojira* of the Northern Faction, filtered through a composite of human aesthetic principles.
+Godric's human form is a meticulously crafted translation of his ancient Titan lineage, filtered through a lens of blended human aesthetics. It deliberately subverts the trope of a visibly monstrous transformation, instead opting for a subtle, more psychologically resonant approach. Following the [[ATM Titan-to-Human Design Philosophy||core design philosophy]]of the Antitheriomorphosis Universe, his appearance is one of disarming, almost mathematical perfection—a “predator's disguise” that masks his true nature behind a veneer of conventional attractiveness. This visage is not arbitrary; it is a direct interpretation of his unique genetic heritage as a *Titanus gojira* of the Northern Faction, filtered through a composite of human aesthetic principles.
 
 #### 1. Genetic Legacy: A Fusion of Titan Parents
 

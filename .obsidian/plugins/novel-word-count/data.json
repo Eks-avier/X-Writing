@@ -4519,11 +4519,12 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "Rodan"
+        "Rodan",
+        "Roman"
       ],
       "createdDate": 1743271055179,
-      "modifiedDate": 1751274240565,
-      "sizeInBytes": 12825,
+      "modifiedDate": 1751287651963,
+      "sizeInBytes": 12835,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.836666666666667,
@@ -4534,7 +4535,8 @@
       },
       "frontmatter": {
         "aliases": [
-          "Rodan"
+          "Rodan",
+          "Roman"
         ]
       }
     },
@@ -4876,20 +4878,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 23521,
+      "wordCount": 23506,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 78.40333333333334,
-      "characterCount": 187656,
-      "nonWhitespaceCharacterCount": 154237,
+      "pageCount": 78.35333333333334,
+      "characterCount": 187583,
+      "nonWhitespaceCharacterCount": 154179,
       "newlineCount": 1217,
-      "readingTimeInMinutes": 88.75849056603774,
+      "readingTimeInMinutes": 88.70188679245283,
       "linkCount": 351,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744649060573,
-      "modifiedDate": 1751274393050,
-      "sizeInBytes": 188515,
+      "modifiedDate": 1751287974811,
+      "sizeInBytes": 188442,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 78.40333333333334,
@@ -6280,6 +6282,33 @@
       "createdDate": 1751276369586,
       "modifiedDate": 1751276377187,
       "sizeInBytes": 21810,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/Antitheriomorphosis/ATM Titan-to-Human Design Philosophy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 653,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1766666666666667,
+      "characterCount": 5184,
+      "nonWhitespaceCharacterCount": 4437,
+      "newlineCount": 112,
+      "readingTimeInMinutes": 2.4641509433962265,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751288271374,
+      "modifiedDate": 1751288271645,
+      "sizeInBytes": 5188,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
