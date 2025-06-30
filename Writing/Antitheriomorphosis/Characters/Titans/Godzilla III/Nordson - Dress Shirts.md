@@ -151,9 +151,9 @@ Incorporation of Godric's shed scales into button construction, creating literal
 - **Laundry Schedule:** Every Friday regardless of visible need
 - **Process:** Effortless due to silk's stain-resistant properties
 - **Planning Ritual:** Pre-week outfit selection (typically one black, one white shirt)
-- **Ironing:** 
-	- Done every Friday after laundry. 
-	- Personal handling maintaining perfect presentation standards. 
+- **Ironing:**
+	- Done every Friday after laundry.
+	- Personal handling maintaining perfect presentation standards.
 
 ### Damage and Repair
 

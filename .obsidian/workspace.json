@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b9000d1f9dbc6f27",
+            "id": "c664ef9b3f30e06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Archive/Anatomical Reference - 0.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anatomical Reference - 0"
+              "title": "Nordson - Head Hair Profile"
+            }
+          },
+          {
+            "id": "4f68acfa789c90bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Hair Profile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nordson - Facial Hair Profile"
             }
           }
         ],
@@ -128,6 +152,26 @@
               "icon": "longform",
               "title": "Longform"
             }
+          },
+          {
+            "id": "43d8d4712b2c76cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0b5b9ef90b114671",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
@@ -194,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla Profile.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of Nordson - Head Hair Profile"
             }
           },
           {
@@ -233,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -254,8 +298,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "c664ef9b3f30e06a",
   "lastOpenFiles": [
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Hair Profile.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/OpusOrganized.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Ethnic Presentation (Gemini).md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Structure & Features.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/The King of the Monsters.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/Reorganized.md",
+    "_Archive/Godric Nordson - Physical Features.md",
+    "Notepad 3.md",
+    "Notepad 3.md",
+    "Spending.md",
+    "_Archive/Anatomical Reference - 0.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "_Archive",
     "Writing/Antitheriomorphosis/Characters/Titans/Dagon, the Last Northern Patriarch.md",
@@ -270,20 +329,6 @@
     "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Characters/Anguirus's Three Names.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/The Wardens of the Surface.md",
-    "College/Electromagnetic Induction.md",
-    "College/Magnetic Field of Current.md",
-    "The Redemption of Ghidorah.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
-    "Writing/Antitheriomorphosis/Magic System/Psychic-Sorcery Interface.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md",
-    "Writing/Antitheriomorphosis/Magic System/Titans, Magic, and Psionics.md",
-    "Writing/Antitheriomorphosis/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
-    "Writing/Antitheriomorphosis/Magic System/The Weakening of the Divine Mandate.md",
-    "Writing/Antitheriomorphosis/Magic System/Xilien Invasion.md",
-    "Writing/Antitheriomorphosis/The Divine Inheritance.md",
     "~syncthing~The Redemption of Ghidorah.md.tmp",
     "~syncthing~The Fundamental Forces Theory.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Structure of the Titan Hierarchy.md.tmp",
