@@ -251,8 +251,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "df414f22b0cb742c",

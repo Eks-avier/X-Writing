@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Redemption of Ghidorah.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Redemption of Ghidorah"
+              "title": "Godzilla Profile"
             }
           }
         ],
@@ -248,7 +248,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Redemption of Ghidorah.md",
+            "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -274,10 +274,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0612a38f21e596",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
-    "The Fundamental Forces Theory.md",
     "The Redemption of Ghidorah.md",
+    "The Fundamental Forces Theory.md",
     "Spending.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Untitled.md",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
