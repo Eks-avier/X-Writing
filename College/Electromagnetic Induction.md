@@ -5,5 +5,12 @@
 **Magnetic Flux**:
 - The number of magnetic field lines passing through a given closed surface.
 $$
-\phi_{B} = B \times A 
+\Phi_{B} = B \times A = BA\cos \phi \text{ Wb}
+$$
+**Faraday's Law**
+- Flux depends on orientation of surface with respect to B field, for a uniform magnetic field.
+- Should the mag flux change for any reason, an emf is generated.
+
+$$
+-N (\Delta)
 $$
