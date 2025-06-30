@@ -1,4 +1,4 @@
-# Ascendant Classification: The World-Changers
+# Ascendant Classification - The World-Changers
 
 ## The Existential Impact Threshold
 

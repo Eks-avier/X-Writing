@@ -197,7 +197,7 @@ At a distance, his skin appears normal, perhaps weathered by a life lived outdoo
 *   **b. Tactile Sensation and Appearance:** His skin is always warm to the touch, firm, and resistant to pressure. It is completely devoid of any blemishes, birthmarks, or scars, despite millions of years of combat.
 
  > [!note]
- > The biological properties of his skin, such as its inability to be tattooed and its passive sterilizing radiation, are detailed in [[#III. Core Biology and Species Abilities]].
+ > The biological properties of his skin, such as its inability to be tattooed and its passive sterilizing radiation, are detailed in [[#III. Core Biology and Species Abilities|Core Biology and Species]].
 
 #### 4. Hair
 
@@ -215,7 +215,7 @@ The Antitheriomorphosis translated his Titan characteristics into a full head of
 At a glance, his teeth appear entirely human, a perfect, brilliant white set. They are flawlessly aligned and proportional.
 
 > [!note]
-> Their unique capabilities, including their extreme bite force and self-sterilizing, regenerative nature, are detailed in [[#III. Core Biology and Species Abilities]].
+> Their unique capabilities, including their extreme bite force and self-sterilizing, regenerative nature, are detailed in [[#III. Core Biology and Species Abilities|Core Biology and Species]].
 
 #### 6. Unique Scent Profile
 
@@ -226,7 +226,7 @@ Godric possesses a unique scent profile that is impossible to replicate and dist
     *   **Ozone:** A subtle, sharp undertone of ozone, like the clean air after a lightning strike, is often present, especially after he uses his powers.
 
  > [!note]  
- > The complex biochemical foundation of his scent is explored in [[#III. Core Biology and Species Abilities]].
+ > The complex biochemical foundation of his scent is explored in [[#III. Core Biology and Species Abilities|Core Biology and Species]].
 
 #### 7. Titan Echoes in Human Form (Anatomical Summary)
 
@@ -398,7 +398,7 @@ This period reflects a more relaxed, primal state, where he allows his body to b
 *   **Human Perception:** He appears more approachable, yet radiates a different kind of raw power.
 
 > [!note] The Winter Awakening
-> The winter of 2020 marked a pivotal moment when [[Mothra, the Queen of the Monsters|Maria's]] attraction to Godric first consciously awakened. His dormant appearance—a larger frame, softer features, and a stubbled face, with his clothes straining slightly against his increased bulk—presented a more rugged, primal masculinity that contrasted with his typically precise form. This specific appearance is what she found herself powerfully drawn to, a fact Godric remains completely oblivious to. (The full psychological and relational impact of this is detailed in [[Godzilla, King of the Monsters#VI Psychology and Relationships|Psychology and Relationships]]).
+> The winter of 2020 marked a pivotal moment when [[Mothra, the Queen of the Monsters|Maria's]] attraction to Godric first consciously awakened. His dormant appearance—a larger frame, softer features, and a stubbled face, with his clothes straining slightly against his increased bulk—presented a more rugged, primal masculinity that contrasted with his typically precise form. This specific appearance is what she found herself powerfully drawn to, a fact Godric remains completely oblivious to. (The full psychological and relational impact of this is detailed in [[#VI Psychology and Relationships|Psychology and Relationships]]).
 >
 
 ## III. Core Biology and Species Abilities
@@ -407,13 +407,13 @@ This section delves into the intrinsic nature of Godric's being, exploring the b
 
 ### A. The *Titanus gojira* Lineage: From Emergent to Ascendant
 
-The story of the *Titanus gojira* is one of unprecedented evolution, a testament to how cosmic intervention can elevate an unremarkable lineage to the pinnacle of planetary power. Their journey from primordial obscurity to an [[Ascendant Classification: The World-Changers|Ascendant Lineage]] is intrinsically linked to a single, cataclysmic event: the arrival of the Fallen Star.
+The story of the *Titanus gojira* is one of unprecedented evolution, a testament to how cosmic intervention can elevate an unremarkable lineage to the pinnacle of planetary power. Their journey from primordial obscurity to an [[Ascendant Classification - The World-Changers|Ascendant Lineage]] is intrinsically linked to a single, cataclysmic event: the arrival of the Fallen Star.
 
 #### 1. Proto-Gojira: The Unremarkable Ancestors
 
 Prior to their meteoric rise, the ancient ancestors of the *Titanus gojira* were simply large, saurian species, akin to overgrown cousins of the Tyrannosaurus Rex but inhabiting the Late Permian period. As far as the broader [[Structure of the Titan Hierarchy#Dual Classification System|Titan Hierarchy]] was concerned, these proto-gojira were unequivocally [[The Lineage System#Emergent Characteristics|Emergent]]: unremarkable, unexceptional, and largely ignored.
 
-They coexisted with already established [[Ascendant Classification#*Titanus mosura*: Divine Authority|Ascendant]] species like *[[Mothra, the Queen of the Monsters|Titanus mosura]]* and *Titanus shinomura*, yet displayed no hint of the extraordinary power that would one day define their descendants. Their only distinguishing trait was a persistent, almost coincidental ability to adapt and survive in diverse environments, a quality often dismissed as mere luck by other Titan species.
+They coexisted with already established [[Ascendant Classification - The World-Changers#*Titanus mosura*: Divine Authority|Ascendant]] species like *[[Mothra, the Queen of the Monsters|Titanus mosura]]* and *Titanus shinomura*, yet displayed no hint of the extraordinary power that would one day define their descendants. Their only distinguishing trait was a persistent, almost coincidental ability to adapt and survive in diverse environments, a quality often dismissed as mere luck by other Titan species.
 
 #### 2. The Fallen Star: The Catalyst for Ascension
 
@@ -421,10 +421,10 @@ The trajectory of the proto-gojira species, and indeed of Earth itself, irrevoca
 
 Yet, the proto-gojira, perhaps ignorant or simply unaffected by its dangerous emanations, were drawn to it with an almost innocent curiosity. Day after day, they returned to the impact site, prodding the mysterious rock with their snouts, touching its surface. They began to sense a profound shift within themselves.
 
-The moment of transformation arrived when a single proto-gojira, threatened by a predator, instinctively expulsed a stream of blue fire to defend its young. This act of spontaneous, unprecedented energy projection signaled the dawn of a new era. Overnight, the proto-gojira species was collectively elevated to an [[Ascendant Classification#Planetary-Scale Impact Examples|Ascendant Lineage]], gifted with [[Godzilla, King of the Monsters#III B 2 Kratos: The Power of Dominance|Kratos]], the power of dominance over physical forces and energy. This swift ascension from unremarkable Emergent status to undisputed Ascendant power was an unprecedented event in Titan history.
+The moment of transformation arrived when a single proto-gojira, threatened by a predator, instinctively expulsed a stream of blue fire to defend its young. This act of spontaneous, unprecedented energy projection signaled the dawn of a new era. Overnight, the proto-gojira species was collectively elevated to an [[Ascendant Classification - The World-Changers#Planetary-Scale Impact Examples|Ascendant Lineage]], gifted with [[# 2. Kratos: The Power of Dominance|Kratos]], the power of dominance over physical forces and energy. This swift ascension from unremarkable Emergent status to undisputed Ascendant power was an unprecedented event in Titan history.
 
 > [!info] Biological Sovereignty & Evolutionary Primacy
-> This newfound [[Titanus Gojira#Ascendant Line Status|biological sovereignty]] propelled them above the constant political maneuvering of the [[Structure of the Titan Hierarchy#Standing System (Personal Achievement)|Standing Hierarchy]]. No Titan, not even previous [[Structure of the Titan Hierarchy#Alpha Tier (Transcends Realms)|Alpha Paramounts]], dared to presume dominance over the newly empowered *Titanus gojira*. While they respected the hierarchy, they largely refused to participate extensively, their very presence commanding [[Titanus Gojira#Species-Centric Worldview|indifference]] that acted as an unspoken law. This [[Ascendant Classification#The Existential Impact Threshold|evolutionary primacy]], coupled with their immediate planetary impact, cemented their Ascendant status.
+> This newfound [[Titanus Gojira#Ascendant Line Status|biological sovereignty]] propelled them above the constant political maneuvering of the [[Structure of the Titan Hierarchy#Standing System (Personal Achievement)|Standing Hierarchy]]. No Titan, not even previous [[Structure of the Titan Hierarchy#Alpha Tier (Transcends Realms)|Alpha Paramounts]], dared to presume dominance over the newly empowered *Titanus gojira*. While they respected the hierarchy, they largely refused to participate extensively, their very presence commanding [[Titanus Gojira#Species-Centric Worldview|indifference]] that acted as an unspoken law. This [[Ascendant Classification - The World-Changers#The Existential Impact Threshold|evolutionary primacy]], coupled with their immediate planetary impact, cemented their Ascendant status.
 
 #### 3. The Gifts of the Fallen Star: Biological Immortality & Specialized Death
 
@@ -436,8 +436,6 @@ The transformation gifted by the Fallen Star reshaped every facet of the *Titanu
 *   **Death in Battle (Rare):** Though incredibly rare and almost unheard of for the species at their height, should a Gojira die in combat, their remains would also be presented to the Fallen Star for absorption.
 
 > [!quote] “From Energy, To Energy”
-> “Where humans have 'dust to dust', the gojira have: 'from energy, to energy'.”
->
 > —Ancient Gojira Proverb
 
 These three paths, primarily voluntary, became central to their broader cultural and spiritual practices. The site of the Fallen Star, hidden and sacred, became the equivalent of a [[Japanese cultural attire#The Cultural Bridge Philosophy|Mecca]] for all Gojira factions, a place of pilgrimage and profound reverence, believed by some to be intimately connected to the [[Northern Gojira#The Directive of Heaven|Directive of Heaven]].
@@ -462,7 +460,7 @@ The foundational ability of the *Titanus gojira* lineage, Limitless Adaptation, 
 
 *   **Mechanism of Response:** This involves sophisticated cellular reprogramming, allowing individual cells to alter their function and structure; tissue transmutation, enabling organs to develop new capabilities; and remarkable neural plasticity, which reconfigures brain structures for rapid learning and sensory integration. Their metabolic flexibility allows them to process diverse energy sources, and their regenerative processes actively incorporate adaptive changes, ensuring they return stronger and more resistant to similar damage.
 *   **Challenge-Driven Evolution:** Exposure to damage or threats paradoxically accelerates these adaptive processes. The greater the challenge, the more profound the adaptation, creating a species that fundamentally benefits from adversity. These adaptive changes can even be passed to offspring, effectively creating a form of directed evolution within family lines.
-*   **Godzilla's Pinnacle:** In Godzilla, this ability has reached an unprecedented refinement through millions of years of continuous, solitary adaptation to countless threats. His extreme longevity—surpassing his entire species' existence—has allowed his inherent adaptive capability to express itself to a degree his ancestors never achieved. His [[Godzilla, King of the Monsters#II C 6 Unique Scent Profile|refined senses]] are a prime example of this continuous, challenge-driven sensory evolution.
+*   **Godzilla's Pinnacle:** In Godzilla, this ability has reached an unprecedented refinement through millions of years of continuous, solitary adaptation to countless threats. His extreme longevity—surpassing his entire species' existence—has allowed his inherent adaptive capability to express itself to a degree his ancestors never achieved. His [[#II C 6 Unique Scent Profile|refined senses]] are a prime example of this continuous, challenge-driven sensory evolution.
 
 #### 2. Kratos: The Power of Dominance
 
