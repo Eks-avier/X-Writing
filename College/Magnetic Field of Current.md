@@ -27,5 +27,5 @@ $$
 B = \frac{\mu_{o}IN}{l}
 $$
 Where:
-- $l$ is the unit length.
-- $N$ is the number of turns.
+- $l$ is the unit **length**.
+- $N$ is the number of **turns**.
