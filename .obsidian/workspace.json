@@ -39,7 +39,7 @@
               "state": {
                 "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -57,6 +57,36 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d318a0a5a3b90c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c562d7ad8418fcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Godzilla Profile"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,7 +280,8 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "df414f22b0cb742c",
