@@ -6315,24 +6315,24 @@
         "newlineCount": 0
       }
     },
-    "Magnetic Field of Current.md": {
+    "College/Magnetic Field of Current.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 56,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 384,
-      "nonWhitespaceCharacterCount": 314,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.21132075471698114,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 579,
+      "nonWhitespaceCharacterCount": 469,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 0.32075471698113206,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1751241038024,
-      "modifiedDate": 1751241465827,
-      "sizeInBytes": 384,
+      "modifiedDate": 1751241817355,
+      "sizeInBytes": 579,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
