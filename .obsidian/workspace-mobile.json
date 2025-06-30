@@ -83,24 +83,10 @@
             "id": "dd0612a38f21e596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/Godzilla Profile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Godzilla Profile"
+              "title": "New tab"
             }
           }
         ],
@@ -274,7 +260,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45b8115e733d08c",
+  "active": "dd0612a38f21e596",
   "lastOpenFiles": [
     "The Redemption of Ghidorah.md",
     "The Fundamental Forces Theory.md",
