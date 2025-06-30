@@ -54,30 +54,6 @@
               "icon": "lucide-file",
               "title": "Godzilla Profile"
             }
-          },
-          {
-            "id": "0cc3605cf0621e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rodan, the Lord of the Skies"
-            }
           }
         ],
         "currentTab": 2
@@ -177,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493,
-    "collapsed": true
+    "width": 431
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -300,11 +275,18 @@
   },
   "active": "b19f189d81ee114c",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/ATM Titan-to-Human Design Philosophy.md",
-    "Writing/Antitheriomorphosis/atmgoji_design_concept.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/ATM Titan-to-Human Design Philosophy.md",
+    "Writing/Antitheriomorphosis/ATMGoji Design Concept Reference.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
+    "Writing/Antitheriomorphosis/Creation Instructions/The Uncanny Perfection.md",
+    "Writing/Antitheriomorphosis/beta-tier-document.md",
+    "Notepad.md",
+    "Writing/Antitheriomorphosis/The Uncanny Perfection.md",
+    "Writing/Antitheriomorphosis/sovereign-title-history.md",
+    "Writing/Antitheriomorphosis/consolidated-titan-hierarchy.md",
+    "Writing/Antitheriomorphosis/ascendant-classification-document.md",
+    "Writing/Antitheriomorphosis/atmgoji_design_concept.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/ATM Titan-to-Human Design Philosophy.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
@@ -319,13 +301,6 @@
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Structure & Features.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/The King of the Monsters.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Claude).md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Anatomical Measurements and Specifications (Gemini).md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Messy/Reorganized.md",
-    "_Archive/Godric Nordson - Physical Features.md",
-    "Notepad 3.md",
-    "Notepad 3.md",
-    "Spending.md",
-    "_Archive/Anatomical Reference - 0.md",
     "_Archive",
     "Writing/Antitheriomorphosis/Characters/Humans",
     "Writing/Antitheriomorphosis/Characters/Titans",

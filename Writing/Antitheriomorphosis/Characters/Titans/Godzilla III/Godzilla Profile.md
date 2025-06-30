@@ -115,7 +115,7 @@ Godric's movements are a physical expression of his stoic and regal nature.
 
 ### B. Ethnic Heritage and Visual Presentation
 
-Godric's human form is a meticulously crafted translation of his ancient Titan lineage, filtered through a lens of blended human aesthetics. It deliberately subverts the trope of a visibly monstrous transformation, instead opting for a subtle, more psychologically resonant approach. Following the [[ATM Titan-to-Human Design Philosophy||core design philosophy]]of the Antitheriomorphosis Universe, his appearance is one of disarming, almost mathematical perfection—a “predator's disguise” that masks his true nature behind a veneer of conventional attractiveness. This visage is not arbitrary; it is a direct interpretation of his unique genetic heritage as a *Titanus gojira* of the Northern Faction, filtered through a composite of human aesthetic principles.
+Godric's human form is a meticulously crafted translation of his ancient Titan lineage, filtered through a lens of blended human aesthetics. It deliberately subverts the trope of a visibly monstrous transformation, instead opting for a subtle, more psychologically resonant approach. Following the [[The Uncanny Perfection|core design philosophy]] of the Antitheriomorphosis Universe, his appearance is one of disarming, almost mathematical perfection—a “predator's disguise” that masks his true nature behind a veneer of conventional attractiveness. This visage is not arbitrary; it is a direct interpretation of his unique genetic heritage as a *Titanus gojira* of the Northern Faction, filtered through a composite of human aesthetic principles.
 
 #### 1. Genetic Legacy: A Fusion of Titan Parents
 
@@ -158,9 +158,9 @@ Conversely, when grooming lapses or during his Dormant Season, the raw, **founda
 
 #### 4. General Manifestation in Broader Features (Descriptive Prelude)
 
-This form, born from a unique Titan lineage and sculpted from a Northern archetype by classical ideals, results in a physique marked by striking yet harmonious features. For example, the strong, Germanic-influenced jawline is tempered by Greco-Roman symmetry. Celtic influences are perceptible in his remarkable muscular density (a hint at his [[ATM Titan-to-Human Design Philosophy|Density Paradox]]), while a subtle Slavic structure is visible in his high cheekbones and powerful neck. These elements combine to create a presence that is commanding, refined, and perpetually unsettling in its perfection.
+This form, born from a unique Titan lineage and sculpted from a Northern archetype by classical ideals, results in a physique marked by striking yet harmonious features. For example, the strong, Germanic-influenced jawline is tempered by Greco-Roman symmetry. Celtic influences are perceptible in his remarkable muscular density (a hint at his [[The Uncanny Perfection|Density Paradox]]), while a subtle Slavic structure is visible in his high cheekbones and powerful neck. These elements combine to create a presence that is commanding, refined, and perpetually unsettling in its perfection.
 
-The specific qualitative descriptions of his face, eyes, and other features follow in [[Godzilla, King of the Monsters#II C Detailed Anatomical Features|Detailed Anatomical Features]], with the precise metrics cataloged in [[Godzilla, King of the Monsters#II D Anatomical Measurements and Proportional Analysis|Anatomical Measurements and Proportional Analysis]].
+The specific qualitative descriptions of his face, eyes, and other features follow in [[#C. Detailed Anatomical Features|Detailed Anatomical Features]], with the precise metrics cataloged in [[#D. Anatomical Measurements and Proportional Analysis|Anatomical Measurements and Proportional Analysis]].
 
 ### C. Detailed Anatomical Features
 
@@ -195,8 +195,9 @@ At a distance, his skin appears normal, perhaps weathered by a life lived outdoo
 
 *   **a. Color and Texture:** He has a Caucasian skin tone with a slight tan, a result of his recreational habit of sunbathing. The texture is unexpectedly firm and slightly rougher than a typical human's, akin to perfectly preserved, high-quality leather that has endured the elements for ages without damage.
 *   **b. Tactile Sensation and Appearance:** His skin is always warm to the touch, firm, and resistant to pressure. It is completely devoid of any blemishes, birthmarks, or scars, despite millions of years of combat.
-    > [!note]  
-    > The biological properties of his skin, such as its inability to be tattooed and its passive sterilizing radiation, are detailed in [[Godzilla, King of the Monsters#III Biological Adaptations and Abilities|Biological Adaptations and Abilities]].
+
+ > [!note]
+ > The biological properties of his skin, such as its inability to be tattooed and its passive sterilizing radiation, are detailed in [[#III. Core Biology and Species Abilities]].
 
 #### 4. Hair
 
@@ -212,8 +213,9 @@ The Antitheriomorphosis translated his Titan characteristics into a full head of
 #### 5. Dental Features
 
 At a glance, his teeth appear entirely human, a perfect, brilliant white set. They are flawlessly aligned and proportional.
+
 > [!note]
-> Their unique capabilities, including their extreme bite force and self-sterilizing, regenerative nature, are detailed in [[Godzilla, King of the Monsters#III Biological Adaptations and Abilities|Biological Adaptations and Abilities]].
+> Their unique capabilities, including their extreme bite force and self-sterilizing, regenerative nature, are detailed in [[#III. Core Biology and Species Abilities]].
 
 #### 6. Unique Scent Profile
 
@@ -222,12 +224,13 @@ Godric possesses a unique scent profile that is impossible to replicate and dist
 *   **a. Perceptible Characteristics:** His scent is most often described by Monarch personnel in elemental terms. It lacks any conventional human body odor and cannot retain artificial fragrances. The primary notes are:
     *   **Petrichor & Thermal Stone:** The dominant impression is of rain on warm granite or obsidian—a clean, mineral-like scent.
     *   **Ozone:** A subtle, sharp undertone of ozone, like the clean air after a lightning strike, is often present, especially after he uses his powers.
-    > [!note]  
-    > The complex biochemical foundation of his scent is explored in [[Godzilla, King of the Monsters#III Biological Adaptations and Abilities|Biological Adaptations and Abilities]].
+
+ > [!note]  
+ > The complex biochemical foundation of his scent is explored in [[#III. Core Biology and Species Abilities]].
 
 #### 7. Titan Echoes in Human Form (Anatomical Summary)
 
-Several of Godric's human features are direct, subtle translations of his massive Titan form, serving as permanent physical reminders of his true nature.
+Several of Godzilla's human features are direct, subtle translations of his massive Titan form, serving as permanent physical reminders of his true nature.
 
 *   **Back Structure:** Has a proportionally wider and deeper musculature, an echo of his formidable Titan build and the attachment points for his paternal dorsal fins. #TitanEcho
 *   **Neck Development:** Is thicker and more powerful than his proportions would suggest, reflecting his powerful Titan neck. #TitanEcho
@@ -239,7 +242,7 @@ Several of Godric's human features are direct, subtle translations of his massiv
 
 ### D. Anatomical Measurements and Proportional Analysis
 
-This section serves as the central repository for all quantitative data regarding Godric's human form. It outlines the mathematical principles governing his physique, details his precise measurements, and provides context through proportional analysis. The data presented here is primarily for his **Active Season** unless otherwise specified.
+This section serves as the central repository for all quantitative data regarding Godzilla's human form. It outlines the mathematical principles governing his physique, details his precise measurements, and provides context through proportional analysis. The data presented here is primarily for his **Active Season** unless otherwise specified.
 
 #### 1. Foundational Principles of Measurement
 
@@ -1058,9 +1061,9 @@ The cosmos instilled its earliest forms of unparalleled power into two distinct 
 
 *   **The Gojira's Ascension: Gift of the Fallen Star:** The ancestors of the *Titanus gojira* were originally unremarkable [[The Lineage System#Emergent Characteristics|Emergent]] saurian species in the Late Permian. Their destiny irrevocably changed with the arrival of the **Fallen Star** (also known as the **Blue Star**), a cosmic entity that violently crashed to Earth. This immense, energy-pulsating meteor transformed the proto-gojira. Overnight, they were collectively elevated to an [[Ascendant Classification#The Existential Impact Threshold|Ascendant Lineage]], gifted with [[Godzilla, King of the Monsters#III B 2 Kratos: The Power of Dominance|Kratos]], the power of dominance over physical forces and energy. This gift made them capable of planetary-scale impact, setting them on a path of unprecedented evolution and making them, literally, “world-changers.”
  
- > [!info] The Lost Nexus  
+ > [!info] The Lost Nexus
  > The Fallen Star became the sacred spiritual nexus for the Gojira, central to their rituals and concept of death (“from energy, to energy”). Tragically, its location was lost to all, including Godric himself, after its ancient relocation by an Eastern Gojira and its subsequent re-burial deep within the [[Kong, King of the Hollow Earth#Physical Appearance (Human Form)|Hollow Earth]] by [[The Saga of the Fallen Star.txt|Skar King]]. Godric remains unaware of its existence.
- 
+
 *   **The Mosura's Divine Grace: Touch of the Heavenly Instance:** Parallel to the Gojira, the *Titanus mosura* (Divine Moths) achieved their [[The Lineage System#Ascendant Qualification|Ascendant]] status through a different, equally profound cosmic intervention. They were selected by the “Heavenly Instance,” Earth's guardian angel, which directly bestowed upon them advanced [[The Scales of 'Titanus mosura'#Psionic Connection|psionic abilities]] and [[Mothra, the Queen of the Monsters#Core Abilities|immortality through reincarnation]]. This divine connection, governed by the [[The Divine Soul of the Heavenly Instance.md#The Inviolable Singularity|Covenant]], transformed their species into Heaven's direct representatives on Earth.
 
 #### 2. The Ancient Trinity: A Pact Forged in Vulnerability
@@ -1122,9 +1125,9 @@ The *Titanus gojira*'s decline was a progressive factional collapse over million
     *   **Northern Endurance:** The last surviving faction, resilient due to isolated territories and coordinated defense, but ultimately dwindling.
 *   **The Lost Star:** During this period, the **Fallen Star**, their spiritual nexus and source of Kratos, was moved discreetly from its original guarded location by a lone Eastern Gojira, who was meticulously performing the final rites for deceased members from all factions. This act was witnessed by a daughter of Mother Prime. In a furious tantrum, Mother Prime personally confronted this Easterner, using EMP shockwaves that caused the cavern to collapse. While Mother Prime escaped, the Fallen Star was buried deeper into the Hollow Earth, becoming permanently inaccessible to all Titans, including the Gojira themselves.
 
- > [!error] A Sacred Loss  
+ > [!error] A Sacred Loss
  > This event was a profound tragedy: their most sacred artifact, responsive only to the Gojira, became forever out of reach. In their ignorance, the Jinshin-Mushi believed they had thwarted a Gojira strategy, unaware of the Star's true significance or their inability to ever access its power themselves.
- 
+
 *   **The Final Nail:** By the time [[Dagon, the Last Northern Patriarch|Dagon's]] generation was born (~250 million years ago), territories were so vast and isolated that hatchlings seldom knew another family, cementing their cultural decline. Dagon, born into this era, exemplifies the immense burden of living through the species' final struggle. His tenacious mother, Mother Prime, inadvertently contributed to her own downfall by hoarding her magnum opus's secrets and by entering a 250-million-year dormancy. This prolonged absence, combined with her rage at her “perfect daughter” [[Barb, the Turncoat Parasite#Origin & Transformation|Barb's]] perceived defiance and the changed world, led her to make fatal tactical errors, ultimately resulting in her destruction by Godzilla.
 
 ### C. The Age of The Last

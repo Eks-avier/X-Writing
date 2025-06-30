@@ -1,12 +1,10 @@
-# The Uncanny Perfection
-
 ## The Uncanny Perfection: Human Titans Design Philosophy
 
 ### The Subtle Approach to Monstrous Humanity
 
 There's a prevalent tendency in fiction to make transformed monsters visibly monstrous in their human forms—unusual eye colors, dramatic physical proportions, visible scales, or other obvious markers of their true nature. The Antitheriomorphosis Universe deliberately subverts this expectation, creating a more unsettling and psychologically complex dynamic.
 
-The transformed Titans appear conventionally attractive and well-proportioned at first glance. They don't immediately register as “other” through visual cues alone. This creates a fascinating paradox—beings of immense power and destructive capability wrapped in packages that appear disarmingly normal, even perfect.
+The transformed Titans appear conventionally attractive and well-proportioned at first glance. They don't immediately register as "other" through visual cues alone. This creates a fascinating paradox—beings of immense power and destructive capability wrapped in packages that appear disarmingly normal, even perfect.
 
 ### The Predator's Disguise
 
@@ -65,6 +63,6 @@ This philosophy creates rich opportunities for character development and storyte
 
 ### Design Principle Summary
 
-The underlying design principle might be summarized as: _The most unsettling monsters are those that appear the most human._
+The underlying design principle might be summarized as: *The most unsettling monsters are those that appear the most human.*
 
-By making the Titans appear conventionally human yet subtly wrong in ways that trigger instinctual rather than conscious responses, the Antitheriomorphosis Universe creates a far more sophisticated and psychologically complex approach to monster transformation than the typical “human with obvious monster traits” trope.
+By making the Titans appear conventionally human yet subtly wrong in ways that trigger instinctual rather than conscious responses, the Antitheriomorphosis Universe creates a far more sophisticated and psychologically complex approach to monster transformation than the typical "human with obvious monster traits" trope.
