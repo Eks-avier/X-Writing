@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nordson - Maria's Reactions to Godric's Hair"
+              "title": "Nordson - Dress Shirts"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 493
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -214,12 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nordson - Dress Shirts"
             }
           },
           {
@@ -273,10 +274,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb950f631250434f",
+  "active": "3cfc255078ca26b0",
   "lastOpenFiles": [
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
+    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Narrative and Thematic Implications of Hair.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Psychological Significance of Hair.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Hair Grooming Journey.md",
@@ -321,4 +322,6 @@
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
-    "Main Alternate Universe/Untitle
+    "Main Alternate Universe/Untitled.canvas"
+  ]
+}
