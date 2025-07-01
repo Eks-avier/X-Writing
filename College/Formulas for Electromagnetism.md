@@ -22,7 +22,16 @@ Where:
 - $B$ is the *magnetic field*
 - $\phi$ is the angle between the direction of $v$ and $B$
 
-#### 2. Magnetic force as a **vector product**: $\overrightarrow}$
+#### 2. Magnetic force as a **vector product**: $\vec{F} =q \vec{v} \times \vec{B}$
 
+#### 3. Motion of charged particles in a magnetic field: $R = \frac{mv}{|q|B}$
+
+Where: $F_{c} = F_{B}$
+- Where:
+	- $F_{c} = m \frac{v^{2}}{R}$
+	- $F_{b}=qvB\sin \theta$
 ## Mag. Force on a **Wire** and **Torque**
 
+### Formulas
+
+#### 1. 
