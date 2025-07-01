@@ -2,5 +2,27 @@
 
 ## Magnetic Force
 
-## Mag. Force on a **Wire** and **Torqu**
+### Units
+
+- Tesla is the unit of magnetic fields; it is denoted by $B$.
+
+$$
+T = \frac{\text{Newton-second}}{\text{Coloumb-meter}}
+$$
+$$
+T = \frac{\text{Newton}}{\text{Amp-meter}}
+$$
+### Formulas
+
+#### 1. Magnetic force on a **moving charge**: $F = |q|vB\sin \phi$
+
+Where:
+- $q$ is the *charge*
+- $v$ is the *velocity*
+- $B$ is the *magnetic field*
+- $\phi$ is the angle between the direction of $v$ and $B$
+
+#### 2. Magnetic force as a **vector product**: $\overrightarrow}$
+
+## Mag. Force on a **Wire** and **Torque**
 
