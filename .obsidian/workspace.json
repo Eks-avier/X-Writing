@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
-                "mode": "preview",
+                "file": "College/Formulas for Electromagnetism.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godzilla Profile"
+              "title": "Formulas for Electromagnetism"
             }
           }
         ],
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "College/Formulas for Electromagnetism.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of Formulas for Electromagnetism"
             }
           },
           {
@@ -257,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,47 +276,47 @@
   },
   "active": "b19f189d81ee114c",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "College/Formulas for Electromagnetism.md",
+    "Writing/ATM - Medieval AU",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_supernatural_interactions.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_amplification_energy_domination.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla_dagon_relationship.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/dagon_godric_scenes.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_breath_evolution.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_railgun_development.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-scent-profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/fishing_family_arc.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Ascendant Classification.md",
-    "Writing/Antitheriomorphosis/Ascendant Classification - The World-Changers.md",
+    "Writing/ATM/Ascendant Classification - The World-Changers.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla, King of the Monsters.md",
-    "Writing/Antitheriomorphosis/ATMGoji Design Concept Reference.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Rodan, the Lord of the Skies.md",
+    "Writing/ATM/ATMGoji Design Concept Reference.md",
+    "Writing/ATM/Characters/Titans/Rodan, the Lord of the Skies.md",
     "Writing/Antitheriomorphosis/Creation Instructions/The Uncanny Perfection.md",
-    "Writing/Antitheriomorphosis/beta-tier-document.md",
+    "Writing/ATM/beta-tier-document.md",
     "Notepad.md",
-    "Writing/Antitheriomorphosis/The Uncanny Perfection.md",
-    "Writing/Antitheriomorphosis/sovereign-title-history.md",
-    "Writing/Antitheriomorphosis/consolidated-titan-hierarchy.md",
+    "Writing/ATM/The Uncanny Perfection.md",
+    "Writing/ATM/sovereign-title-history.md",
+    "Writing/ATM/consolidated-titan-hierarchy.md",
     "Writing/Antitheriomorphosis/atmgoji_design_concept.md",
     "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/ATM Titan-to-Human Design Philosophy.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Pants.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Narrative and Thematic Implications of Hair.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Psychological Significance of Hair.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Hair Grooming Journey.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Body Hair Profile.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Head Hair Profile.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Facial Hair Profile.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/OpusOrganized.md",
-    "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Nordson - Ethnic Presentation (Gemini).md",
     "_Archive",
-    "Writing/Antitheriomorphosis/Characters/Humans",
-    "Writing/Antitheriomorphosis/Characters/Titans",
+    "Writing/ATM/Characters/Humans",
+    "Writing/ATM/Characters/Titans",
     "~syncthing~The Redemption of Ghidorah.md.tmp",
     "~syncthing~The Fundamental Forces Theory.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Structure of the Titan Hierarchy.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/~syncthing~Nordson - Dress Shirts.md.tmp",
     "Writing/Antitheriomorphosis/Characters/Godzilla III/Messy/~syncthing~Reorganized + Anatomy.md.tmp",
     "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Hierarchy.md.tmp",
-    "Writing/Antitheriomorphosis/Titans/Hierarchy/~syncthing~Lineage.md.tmp",
-    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas",
+    "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
-    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/The Nordsons and Lepidiels.canvas",
+    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
+    "Writing/ATM/Canvases/Domination of Energy.canvas",
+    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",

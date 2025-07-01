@@ -62,7 +62,7 @@ The story of Godzilla begins before his hatching, with parents who would shape h
 ### Birth & Early Years
 
 - **Birth Period**: Approximately 250 million years ago
-- **Species**: _[[Writing/Antitheriomorphosis/Unrefined/Titanus Gojira]]_, Northern race (Northerner)
+- **Species**: _[[Writing/ATM/Unrefined/Titanus Gojira]]_, Northern race (Northerner)
 - **Physical Inheritance**:
     - Father's visage and build (though slightly thinner and taller)
     - Father's dorsal fin shape
@@ -246,7 +246,7 @@ The confrontation with the alien Titan represented one of Godzilla's greatest ch
 
 ### Kong Confrontation (2022)
 
-Following the [[Writing/Antitheriomorphosis/Antitheriomorphosis]], Godzilla's conflict with Kong became a pivotal development:
+Following the [[Antitheriomorphosis]], Godzilla's conflict with Kong became a pivotal development:
 
 - **Initial Trigger**: Detected activity and potential threat in Skull Island
 - **Territorial Response**: Challenged [[Kong]] as intrusion on his domain
