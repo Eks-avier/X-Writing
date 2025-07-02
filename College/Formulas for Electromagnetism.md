@@ -104,6 +104,8 @@ Where:
 ### Unit
 
 - Weber (**Wb**)
+- Henry (**H**)
+	- The unit of self-inductance
 
 ### Formulas
 
@@ -113,7 +115,8 @@ Where:
 - $\phi$ is the angle between the direction of $B$ and the *normal* to the surface.
 
 Note:
-- When $\phi$ is $0 \degre^{  }$
+- When $\phi$ is $0\degree$, the flux $1$, hence it is maximized.
+- When $\phi$ is $90\degree$, the magnetic field lines are parallel to the surface, and no flux passes through.
 #### 2. Faraday's Law: $EMF = -N \frac{\Delta \Phi}{\Delta t}$
 
 Derived from: $EMF = -N\left( \frac{\Phi-\Phi_{o}}{t-t_{o}} \right)$
@@ -122,6 +125,17 @@ Where:
 - $\Phi - BA\cos \phi$
 - $N$ is the number of turns or loops
 - $t$ is time
+
+#### 3. Mutual Inductance: $\varepsilon=-N \frac{\Delta \Phi}{\Delta t}$
+
+#### 4. Self Inductance: $\varepsilon=-L \frac{\Delta I}{\Delta t}$
+
+Where:
+- $L$ is the *length*
+
+To get $L$: $L=\frac{N\Phi}{I}$
+
+#### 5. Energy stored in an inductor: $\frac{1}{2}LI^{2}$
 
 
 
