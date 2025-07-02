@@ -20,18 +20,42 @@ Where:
 - $q$ is the *charge*
 - $v$ is the *velocity*
 - $B$ is the *magnetic field*
-- $\phi$ is the angle between the direction of $v$ and $B$
+- $\phi$ is the angle *between the direction of $v$ and $B$*
 
 #### 2. Magnetic force as a **vector product**: $\vec{F} =q \vec{v} \times \vec{B}$
 
 #### 3. Motion of charged particles in a magnetic field: $R = \frac{mv}{|q|B}$
 
 Where: $F_{c} = F_{B}$
-- Where:
+- Derived from:
 	- $F_{c} = m \frac{v^{2}}{R}$
 	- $F_{b}=qvB\sin \theta$
 ## Mag. Force on a **Wire** and **Torque**
 
+### Units
+
+- Torque, which is $\tau = F\times l$
+	- Where: $\text{force}\times\text{lever arm}$
+	- **Unit**: $Nm$
+
 ### Formulas
 
-#### 1. 
+#### 1. Force on a **current** in a mag. field: $F=qvB\sin \theta$
+
+Derived from: $F=\left( \frac{\Delta q}{\Delta t} \right)(v\Delta tB\sin\theta)$
+- Then: $F=ILB\sin \theta$
+	- Where:
+		- $I$ is *current*
+		- $L$ is the *length of the wire*
+		- $B$ is the *magnetic field*
+		- $\theta$ is the angle *between the direction of $I$ and $B$*
+
+#### 2. Net torque: $IAB\sin \phi$
+
+Derived from: $ILB\left( \frac{1}{2}w\sin \phi \right)+ILB\left( \frac{1}{2}w\sin \phi \right)$
+
+#### 3. Torque on a **current-carrying coil**: $\tau=NIAB\sin \phi$
+
+Where:
+- $N$ is the *magnetic moment*
+- $I$
