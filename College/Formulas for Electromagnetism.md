@@ -62,3 +62,7 @@ Where:
 - $B$ is the *magnetic field*
 - $\phi$ is the angle *between* the *magnetic field* and the *normal to the loop*
 
+---
+
+$n = \frac{N}{l}$
+$N=nl$
