@@ -24,7 +24,7 @@ Where:
 
 #### 2. Magnetic force as a **vector product**: $\vec{F} =q \vec{v} \times \vec{B}$
 
-#### 3. Motion of charged particles in a magnetic field: $R = \frac{mv}{|q|B}$
+#### 3. Motion of charged particles in a (uniform) magnetic field: $R = \frac{mv}{|q|B}$
 
 Where: $F_{c} = F_{B}$
 - Derived from:
@@ -68,6 +68,22 @@ Where:
 - $N$ is the number of *turns* or *loops* in the coil
 - $I$ is the *current*
 - $A$ is the *area* of the loop
+
+## Electromagnets
+
+### Units
+### Formulas
+
+#### 1. Magnetic fields produced by a **long, straight wire**: $B=\frac{\mu_{o}I}{2\pi r}$
+
+Derived from: $F = qvB\sin \theta = qv (\frac{\mu_{o}I}{2\pi r})\sin \theta$
+
+Where:
+- $\mu_{o}=4\pi \times 10^{-7} \frac{\text{Tm}}{A}$; this is called the **permeability of free space**.
+- $r$ is the *distance* from the wire to where the mag. field is determined.
+- $I$ is *current*.
+
+
 
 ---
 

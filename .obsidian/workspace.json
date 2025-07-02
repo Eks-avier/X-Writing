@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "College/Formulas for Electromagnetism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla Profile"
+              "title": "Outgoing links from Formulas for Electromagnetism"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "College/Formulas for Electromagnetism.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of Formulas for Electromagnetism"
             }
           },
           {
@@ -254,12 +254,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c335d27bd9b29dd",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
