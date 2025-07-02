@@ -5,12 +5,16 @@
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
-      "basename": "Anguirus, the Stalwart Vanguard",
-      "path": "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md"
+      "basename": "Structure of the Titan Hierarchy",
+      "path": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
     },
     {
       "basename": "The Lineage System",
       "path": "Writing/ATM/Titans/Hierarchy/The Lineage System.md"
+    },
+    {
+      "basename": "Anguirus, the Stalwart Vanguard",
+      "path": "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md"
     },
     {
       "basename": "Formulas for Electromagnetism",
@@ -147,10 +151,6 @@
     {
       "basename": "Psychic-Sorcery Interface",
       "path": "Writing/ATM/Magic System/Psychic-Sorcery Interface.md"
-    },
-    {
-      "basename": "Structure of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
     },
     {
       "basename": "Protocols of the Titan Hierarchy",
