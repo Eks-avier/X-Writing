@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,8 +277,8 @@
   },
   "active": "4c335d27bd9b29dd",
   "lastOpenFiles": [
-    "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/The Lineage System.md",
     "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "College/Formulas for Electromagnetism.md",
