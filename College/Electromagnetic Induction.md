@@ -25,4 +25,22 @@ Where $\phi$ is the angle between $B$ and the Normal Force to the surface
 - Unit is **Henry** $H$
 	- $1 V \times \frac{s}{A}$
 
-**Sel**
+**Self Inductance**:
+- $E = -L \frac{\Delta I}{\Delta t}$
+- If $L$ was not given: $L=\frac{N\Phi}{I}$
+
+**Energy Stored in an Inductor**:
+- $\text{Energy}=\frac{1}{2}LI^{2}$
+- Unit is **Joules** $J$
+
+**Transformer**:
+- $E_{s}=-N_{s} \frac{\Delta \Phi}{\Delta t}$
+- $E_{p}=-N_{p} \frac{\Delta \Phi}{\Delta t}$
+- $\frac{E_{s}}{E_{p}}=\frac{N_{s}}{N_{p}}$
+- $\Delta \Phi_{p}= \Delta \Phi_{s}$
+	- $E=-\frac{N\Delta \Phi}{\Delta t}$
+	- $\Delta \Phi=-\frac{E\Delta t}{N}$
+		- $E_{\frac{p\Delta t}{N_{p}}}=\frac{E_{s}\Delta t}{N_{s}}$
+		- $\frac{E_{p}}{N_{p}}=\frac{E_{s}}{N_{s}}$
+		- $\frac{E_{p}}{E_{s}}=\frac{N_{p}}{N_{s}}$
+- 
