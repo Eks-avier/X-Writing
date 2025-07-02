@@ -40,7 +40,7 @@ Where: $F_{c} = F_{B}$
 
 ### Formulas
 
-#### 1. Force on a **current** in a mag. field: $F=qvB\sin \theta$
+#### 1. Force on a **current in a mag. field**: $F=qvB\sin \theta$
 
 Derived from: $F=\left( \frac{\Delta q}{\Delta t} \right)(v\Delta tB\sin\theta)$
 - Then: $F=ILB\sin \theta$
@@ -48,14 +48,17 @@ Derived from: $F=\left( \frac{\Delta q}{\Delta t} \right)(v\Delta tB\sin\theta)$
 		- $I$ is *current*
 		- $L$ is the *length of the wire*
 		- $B$ is the *magnetic field*
-		- $\theta$ is the angle *between the direction of $I$ and $B$*
+		- $\theta$ is the angle *between* the *direction* of $I$ and $B$
 
 #### 2. Net torque: $IAB\sin \phi$
 
 Derived from: $ILB\left( \frac{1}{2}w\sin \phi \right)+ILB\left( \frac{1}{2}w\sin \phi \right)$
-
 #### 3. Torque on a **current-carrying coil**: $\tau=NIAB\sin \phi$
 
 Where:
-- $N$ is the *magnetic moment*
-- $I$
+- $N$ is the *magnetic moment*, which is the number of *turns* or *loops* in the coil.
+- $I$ is the *current*
+- $A$ is the *area of the loop*, depending on the shape of the loop
+- $B$ is the *magnetic field*
+- $\phi$ is the angle *between* the *magnetic field* and the *normal to the loop*
+
