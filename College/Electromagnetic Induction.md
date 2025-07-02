@@ -10,23 +10,19 @@ $$
 **Faraday's Law**
 - Flux depends on orientation of surface with respect to B field, for a uniform magnetic field.
 - Should the mag flux change for any reason, an emf is generated.
+- Unit is **Volt** $V$
 
 $$
 E = -N \frac{\Delta \Phi}{\Delta t}
 $$
 Where $\phi$ is the angle between $B$ and the Normal Force to the surface
 
----
+**Mutual Induciton**:
+- Faraday's Law is applicable
+	- $E_{s}=-M \frac{\Delta I_{p}}{\Delta t}$
+		- Where:
+			- $I$ is the current in the primary coil
+- Unit is **Henry** $H$
+	- $1 V \times \frac{s}{A}$
 
-- $A = 0.020$
-- $N = 50$
-- $\Phi_{o} = 0^{}$
-- $\Phi = 30$
-- $\Delta t = 0.10$
-- $B = 0.18$
-
----
-
-- $B = 0.020$
-- $A = 120 \text{ cm}^2$
-- 
+**Sel**

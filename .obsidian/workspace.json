@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Formulas for Electromagnetism"
             }
+          },
+          {
+            "id": "6a9885d778bc344a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Electromagnetic Induction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnetic Induction"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Formulas for Electromagnetism.md",
+                "file": "College/Electromagnetic Induction.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formulas for Electromagnetism"
+              "title": "Outline of Electromagnetic Induction"
             }
           },
           {
@@ -275,10 +299,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b19f189d81ee114c",
+  "active": "6a9885d778bc344a",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "College/Formulas for Electromagnetism.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM - Medieval AU",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_supernatural_interactions.md",
