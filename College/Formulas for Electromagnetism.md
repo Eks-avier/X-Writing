@@ -56,11 +56,18 @@ Derived from: $ILB\left( \frac{1}{2}w\sin \phi \right)+ILB\left( \frac{1}{2}w\si
 #### 3. Torque on a **current-carrying coil**: $\tau=NIAB\sin \phi$
 
 Where:
-- $N$ is the *magnetic moment*, which is the number of *turns* or *loops* in the coil.
+- $N$ is the is the number of *turns* or *loops* in the coil.
 - $I$ is the *current*
 - $A$ is the *area of the loop*, depending on the shape of the loop
 - $B$ is the *magnetic field*
 - $\phi$ is the angle *between* the *magnetic field* and the *normal to the loop*
+
+#### 4. Magnetic moment: $\mu = NIA$ 
+
+Where:
+- $N$ is the number of *turns* or *loops* in the coil
+- $I$ is the *current*
+- $A$ is the *area* of the loop
 
 ---
 
