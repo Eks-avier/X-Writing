@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Formulas for Electromagnetism.md",
+                "file": "College/Electromagnetic Induction.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formulas for Electromagnetism"
+              "title": "Outline of Electromagnetic Induction"
             }
           },
           {
@@ -299,10 +299,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b19f189d81ee114c",
+  "active": "6a9885d778bc344a",
   "lastOpenFiles": [
-    "College/Electromagnetic Induction.md",
     "College/Formulas for Electromagnetism.md",
+    "College/Electromagnetic Induction.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM - Medieval AU",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",

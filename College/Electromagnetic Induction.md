@@ -43,3 +43,4 @@ Where $\phi$ is the angle between $B$ and the Normal Force to the surface
 		- $E_{\frac{p\Delta t}{N_{p}}}=\frac{E_{s}\Delta t}{N_{s}}$
 		- $\frac{E_{p}}{N_{p}}=\frac{E_{s}}{N_{s}}$
 		- $\frac{E_{p}}{E_{s}}=\frac{N_{p}}{N_{s}}$
+		  
