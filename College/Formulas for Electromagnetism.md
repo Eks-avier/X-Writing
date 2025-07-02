@@ -108,7 +108,22 @@ Where:
 ### Formulas
 
 #### 1. Magnetic flux: $\Phi_{B} = BA\cos \phi$
-#### 2. Faraday's Law: $EMF = -$
+
+Where:
+- $\phi$ is the angle between the direction of $B$ and the *normal* to the surface.
+
+Note:
+- When $\phi$ is $0 \degre^{  }$
+#### 2. Faraday's Law: $EMF = -N \frac{\Delta \Phi}{\Delta t}$
+
+Derived from: $EMF = -N\left( \frac{\Phi-\Phi_{o}}{t-t_{o}} \right)$
+
+Where:
+- $\Phi - BA\cos \phi$
+- $N$ is the number of turns or loops
+- $t$ is time
+
+
 
 ---
 
