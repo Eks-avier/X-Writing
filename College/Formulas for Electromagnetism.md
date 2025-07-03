@@ -99,17 +99,21 @@ Where:
 Where:
 - $n$ is the number of *turns per unit length*.
 
+To get $n$ and $N$:
+- $n = \frac{N}{l}$
+- $N=nl$
+
 ## Electromagnetic Induction
 
 ### Unit
 
 - Weber (**Wb**)
 - Henry (**H**)
-	- The unit of self-inductance
+	- The unit of mutual inductance and of self-inductance
 
 ### Formulas
 
-#### 1. Magnetic flux: $\Phi_{B} = BA\cos \phi$
+#### 1. Magnetic Flux: $\Phi_{B} = BA\cos \phi$
 
 Where:
 - $\phi$ is the angle between the direction of $B$ and the *normal* to the surface.
@@ -117,6 +121,7 @@ Where:
 Note:
 - When $\phi$ is $0\degree$, the flux $1$, hence it is maximized.
 - When $\phi$ is $90\degree$, the magnetic field lines are parallel to the surface, and no flux passes through.
+
 #### 2. Faraday's Law: $EMF = -N \frac{\Delta \Phi}{\Delta t}$
 
 Derived from: $EMF = -N\left( \frac{\Phi-\Phi_{o}}{t-t_{o}} \right)$
@@ -126,7 +131,11 @@ Where:
 - $N$ is the number of turns or loops
 - $t$ is time
 
-#### 3. Mutual Inductance: $\varepsilon=-N \frac{\Delta \Phi}{\Delta t}$
+#### 3. Mutual Inductance: $\varepsilon_{s}=-M \frac{\Delta I_{p}}{\Delta t}$
+
+Where:
+- $M$ is the *mutual inductance*
+- $\Delta I$ is the change in current in the **primary** coil
 
 #### 4. Self Inductance: $\varepsilon=-L \frac{\Delta I}{\Delta t}$
 
@@ -135,11 +144,9 @@ Where:
 
 To get $L$: $L=\frac{N\Phi}{I}$
 
-#### 5. Energy stored in an inductor: $\frac{1}{2}LI^{2}$
+#### 5. Energy Stored in an Inductor: $\text{Energy }=\frac{1}{2}LI^{2}$
 
+#### 6. Transformers: $\frac{V_{s}}{V_{p}}=\frac{N_{s}}{N_{p}}$; $\frac{I_{s}}{I_{p}}=\frac{V_{p}}{V_{s}}=\frac{N_{p}}{N_{s}}$
 
-
----
-
-$n = \frac{N}{l}$
-$N=nl$
+Step-down: $V_{s} < V_{p}$
+Step-up: $V_{s}>V_{p}$
