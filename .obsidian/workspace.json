@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b9e64eb962fa37cf",
+            "id": "b457778639c259c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +275,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9e64eb962fa37cf",
+  "active": "b457778639c259c8",
   "lastOpenFiles": [
     "College/ITS 132 - 01.md",
     "College/Electromagnetic Induction.md",
