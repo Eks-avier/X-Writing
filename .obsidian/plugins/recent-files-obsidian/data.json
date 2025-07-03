@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Formulas for Electromagnetism",
-      "path": "College/Formulas for Electromagnetism.md"
+      "basename": "ITS 132 - 01",
+      "path": "College/ITS 132 - 01.md"
     },
     {
       "basename": "Electromagnetic Induction",
       "path": "College/Electromagnetic Induction.md"
+    },
+    {
+      "basename": "Formulas for Electromagnetism",
+      "path": "College/Formulas for Electromagnetism.md"
     },
     {
       "basename": "Godzilla Profile",
@@ -195,10 +199,6 @@
     {
       "basename": "GODZILLA'S ORIGIN & DEVELOPMENT",
       "path": "Writing/ATM/Unrefined/GODZILLA'S ORIGIN & DEVELOPMENT.md"
-    },
-    {
-      "basename": "Northern Gojira",
-      "path": "Writing/ATM/Unrefined/Northern Gojira.md"
     }
   ],
   "omittedPaths": [],
