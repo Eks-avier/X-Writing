@@ -30,33 +30,9 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
-          },
-          {
-            "id": "b457778639c259c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/ITS 132 - 01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ITS 132 - 01"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/ITS 132 - 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ITS 132 - 01"
+              "title": "Outgoing links"
             }
           },
           {
@@ -215,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/ITS 132 - 01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ITS 132 - 01"
+              "title": "Outline"
             }
           },
           {
@@ -275,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b457778639c259c8",
+  "active": "eb950f631250434f",
   "lastOpenFiles": [
     "College/ITS 132 - 01.md",
     "College/Electromagnetic Induction.md",
