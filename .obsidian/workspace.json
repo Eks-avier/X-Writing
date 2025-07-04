@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "japanese",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -278,7 +279,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -298,24 +299,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132f9b9793943e9c",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/umbra_simulacrum_battle_analysis.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/desktop.ini",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/trinity_dynamics.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "Writing/ATM/psionics-system.md",
-    "Writing/ATM/mothra-psionic-prowess.md",
-    "Writing/ATM/telepathic-web.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
+    "Writing/ATM/Characters/Titans/Mothra/psionics-system.md",
+    "Writing/ATM/Characters/Titans/Mothra/mothra-psionic-prowess.md",
+    "Writing/ATM/Characters/Titans/Mothra/telepathic-web.md",
     "Writing/ATM/Clarifications on the Atomic Railgun.txt",
     "Writing/ATM/Demotion of the Ol' Reliable.txt",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.txt",
     "Writing/ATM/The Saga of the Fallen Star.txt",
-    "Writing/ATM/ATM Titan-to-Human Design Philosophy.md",
-    "Writing/ATM/godric_hyperthymesia.md",
-    "Writing/ATM/fishing_family_arc.md",
-    "Writing/ATM/sun_moon_motif.md",
-    "Writing/ATM/maria-godric-relationship.md",
-    "Writing/ATM/trinity_dynamics.md",
-    "Writing/ATM/rodan_cosmic_witness.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/ATM Titan-to-Human Design Philosophy.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/sun_moon_motif.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/rodan_cosmic_witness.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
     "College/ITS 132 - 01.md",
     "College/Electromagnetic Induction.md",
@@ -329,13 +333,10 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_amplification_energy_domination.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla_dagon_relationship.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/dagon_godric_scenes.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_breath_evolution.md",
     "_Archive",
     "Writing/ATM/Characters/Humans",
     "Writing/ATM/Characters/Titans",
     "~syncthing~The Redemption of Ghidorah.md.tmp",
-    "~syncthing~The Fundamental Forces Theory.md.tmp",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",

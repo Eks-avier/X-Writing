@@ -5,6 +5,10 @@
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
+      "basename": "trinity_dynamics",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/trinity_dynamics.md"
+    },
+    {
       "basename": "godric_sensory_processing",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md"
     },
@@ -34,11 +38,11 @@
     },
     {
       "basename": "Ascendant Classification - The World-Changers",
-      "path": "Writing/ATM/Ascendant Classification - The World-Changers.md"
+      "path": "Writing/ATM/Titans/Hierarchy/Ascendant Classification - The World-Changers.md"
     },
     {
       "basename": "ATMGoji Design Concept Reference",
-      "path": "Writing/ATM/ATMGoji Design Concept Reference.md"
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/ATMGoji Design Concept Reference.md"
     },
     {
       "basename": "Rodan, the Lord of the Skies",
@@ -46,7 +50,7 @@
     },
     {
       "basename": "beta-tier-document",
-      "path": "Writing/ATM/beta-tier-document.md"
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/beta-tier-document.md"
     },
     {
       "basename": "Notepad",
@@ -195,10 +199,6 @@
     {
       "basename": "Domination of Energy - Profile",
       "path": "Writing/ATM/Unrefined/Domination of Energy - Profile.md"
-    },
-    {
-      "basename": "Godzilla vs Battra ",
-      "path": "Writing/ATM/Unrefined/Godzilla vs Battra .md"
     }
   ],
   "omittedPaths": [],
