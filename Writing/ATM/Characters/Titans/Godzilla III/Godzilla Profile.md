@@ -490,7 +490,7 @@ What distinguishes Godzilla from his extinct species is not the core Kratos abil
 
 *   **Temporal Advantage:** His lifespan of 250 million years has surpassed his entire species' existence, providing unprecedented development time.
 *   **Combat-Driven Evolution:** Endless conflicts forced continual adaptation and refinement, culminating in techniques unrecognizable to his ancestors.
-*   **Necessity-Sparked Innovation:** Breakthroughs like the [[Atomic Amplification#The Prototype|Nuclear Pulse]] (developed millions of years after his species' extinction) and later the [[#The Catalyst: Battra's Monstrous Efficiency|Atomic Railgun]] marked significant departures from traditional applications.
+*   **Necessity-Sparked Innovation:** Breakthroughs like the [[Atomic Amplification#The Prototype|Nuclear Pulse]] (developed millions of years after his species' extinction) and later the Atomic Railgun marked significant departures from traditional applications.
 *   **Self-Taught Mastery:** Without teachers or peers, his development path followed unique trajectories, culminating in capabilities his ancestors could scarcely have imagined.
 
 ##### D. Modern Expression & The Energy Hierarchy
@@ -918,7 +918,7 @@ Godric's journey towards psychological wholeness is a testament to the transform
 
 #### 1. The Foundation of “Kintaro-san”: Unconditional Love as a Template
 
-Following the [[#1. The Transformation Event & The Silent Void|immediate shock]] of his Antitheriomorphosis and the loss of his powers, Godric was discovered in a state of unprecedented vulnerability by the [[fishing_family_arc.md#The Yamamoto Family|Yamamoto fishing family]] in Japan. His 10-12 weeks with them, detailed in the [[fishing_family_arc.md|Fishing Family Arc]], provided the foundational template for his emotional healing.
+Following the [[#1. The Transformaion Event and The Silent Void|immediate shock]] of his Antitheriomorphosis and the loss of his powers, Godric was discovered in a state of unprecedented vulnerability by the [[fishing_family_arc.md#The Yamamoto Family|Yamamoto fishing family]] in Japan. His 10-12 weeks with them, detailed in the [[fishing_family_arc.md|Fishing Family Arc]], provided the foundational template for his emotional healing.
 
 *   **Authentic Vulnerability:** Stripped of his atomic abilities, Godzilla experienced genuine helplessness and became dependent on human kindness for survival. This exposed his authentic self—the scared, disoriented creature beneath the Alpha Paramount—to the Yamamotos.
 *   **Joyful Learning:** The family introduced him to a new paradigm of learning: one driven by **joyful discovery** and patient guidance, rather than the pressure-driven, fear-shadowed “survival learning” he experienced with Dagon. This allowed him to engage with human culture (such as [[The Perfect Memory Advantage: Hyperthymesia and Japanese Cultural Integration#Language Acquisition Mastery|language]]) not as a burden, but as a source of quiet satisfaction.

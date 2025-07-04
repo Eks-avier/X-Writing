@@ -30,9 +30,33 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
+          },
+          {
+            "id": "0672df7d7423c97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Godzilla Profile"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,11 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Godzilla Profile"
             }
           },
           {
@@ -190,12 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -228,12 +254,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,17 +274,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb950f631250434f",
+  "active": "0672df7d7423c97d",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "College/ITS 132 - 01.md",
     "College/Electromagnetic Induction.md",
     "College/Formulas for Electromagnetism.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/The Lineage System.md",
     "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/ATM - Medieval AU",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_supernatural_interactions.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_amplification_energy_domination.md",
