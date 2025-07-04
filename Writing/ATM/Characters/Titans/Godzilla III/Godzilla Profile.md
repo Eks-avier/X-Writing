@@ -438,7 +438,7 @@ The transformation gifted by the Fallen Star reshaped every facet of the *Titanu
 > [!quote] “From Energy, To Energy”
 > —Ancient Gojira Proverb
 
-These three paths, primarily voluntary, became central to their broader cultural and spiritual practices. The site of the Fallen Star, hidden and sacred, became the equivalent of a [[Japanese cultural attire#The Cultural Bridge Philosophy|Mecca]] for all Gojira factions, a place of pilgrimage and profound reverence, believed by some to be intimately connected to the [[Northern Gojira#The Directive of Heaven|Directive of Heaven]].
+These three paths, primarily voluntary, became central to their broader cultural and spiritual practices. The site of the Fallen Star, hidden and sacred, became the equivalent of a Mecca for all Gojira factions, a place of pilgrimage and profound reverence, believed by some to be intimately connected to the [[Northern Gojira#The Directive of Heaven|Directive of Heaven]].
 
 #### 4. The Lost Connection: Godzilla's Unknowing Heritage
 
