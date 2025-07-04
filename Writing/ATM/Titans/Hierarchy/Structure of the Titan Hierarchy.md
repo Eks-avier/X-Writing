@@ -32,9 +32,9 @@ The Standing System ranks Titans based on their personal accomplishments and rec
 
 The highest tier of authority, with power recognized across both surface world and Hollow Earth:
 
-1. **Paramount** - Supreme authority over all Titans
+1. **Paramount** - Supreme authority over all Titans ^cbe133
    - Currently held by: Godzilla
-   - **Titan Title:** Alpha Paramount
+   - **Titan Title:** Alpha Paramount ^566530
    - **Human Designation:** King of the Monsters
    - **Form of Direct Address:** “Alpha” (by Titans), “Sir” (by humans)
    - **Formal Style of Address:** “Alpha Paramount” (in court), “His Majesty” (in formal documents)
