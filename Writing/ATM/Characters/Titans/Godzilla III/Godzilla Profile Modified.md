@@ -7,146 +7,77 @@ tags: [atm, wip]
 ```dataviewjs
 
 ```
-
 ```dataviewjs
-// Configuration - Change this to analyze a different file
-const targetFile = dv.current().file; // Current file
-// Alternative: const targetFile = dv.page("YourFileName"); // Specific file
+// Get the current file's content
+const file = dv.current();
+const content = await dv.io.load(file.file.path);
 
-// Get outgoing links from the file
-const outgoingLinks = targetFile.outlinks || [];
+// Regex to find all Obsidian-style links: [[link|alias]] or [[link]]
+const linkRegex = /\[\[(.*?)\]\]/g;
+const lines = content.split('\n');
 
-if (outgoingLinks.length === 0) {
-    dv.paragraph("No outgoing links found in this file.");
-} else {
-    // Read the file content
-    const fileContent = await dv.io.load(targetFile.path);
-    const lines = fileContent.split('\n');
-    
-    // Prepare data for analysis
-    const linkAnalysis = [];
-    
-    for (const link of outgoingLinks) {
-        // Extract different parts of the link
-        const fullLink = link.path;
-        const baseName = fullLink.replace(/\.md$/, '').split('/').pop();
-        const heading = link.subpath ? link.subpath.replace(/^#/, '') : null;
-        const displayName = link.display || (heading ? `${baseName}#${heading}` : baseName);
-        
-        // Create comprehensive patterns to match the full link with all its components
-        let searchPatterns = [];
-        
-        // Wiki link patterns - handle various formats
-        if (heading) {
-            // With heading: [[File#Heading]], [[File#Heading|Alias]]
-            searchPatterns.push(`\\[\\[${escapeRegex(baseName)}#${escapeRegex(heading)}(\\|[^\\]]*)?\\]\\]`);
-            searchPatterns.push(`\\[\\[([^\\]]*\\|)?${escapeRegex(baseName)}#${escapeRegex(heading)}\\]\\]`);
+// A map to store the aggregated data for each unique link target
+const linkData = new Map();
+
+// Iterate over each line to find links and their line numbers
+lines.forEach((line, index) => {
+    const matches = line.matchAll(linkRegex);
+    for (const match of matches) {
+        const innerContent = match[1];
+        let target, alias;
+
+        // Split the link into target and alias if an alias exists
+        if (innerContent.includes('|')) {
+            [target, alias] = innerContent.split('|').map(p => p.trim());
         } else {
-            // Without heading: [[File]], [[File|Alias]]
-            searchPatterns.push(`\\[\\[${escapeRegex(baseName)}(\\|[^\\]]*)?\\]\\]`);
-            searchPatterns.push(`\\[\\[([^\\]]*\\|)?${escapeRegex(baseName)}\\]\\]`);
+            target = innerContent.trim();
+            alias = '';
         }
-        
-        // Markdown link patterns
-        searchPatterns.push(`\\[([^\\]]*)\\]\\([^\\)]*${escapeRegex(fullLink)}[^\\)]*\\)`);
-        
-        // Find all occurrences with line numbers
-        const occurrences = [];
-        const lineNumbers = [];
-        
-        for (const pattern of searchPatterns) {
-            const regex = new RegExp(pattern, 'gi');
-            let match;
-            
-            // Search through each line to get line numbers
-            for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
-                const line = lines[lineIndex];
-                const lineRegex = new RegExp(pattern, 'gi');
-                let lineMatch;
-                
-                while ((lineMatch = lineRegex.exec(line)) !== null) {
-                    occurrences.push(lineMatch[0]);
-                    lineNumbers.push(lineIndex + 1); // 1-indexed line numbers
-                }
-            }
+
+        // Use the link target as the key for aggregation
+        const key = target;
+
+        // If this is the first time we've seen this link target, initialize its data structure
+        if (!linkData.has(key)) {
+            linkData.set(key, {
+                aliases: new Set(),
+                count: 0,
+                lines: []
+            });
         }
-        
-        // Remove duplicates while preserving line numbers
-        const uniqueOccurrences = [];
-        const uniqueLineNumbers = [];
-        const seen = new Set();
-        
-        for (let i = 0; i < occurrences.length; i++) {
-            const key = `${occurrences[i]}-${lineNumbers[i]}`;
-            if (!seen.has(key)) {
-                seen.add(key);
-                uniqueOccurrences.push(occurrences[i]);
-                uniqueLineNumbers.push(lineNumbers[i]);
-            }
+
+        // Get the existing data for this link target and update it
+        const data = linkData.get(key);
+        data.count++;
+        data.lines.push(index + 1); // Line numbers are 1-based
+        if (alias) {
+            data.aliases.add(alias);
         }
-        
-        // Count different link formats
-        const wikiLinks = uniqueOccurrences.filter(occ => occ.startsWith('[[')).length;
-        const markdownLinks = uniqueOccurrences.filter(occ => occ.startsWith('[') && !occ.startsWith('[[')).length;
-        const totalLinked = uniqueOccurrences.length;
-        
-        // Count plain text mentions
-        const plainTextPattern = new RegExp(`\\b${escapeRegex(baseName)}\\b`, 'gi');
-        const allTextMatches = fileContent.match(plainTextPattern) || [];
-        const plainTextMentions = Math.max(0, allTextMatches.length - totalLinked);
-        
-        // Format line numbers for display
-        const lineNumbersDisplay = uniqueLineNumbers.length > 0 ? 
-            uniqueLineNumbers.sort((a, b) => a - b).join(', ') : 'None';
-        
-        linkAnalysis.push({
-            "Link": `[[${displayName}]]`,
-            "Wiki Links": wikiLinks,
-            "Markdown Links": markdownLinks,
-            "Total Linked": totalLinked,
-            "Plain Mentions": plainTextMentions,
-            "All Occurrences": allTextMatches.length,
-            "Line Numbers": lineNumbersDisplay
-        });
     }
-    
-    // Sort by total occurrences (descending)
-    linkAnalysis.sort((a, b) => b["Total Linked"] - a["Total Linked"]);
-    
-    // Display summary
-    dv.header(3, `Link Analysis for: ${targetFile.name}`);
-    dv.paragraph(`**Total unique outgoing links:** ${outgoingLinks.length}`);
-    dv.paragraph(`**Total link instances:** ${linkAnalysis.reduce((sum, item) => sum + item["Total Linked"], 0)}`);
-    
-    // Display detailed table
-    dv.table(
-        ["Link", "Wiki Links", "Markdown Links", "Total Linked", "Plain Mentions", "All Occurrences", "Line Numbers"],
-        linkAnalysis.map(item => [
-            item.Link,
-            item["Wiki Links"],
-            item["Markdown Links"],
-            item["Total Linked"],
-            item["Plain Mentions"],
-            item["All Occurrences"],
-            item["Line Numbers"]
-        ])
-    );
-    
-    // Additional insights
-    const mostFrequent = linkAnalysis[0];
-    const leastFrequent = linkAnalysis[linkAnalysis.length - 1];
-    
-    dv.header(4, "Insights");
-    dv.list([
-        `Most frequently linked: ${mostFrequent.Link} (${mostFrequent["Total Linked"]} times)`,
-        `Least frequently linked: ${leastFrequent.Link} (${leastFrequent["Total Linked"]} times)`,
-        `Average links per target: ${(linkAnalysis.reduce((sum, item) => sum + item["Total Linked"], 0) / linkAnalysis.length).toFixed(1)}`
+});
+
+// Prepare the data for the table, converting the map to an array
+const outputData = [];
+for (const [target, data] of linkData.entries()) {
+    outputData.push([
+        `\`${target}\``, // Display target as code for clarity
+        Array.from(data.aliases).join(', '),
+        data.count,
+        data.lines.sort((a, b) => a - b).join(', ') // Sort line numbers
     ]);
 }
 
-// Helper function to escape special regex characters
-function escapeRegex(string) {
-    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+// Sort the table alphabetically by the link target
+outputData.sort((a, b) => a[0].localeCompare(b[0]));
+
+// Render the final table
+if (outputData.length > 0) {
+    dv.table(
+        ["Link Target", "Aliases Used", "Frequency", "Line Numbers"],
+        outputData
+    );
+} else {
+    dv.paragraph("No internal links found in this file.");
 }
 ```
 
@@ -1257,7 +1188,7 @@ The *Titanus gojira* adapted to the disease, as was their nature, but the counte
     *   **Familial Disintegration:** The North's traditional betrothal trials ceased, destroying a vital source of familial bonding.
     *   **Territorial Isolation:** Formerly tight-knit territories, where family units bordered one another, were drastically expanded, creating massive gaps to avoid disease spread. This led to extreme isolation, making them prone to ignore pleas from others and hindering socialization for hatchlings.
     *   **Cultural Erosion:** The East's meticulous documentation ceased, and the North grew increasingly distant from other factions, further eroding cultural cohesion.
-*   **Biological Vulnerabilities:** The South, in a desperate attempt to compensate for population loss, intensified their genetic mixing. This proved catastrophic, as it diluted the [[Writing/ATM/Unrefined/Titanus Gojira#Ascendant Line Status|pure Gojira]] lineage, producing beings like [[TITANUS ZILLA SPECIES PROFILE|Titanus zilla]] who, lacking the core Kratos and Limitless Adaptation abilities, became easy prey for Mother Prime's forces.
+*   **Biological Vulnerabilities:** The South, in a desperate attempt to compensate for population loss, intensified their genetic mixing. This proved catastrophic, as it diluted the pure Gojira lineage, producing beings like [[TITANUS ZILLA SPECIES PROFILE|Titanus zilla]] who, lacking the core Kratos and Limitless Adaptation abilities, became easy prey for Mother Prime's forces.
 *   **A Slow, Agonizing Defeat:** The disease fundamentally inverted every facet of the *Titanus gojira*'s existence. They were not defeated by brute force, but by the subtle, systematic dismantling of their way of life. The fact that they persisted for another 500,000 years after the disease's initial deployment speaks volumes about their tenacity, yet it was a slow march towards their cultural and eventual biological death.
 
 #### 3. The Demise of the Factions and The Disappearance of the Fallen Star
@@ -1324,7 +1255,7 @@ Washing ashore in a coastal Japanese fishing village in Chiba Prefecture, Godric
 
 Following his transformative period with the Yamamoto family, Godric's presence began to draw the attention of Monarch. His eventual integration into Monarch operations at [[Monarch Personnel Roster|Castle Bravo]] brought a new phase of adaptation and the painful truth about his past.
 
-*   **Reclaiming Power:** Upon settling into Castle Bravo, Godric immediately focused on regaining control over his formidable abilities in his new human form. This included the challenging process of minimizing his passive radiation emission for safety in enclosed spaces and relearning his signature [[atomic_breath_evolution|Atomic Breath]], which initially proved a “biological catastrophe” due to human anatomy.
+*   **Reclaiming Power:** Upon settling into Castle Bravo, Godric immediately focused on regaining control over his formidable abilities in his new human form. This included the challenging process of minimizing his passive radiation emission for safety in enclosed spaces and relearning his signature Atomic Breath, which initially proved a “biological catastrophe” due to human anatomy.
 *   **The Truth of Dagon:** During this period (roughly 2020-2022), Monarch revealed to Godric the remains of a “gojira specimen” from the Philippines—the skeleton of his father, Dagon. This physical evidence, combined with the crucial testimony of Barb (the lone surviving witness to Dagon's final moments), shattered the 250-million-year-long narrative of abandonment. Godric learned the truth of Dagon's sacrifice, initiating his profound and ongoing process of memory detoxification.
 *   **Formal Integration:** Godzilla was formally integrated into Monarch operations, his profound philosophical approach to his responsibilities immediately recognized. The Japanese government, aware of his true identity, maintains a unique, secret diplomatic relationship with him, often involving his specially designed [[japanese_cultural_attire.md|Eastern Regalia]].
 
@@ -1346,7 +1277,7 @@ Godric's reign as Alpha Paramount, already unprecedented in its 250-million-year
 
 *   **b. Lineage Reforms: Restoring Biological Truth:** Godzilla systematically eliminated the political manipulation that had historically plagued the [[The Lineage System#Political Manipulation of Lineage|Lineage System]]. He established clear, objective, and biologically accurate criteria for classification, ensuring that designations truly reflected a species' inherent capability rather than political convenience or alliances forged by “[[sovereign-title-history#The Givers|Giver]]” Paramounts.
 *   **c. The Warden Tier: Innovation for Planetary Governance:** Recognizing the limitations of a centralized leadership, Godric introduced the [[Origins of the Wardens#Origins of the Warden Tier|Warden Tier]] in the early Cenozoic era. This intermediate authority, comprising Cardinal and Intercardinal Wardens, provided a crucial layer of regional governance, effectively “[[Origins of the Wardens#The Warden Tier in Modern Governance|reframing ambition]]” by offering legitimate paths for advancement that channeled Titan energies into constructive territorial management.
-*   **d. The Beta Tier: Hands of the King:** The [[beta-tier-document#Foundational Structure|Beta Tier]]—comprising Anguirus (“[[beta-tier-document#Anguirus: The Stalwart Vanguard|Stalwart Vanguard]]”) and Rodan (“[[beta-tier-document#Rodan: The Lord of the Skies|Lord of the Skies]]”)—serves as the direct extension of Godric's will. These relationships are defined by profound personal loyalty, with both having famously [[sovereign-title-history#The Unexpected Refusals: Anguirus and Rodan|refused Sovereign status]] to remain close to their Alpha. Their complementary styles (Anguirus's methodical stability, Rodan's rapid adaptability) ensure comprehensive coverage of Godric's authority.
+*   **d. The Beta Tier: Hands of the King:** The [[beta-tier-document#Foundational Structure|Beta Tier]]—comprising Anguiru and Rodan—serves as the direct extension of Godric's will. These relationships are defined by profound personal loyalty, with both having famously [[sovereign-title-history#The Unexpected Refusals: Anguirus and Rodan|refused Sovereign status]] to remain close to their Alpha. Their complementary styles (Anguirus's methodical stability, Rodan's rapid adaptability) ensure comprehensive coverage of Godric's authority.
 
   > [!info] Rodan's Hidden Status
   > Rodan's species, *Titanus radon*, is secretly [[The Lineage System#Rodan's Hidden Potential|Ascendant]], possessing a dormant “Fire Form” transformation and abilities that would make him equal to other world-changers. This potential is unknown even to Rodan himself.
@@ -1363,6 +1294,6 @@ Godric's reign as Alpha Paramount, already unprecedented in its 250-million-year
 The post-Antitheriomorphosis era is defined by a series of pivotal narrative arcs that reshape Godric's relationships, his understanding of his powers, and his role as a universal guardian.
 
 *   **a. The Keystone Arc: Transformation of the Quartet (2025):** The [[Plot Outline - Keystone Arc|Keystone Arc]]  formalizes Kong's integration into the Titan leadership. His presence acts as a catalyst, forcing Godric, Maria, Anguirus, and Rodan to confront [[Plot Outline - Keystone Arc#Major Themes|stagnation]] in their ancient relationships. The arc culminates with the grand opening of [[Keep Charlie#Architecture|Monster Island Palace]], a physical manifestation of their transformed governance structure. This arc also marks [[Battra, the Lord of the Mystic Arts#History|Battra's]] reintegration, into the hierarchy via “The Vow.”
-*   **b. The Xilien Invasion Arc: Crucible of Adaptation (2023-2024):** This pivotal conflict with Battra (now allied with the Xiliens) is a defining crucible for Godric. Battra, utilizing his Umbra Simulacrum and the Heart of Protean, unwittingly pushes Godric to transcend his self-imposed Kratos limitations. It's where Godric achieves [[The Pinnacle of Limitless Adaptation|major breakthroughs]] in Atomic Amplification and Atomic Railgun efficiency, unlocks his “Zone” state, and begins to fully understand his universal energy control. This battle also highlights his unique anti-supernatural capabilities.
+*   **b. The Xilien Invasion Arc: Crucible of Adaptation (2023-2024):** This pivotal conflict with Battra (now allied with the Xiliens) is a defining crucible for Godric. Battra, utilizing his Umbra Simulacrum and the Heart of Protean, unwittingly pushes Godric to transcend his self-imposed Kratos limitations. It's where Godric achieves major breakthroughs in Atomic Amplification and Atomic Railgun efficiency, unlocks his “Zone” state, and begins to fully understand his universal energy control. This battle also highlights his unique anti-supernatural capabilities.
 *   **c. The Romance Arc: The Slow Burn & The Blue House (2025-202X):** This arc details the gradual, inevitable romance between Godric and Maria. It begins with the Winter Cycle, where forced domesticity and Godric's vulnerable processing of his Dagon trauma lead to their first kiss. It solidifies in the Blue House at Maple Street Arc, where their cover as a married couple living in Meadowvale forces them to confront and embrace their true feelings. This period focuses on their [[sun_moon_motif#Core Symbolic Framework|Sun and Moon dynamic]] and their wedding rings becoming symbols of a cover that transformed into reality.
 *   **d. Future Arc: The Dagon Resurrection (2026):** Set after Godric and Maria's relationship formalization, the Dagon Resurrection Arc is a pivotal future event. The [[Dagon, the Last Northern Patriarch#Core Identity|Bilusaludo]]'s theft of Dagon's remains forces a confrontation that culminates in Dagon's resurrection in human form. This event provides ultimate emotional closure for Godric's 250-million-year trauma and introduces Dagon as a key character with unique insights into the [[Antitheriomorphosis#Core Universe Definition|Antitheriomorphosis process]].
