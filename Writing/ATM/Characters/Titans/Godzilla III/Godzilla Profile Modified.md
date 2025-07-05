@@ -4,12 +4,145 @@ tags: [atm, wip]
 
 # Godzilla, King of the Monsters
 
-```dataview
-TABLE length(file.inlinks) as "Backlinks", length(file.outlinks) as "Outgoing Links"
-FROM ""
-SORT length(file.inlinks) DESC
-```
+```dataviewjs
+// Configuration - Change this to analyze a different file
+const targetFile = dv.current().file; // Current file
+// Alternative: const targetFile = dv.page("YourFileName"); // Specific file
 
+// Get outgoing links from the file
+const outgoingLinks = targetFile.outlinks || [];
+
+if (outgoingLinks.length === 0) {
+    dv.paragraph("No outgoing links found in this file.");
+} else {
+    // Read the file content
+    const fileContent = await dv.io.load(targetFile.path);
+    
+    // Prepare data for analysis
+    const linkAnalysis = [];
+    
+    // Extract all actual links from the file content to get full link text
+    const allWikiLinks = fileContent.match(/\[\[([^\]]+)\]\]/g) || [];
+    const allMarkdownLinks = fileContent.match(/\[([^\]]+)\]\(([^)]+)\)/g) || [];
+    
+    // Create a map to track link frequencies with full text
+    const linkFrequencyMap = new Map();
+    
+    // Process wiki links
+    for (const wikiLink of allWikiLinks) {
+        const match = wikiLink.match(/\[\[([^\]]+)\]\]/);
+        if (match) {
+            const fullLinkText = match[1];
+            const displayText = fullLinkText.includes('|') ? fullLinkText.split('|')[1] : fullLinkText;
+            const linkPath = fullLinkText.includes('|') ? fullLinkText.split('|')[0] : fullLinkText;
+            
+            // Extract just the filename for matching with outgoingLinks
+            const fileName = linkPath.split('#')[0].split('^')[0].replace(/\.md$/, '').split('/').pop();
+            
+            const key = `[[${fullLinkText}]]`;
+            if (!linkFrequencyMap.has(key)) {
+                linkFrequencyMap.set(key, {
+                    fullText: fullLinkText,
+                    displayText: displayText,
+                    fileName: fileName,
+                    wikiCount: 0,
+                    markdownCount: 0
+                });
+            }
+            linkFrequencyMap.get(key).wikiCount++;
+        }
+    }
+    
+    // Process markdown links
+    for (const mdLink of allMarkdownLinks) {
+        const match = mdLink.match(/\[([^\]]+)\]\(([^)]+)\)/);
+        if (match) {
+            const displayText = match[1];
+            const linkPath = match[2];
+            const fileName = linkPath.split('#')[0].split('^')[0].replace(/\.md$/, '').split('/').pop();
+            
+            const key = `[${displayText}](${linkPath})`;
+            if (!linkFrequencyMap.has(key)) {
+                linkFrequencyMap.set(key, {
+                    fullText: linkPath,
+                    displayText: displayText,
+                    fileName: fileName,
+                    wikiCount: 0,
+                    markdownCount: 0
+                });
+            }
+            linkFrequencyMap.get(key).markdownCount++;
+        }
+    }
+    
+    // Match with outgoing links and calculate plain text mentions
+    for (const [linkKey, linkData] of linkFrequencyMap) {
+        // Check if this link corresponds to any of our outgoing links
+        const matchingOutgoingLink = outgoingLinks.find(outLink => {
+            const outFileName = outLink.path.replace(/\.md$/, '').split('/').pop();
+            return outFileName === linkData.fileName;
+        });
+        
+        if (matchingOutgoingLink) {
+            const totalLinked = linkData.wikiCount + linkData.markdownCount;
+            
+            // Count plain text mentions of the display text
+            const plainTextPattern = new RegExp(`\\b${escapeRegex(linkData.displayText)}\\b`, 'gi');
+            const allMatches = fileContent.match(plainTextPattern) || [];
+            const plainTextMentions = Math.max(0, allMatches.length - totalLinked);
+            
+            linkAnalysis.push({
+                "Link": linkKey,
+                "Wiki Links": linkData.wikiCount,
+                "Markdown Links": linkData.markdownCount,
+                "Total Linked": totalLinked,
+                "Plain Mentions": plainTextMentions,
+                "All Occurrences": allMatches.length
+            });
+        }
+    }
+    
+    // Sort by total occurrences (descending)
+    linkAnalysis.sort((a, b) => b["Total Linked"] - a["Total Linked"]);
+    
+    // Display summary
+    dv.header(3, `Link Analysis for: ${targetFile.name}`);
+    dv.paragraph(`**Total unique outgoing links:** ${outgoingLinks.length}`);
+    dv.paragraph(`**Total link instances:** ${linkAnalysis.reduce((sum, item) => sum + item["Total Linked"], 0)}`);
+    
+    // Display detailed table
+    dv.table(
+        ["Link", "Wiki Links", "Markdown Links", "Total Linked", "Plain Mentions", "All Occurrences"],
+        linkAnalysis.map(item => [
+            item.Link,
+            item["Wiki Links"],
+            item["Markdown Links"],
+            item["Total Linked"],
+            item["Plain Mentions"],
+            item["All Occurrences"]
+        ])
+    );
+    
+    // Additional insights
+    const mostFrequent = linkAnalysis[0];
+    const leastFrequent = linkAnalysis[linkAnalysis.length - 1];
+    
+    dv.header(4, "Insights");
+    dv.list([
+        `Most frequently linked: ${mostFrequent.Link} (${mostFrequent["Total Linked"]} times)`,
+        `Least frequently linked: ${leastFrequent.Link} (${leastFrequent["Total Linked"]} times)`,
+        `Average links per target: ${(linkAnalysis.reduce((sum, item) => sum + item["Total Linked"], 0) / linkAnalysis.length).toFixed(1)}`
+    ]);
+}
+
+// Helper function to escape special regex characters
+function escapeRegex(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+```
+```dataviewjs
+
+```
 ## I. Core Identity and Overview
 
 This section provides the fundamental identifying details and a high-level overview of Godric Nordson, the being recognized by humanity as Godzilla.
@@ -956,7 +1089,7 @@ Godric's relationships are as ancient and complex as the Titan hierarchy itself.
 
 #### 1. The Last Family: Godzilla & Dagon
 
-The relationship between Godric and his father, Dagon, is the **central tragedy and ultimate redemption** of Godric's existence. It is a bond rooted in profound love, tragically distorted by circumstance, and finally healing across cosmic divides.
+The relationship between Godzilla and his father, Dagon, is the **central tragedy and ultimate redemption** of his existence. It is a bond rooted in profound love, tragically distorted by circumstance, and finally healing across cosmic divides.
 
 *   **The Poisoned Past:** For 250 million years, Godric's hyperthymesia poisoned his memories, convincing him that Dagon's heroic sacrifice was an act of abandonment due to his perceived inadequacy as a hatchling. Dagon, a young father (equivalent to a human 20-year-old) when Godric was conceived and dying tragically at 30, was paralyzed by fear, unable to express his immense pride and love. This created a profound “withholding trap” that ironically caused the very insecurity he feared.
 *   **The Truth Revealed:** Only Barb's testimony, the sole living witness to Dagon's final moments, shattered this illusion. Her account revealed Dagon's profound regret, his desperate search for a community for Godric, and his ultimate act of self-sacrifice to shield his son from the [[The Saga of the Fallen Star|MUTO Prime]] threat.
