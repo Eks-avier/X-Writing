@@ -55,7 +55,8 @@
               "title": "Godzilla Profile"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Godzilla Profile"
             }
           },
           {
@@ -199,11 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Godzilla Profile"
             }
           },
           {
@@ -212,12 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -254,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,7 +275,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "b4f59e995dff0a57",
   "lastOpenFiles": [
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/The Saga of the Fallen Star.md",
