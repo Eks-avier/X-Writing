@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "7238d5415ac62ea6",
+            "id": "b4f59e995dff0a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,19 +54,8 @@
               "icon": "lucide-file",
               "title": "Godzilla Profile"
             }
-          },
-          {
-            "id": "ad46fe991ca89491",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Godzilla Profile"
+              "title": "Backlinks"
             }
           },
           {
@@ -282,10 +270,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad46fe991ca89491",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
-    "Writing/ATM/The Saga of the Fallen Star.md.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/ATM/The Saga of the Fallen Star.md",
+    "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Untitled.md",
+    "Writing/ATM/Clarifications on the Atomic Railgun.md",
+    "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
+    "Writing/ATM/The Saga of the Fallen Star.txt",
+    "Writing/ATM/The Saga of the Fallen Star.md.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
@@ -305,21 +299,15 @@
     "Writing/ATM/Clarifications on the Atomic Railgun.txt",
     "Writing/ATM/Demotion of the Ol' Reliable.txt",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.txt",
-    "Writing/ATM/The Saga of the Fallen Star.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/ATM Titan-to-Human Design Philosophy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/sun_moon_motif.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/rodan_cosmic_witness.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
-    "College/ITS 132 - 01.md",
-    "College/Electromagnetic Induction.md",
-    "College/Formulas for Electromagnetism.md",
     "Writing/ATM - Medieval AU",
     "_Archive",
     "Writing/ATM/Characters/Humans",
     "Writing/ATM/Characters/Titans",
-    "~syncthing~The Redemption of Ghidorah.md.tmp",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",

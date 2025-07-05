@@ -1,5 +1,3 @@
----
-
 This section will feature the Jinshin-Mushi, the Titanus gojira, the Titanus kong, and more:
 
 ```markdown
