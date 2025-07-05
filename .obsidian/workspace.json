@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f59e995dff0a57",
+  "active": "eeb0c3928b932311",
   "lastOpenFiles": [
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
