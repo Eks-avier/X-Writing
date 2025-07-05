@@ -4,6 +4,12 @@ tags: [atm, wip]
 
 # Godzilla, King of the Monsters
 
+```dataview
+TABLE length(file.inlinks) as "Backlinks", length(file.outlinks) as "Outgoing Links"
+FROM ""
+SORT length(file.inlinks) DESC
+```
+
 ## I. Core Identity and Overview
 
 This section provides the fundamental identifying details and a high-level overview of Godric Nordson, the being recognized by humanity as Godzilla.
