@@ -4326,39 +4326,6 @@
         "newlineCount": 224
       }
     },
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23001,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 76.67,
-      "characterCount": 186430,
-      "nonWhitespaceCharacterCount": 151753,
-      "newlineCount": 1220,
-      "readingTimeInMinutes": 86.79622641509434,
-      "linkCount": 345,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744649060573,
-      "modifiedDate": 1751720697247,
-      "sizeInBytes": 187293,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 76.83666666666667,
-        "wordCount": 23051,
-        "characterCount": 186899,
-        "nonWhitespaceCharacterCount": 152173,
-        "newlineCount": 1219
-      },
-      "frontmatter": {
-        "tags": [
-          "atm",
-          "wip"
-        ]
-      }
-    },
     "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4661,1283 +4628,6 @@
         "characterCount": 7972,
         "nonWhitespaceCharacterCount": 6724,
         "newlineCount": 196
-      }
-    },
-    "_Archive/Godzilla II/Godzilla, the King of the Monsters.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 424,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4133333333333333,
-      "characterCount": 3519,
-      "nonWhitespaceCharacterCount": 2996,
-      "newlineCount": 64,
-      "readingTimeInMinutes": 1.6,
-      "linkCount": 23,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "Godric",
-        "Godric Nordson",
-        "Alpha Paramount",
-        "King of the Monsters"
-      ],
-      "createdDate": 1743271055212,
-      "modifiedDate": 1751412540728,
-      "sizeInBytes": 3843,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4133333333333333,
-        "wordCount": 424,
-        "characterCount": 3519,
-        "nonWhitespaceCharacterCount": 2996,
-        "newlineCount": 64
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla",
-          "Godric",
-          "Godric Nordson",
-          "Alpha Paramount",
-          "King of the Monsters"
-        ],
-        "tags": [
-          "atm/titan",
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira"
-        ],
-        "status": "active",
-        "created": "2024-03-30",
-        "modified": "2024-04-07",
-        "File": "Main Alternate Universe/Characters/Godzilla, the King of the Monsters.md"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Trivia and Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 719,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3966666666666665,
-      "characterCount": 5576,
-      "nonWhitespaceCharacterCount": 4764,
-      "newlineCount": 94,
-      "readingTimeInMinutes": 2.7132075471698114,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla Miscellaneous",
-        "Godric Fun Facts"
-      ],
-      "createdDate": 1743966008695,
-      "modifiedDate": 1751274287589,
-      "sizeInBytes": 5810,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3966666666666665,
-        "wordCount": 719,
-        "characterCount": 5576,
-        "nonWhitespaceCharacterCount": 4764,
-        "newlineCount": 94
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla Miscellaneous",
-          "Godric Fun Facts"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/trivia"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Sensory Capabilities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1804,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.013333333333334,
-      "characterCount": 15458,
-      "nonWhitespaceCharacterCount": 13291,
-      "newlineCount": 243,
-      "readingTimeInMinutes": 6.807547169811321,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Senses",
-        "Godric's Sensory System"
-      ],
-      "createdDate": 1743965334175,
-      "modifiedDate": 1751274287570,
-      "sizeInBytes": 15709,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.013333333333334,
-        "wordCount": 1804,
-        "characterCount": 15458,
-        "nonWhitespaceCharacterCount": 13291,
-        "newlineCount": 243
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Senses",
-          "Godric's Sensory System"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/abilities"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Physicality and Forms.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1318,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.3933333333333335,
-      "characterCount": 10381,
-      "nonWhitespaceCharacterCount": 8585,
-      "newlineCount": 189,
-      "readingTimeInMinutes": 4.973584905660378,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Physical Form",
-        "Godzilla's Appearance"
-      ],
-      "createdDate": 1743965226192,
-      "modifiedDate": 1751274287557,
-      "sizeInBytes": 10613,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.3933333333333335,
-        "wordCount": 1318,
-        "characterCount": 10381,
-        "nonWhitespaceCharacterCount": 8585,
-        "newlineCount": 189
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Physical Form",
-          "Godzilla's Appearance"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/physicality"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Personality and Relationships.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1621,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.403333333333333,
-      "characterCount": 12177,
-      "nonWhitespaceCharacterCount": 10415,
-      "newlineCount": 157,
-      "readingTimeInMinutes": 6.1169811320754715,
-      "linkCount": 24,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Character",
-        "Godric's Relationships",
-        "Godzilla's Psychology"
-      ],
-      "createdDate": 1743965453959,
-      "modifiedDate": 1751274287511,
-      "sizeInBytes": 12474,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.403333333333333,
-        "wordCount": 1621,
-        "characterCount": 12177,
-        "nonWhitespaceCharacterCount": 10415,
-        "newlineCount": 157
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Character",
-          "Godric's Relationships",
-          "Godzilla's Psychology"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/personality",
-          "atm/character/relationships"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Physical Capabilities and Combat.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1588,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.293333333333333,
-      "characterCount": 13120,
-      "nonWhitespaceCharacterCount": 11250,
-      "newlineCount": 285,
-      "readingTimeInMinutes": 5.992452830188679,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Combat Style",
-        "Godric's Fighting Techniques",
-        "Godzilla's Physical Abilities"
-      ],
-      "createdDate": 1743965867957,
-      "modifiedDate": 1751274287533,
-      "sizeInBytes": 13419,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.293333333333333,
-        "wordCount": 1588,
-        "characterCount": 13120,
-        "nonWhitespaceCharacterCount": 11250,
-        "newlineCount": 285
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Combat Style",
-          "Godric's Fighting Techniques",
-          "Godzilla's Physical Abilities"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/combat"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Energy Domination.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1213,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.043333333333333,
-      "characterCount": 10171,
-      "nonWhitespaceCharacterCount": 8752,
-      "newlineCount": 190,
-      "readingTimeInMinutes": 4.577358490566038,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Powers",
-        "Godric's Energy Abilities",
-        "Atomic Amplification"
-      ],
-      "createdDate": 1743965363880,
-      "modifiedDate": 1751274287483,
-      "sizeInBytes": 10455,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.043333333333333,
-        "wordCount": 1213,
-        "characterCount": 10171,
-        "nonWhitespaceCharacterCount": 8752,
-        "newlineCount": 190
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Powers",
-          "Godric's Energy Abilities",
-          "Atomic Amplification"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/abilities"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Biology and Physiology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1175,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.9166666666666665,
-      "characterCount": 9407,
-      "nonWhitespaceCharacterCount": 8033,
-      "newlineCount": 155,
-      "readingTimeInMinutes": 4.433962264150943,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Biology",
-        "Godzilla's Physiology",
-        "Godric's Biological Functions"
-      ],
-      "createdDate": 1743965281530,
-      "modifiedDate": 1751274287465,
-      "sizeInBytes": 9699,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.9166666666666665,
-        "wordCount": 1175,
-        "characterCount": 9407,
-        "nonWhitespaceCharacterCount": 8033,
-        "newlineCount": 155
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Biology",
-          "Godzilla's Physiology",
-          "Godric's Biological Functions"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/biology"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla II/Godzilla - Background and Heritage.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1292,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.306666666666667,
-      "characterCount": 9903,
-      "nonWhitespaceCharacterCount": 8447,
-      "newlineCount": 167,
-      "readingTimeInMinutes": 4.875471698113207,
-      "linkCount": 18,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla's Origins",
-        "Godric's Heritage",
-        "Northerner Lineage"
-      ],
-      "createdDate": 1743965409993,
-      "modifiedDate": 1751412540695,
-      "sizeInBytes": 10181,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.306666666666667,
-        "wordCount": 1292,
-        "characterCount": 9903,
-        "nonWhitespaceCharacterCount": 8447,
-        "newlineCount": 167
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godzilla's Origins",
-          "Godric's Heritage",
-          "Northerner Lineage"
-        ],
-        "tags": [
-          "atm/titan/character/main",
-          "atm/titan/northern_gojira",
-          "atm/character/background"
-        ],
-        "status": "active",
-        "created": "2024-04-07",
-        "modified": "2024-04-07"
-      }
-    },
-    "_Archive/Godzilla/9 - Domination of Energy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3367,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 11.223333333333333,
-      "characterCount": 32592,
-      "nonWhitespaceCharacterCount": 27267,
-      "newlineCount": 665,
-      "readingTimeInMinutes": 12.705660377358491,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743442092832,
-      "modifiedDate": 1743490264123,
-      "sizeInBytes": 33442,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 11.223333333333333,
-        "wordCount": 3367,
-        "characterCount": 32592,
-        "nonWhitespaceCharacterCount": 27267,
-        "newlineCount": 665
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Energy Abilities Analysis",
-        "related_profiles": [
-          "[[1 - Identity & Appearance]]",
-          "[[7 - Combat Evolution]]",
-          "[[8 - Base Physical Capabilities]]"
-        ],
-        "ability_categories": [
-          "Energy Sensing",
-          "Atomic Amplification",
-          "Atomic Breath",
-          "Atomic Railgun",
-          "Nuclear Pulse",
-          "Energy Conversion",
-          "The Zone State"
-        ],
-        "signature_techniques": [
-          "Atomic Railgun",
-          "Atomic Amplification",
-          "Nuclear Pulse"
-        ],
-        "developmental_milestone": "The Zone State during Battra conflict",
-        "post_invasion_enhancement": "Significant efficiency and control improvements",
-        "current_projects": [
-          "Atomic Stride perfection",
-          "Zone State replication"
-        ],
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/8 - Base Physical Capabilities.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2086,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.953333333333333,
-      "characterCount": 17792,
-      "nonWhitespaceCharacterCount": 15322,
-      "newlineCount": 318,
-      "readingTimeInMinutes": 7.871698113207547,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743442092832,
-      "modifiedDate": 1745468746328,
-      "sizeInBytes": 18501,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.953333333333333,
-        "wordCount": 2086,
-        "characterCount": 17792,
-        "nonWhitespaceCharacterCount": 15322,
-        "newlineCount": 318
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Physical Capabilities Analysis",
-        "related_profiles": [
-          "[[Godzilla - Identity & Appearance]]",
-          "[[Godzilla - Combat Evolution]]",
-          "[[Godzilla - Domination of Energy]]"
-        ],
-        "capability_categories": [
-          "strength",
-          "durability",
-          "senses",
-          "regeneration",
-          "agility",
-          "speed"
-        ],
-        "comparative_ranking": "Superior to all other Titans when Amplified",
-        "post_invasion_enhancement": "Approximately 150% baseline improvement",
-        "major_limitations": [
-          "Human form constraints",
-          "Energy dependencies",
-          "Reduced scale"
-        ],
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/7 - Combat Evolution.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2384,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.946666666666666,
-      "characterCount": 22287,
-      "nonWhitespaceCharacterCount": 18805,
-      "newlineCount": 442,
-      "readingTimeInMinutes": 8.99622641509434,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743442092832,
-      "modifiedDate": 1743442670200,
-      "sizeInBytes": 23088,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.946666666666666,
-        "wordCount": 2384,
-        "characterCount": 22287,
-        "nonWhitespaceCharacterCount": 18805,
-        "newlineCount": 442
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Combat Analysis",
-        "related_profiles": [
-          "[[Godzilla - Identity & Appearance]]",
-          "[[Godzilla - Physical Capabilities]]",
-          "[[Godzilla - Domination of Energy]]"
-        ],
-        "fighting_philosophy": "Efficient power application with minimal wasted effort",
-        "combat_style": "Hybrid approach integrating raw power with technical precision",
-        "key_opponents": [
-          "MUTOs",
-          "Ghidorah",
-          "Kong",
-          "Battra"
-        ],
-        "signature_techniques": [
-          "Atomic Railgun",
-          "Nuclear Pulse",
-          "Energy-Enhanced Strikes"
-        ],
-        "developmental_milestone": "Kong encounter and Battra confrontation",
-        "current_focus": "Integrating energy techniques with physical combat",
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/6 - Hierarchical Position & Authority.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1707,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.69,
-      "characterCount": 16050,
-      "nonWhitespaceCharacterCount": 13547,
-      "newlineCount": 331,
-      "readingTimeInMinutes": 6.441509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743442005840,
-      "modifiedDate": 1743846388794,
-      "sizeInBytes": 16723,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.69,
-        "wordCount": 1707,
-        "characterCount": 16050,
-        "nonWhitespaceCharacterCount": 13547,
-        "newlineCount": 331
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Hierarchical Analysis",
-        "related_profiles": [
-          "[[Godzilla - Identity & Appearance]]",
-          "[[Godzilla - Psychological Profile]]",
-          "[[Godzilla - History]]"
-        ],
-        "key_positions": [
-          "Alpha Paramount",
-          "King of the Monsters"
-        ],
-        "governance_structure": "Structured Titan Hierarchy with Warden System",
-        "authority_scope": "Global (Surface World)",
-        "authority_limitations": [
-          "Divine Mandate regarding human affairs",
-          "Kong's sovereignty over Hollow Earth",
-          "Battra's independence through Vow agreement"
-        ],
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/5 - Psychological Profile.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1683,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.61,
-      "characterCount": 16770,
-      "nonWhitespaceCharacterCount": 14016,
-      "newlineCount": 340,
-      "readingTimeInMinutes": 6.350943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743430716296,
-      "modifiedDate": 1743445327151,
-      "sizeInBytes": 17478,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.61,
-        "wordCount": 1683,
-        "characterCount": 16770,
-        "nonWhitespaceCharacterCount": 14016,
-        "newlineCount": 340
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Psychological Analysis",
-        "related_profiles": [
-          "[[1 - Identity & Appearance]]",
-          "[[6 - Hierarchical Position & Authority]]",
-          "[[2 - Historical Timeline]]"
-        ],
-        "key_traits": [
-          "stoic",
-          "pragmatic",
-          "protective",
-          "adaptable",
-          "territorial"
-        ],
-        "developmental_phases": [
-          {
-            "period": "Prehistoric-Ancient",
-            "core_drive": "Survival and territorial establishment"
-          },
-          {
-            "period": "Ancient-Modern",
-            "core_drive": "Balance maintenance and species protection"
-          },
-          {
-            "period": "Post-Antitheriomorphosis",
-            "core_drive": "Identity reconciliation and societal integration"
-          }
-        ],
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/4 - Cultural & Species Background.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4411,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.703333333333333,
-      "characterCount": 37423,
-      "nonWhitespaceCharacterCount": 32304,
-      "newlineCount": 565,
-      "readingTimeInMinutes": 16.645283018867925,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055209,
-      "modifiedDate": 1751412540842,
-      "sizeInBytes": 38261,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 14.703333333333333,
-        "wordCount": 4411,
-        "characterCount": 37423,
-        "nonWhitespaceCharacterCount": 32304,
-        "newlineCount": 565
-      },
-      "frontmatter": {
-        "section": "Cultural & Species Background",
-        "character": "Godzilla",
-        "human_name": "Godric Nordson",
-        "related": [
-          "[[Writing/ATM/Unrefined/Titanus Gojira]]",
-          "[[Northerner]]",
-          "[[The North]]",
-          "[[The Directive of Heaven]]",
-          "[[MUTO]]",
-          "[[Dagon, the Last Northern Patriarch]]",
-          "[[Mothra]]",
-          "[[Titanus zilla]]"
-        ],
-        "cultural_elements": [
-          "Factional Divisions",
-          "Social Structure",
-          "Value Hierarchy",
-          "Reproductive Patterns",
-          "Naming Conventions",
-          "Parental Inheritance",
-          "Energy Communication",
-          "Hybridization Perspectives"
-        ],
-        "tags": [
-          "#atm/titan/titan-culture",
-          "#atm/titan/species-profile",
-          "#atm/titan/northern-faction",
-          "#atm/titan/northern_gojira/godzilla",
-          "atm"
-        ],
-        "created": "2025-03-24",
-        "last_updated": "2025-04-01"
-      }
-    },
-    "_Archive/Godzilla/2 - Historical Timeline.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2649,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.83,
-      "characterCount": 22906,
-      "nonWhitespaceCharacterCount": 19062,
-      "newlineCount": 404,
-      "readingTimeInMinutes": 9.99622641509434,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055218,
-      "modifiedDate": 1751412540779,
-      "sizeInBytes": 23602,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.83,
-        "wordCount": 2649,
-        "characterCount": 22906,
-        "nonWhitespaceCharacterCount": 19062,
-        "newlineCount": 404
-      },
-      "frontmatter": {
-        "section": "Historical Timeline",
-        "character": "Godzilla",
-        "related": [
-          "[[The North]]",
-          "[[Mothra, the Queen of the Monsters|Mothra]]",
-          "[[Battra, the Lord of the Mystic Arts|Battra]]",
-          "[[Anguirus, the Stalwart Vanguard|Anguirus]]",
-          "[[Kong, King of the Hollow Earth|Kong]]",
-          "[[MUTOs]]",
-          "[[Ghidorah]]",
-          "[[Atlantis]]"
-        ],
-        "temporal_markers": [
-          "Pre-Historic Era (~250 MYA)",
-          "Ancient History (~10,000 BCE)",
-          "Modern Era (2014-Present)"
-        ],
-        "tags": [
-          "#atm/titan/titan-history",
-          "#atm/titan/timeline",
-          "#atm/titan/key-events",
-          "#atm/titan/northern_gojira/godzilla",
-          "atm"
-        ],
-        "created": "2025-03-24",
-        "last_updated": "2025-03-24"
-      }
-    },
-    "_Archive/Godzilla/3 - Legacy and Impact.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1929,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.43,
-      "characterCount": 17386,
-      "nonWhitespaceCharacterCount": 15179,
-      "newlineCount": 290,
-      "readingTimeInMinutes": 7.279245283018868,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271055221,
-      "modifiedDate": 1751412540807,
-      "sizeInBytes": 17916,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.43,
-        "wordCount": 1929,
-        "characterCount": 17386,
-        "nonWhitespaceCharacterCount": 15179,
-        "newlineCount": 290
-      },
-      "frontmatter": {
-        "section": "Legacy & Impact",
-        "character": "Godzilla",
-        "related": [
-          "[[Titan Hierarchy]]",
-          "[[Monster Island Palace]]",
-          "[[Hollow Earth]]",
-          "[[Human-Titan Relations]]",
-          "[[The Zone]]"
-        ],
-        "impact_areas": [
-          "Titan Society",
-          "Earth's Ecosystem",
-          "Human Development",
-          "Planetary Defense"
-        ],
-        "tags": [
-          "#atm/titan/titan-influence",
-          "#atm/titan/historical-significance",
-          "#atm/titan/ecological-impact",
-          "atm/titan/northern_gojira/godzilla",
-          "atm"
-        ],
-        "created": "2025-03-24",
-        "last_updated": "2025-03-24"
-      }
-    },
-    "_Archive/Godzilla/10 - Personal Relationships.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2334,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.78,
-      "characterCount": 23494,
-      "nonWhitespaceCharacterCount": 19797,
-      "newlineCount": 455,
-      "readingTimeInMinutes": 8.80754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743442092832,
-      "modifiedDate": 1743846388823,
-      "sizeInBytes": 24481,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.78,
-        "wordCount": 2334,
-        "characterCount": 23494,
-        "nonWhitespaceCharacterCount": 19797,
-        "newlineCount": 455
-      },
-      "frontmatter": {
-        "character": "Godzilla/Godric Nordson",
-        "aliases": [
-          "The King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "profile_type": "Relationship Analysis",
-        "related_profiles": [
-          "[[Godzilla - Identity & Appearance]]",
-          "[[Godzilla - Psychological Profile]]",
-          "[[Godzilla - History]]"
-        ],
-        "key_relationships": [
-          "Mothra (Maria): Divine Alpha, life partner",
-          "Anguirus (Alexios): Beta Tier, closest ally",
-          "Rodan (Roman): Beta Tier, aerial enforcer",
-          "Kong: Alpha Sovereign, respected rival",
-          "Battra (Bartholomew): Lord of Mystic Arts, complex ally",
-          "Madison Russell: Human connection, palace architect"
-        ],
-        "relationship_structure": "Hierarchical with clear distinction between professional and personal connections",
-        "developmental_milestones": [
-          "Mothra Relationship: Domestic Fantasy Arc evolution",
-          "Kong Relationship: Post-conflict respect development",
-          "Battra Relationship: Trinity renewal after Xillien Invasion"
-        ],
-        "last_updated": "2025-03-31"
-      }
-    },
-    "_Archive/Godzilla/1 - Identity & Appearance.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1197,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.99,
-      "characterCount": 10776,
-      "nonWhitespaceCharacterCount": 8284,
-      "newlineCount": 190,
-      "readingTimeInMinutes": 4.516981132075472,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": [
-        "Godzilla",
-        "Godric",
-        "Godric Nordson",
-        "Alpha Paramount",
-        "King of the Monsters",
-        "The Last Northerner"
-      ],
-      "createdDate": 1743271055205,
-      "modifiedDate": 1751412540761,
-      "sizeInBytes": 11166,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.99,
-        "wordCount": 1197,
-        "characterCount": 10776,
-        "nonWhitespaceCharacterCount": 8284,
-        "newlineCount": 190
-      },
-      "frontmatter": {
-        "section": "Basic Identity",
-        "character": "Godzilla",
-        "human_name": "Godric Nordson",
-        "aliases": [
-          "Godzilla",
-          "Godric",
-          "Godric Nordson",
-          "Alpha Paramount",
-          "King of the Monsters",
-          "The Last Northerner"
-        ],
-        "tags": [
-          "atm",
-          "atm/titan/titan-identity",
-          "atm/titan/physical-traits",
-          "atm/titan/northern_gojira/godzilla"
-        ],
-        "created": "2025-03-24",
-        "last_updated": "2025-03-24"
-      }
-    },
-    "_Archive/Godric Nordson - Physical Features.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2416,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.053333333333333,
-      "characterCount": 21325,
-      "nonWhitespaceCharacterCount": 17587,
-      "newlineCount": 389,
-      "readingTimeInMinutes": 9.116981132075471,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "Godric",
-        "Godzilla",
-        "King of the Monsters",
-        "Alpha Paramount",
-        "The Last Northerner"
-      ],
-      "createdDate": 1745353023744,
-      "modifiedDate": 1745477420803,
-      "sizeInBytes": 21667,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.053333333333333,
-        "wordCount": 2416,
-        "characterCount": 21325,
-        "nonWhitespaceCharacterCount": 17587,
-        "newlineCount": 389
-      },
-      "frontmatter": {
-        "aliases": [
-          "Godric",
-          "Godzilla",
-          "King of the Monsters",
-          "Alpha Paramount",
-          "The Last Northerner"
-        ],
-        "tags": [
-          "atm",
-          "atm/titan",
-          "atm/titan/character/main",
-          "atm/physical_profile"
-        ],
-        "status": "active",
-        "created": "2025-04-23",
-        "modified": "2025-04-23"
-      }
-    },
-    "_Archive/Anatomical Reference - 6.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3138,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.46,
-      "characterCount": 26903,
-      "nonWhitespaceCharacterCount": 22101,
-      "newlineCount": 475,
-      "readingTimeInMinutes": 11.841509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1747406933457,
-      "modifiedDate": 1748620612393,
-      "sizeInBytes": 27003,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.46,
-        "wordCount": 3138,
-        "characterCount": 26903,
-        "nonWhitespaceCharacterCount": 22101,
-        "newlineCount": 475
-      }
-    },
-    "_Archive/Anatomical Reference - 5.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3100,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.333333333333334,
-      "characterCount": 25996,
-      "nonWhitespaceCharacterCount": 21812,
-      "newlineCount": 457,
-      "readingTimeInMinutes": 11.69811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1747239922414,
-      "modifiedDate": 1747239938282,
-      "sizeInBytes": 26035,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.333333333333334,
-        "wordCount": 3100,
-        "characterCount": 25996,
-        "nonWhitespaceCharacterCount": 21812,
-        "newlineCount": 457
-      }
-    },
-    "_Archive/Anatomical Reference - 4.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2566,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.553333333333333,
-      "characterCount": 21466,
-      "nonWhitespaceCharacterCount": 17982,
-      "newlineCount": 348,
-      "readingTimeInMinutes": 9.683018867924527,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746984431709,
-      "modifiedDate": 1746984451966,
-      "sizeInBytes": 21498,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.553333333333333,
-        "wordCount": 2566,
-        "characterCount": 21466,
-        "nonWhitespaceCharacterCount": 17982,
-        "newlineCount": 348
-      }
-    },
-    "_Archive/Anatomical Reference - 1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2152,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.173333333333333,
-      "characterCount": 18605,
-      "nonWhitespaceCharacterCount": 14923,
-      "newlineCount": 319,
-      "readingTimeInMinutes": 8.120754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746867553420,
-      "modifiedDate": 1746876665580,
-      "sizeInBytes": 18638,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.173333333333333,
-        "wordCount": 2152,
-        "characterCount": 18605,
-        "nonWhitespaceCharacterCount": 14923,
-        "newlineCount": 319
-      }
-    },
-    "_Archive/Anatomical Reference - 2.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2361,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.87,
-      "characterCount": 19818,
-      "nonWhitespaceCharacterCount": 16544,
-      "newlineCount": 339,
-      "readingTimeInMinutes": 8.909433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746865022449,
-      "modifiedDate": 1746909781670,
-      "sizeInBytes": 19871,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.87,
-        "wordCount": 2361,
-        "characterCount": 19818,
-        "nonWhitespaceCharacterCount": 16544,
-        "newlineCount": 339
-      }
-    },
-    "_Archive/Anatomical Reference - 0.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2312,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.706666666666667,
-      "characterCount": 18279,
-      "nonWhitespaceCharacterCount": 15130,
-      "newlineCount": 299,
-      "readingTimeInMinutes": 8.724528301886792,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746975927927,
-      "modifiedDate": 1746975943494,
-      "sizeInBytes": 18351,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.706666666666667,
-        "wordCount": 2312,
-        "characterCount": 18279,
-        "nonWhitespaceCharacterCount": 15130,
-        "newlineCount": 299
-      }
-    },
-    "Templates/Magic System - Core Concepts.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 465,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.55,
-      "characterCount": 4160,
-      "nonWhitespaceCharacterCount": 3535,
-      "newlineCount": 93,
-      "readingTimeInMinutes": 1.7547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271054995,
-      "modifiedDate": 1743846388152,
-      "sizeInBytes": 4160,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.55,
-        "wordCount": 465,
-        "characterCount": 4160,
-        "nonWhitespaceCharacterCount": 3535,
-        "newlineCount": 93
-      }
-    },
-    "Templates/Character References Template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 706,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3533333333333335,
-      "characterCount": 7144,
-      "nonWhitespaceCharacterCount": 5854,
-      "newlineCount": 214,
-      "readingTimeInMinutes": 2.6641509433962263,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1743271054992,
-      "modifiedDate": 1743846388145,
-      "sizeInBytes": 7164,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3533333333333335,
-        "wordCount": 706,
-        "characterCount": 7144,
-        "nonWhitespaceCharacterCount": 5854,
-        "newlineCount": 214
       }
     },
     "Notepad 4.md": {
@@ -7263,24 +5953,24 @@
         "newlineCount": 0
       }
     },
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md": {
+    "_Archive/Fiction/Godzilla/1 - Identity & Appearance.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 22312,
+      "wordCount": 1228,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 74.37333333333333,
-      "characterCount": 179178,
-      "nonWhitespaceCharacterCount": 144809,
-      "newlineCount": 1297,
-      "readingTimeInMinutes": 84.19622641509434,
-      "linkCount": 140,
+      "pageCount": 4.093333333333334,
+      "characterCount": 11132,
+      "nonWhitespaceCharacterCount": 8578,
+      "newlineCount": 208,
+      "readingTimeInMinutes": 4.633962264150943,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1751721836577,
-      "modifiedDate": 1751741306007,
-      "sizeInBytes": 180021,
+      "createdDate": 1743271055205,
+      "modifiedDate": 1751412540761,
+      "sizeInBytes": 11166,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7288,12 +5978,789 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "atm",
-          "wip"
-        ]
+      }
+    },
+    "_Archive/Fiction/Godzilla/10 - Personal Relationships.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2429,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.096666666666666,
+      "characterCount": 24465,
+      "nonWhitespaceCharacterCount": 20629,
+      "newlineCount": 476,
+      "readingTimeInMinutes": 9.166037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743442092832,
+      "modifiedDate": 1743846388823,
+      "sizeInBytes": 24481,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/3 - Legacy and Impact.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1965,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.55,
+      "characterCount": 17884,
+      "nonWhitespaceCharacterCount": 15597,
+      "newlineCount": 312,
+      "readingTimeInMinutes": 7.415094339622642,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055221,
+      "modifiedDate": 1751412540807,
+      "sizeInBytes": 17916,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/2 - Historical Timeline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2705,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.016666666666667,
+      "characterCount": 23546,
+      "nonWhitespaceCharacterCount": 19597,
+      "newlineCount": 428,
+      "readingTimeInMinutes": 10.20754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055218,
+      "modifiedDate": 1751412540779,
+      "sizeInBytes": 23602,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/4 - Cultural & Species Background.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4466,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.886666666666667,
+      "characterCount": 38161,
+      "nonWhitespaceCharacterCount": 32922,
+      "newlineCount": 595,
+      "readingTimeInMinutes": 16.852830188679246,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055209,
+      "modifiedDate": 1751412540842,
+      "sizeInBytes": 38261,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/5 - Psychological Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1743,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.81,
+      "characterCount": 17470,
+      "nonWhitespaceCharacterCount": 14596,
+      "newlineCount": 365,
+      "readingTimeInMinutes": 6.577358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743430716296,
+      "modifiedDate": 1743445327151,
+      "sizeInBytes": 17478,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/6 - Hierarchical Position & Authority.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1769,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.8966666666666665,
+      "characterCount": 16703,
+      "nonWhitespaceCharacterCount": 14114,
+      "newlineCount": 347,
+      "readingTimeInMinutes": 6.675471698113207,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743442005840,
+      "modifiedDate": 1743846388794,
+      "sizeInBytes": 16723,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/7 - Combat Evolution.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2456,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.186666666666667,
+      "characterCount": 23048,
+      "nonWhitespaceCharacterCount": 19478,
+      "newlineCount": 457,
+      "readingTimeInMinutes": 9.267924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743442092832,
+      "modifiedDate": 1743442670200,
+      "sizeInBytes": 23088,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/8 - Base Physical Capabilities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2145,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.15,
+      "characterCount": 18449,
+      "nonWhitespaceCharacterCount": 15904,
+      "newlineCount": 331,
+      "readingTimeInMinutes": 8.09433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743442092832,
+      "modifiedDate": 1745468746328,
+      "sizeInBytes": 18501,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla/9 - Domination of Energy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3441,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 11.47,
+      "characterCount": 33363,
+      "nonWhitespaceCharacterCount": 27905,
+      "newlineCount": 694,
+      "readingTimeInMinutes": 12.984905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743442092832,
+      "modifiedDate": 1743490264123,
+      "sizeInBytes": 33442,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Background and Heritage.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1309,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.363333333333333,
+      "characterCount": 10137,
+      "nonWhitespaceCharacterCount": 8645,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 4.939622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965409993,
+      "modifiedDate": 1751412540695,
+      "sizeInBytes": 10181,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Biology and Physiology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9766666666666666,
+      "characterCount": 9653,
+      "nonWhitespaceCharacterCount": 8242,
+      "newlineCount": 167,
+      "readingTimeInMinutes": 4.50188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965281530,
+      "modifiedDate": 1751274287465,
+      "sizeInBytes": 9699,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Energy Domination.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1231,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.1033333333333335,
+      "characterCount": 10413,
+      "nonWhitespaceCharacterCount": 8957,
+      "newlineCount": 202,
+      "readingTimeInMinutes": 4.645283018867924,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965363880,
+      "modifiedDate": 1751274287483,
+      "sizeInBytes": 10455,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Physical Capabilities and Combat.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1608,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.36,
+      "characterCount": 13377,
+      "nonWhitespaceCharacterCount": 11468,
+      "newlineCount": 297,
+      "readingTimeInMinutes": 6.067924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965867957,
+      "modifiedDate": 1751274287533,
+      "sizeInBytes": 13419,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Personality and Relationships.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1639,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.463333333333333,
+      "characterCount": 12454,
+      "nonWhitespaceCharacterCount": 10652,
+      "newlineCount": 170,
+      "readingTimeInMinutes": 6.184905660377359,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965453959,
+      "modifiedDate": 1751274287511,
+      "sizeInBytes": 12474,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Physicality and Forms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1334,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.446666666666666,
+      "characterCount": 10603,
+      "nonWhitespaceCharacterCount": 8775,
+      "newlineCount": 200,
+      "readingTimeInMinutes": 5.033962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965226192,
+      "modifiedDate": 1751274287557,
+      "sizeInBytes": 10613,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Sensory Capabilities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1820,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.066666666666666,
+      "characterCount": 15673,
+      "nonWhitespaceCharacterCount": 13474,
+      "newlineCount": 254,
+      "readingTimeInMinutes": 6.867924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743965334175,
+      "modifiedDate": 1751274287570,
+      "sizeInBytes": 15709,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla - Trivia and Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 735,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.45,
+      "characterCount": 5786,
+      "nonWhitespaceCharacterCount": 4942,
+      "newlineCount": 105,
+      "readingTimeInMinutes": 2.7735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743966008695,
+      "modifiedDate": 1751274287589,
+      "sizeInBytes": 5810,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla II/Godzilla, the King of the Monsters.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 454,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5133333333333334,
+      "characterCount": 3837,
+      "nonWhitespaceCharacterCount": 3259,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 1.7132075471698114,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271055212,
+      "modifiedDate": 1751412540728,
+      "sizeInBytes": 3843,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 0.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2312,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.706666666666667,
+      "characterCount": 18279,
+      "nonWhitespaceCharacterCount": 15130,
+      "newlineCount": 299,
+      "readingTimeInMinutes": 8.724528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746975927927,
+      "modifiedDate": 1746975943494,
+      "sizeInBytes": 18351,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 6.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3138,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.46,
+      "characterCount": 26903,
+      "nonWhitespaceCharacterCount": 22101,
+      "newlineCount": 475,
+      "readingTimeInMinutes": 11.841509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747406933457,
+      "modifiedDate": 1748620612393,
+      "sizeInBytes": 27003,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2152,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.173333333333333,
+      "characterCount": 18605,
+      "nonWhitespaceCharacterCount": 14923,
+      "newlineCount": 319,
+      "readingTimeInMinutes": 8.120754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746867553420,
+      "modifiedDate": 1746876665580,
+      "sizeInBytes": 18638,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2361,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.87,
+      "characterCount": 19818,
+      "nonWhitespaceCharacterCount": 16544,
+      "newlineCount": 339,
+      "readingTimeInMinutes": 8.909433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746865022449,
+      "modifiedDate": 1746909781670,
+      "sizeInBytes": 19871,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 4.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2566,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.553333333333333,
+      "characterCount": 21466,
+      "nonWhitespaceCharacterCount": 17982,
+      "newlineCount": 348,
+      "readingTimeInMinutes": 9.683018867924527,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746984431709,
+      "modifiedDate": 1746984451966,
+      "sizeInBytes": 21498,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Anatomical Reference - 5.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3100,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.333333333333334,
+      "characterCount": 25996,
+      "nonWhitespaceCharacterCount": 21812,
+      "newlineCount": 457,
+      "readingTimeInMinutes": 11.69811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747239922414,
+      "modifiedDate": 1747239938282,
+      "sizeInBytes": 26035,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godric Nordson - Physical Features.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2439,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.13,
+      "characterCount": 21547,
+      "nonWhitespaceCharacterCount": 17785,
+      "newlineCount": 395,
+      "readingTimeInMinutes": 9.20377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745353023744,
+      "modifiedDate": 1745477420803,
+      "sizeInBytes": 21667,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Archive/Fiction/Godzilla Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23004,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 76.68,
+      "characterCount": 186454,
+      "nonWhitespaceCharacterCount": 151773,
+      "newlineCount": 1222,
+      "readingTimeInMinutes": 86.80754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744649060573,
+      "modifiedDate": 1751720697247,
+      "sizeInBytes": 187293,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Templates/Character References Template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 706,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3533333333333335,
+      "characterCount": 7144,
+      "nonWhitespaceCharacterCount": 5854,
+      "newlineCount": 214,
+      "readingTimeInMinutes": 2.6641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271054992,
+      "modifiedDate": 1743846388145,
+      "sizeInBytes": 7164,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "_Templates/Magic System - Core Concepts.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 465,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.55,
+      "characterCount": 4160,
+      "nonWhitespaceCharacterCount": 3535,
+      "newlineCount": 93,
+      "readingTimeInMinutes": 1.7547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743271054995,
+      "modifiedDate": 1743846388152,
+      "sizeInBytes": 4160,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22090,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 73.63333333333334,
+      "characterCount": 176941,
+      "nonWhitespaceCharacterCount": 143205,
+      "newlineCount": 1222,
+      "readingTimeInMinutes": 83.35849056603773,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751721836577,
+      "modifiedDate": 1751741534622,
+      "sizeInBytes": 177760,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

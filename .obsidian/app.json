@@ -10,7 +10,8 @@
     "downscalePercent": 80
   },
   "userIgnoreFilters": [
-    "Templates/"
+    "_Archive/",
+    "_Templates/"
   ],
   "attachmentFolderPath": "/",
   "showLineNumber": true,

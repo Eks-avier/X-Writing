@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b4f59e995dff0a57",
+            "id": "89512d2ac19a09ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Godzilla Profile"
-            }
-          },
-          {
-            "id": "2ecd4dad05325f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mothra, the Queen of the Monsters"
             }
           }
         ],
@@ -177,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431,
-    "collapsed": true
+    "width": 431
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -298,10 +273,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f59e995dff0a57",
+  "active": "89512d2ac19a09ed",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "_Archive/Fiction/Anatomical Reference - 1.md",
+    "_Archive/Fiction/Anatomical Reference - 4.md",
+    "_Archive/Fiction/Godzilla Profile.md",
+    "_Archive/Fiction",
     "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
     "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md",
@@ -330,12 +308,9 @@
     "Writing/ATM/The Pinnacle of Limitless Adaptation.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/ATM Titan-to-Human Design Philosophy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/sun_moon_motif.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
     "Writing/ATM - Medieval AU",
     "_Archive",
     "Writing/ATM/Characters/Humans",
-    "Writing/ATM/Characters/Titans",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",

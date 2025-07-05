@@ -5,8 +5,16 @@
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
-      "basename": "Godzilla Profile Modified",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md"
+      "basename": "Anatomical Reference - 1",
+      "path": "_Archive/Fiction/Anatomical Reference - 1.md"
+    },
+    {
+      "basename": "Anatomical Reference - 4",
+      "path": "_Archive/Fiction/Anatomical Reference - 4.md"
+    },
+    {
+      "basename": "Godzilla Profile",
+      "path": "_Archive/Fiction/Godzilla Profile.md"
     },
     {
       "basename": "Mothra, the Queen of the Monsters",
@@ -146,7 +154,7 @@
     },
     {
       "basename": "Godric Nordson - Physical Features",
-      "path": "_Archive/Godric Nordson - Physical Features.md"
+      "path": "_Archive/Fiction/Godric Nordson - Physical Features.md"
     },
     {
       "basename": "Notepad 3",
@@ -158,7 +166,7 @@
     },
     {
       "basename": "Anatomical Reference - 0",
-      "path": "_Archive/Anatomical Reference - 0.md"
+      "path": "_Archive/Fiction/Anatomical Reference - 0.md"
     },
     {
       "basename": "Samuel Johns",
@@ -191,14 +199,6 @@
     {
       "basename": "Reorganized + Anatomy",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md"
-    },
-    {
-      "basename": "Psychic-Sorcery Interface",
-      "path": "Writing/ATM/Magic System/Psychic-Sorcery Interface.md"
-    },
-    {
-      "basename": "Protocols of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Protocols of the Titan Hierarchy.md"
     }
   ],
   "omittedPaths": [],
