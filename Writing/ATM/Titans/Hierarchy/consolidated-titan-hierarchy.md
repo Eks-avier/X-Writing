@@ -7,7 +7,7 @@ The Titan Hierarchy operates as a sophisticated three-dimensional classification
 ### The Three Axes of Classification
 
 1. **Lineage System** - Species-wide biological capability
-2. **Sentience Classification** - Cognitive capacity and reasoning ability  
+2. **Sentience Classification** - Cognitive capacity and reasoning ability
 3. **Standing Hierarchy** - Individual achievement and social position
 
 These three dimensions work together to provide complete taxonomic and social classification for any Titan, creating a nuanced understanding that accounts for both inherent traits and personal accomplishment.
@@ -15,11 +15,13 @@ These three dimensions work together to provide complete taxonomic and social cl
 ## Axis One: The Lineage System
 
 ### Fundamental Principle
+
 Classification based on species-wide capability to effect planetary-scale change.
 
 ### Classifications
 
 #### **Ascendant Species**
+
 - **Scientific Term**: Ascendant
 - **Titan Term**: Superior (historically)
 - **Definition**: Species capable of planetary-scale environmental impact through collective or individual action
@@ -28,12 +30,13 @@ Classification based on species-wide capability to effect planetary-scale change
 
 **Examples**:
 - ***Titanus gojira***: Limitless adaptability + atomic energy manipulation
-- ***Titanus mosura***: Psychic abilities + unique scales + immortality  
+- ***Titanus mosura***: Psychic abilities + unique scales + immortality
 - ***Titanus leviathan***: Complete mastery over water in all states
 - ***Homo sapiens***: Composite advantage combining traits from multiple Titan lineages
 - **Ascendant Primals**: Non-sapient species with instinctual planetary impact (e.g., *Titanus shimo*)
 
 #### **Emergent Species**
+
 - **Scientific Term**: Emergent
 - **Titan Term**: Inferior (historically)
 - **Definition**: Species limited to regional effects regardless of individual excellence
@@ -50,28 +53,32 @@ Classification based on species-wide capability to effect planetary-scale change
 - **Species-Wide Standard**: Individual prodigies cannot elevate their entire species
 - **Immutability**: Lineage rarely changes without major evolutionary events
 - **The Prodigy Paradox**: Exceptional Emergents (like Scylla) remain Emergent despite Ascendant-level capabilities
-- **Political Manipulation**: Historically corrupted by "Giver" Paramounts until Godzilla's reforms
+- **Political Manipulation**: Historically corrupted by “Giver” Paramounts until Godzilla's reforms
 
 ## Axis Two: Sentience Classification
 
 ### Fundamental Principle
+
 Cognitive capacity and reasoning ability that determines participation in social hierarchy.
 
 ### Classifications
 
 #### **Sapient** (Minded)
+
 - **Definition**: Self-awareness, abstract reasoning, complex communication
 - **Characteristics**: Can participate fully in Titan hierarchy and politics
 - **Transformation**: Affected by Antitheriomorphosis due to cognitive framework
 - **Examples**: Godzilla, Mothra, Kong, Anguirus, Rodan, all Wardens
 
-#### **Semi-Sapient** (Half-Minded)  
+#### **Semi-Sapient** (Half-Minded)
+
 - **Definition**: Limited self-awareness and problem-solving without full abstract reasoning
 - **Characteristics**: Basic territory management, simple communication, instinct-guided decision making
 - **Transformation**: Generally unaffected by Antitheriomorphosis
 - **Examples**: Advanced territorial predators, some pack hunters
 
 #### **Non-Sapient** (Mindless)
+
 - **Definition**: Pure instinct-driven behavior without self-awareness
 - **Characteristics**: Operates through biological programming, no capacity for reasoning
 - **Transformation**: Unaffected by Antitheriomorphosis
@@ -84,6 +91,7 @@ The Antitheriomorphosis specifically affected Sapient Titans, requiring self-awa
 ## Axis Three: The Standing Hierarchy
 
 ### Fundamental Principle
+
 Individual achievement, recognition, and social position within Titan society.
 
 ### For Sapient Titans: The Main Hierarchy
@@ -96,7 +104,7 @@ Individual achievement, recognition, and social position within Titan society.
 - **Selection**: Combat challenge (traditionally to the death)
 - **Tenure**: Until death or defeat
 
-**Alpha Divine**  
+**Alpha Divine**
 - **Current**: Mothra (Maria Lepidiel)
 - **Authority**: Spiritual matters, human-Titan relations
 - **Selection**: Created specifically by Godzilla for Mothra
@@ -113,9 +121,9 @@ Individual achievement, recognition, and social position within Titan society.
 **Core Function**: Extensions of specific Alpha authority with power to speak in their Alpha's name
 
 **Current Betas**:
-- **Anguirus** (Alexios Leonidas Peltast) - "Stalwart Vanguard" serving Godzilla
-- **Rodan** (Roman Volcario) - "Lord of the Skies" serving Godzilla
-- **Shared Arrangement**: Mothra informally "shares" Rodan with Godzilla
+- **Anguirus** (Alexios Leonidas Peltast) - “Stalwart Vanguard” serving Godzilla
+- **Rodan** (Roman Volcario) - “Lord of the Skies” serving Godzilla
+- **Shared Arrangement**: Mothra informally “shares” Rodan with Godzilla
 
 **Key Characteristics**:
 - Cannot act without Alpha permission
@@ -128,7 +136,7 @@ Individual achievement, recognition, and social position within Titan society.
 **Cardinal Wardens** (Senior)
 - **North**: Leviathan (Nathan Winters)
 - **East**: King Caesar (Kai Shisa) - dormant
-- **South**: Scylla (Scylla Frost)  
+- **South**: Scylla (Scylla Frost)
 - **West**: Behemoth (Bram Sylvan)
 
 **Intercardinal Wardens** (Junior)
@@ -137,29 +145,33 @@ Individual achievement, recognition, and social position within Titan society.
 - **Southwest**: Quetzalcoatl (Quentin Venus Viento)
 - **Northwest**: Amhuluk (Atian Makya)
 
-**Function**: "Betas to Betas" or "Beta's Sovereigns" with territorial authority
+**Function**: “Betas to Betas” or “Beta's Sovereigns” with territorial authority
 
 #### **Regional Tier**
+
 - **Authority**: Ecosystem management within Warden territories
 - **Reporting**: Direct accountability to assigned Warden
 - **Scope**: Local governance of specific geographic regions
 
 #### **Territorial Tier**
+
 - **Authority**: Defined domain control within Regional oversight
 - **Function**: Local ecosystem maintenance and protection
 - **Advancement**: Stepping stone to Regional status
 
 #### **Custodial Tier** (Lowest Formal Rank)
+
 Multiple informal terms within the same formal rank:
 
 - **Keepers**: Maintain ecological balance beneficially
-- **Drifters**: Nomadic, generally harmless wanderers  
+- **Drifters**: Nomadic, generally harmless wanderers
 - **Strays**: Problematic but manageable minor threats
 - **Rampagers**: Actively destructive requiring regular intervention
 
 ### For Non-Sapient Titans: The Primal Classification
 
 #### **Primal Designation** (Parallel Track)
+
 For cognitively limited Titans existing outside normal hierarchy:
 
 **Titan Terminology**:
@@ -169,7 +181,7 @@ For cognitively limited Titans existing outside normal hierarchy:
 
 **Scientific Terminology**:
 - **Alpha-Threat Primals**: Planet-altering capability (equivalent to Colossi)
-- **Disruptive Primals**: Require containment strategies (equivalent to Ravagers)  
+- **Disruptive Primals**: Require containment strategies (equivalent to Ravagers)
 - **Symbiotic Primals**: Provide ecological benefits (equivalent to Guardians)
 
 ## Integration Examples
@@ -177,12 +189,12 @@ For cognitively limited Titans existing outside normal hierarchy:
 ### Complete Classifications
 
 **Godzilla**: Ascendant Sapient Alpha Paramount
-**Mothra**: Ascendant Sapient Alpha Divine  
+**Mothra**: Ascendant Sapient Alpha Divine
 **Kong**: Emergent Sapient Alpha Sovereign
 **Anguirus**: Emergent Sapient Beta Stalwart Vanguard
 **Rodan**: Emergent (secretly Ascendant) Sapient Beta Lord of the Skies
 **Leviathan**: Ascendant Sapient Cardinal Northern Warden
-**Scylla**: Emergent Sapient Cardinal Southern Warden  
+**Scylla**: Emergent Sapient Cardinal Southern Warden
 **Shimo**: Ascendant Non-Sapient Colossus (Primal)
 
 ### The Prodigy Paradox in Action
@@ -197,17 +209,20 @@ For cognitively limited Titans existing outside normal hierarchy:
 ## Historical Evolution
 
 ### Pre-Godzilla Era
+
 - **Lineage System**: Frequently manipulated for political advantage
-- **Standing System**: Traditional progression: Primal → Territorial → Regional → Beta → Paramount  
-- **Sovereign Distribution**: "Giver" Paramounts distributed freely, "Miser" Paramounts hoarded
+- **Standing System**: Traditional progression: Primal → Territorial → Regional → Beta → Paramount
+- **Sovereign Distribution**: “Giver” Paramounts distributed freely, “Miser” Paramounts hoarded
 
 ### Godzilla's Innovations
+
 - **Warden Tier Creation**: Developed during early Cenozoic crisis to address territorial coverage limitations
 - **Lineage Reform**: Ended political manipulation, restored biological accuracy
 - **Divine Position**: Created specifically for Mothra's unique status
 - **Merit Focus**: Emphasized demonstrated capability over inherited status
 
 ### Post-Antitheriomorphosis Adaptations
+
 - **Human Form Integration**: Formal identity system for transformed Titans
 - **Technology Dependence**: Communication and coordination systems adapted for human limitations
 - **Relationship Evolution**: Closer proximity creating new emotional dynamics
@@ -216,18 +231,21 @@ For cognitively limited Titans existing outside normal hierarchy:
 ## Political Dynamics
 
 ### Power Distribution
+
 - **Alpha Tier**: Ultimate authority with specialized domains
 - **Beta Tier**: Direct extensions enabling Alpha presence multiplication
 - **Warden Tier**: Regional autonomy with accountability to Betas
 - **Lower Tiers**: Increasing local focus with decreasing independent authority
 
 ### The Hibernation Protocol
+
 - **Annual Transfer**: November delegation to Betas during Godzilla's ceremonial hibernation
 - **Primary Authority**: Typically assigned to Anguirus with documented parameters
 - **Support Structure**: Rodan maintains mobility and emergency response
 - **Development Purpose**: Provides leadership experience and succession planning
 
 ### The Balance System
+
 - **Lineage Acknowledgment**: Recognizes inherent biological differences
 - **Standing Opportunity**: Provides advancement paths regardless of species origin
 - **Sentience Integration**: Ensures cognitive capacity determines participation level
@@ -236,18 +254,21 @@ For cognitively limited Titans existing outside normal hierarchy:
 ## Current Challenges and Tensions
 
 ### Internal Dynamics
+
 - **Anguirus's Jealousy**: Growing resentment toward Kong's rapid integration
 - **Rodan's Hidden Feelings**: Suppressed attraction to Mothra complicating relationships
 - **Emotional Evolution**: Human form creating new relationship complexities
 - **Identity Questions**: Ancient beings adapting to fundamentally different social interactions
 
 ### External Threats
+
 - **Shimo's Disappearance**: Planetary-level threat under enemy control
 - **Skar King's Gambit**: Weaponized Ascendant Primal in deep Hollow Earth
 - **Alien Factions**: Multiple extraterrestrial civilizations with their own agendas
 - **Human Integration**: Managing relationships with rapidly advancing Ascendant species
 
 ### Systemic Pressures
+
 - **Ascendant Sustainability**: Questions about long-term viability of world-changing species
 - **Hierarchy Adaptation**: Balancing ancient structures with modern realities
 - **Technology Integration**: Dependence on human systems creating new vulnerabilities
@@ -258,12 +279,14 @@ For cognitively limited Titans existing outside normal hierarchy:
 Based on Madison Russell's extensive research and interaction with the hierarchy:
 
 ### The Adaptive Balance Theory
+
 - **Ecological Cost**: Ascendant status carries inherent sustainability challenges
 - **Selection Pressure**: Planetary systems naturally limit world-changing species
 - **Human Trajectory**: Current development patterns potentially unsustainable
 - **Resilience Question**: Whether technology can overcome natural limitations
 
 ### The Three-Axis Integration
+
 - **Biological Reality**: Lineage provides honest assessment of species capability
 - **Cognitive Framework**: Sentience determines participation capacity
 - **Achievement Recognition**: Standing rewards individual merit within realistic bounds
@@ -280,6 +303,7 @@ The system's greatest strength lies not in rigid structure but in its recognitio
 ---
 
 ## Related Documents
+
 - [[The Lineage System: Biological Hierarchy of Titans]]
 - [[The Beta Tier: Extensions of Alpha Authority]]
 - [[The Wardens of Earth: Evolution of Titan Territorial Governance]]

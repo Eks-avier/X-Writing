@@ -56,51 +56,13 @@
             }
           },
           {
-            "id": "3f34618a00eb9482",
+            "id": "ad46fe991ca89491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Structure of the Titan Hierarchy"
-            }
-          },
-          {
-            "id": "d5bc00def628eb1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "godric_energy_limitations"
+              "title": "New tab"
             }
           }
         ],
@@ -197,8 +159,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,12 +211,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Structure of the Titan Hierarchy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -264,13 +224,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structure of the Titan Hierarchy"
+              "title": "Outline"
             }
           },
           {
@@ -323,16 +282,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f34618a00eb9482",
+  "active": "ad46fe991ca89491",
   "lastOpenFiles": [
+    "Writing/ATM/The Saga of the Fallen Star.md.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md",
+    "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
+    "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
     "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md",
-    "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/umbra_simulacrum_battle_analysis.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/desktop.ini",
@@ -353,10 +315,7 @@
     "College/ITS 132 - 01.md",
     "College/Electromagnetic Induction.md",
     "College/Formulas for Electromagnetism.md",
-    "Writing/ATM/Titans/Hierarchy/The Lineage System.md",
-    "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/ATM - Medieval AU",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_supernatural_interactions.md",
     "_Archive",
     "Writing/ATM/Characters/Humans",
     "Writing/ATM/Characters/Titans",
