@@ -7267,20 +7267,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 22178,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 73.92666666666666,
+      "characterCount": 177829,
+      "nonWhitespaceCharacterCount": 144003,
+      "newlineCount": 1220,
+      "readingTimeInMinutes": 83.69056603773585,
+      "linkCount": 156,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1751721836577,
-      "modifiedDate": 1751721836577,
-      "sizeInBytes": 0,
+      "modifiedDate": 1751721985812,
+      "sizeInBytes": 178680,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7288,6 +7288,12 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "atm",
+          "wip"
+        ]
       }
     }
   }
