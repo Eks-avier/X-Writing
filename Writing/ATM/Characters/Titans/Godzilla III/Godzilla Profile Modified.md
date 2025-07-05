@@ -561,7 +561,7 @@ They coexisted with already established [[Ascendant Classification - The World-C
 
 #### 2. The Fallen Star: The Catalyst for Ascension
 
-The trajectory of the proto-gojira species, and indeed of Earth itself, irrevocably shifted with the arrival of the **Fallen Star**. This celestial body, also known as the **Blue Star**, was a comet or meteor of immense size, larger even than Godzilla's current Titan form, pulsating with an raw, untamed energy. Its crash was violent, shaking the nascent world and creating an impact zone too volatile for most Titans, including the radiation-craving *[[Barb, the Turncoat Parasite|Titanus jinshin-mushi]]*, to approach.
+The trajectory of the proto-gojira species, and indeed of Earth itself, irrevocably shifted with the arrival of the **Fallen Star**. This celestial body, also known as the **Blue Star**, was a comet or meteor of immense size, larger even than Godzilla's current Titan form, pulsating with an raw, untamed energy. Its crash was violent, shaking the nascent world and creating an impact zone too volatile for most Titans, including the radiation-craving *Titanus jinshin-mushi*, to approach.
 
 Yet, the proto-gojira, perhaps ignorant or simply unaffected by its dangerous emanations, were drawn to it with an almost innocent curiosity. Day after day, they returned to the impact site, prodding the mysterious rock with their snouts, touching its surface. They began to sense a profound shift within themselves.
 
