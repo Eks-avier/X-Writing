@@ -4,83 +4,6 @@ tags: [atm, wip]
 
 # Godzilla, King of the Monsters
 
-```dataviewjs
-
-```
-```dataviewjs
-// Get the current file's content
-const file = dv.current();
-const content = await dv.io.load(file.file.path);
-
-// Regex to find all Obsidian-style links: [[link|alias]] or [[link]]
-const linkRegex = /\[\[(.*?)\]\]/g;
-const lines = content.split('\n');
-
-// A map to store the aggregated data for each unique link target
-const linkData = new Map();
-
-// Iterate over each line to find links and their line numbers
-lines.forEach((line, index) => {
-    const matches = line.matchAll(linkRegex);
-    for (const match of matches) {
-        const innerContent = match[1];
-        let target, alias;
-
-        // Split the link into target and alias if an alias exists
-        if (innerContent.includes('|')) {
-            [target, alias] = innerContent.split('|').map(p => p.trim());
-        } else {
-            target = innerContent.trim();
-            alias = '';
-        }
-
-        // Use the link target as the key for aggregation
-        const key = target;
-
-        // If this is the first time we've seen this link target, initialize its data structure
-        if (!linkData.has(key)) {
-            linkData.set(key, {
-                aliases: new Set(),
-                count: 0,
-                lines: []
-            });
-        }
-
-        // Get the existing data for this link target and update it
-        const data = linkData.get(key);
-        data.count++;
-        data.lines.push(index + 1); // Line numbers are 1-based
-        if (alias) {
-            data.aliases.add(alias);
-        }
-    }
-});
-
-// Prepare the data for the table, converting the map to an array
-const outputData = [];
-for (const [target, data] of linkData.entries()) {
-    outputData.push([
-        `\`${target}\``, // Display target as code for clarity
-        Array.from(data.aliases).join(', '),
-        data.count,
-        data.lines.sort((a, b) => a - b).join(', ') // Sort line numbers
-    ]);
-}
-
-// Sort the table alphabetically by the link target
-outputData.sort((a, b) => a[0].localeCompare(b[0]));
-
-// Render the final table
-if (outputData.length > 0) {
-    dv.table(
-        ["Link Target", "Aliases Used", "Frequency", "Line Numbers"],
-        outputData
-    );
-} else {
-    dv.paragraph("No internal links found in this file.");
-}
-```
-
 ## I. Core Identity and Overview
 
 This section provides the fundamental identifying details and a high-level overview of Godric Nordson, the being recognized by humanity as Godzilla.
@@ -1273,7 +1196,7 @@ Godric's reign as Alpha Paramount, already unprecedented in its 250-million-year
     *   **Standing:** Individual achievement and social position ([[consolidated-titan-hierarchy#Axis Three: The Standing Hierarchy|Alpha]], Beta, Warden, etc.).
 
 > [!info] Humanity's Ascendant Status
-        > Humanity itself is a [[The Lineage System#Humanity's Surprising Classification|surprising Ascendant species]], a classification confirmed by Maria and [[The Lineage System#Humanity's Surprising Classification|Godric]], due to their composite advantage—mirroring the Limitless Adaptation of Gojira, [[Kong, King of the Hollow Earth#Physical Appearance (Human Form)|resourcefulness]] of Kong, and [[Mothra, the Queen of the Monsters#Physical Appearance|psionic potential]] of Mosura, all achieved without physical scale.
+        > Humanity itself is a [[The Lineage System#Humanity's Surprising Classification|surprising Ascendant species]], a classification confirmed by Maria and Godric, due to their composite advantage—mirroring the Limitless Adaptation of Gojira, resourcefulness of Kong, and psionic potential of Mosura, all achieved without physical scale.
 
 *   **b. Lineage Reforms: Restoring Biological Truth:** Godzilla systematically eliminated the political manipulation that had historically plagued the [[The Lineage System#Political Manipulation of Lineage|Lineage System]]. He established clear, objective, and biologically accurate criteria for classification, ensuring that designations truly reflected a species' inherent capability rather than political convenience or alliances forged by “[[sovereign-title-history#The Givers|Giver]]” Paramounts.
 *   **c. The Warden Tier: Innovation for Planetary Governance:** Recognizing the limitations of a centralized leadership, Godric introduced the [[Origins of the Wardens#Origins of the Warden Tier|Warden Tier]] in the early Cenozoic era. This intermediate authority, comprising Cardinal and Intercardinal Wardens, provided a crucial layer of regional governance, effectively “[[Origins of the Wardens#The Warden Tier in Modern Governance|reframing ambition]]” by offering legitimate paths for advancement that channeled Titan energies into constructive territorial management.
@@ -1293,7 +1216,7 @@ Godric's reign as Alpha Paramount, already unprecedented in its 250-million-year
 
 The post-Antitheriomorphosis era is defined by a series of pivotal narrative arcs that reshape Godric's relationships, his understanding of his powers, and his role as a universal guardian.
 
-*   **a. The Keystone Arc: Transformation of the Quartet (2025):** The [[Plot Outline - Keystone Arc|Keystone Arc]]  formalizes Kong's integration into the Titan leadership. His presence acts as a catalyst, forcing Godric, Maria, Anguirus, and Rodan to confront [[Plot Outline - Keystone Arc#Major Themes|stagnation]] in their ancient relationships. The arc culminates with the grand opening of [[Keep Charlie#Architecture|Monster Island Palace]], a physical manifestation of their transformed governance structure. This arc also marks [[Battra, the Lord of the Mystic Arts#History|Battra's]] reintegration, into the hierarchy via “The Vow.”
+*   **a. The Keystone Arc: Transformation of the Quartet (2025):** The [[Plot Outline - Keystone Arc|Keystone Arc]] formalizes Kong's integration into the Titan leadership. His presence acts as a catalyst, forcing Godric, Maria, Anguirus, and Rodan to confront [[Plot Outline - Keystone Arc#Major Themes|stagnation]] in their ancient relationships. The arc culminates with the grand opening of [[Keep Charlie#Architecture|Monster Island Palace]], a physical manifestation of their transformed governance structure. This arc also marks [[Battra, the Lord of the Mystic Arts#History|Battra's]] reintegration, into the hierarchy via “The Vow.”
 *   **b. The Xilien Invasion Arc: Crucible of Adaptation (2023-2024):** This pivotal conflict with Battra (now allied with the Xiliens) is a defining crucible for Godric. Battra, utilizing his Umbra Simulacrum and the Heart of Protean, unwittingly pushes Godric to transcend his self-imposed Kratos limitations. It's where Godric achieves major breakthroughs in Atomic Amplification and Atomic Railgun efficiency, unlocks his “Zone” state, and begins to fully understand his universal energy control. This battle also highlights his unique anti-supernatural capabilities.
 *   **c. The Romance Arc: The Slow Burn & The Blue House (2025-202X):** This arc details the gradual, inevitable romance between Godric and Maria. It begins with the Winter Cycle, where forced domesticity and Godric's vulnerable processing of his Dagon trauma lead to their first kiss. It solidifies in the Blue House at Maple Street Arc, where their cover as a married couple living in Meadowvale forces them to confront and embrace their true feelings. This period focuses on their [[sun_moon_motif#Core Symbolic Framework|Sun and Moon dynamic]] and their wedding rings becoming symbols of a cover that transformed into reality.
 *   **d. Future Arc: The Dagon Resurrection (2026):** Set after Godric and Maria's relationship formalization, the Dagon Resurrection Arc is a pivotal future event. The [[Dagon, the Last Northern Patriarch#Core Identity|Bilusaludo]]'s theft of Dagon's remains forces a confrontation that culminates in Dagon's resurrection in human form. This event provides ultimate emotional closure for Godric's 250-million-year trauma and introduces Dagon as a key character with unique insights into the [[Antitheriomorphosis#Core Universe Definition|Antitheriomorphosis process]].
