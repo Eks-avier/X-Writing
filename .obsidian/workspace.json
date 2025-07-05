@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "2e73742aca2dd7d6",
+            "id": "7238d5415ac62ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "godric_hyperthymesia"
+              "title": "Godzilla Profile"
             }
           }
         ],
@@ -149,12 +149,12 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 431
+    "width": 431,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from godric_hyperthymesia"
+              "title": "Outgoing links from Godzilla Profile"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of godric_hyperthymesia"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,11 +274,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d539be1372963c88",
+  "active": "7238d5415ac62ea6",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md",
     "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
@@ -306,9 +307,7 @@
     "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/ATM - Medieval AU",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_supernatural_interactions.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/atomic_amplification_energy_domination.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla_dagon_relationship.md",
     "_Archive",
     "Writing/ATM/Characters/Humans",
     "Writing/ATM/Characters/Titans",

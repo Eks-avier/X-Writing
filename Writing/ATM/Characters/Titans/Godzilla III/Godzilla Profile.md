@@ -1019,7 +1019,7 @@ Godric's sensory capabilities represent the pinnacle of his species' [[#1. Limit
 
 #### 2. Kratos Application: From Caged Sun to Uncaged Power
 
-Godric's journey to mastering his [[#2. Kratos: The Power of Dominance|Kratos]] abilities is a profound psychological struggle to overcome self-imposed limitations, embodying the metaphor of “[[godric_energy_limitations#The Caged Sun: Godric's Hidden Universal Energy Control and Psychological Limitations|The Caged Sun]].” His innate capacity for [[godric_energy_limitations#The Truth Godric Doesn't Know|universal energy control]] has been artificially constrained by centuries of species tradition and his personal psychological barriers.
+Godric's journey to mastering his [[#2. Kratos: The Power of Dominance|Kratos]] abilities is a profound psychological struggle to overcome self-imposed limitations, embodying the metaphor of “[[godric_energy_limitations#The Caged Sun: Godric's Hidden Universal Energy Control and Psychological Limitations|The Caged Sun]].” His innate capacity for [[godric_energy_limitations#^84325e|universal energy control]] has been artificially constrained by centuries of species tradition and his personal psychological barriers.
 
 *   **Triple-Layered Stubbornness:** His primary psychological obstacle is a [[atomic_amplification_energy_domination#Triple-Layered Stubbornness|triple-layered stubbornness]]:
     1.  **Species-Wide Orthodoxy:** The *Titanus gojira* species culturally believed energy manipulation beyond projection was impossible.

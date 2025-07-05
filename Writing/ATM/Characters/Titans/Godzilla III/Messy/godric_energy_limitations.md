@@ -14,7 +14,7 @@
 
 While Battra theoretically possesses the widest sensory range, **Godric's energy perception operates on a fundamentally deeper level** than either twin realizes. His species' "atomic energy specialization" is actually a **psychological limitation** masking true universal energy control.
 
-**The Truth Godric Doesn't Know:**
+**The Truth Godric Doesn't Know:** ^84325e
 - *Titanus gojira* can manipulate **any form of energy** except magic, psionics, and temporal forces
 - His "atomic breath" is simply the most familiar application of limitless energy control
 - Solar radiation, geothermal energy, electromagnetic fields—all are potential weapons
