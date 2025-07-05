@@ -254,11 +254,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,8 +277,8 @@
   },
   "active": "b4f59e995dff0a57",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md",
     "Writing/ATM/Clarifications on the Atomic Railgun.md",
