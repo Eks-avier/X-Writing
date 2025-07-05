@@ -5,6 +5,9 @@ tags: [atm, wip]
 # Godzilla, King of the Monsters
 
 ```dataviewjs
+
+```
+```dataviewjs
 // Configuration - Change this to analyze a different file
 const targetFile = dv.current().file; // Current file
 // Alternative: const targetFile = dv.page("YourFileName"); // Specific file
@@ -17,89 +20,93 @@ if (outgoingLinks.length === 0) {
 } else {
     // Read the file content
     const fileContent = await dv.io.load(targetFile.path);
+    const lines = fileContent.split('\n');
     
     // Prepare data for analysis
     const linkAnalysis = [];
     
-    // Extract all actual links from the file content to get full link text
-    const allWikiLinks = fileContent.match(/\[\[([^\]]+)\]\]/g) || [];
-    const allMarkdownLinks = fileContent.match(/\[([^\]]+)\]\(([^)]+)\)/g) || [];
-    
-    // Create a map to track link frequencies with full text
-    const linkFrequencyMap = new Map();
-    
-    // Process wiki links
-    for (const wikiLink of allWikiLinks) {
-        const match = wikiLink.match(/\[\[([^\]]+)\]\]/);
-        if (match) {
-            const fullLinkText = match[1];
-            const displayText = fullLinkText.includes('|') ? fullLinkText.split('|')[1] : fullLinkText;
-            const linkPath = fullLinkText.includes('|') ? fullLinkText.split('|')[0] : fullLinkText;
-            
-            // Extract just the filename for matching with outgoingLinks
-            const fileName = linkPath.split('#')[0].split('^')[0].replace(/\.md$/, '').split('/').pop();
-            
-            const key = `[[${fullLinkText}]]`;
-            if (!linkFrequencyMap.has(key)) {
-                linkFrequencyMap.set(key, {
-                    fullText: fullLinkText,
-                    displayText: displayText,
-                    fileName: fileName,
-                    wikiCount: 0,
-                    markdownCount: 0
-                });
-            }
-            linkFrequencyMap.get(key).wikiCount++;
-        }
-    }
-    
-    // Process markdown links
-    for (const mdLink of allMarkdownLinks) {
-        const match = mdLink.match(/\[([^\]]+)\]\(([^)]+)\)/);
-        if (match) {
-            const displayText = match[1];
-            const linkPath = match[2];
-            const fileName = linkPath.split('#')[0].split('^')[0].replace(/\.md$/, '').split('/').pop();
-            
-            const key = `[${displayText}](${linkPath})`;
-            if (!linkFrequencyMap.has(key)) {
-                linkFrequencyMap.set(key, {
-                    fullText: linkPath,
-                    displayText: displayText,
-                    fileName: fileName,
-                    wikiCount: 0,
-                    markdownCount: 0
-                });
-            }
-            linkFrequencyMap.get(key).markdownCount++;
-        }
-    }
-    
-    // Match with outgoing links and calculate plain text mentions
-    for (const [linkKey, linkData] of linkFrequencyMap) {
-        // Check if this link corresponds to any of our outgoing links
-        const matchingOutgoingLink = outgoingLinks.find(outLink => {
-            const outFileName = outLink.path.replace(/\.md$/, '').split('/').pop();
-            return outFileName === linkData.fileName;
-        });
+    for (const link of outgoingLinks) {
+        // Extract different parts of the link
+        const fullLink = link.path;
+        const baseName = fullLink.replace(/\.md$/, '').split('/').pop();
+        const heading = link.subpath ? link.subpath.replace(/^#/, '') : null;
+        const displayName = link.display || (heading ? `${baseName}#${heading}` : baseName);
         
-        if (matchingOutgoingLink) {
-            const totalLinked = linkData.wikiCount + linkData.markdownCount;
-            
-            // Count plain text mentions of the display text
-            const plainTextPattern = new RegExp(`\\b${escapeRegex(linkData.displayText)}\\b`, 'gi');
-            const allMatches = fileContent.match(plainTextPattern) || [];
-            const plainTextMentions = Math.max(0, allMatches.length - totalLinked);
-            
-            linkAnalysis.push({
-                "Link": linkKey,
-                "Wiki Links": linkData.wikiCount,
-                "Markdown Links": linkData.markdownCount,
-                "Total Linked": totalLinked,
-                "Plain Mentions": plainTextMentions,
-                "All Occurrences": allMatches.length
-            });
+        // Create comprehensive patterns to match the full link with all its components
+        let searchPatterns = [];
+        
+        // Wiki link patterns - handle various formats
+        if (heading) {
+            // With heading: [[File#Heading]], [[File#Heading|Alias]]
+            searchPatterns.push(`\\[\\[${escapeRegex(baseName)}#${escapeRegex(heading)}(\\|[^\\]]*)?\\]\\]`);
+            searchPatterns.push(`\\[\\[([^\\]]*\\|)?${escapeRegex(baseName)}#${escapeRegex(heading)}\\]\\]`);
+        } else {
+            // Without heading: [[File]], [[File|Alias]]
+            searchPatterns.push(`\\[\\[${escapeRegex(baseName)}(\\|[^\\]]*)?\\]\\]`);
+            searchPatterns.push(`\\[\\[([^\\]]*\\|)?${escapeRegex(baseName)}\\]\\]`);
         }
+        
+        // Markdown link patterns
+        searchPatterns.push(`\\[([^\\]]*)\\]\\([^\\)]*${escapeRegex(fullLink)}[^\\)]*\\)`);
+        
+        // Find all occurrences with line numbers
+        const occurrences = [];
+        const lineNumbers = [];
+        
+        for (const pattern of searchPatterns) {
+            const regex = new RegExp(pattern, 'gi');
+            let match;
+            
+            // Search through each line to get line numbers
+            for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
+                const line = lines[lineIndex];
+                const lineRegex = new RegExp(pattern, 'gi');
+                let lineMatch;
+                
+                while ((lineMatch = lineRegex.exec(line)) !== null) {
+                    occurrences.push(lineMatch[0]);
+                    lineNumbers.push(lineIndex + 1); // 1-indexed line numbers
+                }
+            }
+        }
+        
+        // Remove duplicates while preserving line numbers
+        const uniqueOccurrences = [];
+        const uniqueLineNumbers = [];
+        const seen = new Set();
+        
+        for (let i = 0; i < occurrences.length; i++) {
+            const key = `${occurrences[i]}-${lineNumbers[i]}`;
+            if (!seen.has(key)) {
+                seen.add(key);
+                uniqueOccurrences.push(occurrences[i]);
+                uniqueLineNumbers.push(lineNumbers[i]);
+            }
+        }
+        
+        // Count different link formats
+        const wikiLinks = uniqueOccurrences.filter(occ => occ.startsWith('[[')).length;
+        const markdownLinks = uniqueOccurrences.filter(occ => occ.startsWith('[') && !occ.startsWith('[[')).length;
+        const totalLinked = uniqueOccurrences.length;
+        
+        // Count plain text mentions
+        const plainTextPattern = new RegExp(`\\b${escapeRegex(baseName)}\\b`, 'gi');
+        const allTextMatches = fileContent.match(plainTextPattern) || [];
+        const plainTextMentions = Math.max(0, allTextMatches.length - totalLinked);
+        
+        // Format line numbers for display
+        const lineNumbersDisplay = uniqueLineNumbers.length > 0 ? 
+            uniqueLineNumbers.sort((a, b) => a - b).join(', ') : 'None';
+        
+        linkAnalysis.push({
+            "Link": `[[${displayName}]]`,
+            "Wiki Links": wikiLinks,
+            "Markdown Links": markdownLinks,
+            "Total Linked": totalLinked,
+            "Plain Mentions": plainTextMentions,
+            "All Occurrences": allTextMatches.length,
+            "Line Numbers": lineNumbersDisplay
+        });
     }
     
     // Sort by total occurrences (descending)
@@ -112,14 +119,15 @@ if (outgoingLinks.length === 0) {
     
     // Display detailed table
     dv.table(
-        ["Link", "Wiki Links", "Markdown Links", "Total Linked", "Plain Mentions", "All Occurrences"],
+        ["Link", "Wiki Links", "Markdown Links", "Total Linked", "Plain Mentions", "All Occurrences", "Line Numbers"],
         linkAnalysis.map(item => [
             item.Link,
             item["Wiki Links"],
             item["Markdown Links"],
             item["Total Linked"],
             item["Plain Mentions"],
-            item["All Occurrences"]
+            item["All Occurrences"],
+            item["Line Numbers"]
         ])
     );
     
@@ -139,9 +147,6 @@ if (outgoingLinks.length === 0) {
 function escapeRegex(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
-```
-```dataviewjs
-
 ```
 ## I. Core Identity and Overview
 
@@ -552,7 +557,7 @@ The story of the *Titanus gojira* is one of unprecedented evolution, a testament
 
 Prior to their meteoric rise, the ancient ancestors of the *Titanus gojira* were simply large, saurian species, akin to overgrown cousins of the Tyrannosaurus Rex but inhabiting the Late Permian period. As far as the broader [[Structure of the Titan Hierarchy#Dual Classification System|Titan Hierarchy]] was concerned, these proto-gojira were unequivocally [[The Lineage System#Emergent Characteristics|Emergent]]: unremarkable, unexceptional, and largely ignored.
 
-They coexisted with already established [[Ascendant Classification - The World-Changers#*Titanus mosura*: Divine Authority|Ascendant]] species like *[[Mothra, the Queen of the Monsters|Titanus mosura]]* and *Titanus shinomura*, yet displayed no hint of the extraordinary power that would one day define their descendants. Their only distinguishing trait was a persistent, almost coincidental ability to adapt and survive in diverse environments, a quality often dismissed as mere luck by other Titan species.
+They coexisted with already established [[Ascendant Classification - The World-Changers#*Titanus mosura*: Divine Authority|Ascendant]] species like *Titanus mosura* and *Titanus shinomura*, yet displayed no hint of the extraordinary power that would one day define their descendants. Their only distinguishing trait was a persistent, almost coincidental ability to adapt and survive in diverse environments, a quality often dismissed as mere luck by other Titan species.
 
 #### 2. The Fallen Star: The Catalyst for Ascension
 
