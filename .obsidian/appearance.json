@@ -5,6 +5,6 @@
   "baseFontSize": 14,
   "nativeMenus": false,
   "showRibbon": false,
-  "textFontFamily": "Quintessential,Rubik",
+  "textFontFamily": "Rubik,Quintessential",
   "interfaceFontFamily": "Rubik"
 }

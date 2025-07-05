@@ -7,6 +7,7 @@ tags: [atm, wip]
 ```dataviewjs
 
 ```
+
 ```dataviewjs
 // Configuration - Change this to analyze a different file
 const targetFile = dv.current().file; // Current file
@@ -148,6 +149,7 @@ function escapeRegex(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 ```
+
 ## I. Core Identity and Overview
 
 This section provides the fundamental identifying details and a high-level overview of Godric Nordson, the being recognized by humanity as Godzilla.
@@ -590,7 +592,7 @@ A profound and tragic irony lies at the heart of Godzilla's personal history: de
 
 *   **Mother's Demise:** His mother died defending their cavern from MUTO attacks shortly after laying his egg, collapsing the cave and burying herself and the parasites within, making the recovery of her remains for the Fallen Star rites impossible.
 *   **Father's Sacrifice:** His father, Dagon, died far from the sacred site, parasitized and unable to transfer his life force.
-*   **Cultural Severance:** This twin tragedy, occurring during his infancy and early development, meant Godzilla was isolated from the communal knowledge and rituals surrounding the Fallen Star. He grew up unknowingly disconnected from the very spiritual and physical source of his immense power, believing his [[GODZILLA'S ORIGIN & DEVELOPMENT#Psychological Development|abilities]] were solely his own inherent strength.
+*   **Cultural Severance:** This twin tragedy, occurring during his infancy and early development, meant Godzilla was isolated from the communal knowledge and rituals surrounding the Fallen Star. He grew up unknowingly disconnected from the very spiritual and physical source of his immense power, believing his abilities were solely his own inherent strength.
 
 This spiritual tragedy would remain unknown to Godzilla for millions of years, a crucial piece of his heritage lost in the chaos of his species' decline, and a profound contrast to the conscious awareness that defined his ancestors' relationship with the Fallen Star.
 
@@ -1098,7 +1100,7 @@ The relationship between Godzilla and his father, Dagon, is the **central traged
 
 *   **The Poisoned Past:** For 250 million years, Godric's hyperthymesia poisoned his memories, convincing him that Dagon's heroic sacrifice was an act of abandonment due to his perceived inadequacy as a hatchling. Dagon, a young father (equivalent to a human 20-year-old) when Godric was conceived and dying tragically at 30, was paralyzed by fear, unable to express his immense pride and love. This created a profound “withholding trap” that ironically caused the very insecurity he feared.
 *   **The Truth Revealed:** Only Barb's testimony, the sole living witness to Dagon's final moments, shattered this illusion. Her account revealed Dagon's profound regret, his desperate search for a community for Godric, and his ultimate act of self-sacrifice to shield his son from the [[The Saga of the Fallen Star|MUTO Prime]] threat.
-*   **The Ongoing Healing:** Godric's ongoing "memory detoxification" process involves meticulously restoring each poisoned memory to its original truth. This healing culminates in the future [[Plot Outline - Dagon Resurrection Arc|Dagon Resurrection Arc]], where father and son achieve emotional reconciliation and forgiveness, building a new relationship free from misunderstanding. Despite Dagon's intimidating aura, their current interactions are characterized by a palpable lightness in the air, a physical manifestation of their healing bond.
+*   **The Ongoing Healing:** Godric's ongoing “memory detoxification” process involves meticulously restoring each poisoned memory to its original truth. This healing culminates in the future [[Plot Outline - Dagon Resurrection Arc|Dagon Resurrection Arc]], where father and son achieve emotional reconciliation and forgiveness, building a new relationship free from misunderstanding. Despite Dagon's intimidating aura, their current interactions are characterized by a palpable lightness in the air, a physical manifestation of their healing bond.
 *   **Symbolic Legacy:** Godric embodies both parents: his mother's color palette (obsidian hair, golden eyes) and his father's physical blueprint (broader back, imposing build). This physical synthesis mirrors the psychological integration he now seeks.
 
 #### 2. The Sun and Moon: Cosmic Partnership & Denied Romance
@@ -1126,7 +1128,7 @@ Beyond the Trinity, Godric has cultivated deep, enduring bonds with a select gro
 
 *   **Anguirus: The Stalwart Vanguard:** Alexios has served as Godric's [[beta-tier-document#Anguirus: The Stalwart Vanguard|right hand]] since the Mesozoic era, embodying unwavering loyalty and methodical precision. Their ancient brotherhood faces its first significant strain with Kong's introduction, as Anguirus develops [[Anguirus, the Stalwart Vanguard#The Kong Crisis|jealousy]] and fears replacement. His internal conflict is expressed through [[Atomic Amplification#Anguirus: The Shadow of Achievement|nocturnal, destructive training sessions]]—a silent ritual of loyalty and frustration.
 *   **Rodan: The Cosmic Witness:** Roman, Godric's [[beta-tier-document#Rodan: The Lord of the Skies|left hand]], embodies flamboyant adaptability. He is the perceptive “Cosmic Witness” who sees Godric and Maria's [[rodan_cosmic_witness#The Dusk Revelation|cosmic dance]] with heartbreaking clarity, his own impossible attraction to Maria making him acutely aware of their unspoken bond. His internal turmoil is channeled into increasingly chaotic [[Rodan, the Lord of the Skies#The Suppressed Volcano|experiments with Madison]]. Despite his theatrical nature, he is secretly an [[The Lineage System#Individual Transcendence: Scylla's Achievement|Ascendant]] species.
-*   **Kong: The Spiritual Brother & Surprising Sovereign:** [[Kong, King of the Hollow Earth|Kevin]] is Godric's [[Kong, King of the Hollow Earth#Defining Traits|loyal challenger]] and [[Kong, King of the Hollow Earth#Relationship with Godzilla|confidant]], a kindred spirit who understands the burden of being “the last of his kind.” Their bond was forged through an unprecedented battle that ignited a joy for combat within Godzilla. Kong's unexpected ascension to [[sovereign-title-history#Kong: The Unexpected Sovereign|Alpha Sovereign]]—despite being Null, Non, and Akraton—shocked the Titan world and served as the catalyst for the [[Plot Outline - Keystone Arc|Keystone Arc]], forcing the quartet to evolve.
+*   **Kong: The Spiritual Brother & Surprising Sovereign:** Kevin is Godric's [[Kong, King of the Hollow Earth#Defining Traits|loyal challenger]] and [[Kong, King of the Hollow Earth#Relationship with Godzilla|confidant]], a kindred spirit who understands the burden of being “the last of his kind.” Their bond was forged through an unprecedented battle that ignited a joy for combat within Godzilla. Kong's unexpected ascension to [[sovereign-title-history#Kong: The Unexpected Sovereign|Alpha Sovereign]]—despite being Null, Non, and Akraton—shocked the Titan world and served as the catalyst for the [[Plot Outline - Keystone Arc|Keystone Arc]], forcing the quartet to evolve.
 
 #### 5. The First Family: His Human Connection
 
@@ -1248,7 +1250,7 @@ The architect of the *Titanus gojira*'s downfall was **Mother Prime**, the matri
 
 #### 2. The Inversion of a Culture: Adaptations Leading to Demise
 
-The *Titanus gojira* adapted to the disease, as was their nature, but the countermeasures proved to be a [[The Saga of the Fallen Star|pyrrhic victory]]. These adaptations, while preventing immediate extinction from the disease itself, ultimately shattered their meticulously crafted society and accelerated their decline.
+The *Titanus gojira* adapted to the disease, as was their nature, but the countermeasures proved to be a pyrrhic victory. These adaptations, while preventing immediate extinction from the disease itself, ultimately shattered their meticulously crafted society and accelerated their decline.
 
 *   **Societal Unraveling:**
     *   **Forced Breeding:** Adults who refused to breed were tragically killed, their energy distributed to others, a stark violation of their core values.
