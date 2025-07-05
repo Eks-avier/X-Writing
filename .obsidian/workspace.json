@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431,
-    "collapsed": true
+    "width": 512
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -275,8 +274,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89512d2ac19a09ed",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/ATM/Untitled",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "_Archive/Fiction/Anatomical Reference - 1.md",
     "_Archive/Fiction/Anatomical Reference - 4.md",
@@ -309,7 +309,6 @@
     "Writing/ATM/Demotion of the Ol' Reliable.txt",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.txt",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/ATM Titan-to-Human Design Philosophy.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/fishing_family_arc.md",
     "Writing/ATM - Medieval AU",
     "_Archive",
     "Writing/ATM/Characters/Humans",
