@@ -15,9 +15,14 @@
 		2. $f$ is the *frequency*.
 		3. $\lambda$ is the *wavelength*.
 - Electromagnetic Spectrum:
-	- Visible light is from $4 \times^{14}$ to $7.9 \times 10^{14}\text{ Hz}$ 
+	- Visible light is from $4 \times^{14}$ to $7.9 \times 10^{14}\text{ Hz}$
 
 ---
 
-Given: 
-- $c=$
+**Given**: $f=4.0 \times 10^{14}\text{ Hz}$; $c=3 \times 10^{8} \, \frac{\text{m}}{s}$
+**Asked**: Wavelength ($\lambda$)
+**Formula**: $\lambda=\frac{c}{f}$
+**Solution**: 
+$$
+lamda=\frac{\left( 3.0 \times 10^{8} \, \frac{\text{m}}{s} \right)}{4.0 \times 10^{14} \text{ Hz}} = 7.5 \times 10^{-7} \text{ m}
+$$
