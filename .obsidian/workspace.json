@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+                "file": "Notepad 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot Outline - Xilien Invasion Arc"
+              "title": "Notepad 8"
             }
           }
         ],
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+                "file": "Notepad 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plot Outline - Xilien Invasion Arc"
+              "title": "Backlinks for Notepad 8"
             }
           },
           {
@@ -224,12 +224,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+                "file": "Notepad 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plot Outline - Xilien Invasion Arc"
+              "title": "Outgoing links from Notepad 8"
             }
           },
           {
@@ -238,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
+                "file": "Notepad 8.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Outline - Xilien Invasion Arc"
+              "title": "Outline of Notepad 8"
             }
           },
           {
@@ -300,6 +300,7 @@
   },
   "active": "b82dfddbcf4178f8",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Notepad 8.md",
     "Notepad 7.md",
     "Writing/Antitheriomorphosis Universe/00 - ATLAS (Core Lore)/Society & Culture/Overview - The Titan Hierarchy.md",
@@ -335,7 +336,6 @@
     "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/umbra_simulacrum_battle_analysis.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/trinity_dynamics.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
