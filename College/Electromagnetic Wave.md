@@ -19,13 +19,13 @@
 
 ---
 
-**Given**: 
+**Given**:
 - $f=4.0 \times 10^{14}\text{ Hz}$
 - $f=7.9 \times 10^{14}\text{ Hz}$
 - $c=3 \times 10^{8} \, \frac{\text{m}}{s}$
 **Asked**: Wavelength ($\lambda$)
 **Formula**: $\lambda=\frac{c}{f}$
-**Solution**: 
+**Solution**:
 $$
 \lambda=\frac{3.0 \times 10^{8} \, \frac{\text{m}}{s}}{4.0 \times 10^{14} \text{ Hz}} = 7.5 \times 10^{-7} \text{ m}
 $$
@@ -37,6 +37,21 @@ $$
 **Given**:
 - $c=3 \times 10^{8}\text{ m/s}$
 - $d=384,000\text{ km}$ *or* $d=3.8 \times 10^{5}\text{ m}$
-- $t=8.61\text{ years}$ *or* 
-**Asked**: 
-- a.) **Time** it takes to travel from th
+- $t=8.61\text{ years}$ *or*:
+
+$$
+8.61 \text{ years } \times \frac{8.64 \times 10^{4} \text{ s}}{1 \text{ year}}=7.44 \times 10^{5} \text{ s}
+$$
+
+**Asked**:
+- a.) **Time** it takes to travel from the Moon to the Earth
+- b.) **Distance** from Earth to Sirius in kilometers
+
+**Formulas**:
+- $v=\frac{d}{t}$, where $v$ is $c$ instead.
+	- $t=\frac{d}{c}$
+	- $d=ct$
+
+$$
+d=(3 \times 10^{8} \text{ m/s})(7.44 \times)
+$$
