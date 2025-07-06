@@ -5301,8 +5301,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055106,
-      "modifiedDate": 1744605587203,
-      "sizeInBytes": 9409,
+      "modifiedDate": 1751779509834,
+      "sizeInBytes": 7267,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12,
@@ -5310,7 +5310,8 @@
         "characterCount": 319,
         "nonWhitespaceCharacterCount": 263,
         "newlineCount": 21
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Domination of Energy.canvas": {
       "isCountable": true,
@@ -5355,8 +5356,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744603157164,
-      "modifiedDate": 1744603157164,
-      "sizeInBytes": 5076,
+      "modifiedDate": 1751779500848,
+      "sizeInBytes": 3984,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07666666666666666,
@@ -5364,7 +5365,8 @@
         "characterCount": 190,
         "nonWhitespaceCharacterCount": 157,
         "newlineCount": 11
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Sorcery.canvas": {
       "isCountable": true,
@@ -7355,20 +7357,47 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 136,
+      "wordCount": 139,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4533333333333333,
-      "characterCount": 850,
-      "nonWhitespaceCharacterCount": 659,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 0.5132075471698113,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 864,
+      "nonWhitespaceCharacterCount": 670,
+      "newlineCount": 45,
+      "readingTimeInMinutes": 0.5245283018867924,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1751750056139,
-      "modifiedDate": 1751778170974,
-      "sizeInBytes": 851,
+      "modifiedDate": 1751778829083,
+      "sizeInBytes": 865,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Canvases/The New Titan Hierarchy.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751779517245,
+      "modifiedDate": 1751779517245,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

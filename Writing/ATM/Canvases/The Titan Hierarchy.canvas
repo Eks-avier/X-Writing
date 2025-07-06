@@ -1,461 +1,311 @@
 {
-  "edges": [
-    {
-      "fromNode": "61519a4f3bda5816",
-      "fromSide": "bottom",
-      "id": "68ab3040f5da63d7",
-      "toNode": "d25146f4b749add7",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "d25146f4b749add7",
-      "fromSide": "bottom",
-      "id": "119ae41f04922214",
-      "toNode": "b112f55a3ee5bf94",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "f81d3a58548da972",
-      "fromSide": "bottom",
-      "id": "5840663a516ab206",
-      "toNode": "80289477ba24f5fe",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b537741ab3156ba1",
-      "fromSide": "bottom",
-      "id": "4a2428d29b7d8095",
-      "toNode": "98753a35a9b2c72a",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "a222a0c1e81e7e91",
-      "fromSide": "bottom",
-      "id": "e383f3c3e35e618b",
-      "toNode": "25271d975795bcb4",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "dbe899adefc5492c",
-      "fromSide": "bottom",
-      "id": "c98f74e2cd277ad9",
-      "toNode": "7a6770508090741b",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "315a86af01f9fa20",
-      "fromSide": "bottom",
-      "id": "d0dffbb4196b4440",
-      "toNode": "dbe899adefc5492c",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "c80dfe69f2eee4cd",
-      "fromSide": "bottom",
-      "id": "6a8682a703822167",
-      "toNode": "315a86af01f9fa20",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "3482c2c51972e0eb",
-      "fromSide": "bottom",
-      "id": "25a7fd90de8d2b75",
-      "toNode": "db858538573be4f3",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "db858538573be4f3",
-      "fromSide": "bottom",
-      "id": "19054030ae2b987c",
-      "toNode": "c80dfe69f2eee4cd",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "25271d975795bcb4",
-      "fromSide": "bottom",
-      "id": "fd596f8426244f1c",
-      "toNode": "85a29f5ad1f998b5",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b537741ab3156ba1",
-      "fromSide": "bottom",
-      "id": "16e64d13c9fcbb9f",
-      "toNode": "25271d975795bcb4",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "85cfc04ba0a644d8",
-      "fromSide": "bottom",
-      "id": "1396a78b8366e076",
-      "toNode": "3482c2c51972e0eb",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b537741ab3156ba1",
-      "fromSide": "bottom",
-      "id": "80ea92a9cc85ed07",
-      "toNode": "db858538573be4f3",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "3482c2c51972e0eb",
-      "fromSide": "bottom",
-      "id": "39ff9ef081eae8ad",
-      "toNode": "b537741ab3156ba1",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "85cfc04ba0a644d8",
-      "fromSide": "bottom",
-      "id": "de98c6408c4b862a",
-      "toNode": "a222a0c1e81e7e91",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "85cfc04ba0a644d8",
-      "fromSide": "bottom",
-      "id": "005d22e5f50262e8",
-      "toNode": "b537741ab3156ba1",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "a222a0c1e81e7e91",
-      "fromSide": "bottom",
-      "id": "42bb462e5b323b26",
-      "toNode": "b537741ab3156ba1",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "db858538573be4f3",
-      "fromSide": "left",
-      "id": "da55b12aa67ba1d0",
-      "toEnd": "none",
-      "toNode": "61519a4f3bda5816",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "b112f55a3ee5bf94",
-      "fromSide": "bottom",
-      "id": "4aad725e2ad40eda",
-      "toNode": "f81d3a58548da972",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b112f55a3ee5bf94",
-      "fromSide": "left",
-      "id": "ad13a4b7db134b2d",
-      "toNode": "911905695fbe8e46",
-      "toSide": "right"
-    }
-  ],
-  "nodes": [
-    {
-      "height": 1320,
-      "id": "69b2fb1a65a2f0f5",
-      "label": "Standing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1474,
-      "x": -743,
-      "y": -1542
-    },
-    {
-      "color": "3",
-      "height": 277,
-      "id": "d90649266aa4ec5f",
-      "label": "Alphas",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1300,
-      "x": -661,
-      "y": -1455
-    },
-    {
-      "color": "4",
-      "height": 561,
-      "id": "98753a35a9b2c72a",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 384,
-      "x": -227,
-      "y": -864
-    },
-    {
-      "color": "1",
-      "height": 433,
-      "id": "12113d11610d96f9",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 373,
-      "x": 266,
-      "y": -736
-    },
-    {
-      "height": 225,
-      "id": "78652f10af3a253c",
-      "label": "Lineage",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 358,
-      "x": 786,
-      "y": -1542
-    },
-    {
-      "height": 186,
-      "id": "7f95d2366aa4ba1f",
-      "label": "Color Legend",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 290,
-      "x": 786,
-      "y": -408
-    },
-    {
-      "height": 50,
-      "id": "d25146f4b749add7",
-      "styleAttributes": {
-      },
-      "text": "# Intercardinal Wardens",
-      "type": "text",
-      "width": 344,
-      "x": -202,
-      "y": -707
-    },
-    {
-      "height": 50,
-      "id": "c80dfe69f2eee4cd",
-      "styleAttributes": {
-      },
-      "text": "# Threshold Keepers",
-      "type": "text",
-      "width": 300,
-      "x": 302,
-      "y": -707
-    },
-    {
-      "height": 53,
-      "id": "315a86af01f9fa20",
-      "styleAttributes": {
-      },
-      "text": "# Median Keepers",
-      "type": "text",
-      "width": 259,
-      "x": 323,
-      "y": -613
-    },
-    {
-      "height": 53,
-      "id": "dbe899adefc5492c",
-      "styleAttributes": {
-      },
-      "text": "# Abyss Keepers",
-      "type": "text",
-      "width": 259,
-      "x": 323,
-      "y": -504
-    },
-    {
-      "height": 53,
-      "id": "f81d3a58548da972",
-      "styleAttributes": {
-      },
-      "text": "# Territorials",
-      "type": "text",
-      "width": 259,
-      "x": -159,
-      "y": -504
-    },
-    {
-      "height": 53,
-      "id": "b112f55a3ee5bf94",
-      "styleAttributes": {
-      },
-      "text": "# Regionals",
-      "type": "text",
-      "width": 259,
-      "x": -159,
-      "y": -613
-    },
-    {
-      "color": "3",
-      "height": 53,
-      "id": "85cfc04ba0a644d8",
-      "styleAttributes": {
-      },
-      "text": "# Paramount",
-      "type": "text",
-      "width": 259,
-      "x": -164,
-      "y": -1427
-    },
-    {
-      "color": "2",
-      "height": 53,
-      "id": "b537741ab3156ba1",
-      "styleAttributes": {
-      },
-      "text": "# Betas",
-      "type": "text",
-      "width": 259,
-      "x": -164,
-      "y": -1083
-    },
-    {
-      "color": "#ffffff",
-      "height": 53,
-      "id": "a222a0c1e81e7e91",
-      "styleAttributes": {
-      },
-      "text": "# Divine",
-      "type": "text",
-      "width": 259,
-      "x": -628,
-      "y": -1263
-    },
-    {
-      "height": 53,
-      "id": "61519a4f3bda5816",
-      "styleAttributes": {
-      },
-      "text": "# Cardinal Wardens",
-      "type": "text",
-      "width": 279,
-      "x": -170,
-      "y": -816
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "76584d0a84c02477",
-      "styleAttributes": {
-      },
-      "text": "# The World Below",
-      "type": "text",
-      "width": 250,
-      "x": 806,
-      "y": -388
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "91f9b53d93d5c18e",
-      "styleAttributes": {
-      },
-      "text": "# The World Above",
-      "type": "text",
-      "width": 250,
-      "x": 806,
-      "y": -302
-    },
-    {
-      "height": 53,
-      "id": "7a6770508090741b",
-      "styleAttributes": {
-      },
-      "text": "# Dwellers",
-      "type": "text",
-      "width": 259,
-      "x": 323,
-      "y": -398
-    },
-    {
-      "height": 53,
-      "id": "80289477ba24f5fe",
-      "styleAttributes": {
-      },
-      "text": "# Primals",
-      "type": "text",
-      "width": 259,
-      "x": -160,
-      "y": -398
-    },
-    {
-      "color": "#ffae00",
-      "height": 53,
-      "id": "3482c2c51972e0eb",
-      "styleAttributes": {
-      },
-      "text": "# Sovereign",
-      "type": "text",
-      "width": 259,
-      "x": 323,
-      "y": -1263
-    },
-    {
-      "height": 60,
-      "id": "85ab6122a823c48e",
-      "styleAttributes": {
-      },
-      "text": "# Ascendant",
-      "type": "text",
-      "width": 250,
-      "x": 841,
-      "y": -1512
-    },
-    {
-      "height": 60,
-      "id": "b27c9046b2f190e2",
-      "styleAttributes": {
-      },
-      "text": "# Emergent",
-      "type": "text",
-      "width": 250,
-      "x": 841,
-      "y": -1416
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "85a29f5ad1f998b5",
-      "styleAttributes": {
-      },
-      "text": "# Humanity",
-      "type": "text",
-      "width": 180,
-      "x": -588,
-      "y": -682
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "25271d975795bcb4",
-      "styleAttributes": {
-      },
-      "text": "# Lord of the Mystic Arts",
-      "type": "text",
-      "width": 325,
-      "x": -661,
-      "y": -846
-    },
-    {
-      "color": "2",
-      "height": 50,
-      "id": "db858538573be4f3",
-      "styleAttributes": {
-      },
-      "text": "# Liminal Sentinels",
-      "type": "text",
-      "width": 296,
-      "x": 304,
-      "y": -816
-    },
-    {
-      "height": 60,
-      "id": "911905695fbe8e46",
-      "styleAttributes": {
-      },
-      "text": "# Palace Custodian",
-      "type": "text",
-      "width": 250,
-      "x": -586,
-      "y": -507
-    }
-  ]
+	"edges":[
+		{"fromNode":"61519a4f3bda5816","fromSide":"bottom","id":"68ab3040f5da63d7","toNode":"d25146f4b749add7","toSide":"top"},
+		{"fromNode":"d25146f4b749add7","fromSide":"bottom","id":"119ae41f04922214","toNode":"b112f55a3ee5bf94","toSide":"top"},
+		{"fromNode":"f81d3a58548da972","fromSide":"bottom","id":"5840663a516ab206","toNode":"80289477ba24f5fe","toSide":"top"},
+		{"fromNode":"b537741ab3156ba1","fromSide":"bottom","id":"4a2428d29b7d8095","toNode":"98753a35a9b2c72a","toSide":"top"},
+		{"fromNode":"a222a0c1e81e7e91","fromSide":"bottom","id":"e383f3c3e35e618b","toNode":"25271d975795bcb4","toSide":"top"},
+		{"fromNode":"dbe899adefc5492c","fromSide":"bottom","id":"c98f74e2cd277ad9","toNode":"7a6770508090741b","toSide":"top"},
+		{"fromNode":"315a86af01f9fa20","fromSide":"bottom","id":"d0dffbb4196b4440","toNode":"dbe899adefc5492c","toSide":"top"},
+		{"fromNode":"c80dfe69f2eee4cd","fromSide":"bottom","id":"6a8682a703822167","toNode":"315a86af01f9fa20","toSide":"top"},
+		{"fromNode":"3482c2c51972e0eb","fromSide":"bottom","id":"25a7fd90de8d2b75","toNode":"db858538573be4f3","toSide":"top"},
+		{"fromNode":"db858538573be4f3","fromSide":"bottom","id":"19054030ae2b987c","toNode":"c80dfe69f2eee4cd","toSide":"top"},
+		{"fromNode":"25271d975795bcb4","fromSide":"bottom","id":"fd596f8426244f1c","toNode":"85a29f5ad1f998b5","toSide":"top"},
+		{"fromNode":"b537741ab3156ba1","fromSide":"bottom","id":"16e64d13c9fcbb9f","toNode":"25271d975795bcb4","toSide":"top"},
+		{"fromNode":"85cfc04ba0a644d8","fromSide":"bottom","id":"1396a78b8366e076","toNode":"3482c2c51972e0eb","toSide":"top"},
+		{"fromNode":"b537741ab3156ba1","fromSide":"bottom","id":"80ea92a9cc85ed07","toNode":"db858538573be4f3","toSide":"top"},
+		{"fromNode":"3482c2c51972e0eb","fromSide":"bottom","id":"39ff9ef081eae8ad","toNode":"b537741ab3156ba1","toSide":"top"},
+		{"fromNode":"85cfc04ba0a644d8","fromSide":"bottom","id":"de98c6408c4b862a","toNode":"a222a0c1e81e7e91","toSide":"top"},
+		{"fromNode":"85cfc04ba0a644d8","fromSide":"bottom","id":"005d22e5f50262e8","toNode":"b537741ab3156ba1","toSide":"top"},
+		{"fromNode":"a222a0c1e81e7e91","fromSide":"bottom","id":"42bb462e5b323b26","toNode":"b537741ab3156ba1","toSide":"top"},
+		{"fromNode":"db858538573be4f3","fromSide":"left","id":"da55b12aa67ba1d0","toEnd":"none","toNode":"61519a4f3bda5816","toSide":"right"},
+		{"fromNode":"b112f55a3ee5bf94","fromSide":"bottom","id":"4aad725e2ad40eda","toNode":"f81d3a58548da972","toSide":"top"},
+		{"fromNode":"b112f55a3ee5bf94","fromSide":"left","id":"ad13a4b7db134b2d","toNode":"911905695fbe8e46","toSide":"right"}
+	],
+	"nodes":[
+		{
+			"height":1320,
+			"id":"69b2fb1a65a2f0f5",
+			"label":"Standing",
+			"styleAttributes":{},
+			"type":"group",
+			"width":1474,
+			"x":-743,
+			"y":-1542
+		},
+		{
+			"color":"3",
+			"height":277,
+			"id":"d90649266aa4ec5f",
+			"label":"Alphas",
+			"styleAttributes":{},
+			"type":"group",
+			"width":1300,
+			"x":-661,
+			"y":-1455
+		},
+		{
+			"color":"4",
+			"height":561,
+			"id":"98753a35a9b2c72a",
+			"styleAttributes":{},
+			"type":"group",
+			"width":384,
+			"x":-227,
+			"y":-864
+		},
+		{
+			"color":"1",
+			"height":433,
+			"id":"12113d11610d96f9",
+			"styleAttributes":{},
+			"type":"group",
+			"width":373,
+			"x":266,
+			"y":-736
+		},
+		{
+			"height":225,
+			"id":"78652f10af3a253c",
+			"label":"Lineage",
+			"styleAttributes":{},
+			"type":"group",
+			"width":358,
+			"x":786,
+			"y":-1542
+		},
+		{
+			"height":186,
+			"id":"7f95d2366aa4ba1f",
+			"label":"Color Legend",
+			"styleAttributes":{},
+			"type":"group",
+			"width":290,
+			"x":786,
+			"y":-408
+		},
+		{
+			"height":50,
+			"id":"d25146f4b749add7",
+			"styleAttributes":{},
+			"text":"# Intercardinal Wardens",
+			"type":"text",
+			"width":344,
+			"x":-202,
+			"y":-707
+		},
+		{
+			"height":50,
+			"id":"c80dfe69f2eee4cd",
+			"styleAttributes":{},
+			"text":"# Threshold Keepers",
+			"type":"text",
+			"width":300,
+			"x":302,
+			"y":-707
+		},
+		{
+			"height":53,
+			"id":"315a86af01f9fa20",
+			"styleAttributes":{},
+			"text":"# Median Keepers",
+			"type":"text",
+			"width":259,
+			"x":323,
+			"y":-613
+		},
+		{
+			"height":53,
+			"id":"dbe899adefc5492c",
+			"styleAttributes":{},
+			"text":"# Abyss Keepers",
+			"type":"text",
+			"width":259,
+			"x":323,
+			"y":-504
+		},
+		{
+			"height":53,
+			"id":"f81d3a58548da972",
+			"styleAttributes":{},
+			"text":"# Territorials",
+			"type":"text",
+			"width":259,
+			"x":-159,
+			"y":-504
+		},
+		{
+			"height":53,
+			"id":"b112f55a3ee5bf94",
+			"styleAttributes":{},
+			"text":"# Regionals",
+			"type":"text",
+			"width":259,
+			"x":-159,
+			"y":-613
+		},
+		{
+			"color":"3",
+			"height":53,
+			"id":"85cfc04ba0a644d8",
+			"styleAttributes":{},
+			"text":"# Paramount",
+			"type":"text",
+			"width":259,
+			"x":-164,
+			"y":-1427
+		},
+		{
+			"color":"2",
+			"height":53,
+			"id":"b537741ab3156ba1",
+			"styleAttributes":{},
+			"text":"# Betas",
+			"type":"text",
+			"width":259,
+			"x":-164,
+			"y":-1083
+		},
+		{
+			"color":"#ffffff",
+			"height":53,
+			"id":"a222a0c1e81e7e91",
+			"styleAttributes":{},
+			"text":"# Divine",
+			"type":"text",
+			"width":259,
+			"x":-628,
+			"y":-1263
+		},
+		{
+			"height":53,
+			"id":"61519a4f3bda5816",
+			"styleAttributes":{},
+			"text":"# Cardinal Wardens",
+			"type":"text",
+			"width":279,
+			"x":-170,
+			"y":-816
+		},
+		{
+			"color":"1",
+			"height":60,
+			"id":"76584d0a84c02477",
+			"styleAttributes":{},
+			"text":"# The World Below",
+			"type":"text",
+			"width":250,
+			"x":806,
+			"y":-388
+		},
+		{
+			"color":"4",
+			"height":60,
+			"id":"91f9b53d93d5c18e",
+			"styleAttributes":{},
+			"text":"# The World Above",
+			"type":"text",
+			"width":250,
+			"x":806,
+			"y":-302
+		},
+		{
+			"height":53,
+			"id":"7a6770508090741b",
+			"styleAttributes":{},
+			"text":"# Dwellers",
+			"type":"text",
+			"width":259,
+			"x":323,
+			"y":-398
+		},
+		{
+			"height":53,
+			"id":"80289477ba24f5fe",
+			"styleAttributes":{},
+			"text":"# Primals",
+			"type":"text",
+			"width":259,
+			"x":-160,
+			"y":-398
+		},
+		{
+			"color":"#ffae00",
+			"height":53,
+			"id":"3482c2c51972e0eb",
+			"styleAttributes":{},
+			"text":"# Sovereign",
+			"type":"text",
+			"width":259,
+			"x":323,
+			"y":-1263
+		},
+		{
+			"height":60,
+			"id":"85ab6122a823c48e",
+			"styleAttributes":{},
+			"text":"# Ascendant",
+			"type":"text",
+			"width":250,
+			"x":841,
+			"y":-1512
+		},
+		{
+			"height":60,
+			"id":"b27c9046b2f190e2",
+			"styleAttributes":{},
+			"text":"# Emergent",
+			"type":"text",
+			"width":250,
+			"x":841,
+			"y":-1416
+		},
+		{
+			"color":"5",
+			"height":60,
+			"id":"85a29f5ad1f998b5",
+			"styleAttributes":{},
+			"text":"# Humanity",
+			"type":"text",
+			"width":180,
+			"x":-588,
+			"y":-682
+		},
+		{
+			"color":"6",
+			"height":60,
+			"id":"25271d975795bcb4",
+			"styleAttributes":{},
+			"text":"# Lord of the Mystic Arts",
+			"type":"text",
+			"width":325,
+			"x":-661,
+			"y":-846
+		},
+		{
+			"color":"2",
+			"height":50,
+			"id":"db858538573be4f3",
+			"styleAttributes":{},
+			"text":"# Liminal Sentinels",
+			"type":"text",
+			"width":296,
+			"x":304,
+			"y":-816
+		},
+		{
+			"height":60,
+			"id":"911905695fbe8e46",
+			"styleAttributes":{},
+			"text":"# Palace Custodian",
+			"type":"text",
+			"width":250,
+			"x":-586,
+			"y":-507
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

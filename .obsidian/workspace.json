@@ -59,28 +59,44 @@
             "id": "b82dfddbcf4178f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notepad 8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+                "viewState": {
+                  "x": -22.82177734375,
+                  "y": -9.12872314453125,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Notepad 8"
+              "icon": "lucide-layout-dashboard",
+              "title": "The New Titan Hierarchy"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "9617c2aff25eac07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4ed47bb0d229f2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
+                "viewState": {
+                  "x": 200.5,
+                  "y": -882,
+                  "zoom": -1.605754302326208
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Titan Hierarchy"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notepad 8.md",
+                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notepad 8"
+              "title": "Backlinks for The New Titan Hierarchy"
             }
           },
           {
@@ -224,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notepad 8.md",
+                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notepad 8"
+              "title": "Outgoing links from The New Titan Hierarchy"
             }
           },
           {
@@ -238,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notepad 8.md",
+                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notepad 8"
+              "title": "Outline of The New Titan Hierarchy"
             }
           },
           {
@@ -300,6 +316,10 @@
   },
   "active": "b82dfddbcf4178f8",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
+    "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+    "Writing/ATM/Canvases/Untitled.md",
+    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Notepad 8.md",
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Notepad 7.md",
@@ -334,13 +354,9 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
     "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/umbra_simulacrum_battle_analysis.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
-    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
-    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
