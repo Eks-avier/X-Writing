@@ -1,7 +1,9 @@
 {
 	"nodes":[
+		{"id":"48573627bbc27b32","type":"group","x":-520,"y":-1160,"width":1280,"height":1800,"label":"The Standing Hierarchy"},
 		{"id":"6a6dc6b2a96a196d","type":"group","x":-398,"y":-1038,"width":1042,"height":440,"color":"#ffd700","label":"Alpha Tier"},
-		{"id":"969669af7dc689d2","type":"group","x":-398,"y":-477,"width":1042,"height":300,"color":"#c0c0c0","label":"Beta Tier"},
+		{"id":"515d31464c0b6e6e","type":"group","x":-237,"y":-320,"width":720,"height":300,"color":"#cd7f32","label":"Warden Tier"},
+		{"id":"e1f365d4576702ee","type":"group","x":-230,"y":80,"width":702,"height":300,"label":"Regional Tier"},
 		{
 			"id":"c0a122132114e4bb",
 			"type":"text",
@@ -10,7 +12,8 @@
 			"x":340,
 			"y":-720,
 			"width":263,
-			"height":60
+			"height":60,
+			"color":"3"
 		},
 		{
 			"id":"1c65dde8c34e6b58",
@@ -20,7 +23,8 @@
 			"x":-360,
 			"y":-720,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
 		},
 		{
 			"id":"8e1399af05ea540f",
@@ -29,6 +33,60 @@
 			"styleAttributes":{},
 			"x":-7,
 			"y":-961,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"5a03c44ec0a16ce5",
+			"type":"text",
+			"text":"# Beta Tier",
+			"styleAttributes":{},
+			"x":-7,
+			"y":-480,
+			"width":260,
+			"height":60,
+			"color":"#c0c0c0"
+		},
+		{
+			"id":"06366e315b0054ea",
+			"type":"text",
+			"text":"# Cardinal",
+			"styleAttributes":{},
+			"x":-7,
+			"y":-280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"4522a74b6fe064e1",
+			"type":"text",
+			"text":"# Intercardinal",
+			"styleAttributes":{},
+			"x":-7,
+			"y":-120,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"afee31f2a553831a",
+			"type":"text",
+			"text":"# High Regional",
+			"styleAttributes":{},
+			"x":-20,
+			"y":140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ef594c9e164d90f3",
+			"type":"text",
+			"text":"# Low Regional",
+			"styleAttributes":{},
+			"x":-20,
+			"y":280,
 			"width":260,
 			"height":60
 		}
@@ -65,12 +123,30 @@
 			"toSide":"top"
 		},
 		{
-			"id":"819f876842098e9b",
+			"id":"2574dc82ef0c2c85",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"6a6dc6b2a96a196d",
 			"fromSide":"bottom",
-			"toNode":"969669af7dc689d2",
+			"toNode":"5a03c44ec0a16ce5",
+			"toSide":"top"
+		},
+		{
+			"id":"2ca95de83608016e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5a03c44ec0a16ce5",
+			"fromSide":"bottom",
+			"toNode":"515d31464c0b6e6e",
+			"toSide":"top"
+		},
+		{
+			"id":"e52a4be97fb68957",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"06366e315b0054ea",
+			"fromSide":"bottom",
+			"toNode":"4522a74b6fe064e1",
 			"toSide":"top"
 		}
 	],
