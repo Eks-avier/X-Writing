@@ -1,6 +1,14 @@
 # PARTS OF THE ATM WORLD
 
 1. Timeline
+	1. Pre-Godzilla Era
+	2. Godzilla Era
+	3. Atlantis Era
+	4. Pre-Godzilla 2014
+	5. Pre-Godzilla 2019 (KOTM)
+	6. Post-KOTM 2019
+	7. Antitheriomorphosis (2020)
+	8. Post-Xilien Invasion (2025)
 2. Characters
 3. Power Systems
 	1. Magic
@@ -16,20 +24,17 @@
 		2. The Betas
 		3. The Wardens
 5. Settings
-	1. Castle Bravo, Bermuda 
+	1. Castle Bravo, Bermuda
 		1. Keep Charlie (2025)
-	2. Hollow Earth 
+	2. Hollow Earth
 		1. Hollow Earth Outpost (2022)
+		2. Antarctic Gateway
+		3. Hong Kong Gateway
+		4. Egypt Gateway
 	3. Monster Island
 		1. The Palace (2025)
 	4. Meadowvale (2026)
-		1. Nordson House 
-			1. Meadowvale High 
-6. Histories
-	1. Pre-Godzilla Era
-	2. Godzilla Era
-	3. Atlantis Era
-	4. Pre-Godzilla 2014
-	5. Pre-Godzilla 2019 (KOTM)
-	6. Post-KOTM 2019
-	7. Antitheriomorphosis (2020)
+		1. Nordson House
+		2. Meadowvale High
+
+	

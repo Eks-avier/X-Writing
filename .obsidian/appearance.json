@@ -6,5 +6,5 @@
   "nativeMenus": false,
   "showRibbon": false,
   "textFontFamily": "Rubik,Quintessential",
-  "interfaceFontFamily": "Rubik"
+  "interfaceFontFamily": "Rubik,JetBrains Mono"
 }
