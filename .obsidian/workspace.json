@@ -59,17 +59,24 @@
             "id": "b82dfddbcf4178f8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
-                "viewState": {
-                  "x": 150.26107261744397,
-                  "y": 3.6542481404060254,
-                  "zoom": -1.1111110432942708
+                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Titan Standing Hierarchy"
+              "icon": "lucide-file",
+              "title": "Ascendant Primals"
             }
           }
         ],
@@ -221,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Titan Standing Hierarchy"
+              "title": "Backlinks for Ascendant Primals"
             }
           },
           {
@@ -240,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Titan Standing Hierarchy"
+              "title": "Outgoing links from Ascendant Primals"
             }
           },
           {
@@ -254,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Titan Standing Hierarchy"
+              "title": "Outline of Ascendant Primals"
             }
           },
           {
@@ -314,10 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "b82dfddbcf4178f8",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+    "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Notepad 8.md",
@@ -353,7 +361,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
-    "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",

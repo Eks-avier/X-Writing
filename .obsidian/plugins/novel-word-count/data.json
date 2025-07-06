@@ -7407,6 +7407,33 @@
         "newlineCount": 0
       },
       "frontmatter": {}
+    },
+    "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2142,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.14,
+      "characterCount": 17218,
+      "nonWhitespaceCharacterCount": 14867,
+      "newlineCount": 261,
+      "readingTimeInMinutes": 8.083018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751784077932,
+      "modifiedDate": 1751784215594,
+      "sizeInBytes": 17250,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
