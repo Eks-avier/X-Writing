@@ -61,15 +61,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
                 "viewState": {
-                  "x": -22.82177734375,
-                  "y": -9.12872314453125,
-                  "zoom": 0
+                  "x": 105.02808807797726,
+                  "y": -454.7188084588411,
+                  "zoom": -1.0143009324653636
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "The New Titan Hierarchy"
+              "title": "The Titan Standing Hierarchy"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The New Titan Hierarchy"
+              "title": "Backlinks for The Titan Standing Hierarchy"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The New Titan Hierarchy"
+              "title": "Outgoing links from The Titan Standing Hierarchy"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
+                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The New Titan Hierarchy"
+              "title": "Outline of The Titan Standing Hierarchy"
             }
           },
           {
@@ -316,9 +316,9 @@
   },
   "active": "b82dfddbcf4178f8",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
-    "Writing/ATM/Canvases/The New Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/Untitled.md",
+    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Notepad 8.md",
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",

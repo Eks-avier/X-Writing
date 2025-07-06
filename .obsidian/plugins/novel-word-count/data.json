@@ -7380,24 +7380,24 @@
         "newlineCount": 0
       }
     },
-    "Writing/ATM/Canvases/The New Titan Hierarchy.canvas": {
+    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.01,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 27,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1751779517245,
-      "modifiedDate": 1751779517245,
-      "sizeInBytes": 0,
+      "modifiedDate": 1751780094344,
+      "sizeInBytes": 1392,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7405,7 +7405,8 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
+      },
+      "frontmatter": {}
     }
   }
 }

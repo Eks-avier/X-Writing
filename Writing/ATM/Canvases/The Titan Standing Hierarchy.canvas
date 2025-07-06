@@ -1,0 +1,82 @@
+{
+	"nodes":[
+		{"id":"6a6dc6b2a96a196d","type":"group","x":-398,"y":-1038,"width":1042,"height":440,"color":"#ffd700","label":"Alpha Tier"},
+		{"id":"969669af7dc689d2","type":"group","x":-398,"y":-477,"width":1042,"height":300,"color":"#c0c0c0","label":"Beta Tier"},
+		{
+			"id":"c0a122132114e4bb",
+			"type":"text",
+			"text":"# Sovereign",
+			"styleAttributes":{},
+			"x":340,
+			"y":-720,
+			"width":263,
+			"height":60
+		},
+		{
+			"id":"1c65dde8c34e6b58",
+			"type":"text",
+			"text":"# Divine",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e1399af05ea540f",
+			"type":"text",
+			"text":"# Paramount",
+			"styleAttributes":{},
+			"x":-7,
+			"y":-961,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"8b1ffa59ec849a66",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1c65dde8c34e6b58",
+			"fromSide":"right",
+			"toNode":"c0a122132114e4bb",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"5a1008d41f30a555",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8e1399af05ea540f",
+			"fromSide":"bottom",
+			"toNode":"1c65dde8c34e6b58",
+			"toSide":"top"
+		},
+		{
+			"id":"3349ede07dce4eb4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8e1399af05ea540f",
+			"fromSide":"bottom",
+			"toNode":"c0a122132114e4bb",
+			"toSide":"top"
+		},
+		{
+			"id":"819f876842098e9b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6a6dc6b2a96a196d",
+			"fromSide":"bottom",
+			"toNode":"969669af7dc689d2",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"88b8f314b0828ceb"
+	}
+}
