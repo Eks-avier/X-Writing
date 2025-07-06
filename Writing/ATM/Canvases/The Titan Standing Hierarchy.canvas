@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"48573627bbc27b32","type":"group","x":-520,"y":-1160,"width":1280,"height":1800,"label":"The Standing Hierarchy"},
 		{"id":"6a6dc6b2a96a196d","type":"group","x":-398,"y":-1038,"width":1042,"height":440,"color":"#ffd700","label":"Alpha Tier"},
-		{"id":"515d31464c0b6e6e","type":"group","x":-237,"y":-320,"width":720,"height":300,"color":"#cd7f32","label":"Warden Tier"},
-		{"id":"e1f365d4576702ee","type":"group","x":-230,"y":80,"width":702,"height":300,"label":"Regional Tier"},
+		{"id":"e1f365d4576702ee","type":"group","x":-237,"y":120,"width":720,"height":440,"label":"Regional Tier"},
+		{"id":"515d31464c0b6e6e","type":"group","x":-157,"y":-320,"width":560,"height":320,"color":"#cd7f32","label":"Warden Tier"},
 		{
 			"id":"c0a122132114e4bb",
 			"type":"text",
@@ -49,23 +49,23 @@
 			"color":"#c0c0c0"
 		},
 		{
-			"id":"06366e315b0054ea",
+			"id":"4522a74b6fe064e1",
 			"type":"text",
-			"text":"# Cardinal",
+			"text":"# Intercardinal",
 			"styleAttributes":{},
-			"x":-7,
-			"y":-280,
+			"x":-4,
+			"y":-120,
 			"width":260,
 			"height":60,
 			"color":"2"
 		},
 		{
-			"id":"4522a74b6fe064e1",
+			"id":"06366e315b0054ea",
 			"type":"text",
-			"text":"# Intercardinal",
+			"text":"# Cardinal",
 			"styleAttributes":{},
-			"x":-7,
-			"y":-120,
+			"x":-4,
+			"y":-260,
 			"width":260,
 			"height":60,
 			"color":"2"
@@ -75,8 +75,8 @@
 			"type":"text",
 			"text":"# High Regional",
 			"styleAttributes":{},
-			"x":-20,
-			"y":140,
+			"x":-1,
+			"y":200,
 			"width":260,
 			"height":60
 		},
@@ -85,9 +85,19 @@
 			"type":"text",
 			"text":"# Low Regional",
 			"styleAttributes":{},
-			"x":-20,
-			"y":280,
+			"x":-1,
+			"y":320,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"70b97d112d964446",
+			"type":"text",
+			"text":"# Palace Custodian",
+			"styleAttributes":{},
+			"x":-11,
+			"y":440,
+			"width":280,
 			"height":60
 		}
 	],
@@ -147,6 +157,15 @@
 			"fromNode":"06366e315b0054ea",
 			"fromSide":"bottom",
 			"toNode":"4522a74b6fe064e1",
+			"toSide":"top"
+		},
+		{
+			"id":"09451cf148c16170",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"515d31464c0b6e6e",
+			"fromSide":"bottom",
+			"toNode":"e1f365d4576702ee",
 			"toSide":"top"
 		}
 	],
