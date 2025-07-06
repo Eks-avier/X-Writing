@@ -19,10 +19,24 @@
 
 ---
 
-**Given**: $f=4.0 \times 10^{14}\text{ Hz}$; $c=3 \times 10^{8} \, \frac{\text{m}}{s}$
+**Given**: 
+- $f=4.0 \times 10^{14}\text{ Hz}$
+- $f=7.9 \times 10^{14}\text{ Hz}$
+- $c=3 \times 10^{8} \, \frac{\text{m}}{s}$
 **Asked**: Wavelength ($\lambda$)
 **Formula**: $\lambda=\frac{c}{f}$
 **Solution**: 
 $$
-lamda=\frac{\left( 3.0 \times 10^{8} \, \frac{\text{m}}{s} \right)}{4.0 \times 10^{14} \text{ Hz}} = 7.5 \times 10^{-7} \text{ m}
+\lambda=\frac{3.0 \times 10^{8} \, \frac{\text{m}}{s}}{4.0 \times 10^{14} \text{ Hz}} = 7.5 \times 10^{-7} \text{ m}
 $$
+$$
+\lambda = \frac{3e^{8}}{7.9e^{14}} = 3.8e^{-7} \text{ m}
+$$
+---
+
+**Given**:
+- $c=3 \times 10^{8}\text{ m/s}$
+- $d=384,000\text{ km}$ *or* $d=3.8 \times 10^{5}\text{ m}$
+- $t=8.61\text{ years}$ *or* 
+**Asked**: 
+- a.) **Time** it takes to travel from th
