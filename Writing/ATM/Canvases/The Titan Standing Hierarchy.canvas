@@ -81,22 +81,12 @@
 			"height":60
 		},
 		{
-			"id":"ef594c9e164d90f3",
-			"type":"text",
-			"text":"# Low Regional",
-			"styleAttributes":{},
-			"x":-1,
-			"y":320,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"70b97d112d964446",
 			"type":"text",
 			"text":"# Palace Custodian",
 			"styleAttributes":{},
 			"x":-11,
-			"y":440,
+			"y":360,
 			"width":280,
 			"height":60
 		}
@@ -166,6 +156,15 @@
 			"fromNode":"515d31464c0b6e6e",
 			"fromSide":"bottom",
 			"toNode":"e1f365d4576702ee",
+			"toSide":"top"
+		},
+		{
+			"id":"ec8a2d794499fa8b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"afee31f2a553831a",
+			"fromSide":"bottom",
+			"toNode":"70b97d112d964446",
 			"toSide":"top"
 		}
 	],
