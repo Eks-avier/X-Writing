@@ -4,14 +4,15 @@
 	1. Pre-Godzilla Era
 	2. Godzilla Era
 	3. Atlantis Era
-	4. 1954
-	5. 
-	6. Pre-Godzilla 2014
-	7. Pre-Godzilla 2019 (KOTM)
-	8. Post-KOTM 2019
-	9. Antitheriomorphosis (2020)
-	10. Godzilla vs Kong (2022)
-	11. Post-Xilien Invasion (2025)
+	4. 1944
+	5. 1954
+	6. 1973
+	7. Pre-Godzilla 2014
+	8. Pre-Godzilla 2019 (KOTM)
+	9. Post-KOTM 2019
+	10. Antitheriomorphosis (2020)
+	11. Godzilla vs Kong (2022)
+	12. Post-Xilien Invasion (2025)
 2. Characters
 3. Power Systems
 	1. Magic
