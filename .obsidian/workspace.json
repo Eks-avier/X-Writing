@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
+                "file": "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,10 +59,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godzilla Profile Modified"
+              "title": "The Divine Soul of the Heavenly Instance"
+            }
+          },
+          {
+            "id": "b6be9216f7835457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Scales of 'Titanus mosura'"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,8 +305,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd4ed47bb0d229f2",
+  "active": "b6be9216f7835457",
   "lastOpenFiles": [
+    "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
     "Notepad 7.md",
     "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
@@ -294,7 +321,6 @@
     "_Archive/Fiction/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/sovereign-title-history.md",
     "Writing/ATM/Titans/Hierarchy/Ascendant Classification - The World-Changers.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
     "Writing/Antitheriomorphosis Universe/20 - NARRATIVE (Story Arcs)/The First Arc (Awakening)",
     "Writing/Antitheriomorphosis Universe/20 - NARRATIVE (Story Arcs)/Xilien Invasion Arc",
     "Writing/Antitheriomorphosis Universe/20 - NARRATIVE (Story Arcs)/Dagon Resurrection Arc",
