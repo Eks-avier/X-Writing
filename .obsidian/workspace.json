@@ -30,57 +30,9 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
-          },
-          {
-            "id": "89512d2ac19a09ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notepad 7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notepad 7"
-            }
-          },
-          {
-            "id": "b82dfddbcf4178f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ascendant Primals"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9617c2aff25eac07",
@@ -90,17 +42,24 @@
             "id": "bd4ed47bb0d229f2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
-                "viewState": {
-                  "x": 200.5,
-                  "y": -1353.7499712066651,
-                  "zoom": -1.605754302326208
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Titan Hierarchy"
+              "icon": "lucide-file",
+              "title": "Godzilla Profile Modified"
             }
           }
         ]
@@ -228,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ascendant Primals"
+              "title": "Backlinks for Godzilla Profile Modified"
             }
           },
           {
@@ -247,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ascendant Primals"
+              "title": "Outgoing links from Godzilla Profile Modified"
             }
           },
           {
@@ -261,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ascendant Primals"
+              "title": "Outline of Godzilla Profile Modified"
             }
           },
           {
@@ -321,16 +280,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b82dfddbcf4178f8",
+  "active": "bd4ed47bb0d229f2",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+    "Notepad 7.md",
     "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
+    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Notepad 8.md",
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
-    "Notepad 7.md",
     "Writing/Antitheriomorphosis Universe/00 - ATLAS (Core Lore)/Society & Culture/Overview - The Titan Hierarchy.md",
     "_Archive/Fiction/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/sovereign-title-history.md",

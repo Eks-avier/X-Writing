@@ -15,7 +15,7 @@ This section provides the fundamental identifying details and a high-level overv
 *   **Human Name:** Godric Nordson
     *   This name, chosen post-Antitheriomorphosis, blends the Anglo-Saxon “Godric” (power of God/ruler of God) with “Nordson,” representing his [[#1. The Last Family Godzilla & Dagon|Northern Faction]] heritage and his identity as “The Last Son of the North.”
 *   **Species:** *Titanus gojira*
-    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Kratos]].
+    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Kràtos]].
 *   **Lineage:** Ascendant / Superior
 *   **Sapience:** Sapient / Minded
 *   **Standing:** Alpha Paramount
