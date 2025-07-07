@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Light",
+      "path": "College/Light.md"
+    },
+    {
       "basename": "Electromagnetic Wave",
       "path": "College/Electromagnetic Wave.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The King of the Monsters",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/The King of the Monsters.md"
-    },
-    {
-      "basename": "Reorganized",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized.md"
     }
   ],
   "omittedPaths": [],
