@@ -50,11 +50,11 @@ Virtual Image: upright with respect to the image; follows the position of the ob
 Concave - Curve is away from you
 Convex - Curve is toward you
 
-Convex:
+Concave:
 $$
 f = \frac{1}{2}R
 $$
-Concave:
+Convex:
 $$
 f = -\frac{1}{2}R
 $$Mirror Equation: 
@@ -65,3 +65,5 @@ $$
 $m=1$, $h_{i}=h_{o}$
 $m<1$, $h_{i}<h_{o}$
 $m>1$, $h_{i}>h_{o}$
+
+Magni. Equation: $m=\frac{h_{i}}{h_{o}}$
