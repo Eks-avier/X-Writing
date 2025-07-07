@@ -57,4 +57,11 @@ $$
 Concave:
 $$
 f = -\frac{1}{2}R
+$$Mirror Equation: 
 $$
+\frac{1}{d_{o}}+\frac{1}{d_{i}}=\frac{1}{f}
+$$
+
+$m=1$, $h_{i}=h_{o}$
+$m<1$, $h_{i}<h_{o}$
+$m>1$, $h_{i}>h_{o}$
