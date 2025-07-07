@@ -53,5 +53,20 @@ $$
 	- $d=ct$
 
 $$
-d=(3 \times 10^{8} \text{ m/s})(7.44 \times)
+d=(3 \times 10^{8} \text{ m/s})(7.44 \times 10^{5} \text{ s}) = 2.23 \times 10^{14} \text{ m} = 2.23 \times 10^{11} \text{ m}
 $$
+
+---
+
+**Given**:
+- $d=1.5\text{ m}$ between two astronauts in a spaceship
+- $c=3\times 10^{8}\text{ m/s}$
+- $v=343\text{ m/s}$ at $20\celsius$
+
+**Asked**:
+- **Distance** of Earth from the spaceship
+
+**Formulas**:
+- $t_{s}=t_{c}$
+	- $d=vt$ → $t=\frac{d}{v}$
+- $d=ct$
