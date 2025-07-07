@@ -62,6 +62,7 @@ $$
 - $d=1.5\text{ m}$ between two astronauts in a spaceship
 - $c=3\times 10^{8}\text{ m/s}$
 - $v=343\text{ m/s}$ at $20\celsius$
+- 
 
 **Asked**:
 - **Distance** of Earth from the spaceship
