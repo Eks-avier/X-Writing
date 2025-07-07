@@ -4,11 +4,41 @@
 
 - Particle Theory
 	- By Isaac Newton
-	- Light is made up of particles *or* "corpuscles"
+	- Light is made up of particles *or* “corpuscles”
 - Wave Theory
 	- By Christian Huygen
 	- Light is a wave
 		- A wave is a disturbance, an energy-carrier
 - Electromagnetic Wave Theory
 	- By James Clerk Maxwell
-	- Li
+	- Light is a form of an electromagnetic wave
+- Quantum Theory
+	- Light travels in discrete bundles of energy called “quanta” or photons
+- **Dual Nature**: Light is a wave and a particle
+
+## Characteristics of Light
+
+- Light travels in a straight line
+- Light travels very fast
+- Light has the following properties
+	- Reflection
+	- Refraction
+
+### Reflection
+
+- **Incident Light**: Light coming from the source
+- Specular
+- Diffuse
+
+#### Law of Reflection
+
+- The incident ray, the reflected ray, and the normal to the surface all lie in the same plane, and the angle of incidence equals the angle of reflection.
+	- Applies to *all* mirrors.
+
+##### Image Formed by a Plane Mirror
+
+
+
+1. Upright
+2. Same size
+3. As far behind the mirror as the object in front of it.

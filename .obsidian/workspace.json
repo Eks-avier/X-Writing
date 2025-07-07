@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "Light"
             }
+          },
+          {
+            "id": "78360c673298e572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Electromagnetic Wave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnetic Wave"
+            }
           }
         ],
         "currentTab": 3
