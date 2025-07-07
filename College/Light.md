@@ -37,8 +37,24 @@
 
 ##### Image Formed by a Plane Mirror
 
-
+Image is laterally reversed.
 
 1. Upright
 2. Same size
 3. As far behind the mirror as the object in front of it.
+
+Virtual Image: upright with respect to the image; follows the position of the object
+
+##### Image Formed by a Spherical Mirror
+
+Concave - Curve is away from you
+Convex - Curve is toward you
+
+Convex:
+$$
+f = \frac{1}{2}R
+$$
+Concave:
+$$
+f = -\frac{1}{2}R
+$$
