@@ -80,3 +80,8 @@ When light travels from a material with one index of refraction to a material wi
 $$
 n_{i}\sin \theta_{1} = n_{2}\sin \theta_{2}
 $$
+- Total internal reflection, the index of refraction of the first medium must be greater than the index of refraction of the second. 
+	- When the angle of incidence reaches a certain value where the angle of refraction is 90 degrees, the angle of incidence is called the critical angle $\theta_{c}$
+	- When the angle of incidence exceeds the critical angle, there is no refracted light. All the incident is reflected back into the medium from which it came.
+
+$\sin \theta_{c}=\frac{n_{2}}{n_{1}}$, where $n_{1}>n_{2}$
