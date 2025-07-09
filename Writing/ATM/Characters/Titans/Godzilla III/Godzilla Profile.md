@@ -634,7 +634,7 @@ The extraordinary capabilities of his wardrobe are made possible through a uniqu
 
 Godric's daily attire is a uniform in the truest sense of the word: consistent, functional, and designed to project a specific, unwavering image. It is a three-part system of dress shirt, tactical pants, and combat boots, each element engineered to perfection.
 
-*   **a. Dress Shirts: The Armor of Authority**
+*   **a. Dress Shirts: The Armor of Authority** ^d293b3
 
 Godric's primary garment is the dress shirt, a choice that balances formality with his physical reality. Each shirt is a bespoke creation by Maria, designed to function as both psychological and literal armor.
 
@@ -981,18 +981,18 @@ Maria’s attraction to Godric is deeply rooted in the [[maria-godric-relationsh
 *   **Attraction to Mortality:** Maria is drawn not to his uncanny perfection, but precisely to the subtle imperfections and glimpses of his authentic, [[maria-godric-relationship.md#The Dormant Season Attraction|mortal self]]. She finds herself particularly captivated by:
     *   His [[maria-godric-relationship.md#Facial Hair Catastrophe Management|growing stubble]] or [[#2 Dormant Season (September-November)|dormant season]] appearance, where his defined edges soften and his mathematical precision is less visually apparent.
     *   The way [[maria_hair_reactions.md#The Falling Strand Obsession|strands of his hair]] fall across his forehead during activity.
-    *   The intimate areas where his [[Godzilla \ Godric Nordson - Refined Profile#IV B 3 a Dress Shirts: The Armor of Authority|undershirt peers]] through his button-down, hinting at his powerful physique beneath.
-    *   The rare moments his true [[Godzilla \ Godric Nordson - Refined Profile#II C 2 Eyes|gold eyes]] become visible, revealing his vulnerability.
-*   **The Misinterpretation Cycle:** Maria's physical reactions to his allure—her [[maria_hair_reactions.md#Bioluminescent Reactions|bioluminescent pink glow]], her [[maria_hair_reactions.md#Eye Focus Patterns|eyes fixating]], her unconscious [[maria_hair_reactions.md#Control Breakdown Indicators|physical restraint]]—are interpreted by Godric as discomfort or disapproval. Because he desires to eliminate any source of "disorder" or "disruption" to his [[Godzilla \ Godric Nordson - Refined Profile#IV A The Presentation Mandate: Hiding in Plain Sight|impeccable presentation]], he responds by [[maria_hair_reactions.md#The Misinterpretation Tragedy|increasing his grooming efforts]] (e.g., shaving more frequently), inadvertently removing the very traits she finds most captivating. This self-perpetuating cycle of misunderstanding creates a tragicomic dynamic where neither can correct the misconception due to communication barriers.
+    *   The intimate areas where his [[#^d293b3|undershirt]] peers through his button-down, hinting at his powerful physique beneath.
+    *   The rare moments his true gold eyes become visible, revealing his vulnerability.
+*   **The Misinterpretation Cycle:** Maria's physical reactions to his allure—her [[maria_hair_reactions.md#Bioluminescent Reactions|bioluminescent pink glow]], her [[maria_hair_reactions.md#Eye Focus Patterns|eyes fixating]], her unconscious [[maria_hair_reactions.md#Control Breakdown Indicators|physical restraint]]—are interpreted by Godric as discomfort or disapproval. Because he desires to eliminate any source of "disorder" or "disruption" to his [[#A. The Presentation Mandate: Hiding in Plain Sight|impeccable presentation]], he responds by [[maria_hair_reactions.md#The Misinterpretation Tragedy|increasing his grooming efforts]] (e.g., shaving more frequently), inadvertently removing the very traits she finds most captivating. This self-perpetuating cycle of misunderstanding creates a tragicomic dynamic where neither can correct the misconception due to communication barriers.
 
 ##### The Inevitable Romance: The Eclipse
 
 Despite their mutual denial and the comedic feedback loop of his grooming, their relationship slowly but inevitably blossoms, evolving from ancient alliance to profound romance.
 
 *   **The Catalyst:** The [[Antitheriomorphosis]] is the [[sun_moon_motif.md#The Eclipse Metaphor|cosmic eclipse]] that allows their impossible alignment. In human form, they transcend their distant celestial roles, becoming physical beings whose paths can converge.
-*   **The Slow Burn:** Their romance begins with the [[Mini Arc Outline - The Winter Cycle.md|Winter Cycle Arc]], where forced domesticity in Meadowvale and Godric's vulnerable processing of his [[Godzilla \ Godric Nordson - Refined Profile#VI B 1 The Abandonment Narrative and The Ongoing Detox|Dagon trauma]] lead to their first tentative steps towards intimacy, culminating in their first kiss.
+*   **The Slow Burn:** Their romance begins with the [[Mini Arc Outline - The Winter Cycle.md|Winter Cycle Arc]], where forced domesticity in Meadowvale and Godric's vulnerable processing of his Dagon trauma lead to their first tentative steps towards intimacy, culminating in their first kiss.
 *   **The Formalization:** It solidifies in the [[Plot Outline - Blue House at Maple Street.md|Blue House at Maple Street Arc]], where their cover as a married couple living in Meadowvale forces them to confront and embrace their true feelings. Their [[Plot Outline - Blue House at Maple Street.md#Key Story Beat: “The Ring Reminder” (Alternating POV)|wedding rings]], forged by Battra, become powerful symbols of a cover that transformed into reality.
-*   **The Unacknowledged Symbol:** The [[Godzilla \ Godric Nordson - Refined Profile#IV B 7 Accessories: Symbols and Statements|Golden Tie]], handwoven by Maria to perfectly complement his true golden eyes (a feature only she intimately knows), remains unworn in his quarters. It is a profound, unspoken symbol of their deep intimacy, waiting for him to choose authenticity over vigilance.
+		*   **The Unacknowledged Symbol:** The Golden Tie, handwoven by Maria to perfectly complement his true golden eyes (a feature only she intimately knows), remains unworn in his quarters. It is a profound, unspoken symbol of their deep intimacy, waiting for him to choose authenticity over vigilance.
 
 #### 3. The Ancient Trinity: A Balanced Force
 
