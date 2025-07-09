@@ -5399,33 +5399,6 @@
         ]
       }
     },
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1032,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.44,
-      "characterCount": 8063,
-      "nonWhitespaceCharacterCount": 6824,
-      "newlineCount": 150,
-      "readingTimeInMinutes": 3.8943396226415095,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746863330308,
-      "modifiedDate": 1746863330327,
-      "sizeInBytes": 8070,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.44,
-        "wordCount": 1032,
-        "characterCount": 8063,
-        "nonWhitespaceCharacterCount": 6824,
-        "newlineCount": 150
-      }
-    },
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla_dagon_relationship.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7698,6 +7671,33 @@
       "createdDate": 1750602422446,
       "modifiedDate": 1750602422472,
       "sizeInBytes": 7719,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1032,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.44,
+      "characterCount": 8063,
+      "nonWhitespaceCharacterCount": 6824,
+      "newlineCount": 150,
+      "readingTimeInMinutes": 3.8943396226415095,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746863330308,
+      "modifiedDate": 1752044232972,
+      "sizeInBytes": 8070,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
