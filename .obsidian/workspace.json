@@ -30,57 +30,9 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
-          },
-          {
-            "id": "7744351ed0fdf1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "maria-godric-relationship"
-            }
-          },
-          {
-            "id": "b86945b41efd3313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Godzilla Profile"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla Profile"
+              "title": "Outgoing links"
             }
           },
           {
@@ -239,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline"
             }
           },
           {
@@ -299,9 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b86945b41efd3313",
+  "active": "eb950f631250434f",
   "lastOpenFiles": [
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Titan_Hierarchy",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Power_Systems/Psionics",
@@ -333,7 +284,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-scent-profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "College/Electromagnetic Wave.md",
     "College/Light.md",
     "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
