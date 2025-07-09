@@ -73,3 +73,10 @@ Magni. Equation: $m=\frac{h_{i}}{h_{o}}$
 - Light travels through materials at a speed less than its speed in a vacuum.
 - The change in speed and direction of light as it passes through a medium.
 - Index of refraction $n=\frac{c}{v}$
+
+##### Snell's Law
+
+When light travels from a material with one index of refraction to a material with a different index of refraction, the angle of incidence is related to the angle of refraction by:
+$$
+n_{i}\sin \theta_{1} = n_{2}\sin \theta_{2}
+$$
