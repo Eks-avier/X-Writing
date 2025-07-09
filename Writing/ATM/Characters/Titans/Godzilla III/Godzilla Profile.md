@@ -90,7 +90,7 @@ A key physical trait that telegraphs his constant vigilance is the minimal chang
 *   **Upper Arm Expansion (Flexed):** +6.00% (Active Season)
 *   **Chest Expansion (Flexed):** +3.35% (Active Season)
 
-This state of perpetual readiness is the physical parallel to his constantly blue eyes; just as his true gold is masked by the blue of his atomic energy, his body's capacity for true relaxation is veiled by a state of constant, controlled tension.
+This state of perpetual readiness is the physical parallel to his constantly blue eyes. Just as his true gold is masked by the blue of his atomic energy, his body's capacity for true relaxation is veiled by a state of constant, controlled tension.
 
 #### 4. Movement, Gait, and Posture
 
