@@ -66,7 +66,7 @@ $m=1$, $h_{i}=h_{o}$
 $m<1$, $h_{i}<h_{o}$
 $m>1$, $h_{i}>h_{o}$
 
-Magni. Equation: $m=\frac{h_{i}}{h_{o}}$
+Magni. Equation: $m=\frac{h_{i}}{h_{o}}=-\frac{d_{i}}{d_{o}}$
 
 #### Refraction of Light
 
@@ -91,3 +91,5 @@ $\sin \theta_{c}=\frac{n_{2}}{n_{1}}$, where $n_{1}>n_{2}$
 - They refract light in such a way that an image of the light source is formed
 - With a converging lens, paraxial rays that are parallel to the principal axis converge to the focal point.
 - With a diverging lens, paraxial rays that are parallel to the principal axis appear to originate from the focal point.
+
+**Thin Lens Equation**: 
