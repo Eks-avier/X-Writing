@@ -719,14 +719,23 @@ Beyond his daily uniform and diplomatic arsenal, Godric possesses two sets of sp
 
 ##### A. The Titan Regalia: Architecture of Authority
 
-This attire is the ultimate expression of his rule, a combat-ceremonial fusion designed for scenarios where his authority must be absolute and visually undeniable. It is a modular system, with each component added to signify an increasing level of situational gravity.
+This attire is the ultimate expression of his rule, a combat-ceremonial fusion designed for scenarios where his authority must be absolute and visually undeniable. It operates as a **Modular Authority System**, with each component added to signify an increasing level of situational gravity, allowing him to precisely calibrate his presentation.
 
 *   **Design Philosophy:** The Regalia employs a “subtle integration” principle. From a distance, it appears as exceptionally high-quality formal wear. Upon closer inspection, its otherworldly nature is revealed through textures and patterns that reward the observer's attention, culminating in the unmistakable recognition of “This is Godzilla.”
 *   **Core Components:**
     *   **Frock Coat:** A knee-length, single-breasted coat made from a dense scale-silk fusion. Its length creates an expanded, imposing silhouette, while specialized vents allow for complete combat mobility.
-    *   **Waistcoat:** A double-breasted waistcoat whose pattern subtly evokes a cartographical map of his dorsal fins, a design intelligible only to those with deep knowledge of his Titan form. This is the most frequently used piece of the Regalia, often worn alone during minor Titan business as a “Level 2” display of authority.
-    *   **Vambraces:** The final component, signifying a shift from ceremonial readiness to imminent combat. These scale-silk gauntlets attach via an organic security system, recognizing Godric's unique atomic energy signature and tightening their bond under the stress of battle.
-*   **Material Science:** The scale-silk fusion provides protection superior to any conventional armor while serving as a physical metaphor for his partnership with Maria. The collar of the Regalia shirt is slightly taller and contains the highest concentration of dorsal fin fragments, enhancing throat protection and serving as a symbolic echo of his Titan form's protective neck ridge.
+    *   **Waistcoat:** A double-breasted waistcoat whose pattern subtly evokes a cartographical map of his dorsal fins.
+    *   **Vambraces:** The final component, signifying a shift from ceremonial readiness to imminent combat. These scale-silk gauntlets attach via an organic security system that recognizes Godric's unique atomic energy signature.
+
+###### **The Modular Deployment System:**
+
+| Level | Configuration                           | Purpose / Usage                                                                 |
+| :---- | :-------------------------------------- | :------------------------------------------------------------------------------ |
+| **1** | Standard Monarch Formal Attire          | Human-facing diplomatic events where Titan nature is concealed.                 |
+| **2** | Daily Attire + **Waistcoat**            | Minor Titan Business. Routine status meetings with Wardens.                     |
+| **3** | Regalia Trousers + Waistcoat + **Coat** | Formal Titan Gatherings. Diplomatic negotiations, seasonal territorial reviews. |
+| **4** | Near-Complete Regalia (No Vambraces)    | Critical Council Sessions. Dispute resolution, major decisions.                 |
+| **5** | Complete Regalia + **Vambraces**        | Full Combat Readiness. Responding to Titan challenges or external threats.      |
 
 ##### B. The Eastern Sovereign: Japanese Cultural Attire
 

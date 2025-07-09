@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godzilla Profile"
+              "title": "godzilla-refined-senses"
+            }
+          },
+          {
+            "id": "7cc7dfb91d246e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hyperthymesia_japanese_integration"
+            }
+          },
+          {
+            "id": "9fdf87822398d6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "japanese_cultural_attire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
-    "collapsed": true
+    "width": 371
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -225,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla Profile"
+              "title": "Outgoing links from japanese_cultural_attire"
             }
           },
           {
@@ -239,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of japanese_cultural_attire"
             }
           },
           {
@@ -282,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,12 +346,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6024b30dbeb8e313",
+  "active": "9fdf87822398d6e4",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-scent-profile.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md",
     "College/Electromagnetic Wave.md",
     "College/Light.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
     "Writing/ATM/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
     "Notepad 7.md",
@@ -335,10 +387,6 @@
     "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md",
     "Writing/ATM/Clarifications on the Atomic Railgun.md",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md",
-    "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md",
-    "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
