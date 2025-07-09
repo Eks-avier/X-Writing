@@ -67,3 +67,9 @@ $m<1$, $h_{i}<h_{o}$
 $m>1$, $h_{i}>h_{o}$
 
 Magni. Equation: $m=\frac{h_{i}}{h_{o}}$
+
+#### Refraction of Light
+
+- Light travels through materials at a speed less than its speed in a vacuum.
+- The change in speed and direction of light as it passes through a medium.
+- Index of refraction $n=\frac{c}{v}$
