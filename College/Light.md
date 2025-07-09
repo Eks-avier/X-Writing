@@ -85,3 +85,9 @@ $$
 	- When the angle of incidence exceeds the critical angle, there is no refracted light. All the incident is reflected back into the medium from which it came.
 
 $\sin \theta_{c}=\frac{n_{2}}{n_{1}}$, where $n_{1}>n_{2}$
+
+##### Lenses
+
+- They refract light in such a way that an image of the light source is formed
+- With a converging lens, paraxial rays that are parallel to the principal axis converge to the focal point.
+- With a diverging lens, paraxial rays that are parallel to the principal axis appear to originate from the focal point.
