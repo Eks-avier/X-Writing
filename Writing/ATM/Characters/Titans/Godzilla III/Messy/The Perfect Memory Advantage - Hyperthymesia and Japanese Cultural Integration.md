@@ -1,4 +1,4 @@
-# The Perfect Memory Advantage: Hyperthymesia and Japanese Cultural Integration
+# The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration
 
 ## When Curse Becomes Blessing
 

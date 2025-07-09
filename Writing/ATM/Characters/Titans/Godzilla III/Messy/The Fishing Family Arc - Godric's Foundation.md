@@ -1,4 +1,4 @@
-# The Fishing Family Arc: Godric's Foundation
+# The Fishing Family Arc - Godric's Foundation
 
 ## Arc Overview
 

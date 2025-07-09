@@ -1,4 +1,4 @@
-# The Eastern Sovereign: Japanese Cultural Attire & Diplomatic Significance
+# The Eastern Sovereign - Japanese Cultural Attire & Diplomatic Significance
 
 ## The Cultural Bridge Philosophy
 
