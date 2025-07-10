@@ -37,8 +37,9 @@
 	2. Hollow Earth
 		1. The Eighth Wonder of the World (Hollow Earth Outpost) (2022)
 		2. Antarctic Gateway
-		3. Hong Kong Gateway
-		4. Egypt Gateway
+		3. Arctic Gateway
+		4. Hong Kong Gateway
+		5. Egypt Gateway
 	3. Monster Island
 		1. The Palace (2025)
 		2. The Villa (2025)

@@ -47,6 +47,68 @@
       ],
       "id": "39e27319-731d-4fd1-ab75-683a7d1a47c8",
       "name": "Godric Nordson"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "The First Arc",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Writing/ATM/Story Arcs/The First Arc",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 247
+              },
+              "path": {
+                "width": 506
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "723bf4fa-907e-428d-8adc-df2a646770c8",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "11349139-6bf1-4dbd-ab6d-aa4eee77d6b6",
+          "name": "Arc Timeline",
+          "type": "calendar"
+        }
+      ],
+      "id": "8be56018-f252-4b28-8dbd-eef315f64d33",
+      "name": "The First Arc"
     }
   ],
   "archives": [],

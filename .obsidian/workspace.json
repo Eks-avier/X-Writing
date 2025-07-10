@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6a5fb64dbba64002",
+            "id": "a3bce3a7065186ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Antitheriomorphosis.md",
+                "file": "Writing/ATM/complete-arc-structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Antitheriomorphosis"
+              "title": "complete-arc-structure"
+            }
+          },
+          {
+            "id": "6a5fb64dbba64002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notepad 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notepad 8"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537,
-    "collapsed": true
+    "width": 537
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -275,9 +298,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a5fb64dbba64002",
+  "active": "eb950f631250434f",
   "lastOpenFiles": [
+    "Writing/ATM/complete-arc-structure.md",
+    "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
+    "Writing/ATM/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
+    "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
+    "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
+    "Writing/ATM/Story Arcs/The First Arc",
     "Notepad 8.md",
+    "Writing/ATM/Antitheriomorphosis.md",
     "Notepad 9.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria-godric-relationship.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
@@ -290,13 +320,11 @@
     "Writing/Antitheriomorphosis Universe/6_SPECIES/Titanus_mosura",
     "Writing/Antitheriomorphosis Universe/6_SPECIES/Titanus_gojira",
     "Writing/Antitheriomorphosis Universe/6_SPECIES",
-    "Writing/Antitheriomorphosis Universe/5_LOCATIONS",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria_hair_reactions.md",
     "Writing/ATM/ghidorah_complete_powers.md",
     "Writing/ATM/ghidorah_structural_analysis.md",
     "Writing/ATM/kong-narrative-overview.md",
-    "Writing/ATM/complete-arc-structure.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/private_attire_philosophy.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/titan_regalia_design.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/color_theory_matrix.md",
@@ -308,11 +336,6 @@
     "_Archive/Fiction/The King of the Monsters.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Eastern Sovereign - Japanese Cultural Attire & Diplomatic Significance.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-scent-profile.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md",
-    "College/Electromagnetic Wave.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
