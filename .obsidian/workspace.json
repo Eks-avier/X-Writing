@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "eb950f631250434f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "pinned": true,
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
             "id": "a3bce3a7065186ec",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               "title": "Notepad 8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +285,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb950f631250434f",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
     "Writing/ATM/complete-arc-structure.md",
     "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
