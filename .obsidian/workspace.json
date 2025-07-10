@@ -67,7 +67,8 @@
               "title": "Notepad 8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537
+    "width": 537,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -262,14 +264,22 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "4d19fc400998f206",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,10 +292,11 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "e9d7c27ff5418133",
+  "active": "a3bce3a7065186ec",
   "lastOpenFiles": [
     "Writing/ATM/complete-arc-structure.md",
     "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
