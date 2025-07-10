@@ -31,7 +31,7 @@ All major story arcs should be formatted as:
 
 ### Current and Planned Narrative Arcs
 
-- **Antitheriomorphosis: The Xillien Invasion** (2023-2024)
+- **Antitheriomorphosis: The Xilien Invasion** (2023-2024)
 - **Antitheriomorphosis: Keystone** (2025)
 - **Antitheriomorphosis: The Blue House at Maple Street** (2025-20)
 	- **Convergence** (Mini arc)
@@ -45,7 +45,6 @@ All major story arcs should be formatted as:
 #### Tentative Arcs
 
 - **Link Disconnected**: A story arc that features Samuel Johns of the Psionic Division
-- 
 ### Standalone Stories and Vignettes
 
 Short stories and character vignettes within the universe should be titled:
@@ -89,7 +88,7 @@ This universe integrates computer science concepts as metaphors for magical syst
   - Young Godzilla, Mothra, and Battra meet as hatchlings
   - The three form a trinity that would shape Earth's destiny
   - Divine Moths receive their Covenant with Heaven (immortality in exchange for magical aptitude)
-  - Battra modifies the Covenant to retain magic while sharing Mothra's egg for rebirth
+  - Battra, with the help of Mothra herself, modifies the Covenant to retain magic while sharing Mothra's own egg for rebirth
 - **Atlantean Golden Age**:
   - Battra teaches humans sorcery; Atlantis flourishes under his guidance
   - Mothra leads the Eclipse civilization
