@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/complete-arc-structure.md",
+                "file": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "complete-arc-structure"
+              "title": "The Fishing Family Arc - Godric's Foundation"
             }
           },
           {
@@ -279,7 +279,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,7 +299,7 @@
   },
   "active": "a3bce3a7065186ec",
   "lastOpenFiles": [
-    "Writing/ATM/complete-arc-structure.md",
+    "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
     "Writing/ATM/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
@@ -330,7 +331,7 @@
     "Writing/ATM/Characters/Titans/Godzilla III/golden_thread_discovery.md",
     "Writing/ATM/Characters/Titans/Godzilla III/color_theory_matrix.md",
     "_Archive/Fiction/Conversation Summaries.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Fishing Family Arc - Godric's Foundation.md",
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "_Archive/Fiction/The King of the Monsters.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Eastern Sovereign - Japanese Cultural Attire & Diplomatic Significance.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",

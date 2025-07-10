@@ -2,8 +2,8 @@
 
 ## Arc Overview: “The Awakening”
 
-**Timeline**: 2019, Post-Ghidorah defeat, Pre-Antitheriomorphosis (Titans still in original forms)
-**Central Theme**: The emergence of human psychic abilities following Mothra's return and the systematic hunting of these new psychics by a shadow organization
+**Timeline**: 2019, Post-Ghidorah defeat, Pre-Antitheriomorphosis (Titans still in original forms).
+**Central Theme**: The emergence of human psychic abilities following Mothra's return and the systematic hunting of these new psychics by a shadow organization.
 **Dual Perspective**: Intimate human story (Balagtas twins) interwoven with global institutional response (Monarch, Shadow Organization, Chen twins as Shobijin)
 
 ## Main Narrative Threads

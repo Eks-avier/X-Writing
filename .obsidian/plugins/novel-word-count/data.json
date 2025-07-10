@@ -3368,33 +3368,6 @@
         "newlineCount": 401
       }
     },
-    "Writing/ATM/complete-arc-structure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1409,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.696666666666666,
-      "characterCount": 11565,
-      "nonWhitespaceCharacterCount": 9901,
-      "newlineCount": 276,
-      "readingTimeInMinutes": 5.316981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1751003618029,
-      "modifiedDate": 1751003618228,
-      "sizeInBytes": 11565,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.696666666666666,
-        "wordCount": 1409,
-        "characterCount": 11565,
-        "nonWhitespaceCharacterCount": 9901,
-        "newlineCount": 276
-      }
-    },
     "Writing/ATM/Clarifications on the Atomic Railgun.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3991,33 +3964,6 @@
         "characterCount": 6325,
         "nonWhitespaceCharacterCount": 5541,
         "newlineCount": 101
-      }
-    },
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Fishing Family Arc - Godric's Foundation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1873,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.243333333333333,
-      "characterCount": 15755,
-      "nonWhitespaceCharacterCount": 13575,
-      "newlineCount": 306,
-      "readingTimeInMinutes": 7.067924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1751003544202,
-      "modifiedDate": 1752041470140,
-      "sizeInBytes": 15766,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.243333333333333,
-        "wordCount": 1873,
-        "characterCount": 15755,
-        "nonWhitespaceCharacterCount": 13575,
-        "newlineCount": 306
       }
     },
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Eastern Sovereign - Japanese Cultural Attire & Diplomatic Significance.md": {
@@ -7776,6 +7722,60 @@
       "createdDate": 1752169835700,
       "modifiedDate": 1752169835755,
       "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Story Arcs/complete-arc-structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1409,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.696666666666666,
+      "characterCount": 11603,
+      "nonWhitespaceCharacterCount": 9903,
+      "newlineCount": 312,
+      "readingTimeInMinutes": 5.316981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751003618029,
+      "modifiedDate": 1752171979926,
+      "sizeInBytes": 11691,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1873,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.243333333333333,
+      "characterCount": 15748,
+      "nonWhitespaceCharacterCount": 13575,
+      "newlineCount": 347,
+      "readingTimeInMinutes": 7.067924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1751003544202,
+      "modifiedDate": 1752172095262,
+      "sizeInBytes": 15819,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
