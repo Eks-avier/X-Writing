@@ -4,15 +4,19 @@
 	1. Pre-Godzilla Era
 	2. Godzilla Era (250 m.y.a)
 	3. Atlantis Era
-	4. 1944
-	5. 1954
-	6. 1973
+	4. 1944 - Kong: Skull Island opening
+	5. 1954 - Godzilla's first sighting and identification by Eiji Serizawa
+	6. 1973 - Kong: Skull Island 
 	7. Pre-Godzilla 2014
-	8. Pre-Godzilla 2019 (KOTM)
-	9. Post-KOTM 2019
-	10. Antitheriomorphosis (2020)
-	11. Godzilla vs Kong (2022)
-	12. Post-Xilien Invasion (2025)
+	8. Post-Godzilla 2014
+	9. Pre-Godzilla 2019 (KOTM)
+	10. Post-KOTM 2019
+	11. Antitheriomorphosis (2020)
+	12. Adjustment Period (2020-2021)
+		1. The First Arc (Sierra & Stella)
+		2. Godzilla and the Japanese Family
+	13. Godzilla vs Kong (2022)
+	14. Post-Xilien Invasion (2025)
 2. Characters
 3. Power Systems
 	1. Magic
