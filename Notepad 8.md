@@ -2,7 +2,7 @@
 
 1. Timeline
 	1. Pre-Godzilla Era
-	2. Godzilla Era
+	2. Godzilla Era (250 m.y.a)
 	3. Atlantis Era
 	4. 1944
 	5. 1954
