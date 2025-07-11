@@ -31,7 +31,7 @@ The Fundamental Force Theory proposes that the Antitheriomorphosis phenomenon ca
 
 #### Ghidorah - The Incomplete Usurper
 
-- **Forces Controlled**: Gravitational Force, Electromagnetic Force, Psionic Force (limited)
+- **Forces Controlled**: Gravitational Force, Electromagnetic Force, Psionic Force (limited) 
 - **Apparent Mastery**: 3 forces (actually 2.5 - telepathy only, not full psionic capability)
 - **Symbolic Role**: Entropy, false authority, potential for redemption
 - **Character Archetype**: The false king learning authenticity

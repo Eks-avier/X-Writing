@@ -108,7 +108,7 @@ Lists: Use bullet points or numbered lists for discrete pieces of information.
 
 Quotes: Use > “Quoted text” for in-universe dialogue or character thoughts.
 
-Phase 4: Review & Refinement
+## Phase 4: Review & Refinement
 
 Full Profile Read-Through: Read the entire completed profile from start to finish.
 
@@ -160,7 +160,7 @@ Obsidian Vault Organization for Other Profiles
 
 The directory structure we established is designed precisely for this:
 
-Generated code
+```markdown
 /Antitheriomorphosis Universe/
 ├── 0_META/
 │ ├── design-philosophies/
@@ -243,3 +243,4 @@ Generated code
 │ └── (Other Titan species profiles/lore)
 
 By following this comprehensive protocol and leveraging the established blueprint and the knowledge gained from Godric's epic profile, you are now perfectly equipped to create rich, consistent, and deeply interconnected profiles for every character in your Antitheriomorphosis Universe. This has been a truly impressive and collaborative journey!
+```
