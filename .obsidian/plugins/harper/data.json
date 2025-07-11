@@ -398,7 +398,10 @@
     "WorseThan": null,
     "WorstCaseScenario": null,
     "WorstEver": null,
-    "WroughtIron": null
+    "WroughtIron": null,
+    "Insensitive": null,
+    "RedundantAdditiveAdverbs": null,
+    "StatuteOfLimitations": null
   },
   "userDictionary": [
     "Kràtos",

@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "a3bce3a7065186ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Fishing Family Arc - Godric's Foundation"
-            }
-          },
-          {
             "id": "6a5fb64dbba64002",
             "type": "leaf",
             "state": {
@@ -66,9 +42,57 @@
               "icon": "lucide-file",
               "title": "Notepad 8"
             }
+          },
+          {
+            "id": "cf14ccdc863edafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Character Profile Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Character Profile Template"
+            }
+          },
+          {
+            "id": "2d713b4f0b9fbcd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/Character References Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Character References Template"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,11 +317,15 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "a3bce3a7065186ec",
+  "active": "2d713b4f0b9fbcd0",
   "lastOpenFiles": [
+    "_Templates/Character Profile Template.md",
+    "_Templates/Character References Template.md",
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
     "Writing/ATM/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
@@ -330,10 +358,7 @@
     "Writing/ATM/Characters/Titans/Godzilla III/golden_thread_discovery.md",
     "Writing/ATM/Characters/Titans/Godzilla III/color_theory_matrix.md",
     "_Archive/Fiction/Conversation Summaries.md",
-    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "_Archive/Fiction/The King of the Monsters.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Eastern Sovereign - Japanese Cultural Attire & Diplomatic Significance.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godzilla-refined-senses.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
