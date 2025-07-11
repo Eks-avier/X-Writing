@@ -2,9 +2,9 @@
 
 ## Definition and Fundamental Nature
 
-**Psionics** represents a biological phenomenon powered by the brain or specialized organs that enables direct mental interaction with the physical world through the **Psionic Force**, the sixth fundamental force of nature. Unlike other supernatural systems that require intermediary processes or external forces, psionic abilities manifest directly from mental intent and biological architecture.
+**Psionics** represents a biological phenomenon powered by the brain or specialized organs that enables direct mental interaction with the physical world through the **Psi**, the sixth fundamental force of nature. Unlike other supernatural systems that require intermediary processes or external forces, psionic abilities manifest directly from mental intent and biological architecture.
 
-The psionic system operates through the principle that conscious minds generate **Psionic Energy** when interfacing with **Psionic Force**. This energy responds to intent, visualization, and emotional resonance rather than structured manipulation or technical procedures. The strength and capability of psionic manifestation depends entirely on the biological architecture of the mind and the genetic predisposition of the individual or species.
+The psionic system operates through the principle that conscious minds generate **Psienergy** when interfacing with **Psi**. This energy responds to intent, visualization, and emotional resonance rather than structured manipulation or technical procedures. The strength and capability of psionic manifestation depends entirely on the biological architecture of the mind and the genetic predisposition of the individual or species.
 
 Psionic abilities follow intuitive principles fundamentally different from magical systems. Where magic requires structured processes and intermediary forces, psionics manifest through direct mental intention. The brain functions as both generator and director of psionic energy, creating effects that respond immediately to thought patterns and emotional states.
 

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Character References Template",
-      "path": "_Templates/Character References Template.md"
+      "basename": "Titans, Magic, and Psionics",
+      "path": "Writing/ATM/Magic System/Titans, Magic, and Psionics.md"
+    },
+    {
+      "basename": "Psychic-Sorcery Interface",
+      "path": "Writing/ATM/Magic System/Psychic-Sorcery Interface.md"
+    },
+    {
+      "basename": "psionics-system",
+      "path": "Writing/ATM/Characters/Titans/Mothra/psionics-system.md"
+    },
+    {
+      "basename": "Power Dynamics",
+      "path": "Writing/ATM/Power Dynamics.md"
     },
     {
       "basename": "Character Profile Template",
       "path": "_Templates/Character Profile Template.md"
+    },
+    {
+      "basename": "Character References Template",
+      "path": "_Templates/Character References Template.md"
     },
     {
       "basename": "The Fishing Family Arc - Godric's Foundation",
@@ -183,22 +199,6 @@
     {
       "basename": "Notepad",
       "path": "Notepad.md"
-    },
-    {
-      "basename": "The Uncanny Perfection",
-      "path": "Writing/ATM/The Uncanny Perfection.md"
-    },
-    {
-      "basename": "Nordson - Dress Shirts",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Nordson - Dress Shirts.md"
-    },
-    {
-      "basename": "Nordson - Maria's Reactions to Godric's Hair",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Nordson - Maria's Reactions to Godric's Hair.md"
-    },
-    {
-      "basename": "Nordson - Pants",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Nordson - Pants.md"
     }
   ],
   "omittedPaths": [],
