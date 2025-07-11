@@ -1,0 +1,5 @@
+Godzilla, Mothra, Rodan, Anguirus, the Wardens of Earth. These merry collection of Titans are still in their adjustment periods. 
+
+Monarch has decided to completely hide their presence from public. The sole exception is Japan, whose top officials are aware of Gojira being in a human body. Godzilla himself agreed and ordered, not suggested nor recommended, that all Titans are to hide themselves regardless whether they are human or not (which they are still trying to figure out). Since they are now hidden, they can at least have some levity that no one will notice them, even if Madison loves to bring them to various places on Monarch's budget.
+
+For the rest of the world though, they may see glimpses of people who looks so infatuatingly attractive. Sometimes they're with weird scientists or some random young woman, but they would never know a Titan is in their midst—only their primal senses would.

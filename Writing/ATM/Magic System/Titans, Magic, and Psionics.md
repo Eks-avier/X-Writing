@@ -18,7 +18,7 @@ The world appears to contain two distinct but complementary supernatural systems
 
 ### Psionic Arts
 
-- **Source**: Requires the mind, genetically determined
+- **Source**: Requires the mind, genetically determined; the Psi
 - **Nature**: Rooted in the physical, mortal brain rather than the divine soul
 - **History**: Dormant while Titans hibernated, reawakened when Mothra returned in 2019
 - **Awakening**: When Mothra unfurled her wings after a thousand years, she released a psionic shockwave that reactivated humanity's psychic potential
