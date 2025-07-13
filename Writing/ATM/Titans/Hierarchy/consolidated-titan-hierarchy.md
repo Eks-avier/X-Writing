@@ -104,7 +104,7 @@ Individual achievement, recognition, and social position within Titan society.
 - **Selection**: Combat challenge (traditionally to the death)
 - **Tenure**: Until death or defeat
 
-**Alpha Divine**
+**Alpha Divine** ^ccb342
 - **Current**: Mothra (Maria Lepidiel)
 - **Authority**: Spiritual matters, human-Titan relations
 - **Selection**: Created specifically by Godzilla for Mothra
