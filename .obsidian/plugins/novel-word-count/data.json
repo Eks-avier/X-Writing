@@ -5601,33 +5601,6 @@
         "newlineCount": 81
       }
     },
-    "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 128,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4266666666666667,
-      "characterCount": 834,
-      "nonWhitespaceCharacterCount": 671,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.4830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1746283824899,
-      "modifiedDate": 1752405304165,
-      "sizeInBytes": 838,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4266666666666667,
-        "wordCount": 128,
-        "characterCount": 834,
-        "nonWhitespaceCharacterCount": 671,
-        "newlineCount": 26
-      }
-    },
     "Writing/ATM/Characters/Titans/Mothra/psionics-system.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7912,6 +7885,33 @@
       "createdDate": 1752405380585,
       "modifiedDate": 1752405397855,
       "sizeInBytes": 3590,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 521,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7366666666666666,
+      "characterCount": 5147,
+      "nonWhitespaceCharacterCount": 3905,
+      "newlineCount": 60,
+      "readingTimeInMinutes": 1.9607169811320755,
+      "linkCount": 15,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746283824899,
+      "modifiedDate": 1752405868861,
+      "sizeInBytes": 5188,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

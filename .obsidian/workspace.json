@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md",
+                "file": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Refined Mothra Outline"
+              "title": "Mothra Profile"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
+                "file": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of consolidated-titan-hierarchy"
+              "title": "Outline of Mothra Profile"
             }
           },
           {
@@ -345,11 +345,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "606a592ccf860899",
+  "active": "be2689a7ac5819e6",
   "lastOpenFiles": [
-    "New Linking Protocol.md",
-    "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
+    "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
+    "New Linking Protocol.md",
     "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
     "Writing/ATM/The Fundamental Forces Theory.md",
     "Writing/ATM/Hiding the Colossal.md",
@@ -382,7 +383,6 @@
     "Writing/Antitheriomorphosis Universe/6_SPECIES",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria_hair_reactions.md",
-    "Writing/ATM/ghidorah_complete_powers.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
