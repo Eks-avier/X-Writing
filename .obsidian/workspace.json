@@ -123,7 +123,7 @@
               "state": {
                 "file": "Writing/ATM/Titans/Hierarchy/Untitled.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -299,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
+                "file": "Writing/ATM/Titans/Hierarchy/Untitled.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mothra Profile"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -369,10 +369,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "be2689a7ac5819e6",
+  "active": "9ab5b634939ddfe0",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
     "New Linking Protocol.md",
