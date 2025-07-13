@@ -2,7 +2,7 @@
 tags: [atm, wip]
 ---
 
-# Godzilla, King of the Monsters
+# Godzilla, the King of the Monsters
 
 ## I. Core Identity and Overview
 

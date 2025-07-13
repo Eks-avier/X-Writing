@@ -14,7 +14,7 @@ Here are the specific syntaxes we will use for different linking scenarios:
     *   **Purpose:** To cross-reference a concept or detail that is explained or elaborated upon elsewhere in the *current* document.
     *   **Syntax:** `[[#Heading Name]]` or `[[#Heading Name|Link Alias]]`
     *   **Example:** If you're in Section I and want to refer to "Nomothete" defined in Section III, and "Nomothete" is a `#### Heading` under "III.C," you'd use:
-        *   `[[#Nomothete (Ultimate Mastery Level)|Nomothete]]`
+        *   `[[#1. Nomothete (Ultimate Mastery Level)|Nomothete]]`
     *   **Note:** As you requested, no need to include parent sections in the link itself (e.g., `III C Nomothete` is not required). Just the heading name is sufficient.
 
 2.  **Linking to a Heading in an *External* File:**
