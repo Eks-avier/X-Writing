@@ -286,7 +286,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
