@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 327,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,11 +269,10 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd4f89612315a6e",
+  "active": "e7eed282512e23cc",
   "lastOpenFiles": [
     "Untitled.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
