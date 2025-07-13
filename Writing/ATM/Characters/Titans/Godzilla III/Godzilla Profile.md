@@ -557,21 +557,27 @@ This complementary distribution of power ensures that no single threat, whether 
 
 Beyond the grand systems of Krátos, Psionics, and Magic, Godric's inherent biological makeup grants him a suite of profound physiological advantages. These are fundamental aspects of his existence, enabling his longevity, resilience, and unique interaction with the environment.
 
-#### 1. Energy Systems: Radiation Sustenance and Metabolic Flexibility
+#### 1. Innate Physical Superiority
+
+Separate from his Kratos abilities, Godric's *Titanus gojira* biology affords him baseline physical traits that are extraordinary even by Titan standards.
+
+*   **Extraordinary Tissue Density:** His bone, muscle, and organ tissues are significantly denser than a human's, making him far heavier than his proportions would suggest. This dense structure is the source of his immense physical strength and durability.
+*   **Dental Capabilities:** His teeth, while appearing conventionally human, are incredibly durable and can regenerate if damaged. They are capable of exerting record-setting bite force, allowing him to bite through reinforced steel with minimal effort.
+#### 2. Energy Systems: Radiation Sustenance and Metabolic Flexibility
 
 The fundamental core of Godric's biology, inherited from the *Titanus gojira* lineage, is a unique energy system that transcends the needs of conventional organic life.
 
 *   **Primary Sustenance:** Godric does **not require sleep** nor conventional food for survival. His primary energy source is ambient radiation—solar, geothermal, and nuclear—which is perpetually absorbed and converted into usable biological energy. This process continuously fuels his regeneration factor, keeping him sated and awake indefinitely.
 *   **Metabolic Shift (Voluntary):** Uniquely, Godric possesses the ability to consciously suspend this radiation-based metabolism and switch to a conventional, nutrition-based system. This metabolic shift is the **only time** he genuinely requires food for sustenance or experiences true fatigue. It forms the biological basis for his [[#D. The Dormancy Cycle: Strategic Rest|voluntary dormancy cycle]] and allows him to integrate into human societal rhythms of consumption.
 
-#### 2. The Regenerative Factor and The Unblemished Body
+#### 3. The Regenerative Factor and The Unblemished Body
 
 The *Titanus gojira* species possesses an extraordinary regenerative factor, fueled directly by their radiation intake. This ability ensures their physical resilience and contributes to Godric's outwardly perfect appearance.
 
 *   **Rapid Healing:** His body can heal from catastrophic injuries—ranging from deep cuts and gaping holes to severed limbs—within seconds, especially when actively supplied with radiation.
 *   **Unblemished Perfection:** This constant cellular regeneration results in a physically perfect, **unblemished, and unmarked body**. He bears no scars despite millions of years of combat, nor does he possess any birthmarks or other identifying marks. This is also why tattoos, if attempted, fade almost immediately.
 
-#### 3. Specialized Biological Advantages
+#### 4. Specialized Biological Advantages
 
 Beyond his energy systems and general regeneration, Godric's unique physiology grants him several distinct, inherent advantages.
 
@@ -579,9 +585,9 @@ Beyond his energy systems and general regeneration, Godric's unique physiology g
 *   **b. Passive Radiation & Thermal Regulation:** His body naturally runs at a higher temperature ($100.90°\text{F} / 38.30°\text{C}$ in active season). This passive radiation emission naturally sterilizes the immediate area around him, eliminating bacteria and pathogens. It also renders traditional hygiene products largely unnecessary and keeps his body in a perpetually pristine, self-cleaning state. This elevated internal temperature also makes him completely unaffected by external cold.
 *   **c. Dental Capabilities:** His teeth, while appearing perfectly human, possess remarkable biological properties. They are **self-sterilizing** due to his passive radiation, maintaining immaculate appearance regardless of consumption. They are also **regenerative**, capable of healing if damaged, and possess a **record-setting bite force** far beyond any documented species, capable of biting through reinforced steel with minimal effort.
 
-#### 4. The “Burning Form”: Zenith of Krátos
+#### 5. The “Burning Form”
 
-The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Krátos]] ability. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
+The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Krátos]] ability to control atomic forces and all energy. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
 
 *   **Absolute Integration:** In this form, the line between controller and controlled disappears entirely, as the being becomes a living conduit of pure energy.
 *   **Species Potential:** This state was theoretically possible for any mature *Titanus gojira*, but required a level of perfect control and conceptual understanding of energy that the species, in its collective history, never achieved.
