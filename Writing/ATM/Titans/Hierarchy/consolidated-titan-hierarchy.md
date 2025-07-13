@@ -24,7 +24,7 @@ Classification based on species-wide capability to effect planetary-scale change
 
 - **Scientific Term**: Ascendant
 - **Titan Term**: Superior (historically)
-- **Definition**: Species capable of planetary-scale environmental impact through collective or individual action
+- **Definition**: Species capable o**f** planetary-scale environmental impact through collective or individual action
 - **Rarity**: Only 0.5-1% of all Titan species
 - **Qualification**: Either exceptional single ability OR synergistic combination of impressive qualities
 

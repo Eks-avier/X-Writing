@@ -9,12 +9,16 @@
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
-      "basename": "New Linking Protocol",
-      "path": "New Linking Protocol.md"
-    },
-    {
       "basename": "consolidated-titan-hierarchy",
       "path": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Writing/ATM/Titans/Hierarchy/Untitled.md"
+    },
+    {
+      "basename": "New Linking Protocol",
+      "path": "New Linking Protocol.md"
     },
     {
       "basename": "Notepad 11",
@@ -195,10 +199,6 @@
     {
       "basename": "Electromagnetic Induction",
       "path": "College/Electromagnetic Induction.md"
-    },
-    {
-      "basename": "Formulas for Electromagnetism",
-      "path": "College/Formulas for Electromagnetism.md"
     }
   ],
   "omittedPaths": [],
