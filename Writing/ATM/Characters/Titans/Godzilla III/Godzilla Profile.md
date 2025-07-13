@@ -15,7 +15,7 @@ This section provides the fundamental identifying details and a high-level overv
 *   **Human Name:** Godric Nordson
     *   This name, chosen post-Antitheriomorphosis, blends the Anglo-Saxon “Godric” (power of God/ruler of God) with “Nordson,” representing his [[#1. The Last Family Godzilla & Dagon|Northern Faction]] heritage and his identity as “The Last Son of the North.”
 *   **Species:** *Titanus gojira*
-    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Kràtos]].
+    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Krátos]].
 *   **Lineage:** Ascendant / Superior
 *   **Sapience:** Sapient / Minded
 *   **Standing:** Alpha Paramount
@@ -553,16 +553,16 @@ The combined capabilities of the Ancient Trinity—Godzilla, Mothra, and Battra�
 
 This complementary distribution of power ensures that no single threat, whether physical, psychic, or magical, can overwhelm Earth without confronting the full, unified spectrum of the Trinity's capabilities.
 
-### D. Core Biological Advantages (Beyond Powers)
+### D. Core Biological Advantages
 
-Beyond the grand systems of Kratos, Psionics, and Magic, Godric's inherent biological makeup grants him a suite of profound physiological advantages. These are fundamental aspects of his existence, enabling his longevity, resilience, and unique interaction with the environment.
+Beyond the grand systems of Krátos, Psionics, and Magic, Godric's inherent biological makeup grants him a suite of profound physiological advantages. These are fundamental aspects of his existence, enabling his longevity, resilience, and unique interaction with the environment.
 
 #### 1. Energy Systems: Radiation Sustenance and Metabolic Flexibility
 
 The fundamental core of Godric's biology, inherited from the *Titanus gojira* lineage, is a unique energy system that transcends the needs of conventional organic life.
 
 *   **Primary Sustenance:** Godric does **not require sleep** nor conventional food for survival. His primary energy source is ambient radiation—solar, geothermal, and nuclear—which is perpetually absorbed and converted into usable biological energy. This process continuously fuels his regeneration factor, keeping him sated and awake indefinitely.
-*   **Metabolic Shift (Voluntary):** Uniquely, Godric possesses the ability to consciously suspend this radiation-based metabolism and switch to a conventional, nutrition-based system. This metabolic shift is the **only time** he genuinely requires food for sustenance or experiences true fatigue. It forms the biological basis for his [[#IV D The Dormancy Cycle: Strategic Rest|voluntary dormancy cycle]] and allows him to integrate into human societal rhythms of consumption.
+*   **Metabolic Shift (Voluntary):** Uniquely, Godric possesses the ability to consciously suspend this radiation-based metabolism and switch to a conventional, nutrition-based system. This metabolic shift is the **only time** he genuinely requires food for sustenance or experiences true fatigue. It forms the biological basis for his [[#D. The Dormancy Cycle: Strategic Rest|voluntary dormancy cycle]] and allows him to integrate into human societal rhythms of consumption.
 
 #### 2. The Regenerative Factor and The Unblemished Body
 
@@ -579,9 +579,9 @@ Beyond his energy systems and general regeneration, Godric's unique physiology g
 *   **b. Passive Radiation & Thermal Regulation:** His body naturally runs at a higher temperature ($100.90°\text{F} / 38.30°\text{C}$ in active season). This passive radiation emission naturally sterilizes the immediate area around him, eliminating bacteria and pathogens. It also renders traditional hygiene products largely unnecessary and keeps his body in a perpetually pristine, self-cleaning state. This elevated internal temperature also makes him completely unaffected by external cold.
 *   **c. Dental Capabilities:** His teeth, while appearing perfectly human, possess remarkable biological properties. They are **self-sterilizing** due to his passive radiation, maintaining immaculate appearance regardless of consumption. They are also **regenerative**, capable of healing if damaged, and possess a **record-setting bite force** far beyond any documented species, capable of biting through reinforced steel with minimal effort.
 
-#### 4. The "Burning Form": Zenith of Kràtos
+#### 4. The “Burning Form”: Zenith of Krátos
 
-The "Burning Form" represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Kràtos]] ability. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
+The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Krátos]] ability. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
 
 *   **Absolute Integration:** In this form, the line between controller and controlled disappears entirely, as the being becomes a living conduit of pure energy.
 *   **Species Potential:** This state was theoretically possible for any mature *Titanus gojira*, but required a level of perfect control and conceptual understanding of energy that the species, in its collective history, never achieved.
@@ -600,7 +600,7 @@ Following the Antitheriomorphosis, Monarch, with Godric's explicit command, enac
 While other Titans might adopt more flamboyant or expressive styles, Godric, as the ultimate authority, embodies the principle that **secure power requires no ornamentation**. He instinctively understands that his presence alone is a statement; any overt display would be redundant and counterproductive to the goal of remaining hidden. His minimalist, almost severe, presentation is a deliberate choice:
 *   **It projects confidence:** He has nothing to prove.
 *   **It avoids attention:** Flashy attire draws the eye, which is the last thing he wants.
-*   **It establishes a baseline:** His sober, authoritative look becomes the standard against which the more individualistic styles of his allies (like Roman's flair or [[Anguirus, the Stalwart Vanguard|Alexios]]'s tactical utility) are measured.
+*   **It establishes a baseline:** His sober, authoritative look becomes the standard against which the more individualistic styles of his allies (like Roman's flair or [[Anguirus, the Stalwart Vanguard|Alexios]]' tactical utility) are measured.
 
 #### 2. The Formal Event Challenges
 
@@ -627,7 +627,7 @@ Godric's approach to his attire is a direct extension of his territorial managem
 The extraordinary capabilities of his wardrobe are made possible through a unique material evolution that mirrors his own journey of integration and his relationship with Maria (Mothra).
 
 *   **Phase I: Conventional Foundation:** His initial attire consisted of high-end conventional fabrics. These served as a template but quickly proved inadequate, degrading rapidly under the strain of his passive radiation and physical power.
-*   **Phase II: The Maria Silk Revolution:** Recognizing the inadequacy of human materials, Maria recreated his entire wardrobe using her own divine moth silk. This act transformed his clothing from simple garments into a form of advanced, personalized armor. The silk possesses near-magical properties: it is bulletproof, fireproof, blast-resistant, and supremely flexible, with shape memory and self-repairing capabilities (when tended by Maria).
+*   **Phase II: The Divine Moth Silk Revolution:** Recognizing the inadequacy of human materials, Maria recreated his entire wardrobe using her own divine moth silk. This act transformed his clothing from simple garments into a form of advanced, personalized armor. The silk possesses near-magical properties: it is bulletproof, fireproof, blast-resistant, and supremely flexible, with shape memory and self-repairing capabilities (when tended by Maria).
 *   **Phase III: Scale Integration:** The final evolution involved the integration of Godric's own shed scales into key components like buttons and cufflinks. This represents the ultimate synthesis of their natures.
 
 > [!info] The Silk-Scale Symbiosis
