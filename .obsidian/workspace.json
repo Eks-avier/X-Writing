@@ -58,7 +58,7 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -219,12 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Godzilla Profile"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Untitled.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -302,10 +302,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7eed282512e23cc",
+  "active": "60484e6ab180145d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Untitled.md",
     "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md",
     "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
     "Writing/ATM/The Fundamental Forces Theory.md",
