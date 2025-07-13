@@ -872,7 +872,7 @@ Godric maintains complete financial independence from Monarch through a unique a
 
 Godric's inner world is as vast and ancient as the planet he protects. Shaped by cosmic events, profound personal traumas, and an unprecedented transformation, his psychology is a tapestry of contradictions: the apex predator who craves connection, the sovereign who desires simplicity, and the being with perfect memory haunted by misremembered love. Understanding his psychological landscape is key to comprehending his every action, from the meticulous arrangement of his quarters to his global declarations as Alpha Paramount.
 
-### A. Core Identity: The Unwilling Overachiever & Nomothete Kratos
+### A. Core Identity: The Unwilling Overachiever & Nomothete Krátos
 
 Godric's self-perception is fundamentally intertwined with his role as the King of the Monsters, yet this position was never one he sought out of ambition. He embodies a paradoxical identity: an unwilling overachiever driven by deep-seated trauma, whose mastery over physical reality is tempered by self-imposed psychological limitations.
 

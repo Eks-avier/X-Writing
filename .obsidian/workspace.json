@@ -45,6 +45,36 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "dc31a60b3d7b3a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60484e6ab180145d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,12 +282,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,6 +304,7 @@
   },
   "active": "e7eed282512e23cc",
   "lastOpenFiles": [
+    "Untitled.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md",
     "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
@@ -310,7 +340,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/maria_hair_reactions.md",
     "Writing/ATM/ghidorah_complete_powers.md",
-    "Writing/ATM/ghidorah_structural_analysis.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",

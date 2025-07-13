@@ -5444,16 +5444,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 75.30333333333333,
-      "characterCount": 181670,
-      "nonWhitespaceCharacterCount": 147216,
+      "characterCount": 181760,
+      "nonWhitespaceCharacterCount": 147246,
       "newlineCount": 1250,
       "readingTimeInMinutes": 85.24905660377358,
       "linkCount": 163,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1751721836577,
-      "modifiedDate": 1752389116502,
-      "sizeInBytes": 182521,
+      "modifiedDate": 1752389531850,
+      "sizeInBytes": 182612,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 75.32333333333334,
@@ -7891,6 +7891,33 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307,
         "newlineCount": 10
+      }
+    },
+    "Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3090,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.3,
+      "characterCount": 23826,
+      "nonWhitespaceCharacterCount": 20504,
+      "newlineCount": 125,
+      "readingTimeInMinutes": 11.660377358490566,
+      "linkCount": 102,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1752389421803,
+      "modifiedDate": 1752389535976,
+      "sizeInBytes": 23850,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

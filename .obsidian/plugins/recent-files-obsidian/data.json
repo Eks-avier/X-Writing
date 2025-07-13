@@ -5,6 +5,10 @@
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Refined Mothra Outline",
       "path": "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Formulas for Electromagnetism",
       "path": "College/Formulas for Electromagnetism.md"
-    },
-    {
-      "basename": "The Lineage System",
-      "path": "Writing/ATM/Titans/Hierarchy/The Lineage System.md"
     }
   ],
   "omittedPaths": [],
