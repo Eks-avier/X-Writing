@@ -126,7 +126,7 @@ The foundational palette of Godric's human form is drawn directly from the rare 
     *   **Luminous Golden Eyes:** The rarest trait of all when combined with her dark scales (comparable to a human redhead with blue eyes). This manifests as his **true, inherited golden eye color**, a feature often veiled by the Cherenkov blue of his constantly active atomic energy. This duality of eye color is a core theme, reflecting his authentic self (gold) versus his vigilant persona (blue), a concept that mirrors the [[ATMGoji Design Concept Reference|BatoGoji (1992) design influence]].
 *   **Paternal Inheritance (The Physique):** His father, [[Dagon, the Last Northern Patriarch|Dagon]], embodied the more traditional, powerfully-built Northern Faction archetype. While Godric did not inherit Dagon's color palette, he inherited the very blueprint of his physical structure.
     *   **Formidable Build & Dorsal Fin Structure:** Dagon's Titan frame and the specific characteristics of his dorsal fins (their shape, count, and growth pattern) directly translate into Godric's human form as a **proportionally wider and stronger back structure**. This is a subtle yet significant anatomical deviation, a permanent #TitanEcho of his paternal lineage.
-    *   **Overall Synthesis:** His final form is a blend of both parents: inheriting his mother's complete color palette and his father's powerful frame, which was tempered by his mother's slimmer features, resulting in a human form that is taller and slightly less broad than Dagon's would have been.
+    *   **Overall Synthesis:** His human form is a blend of both parents: inheriting his mother's complete color palette and his father's powerful frame, which was tempered by his mother's slimmer features, resulting in a human form that is taller and slightly less broad than Dagon's would have been.
 
 > [!note] A Study in Contrasts
 > For context, Dagon embodied the more typical Northern Faction traits: dark gray scales, dorsal fins as white as driven snow, and eyes the color of glacial ice. Godzilla's maternal inheritance thus makes him a striking departure from the paternal template.
@@ -512,10 +512,6 @@ Godzilla's current expression of Kratos operates through multiple sophisticated 
  > [!quote] “The Caged Sun”
  > Godzilla's innate capacity is universal energy control, but 250 million years of species tradition and personal psychological barriers have self-imposed a restriction, making him believe his power is primarily “atomic.” This is his “Caged Sun” limitation, defining him as a Nomothete Kratos whose full potential is yet to be realized.
 
-##### E. The Burning Form: Zenith of Kratos
-
-Godzilla's “Burning Form” represents the ultimate expression of Kratos. In this state, energy control transcends manipulation and approaches raw creation, blurring the line between controller and controlled. This state was theoretically possible for any mature *Titanus gojira*, but required a level of perfect control and conceptual understanding of energy that the species never achieved. His confrontation with Battra was a catalyst for him to access and control this state without external aid.
-
 ### C. The Grand Unified Power Systems
 
 The universe is governed by three fundamental power systems, each distinct in its source, nature, and practitioners. These systems represent different interfaces between consciousness and reality, shaping the capabilities of all sentient beings. Godric's own classification within this framework highlights a profound paradox: he is the ultimate master of one system while remaining completely blind to the other two.
@@ -566,7 +562,7 @@ Beyond the grand systems of Kratos, Psionics, and Magic, Godric's inherent biolo
 The fundamental core of Godric's biology, inherited from the *Titanus gojira* lineage, is a unique energy system that transcends the needs of conventional organic life.
 
 *   **Primary Sustenance:** Godric does **not require sleep** nor conventional food for survival. His primary energy source is ambient radiation—solar, geothermal, and nuclear—which is perpetually absorbed and converted into usable biological energy. This process continuously fuels his regeneration factor, keeping him sated and awake indefinitely.
-*   **Metabolic Shift (Voluntary):** Uniquely, Godric possesses the ability to consciously suspend this radiation-based metabolism and switch to a conventional, nutrition-based system. This metabolic shift is the **only time** he genuinely requires food for sustenance or experiences true fatigue. It forms the biological basis for his [[#D. The Dormancy Cycle: Strategic Rest|voluntary dormancy cycle]] and allows him to integrate into human societal rhythms of consumption.
+*   **Metabolic Shift (Voluntary):** Uniquely, Godric possesses the ability to consciously suspend this radiation-based metabolism and switch to a conventional, nutrition-based system. This metabolic shift is the **only time** he genuinely requires food for sustenance or experiences true fatigue. It forms the biological basis for his [[#IV D The Dormancy Cycle: Strategic Rest|voluntary dormancy cycle]] and allows him to integrate into human societal rhythms of consumption.
 
 #### 2. The Regenerative Factor and The Unblemished Body
 
@@ -574,15 +570,22 @@ The *Titanus gojira* species possesses an extraordinary regenerative factor, fue
 
 *   **Rapid Healing:** His body can heal from catastrophic injuries—ranging from deep cuts and gaping holes to severed limbs—within seconds, especially when actively supplied with radiation.
 *   **Unblemished Perfection:** This constant cellular regeneration results in a physically perfect, **unblemished, and unmarked body**. He bears no scars despite millions of years of combat, nor does he possess any birthmarks or other identifying marks. This is also why tattoos, if attempted, fade almost immediately.
-*   **Self-Sustaining Hygiene:** His passive radiation emission naturally sterilizes the immediate area around him, eliminating bacteria and pathogens. This renders traditional hygiene products largely unnecessary and keeps his body, including his teeth, in a perpetually pristine, self-cleaning state.
 
-#### 3. The “Burning Form”: Zenith of Kratos
+#### 3. Specialized Biological Advantages
 
-The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s Kratos ability. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
+Beyond his energy systems and general regeneration, Godric's unique physiology grants him several distinct, inherent advantages.
+
+*   **a. Extraordinary Tissue Density:** Godric possesses extraordinary tissue density that creates a significant disconnect between his appearance and his actual capabilities. His bones are approximately 1.6 times denser than average human bone, and his muscles are 1.8 times denser. This density, distributed throughout his entire structure, makes him significantly heavier than his appearance suggests, contributing to his immense physical durability.
+*   **b. Passive Radiation & Thermal Regulation:** His body naturally runs at a higher temperature ($100.90°\text{F} / 38.30°\text{C}$ in active season). This passive radiation emission naturally sterilizes the immediate area around him, eliminating bacteria and pathogens. It also renders traditional hygiene products largely unnecessary and keeps his body in a perpetually pristine, self-cleaning state. This elevated internal temperature also makes him completely unaffected by external cold.
+*   **c. Dental Capabilities:** His teeth, while appearing perfectly human, possess remarkable biological properties. They are **self-sterilizing** due to his passive radiation, maintaining immaculate appearance regardless of consumption. They are also **regenerative**, capable of healing if damaged, and possess a **record-setting bite force** far beyond any documented species, capable of biting through reinforced steel with minimal effort.
+
+#### 4. The "Burning Form": Zenith of Kràtos
+
+The "Burning Form" represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Kràtos]] ability. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
 
 *   **Absolute Integration:** In this form, the line between controller and controlled disappears entirely, as the being becomes a living conduit of pure energy.
 *   **Species Potential:** This state was theoretically possible for any mature *Titanus gojira*, but required a level of perfect control and conceptual understanding of energy that the species, in its collective history, never achieved.
-*   **Godzilla's Achievement:** Godric uniquely attained and gained control over this state during the Xilien Invasion Arc, a pivotal moment where he transcended the limitations of his species without external aid.
+*   **Godzilla's Achievement:** Godric uniquely attained and gained control over this state during the [[Plot Outline - Xilien Invasion Arc.md|Xilien Invasion Arc]], a pivotal moment where he transcended the limitations of his species without external aid.
 
 ## IV. Habits, Presentation, and Lifestyle
 
@@ -972,18 +975,18 @@ The relationship between Godric and [[Mothra, the Queen of the Monsters|Maria]] 
 
 *   **Cosmic Counterparts:** Godric embodies the [[sun_moon_motif.md#The Archetypal Foundation|Solar archetype]] (active, protective, central force, nuclear energy, solar gold), positioning him as the Alpha Paramount around whom all other Titans orbit. Maria embodies the [[sun_moon_motif.md#The Archetypal Foundation|Lunar archetype]] (reflective, nurturing, cyclical force, lunar light, silver), balancing his raw power with wisdom and empathy. Their eventual union is metaphysically aligned to create the [[sun_moon_motif.md#Alchemical Symbolism|Philosopher's Stone]]—the ultimate symbol of transformation and perfection, hinting at their essential role in solving the Antitheriomorphosis itself.
 *   **The Ancient Trinity:** Their bond originates in the [[trinity_dynamics.md#Origins: The Vulnerable Beginning|vulnerability of hatchlings]] 250 million years ago, a shared experience with [[Battra, the Lord of the Mystic Arts|Battra]] that forms the bedrock of their dynamic, predating their cosmic roles.
-*   **Professional Partnership, Personal Denial:** They maintain an elaborate facade of a "professional partnership," rationalizing their profound [[sun_moon_motif.md#The Symbiosis They Deny|cosmic compatibility]] as mere tactical efficiency. This is a mutually agreed-upon "partnership trap" where their deep connection paradoxically strengthens their denial.
+*   **Professional Partnership, Personal Denial:** They maintain an elaborate facade of a “professional partnership,” rationalizing their profound [[sun_moon_motif.md#The Symbiosis They Deny|cosmic compatibility]] as mere tactical efficiency. This is a mutually agreed-upon “partnership trap” where their deep connection paradoxically strengthens their denial.
 
 ##### The Grooming Paradox & Mathematical Attraction: An Unspoken Comedy
 
-Maria’s attraction to Godric is deeply rooted in the [[maria-godric-relationship.md#Mathematical Harmony as Relationship Metaphor|mathematical contrasts]] within his physique, particularly his subtle deviations from [[#2. The Mathematical Framework of Godric's Physique|perfect Golden Ratio harmony]]. This creates a profound dramatic irony in their relationship, where her deepest affection inadvertently fuels his misinterpretations.
+Maria's attraction to Godric is deeply rooted in the [[maria-godric-relationship.md#Mathematical Harmony as Relationship Metaphor|mathematical contrasts]] within his physique, particularly his subtle deviations from [[#2. The Mathematical Framework of Godric's Physique|perfect Golden Ratio harmony]]. This creates a profound dramatic irony in their relationship, where her deepest affection inadvertently fuels his misinterpretations.
 
 *   **Attraction to Mortality:** Maria is drawn not to his uncanny perfection, but precisely to the subtle imperfections and glimpses of his authentic, [[maria-godric-relationship.md#The Dormant Season Attraction|mortal self]]. She finds herself particularly captivated by:
     *   His [[maria-godric-relationship.md#Facial Hair Catastrophe Management|growing stubble]] or [[#2 Dormant Season (September-November)|dormant season]] appearance, where his defined edges soften and his mathematical precision is less visually apparent.
     *   The way [[maria_hair_reactions.md#The Falling Strand Obsession|strands of his hair]] fall across his forehead during activity.
     *   The intimate areas where his [[#^d293b3|undershirt]] peers through his button-down, hinting at his powerful physique beneath.
     *   The rare moments his true gold eyes become visible, revealing his vulnerability.
-*   **The Misinterpretation Cycle:** Maria's physical reactions to his allure—her [[maria_hair_reactions.md#Bioluminescent Reactions|bioluminescent pink glow]], her [[maria_hair_reactions.md#Eye Focus Patterns|eyes fixating]], her unconscious [[maria_hair_reactions.md#Control Breakdown Indicators|physical restraint]]—are interpreted by Godric as discomfort or disapproval. Because he desires to eliminate any source of "disorder" or "disruption" to his [[#A. The Presentation Mandate: Hiding in Plain Sight|impeccable presentation]], he responds by [[maria_hair_reactions.md#The Misinterpretation Tragedy|increasing his grooming efforts]] (e.g., shaving more frequently), inadvertently removing the very traits she finds most captivating. This self-perpetuating cycle of misunderstanding creates a tragicomic dynamic where neither can correct the misconception due to communication barriers.
+*   **The Misinterpretation Cycle:** Maria's physical reactions to his allure—her [[maria_hair_reactions.md#Bioluminescent Reactions|bioluminescent pink glow]], her [[maria_hair_reactions.md#Eye Focus Patterns|eyes fixating]], her unconscious [[maria_hair_reactions.md#Control Breakdown Indicators|physical restraint]]—are interpreted by Godric as discomfort or disapproval. Because he desires to eliminate any source of “disorder” or “disruption” to his [[#A. The Presentation Mandate: Hiding in Plain Sight|impeccable presentation]], he responds by [[maria_hair_reactions.md#The Misinterpretation Tragedy|increasing his grooming efforts]] (e.g., shaving more frequently), inadvertently removing the very traits she finds most captivating. This self-perpetuating cycle of misunderstanding creates a tragicomic dynamic where neither can correct the misconception due to communication barriers.
 
 ##### The Inevitable Romance: The Eclipse
 
@@ -992,7 +995,7 @@ Despite their mutual denial and the comedic feedback loop of his grooming, their
 *   **The Catalyst:** The [[Antitheriomorphosis]] is the [[sun_moon_motif.md#The Eclipse Metaphor|cosmic eclipse]] that allows their impossible alignment. In human form, they transcend their distant celestial roles, becoming physical beings whose paths can converge.
 *   **The Slow Burn:** Their romance begins with the [[Mini Arc Outline - The Winter Cycle.md|Winter Cycle Arc]], where forced domesticity in Meadowvale and Godric's vulnerable processing of his Dagon trauma lead to their first tentative steps towards intimacy, culminating in their first kiss.
 *   **The Formalization:** It solidifies in the [[Plot Outline - Blue House at Maple Street.md|Blue House at Maple Street Arc]], where their cover as a married couple living in Meadowvale forces them to confront and embrace their true feelings. Their [[Plot Outline - Blue House at Maple Street.md#Key Story Beat: “The Ring Reminder” (Alternating POV)|wedding rings]], forged by Battra, become powerful symbols of a cover that transformed into reality.
-		*   **The Unacknowledged Symbol:** The Golden Tie, handwoven by Maria to perfectly complement his true golden eyes (a feature only she intimately knows), remains unworn in his quarters. It is a profound, unspoken symbol of their deep intimacy, waiting for him to choose authenticity over vigilance.
+		* **The Unacknowledged Symbol:** The Golden Tie, handwoven by Maria to perfectly complement his true golden eyes (a feature only she intimately knows), remains unworn in his quarters. It is a profound, unspoken symbol of their deep intimacy, waiting for him to choose authenticity over vigilance.
 
 #### 3. The Ancient Trinity: A Balanced Force
 
