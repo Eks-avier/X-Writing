@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -299,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Light.md",
+                "file": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Light"
+              "title": "Outline of Mothra Profile"
             }
           },
           {
@@ -369,35 +369,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ab5b634939ddfe0",
+  "active": "be2689a7ac5819e6",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/mothra-psionic-prowess.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/telepathic-web.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_ethereal_details.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_anatomical_measurements.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/cosmic_irony_analysis.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_voice_divine_speech.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_locomotion_divine_movement.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/mothra_scales_power_system.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/mothra_bioluminescent_weapons.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/godric_attraction_analysis.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/game_of_chicken_romance.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/telepathy_ethics_system.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_romantic_education.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_physical_metrics.md",
+    "Writing/ATM/Characters/Titans/Mothra/Messy",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "New Linking Protocol.md",
+    "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
     "College/Light.md",
+    "New Linking Protocol.md",
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
     "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
-    "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
     "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
     "Writing/ATM/The Fundamental Forces Theory.md",
     "Writing/ATM/Hiding the Colossal.md",
     "Notepad 8.md",
-    "Writing/ATM/Magic System/Titans, Magic, and Psionics.md",
-    "Writing/ATM/Magic System/Psychic-Sorcery Interface.md",
-    "Writing/ATM/Characters/Titans/Mothra/psionics-system.md",
-    "Writing/ATM/Power Dynamics.md",
-    "_Templates/Character Profile Template.md",
-    "_Templates/Character References Template.md",
-    "_Templates/Untitled.md",
-    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
-    "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Story Arcs/Idea - Eyes of Mine.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
-    "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/The First Arc",
-    "Writing/ATM/Antitheriomorphosis.md",
-    "Notepad 9.md",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Titan_Hierarchy",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Power_Systems/Psionics",
@@ -406,7 +407,6 @@
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Power_Systems",
     "Writing/Antitheriomorphosis Universe/6_SPECIES/Titanus_mosura",
     "Writing/Antitheriomorphosis Universe/6_SPECIES/Titanus_gojira",
-    "Writing/Antitheriomorphosis Universe/6_SPECIES",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
