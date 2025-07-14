@@ -41,6 +41,9 @@ This section provides the fundamental identifying details and a high-level overv
     *   Incapable of perceiving or wielding magic.
 *   **Psionic Aptitude:** Non
     *   Incapable of perceiving or wielding psionics.
+* **Krátonic Aptitude**: Kráton
+	* Conqueror / Archon
+	* Nomothete
 *   **Living Status:** Alive
 *   **Marital Status:** Single
     *   (Though his relationship with Maria is formalized and developing into marriage, as detailed in [[#2. The Sun and Moon Cosmic Partnership & Denied Romance|Section VII.E.2.c]]).

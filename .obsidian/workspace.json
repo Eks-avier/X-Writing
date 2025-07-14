@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reorganized + Anatomy"
+              "title": "Godzilla Profile"
             }
           },
           {
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Linking Protocol.md",
+                "file": "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Linking Protocol"
+              "title": "Character Profile Creation Protocol - A Step-by-Step Guide"
             }
           },
           {
@@ -299,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reorganized + Anatomy"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -371,8 +371,11 @@
   },
   "active": "e7eed282512e23cc",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
+    "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
+    "New Linking Protocol.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/mothra-psionic-prowess.md",
@@ -391,13 +394,10 @@
     "Writing/ATM/Characters/Titans/Mothra/Messy/maria_physical_metrics.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy",
     "College/Light.md",
-    "New Linking Protocol.md",
     "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
-    "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md",
     "Writing/ATM/The Fundamental Forces Theory.md",
     "Writing/ATM/Hiding the Colossal.md",
-    "Notepad 8.md",
     "Writing/ATM/Story Arcs/The First Arc",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Titan_Hierarchy",
