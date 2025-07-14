@@ -15,7 +15,7 @@ This section provides the fundamental identifying details and a high-level overv
 *   **Human Name:** Godric Nordson
     *   This name, chosen post-Antitheriomorphosis, blends the Anglo-Saxon “Godric” (power of God/ruler of God) with “Nordson,” representing his [[#1. The Last Family Godzilla & Dagon|Northern Faction]] heritage and his identity as “The Last Son of the North.”
 *   **Species:** *Titanus gojira*
-    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Kratos The Power of Dominance|Krátos]].
+    *   An [[#A. The *Titanus gojira* Lineage From Emergent to Ascendant|Ascendant Lineage]], unique for its [[#1. Limitless Adaptation The Unyielding Evolution|Limitless Adaptation]] and mastery over [[#2. Krátos The Power of Dominance|Krátos]].
 *   **Lineage:** Ascendant / Superior
 *   **Sapience:** Sapient / Minded
 *   **Standing:** Alpha Paramount
@@ -421,7 +421,7 @@ The trajectory of the proto-gojira species, and indeed of Earth itself, irrevoca
 
 Yet, the proto-gojira, perhaps ignorant or simply unaffected by its dangerous emanations, were drawn to it with an almost innocent curiosity. Day after day, they returned to the impact site, prodding the mysterious rock with their snouts, touching its surface. They began to sense a profound shift within themselves.
 
-The moment of transformation arrived when a single proto-gojira, threatened by a predator, instinctively expulsed a stream of blue fire to defend its young. This act of spontaneous, unprecedented energy projection signaled the dawn of a new era. Overnight, the proto-gojira species was collectively elevated to an [[Ascendant Classification - The World-Changers#Planetary-Scale Impact Examples|Ascendant Lineage]], gifted with [[# 2. Kratos: The Power of Dominance|Kratos]], the power of dominance over physical forces and energy. This swift ascension from unremarkable Emergent status to undisputed Ascendant power was an unprecedented event in Titan history.
+The moment of transformation arrived when a single proto-gojira, threatened by a predator, instinctively expulsed a stream of blue fire to defend its young. This act of spontaneous, unprecedented energy projection signaled the dawn of a new era. Overnight, the proto-gojira species was collectively elevated to an [[Ascendant Classification - The World-Changers#Planetary-Scale Impact Examples|Ascendant Lineage]], gifted with [[# 2. Krátos: The Power of Dominance|Krátos]], the power of dominance over physical forces and energy. This swift ascension from unremarkable Emergent status to undisputed Ascendant power was an unprecedented event in Titan history.
 
 > [!info] Biological Sovereignty & Evolutionary Primacy
 > This newfound [[Writing/ATM/Unrefined/Titanus Gojira#Ascendant Line Status|biological sovereignty]] propelled them above the constant political maneuvering of the [[Structure of the Titan Hierarchy#Standing System (Personal Achievement)|Standing Hierarchy]]. No Titan, not even previous [[Structure of the Titan Hierarchy#Alpha Tier (Transcends Realms)|Alpha Paramounts]], dared to presume dominance over the newly empowered *Titanus gojira*. While they respected the hierarchy, they largely refused to participate extensively, their very presence commanding [[Writing/ATM/Unrefined/Titanus Gojira#Species-Centric Worldview|indifference]] that acted as an unspoken law. This [[Ascendant Classification - The World-Changers#The Existential Impact Threshold|evolutionary primacy]], coupled with their immediate planetary impact, cemented their Ascendant status.
@@ -452,7 +452,7 @@ This spiritual tragedy would remain unknown to Godzilla for millions of years, a
 
 ### B. The Twin Pillars of Gojira Power
 
-The *Titanus gojira* species stands as a testament to biological supremacy, distinguished by two fundamental, almost paradoxical, abilities: **Limitless Adaptation** and **Kratos**, the power of dominance over physical forces and energy. These are not mere powers but foundational aspects of their very being, shaping their evolutionary trajectory and positioning them as a truly unique force in the cosmos.
+The *Titanus gojira* species stands as a testament to biological supremacy, distinguished by two fundamental, almost paradoxical, abilities: **Limitless Adaptation** and **Krátos**, the power of dominance over physical forces and energy. These are not mere powers but foundational aspects of their very being, shaping their evolutionary trajectory and positioning them as a truly unique force in the cosmos.
 
 #### 1. Limitless Adaptation: The Unyielding Evolution
 
@@ -462,15 +462,15 @@ The foundational ability of the *Titanus gojira* lineage, Limitless Adaptation, 
 *   **Challenge-Driven Evolution:** Exposure to damage or threats paradoxically accelerates these adaptive processes. The greater the challenge, the more profound the adaptation, creating a species that fundamentally benefits from adversity. These adaptive changes can even be passed to offspring, effectively creating a form of directed evolution within family lines.
 *   **Godzilla's Pinnacle:** In Godzilla, this ability has reached an unprecedented refinement through millions of years of continuous, solitary adaptation to countless threats. His extreme longevity—surpassing his entire species' existence—has allowed his inherent adaptive capability to express itself to a degree his ancestors never achieved. His refined senses are a prime example of this continuous, challenge-driven sensory evolution.
 
-#### 2. Kratos: The Power of Dominance
+#### 2. Krátos: The Power of Dominance
 
-The second, and ultimately more potent, pillar of Gojira power is their inherent connection to **Kratos**—the direct, absolute control over physical forces and energy. This is not merely a specialized talent but a fundamental mode of interaction with reality.
+The second, and ultimately more potent, pillar of Gojira power is their inherent connection to **Krátos**—the direct, absolute control over physical forces and energy. This is not merely a specialized talent but a fundamental mode of interaction with reality.
 
 #### 2. Krátos: The Power of Dominance
 
 The second, and ultimately more potent, pillar of Gojira power is their inherent connection to **Krátos**—the direct, absolute control over physical forces and energy. This is not merely a specialized talent but a fundamental mode of interaction with reality.
 
-##### a. The Krátos System: Defining Absolute Control
+##### A. The Krátos System: Defining Absolute Control
 
 Krátos is the power system governing **absolute control** over physical forces and energy. A being who possesses this inherited biological capacity is classified as a **Kráton** (plural: Kráton's). Those who do not are **Akrátons**. This power cannot be learned or trained; it is an inherited trait, driven by the individual's **willpower**.
 
@@ -480,21 +480,21 @@ Krátos is the power system governing **absolute control** over physical forces 
     *   **Philosophical Conqueror's Will:** The mental and spiritual quality of unbreakable determination (e.g., [[Kong, King of the Hollow Earth.md#Defining Traits|Kong]]). This quality can be found across many species and individuals, even Akrátons.
     *   **Technical Conqueror's Will:** Philosophical Conqueror's Will combined with the inherited Krátos power and planetary-scale capability to actually enforce one's will upon reality (e.g., [[#Godzilla: The Atomic Archon/Conqueror|Godzilla]], [[Dagon, the Last Northern Patriarch.md#Human Form (Post-Resurrection)|Ghidorah]]). This is exceptionally rare across the cosmos.
 *   **Prodigy Titles (In-Universe Honorifics):** For beings who possess absolute control over **multiple forces/energies** or achieve **planetary-scale dominance** over their specialized force *and* possess Technical Conqueror's Will, specific honorifics are used in-universe:
-    *   **Archon:** This term, primarily used by [[Battra, the Lord of the Mystic Arts.md#Overview|Battra]] (who formalized the Krátos system), emphasizes technical mastery and sophisticated understanding. Godzilla, as the ultimate master of nuclear and atomic energy, is an "Atomic Archon."
-    *   **Conqueror:** This term, famously used by [[Dagon, the Last Northern Patriarch.md#Human Form (Post-Resurrection)|Ghidorah]], emphasizes pure willpower dominance and raw imposition of reality. Ghidorah recognizes Godzilla as a "Conqueror" because he possesses Conqueror's Will. Godzilla is an "Atomic Conqueror."
+    *   **Archon:** This term, primarily used by [[Battra, the Lord of the Mystic Arts.md#Overview|Battra]] (who formalized the Krátos system), emphasizes technical mastery and sophisticated understanding. Godzilla, as the ultimate master of nuclear and atomic energy, is an “Atomic Archon.”
+    *   **Conqueror:** This term, famously used by [[Dagon, the Last Northern Patriarch.md#Human Form (Post-Resurrection)|Ghidorah]], emphasizes pure willpower dominance and raw imposition of reality. Ghidorah recognizes Godzilla as a “Conqueror” because he possesses Conqueror's Will. Godzilla is an “Atomic Conqueror.”
     *   **Note**: These terms are often used interchangeably in-universe, reflecting different philosophical perspectives on the same absolute mastery.
-*   **Nomothete (Ultimate Mastery Level):** This is the apex of mastery within *any* power system (Krátos, Psionics, or Magic). A Nomothete is a practitioner who transcends the normal rules of their system, seeming to "write and break its laws" through sheer will and understanding. Godric himself is a [[#Philosophy of Dominance: Willpower Beyond Perception|Nomothete Krátos]].
+*   **Nomothete (Ultimate Mastery Level):** This is the apex of mastery within *any* power system (Krátos, Psionics, or Magic). A Nomothete is a practitioner who transcends the normal rules of their system, seeming to “write and break its laws” through sheer will and understanding. Godric himself is a [[#Philosophy of Dominance: Willpower Beyond Perception|Nomothete Krátos]].
 
 ##### B. Genesis & Baseline Capabilities
 
-The *Titanus gojira*'s mastery over Kratos was not inherent but an **acquired ability**, gifted to them by exposure to the Fallen Star. This transformative event bestowed upon them a nascent connection to energy itself in all its forms.
+The *Titanus gojira*'s mastery over Krátos was not inherent but an **acquired ability**, gifted to them by exposure to the Fallen Star. This transformative event bestowed upon them a nascent connection to energy itself in all its forms.
 
 *   **Initial Manifestation:** The typical *Titanus gojira* initially demonstrated only fundamental aspects: passive energy sensing, involuntary conversion of absorbed radiation into biological energy, and limited projection primarily through atomic breath. Factional variations saw slight specializations (e.g., Northerners with efficient storage).
 *   **Misunderstanding its Scope:** During the species' existence, they perceived their ability only as specialized radiation processing, never realizing its potential for universal energy domination. This cognitive limitation, coupled with their relatively brief existence by cosmic standards, prevented full realization.
 
 ##### C. Godzilla's Unprecedented Development: The Uncaged Sun
 
-What distinguishes Godzilla from his extinct species is not the core Kratos ability itself, but his **extraordinary, unparalleled development** of it. He is the ultimate expression of a Nomothete Kratos, an Atomic Conqueror whose powers were forged over eons.
+What distinguishes Godzilla from his extinct species is not the core Krátos ability itself, but his **extraordinary, unparalleled development** of it. He is the ultimate expression of a Nomothete Krátos, an Atomic Conqueror whose powers were forged over eons.
 
 *   **Temporal Advantage:** His lifespan of 250 million years has surpassed his entire species' existence, providing unprecedented development time.
 *   **Combat-Driven Evolution:** Endless conflicts forced continual adaptation and refinement, culminating in techniques unrecognizable to his ancestors.
@@ -503,7 +503,7 @@ What distinguishes Godzilla from his extinct species is not the core Kratos abil
 
 ##### D. Modern Expression & The Energy Hierarchy
 
-Godzilla's current expression of Kratos operates through multiple sophisticated vectors, vastly exceeding anything his species achieved. The **psychological barriers** of his species' stubbornness and his own need for control (his “Caged Sun” phenomenon) are the only remaining limitations to his full potential.
+Godzilla's current expression of Krátos operates through multiple sophisticated vectors, vastly exceeding anything his species achieved. The **psychological barriers** of his species' stubbornness and his own need for control (his “Caged Sun” phenomenon) are the only remaining limitations to his full potential.
 
 *   **Comprehensive Control:** He can sense, absorb, store, convert, project, manipulate (externally, albeit limitedly), and neutralize energy in all its forms.
 *   **Energy Hierarchy:** While he can process any energy, efficiency varies:
@@ -514,10 +514,10 @@ Godzilla's current expression of Kratos operates through multiple sophisticated 
     5.  **Kinetic Energy:** Converted with moderate efficiency.
     6.  **Chemical Energy:** Processed successfully but less efficiently.
     7.  **Extraterrestrial Energies:** Most challenging, requiring specific adaptations.
-*   **Post-Xilien Invasion Breakthrough:** His confrontation with Battra in the [[Plot Outline - Xilien Invasion Arc|Xilien Invasion Arc]] pushed him to achieve a profound paradigm shift, realizing his control extends far beyond atomic energy to all fundamental forces, including hints of [[godric_energy_limitations#Energy Generation and Manipulation|Gravitational Manipulation]]. 
+*   **Post-Xilien Invasion Breakthrough:** His confrontation with Battra in the [[Plot Outline - Xilien Invasion Arc|Xilien Invasion Arc]] pushed him to achieve a profound paradigm shift, realizing his control extends far beyond atomic energy to all fundamental forces, including hints of [[godric_energy_limitations#Energy Generation and Manipulation|Gravitational Manipulation]].
 
  > [!quote] “The Caged Sun”
- > Godzilla's innate capacity is universal energy control, but 250 million years of species tradition and personal psychological barriers have self-imposed a restriction, making him believe his power is primarily “atomic.” This is his “Caged Sun” limitation, defining him as a Nomothete Kratos whose full potential is yet to be realized.
+ > Godzilla's innate capacity is universal energy control, but 250 million years of species tradition and personal psychological barriers have self-imposed a restriction, making him believe his power is primarily “atomic.” This is his “Caged Sun” limitation, defining him as a Nomothete Krátos whose full potential is yet to be realized.
 
 ### C. The Grand Unified Power Systems
 
@@ -527,18 +527,18 @@ The universe is governed by three fundamental power systems, each distinct in it
 
 | **Power System** | **Source / Origin**                 | **Nature / Mechanism**                                            | **Wielder Classification**                                           | **Core Expression**                                          |
 | :--------------- | :---------------------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------------- | :----------------------------------------------------------- |
-| **Kratos**       | Inherited biological capacity; Willpower | **Absolute Control** over physical forces/energy. Direct interaction, cannot be superseded. | **Kraton** (possesses); **Akraton** (does not possess)               | Will-driven dominance; “Laying down the law.”                |
+| **Krátos**       | Inherited biological capacity; Willpower | **Absolute Control** over physical forces/energy. Direct interaction, cannot be superseded. | **Kraton** (possesses); **Akraton** (does not possess)               | Will-driven dominance; “Laying down the law.”                |
 | **Psionics**     | Brain / Specialized organs; Genetic | **Mind-driven** manipulation. Direct mental intention. Intuitive and fluid. | **Unnon** (possesses); **Non** (does not possess)                  | Intuitive reality shaping; “The mind shapes reality directly.” |
 | **Magic**        | Soul; Primus (5th fundamental force) | **Soul-driven** manipulation. Structured and methodical. Requires Primus transformation. | **Unnul** (possesses); **Null** (does not possess)                   | Structured reality alteration; “The soul shapes Primus.”     |
 
 > [!tip] Understanding the Apex: Nomothete
 > A **Nomothete** is the ultimate mastery level within *any* of the three power systems. This honorific designates a practitioner who transcends the normal rules of their system, appearing to “write and break its laws” through sheer will and profound understanding. Godric, Mothra, Battra, and Ghidorah are all Nomothetes of their respective power systems.
 
-#### 2. Godric's Unique Position: Nomothete Kratos, Null, and Non
+#### 2. Godric's Unique Position: Nomothete Krátos, Null, and Non
 
 Godric occupies a singular, paradoxical position within this grand framework, reflecting his unique evolutionary path and species design. He is simultaneously the pinnacle of one system and completely incapable of the others.
 
-*   **Nomothete Kratos:** Godric is the ultimate master of Kratos, a Nomothete who exemplifies absolute dominance over physical forces and energy. As an Atomic Conqueror, his will defines the behavior of nuclear and electromagnetic forces around him, bending reality through sheer command.
+*   **Nomothete Krátos:** Godric is the ultimate master of Krátos, a Nomothete who exemplifies absolute dominance over physical forces and energy. As an Atomic Conqueror, his will defines the behavior of nuclear and electromagnetic forces around him, bending reality through sheer command.
 *   **Null:** Despite his immense power, Godric is inherently Null, meaning his soul fundamentally lacks the capacity to perceive or manipulate [[Primus, the Fundamental Force of Magic|Primus]], the raw essence of magic. This renders him completely blind to magical energies and effects in their raw form.
 *   **Non:** Similarly, Godric is Non, lacking the biological architecture to perceive or wield Psionics. He cannot read minds, engage in telekinesis, or otherwise interact directly with the Psionic Force.
 
@@ -550,11 +550,11 @@ The combined capabilities of the Ancient Trinity—Godzilla, Mothra, and Battra�
 
 | **Titan** | **Primary Power System** | **Classification**                                            | **Weakness Addressed**                                 |
 | :-------- | :----------------------- | :------------------------------------------------------------ | :----------------------------------------------------- |
-| **Godric**  | Kratos (Dominance)         | Nomothete Kratos (Kraton)                                   | Counters Magic (Null) & Psionics (Non)                 |
-| **Mothra**  | Psionics                 | Nomothete Psychic (Unnon)                                   | Counters Kratos (Akraton) & Magic (Null)               |
-| **Battra**  | Magic (Sorcery)          | Nomothete Sorcerer (Unnul); also Unnon (psychic) by species | Counters Kratos (Akraton) & Psionics (Non)             |
+| **Godric**  | Krátos (Dominance)         | Nomothete Krátos (Kraton)                                   | Counters Magic (Null) & Psionics (Non)                 |
+| **Mothra**  | Psionics                 | Nomothete Psychic (Unnon)                                   | Counters Krátos (Akraton) & Magic (Null)               |
+| **Battra**  | Magic (Sorcery)          | Nomothete Sorcerer (Unnul); also Unnon (psychic) by species | Counters Krátos (Akraton) & Psionics (Non)             |
 
-*   **Godric: The Physical Anchor (Anti-Supernatural Warfare):** As a Nomothete Kratos, Godric's immense power and adaptive capabilities allow him to directly counter both magic and psionics. While he cannot wield them, his very presence and energy output can disrupt magical fields and overwhelm psychic defenses, making him Earth's ultimate anti-supernatural weapon.
+*   **Godric: The Physical Anchor (Anti-Supernatural Warfare):** As a Nomothete Krátos, Godric's immense power and adaptive capabilities allow him to directly counter both magic and psionics. While he cannot wield them, his very presence and energy output can disrupt magical fields and overwhelm psychic defenses, making him Earth's ultimate anti-supernatural weapon.
 *   **Mothra: The Consciousness Bridge (Divine Harmony):** As a Nomothete Psychic, Mothra excels in mental and spiritual domains. Her [[mothra-psionic-prowess|unparalleled telepathic supremacy]] allows her to navigate the realms of consciousness, connect minds, and act as a spiritual conduit. Her [[Divine Mandate Against Sorcery|Divine Mandate]] historically affected magic, and her presence influences psychic potential globally.
 *   **Battra: The Cosmic Architect (Arcane Mastery):** As a Nomothete Sorcerer, Battra possesses [[Battra, the Lord of the Mystic Arts#Core Abilities|unparalleled mastery over magic]]. His unique integration of psionics and sorcery allows him to [[Psychic-Sorcery Interface#Battra's Unique Mastery|manipulate reality at a fundamental level]], creating physical effects from metaphysical commands.
 
@@ -566,10 +566,11 @@ Beyond the grand systems of Krátos, Psionics, and Magic, Godric's inherent biol
 
 #### 1. Innate Physical Superiority
 
-Separate from his Kratos abilities, Godric's *Titanus gojira* biology affords him baseline physical traits that are extraordinary even by Titan standards.
+Separate from his Krátos abilities, Godric's *Titanus gojira* biology affords him baseline physical traits that are extraordinary even by Titan standards.
 
 *   **Extraordinary Tissue Density:** His bone, muscle, and organ tissues are significantly denser than a human's, making him far heavier than his proportions would suggest. This dense structure is the source of his immense physical strength and durability.
 *   **Dental Capabilities:** His teeth, while appearing conventionally human, are incredibly durable and can regenerate if damaged. They are capable of exerting record-setting bite force, allowing him to bite through reinforced steel with minimal effort.
+
 #### 2. Energy Systems: Radiation Sustenance and Metabolic Flexibility
 
 The fundamental core of Godric's biology, inherited from the *Titanus gojira* lineage, is a unique energy system that transcends the needs of conventional organic life.
@@ -583,6 +584,8 @@ The *Titanus gojira* species possesses an extraordinary regenerative factor, fue
 
 *   **Rapid Healing:** His body can heal from catastrophic injuries—ranging from deep cuts and gaping holes to severed limbs—within seconds, especially when actively supplied with radiation.
 *   **Unblemished Perfection:** This constant cellular regeneration results in a physically perfect, **unblemished, and unmarked body**. He bears no scars despite millions of years of combat, nor does he possess any birthmarks or other identifying marks. This is also why tattoos, if attempted, fade almost immediately.
+*   **Self-Sustaining Hygiene:** His passive radiation emission naturally sterilizes the immediate area around him, eliminating bacteria and pathogens. This renders traditional hygiene products largely unnecessary and keeps his body in a perpetually pristine, self-cleaning state.
+*   **Exceptional Dental Capabilities:** His teeth, while appearing conventionally human, possess remarkable biological properties. They are capable of rapid regeneration if damaged and can exert a record-setting bite force far beyond any documented species, capable of tearing through reinforced steel. These dental features are self-sterilizing due to his passive radiation, requiring no traditional hygiene.
 
 #### 4. Specialized Biological Advantages
 
@@ -594,7 +597,7 @@ Beyond his energy systems and general regeneration, Godric's unique physiology g
 
 #### 5. The “Burning Form”
 
-The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Kratos: The Power of Dominance|Krátos]] ability to control atomic forces and all energy. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
+The “Burning Form” represents the ultimate, theoretical zenith of a *Titanus gojira*'s [[#2. Krátos: The Power of Dominance|Krátos]] ability to control atomic forces and all energy. It is a state where energy control transcends mere manipulation and approaches raw, almost instantaneous, creation.
 
 *   **Absolute Integration:** In this form, the line between controller and controlled disappears entirely, as the being becomes a living conduit of pure energy.
 *   **Species Potential:** This state was theoretically possible for any mature *Titanus gojira*, but required a level of perfect control and conceptual understanding of energy that the species, in its collective history, never achieved.
@@ -908,10 +911,11 @@ Godric possesses an extraordinarily rare form of [[godric_hyperthymesia|hyperthy
 
 #### 3. The Philosophy of Dominance: Willpower Beyond Perception
 
-Godric's inherent connection to Kratos has shaped his philosophy of power: an unshakeable belief in the absolute control of will over physical reality. He operates as a **Nomothete Kratos**, a being who seems to “write the laws” for forces he commands.
+Godric's inherent connection to [[#Kratos: The Power of Dominance|Krátos]] has shaped his philosophy of power: an unshakable belief in the absolute control of will over physical reality. He operates as a [[#The Krátos System: Defining Absolute Control|Nomothete Krátos]], a being who seems to “write the laws” for forces he commands.
 
-*   **Absolute Imposition:** His philosophy is not about manipulation or negotiation with physical laws; it is about **absolute dominance** through sheer force of will. This belief is reflected in his effortless military bearing, his imperative speech patterns, and his general commanding presence that instinctively compels others to defer.
-*   **The “Caged Sun” Paradox:** Despite possessing the innate capacity for [[godric_energy_limitations#^84325e|universal energy control]], Godric currently operates under self-imposed psychological limitations, believing his powers are primarily “atomic.” This “Caged Sun” phenomenon, rooted in species tradition and his deep-seated need for control, prevents him from realizing his true potential. He is paradoxically limited by his own [[godric_energy_limitations#The Micromanagement Weakness|micromanagement]] and reluctance to “let go” of direct oversight, a consequence of his abandonment trauma.
+*   **Absolute Imposition:** His philosophy is not about manipulation or negotiation with physical laws; it is about **absolute dominance** through sheer force of will. This belief is reflected in his [[#4 Movement, Gait, and Posture|effortless military bearing]], his [[#5. Voice and Speech Patterns|imperative speech patterns]], and his general [[#2. The Proximity Effect|commanding presence]] that instinctively compels others to defer.
+*   **The “Caged Sun” Paradox:** Despite possessing the innate capacity for [[godric_energy_limitations.md#The Truth Godric Doesn't Know|universal energy control]], Godric currently operates under self-imposed psychological limitations, believing his powers are primarily “atomic.” This “Caged Sun” phenomenon, rooted in species tradition and his deep-seated need for control, prevents him from realizing his true potential. He is paradoxically limited by his own [[godric_energy_limitations.md#The Micromanagement Weakness|micromanagement]] and reluctance to “let go” of direct oversight, a consequence of his abandonment trauma.
+*   **The Investment Philosophy:** Beyond mere destruction, Godric's unique application of his [[#Conqueror's Will|Conqueror's Will]] manifests as an “investment philosophy.” He actively imposes his will not just to solve problems, but to **foster growth and unlock potential in others**. This is his most audacious act of dominance. He will risk his own comfort, time, and even the stability of his relationships and home to either achieve a complete solution to a problem or satisfy his thirst for a profound challenge, believing that pushing boundaries (even personal ones) yields exponential growth for all involved.
 *   **Perceived Age:** His profound inner experience, stoic demeanor, and inherent regality combine to give him an aura far beyond his documented age of 25. Random individuals often instinctively perceive him as significantly older, unconsciously picking up on the immense temporal weight he carries as Earth's ancient guardian.
 
 ### B. The Dual Traumas: Poisoned Memories & The Silent Void
@@ -1023,9 +1027,9 @@ The relationship between Godric, Maria, and Battra forms the universe's most com
 
 Beyond the Trinity, Godric has cultivated deep, enduring bonds with a select group of Titans who form his inner circle and reflect different facets of his leadership.
 
-*   **[[Anguirus, the Stalwart Vanguard]]:** Alexios has served as Godric's right hand since the Mesozoic era, embodying unwavering loyalty and methodical precision. Their ancient brotherhood faces its first significant strain with Kong's introduction, as Anguirus develops [[Anguirus, the Stalwart Vanguard#The Kong Crisis|jealousy]] and fears replacement. His internal conflict is expressed through [[Atomic Amplification#Anguirus: The Shadow of Achievement|nocturnal, destructive training sessions]]—a silent ritual of loyalty and frustration.
-*   **Rodan: The Cosmic Witness:** Roman, Godric's [[beta-tier-document#Rodan: The Lord of the Skies|left hand]], embodies flamboyant adaptability. He is the perceptive “Cosmic Witness” who sees Godric and Maria's [[rodan_cosmic_witness#The Dusk Revelation|cosmic dance]] with heartbreaking clarity, his own impossible attraction to Maria making him acutely aware of their unspoken bond. His internal turmoil is channeled into increasingly chaotic [[Rodan, the Lord of the Skies#The Suppressed Volcano|experiments with Madison]]. Despite his theatrical nature, he is secretly an [[The Lineage System#Individual Transcendence: Scylla's Achievement|Ascendant]] species.
-*   **Kong: The Spiritual Brother & Surprising Sovereign:** Kevin is Godric's [[Kong, King of the Hollow Earth#Defining Traits|loyal challenger]] and [[Kong, King of the Hollow Earth#Relationship with Godzilla|confidant]], a kindred spirit who understands the burden of being “the last of his kind.” Their bond was forged through an unprecedented battle that ignited a joy for combat within Godzilla. Kong's unexpected ascension to [[sovereign-title-history#Kong: The Unexpected Sovereign|Alpha Sovereign]]—despite being Null, Non, and Akraton—shocked the Titan world, forcing the quartet to evolve.
+*   **Kong: The Spiritual Brother & Surprising Sovereign:** [[Kong, King of the Hollow Earth.md#Core Identity|Kevin]] is Godric's [[Kong, King of the Hollow Earth.md#Defining Traits|loyal challenger]] and [[Kong, King of the Hollow Earth.md#Relationship with Godzilla|confidant]], a kindred spirit who understands the burden of being “the last of his kind.” Their bond was forged through an [[Atomic Amplification.md#The Prototype|unprecedented battle]] that ignited a joy for combat within Godzilla. This combat revealed Kong's [[Kong, King of the Hollow Earth.md#Physical Attributes|Philosophical Conqueror's Will]]—an unshakable determination even without inherent Krátos abilities. Godric, recognizing this [[#The Krátos System: Defining Absolute Control|rare quality]], elevated Kong to [[sovereign-title-history.md#Kong: The Unexpected Sovereign|Alpha Sovereign]] of the Hollow Earth—a shocking move due to Kong's [[Kong, King of the Hollow Earth.md#Physical Appearance (Human Form)|youth]], his status as [[#The Krátos System: Defining Absolute Control|Null]], [[#The Krátos System: Defining Absolute Control|Non]], and [[#The Krátos System: Defining Absolute Control|Akráton]]. This choice served as the catalyst for the [[Plot Outline - Keystone Arc.md|Keystone Arc]], forcing the quartet to evolve. Their relationship exemplifies Godric's “Investment Philosophy” in action: he recognized Kong's raw philosophical will and chose to cultivate it, betting on his growth.
+*   **Anguirus: The Stalwart Vanguard:** [[Anguirus, the Stalwart Vanguard.md#Basic Information|Alexios]] has served as Godric's [[beta-tier-document.md#Anguirus: The Stalwart Vanguard|right hand]] since the Mesozoic era, embodying unwavering loyalty and methodical precision. Their ancient brotherhood faces its first significant strain with Kong's introduction, as Anguirus develops [[Anguirus, the Stalwart Vanguard.md#The Kong Crisis|jealousy]] and fears replacement. His internal conflict is expressed through [[Atomic Amplification.md#Anguirus: The Shadow of Achievement|nocturnal, destructive training sessions]]—a silent ritual of loyalty and frustration.
+*   **Rodan: The Cosmic Witness:** [[Rodan, the Lord of the Skies.md#Basic Information|Roman]], Godric's [[beta-tier-document.md#Rodan: The Lord of the Skies|left hand]], embodies flamboyant adaptability. He is the perceptive “[[rodan_cosmic_witness.md#Overview|Cosmic Witness]]” who sees Godric and Maria's [[sun_moon_motif.md#Core Symbolic Framework|cosmic dance]] with heartbreaking clarity, his own [[rodan_cosmic_witness.md#The Awakening Moment|impossible attraction]] to Maria making him acutely aware of their unspoken bond. His internal turmoil is channeled into increasingly chaotic [[Rodan, the Lord of the Skies.md#The Suppressed Volcano|experiments with Madison]]. Despite his theatrical nature, he is secretly an [[The Lineage System.md#Individual Transcendence: Scylla's Achievement|Ascendant]] species.
 
 #### 5. The First Family: His Human Connection
 
@@ -1041,13 +1045,12 @@ Godric's most significant antagonists have, ironically, served as powerful catal
 
 *   **Mother Prime:** The arch-parasite whose engineered bio-cultural disease shattered the *Titanus gojira* species and indirectly caused Dagon's sacrifice. Her machinations (and subsequent defeat by Godzilla) were the ultimate impetus for his revenge, but also the origin of his deepest, healing trauma. She represents the embodiment of destructive obsession.
 *   **Skar King:** The brutal, power-hungry [[Kong, King of the Hollow Earth#Core Identity|Kong warlord]] who deposed Kong's royal lineage and caused the scattering of his species. His ancient acts, including the re-burial of the Fallen Star, created a spiritual kinship between Godzilla and Kong, making them “spiritual brothers” unknowingly linked by history and destiny. Skar King represents ruthless ambition.
-*   **Battra:** The “Self-Made
-* Master,” whose cosmic conflict with Godric in the Xilien Invasion became a [[The Pinnacle of Limitless Adaptation|crucible of accelerated evolution]]. Battra, driven by his own “perfection imperative,” unwittingly forced Godric to unlock his deepest [[Atomic Amplification#Uniform Distribution: The Breakthrough|Kratos potential]] and achieve breakthroughs in efficiency and sensory integration. He represents challenging excellence.
-*   **Ghidorah:** The “False King” and [[The Fundamental Forces Theory#Ghidorah - The Incomplete Usurper|incomplete usurper]], whose raw, destructive power and ability to manipulate gravity and electromagnetism forced Godzilla to achieve his “Burning Form” and understand the true scope of Kratos. Ghidorah represents chaotic opposition and usurpation.
+*   **Battra:** The “Self-Made Master,” whose cosmic conflict with Godric in the Xilien Invasion became a [[The Pinnacle of Limitless Adaptation|crucible of accelerated evolution]]. Battra, driven by his own “perfection imperative,” unwittingly forced Godric to unlock his deepest [[Atomic Amplification#Uniform Distribution: The Breakthrough|Krátos potential]] and achieve breakthroughs in efficiency and sensory integration. He represents challenging excellence.
+*   **Ghidorah:** The “False King” and [[The Fundamental Forces Theory#Ghidorah - The Incomplete Usurper|incomplete usurper]], whose raw, destructive power and ability to manipulate gravity and electromagnetism forced Godzilla to achieve his “Burning Form” and understand the true scope of Krátos. Ghidorah represents chaotic opposition and usurpation.
 
-### E. Adaptive Psychology: The Mind of a Nomothete Kratos
+### E. Adaptive Psychology: The Mind of a Nomothete Krátos
 
-Godric's mastery of Kratos is not merely a biological inheritance; it is a profound expression of his unique psychology. His strengths, limitations, and every breakthrough are inextricably tied to his innermost conflicts, particularly his hyperthymesia-fueled trauma and his relentless pursuit of control. He is a Nomothete Kratos whose mind dictates the laws of his power.
+Godric's mastery of Krátos is not merely a biological inheritance; it is a profound expression of his unique psychology. His strengths, limitations, and every breakthrough are inextricably tied to his innermost conflicts, particularly his hyperthymesia-fueled trauma and his relentless pursuit of control. He is a Nomothete Krátos whose mind dictates the laws of his power.
 
 #### 1. Sensory Processing: The Apex Predator's Integrated Sphere
 
@@ -1060,9 +1063,9 @@ Godric's sensory capabilities represent the pinnacle of his species' limitless a
 *   **The Micromanagement Weakness:** Despite this apparent perfection, Godric exhibits a critical self-imposed vulnerability: **microsecond delays when transitioning between sensory modalities**. This stems from his tendency to micromanage his senses rather than trusting automatic integration.
     *   **Psychological Roots:** This micromanagement is rooted in his deep-seated fear of abandonment (leading to a need for absolute control) and fear of destruction (leading to overcaution). He treats automatic responses as potential “abandonment” of responsibility or a loss of control over his destructive power. He remains unaware of this limitation, believing his micromanagement is simply careful control.
 
-#### 2. Kratos Application: From Caged Sun to Uncaged Power
+#### 2. Krátos Application: From Caged Sun to Uncaged Power
 
-Godric's journey to mastering his Kratos abilities is a profound psychological struggle to overcome self-imposed limitations, embodying the metaphor of “[[godric_energy_limitations#The Caged Sun: Godric's Hidden Universal Energy Control and Psychological Limitations|The Caged Sun]].” His innate capacity for universal energy control has been artificially constrained by centuries of species tradition and his personal psychological barriers.
+Godric's journey to mastering his Krátos abilities is a profound psychological struggle to overcome self-imposed limitations, embodying the metaphor of “[[godric_energy_limitations#The Caged Sun: Godric's Hidden Universal Energy Control and Psychological Limitations|The Caged Sun]].” His innate capacity for universal energy control has been artificially constrained by centuries of species tradition and his personal psychological barriers.
 
 *   **Triple-Layered Stubbornness:** His primary psychological obstacle is a [[atomic_amplification_energy_domination#Triple-Layered Stubbornness|triple-layered stubbornness]]:
     1.  **Species-Wide Orthodoxy:** The *Titanus gojira* species culturally believed energy manipulation beyond projection was impossible.
@@ -1087,7 +1090,7 @@ Godric's combat encounters are not merely battles; they are crucibles of acceler
 During the Xilien Invasion climax, particularly in his confrontation with Battra, Godric briefly achieved a state of perfect energy control dubbed “The Zone.” This was a profound psychological and physical liberation.
 
 *   **Trigger & Effects:** Triggered by fighting his adapting shadow clone (powered by the Heart of Protean), he entered a flow state where all psychological barriers dissolved. His concentration narrowed to “only the fight, only evolution,” achieving effortless action, time distortion, and complete psychological liberation from his fears of abandonment, control needs, and identity constraints.
-*   **The Uncaged Sun:** This psychological breakthrough allowed him spontaneous access to his Burning Form, his ultimate transformation. His immense power, previously constrained, was finally uncaged, illuminating all possibilities within his Kratos ability.
+*   **The Uncaged Sun:** This psychological breakthrough allowed him spontaneous access to his Burning Form, his ultimate transformation. His immense power, previously constrained, was finally uncaged, illuminating all possibilities within his Krátos ability.
 *   **The Resolution of Control:** “The Zone” taught him that true control comes from **inner peace and trust in himself**, rather than brute force or micromanagement. This insight transforms his perception of power from a burden to be controlled, into a natural extension of his being.
 
 ## VII. History: The Saga of the Gojira & The Human Rebirth
@@ -1102,7 +1105,7 @@ The earliest chapters of Titan history are shrouded in myth, yet they describe t
 
 The cosmos instilled its earliest forms of unparalleled power into two distinct lineages, setting them apart from all other Titan species.
 
-*   **The Gojira's Ascension: Gift of the Fallen Star:** The ancestors of the *Titanus gojira* were originally unremarkable Emergent saurian species in the Late Permian. Their destiny irrevocably changed with the arrival of the **Fallen Star** (also known as the **Blue Star**), a cosmic entity that violently crashed to Earth. This immense, energy-pulsating meteor transformed the proto-gojira. Overnight, they were collectively elevated to an Ascendant Lineage, gifted with Kratos, the power of dominance over physical forces and energy. This gift made them capable of planetary-scale impact, setting them on a path of unprecedented evolution and making them, literally, “world-changers.”
+*   **The Gojira's Ascension: Gift of the Fallen Star:** The ancestors of the *Titanus gojira* were originally unremarkable Emergent saurian species in the Late Permian. Their destiny irrevocably changed with the arrival of the **Fallen Star** (also known as the **Blue Star**), a cosmic entity that violently crashed to Earth. This immense, energy-pulsating meteor transformed the proto-gojira. Overnight, they were collectively elevated to an Ascendant Lineage, gifted with Krátos, the power of dominance over physical forces and energy. This gift made them capable of planetary-scale impact, setting them on a path of unprecedented evolution and making them, literally, “world-changers.”
  
  > [!info] The Lost Nexus
  > The Fallen Star became the sacred spiritual nexus for the Gojira, central to their rituals and concept of death (“from energy, to energy”). Tragically, its location was lost to all, including Godric himself, after its ancient relocation by an Eastern Gojira and its subsequent re-burial deep within the [[Kong, King of the Hollow Earth#Physical Appearance (Human Form)|Hollow Earth]] by Skar King. Godric remains unaware of its existence.
@@ -1154,7 +1157,7 @@ The *Titanus gojira* adapted to the disease, as was their nature, but the counte
     *   **Familial Disintegration:** The North's traditional betrothal trials ceased, destroying a vital source of familial bonding.
     *   **Territorial Isolation:** Formerly tight-knit territories, where family units bordered one another, were drastically expanded, creating massive gaps to avoid disease spread. This led to extreme isolation, making them prone to ignore pleas from others and hindering socialization for hatchlings.
     *   **Cultural Erosion:** The East's meticulous documentation ceased, and the North grew increasingly distant from other factions, further eroding cultural cohesion.
-*   **Biological Vulnerabilities:** The South, in a desperate attempt to compensate for population loss, intensified their genetic mixing. This proved catastrophic, as it diluted the pure Gojira lineage, producing beings like [[TITANUS ZILLA SPECIES PROFILE|Titanus zilla]] who, lacking the core Kratos and Limitless Adaptation abilities, became easy prey for Mother Prime's forces.
+*   **Biological Vulnerabilities:** The South, in a desperate attempt to compensate for population loss, intensified their genetic mixing. This proved catastrophic, as it diluted the pure Gojira lineage, producing beings like [[TITANUS ZILLA SPECIES PROFILE|Titanus zilla]] who, lacking the core Krátos and Limitless Adaptation abilities, became easy prey for Mother Prime's forces.
 *   **A Slow, Agonizing Defeat:** The disease fundamentally inverted every facet of the *Titanus gojira*'s existence. They were not defeated by brute force, but by the subtle, systematic dismantling of their way of life. The fact that they persisted for another 500,000 years after the disease's initial deployment speaks volumes about their tenacity, yet it was a slow march towards their cultural and eventual biological death.
 
 #### 3. The Demise of the Factions and The Disappearance of the Fallen Star
@@ -1166,7 +1169,7 @@ The *Titanus gojira*'s decline was a progressive factional collapse over million
     *   **Eastern Decline:** Second major collapse (~10-5 million years ago) from reduced coastal radiation and localized parasitism.
     *   **Southern Devastation:** Most rapid decline (~3-1 million years ago) due to concentrated MUTO Prime infestation, leading to desperate hybridization attempts.
     *   **Northern Endurance:** The last surviving faction, resilient due to isolated territories and coordinated defense, but ultimately dwindling.
-*   **The Lost Star:** During this period, the **Fallen Star**, their spiritual nexus and source of Kratos, was moved discreetly from its original guarded location by a lone Eastern Gojira, who was meticulously performing the final rites for deceased members from all factions. This act was witnessed by a daughter of Mother Prime. In a furious tantrum, Mother Prime personally confronted this Easterner, using EMP shockwaves that caused the cavern to collapse. While Mother Prime escaped, the Fallen Star was buried deeper into the Hollow Earth, becoming permanently inaccessible to all Titans, including the Gojira themselves.
+*   **The Lost Star:** During this period, the **Fallen Star**, their spiritual nexus and source of Krátos, was moved discreetly from its original guarded location by a lone Eastern Gojira, who was meticulously performing the final rites for deceased members from all factions. This act was witnessed by a daughter of Mother Prime. In a furious tantrum, Mother Prime personally confronted this Easterner, using EMP shockwaves that caused the cavern to collapse. While Mother Prime escaped, the Fallen Star was buried deeper into the Hollow Earth, becoming permanently inaccessible to all Titans, including the Gojira themselves.
 
  > [!error] A Sacred Loss
  > This event was a profound tragedy: their most sacred artifact, responsive only to the Gojira, became forever out of reach. In their ignorance, the Jinshin-Mushi believed they had thwarted a Gojira strategy, unaware of the Star's true significance or their inability to ever access its power themselves.
@@ -1260,6 +1263,6 @@ Godric's reign as Alpha Paramount, already unprecedented in its 250-million-year
 The post-Antitheriomorphosis era is defined by a series of pivotal narrative arcs that reshape Godric's relationships, his understanding of his powers, and his role as a universal guardian.
 
 *   **a. The Keystone Arc: Transformation of the Quartet (2025):** The [[Plot Outline - Keystone Arc|Keystone Arc]] formalizes Kong's integration into the Titan leadership. His presence acts as a catalyst, forcing Godric, Maria, Anguirus, and Rodan to confront [[Plot Outline - Keystone Arc#Major Themes|stagnation]] in their ancient relationships. The arc culminates with the grand opening of [[Keep Charlie#Architecture|Monster Island Palace]], a physical manifestation of their transformed governance structure. This arc also marks [[Battra, the Lord of the Mystic Arts#History|Battra's]] reintegration, into the hierarchy via “The Vow.”
-*   **b. The Xilien Invasion Arc: Crucible of Adaptation (2023-2024):** This pivotal conflict with Battra (now allied with the Xiliens) is a defining crucible for Godric. Battra, utilizing his Umbra Simulacrum and the Heart of Protean, unwittingly pushes Godric to transcend his self-imposed Kratos limitations. It's where Godric achieves major breakthroughs in Atomic Amplification and Atomic Railgun efficiency, unlocks his “Zone” state, and begins to fully understand his universal energy control. This battle also highlights his unique anti-supernatural capabilities.
+*   **b. The Xilien Invasion Arc: Crucible of Adaptation (2023-2024):** This pivotal conflict with Battra (now allied with the Xiliens) is a defining crucible for Godric. Battra, utilizing his Umbra Simulacrum and the Heart of Protean, unwittingly pushes Godric to transcend his self-imposed Krátos limitations. It's where Godric achieves major breakthroughs in Atomic Amplification and Atomic Railgun efficiency, unlocks his “Zone” state, and begins to fully understand his universal energy control. This battle also highlights his unique anti-supernatural capabilities.
 *   **c. The Romance Arc: The Slow Burn & The Blue House (2025-202X):** This arc details the gradual, inevitable romance between Godric and Maria. It begins with the Winter Cycle, where forced domesticity and Godric's vulnerable processing of his Dagon trauma lead to their first kiss. It solidifies in the Blue House at Maple Street Arc, where their cover as a married couple living in Meadowvale forces them to confront and embrace their true feelings. This period focuses on their [[sun_moon_motif#Core Symbolic Framework|Sun and Moon dynamic]] and their wedding rings becoming symbols of a cover that transformed into reality.
 *   **d. Future Arc: The Dagon Resurrection (2026):** Set after Godric and Maria's relationship formalization, the Dagon Resurrection Arc is a pivotal future event. The [[Dagon, the Last Northern Patriarch#Core Identity|Bilusaludo]]'s theft of Dagon's remains forces a confrontation that culminates in Dagon's resurrection in human form. This event provides ultimate emotional closure for Godric's 250-million-year trauma and introduces Dagon as a key character with unique insights into the [[Antitheriomorphosis#Core Universe Definition|Antitheriomorphosis process]].
