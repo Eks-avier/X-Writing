@@ -3,24 +3,20 @@
 ## Early Theories on Light
 
 - **Particle Theory** (Isaac Newton)
-	- Light consists of particles called "corpuscles"
+	- Light consists of particles called “corpuscles”
 	- Explained reflection and some refraction phenomena
 	- Struggled with interference and diffraction
-
 - **Wave Theory** (Christiaan Huygens)
 	- Light is a wave phenomenon
 	- Successfully explained interference, diffraction, and polarization
 	- Huygens' Principle: Every point on a wavefront acts as a source of secondary wavelets
-
 - **Electromagnetic Wave Theory** (James Clerk Maxwell)
 	- Light is an electromagnetic wave with electric and magnetic field components
 	- Speed of light: $c = 3.00 \times 10^8$ m/s in vacuum
 	- Relationship: $c = f\lambda$ where $f$ is frequency and $\lambda$ is wavelength
-
 - **Quantum Theory** (Max Planck, Albert Einstein)
 	- Light travels in discrete energy packets called photons
 	- Energy of a photon: $E = hf = \frac{hc}{\lambda}$ where $h = 6.626 \times 10^{-34}$ J·s
-
 - **Wave-Particle Duality**: Light exhibits both wave and particle properties depending on the experimental setup
 
 ## Characteristics of Light
@@ -41,7 +37,6 @@
 - **Specular Reflection**: Mirror-like reflection from smooth surfaces
 	- Follows laws of reflection precisely
 	- Produces clear, well-defined images
-
 - **Diffuse Reflection**: Scattering from rough surfaces
 	- Each ray follows laws of reflection locally
 	- No clear image formation due to surface irregularities
@@ -60,7 +55,7 @@
 **For mirrors, using the convention where light travels from left to right:**
 
 - **Object distance** ($d_o$): Always positive for real objects
-- **Image distance** ($d_i$): 
+- **Image distance** ($d_i$):
 	- Positive for real images (in front of mirror)
 	- Negative for virtual images (behind mirror)
 - **Focal length** ($f$):
@@ -93,7 +88,7 @@ $$m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$$
 
 **Interpretation of Magnification:**
 - $|m| > 1$: Image is larger than object (magnified)
-- $|m| < 1$: Image is smaller than object (diminished)  
+- $|m| < 1$: Image is smaller than object (diminished)
 - $|m| = 1$: Image is same size as object
 - $m > 0$: Image is upright (virtual)
 - $m < 0$: Image is inverted (real)
@@ -101,6 +96,7 @@ $$m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$$
 ## Image Characteristics by Mirror Type
 
 ### Plane Mirrors
+
 - **Always produces**: Virtual, upright, same size, laterally reversed
 - Image distance equals object distance: $d_i = -d_o$
 - Magnification: $m = +1$
@@ -112,7 +108,7 @@ $$m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$$
 - $0 < d_i < R$, $m < 0$, $|m| < 1$
 
 **Object at center of curvature** ($d_o = R$):
-- Real, inverted, same size image  
+- Real, inverted, same size image
 - $d_i = R$, $m = -1$
 
 **Object between center and focal point** ($f < d_o < R$):
@@ -137,12 +133,14 @@ $$m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$$
 ## Ray Tracing Rules
 
 ### For Concave Mirrors:
+
 1. Ray parallel to principal axis reflects through focal point
 2. Ray through focal point reflects parallel to principal axis
 3. Ray through center of curvature reflects back on itself
 4. Ray hitting vertex reflects with equal angles to principal axis
 
 ### For Convex Mirrors:
+
 1. Ray parallel to principal axis reflects as if coming from focal point
 2. Ray directed toward focal point reflects parallel to principal axis
 3. Ray directed toward center of curvature reflects back on itself
@@ -202,7 +200,7 @@ where:
 - Light slows down
 
 **When light enters a less dense medium** ($n_1 > n_2$):
-- Light bends **away from** the normal  
+- Light bends **away from** the normal
 - $\theta_2 > \theta_1$
 - Light speeds up
 
@@ -222,7 +220,7 @@ $\sin \theta_c = \frac{n_2}{n_1} \quad \text{(where } n_1 > n_2\text{)}$
 ### Applications of Total Internal Reflection
 
 - **Optical fibers**: Light guidance in telecommunications
-- **Prisms**: Light direction in optical instruments  
+- **Prisms**: Light direction in optical instruments
 - **Diamonds**: Brilliance due to high refractive index
 - **Mirages**: Atmospheric refraction effects
 
@@ -236,7 +234,7 @@ $\sin \theta_c = \frac{n_2}{n_1} \quad \text{(where } n_1 > n_2\text{)}$
 - Parallel rays converge to focal point
 
 **Diverging Lenses (Concave)**:
-- Thinner at center than edges  
+- Thinner at center than edges
 - Focal length is negative ($f < 0$)
 - Parallel rays appear to diverge from focal point
 
@@ -245,7 +243,7 @@ $\sin \theta_c = \frac{n_2}{n_1} \quad \text{(where } n_1 > n_2\text{)}$
 **For lenses, using the convention where light travels from left to right:**
 
 - **Object distance** ($d_o$): Positive for real objects (left of lens)
-- **Image distance** ($d_i$): 
+- **Image distance** ($d_i$):
   - Positive for real images (right of lens)
   - Negative for virtual images (left of lens)
 - **Focal length** ($f$):
@@ -311,24 +309,28 @@ $P = \frac{1}{f} \quad \text{(when } f \text{ is in meters)}$
 ## Ray Tracing for Lenses
 
 ### Converging Lens Rules:
+
 1. Ray parallel to axis passes through focal point
 2. Ray through focal point emerges parallel to axis
 3. Ray through optical center passes straight through
 
 ### Diverging Lens Rules:
+
 1. Ray parallel to axis appears to come from focal point
-2. Ray toward focal point emerges parallel to axis  
+2. Ray toward focal point emerges parallel to axis
 3. Ray through optical center passes straight through
 
 ## Problem-Solving Strategy for Refraction
 
 ### For Snell's Law Problems:
+
 1. **Identify the media** and their indices of refraction
 2. **Measure angles from the normal** (not from surface)
 3. **Apply Snell's Law**: $n_1 \sin \theta_1 = n_2 \sin \theta_2$
 4. **Check for total internal reflection** if going from dense to less dense medium
 
 ### For Lens Problems:
+
 1. **Identify lens type** and determine sign of focal length
 2. **Apply sign conventions** consistently
 3. **Use thin lens equation** to find unknown distances
@@ -348,6 +350,7 @@ where:
 ## Practical Applications
 
 ### Refraction Applications:
+
 - **Eyeglasses**: Correcting vision defects
 - **Cameras**: Focusing light onto sensors
 - **Telescopes**: Magnifying distant objects
@@ -355,6 +358,7 @@ where:
 - **Fiber optics**: High-speed data transmission
 
 ### Lens Combinations:
+
 - **Compound microscopes**: Objective + eyepiece
 - **Telescopes**: Various lens arrangements
 - **Camera systems**: Multiple lens elements for image quality
