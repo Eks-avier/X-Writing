@@ -181,8 +181,9 @@ where $c$ is speed of light in vacuum and $v$ is speed in the medium.
 ### Snell's Law
 
 When light passes from one medium to another:
-$n_1 \sin \theta_1 = n_2 \sin \theta_2$
-
+$$
+n_1 \sin \theta_1 = n_2 \sin \theta_2
+$$
 where:
 - $n_1, n_2$ are indices of refraction
 - $\theta_1$ is angle of incidence (measured from normal)
