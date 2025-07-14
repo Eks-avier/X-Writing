@@ -121,9 +121,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Untitled.md",
+                "file": "College/Light.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Light"
             }
           }
         ],
@@ -299,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Titans/Hierarchy/Untitled.md",
+                "file": "College/Light.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Light"
             }
           },
           {
@@ -371,8 +371,8 @@
   },
   "active": "9ab5b634939ddfe0",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
+    "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
