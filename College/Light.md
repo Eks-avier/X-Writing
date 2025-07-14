@@ -164,201 +164,158 @@ $$m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$$
 
 # Refraction and Lenses
 
-## Fundamentals of Refraction
+## Refraction Fundamentals
 
-**Refraction** is the bending of light when it passes from one medium to another with different optical densities.
+### Index of Refraction
 
-### Key Terminology
+The index of refraction quantifies how much light slows down in a medium:
+$n = \frac{c}{v}$
+where $c$ is speed of light in vacuum and $v$ is speed in the medium.
 
-- **Index of Refraction** ($n$): Measure of how much light slows down in a medium
-  $n = \frac{c}{v}$
-  where $c$ = speed of light in vacuum, $v$ = speed of light in medium
-
-- **Common Indices of Refraction** (at λ = 589 nm):
-  - Vacuum: $n = 1.000$ (exactly)
-  - Air: $n = 1.000$ (approximately)
-  - Water: $n = 1.333$
-  - Glass (crown): $n = 1.52$
-  - Diamond: $n = 2.42$
+**Common indices:**
+- Air: $n \approx 1.00$
+- Water: $n = 1.33$
+- Glass: $n \approx 1.5$
+- Diamond: $n = 2.42$
 
 ### Snell's Law
 
+When light passes from one medium to another:
 $n_1 \sin \theta_1 = n_2 \sin \theta_2$
 
 where:
-- $n_1$, $n_2$ = indices of refraction of media 1 and 2
-- $\theta_1$ = angle of incidence (measured from normal)
-- $\theta_2$ = angle of refraction (measured from normal)
+- $n_1, n_2$ are indices of refraction
+- $\theta_1$ is angle of incidence (measured from normal)
+- $\theta_2$ is angle of refraction (measured from normal)
 
-**Physical Meaning**: The product of index and sine of angle remains constant across the boundary.
-
-### Refraction Behavior
-
-**When light enters a denser medium** ($n_2 > n_1$):
-- Light bends **toward** the normal
-- $\theta_2 < \theta_1$
-- Light slows down
-
-**When light enters a less dense medium** ($n_1 > n_2$):
-- Light bends **away from** the normal
-- $\theta_2 > \theta_1$
-- Light speeds up
+**Key behaviors:**
+- Light bends **toward** normal when entering denser medium ($n_2 > n_1$)
+- Light bends **away** from normal when entering less dense medium ($n_2 < n_1$)
 
 ## Total Internal Reflection
 
 ### Critical Angle
 
-When light travels from a denser to less dense medium, there exists a **critical angle** $\theta_c$ where the refracted ray grazes along the boundary ($\theta_2 = 90°$).
+When light travels from denser to less dense medium, total internal reflection occurs when:
+$\theta_c = \sin^{-1}\left(\frac{n_2}{n_1}\right)$
 
-$\sin \theta_c = \frac{n_2}{n_1} \quad \text{(where } n_1 > n_2\text{)}$
+**Applications:**
+- Optical fibers
+- Prisms in binoculars
+- Diamond brilliance
 
-**For angles greater than critical angle** ($\theta_1 > \theta_c$):
-- **Total Internal Reflection** occurs
-- No light passes into the second medium
-- All light is reflected back into the first medium
+## Lenses
 
-### Applications of Total Internal Reflection
-
-- **Optical fibers**: Light guidance in telecommunications
-- **Prisms**: Light direction in optical instruments
-- **Diamonds**: Brilliance due to high refractive index
-- **Mirages**: Atmospheric refraction effects
-
-## Thin Lenses
-
-### Lens Types
+### Types of Lenses
 
 **Converging Lenses (Convex)**:
-- Thicker at center than edges
-- Focal length is positive ($f > 0$)
-- Parallel rays converge to focal point
+- Thicker in center than edges
+- Focal length is positive: $f > 0$
+- Converge parallel rays to a focal point
 
 **Diverging Lenses (Concave)**:
-- Thinner at center than edges
-- Focal length is negative ($f < 0$)
-- Parallel rays appear to diverge from focal point
+- Thinner in center than edges
+- Focal length is negative: $f < 0$
+- Diverge parallel rays as if from a focal point
 
-### Lens Sign Conventions
+## Thin Lens Equation
 
-**For lenses, using the convention where light travels from left to right:**
-
-- **Object distance** ($d_o$): Positive for real objects (left of lens)
-- **Image distance** ($d_i$):
-  - Positive for real images (right of lens)
-  - Negative for virtual images (left of lens)
-- **Focal length** ($f$):
-  - Positive for converging lenses
-  - Negative for diverging lenses
-- **Heights**: Positive above optical axis, negative below
-
-### Thin Lens Equation
-
+The same form as the mirror equation:
 $\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}$
 
-*Same form as mirror equation, but different sign conventions!*
+### Sign Conventions for Lenses
+
+**Focal Length:**
+- $f$ is **positive** for a **converging lens**
+- $f$ is **negative** for a **diverging lens**
+
+**Object Distance:**
+- $d_o$ is **positive** if object is to the **left** of lens
+- $d_o$ is **negative** if object is to the **right** of lens
+
+**Image Distance:**
+- $d_i$ is **positive** for image formed to **right** of lens (**real image**)
+- $d_i$ is **negative** for image formed to **left** of lens (**virtual image**)
+
+**Magnification:**
+- $m$ is **positive** for **upright** image
+- $m$ is **negative** for **inverted** image
 
 ### Lens Magnification
 
+Same equations as mirrors:
 $m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$
-
-**Interpretation**:
-- $|m| > 1$: Magnified image
-- $|m| < 1$: Diminished image
-- $m > 0$: Upright image (virtual)
-- $m < 0$: Inverted image (real)
-
-### Lens Power
-
-$P = \frac{1}{f} \quad \text{(when } f \text{ is in meters)}$
-
-**Units**: Diopters (D) = m⁻¹
-- Converging lens: $P > 0$
-- Diverging lens: $P < 0$
 
 ## Image Formation by Lenses
 
-### Converging Lenses
+### Converging Lenses ($f > 0$)
 
-**Object beyond 2F** ($d_o > 2f$):
+**Object beyond 2f** ($d_o > 2f$):
 - Real, inverted, diminished
-- $f < d_i < 2f$
+- $f < d_i < 2f$, $m < 0$, $|m| < 1$
 
-**Object at 2F** ($d_o = 2f$):
+**Object at 2f** ($d_o = 2f$):
 - Real, inverted, same size
 - $d_i = 2f$, $m = -1$
 
-**Object between F and 2F** ($f < d_o < 2f$):
+**Object between f and 2f** ($f < d_o < 2f$):
 - Real, inverted, magnified
-- $d_i > 2f$
+- $d_i > 2f$, $m < 0$, $|m| > 1$
 
 **Object at focal point** ($d_o = f$):
-- No image (parallel rays exit)
+- No image (parallel rays emerge)
 - $d_i = \infty$
 
 **Object inside focal length** ($d_o < f$):
 - Virtual, upright, magnified
-- $d_i < 0$, acts as magnifying glass
+- $d_i < 0$, $m > 0$, $|m| > 1$
 
-### Diverging Lenses
+### Diverging Lenses ($f < 0$)
 
 **All object positions**:
 - Always virtual, upright, diminished
-- Image always between lens and focal point
-- $d_i < 0$, $0 < |m| < 1$
+- $d_i < 0$, $m > 0$, $|m| < 1$
 
 ## Ray Tracing for Lenses
 
 ### Converging Lens Rules:
 
-1. Ray parallel to axis passes through focal point
-2. Ray through focal point emerges parallel to axis
-3. Ray through optical center passes straight through
+1. Ray parallel to axis refracts through far focal point
+2. Ray through near focal point emerges parallel to axis
+3. Ray through center passes straight through (undeviated)
 
 ### Diverging Lens Rules:
 
-1. Ray parallel to axis appears to come from focal point
-2. Ray toward focal point emerges parallel to axis
-3. Ray through optical center passes straight through
+1. Ray parallel to axis refracts as if from near focal point
+2. Ray toward far focal point emerges parallel to axis
+3. Ray through center passes straight through
 
-## Problem-Solving Strategy for Refraction
+## Lens Vs Mirror Comparison
 
-### For Snell's Law Problems:
+| Property | Mirrors | Lenses |
+|----------|---------|---------|
+| Fundamental Equation | $\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}$ | $\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}$ |
+| Physical Process | Reflection | Refraction |
+| Real Image Location | In front of mirror | Behind lens |
+| Virtual Image Location | Behind mirror | In front of lens |
+| Sign Convention Basis | Light direction | Light direction |
 
-1. **Identify the media** and their indices of refraction
-2. **Measure angles from the normal** (not from surface)
-3. **Apply Snell's Law**: $n_1 \sin \theta_1 = n_2 \sin \theta_2$
-4. **Check for total internal reflection** if going from dense to less dense medium
+## Applications
 
-### For Lens Problems:
+**Converging Lenses:**
+- Camera lenses
+- Magnifying glasses
+- Telescope objectives
+- Human eye lens
 
-1. **Identify lens type** and determine sign of focal length
-2. **Apply sign conventions** consistently
-3. **Use thin lens equation** to find unknown distances
-4. **Calculate magnification** for image characteristics
-5. **Verify physical reasonableness** of results
+**Diverging Lenses:**
+- Correcting nearsightedness
+- Peepholes in doors
+- Wide-angle camera lenses
+- Beam expanders
 
-## The Lensmaker's Equation
-
-For understanding how lens shape affects focal length:
-
-$\frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right)$
-
-where:
-- $n$ = refractive index of lens material
-- $R_1$, $R_2$ = radii of curvature of lens surfaces
-
-## Practical Applications
-
-### Refraction Applications:
-
-- **Eyeglasses**: Correcting vision defects
-- **Cameras**: Focusing light onto sensors
-- **Telescopes**: Magnifying distant objects
-- **Microscopes**: Magnifying small objects
-- **Fiber optics**: High-speed data transmission
-
-### Lens Combinations:
-
-- **Compound microscopes**: Objective + eyepiece
-- **Telescopes**: Various lens arrangements
-- **Camera systems**: Multiple lens elements for image quality
+**Total Internal Reflection:**
+- Fiber optic communications
+- Medical endoscopes
+- Automotive light guides
+- Optical sensors
