@@ -466,17 +466,24 @@ The foundational ability of the *Titanus gojira* lineage, Limitless Adaptation, 
 
 The second, and ultimately more potent, pillar of Gojira power is their inherent connection to **Kratos**—the direct, absolute control over physical forces and energy. This is not merely a specialized talent but a fundamental mode of interaction with reality.
 
-##### A. The Kratos System: Defining Absolute Control
+#### 2. Krátos: The Power of Dominance
 
-Kratos is the power system governing **absolute control** over physical forces and energy. A being who possesses this inherited biological capacity is classified as a **Kraton** (plural: Kratons). Those who do not are **Akratons**. This power is not trainable; it is an inherited trait, driven by the individual's **willpower**.
+The second, and ultimately more potent, pillar of Gojira power is their inherent connection to **Krátos**—the direct, absolute control over physical forces and energy. This is not merely a specialized talent but a fundamental mode of interaction with reality.
 
-*   **Categorical Supremacy:** A Kraton's will over a specific type of force or energy cannot be superseded by a psychic or a sorcerer. To wrestle control, Unnons (psychics) or Unnuls (sorcerers) must possess vastly greater skill, knowledge, and most importantly, *willpower* than the Kraton, and even then, victory is not guaranteed.
+##### a. The Krátos System: Defining Absolute Control
+
+Krátos is the power system governing **absolute control** over physical forces and energy. A being who possesses this inherited biological capacity is classified as a **Kráton** (plural: Kráton's). Those who do not are **Akrátons**. This power cannot be learned or trained; it is an inherited trait, driven by the individual's **willpower**.
+
+*   **Categorical Supremacy:** A Kráton's will over a specific type of force or energy cannot be superseded by a [[Psionics#Fundamental Distinctions|psychic]] or a [[Magic#Fundamental Distinctions|sorcerer]]. To wrestle control, Unnons (psychics) or Unnuls (sorcerers) must possess vastly greater skill, knowledge, and most importantly, *willpower* than the Kráton, and even then, victory is not guaranteed.
 *   **Practitioner Specializations:** Kratons are typically defined by their specialized domain of control (e.g., Geokineton for geological forces, Hydrokineton for water, Pyron for fire, Aeroton for air, Magneton for magnetism, Thermon for thermal energy, Vibron for vibrations/seismic, Cryoton for ice/cold).
-*   **Prodigy Titles (In-Universe Honorifics):** For beings who possess absolute control over **multiple forces/energies** or achieve **planetary-scale dominance** over their specialized force, specific honorifics are used in-universe, which also serve as names for their unparalleled abilities:
-    *   **Conqueror:** (e.g., [[Dagon, the Last Northern Patriarch#Human Form (Post-Resurrection)|Ghidorah]] as a “Gravitational/Electromagnetic Conqueror”). This title implies a being who subjugates and imposes their will through raw power, often devastatingly. Godzilla, as the ultimate master of nuclear and atomic energy, is an “Atomic/Nuclear Conqueror.”
-    *   **Archon:** (e.g., Battra's likely preferred term for a master of forces). This implies a being who inherently rules or sets the law over their domain with fundamental authority, often with elegance. Godzilla could also be referred to as an “Atomic Archon.”
-    *   These terms are often used interchangeably in-universe, reflecting different perspectives on the same absolute mastery.
-*   **Nomothete (Ultimate Mastery Level):** This is the apex of mastery within *any* power system (Kratos, Psionics, or Magic). A Nomothete is a practitioner who transcends the normal rules of their system, seeming to “write and break its laws” through sheer will and understanding. Godric himself is a Nomothete Kratos.
+*   **Conqueror's Will:** A **rare** and exceptional quality of willpower unique to a select few Kráton's, signifying the unshakable conviction to move forward and impose one's reality regardless of obstacles. Normal Kráton's do not possess this. There are two types:
+    *   **Philosophical Conqueror's Will:** The mental and spiritual quality of unbreakable determination (e.g., [[Kong, King of the Hollow Earth.md#Defining Traits|Kong]]). This quality can be found across many species and individuals, even Akrátons.
+    *   **Technical Conqueror's Will:** Philosophical Conqueror's Will combined with the inherited Krátos power and planetary-scale capability to actually enforce one's will upon reality (e.g., [[#Godzilla: The Atomic Archon/Conqueror|Godzilla]], [[Dagon, the Last Northern Patriarch.md#Human Form (Post-Resurrection)|Ghidorah]]). This is exceptionally rare across the cosmos.
+*   **Prodigy Titles (In-Universe Honorifics):** For beings who possess absolute control over **multiple forces/energies** or achieve **planetary-scale dominance** over their specialized force *and* possess Technical Conqueror's Will, specific honorifics are used in-universe:
+    *   **Archon:** This term, primarily used by [[Battra, the Lord of the Mystic Arts.md#Overview|Battra]] (who formalized the Krátos system), emphasizes technical mastery and sophisticated understanding. Godzilla, as the ultimate master of nuclear and atomic energy, is an "Atomic Archon."
+    *   **Conqueror:** This term, famously used by [[Dagon, the Last Northern Patriarch.md#Human Form (Post-Resurrection)|Ghidorah]], emphasizes pure willpower dominance and raw imposition of reality. Ghidorah recognizes Godzilla as a "Conqueror" because he possesses Conqueror's Will. Godzilla is an "Atomic Conqueror."
+    *   **Note**: These terms are often used interchangeably in-universe, reflecting different philosophical perspectives on the same absolute mastery.
+*   **Nomothete (Ultimate Mastery Level):** This is the apex of mastery within *any* power system (Krátos, Psionics, or Magic). A Nomothete is a practitioner who transcends the normal rules of their system, seeming to "write and break its laws" through sheer will and understanding. Godric himself is a [[#Philosophy of Dominance: Willpower Beyond Perception|Nomothete Krátos]].
 
 ##### B. Genesis & Baseline Capabilities
 
@@ -507,7 +514,7 @@ Godzilla's current expression of Kratos operates through multiple sophisticated 
     5.  **Kinetic Energy:** Converted with moderate efficiency.
     6.  **Chemical Energy:** Processed successfully but less efficiently.
     7.  **Extraterrestrial Energies:** Most challenging, requiring specific adaptations.
-*   **Post-Xilien Invasion Breakthrough:** His confrontation with Battra in the [[Plot Outline - Xilien Invasion Arc|Xilien Invasion Arc]] pushed him to achieve a profound paradigm shift, realizing his control extends far beyond atomic energy to all fundamental forces, including hints of [[godric_energy_limitations#Energy Generation and Manipulation|Gravitational Manipulation]].
+*   **Post-Xilien Invasion Breakthrough:** His confrontation with Battra in the [[Plot Outline - Xilien Invasion Arc|Xilien Invasion Arc]] pushed him to achieve a profound paradigm shift, realizing his control extends far beyond atomic energy to all fundamental forces, including hints of [[godric_energy_limitations#Energy Generation and Manipulation|Gravitational Manipulation]]. 
 
  > [!quote] “The Caged Sun”
  > Godzilla's innate capacity is universal energy control, but 250 million years of species tradition and personal psychological barriers have self-imposed a restriction, making him believe his power is primarily “atomic.” This is his “Caged Sun” limitation, defining him as a Nomothete Kratos whose full potential is yet to be realized.
@@ -516,7 +523,7 @@ Godzilla's current expression of Kratos operates through multiple sophisticated 
 
 The universe is governed by three fundamental power systems, each distinct in its source, nature, and practitioners. These systems represent different interfaces between consciousness and reality, shaping the capabilities of all sentient beings. Godric's own classification within this framework highlights a profound paradox: he is the ultimate master of one system while remaining completely blind to the other two.
 
-#### 1. The Three Systems: Kratos, Psionics, and Magic
+#### 1. The Three Systems: Krátos, Psionics, and Magic
 
 | **Power System** | **Source / Origin**                 | **Nature / Mechanism**                                            | **Wielder Classification**                                           | **Core Expression**                                          |
 | :--------------- | :---------------------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------------- | :----------------------------------------------------------- |
