@@ -1,7 +1,7 @@
-- The Balagtas family goes to a mall in Manila
-	- On the TV, breaking news of storms manifesting in multiple locations around the world at once. 
-	- Then, silence, as a voice echoes throughout the world. It was shrill, like cruel laughter.
-	- Not a moment later, the skies darkened, yellow lightning dancing like arcs across the sky manifest.
-	- The local news program takes over as reports of a massive serpentine creature emerges from the waters of the islands of Visayas.
-	- The lightning no longer
-	
+- The Balagtas family goes to a mall in Manila. Stella and Sierra had just finished their final exams for the year and a little reward was in order.
+- On the TV, breaking news of storms manifesting in multiple locations around the world at once. 
+- Then, silence, as a voice echoes throughout the world. It was shrill, like cruel laughter.
+- Not a moment later, the skies darkened, rain pours, and yellow lightning that dance like arcs in the heavens manifest.
+- The local news program takes over as reports of a massive serpentine creature emerges from the waters of the islands of Visayas.
+- The lightning no longer dances, it rages. The winds no longer blow, they howl. The rain no longer falls, it pours. Consequently, people were swept away by the winds, by the raising waters as they rush, into the city, lightning smites the buildings as if they were deliberate.
+- 

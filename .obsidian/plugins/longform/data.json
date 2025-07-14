@@ -7,12 +7,12 @@
   "sessions": [
     {
       "start": "2025-07-14T17:39:23.857Z",
-      "total": 90,
+      "total": 156,
       "drafts": {
         "Writing/ATM/Chapters/The First Arc/Index.md": {
-          "total": 90,
+          "total": 156,
           "scenes": {
-            "Devoured": 90
+            "Devoured": 156
           }
         }
       }
