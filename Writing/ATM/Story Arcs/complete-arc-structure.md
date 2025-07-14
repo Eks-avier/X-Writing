@@ -42,7 +42,6 @@
 - Bakunawa's attack on Manila during global Titan awakening
 - Stella's traumatic psychic awakening during disaster
 - Experience of multiple deaths through telepathic connection
-- Momentary reprieve from Mothra's distant influence
 - Godzilla's Alpha call ending the rampage
 - Twins separated from parents, presumably orphaned
 

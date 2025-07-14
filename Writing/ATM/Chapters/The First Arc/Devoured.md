@@ -16,6 +16,15 @@
 
 - But, in the midst of the chaos, something happens: reprieve, it cut through their horror like a spear of light. Another echoing sound filled the sky. It was gentler, yet no less stronger. It enveloped the world, just as the cruel laughter a lifetime ago did.
 - Because of this, though unknown to them all, Stella began having what appeared to be a seizure. She twists and turns on the ground, writhing like a ghoul seeing light. In her mind, she saw something. No. She saw someone, people. 
-- She saw death. Stella saw how the people died below them. She felt as if she and each individual were one
+- She saw death. Stella saw how the people died below them. She felt as if she and each individual were one.
+- As Manila is swept away by impossible floods and a rampaging dragon who only existed in folktales then, Stella continues to writhe. 
+
+## Third Event - The King Triumphant, Order Restored
+
+- Another voice filled the sky. Triumphant. This one was longer, and even the serpentine ceased in its tracks. The rain softened. The lightning ceded, thunder became whispers, and wind became breezes. The flood evaporated before their very eyes.
+- The clouds above them parted. Before them, was its devourer: Bakunawa. There was no doubt about it. But, just as quickly he came, he went. 
+- The dragon issued a roar in response to whatever sound happened and flew into the clear night sky, disappearing as a new moon shone over the ruins of Manila.
+- The people could respond in the only way they knew how, they made sound and believed that it's what drove the dragon of their folktales away, as it was foretold it would be. 
+- Stella passed out.
 
 
