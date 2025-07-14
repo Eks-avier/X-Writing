@@ -1,10 +1,22 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Writing/Link Disconnected/Index.md",
+  "selectedDraftVaultPath": "Writing/ATM/Chapters/The First Arc/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2025-07-14T17:39:23.857Z",
+      "total": 6,
+      "drafts": {
+        "Writing/ATM/Chapters/The First Arc/Index.md": {
+          "total": 6,
+          "scenes": {
+            "Devoured": 6
+          }
+        }
+      }
+    },
     {
       "start": "2025-02-14T16:57:00.764Z",
       "total": 0,
@@ -48,6 +60,9 @@
   "sessionFile": "longform-sessions.json",
   "numberScenes": false,
   "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",

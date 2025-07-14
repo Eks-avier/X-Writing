@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Godzilla Profile",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
+      "basename": "Devoured",
+      "path": "Writing/ATM/Chapters/The First Arc/Devoured.md"
     },
     {
-      "basename": "Reorganized + Anatomy",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md"
+      "basename": "complete-arc-structure",
+      "path": "Writing/ATM/Story Arcs/complete-arc-structure.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Writing/ATM/Chapters/The First Arc/Index.md"
+    },
+    {
+      "basename": "Godzilla Profile",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
       "basename": "Mothra Profile",
@@ -15,6 +23,14 @@
     {
       "basename": "Character Profile Creation Protocol - A Step-by-Step Guide",
       "path": "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md"
+    },
+    {
+      "basename": "consolidated-titan-hierarchy",
+      "path": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md"
+    },
+    {
+      "basename": "Reorganized + Anatomy",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md"
     },
     {
       "basename": "New Linking Protocol",
@@ -27,10 +43,6 @@
     {
       "basename": "Mothra, the Queen of the Monsters",
       "path": "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md"
-    },
-    {
-      "basename": "consolidated-titan-hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md"
     },
     {
       "basename": "Notepad 11",
@@ -187,14 +199,6 @@
     {
       "basename": "godric_sensory_processing",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md"
-    },
-    {
-      "basename": "trinity_dynamics",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/trinity_dynamics.md"
-    },
-    {
-      "basename": "ITS 132 - 01",
-      "path": "College/ITS 132 - 01.md"
     }
   ],
   "omittedPaths": [],
