@@ -93,3 +93,11 @@ $\sin \theta_{c}=\frac{n_{2}}{n_{1}}$, where $n_{1}>n_{2}$
 - With a diverging lens, paraxial rays that are parallel to the principal axis appear to originate from the focal point.
 
 **Thin Lens Equation**: 
+
+---
+
+f is + for a converging lens
+f is - is for a diverging lens
+
+$d_{o}$ is + if the obj is to the left of the lens
+$d_{0}$ is - if the object is to the right of the lens.
