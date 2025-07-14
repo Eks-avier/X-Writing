@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godzilla Profile"
+              "title": "Reorganized + Anatomy"
             }
           },
           {
@@ -299,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla Profile"
+              "title": "Outline of Reorganized + Anatomy"
             }
           },
           {
@@ -371,9 +371,9 @@
   },
   "active": "e7eed282512e23cc",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/mothra-psionic-prowess.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/telepathic-web.md",
