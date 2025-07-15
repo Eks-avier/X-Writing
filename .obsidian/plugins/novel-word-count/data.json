@@ -8308,6 +8308,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Answers to Questions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1693,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.6433333333333335,
+      "characterCount": 12070,
+      "nonWhitespaceCharacterCount": 10156,
+      "newlineCount": 114,
+      "readingTimeInMinutes": 6.388679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1752593796355,
+      "modifiedDate": 1752593873084,
+      "sizeInBytes": 12072,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

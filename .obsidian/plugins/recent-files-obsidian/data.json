@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Answers to Questions",
+      "path": "Answers to Questions.md"
+    },
+    {
       "basename": "Devoured",
       "path": "Writing/ATM/Chapters/The First Arc/Devoured.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dagon, the Last Northern Patriarch",
       "path": "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md"
-    },
-    {
-      "basename": "godric_sensory_processing",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_sensory_processing.md"
     }
   ],
   "omittedPaths": [],
