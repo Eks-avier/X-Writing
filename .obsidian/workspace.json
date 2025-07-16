@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "d4af9589f3a437e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Chapters/The First Arc/Devoured.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Devoured"
+            }
+          },
+          {
             "id": "be2689a7ac5819e6",
             "type": "leaf",
             "state": {
@@ -68,43 +92,12 @@
             }
           },
           {
-            "id": "d4af9589f3a437e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Chapters/The First Arc/Devoured.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Devoured"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "b4d434e943b1127f",
-        "type": "tabs",
-        "children": [
-          {
             "id": "17ac9674c4f32969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Story Arcs/complete-arc-structure.md",
+                "file": "College/Light.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,35 +112,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "complete-arc-structure"
-            }
-          },
-          {
-            "id": "0a0ca923d9941cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Answers to Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Answers to Questions"
+              "title": "Light"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -307,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Answers to Questions.md",
+                "file": "College/Light.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Answers to Questions"
+              "title": "Outline of Light"
             }
           },
           {
@@ -377,9 +346,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0a0ca923d9941cd3",
+  "active": "17ac9674c4f32969",
   "lastOpenFiles": [
     "Answers to Questions.md",
+    "College/Light.md",
     "Writing/ATM/Chapters/The First Arc/Devoured.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Chapters/The First Arc/Index.md",
@@ -407,7 +377,6 @@
     "Writing/ATM/Characters/Titans/Mothra/Messy/game_of_chicken_romance.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/telepathy_ethics_system.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/maria_romantic_education.md",
-    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_physical_metrics.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy",
     "Writing/ATM/Story Arcs/The First Arc",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
