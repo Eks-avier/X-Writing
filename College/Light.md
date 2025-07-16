@@ -273,7 +273,7 @@ $m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}$
 - $d_i < 0$, $m > 0$, $|m| > 1$
 
 ### Diverging Lenses ($f < 0$)
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 **All object positions**:
 - Always virtual, upright, diminished
 - $d_i < 0$, $m > 0$, $|m| < 1$
