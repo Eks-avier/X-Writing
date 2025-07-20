@@ -5,12 +5,16 @@
       "path": "College/Magnetism.md"
     },
     {
-      "basename": "Light",
-      "path": "College/Light.md"
-    },
-    {
       "basename": "Light and Optics",
       "path": "College/Light and Optics.md"
+    },
+    {
+      "basename": "Electromagnetic Induction",
+      "path": "College/Electromagnetic Induction.md"
+    },
+    {
+      "basename": "Light",
+      "path": "College/Light.md"
     },
     {
       "basename": "Mothra Profile",
@@ -195,10 +199,6 @@
     {
       "basename": "Ascendant Classification - The World-Changers",
       "path": "Writing/ATM/Titans/Hierarchy/Ascendant Classification - The World-Changers.md"
-    },
-    {
-      "basename": "Anatomical Reference - 1",
-      "path": "_Archive/Fiction/Anatomical Reference - 1.md"
     }
   ],
   "omittedPaths": [],
