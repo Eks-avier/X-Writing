@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "College/Magnetism & EM Waves.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Light.md",
+                "file": "College/Magnetism & EM Waves.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Light"
+              "title": "Outline of Magnetism & EM Waves"
             }
           },
           {
@@ -328,8 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327,
-    "collapsed": true
+    "width": 327
   },
   "left-ribbon": {
     "hiddenItems": {
