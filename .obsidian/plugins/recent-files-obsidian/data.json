@@ -5,12 +5,28 @@
       "path": "College/Magnetism.md"
     },
     {
-      "basename": "Devoured",
-      "path": "Writing/ATM/Chapters/The First Arc/Devoured.md"
+      "basename": "Light",
+      "path": "College/Light.md"
+    },
+    {
+      "basename": "Light and Optics",
+      "path": "College/Light and Optics.md"
     },
     {
       "basename": "Mothra Profile",
       "path": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md"
+    },
+    {
+      "basename": "Electromagnetic Wave",
+      "path": "College/Electromagnetic Wave.md"
+    },
+    {
+      "basename": "Magnetic Field of Current",
+      "path": "College/Magnetic Field of Current.md"
+    },
+    {
+      "basename": "Devoured",
+      "path": "Writing/ATM/Chapters/The First Arc/Devoured.md"
     },
     {
       "basename": "Plot Outline - Biollante Arc",
@@ -35,10 +51,6 @@
     {
       "basename": "character_integration_psychology",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md"
-    },
-    {
-      "basename": "Light",
-      "path": "College/Light.md"
     },
     {
       "basename": "Answers to Questions",
@@ -187,18 +199,6 @@
     {
       "basename": "Anatomical Reference - 1",
       "path": "_Archive/Fiction/Anatomical Reference - 1.md"
-    },
-    {
-      "basename": "Anatomical Reference - 4",
-      "path": "_Archive/Fiction/Anatomical Reference - 4.md"
-    },
-    {
-      "basename": "The Saga of the Fallen Star",
-      "path": "Writing/ATM/The Saga of the Fallen Star.md"
-    },
-    {
-      "basename": "Kong, King of the Hollow Earth",
-      "path": "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md"
     }
   ],
   "omittedPaths": [],
