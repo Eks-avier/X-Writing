@@ -217,7 +217,8 @@ Where:
 - $\phi$ = angle between $\vec{B}$ and normal to surface
 - **Unit**: Weber (Wb) where $1\text{ Wb} = 1\text{ T·m}^2$
 
-**Maximum flux**: $\phi = 0°$ (field perpendicular to surface) **Zero flux**: $\phi = 90°$ (field parallel to surface)
+**Maximum flux**: $\phi = 0°$ (field perpendicular to surface) 
+**Zero flux**: $\phi = 90°$ (field parallel to surface)
 
 ### Faraday's Law
 
