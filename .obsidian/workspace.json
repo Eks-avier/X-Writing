@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Light and Optics.md",
+                "file": "College/Magnetism.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Light and Optics"
+              "title": "Outline of Magnetism"
             }
           },
           {
@@ -345,10 +345,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4a5e762ed953d357",
+  "active": "d4af9589f3a437e3",
   "lastOpenFiles": [
-    "College/Magnetism.md",
     "College/Light and Optics.md",
+    "College/Magnetism.md",
     "College/Electromagnetic Induction.md",
     "College/Light.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
