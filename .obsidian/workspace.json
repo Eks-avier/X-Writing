@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Light.md",
+                "file": "College/Magnetism & EM Waves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Magnetism & EM Waves"
             }
           }
         ],
@@ -209,8 +209,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,8 +347,9 @@
   },
   "active": "17ac9674c4f32969",
   "lastOpenFiles": [
-    "Answers to Questions.md",
     "College/Light.md",
+    "College/Magnetism & EM Waves.md",
+    "Answers to Questions.md",
     "Writing/ATM/Chapters/The First Arc/Devoured.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Chapters/The First Arc/Index.md",
@@ -376,7 +376,6 @@
     "Writing/ATM/Characters/Titans/Mothra/Messy/godric_attraction_analysis.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/game_of_chicken_romance.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/telepathy_ethics_system.md",
-    "Writing/ATM/Characters/Titans/Mothra/Messy/maria_romantic_education.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy",
     "Writing/ATM/Story Arcs/The First Arc",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
