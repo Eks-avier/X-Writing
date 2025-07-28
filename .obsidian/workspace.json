@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Magnetism.md",
+                "file": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Magnetism"
+              "title": "The Fishing Family Arc - Godric's Foundation"
             }
           },
           {
@@ -341,13 +341,14 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "d4af9589f3a437e3",
   "lastOpenFiles": [
-    "College/Light and Optics.md",
     "College/Magnetism.md",
+    "College/Light and Optics.md",
     "College/Electromagnetic Induction.md",
     "College/Light.md",
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
