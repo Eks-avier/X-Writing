@@ -5,52 +5,96 @@
       "path": "College/Magnetism.md"
     },
     {
-      "basename": "Happy Birthday, Dandan",
-      "path": "Journal/Happy Birthday, Dandan.md"
+      "basename": "Light and Optics",
+      "path": "College/Light and Optics.md"
     },
     {
-      "basename": "Biollante, the Rose of the North",
-      "path": "Writing/ATM/Characters/Titans/Biollante, the Rose of the North.md"
+      "basename": "Electromagnetic Induction",
+      "path": "College/Electromagnetic Induction.md"
+    },
+    {
+      "basename": "Light",
+      "path": "College/Light.md"
+    },
+    {
+      "basename": "Mothra Profile",
+      "path": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md"
+    },
+    {
+      "basename": "Electromagnetic Wave",
+      "path": "College/Electromagnetic Wave.md"
+    },
+    {
+      "basename": "Magnetic Field of Current",
+      "path": "College/Magnetic Field of Current.md"
+    },
+    {
+      "basename": "Devoured",
+      "path": "Writing/ATM/Chapters/The First Arc/Devoured.md"
+    },
+    {
+      "basename": "Plot Outline - Biollante Arc",
+      "path": "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md"
+    },
+    {
+      "basename": "The Fishing Family Arc - Godric's Foundation",
+      "path": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md"
+    },
+    {
+      "basename": "Plot Outline - Xilien Invasion Arc",
+      "path": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md"
+    },
+    {
+      "basename": "The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md"
+    },
+    {
+      "basename": "golden_thread_discovery",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/golden_thread_discovery.md"
+    },
+    {
+      "basename": "character_integration_psychology",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md"
+    },
+    {
+      "basename": "Answers to Questions",
+      "path": "Answers to Questions.md"
+    },
+    {
+      "basename": "complete-arc-structure",
+      "path": "Writing/ATM/Story Arcs/complete-arc-structure.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Writing/ATM/Chapters/The First Arc/Index.md"
     },
     {
       "basename": "Godzilla Profile",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
-      "basename": "Protocols of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Protocols of the Titan Hierarchy.md"
-    },
-    {
-      "basename": "Unrefined - Mothra's Regalia",
-      "path": "Writing/ATM/Unrefined/Unrefined - Mothra's Regalia.md"
-    },
-    {
-      "basename": "Adaptations of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md"
-    },
-    {
-      "basename": "Structure of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
+      "basename": "Character Profile Creation Protocol - A Step-by-Step Guide",
+      "path": "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md"
     },
     {
       "basename": "consolidated-titan-hierarchy",
       "path": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md"
     },
     {
-      "basename": "Ascendant Primals",
-      "path": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md"
+      "basename": "Reorganized + Anatomy",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Reorganized + Anatomy.md"
+    },
+    {
+      "basename": "New Linking Protocol",
+      "path": "New Linking Protocol.md"
+    },
+    {
+      "basename": "Mothra, the Queen of the Monsters",
+      "path": "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md"
     },
     {
       "basename": "Notepad 11",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Notepad 11.md"
-    },
-    {
-      "basename": "Refined Mothra Outline",
-      "path": "Writing/ATM/Characters/Titans/Mothra/Refined Mothra Outline.md"
-    },
-    {
-      "basename": "Character Profile Creation Protocol - A Step-by-Step Guide",
-      "path": "Writing/ATM/Creation Instructions/Character Profile Creation Protocol - A Step-by-Step Guide.md"
     },
     {
       "basename": "The Fundamental Forces Theory",
@@ -73,10 +117,6 @@
       "path": "Writing/ATM/Magic System/Psychic-Sorcery Interface.md"
     },
     {
-      "basename": "psionics-system",
-      "path": "Writing/ATM/Characters/Titans/Mothra/psionics-system.md"
-    },
-    {
       "basename": "Power Dynamics",
       "path": "Writing/ATM/Power Dynamics.md"
     },
@@ -87,10 +127,6 @@
     {
       "basename": "Character References Template",
       "path": "_Templates/Character References Template.md"
-    },
-    {
-      "basename": "The Fishing Family Arc - Godric's Foundation",
-      "path": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md"
     },
     {
       "basename": "Concept - Medieval AU",
@@ -133,6 +169,10 @@
       "path": "Notepad 7.md"
     },
     {
+      "basename": "Ascendant Primals",
+      "path": "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md"
+    },
+    {
       "basename": "The Titan Standing Hierarchy",
       "path": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas"
     },
@@ -143,10 +183,6 @@
     {
       "basename": "The Nordsons and Lepidiels",
       "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
-    },
-    {
-      "basename": "Plot Outline - Xilien Invasion Arc",
-      "path": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md"
     },
     {
       "basename": "Overview - The Titan Hierarchy",
@@ -163,42 +199,6 @@
     {
       "basename": "Ascendant Classification - The World-Changers",
       "path": "Writing/ATM/Titans/Hierarchy/Ascendant Classification - The World-Changers.md"
-    },
-    {
-      "basename": "Anatomical Reference - 1",
-      "path": "_Archive/Fiction/Anatomical Reference - 1.md"
-    },
-    {
-      "basename": "Anatomical Reference - 4",
-      "path": "_Archive/Fiction/Anatomical Reference - 4.md"
-    },
-    {
-      "basename": "Mothra, the Queen of the Monsters",
-      "path": "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md"
-    },
-    {
-      "basename": "The Saga of the Fallen Star",
-      "path": "Writing/ATM/The Saga of the Fallen Star.md"
-    },
-    {
-      "basename": "Kong, King of the Hollow Earth",
-      "path": "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md"
-    },
-    {
-      "basename": "Atomic Amplification",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md"
-    },
-    {
-      "basename": "godric_energy_limitations",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md"
-    },
-    {
-      "basename": "japanese_cultural_attire",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md"
-    },
-    {
-      "basename": "Dagon, the Last Northern Patriarch",
-      "path": "Writing/ATM/Characters/Titans/Dagon, the Last Northern Patriarch.md"
     }
   ],
   "omittedPaths": [],

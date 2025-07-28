@@ -3,11 +3,11 @@
   "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 85
   },
   "userIgnoreFilters": [
     "_Archive/",
