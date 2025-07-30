@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
-                "mode": "source",
+                "file": "College/Practice Exam.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Fishing Family Arc - Godric's Foundation"
+              "title": "Practice Exam"
             }
           },
           {
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394,
-    "collapsed": true
+    "width": 394
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -347,6 +346,8 @@
   },
   "active": "d4af9589f3a437e3",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
+    "College/Practice Exam.md",
     "College/Magnetism.md",
     "College/Light and Optics.md",
     "College/Electromagnetic Induction.md",
@@ -356,7 +357,6 @@
     "College/Magnetic Field of Current.md",
     "Writing/ATM/Chapters/The First Arc/Devoured.md",
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
-    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/golden_thread_discovery.md",
@@ -375,7 +375,6 @@
     "Writing/ATM/Titans/Hierarchy/Untitled.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/mothra-psionic-prowess.md",
-    "Writing/ATM/Characters/Titans/Mothra/Messy/telepathic-web.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy",
     "Writing/ATM/Story Arcs/The First Arc",
     "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
