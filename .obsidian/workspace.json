@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Practice Exam.md",
-                "mode": "source",
+                "file": "College/Light and Optics.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Practice Exam"
+              "title": "Light and Optics"
             }
           },
           {
@@ -347,8 +347,8 @@
   },
   "active": "d4af9589f3a437e3",
   "lastOpenFiles": [
-    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "College/Practice Exam.md",
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "College/Magnetism.md",
     "College/Light and Optics.md",
     "College/Electromagnetic Induction.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Light and Optics",
+      "path": "College/Light and Optics.md"
+    },
+    {
       "basename": "Practice Exam",
       "path": "College/Practice Exam.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "godric_energy_limitations",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md"
-    },
-    {
-      "basename": "japanese_cultural_attire",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/japanese_cultural_attire.md"
     }
   ],
   "omittedPaths": [],
