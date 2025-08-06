@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Art of Spell Casting",
+      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md"
+    },
+    {
+      "basename": "Art of Commitments",
+      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
+    },
+    {
+      "basename": "Soul Infusion",
+      "path": "Writing/ATM/Magic System/Soul/Soul Infusion.md"
+    },
+    {
+      "basename": "1-27-25 - Physics",
+      "path": "College/3Q2425/1-27-25 - Physics.md"
+    },
+    {
+      "basename": "Mothra Profile",
+      "path": "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md"
+    },
+    {
       "basename": "Light and Optics",
-      "path": "College/Light and Optics.md"
+      "path": "College/3Q2425/Light and Optics.md"
+    },
+    {
+      "basename": "Godzilla Profile",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
+    },
+    {
+      "basename": "College",
+      "path": "College/3Q2425/College.md"
     },
     {
       "basename": "Practice Exam",
-      "path": "College/Practice Exam.md"
+      "path": "College/3Q2425/Practice Exam.md"
     },
     {
       "basename": "The Fishing Family Arc - Godric's Foundation",
@@ -14,7 +42,7 @@
     },
     {
       "basename": "Magnetism",
-      "path": "College/Magnetism.md"
+      "path": "College/3Q2425/Magnetism.md"
     },
     {
       "basename": "Happy Birthday, Dandan",
@@ -23,10 +51,6 @@
     {
       "basename": "Biollante, the Rose of the North",
       "path": "Writing/ATM/Characters/Titans/Biollante, the Rose of the North.md"
-    },
-    {
-      "basename": "Godzilla Profile",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
     },
     {
       "basename": "Protocols of the Titan Hierarchy",
@@ -175,30 +199,6 @@
     {
       "basename": "Anatomical Reference - 1",
       "path": "_Archive/Fiction/Anatomical Reference - 1.md"
-    },
-    {
-      "basename": "Anatomical Reference - 4",
-      "path": "_Archive/Fiction/Anatomical Reference - 4.md"
-    },
-    {
-      "basename": "Mothra, the Queen of the Monsters",
-      "path": "Writing/ATM/Characters/Titans/Mothra, the Queen of the Monsters.md"
-    },
-    {
-      "basename": "The Saga of the Fallen Star",
-      "path": "Writing/ATM/The Saga of the Fallen Star.md"
-    },
-    {
-      "basename": "Kong, King of the Hollow Earth",
-      "path": "Writing/ATM/Characters/Titans/Kong, King of the Hollow Earth.md"
-    },
-    {
-      "basename": "Atomic Amplification",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification.md"
-    },
-    {
-      "basename": "godric_energy_limitations",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_energy_limitations.md"
     }
   ],
   "omittedPaths": [],
