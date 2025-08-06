@@ -5,6 +5,10 @@
       "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md"
     },
     {
+      "basename": "psionics-system",
+      "path": "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md"
+    },
+    {
       "basename": "Art of Commitments",
       "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ascendant Classification - The World-Changers",
       "path": "Writing/ATM/Titans/Hierarchy/Ascendant Classification - The World-Changers.md"
-    },
-    {
-      "basename": "Anatomical Reference - 1",
-      "path": "_Archive/Fiction/Anatomical Reference - 1.md"
     }
   ],
   "omittedPaths": [],
