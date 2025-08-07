@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "psionics-system"
             }
+          },
+          {
+            "id": "b980c64f52f1b0d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Art of Spell Casting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,10 +297,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c56a2faf5b64f9d8",
+  "active": "b980c64f52f1b0d5",
   "lastOpenFiles": [
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Magic System/Soul/Soul Infusion.md",
     "College/3Q2425/1-27-25 - Physics.md",
