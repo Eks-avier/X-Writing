@@ -1,33 +1,14 @@
 {
 	"nodes":[
-		{"id":"399bf0fe35722841","type":"group","x":-540,"y":-620,"width":1080,"height":580,"label":"ENERGY HIERARCHY"},
-		{
-			"id":"60856816155ecb88",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1e9aeed307bb996f",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{},
-			"x":-150,
-			"y":-460,
-			"width":280,
-			"height":60
-		},
+		{"id":"399bf0fe35722841","type":"group","x":-500,"y":-440,"width":1000,"height":680,"label":"THE ENERGY HIERARCHY"},
+		{"id":"26221bb3e3c7c832","type":"group","x":-500,"y":-900,"width":1000,"height":100,"label":"THE FOUNDATION OF SORCERY"},
 		{
 			"id":"35baafa41b76cf3f",
 			"type":"text",
 			"text":"# PRIMUS FORCE",
 			"styleAttributes":{},
-			"x":-540,
-			"y":-960,
+			"x":-480,
+			"y":-880,
 			"width":260,
 			"height":60
 		},
@@ -36,61 +17,86 @@
 			"type":"text",
 			"text":"# THE SOUL",
 			"styleAttributes":{},
-			"x":-140,
-			"y":-960,
+			"x":220,
+			"y":-880,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"53023d784e524011",
+			"id":"60856816155ecb88",
 			"type":"text",
-			"text":"# SOUL INFUSION",
+			"text":"# PRIMUS ENERGY",
 			"styleAttributes":{},
-			"x":-140,
-			"y":-800,
+			"x":-130,
+			"y":-700,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"628bf3ad0fb727b8",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY",
+			"styleAttributes":{},
+			"x":-470,
+			"y":-380,
+			"width":310,
+			"height":60
+		},
+		{
+			"id":"d0873218308934e5",
+			"type":"text",
+			"text":"# CURSED ENERGY",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-380,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"146e1d6f9e6be0eb",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":120,
+			"y":-380,
 			"width":260,
 			"height":60
 		}
 	],
 	"edges":[
 		{
-			"id":"3b5682bf37a99a79",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c67504a711b818e5",
-			"fromSide":"bottom",
-			"toNode":"53023d784e524011",
-			"toSide":"top"
-		},
-		{
-			"id":"d30d2d931e0c3228",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"53023d784e524011",
-			"fromSide":"bottom",
-			"toNode":"60856816155ecb88",
-			"toSide":"top"
-		},
-		{
-			"id":"0a4eb867043f7137",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"60856816155ecb88",
-			"fromSide":"bottom",
-			"toNode":"1e9aeed307bb996f",
-			"toSide":"top"
-		},
-		{
 			"id":"c0af8776ad3a6422",
 			"styleAttributes":{
 				"arrow":null
 			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"35baafa41b76cf3f",
 			"fromSide":"right",
 			"toNode":"c67504a711b818e5",
 			"toSide":"left",
-			"fromEnd":"arrow"
+			"fromEnd":"arrow",
+			"label":"SOUL INFUSION"
+		},
+		{
+			"id":"9f260f96d75719d1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"26221bb3e3c7c832",
+			"fromSide":"bottom",
+			"toNode":"60856816155ecb88",
+			"toSide":"top"
+		},
+		{
+			"id":"188557ffd686c927",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"60856816155ecb88",
+			"fromSide":"bottom",
+			"toNode":"399bf0fe35722841",
+			"toSide":"top",
+			"label":"PRIMUS IGNITION"
 		}
 	],
 	"metadata":{
