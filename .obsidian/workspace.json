@@ -66,9 +66,26 @@
               "icon": "lucide-file",
               "title": "Art of Spell Casting"
             }
+          },
+          {
+            "id": "23d04c898233237a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "The Fourfold Doctrine.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Fourfold Doctrine"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,11 +314,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b980c64f52f1b0d5",
+  "active": "23d04c898233237a",
   "lastOpenFiles": [
+    "The Fourfold Doctrine.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Magic System/Soul/Soul Infusion.md",
@@ -326,7 +344,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/golden_thread_discovery.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md",
     "Answers to Questions.md",
-    "Writing/ATM/Chapters/The First Arc/Index.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",
