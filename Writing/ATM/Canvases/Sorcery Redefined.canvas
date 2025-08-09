@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"399bf0fe35722841","type":"group","x":-500,"y":-440,"width":1000,"height":680,"label":"THE ENERGY HIERARCHY"},
 		{"id":"26221bb3e3c7c832","type":"group","x":-500,"y":-900,"width":1000,"height":100,"label":"THE FOUNDATION OF SORCERY"},
 		{
 			"id":"35baafa41b76cf3f",
@@ -33,32 +32,12 @@
 			"height":60
 		},
 		{
-			"id":"628bf3ad0fb727b8",
-			"type":"text",
-			"text":"# ELEMENTAL ENERGY",
-			"styleAttributes":{},
-			"x":-470,
-			"y":-380,
-			"width":310,
-			"height":60
-		},
-		{
-			"id":"d0873218308934e5",
-			"type":"text",
-			"text":"# CURSED ENERGY",
-			"styleAttributes":{},
-			"x":-130,
-			"y":-380,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"146e1d6f9e6be0eb",
+			"id":"d6a74660b7295f2e",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":120,
-			"y":-380,
+			"x":-240,
+			"y":-460,
 			"width":260,
 			"height":60
 		}
@@ -86,17 +65,6 @@
 			"fromSide":"bottom",
 			"toNode":"60856816155ecb88",
 			"toSide":"top"
-		},
-		{
-			"id":"188557ffd686c927",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"60856816155ecb88",
-			"fromSide":"bottom",
-			"toNode":"399bf0fe35722841",
-			"toSide":"top",
-			"label":"PRIMUS IGNITION"
 		}
 	],
 	"metadata":{
