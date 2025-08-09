@@ -7350,8 +7350,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055102,
-      "modifiedDate": 1744605906300,
-      "sizeInBytes": 11974,
+      "modifiedDate": 1754774016949,
+      "sizeInBytes": 9309,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24333333333333335,
@@ -7359,7 +7359,8 @@
         "characterCount": 566,
         "nonWhitespaceCharacterCount": 457,
         "newlineCount": 33
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas": {
       "isCountable": true,
@@ -8444,24 +8445,24 @@
         "newlineCount": 114
       }
     },
-    "The Fourfold Doctrine.canvas": {
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 47,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754773724584,
-      "modifiedDate": 1754773724584,
-      "sizeInBytes": 0,
+      "modifiedDate": 1754774332631,
+      "sizeInBytes": 1386,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8469,7 +8470,8 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
+      },
+      "frontmatter": {}
     }
   }
 }

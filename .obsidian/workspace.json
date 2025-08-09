@@ -47,24 +47,17 @@
             "id": "b980c64f52f1b0d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "viewState": {
+                  "x": 102.17043525089194,
+                  "y": -323.91589517701505,
+                  "zoom": -0.8223625618891057
                 }
               },
-              "icon": "lucide-file",
-              "title": "Art of Spell Casting"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sorcery Redefined"
             }
           },
           {
@@ -73,19 +66,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "The Fourfold Doctrine.canvas",
+                "file": "Writing/ATM/Canvases/Sorcery.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -13.010294167160538,
+                  "y": -169.75774144017328,
+                  "zoom": -1.4324822717983139
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "The Fourfold Doctrine"
+              "title": "Sorcery"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,9 +307,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "23d04c898233237a",
+  "active": "b980c64f52f1b0d5",
   "lastOpenFiles": [
-    "The Fourfold Doctrine.canvas",
+    "Writing/ATM/Magic System/Soul/Soul Resonance.md",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
@@ -355,14 +350,12 @@
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
-    "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas",
-    "Main Alternate Universe/Characters/Idea Board.canvas",
-    "Main Alternate Universe/Untitled.canvas"
+    "Main Alternate Universe/Characters/Idea Board.canvas"
   ]
 }

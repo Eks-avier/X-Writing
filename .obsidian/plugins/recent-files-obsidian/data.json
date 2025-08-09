@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "The Fourfold Doctrine",
-      "path": "The Fourfold Doctrine.canvas"
+      "basename": "Sorcery Redefined",
+      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+    },
+    {
+      "basename": "Soul Resonance",
+      "path": "Writing/ATM/Magic System/Soul/Soul Resonance.md"
+    },
+    {
+      "basename": "Sorcery",
+      "path": "Writing/ATM/Canvases/Sorcery.canvas"
     },
     {
       "basename": "Art of Spell Casting",
@@ -191,14 +199,6 @@
     {
       "basename": "The Nordsons and Lepidiels",
       "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
-    },
-    {
-      "basename": "Plot Outline - Xilien Invasion Arc",
-      "path": "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md"
-    },
-    {
-      "basename": "Overview - The Titan Hierarchy",
-      "path": "Writing/Antitheriomorphosis Universe/00 - ATLAS (Core Lore)/Society & Culture/Overview - The Titan Hierarchy.md"
     }
   ],
   "omittedPaths": [],
