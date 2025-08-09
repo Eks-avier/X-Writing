@@ -51,8 +51,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 70.59208069828797,
-                  "y": -583.0183974798031,
+                  "x": 102.2780612509531,
+                  "y": -602.2344599660594,
                   "zoom": -0.8223625618891057
                 }
               },
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Light.md",
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Light"
+              "title": "Backlinks for Sorcery Redefined"
             }
           },
           {
@@ -286,7 +286,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

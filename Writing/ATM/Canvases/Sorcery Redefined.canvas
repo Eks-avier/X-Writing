@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"6e82c95cd60c96db","type":"group","x":-500,"y":-500,"width":1060,"height":160,"label":"THE BASES"},
 		{"id":"26221bb3e3c7c832","type":"group","x":-500,"y":-900,"width":1000,"height":100,"label":"THE FOUNDATION OF SORCERY"},
 		{
 			"id":"35baafa41b76cf3f",
@@ -32,12 +33,32 @@
 			"height":60
 		},
 		{
+			"id":"2e78c38866a50412",
+			"type":"text",
+			"text":"# CURSED ENERGY",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-470,
+			"width":280,
+			"height":60
+		},
+		{
 			"id":"d6a74660b7295f2e",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-470,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"580c21d1343967a4",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":-240,
-			"y":-460,
+			"x":260,
+			"y":-470,
 			"width":260,
 			"height":60
 		}
