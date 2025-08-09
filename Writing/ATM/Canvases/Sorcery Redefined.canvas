@@ -1,33 +1,24 @@
 {
 	"nodes":[
+		{"id":"399bf0fe35722841","type":"group","x":-540,"y":-620,"width":1080,"height":580,"label":"ENERGY HIERARCHY"},
 		{
-			"id":"53023d784e524011",
+			"id":"60856816155ecb88",
 			"type":"text",
-			"text":"# SOUL INFUSION",
+			"text":"# PRIMUS ENERGY",
 			"styleAttributes":{},
-			"x":-420,
-			"y":-510,
+			"x":-140,
+			"y":-580,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"74557de230a3ff75",
+			"id":"1e9aeed307bb996f",
 			"type":"text",
-			"text":"# SOUL RESONANCE",
+			"text":"# PRIMUS IGNITION",
 			"styleAttributes":{},
-			"x":100,
-			"y":-510,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"c67504a711b818e5",
-			"type":"text",
-			"text":"# THE SOUL",
-			"styleAttributes":{},
-			"x":-160,
-			"y":-740,
-			"width":260,
+			"x":-150,
+			"y":-460,
+			"width":280,
 			"height":60
 		},
 		{
@@ -35,63 +26,33 @@
 			"type":"text",
 			"text":"# PRIMUS FORCE",
 			"styleAttributes":{},
-			"x":-160,
-			"y":-920,
+			"x":-540,
+			"y":-960,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"0c6491b1371d8535",
+			"id":"c67504a711b818e5",
 			"type":"text",
-			"text":"# ART OF SPELL CASTING",
+			"text":"# THE SOUL",
 			"styleAttributes":{},
-			"x":-120,
-			"y":-400,
-			"width":340,
+			"x":-140,
+			"y":-960,
+			"width":260,
 			"height":60
 		},
 		{
-			"id":"11a5a157947c76ff",
+			"id":"53023d784e524011",
 			"type":"text",
-			"text":"# ART OF SPELL KEEPING",
+			"text":"# SOUL INFUSION",
 			"styleAttributes":{},
-			"x":-120,
-			"y":-280,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"5482aa37e4b5c610",
-			"type":"text",
-			"text":"# ART OF SPELL OPTIMIZATION",
-			"styleAttributes":{},
-			"x":-160,
-			"y":-180,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"7b0c3b0aee524be3",
-			"type":"text",
-			"text":"# ART OF COMMITMENTS",
-			"styleAttributes":{},
-			"x":-120,
-			"y":-80,
-			"width":360,
+			"x":-140,
+			"y":-800,
+			"width":260,
 			"height":60
 		}
 	],
 	"edges":[
-		{
-			"id":"c0d3e6e723fd5264",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"35baafa41b76cf3f",
-			"fromSide":"bottom",
-			"toNode":"c67504a711b818e5",
-			"toSide":"top"
-		},
 		{
 			"id":"3b5682bf37a99a79",
 			"styleAttributes":{},
@@ -102,13 +63,34 @@
 			"toSide":"top"
 		},
 		{
-			"id":"e29aa4783c5a759e",
+			"id":"d30d2d931e0c3228",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"c67504a711b818e5",
+			"fromNode":"53023d784e524011",
 			"fromSide":"bottom",
-			"toNode":"74557de230a3ff75",
+			"toNode":"60856816155ecb88",
 			"toSide":"top"
+		},
+		{
+			"id":"0a4eb867043f7137",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60856816155ecb88",
+			"fromSide":"bottom",
+			"toNode":"1e9aeed307bb996f",
+			"toSide":"top"
+		},
+		{
+			"id":"c0af8776ad3a6422",
+			"styleAttributes":{
+				"arrow":null
+			},
+			"toFloating":false,
+			"fromNode":"35baafa41b76cf3f",
+			"fromSide":"right",
+			"toNode":"c67504a711b818e5",
+			"toSide":"left",
+			"fromEnd":"arrow"
 		}
 	],
 	"metadata":{
