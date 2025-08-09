@@ -43,23 +43,23 @@
 			"height":60
 		},
 		{
-			"id":"d6a74660b7295f2e",
-			"type":"text",
-			"text":"# ELEMENTAL ENERGY",
-			"styleAttributes":{},
-			"x":-187,
-			"y":-330,
-			"width":317,
-			"height":60
-		},
-		{
 			"id":"580c21d1343967a4",
 			"type":"text",
 			"text":"# PHYSICAL ENERGIES",
 			"styleAttributes":{},
-			"x":160,
+			"x":180,
 			"y":-330,
 			"width":320,
+			"height":60
+		},
+		{
+			"id":"d6a74660b7295f2e",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-330,
+			"width":327,
 			"height":60
 		}
 	],
