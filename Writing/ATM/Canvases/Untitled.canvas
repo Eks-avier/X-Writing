@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"fe309b97814082b1","type":"group","x":620,"y":-460,"width":300,"height":300,"label":"Untitled group"},
 		{"id":"79da501cd3ddadc7","type":"group","x":-440,"y":-600,"width":810,"height":100,"label":"THE FOUNDATION OF PSIOINCS"},
+		{"id":"e758237bab6c710d","type":"group","x":320,"y":-220,"width":640,"height":100,"color":"6","label":"TRUE PSYCHIC"},
 		{
 			"id":"3f3b6c9ed31abdd4",
 			"type":"text",
@@ -9,16 +9,6 @@
 			"styleAttributes":{},
 			"x":520,
 			"y":-580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cdb44ad8231c3c02",
-			"type":"text",
-			"text":"# TELEKINESIS",
-			"styleAttributes":{},
-			"x":780,
-			"y":-360,
 			"width":260,
 			"height":60
 		},
@@ -43,21 +33,31 @@
 			"height":60
 		},
 		{
-			"id":"e26d61b1ccbf7f31",
-			"type":"text",
-			"text":"# PASSIVE TELEPATHY",
-			"styleAttributes":{"textAlign":"center"},
-			"x":40,
-			"y":-160,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"86d4c35ca6f5a605",
 			"type":"text",
 			"text":"# TELEPATHY",
 			"styleAttributes":{},
-			"x":220,
+			"x":40,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e26d61b1ccbf7f31",
+			"type":"text",
+			"text":"# PASSIVE TELEPATHY",
+			"styleAttributes":{"textAlign":"center"},
+			"x":30,
+			"y":-20,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"cdb44ad8231c3c02",
+			"type":"text",
+			"text":"# PSYCHOKINESIS",
+			"styleAttributes":{},
+			"x":980,
 			"y":-360,
 			"width":260,
 			"height":60
@@ -67,9 +67,29 @@
 			"type":"text",
 			"text":"# ACTIVE TELEPATHY",
 			"styleAttributes":{"textAlign":"center"},
-			"x":420,
-			"y":-160,
+			"x":340,
+			"y":-200,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"f43d0ceb56b4d3ea",
+			"type":"text",
+			"text":"# TELEKINESIS",
+			"styleAttributes":{"textAlign":"center"},
+			"x":700,
+			"y":-200,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"0aaea73930838bfe",
+			"type":"text",
+			"text":"# CONSTRAINED PSYCHOKINESIS",
+			"styleAttributes":{},
+			"x":890,
+			"y":-40,
+			"width":440,
 			"height":60
 		}
 	],
@@ -108,15 +128,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"74a256c3a2fe6f8e",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"3f3b6c9ed31abdd4",
-			"fromSide":"bottom",
-			"toNode":"cdb44ad8231c3c02",
-			"toSide":"top"
-		},
-		{
 			"id":"b985d37153cc1aea",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
@@ -132,8 +143,47 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"86d4c35ca6f5a605",
+			"fromSide":"right",
+			"toNode":"e758237bab6c710d",
+			"toSide":"top"
+		},
+		{
+			"id":"74a256c3a2fe6f8e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"3f3b6c9ed31abdd4",
 			"fromSide":"bottom",
-			"toNode":"894d5c75b63e046a",
+			"toNode":"cdb44ad8231c3c02",
+			"toSide":"top"
+		},
+		{
+			"id":"72b336513ee3441f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cdb44ad8231c3c02",
+			"fromSide":"left",
+			"toNode":"e758237bab6c710d",
+			"toSide":"top"
+		},
+		{
+			"id":"9644978d522f5582",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"894d5c75b63e046a",
+			"fromSide":"right",
+			"toNode":"f43d0ceb56b4d3ea",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"ebc7a6e6cd88b3ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cdb44ad8231c3c02",
+			"fromSide":"bottom",
+			"toNode":"0aaea73930838bfe",
 			"toSide":"top"
 		}
 	],
