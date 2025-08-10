@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notepad 9.md",
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notepad 9"
+              "title": "Backlinks for Sorcery Redefined"
             }
           },
           {
@@ -314,8 +314,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "23d04c898233237a",
+  "active": "b980c64f52f1b0d5",
   "lastOpenFiles": [
+    "Notepad 9.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
