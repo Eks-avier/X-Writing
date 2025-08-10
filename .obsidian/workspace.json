@@ -64,21 +64,28 @@
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery.canvas",
-                "viewState": {
-                  "x": -132.10053256359768,
-                  "y": -268.31520688235037,
-                  "zoom": -1.4324822717983139
+                "file": "Notepad 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sorcery"
+              "icon": "lucide-file",
+              "title": "Notepad 9"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "file": "Notepad 9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorcery Redefined"
+              "title": "Backlinks for Notepad 9"
             }
           },
           {
@@ -307,7 +314,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b980c64f52f1b0d5",
+  "active": "23d04c898233237a",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",

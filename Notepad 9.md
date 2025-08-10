@@ -23,3 +23,24 @@ So all in all, I framed this fight from Godzilla's perspective:
 - Godzilla delivers the final blow
 
 What do you think about this choreography? I wanted to merge the idea of classic kaiju fights with the technicality of martial art films making the fight itself a monent of bonding, growth, and foreshadowing.
+
+---
+
+Okay, another commercial before getting into External Keeping. Let's develop the Energy Hierarchy, while it might come across as a non-sequitur, we might be able to use the notions here to our advantage when developing External Keeping.
+
+These are all **new** lore: 
+{
+* We already have **Primus Energy**, which is the indivisible base from which all other *magical energy types* derive, no?
+* During **Primus Infusion**, the most visible part of the process is the transformation of **PE** into other energy types (**Transformation**). It is then *followed by* the specific pattern the spell being cast requires, i.e. how this *transformed energy type* should be specifically configured in order to fire off this specific spell (**Pattern**). These are not the *only* two elements to be seen by master sorcerers during PI, but these are the most visible and thus have been given names. The higher the skill, the higher your **Clarity** is. This is where Battra's `98.999986%` "perception" comes in. It's Battra's **Clarity Level**. He can see more than the two typical components of Primus Ignition, which enables him to gain significantly more information about the spell being cast. Beginners, who have negligible Clarity Level, wouldn't even be able to perceive Primus Ignition at all. They would only see the spell manifested. 
+* There exists *four* fundamental (derived) energy types from PE that encompass most of the sorcery in the ATM Universe. This is called **The Bases**. These Bases serve as the base for all other derived energy types:
+   * **Cursed Energy (CE)**: Energy that emanates from negative emotions, thoughts, and actions. **All **animate things emanate CE.  
+   * **Blessed Energy (BE)**: The inverse of CE. It is the positive to the negative of CE. Despite the name of the term, it purely comes from energy that emanates from positive emotions, thoughts, and actions and **not** from anything divine, although some cultures frame it that way.
+   * **Elemental Energy (EE)**: Energy that is required in order to manipulate the Platonic Elements. And yes, it includes the Aether. The most basic understanding of this energy is the ability to manipulate fire, earth, water, and air. Despite its apparent simplicity, it has many applications that wouldn't be obvious immediately. Most sorcerers' specs are founded on EE. Alien civilizations have a different understanding of it, but the fundamentals remain starkly similar.
+   * **Physical Energies (PHYSE): **These are all the real-life energies that PE transforms into. Thermal, radiant, mechanical, nuclear, chemical, **ALL** of them. The only reason this category exists is that Battra's students are human, and they have a human understanding of physics. Alien civilizations typically understand what **Curses**, **Blessings**, and fire, water, earth, and air are. They may have less than 3 or more than 5 or only 1. 
+* Now, I reveal that most civilizations across the universe of the ATM Universe do not know that PE exists, it can't be seen after all. Only the most affluent and knowledgeable civilizations know that underneath The Bases exists a purer form of energy. Earth is lucky to have Battra in this regard. That is why those four there are called The Bases. 
+* With this, detecting by Excess got more depth. Excess is the involuntary emission of PE, which transforms into other energy types upon leaving the body. Excess can transform into CE if a sorcerer stays in an environment filled with negative energy, but they are often physical energies, like heat or light. Some sorcerers specs goes as far as learning how to better detect certain types of Base Energy. A shaman might be an expert in identifying CE in an environment, while a sorcerer with a scientific upbringing might prefer to see the world through PHYSE, and so on. So, there's a sort of hierarchy in Excess detection, too. Magic is an expression of the Soul, after all, and this is reflected in how sorcerers view the world.
+   * **Base Excess**: It is PE dissipating into classical forms of energy, often physical in nature: heat, light, sound, etc. The advantage of PHYSE-specced sorcerers is that they already perceive this naturally. An unusual concentration of heat in the environment where you don't expect it may be signs of supernatural presence, for example.
+   * **Derived Excess**: It is PE transforming into CE, BE, or EE, which can be sensed wholly. Shamans may see CE itself in the environment, for example. 
+}
+
+The distinction between EE and PHYSE might confuse readers, but I think looking at it closer might reveal their true nature.
