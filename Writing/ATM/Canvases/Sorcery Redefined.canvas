@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6e82c95cd60c96db","type":"group","x":-735,"y":-360,"width":1470,"height":900,"label":"THE BASES"},
-		{"id":"26221bb3e3c7c832","type":"group","x":-440,"y":-1040,"width":880,"height":100,"label":"THE FOUNDATION OF SORCERY"},
+		{"id":"26221bb3e3c7c832","type":"group","x":-500,"y":-900,"width":1000,"height":100,"label":"THE FOUNDATION OF SORCERY"},
 		{
 			"id":"60856816155ecb88",
 			"type":"text",
@@ -9,26 +9,6 @@
 			"styleAttributes":{},
 			"x":-130,
 			"y":-680,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"35baafa41b76cf3f",
-			"type":"text",
-			"text":"# PRIMUS FORCE",
-			"styleAttributes":{},
-			"x":-390,
-			"y":-1020,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c67504a711b818e5",
-			"type":"text",
-			"text":"# THE SOUL",
-			"styleAttributes":{},
-			"x":130,
-			"y":-1020,
 			"width":260,
 			"height":60
 		},
@@ -71,6 +51,26 @@
 			"y":-320,
 			"width":320,
 			"height":60
+		},
+		{
+			"id":"35baafa41b76cf3f",
+			"type":"text",
+			"text":"# PRIMUS FORCE",
+			"styleAttributes":{},
+			"x":-465,
+			"y":-880,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c67504a711b818e5",
+			"type":"text",
+			"text":"# THE SOUL",
+			"styleAttributes":{},
+			"x":276,
+			"y":-880,
+			"width":199,
+			"height":60
 		}
 	],
 	"edges":[
@@ -85,7 +85,8 @@
 			"fromSide":"right",
 			"toNode":"c67504a711b818e5",
 			"toSide":"left",
-			"fromEnd":"arrow"
+			"fromEnd":"arrow",
+			"label":"SOUL INFUSION"
 		},
 		{
 			"id":"9f260f96d75719d1",
@@ -95,8 +96,7 @@
 			"fromNode":"26221bb3e3c7c832",
 			"fromSide":"bottom",
 			"toNode":"60856816155ecb88",
-			"toSide":"top",
-			"label":"SOUL INFUSION"
+			"toSide":"top"
 		},
 		{
 			"id":"98c776716ffc3589",
