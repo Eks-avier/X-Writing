@@ -8472,6 +8472,34 @@
         "newlineCount": 0
       },
       "frontmatter": {}
+    },
+    "Writing/ATM/Canvases/Untitled.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 80,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754840119131,
+      "modifiedDate": 1754840418748,
+      "sizeInBytes": 2416,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {}
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Writing/ATM/Canvases/Untitled.canvas"
+    },
+    {
       "basename": "Sorcery Redefined",
       "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Titan Hierarchy",
       "path": "Writing/ATM/Canvases/The Titan Hierarchy.canvas"
-    },
-    {
-      "basename": "The Nordsons and Lepidiels",
-      "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
     }
   ],
   "omittedPaths": [],

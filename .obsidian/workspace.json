@@ -49,15 +49,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "file": "Writing/ATM/Canvases/Untitled.canvas",
                 "viewState": {
-                  "x": -13.326238252009517,
-                  "y": -159.87700529183383,
-                  "zoom": -1.2449879504163406
+                  "x": 768.7249063495768,
+                  "y": -310.0438346352407,
+                  "zoom": -0.8452507770544695
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Sorcery Redefined"
+              "title": "Untitled"
             }
           },
           {
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "file": "Writing/ATM/Canvases/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorcery Redefined"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -316,9 +316,10 @@
   },
   "active": "b980c64f52f1b0d5",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Untitled.canvas",
     "Notepad 9.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
@@ -345,7 +346,6 @@
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/golden_thread_discovery.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/character_integration_psychology.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",
