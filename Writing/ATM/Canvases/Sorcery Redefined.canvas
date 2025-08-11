@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6e82c95cd60c96db","type":"group","x":-680,"y":-360,"width":1360,"height":100,"label":"THE BASES"},
-		{"id":"26221bb3e3c7c832","type":"group","x":-500,"y":-900,"width":1000,"height":100,"label":"THE FOUNDATION OF SORCERY"},
+		{"id":"26221bb3e3c7c832","type":"group","x":-480,"y":-900,"width":960,"height":100,"label":"THE FOUNDATION OF SORCERY"},
 		{
 			"id":"60856816155ecb88",
 			"type":"text",
@@ -9,6 +9,16 @@
 			"styleAttributes":{},
 			"x":-130,
 			"y":-680,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"35baafa41b76cf3f",
+			"type":"text",
+			"text":"# PRIMUS FORCE",
+			"styleAttributes":{},
+			"x":-465,
+			"y":-880,
 			"width":260,
 			"height":60
 		},
@@ -53,23 +63,43 @@
 			"height":60
 		},
 		{
-			"id":"35baafa41b76cf3f",
-			"type":"text",
-			"text":"# PRIMUS FORCE",
-			"styleAttributes":{},
-			"x":-465,
-			"y":-880,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"c67504a711b818e5",
 			"type":"text",
 			"text":"# THE SOUL",
 			"styleAttributes":{},
-			"x":276,
+			"x":260,
 			"y":-880,
 			"width":199,
+			"height":60
+		},
+		{
+			"id":"9dc3829e0c727e39",
+			"type":"text",
+			"text":"# SPELL VISUALIZATION",
+			"styleAttributes":{},
+			"x":-165,
+			"y":-140,
+			"width":330,
+			"height":60
+		},
+		{
+			"id":"fadcb0fa516c74b9",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":100,
+			"y":260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c20dfccc73424a3c",
+			"type":"text",
+			"text":"# SPELL ",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-40,
+			"width":260,
 			"height":60
 		}
 	],
@@ -108,6 +138,15 @@
 			"toSide":"left",
 			"fromEnd":"arrow",
 			"label":"SOUL INFUSION"
+		},
+		{
+			"id":"83ec5c4b65075b8c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6e82c95cd60c96db",
+			"fromSide":"bottom",
+			"toNode":"9dc3829e0c727e39",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
