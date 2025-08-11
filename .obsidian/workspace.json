@@ -51,9 +51,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Untitled.canvas",
                 "viewState": {
-                  "x": 1326.6583219078907,
-                  "y": 2.9420613663973114,
-                  "zoom": -0.42262538852723447
+                  "x": 526.8334907143245,
+                  "y": -63.368800365827454,
+                  "zoom": -1.2678761655817041
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -64,28 +64,21 @@
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notepad 9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "viewState": {
+                  "x": 259.3083052819047,
+                  "y": -365.9081728054093,
+                  "zoom": -1.3416608116384834
                 }
               },
-              "icon": "lucide-file",
-              "title": "Notepad 9"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sorcery Redefined"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,11 +307,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b980c64f52f1b0d5",
+  "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
-    "Writing/ATM/Canvases/Untitled.canvas",
     "Notepad 9.md",
+    "Writing/ATM/Canvases/Untitled.canvas",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
@@ -362,7 +355,6 @@
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
-    "Main Alternate Universe/Characters/Idea Board.canvas",
     "Main Alternate Universe/Characters/Idea Board.canvas"
   ]
 }
