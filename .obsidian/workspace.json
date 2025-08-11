@@ -85,6 +85,30 @@
             }
           },
           {
+            "id": "5ae88111bc2bdc0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Art of Commitments"
+            }
+          },
+          {
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
@@ -92,8 +116,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 1469.6321318507662,
-                  "y": -206.55261646315984,
+                  "x": 1978.4115042036337,
+                  "y": -178.06908384973906,
                   "zoom": -0.26787616558170446
                 }
               },
@@ -102,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -216,10 +240,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Titans/Godzilla III/Godzilla Profile.md"
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla Profile"
+              "title": "File properties for Sorcery Redefined"
             }
           },
           {
@@ -228,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/Untitled.canvas",
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +262,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Sorcery Redefined"
             }
           },
           {
@@ -261,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Magnetism.md",
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Magnetism"
+              "title": "Outline of Sorcery Redefined"
             }
           },
           {
@@ -304,13 +328,11 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,17 +353,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d080cbe5094ce390",
+  "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Sorcery.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
+    "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
+    "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Magic System/Soul/Soul Infusion.md",
     "College/3Q2425/1-27-25 - Physics.md",
@@ -362,7 +385,6 @@
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
     "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/golden_thread_discovery.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",

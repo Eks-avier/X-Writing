@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Sorcery Redefined",
+      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+    },
+    {
+      "basename": "Art of Commitments",
+      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
+    },
+    {
       "basename": "Art of Spell Casting",
       "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md"
     },
     {
-      "basename": "Sorcery",
-      "path": "Writing/ATM/Canvases/Sorcery.canvas"
+      "basename": "Unrefined - The Art of Commitments",
+      "path": "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md"
     },
     {
-      "basename": "Sorcery Redefined",
-      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+      "basename": "Sorcery",
+      "path": "Writing/ATM/Canvases/Sorcery.canvas"
     },
     {
       "basename": "Psionics",
@@ -31,10 +39,6 @@
     {
       "basename": "complete-arc-structure",
       "path": "Writing/ATM/Story Arcs/complete-arc-structure.md"
-    },
-    {
-      "basename": "Art of Commitments",
-      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
     },
     {
       "basename": "psionics-system",
@@ -195,10 +199,6 @@
     {
       "basename": "The Titan Standing Hierarchy",
       "path": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas"
-    },
-    {
-      "basename": "The Titan Hierarchy",
-      "path": "Writing/ATM/Canvases/The Titan Hierarchy.canvas"
     }
   ],
   "omittedPaths": [],
