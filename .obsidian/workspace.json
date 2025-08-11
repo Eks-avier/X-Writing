@@ -49,15 +49,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Untitled.canvas",
+                "file": "Writing/ATM/Canvases/Sorcery.canvas",
                 "viewState": {
-                  "x": 526.8334907143245,
-                  "y": -63.368800365827454,
-                  "zoom": -1.2678761655817041
+                  "x": 178.42399308528377,
+                  "y": 222.65623348542485,
+                  "zoom": -1.4601357841008107
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Sorcery"
             }
           },
           {
@@ -68,9 +68,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 170.23222136563476,
-                  "y": -60.94464661039581,
-                  "zoom": -1.3452507770544697
+                  "x": 1437.3251079369952,
+                  "y": -465.25552239817534,
+                  "zoom": -1.535752331163409
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -309,10 +309,10 @@
   },
   "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Notepad 9.md",
-    "Writing/ATM/Canvases/Untitled.canvas",
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Sorcery.canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",

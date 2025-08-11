@@ -7334,34 +7334,6 @@
         "newlineCount": 31
       }
     },
-    "Writing/ATM/Canvases/Untitled.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 232,
-      "nonWhitespaceCharacterCount": 199,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754840119131,
-      "modifiedDate": 1754920366228,
-      "sizeInBytes": 4834,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06666666666666667,
-        "wordCount": 20,
-        "characterCount": 206,
-        "nonWhitespaceCharacterCount": 176,
-        "newlineCount": 11
-      },
-      "frontmatter": {}
-    },
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7475,20 +7447,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 122,
-      "nonWhitespaceCharacterCount": 100,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.05660377358490566,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 204,
+      "nonWhitespaceCharacterCount": 170,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.08679245283018867,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754773724584,
-      "modifiedDate": 1754921175109,
-      "sizeInBytes": 2679,
+      "modifiedDate": 1754921952313,
+      "sizeInBytes": 4304,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
@@ -8496,6 +8468,33 @@
         "characterCount": 12070,
         "nonWhitespaceCharacterCount": 10156,
         "newlineCount": 114
+      }
+    },
+    "Writing/ATM/Canvases/Psionics.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 232,
+      "nonWhitespaceCharacterCount": 199,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754840119131,
+      "modifiedDate": 1754920366228,
+      "sizeInBytes": 4834,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
