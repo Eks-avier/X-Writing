@@ -61,6 +61,30 @@
             }
           },
           {
+            "id": "d080cbe5094ce390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Art of Spell Casting"
+            }
+          },
+          {
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
@@ -68,9 +92,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 1437.3251079369952,
-                  "y": -465.25552239817534,
-                  "zoom": -1.535752331163409
+                  "x": 1469.6321318507662,
+                  "y": -206.55261646315984,
+                  "zoom": -0.26787616558170446
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -307,11 +331,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "23d04c898233237a",
+  "active": "d080cbe5094ce390",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Sorcery.canvas",
-    "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",

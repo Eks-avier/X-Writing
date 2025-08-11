@@ -148,18 +148,60 @@
 			"type":"text",
 			"text":"# SOUL INFUSION",
 			"styleAttributes":{},
-			"x":1480,
-			"y":-760,
+			"x":1220,
+			"y":-680,
 			"width":260,
 			"height":60
 		},
 		{
 			"id":"83aab552cd96efc5",
 			"type":"text",
-			"text":"",
+			"text":"# SOUL RESONANCE",
 			"styleAttributes":{},
-			"x":1660,
-			"y":-700,
+			"x":1740,
+			"y":-680,
+			"width":310,
+			"height":60
+		},
+		{
+			"id":"8c61525e7361bdb4",
+			"type":"text",
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":1200,
+			"y":-540,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
+			"styleAttributes":{},
+			"x":1220,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7758587a9084e9a8",
+			"type":"text",
+			"text":"#  MENTAL VISUALIZATION",
+			"styleAttributes":{},
+			"x":1170,
+			"y":-260,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"44b8e3737bd5774e",
+			"type":"text",
+			"text":"#  ",
+			"styleAttributes":{},
+			"x":1220,
+			"y":-120,
 			"width":260,
 			"height":60
 		}
@@ -253,6 +295,60 @@
 			"fromSide":"right",
 			"toNode":"71a4031d9cc3a24b",
 			"toSide":"left"
+		},
+		{
+			"id":"6cda3cccc559f133",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"71a4031d9cc3a24b",
+			"fromSide":"bottom",
+			"toNode":"24fb9d93632b18cc",
+			"toSide":"right"
+		},
+		{
+			"id":"64537b60fe10cff6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"71a4031d9cc3a24b",
+			"fromSide":"bottom",
+			"toNode":"83aab552cd96efc5",
+			"toSide":"left"
+		},
+		{
+			"id":"8da5864e74c9d056",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"24fb9d93632b18cc",
+			"fromSide":"bottom",
+			"toNode":"8c61525e7361bdb4",
+			"toSide":"top"
+		},
+		{
+			"id":"762424bd3937ea23",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8c61525e7361bdb4",
+			"fromSide":"bottom",
+			"toNode":"91d1b226b647c6c6",
+			"toSide":"top"
+		},
+		{
+			"id":"89f06291157f54f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"91d1b226b647c6c6",
+			"fromSide":"bottom",
+			"toNode":"7758587a9084e9a8",
+			"toSide":"top"
+		},
+		{
+			"id":"99666060032cf3f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7758587a9084e9a8",
+			"fromSide":"bottom",
+			"toNode":"44b8e3737bd5774e",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
