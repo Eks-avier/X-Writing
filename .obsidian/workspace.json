@@ -116,8 +116,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 1876.9728815257151,
-                  "y": -358.6548637745353,
+                  "x": 1784.3251368686385,
+                  "y": -381.5810870172788,
                   "zoom": -1.113126942636174
                 }
               },
@@ -350,7 +350,8 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "23d04c898233237a",
