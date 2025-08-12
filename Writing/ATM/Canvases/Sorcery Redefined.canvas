@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-530,"width":1100,"height":500,"color":"2","label":"AOC"},
-		{"id":"815a034f34c9bfe2","type":"group","x":1060,"y":-580,"width":360,"height":600,"color":"3","label":"ASC"},
+		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-560,"width":1100,"height":500,"color":"2","label":"AOC"},
+		{"id":"815a034f34c9bfe2","type":"group","x":1060,"y":-560,"width":360,"height":540,"color":"3","label":"ASC"},
 		{"id":"46c5b556217c602c","type":"group","x":240,"y":-960,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
+		{"id":"48e87b9955dcf8b2","type":"group","x":460,"y":-290,"width":480,"height":320,"color":"1","label":"THE BASES"},
 		{"id":"8670b61694f6a42d","type":"group","x":1920,"y":-1100,"width":300,"height":100,"color":"5","label":"THE ARBITER"},
 		{
 			"id":"24fb9d93632b18cc",
@@ -12,18 +13,6 @@
 			"x":1111,
 			"y":-720,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"8c61525e7361bdb4",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":1094,
-			"y":-540,
-			"width":293,
 			"height":60
 		},
 		{
@@ -111,64 +100,15 @@
 			"color":"2"
 		},
 		{
-			"id":"bc2d13927fdf8f09",
+			"id":"8c61525e7361bdb4",
 			"type":"text",
-			"text":"# THE BASES",
-			"styleAttributes":{},
-			"x":640,
-			"y":-440,
-			"width":220,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"91d1b226b647c6c6",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
 			"x":1094,
-			"y":-420,
+			"y":-520,
 			"width":293,
-			"height":60
-		},
-		{
-			"id":"7758587a9084e9a8",
-			"type":"text",
-			"text":"#  VISUALIZATION",
-			"styleAttributes":{},
-			"x":1094,
-			"y":-310,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"44b8e3737bd5774e",
-			"type":"text",
-			"text":"# ARTICULATION  ",
-			"styleAttributes":{},
-			"x":1098,
-			"y":-200,
-			"width":286,
-			"height":60
-		},
-		{
-			"id":"c6e1045107e9c264",
-			"type":"text",
-			"text":"# EXECUTION",
-			"styleAttributes":{},
-			"x":1111,
-			"y":-80,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f457e3d01b62932c",
-			"type":"text",
-			"text":"# SPELL",
-			"styleAttributes":{},
-			"x":1141,
-			"y":100,
-			"width":200,
 			"height":60
 		},
 		{
@@ -177,7 +117,7 @@
 			"text":"# COVENNT",
 			"styleAttributes":{},
 			"x":2400,
-			"y":-350,
+			"y":-380,
 			"width":260,
 			"height":60
 		},
@@ -187,7 +127,7 @@
 			"text":"# VOW",
 			"styleAttributes":{},
 			"x":1630,
-			"y":-290,
+			"y":-320,
 			"width":260,
 			"height":60
 		},
@@ -197,7 +137,7 @@
 			"text":"# PROMISE",
 			"styleAttributes":{},
 			"x":2140,
-			"y":-210,
+			"y":-240,
 			"width":260,
 			"height":60
 		},
@@ -207,7 +147,7 @@
 			"text":"# OATH",
 			"styleAttributes":{},
 			"x":2140,
-			"y":-130,
+			"y":-160,
 			"width":260,
 			"height":60
 		},
@@ -217,7 +157,7 @@
 			"text":"# COMMITMENTS",
 			"styleAttributes":{},
 			"x":1945,
-			"y":-490,
+			"y":-520,
 			"width":260,
 			"height":60
 		},
@@ -227,8 +167,98 @@
 			"text":"# CONTRACT",
 			"styleAttributes":{},
 			"x":1630,
-			"y":-370,
+			"y":-400,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
+			"styleAttributes":{},
+			"x":1094,
+			"y":-430,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"7758587a9084e9a8",
+			"type":"text",
+			"text":"#  VISUALIZATION",
+			"styleAttributes":{},
+			"x":1095,
+			"y":-290,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"44b8e3737bd5774e",
+			"type":"text",
+			"text":"# ARTICULATION  ",
+			"styleAttributes":{},
+			"x":1098,
+			"y":-210,
+			"width":286,
+			"height":60
+		},
+		{
+			"id":"c6e1045107e9c264",
+			"type":"text",
+			"text":"# EXECUTION",
+			"styleAttributes":{},
+			"x":1111,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f457e3d01b62932c",
+			"type":"text",
+			"text":"# SPELL",
+			"styleAttributes":{},
+			"x":1142,
+			"y":60,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"2ada85b915366ca3",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY (EE)",
+			"styleAttributes":{},
+			"x":480,
+			"y":-120,
+			"width":430,
+			"height":60
+		},
+		{
+			"id":"bde3791a108823ba",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES (PHYSE)",
+			"styleAttributes":{},
+			"x":480,
+			"y":-50,
+			"width":430,
+			"height":60
+		},
+		{
+			"id":"e2dc80174da9d165",
+			"type":"text",
+			"text":"# BLESSED ENERGY (BE)",
+			"styleAttributes":{},
+			"x":480,
+			"y":-190,
+			"width":430,
+			"height":60
+		},
+		{
+			"id":"fffd9611c0c8eda7",
+			"type":"text",
+			"text":"# CURSED ENERGY (CE)",
+			"styleAttributes":{},
+			"x":480,
+			"y":-260,
+			"width":430,
 			"height":60
 		}
 	],
@@ -260,15 +290,6 @@
 			"fromNode":"71a4031d9cc3a24b",
 			"fromSide":"bottom",
 			"toNode":"83aab552cd96efc5",
-			"toSide":"top"
-		},
-		{
-			"id":"8da5864e74c9d056",
-			"styleAttributes":{"pathfindingMethod":"direct"},
-			"toFloating":false,
-			"fromNode":"24fb9d93632b18cc",
-			"fromSide":"bottom",
-			"toNode":"8c61525e7361bdb4",
 			"toSide":"top"
 		},
 		{
@@ -313,23 +334,28 @@
 		},
 		{
 			"id":"0ce0a133abd5c36b",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":"square",
+				"path":null
+			},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"815a034f34c9bfe2",
+			"fromNode":"24fb9d93632b18cc",
 			"fromSide":"right",
 			"toNode":"98b4257fbfbbda11",
-			"toSide":"left"
+			"toSide":"left",
+			"fromEnd":"arrow"
 		},
 		{
 			"id":"4142795f0a86205a",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"815a034f34c9bfe2",
+			"fromNode":"24fb9d93632b18cc",
 			"fromSide":"right",
 			"toNode":"feead97e953566ac",
-			"toSide":"left"
+			"toSide":"left",
+			"fromEnd":"arrow"
 		},
 		{
 			"id":"568c48c445f6a245",
@@ -340,16 +366,6 @@
 			"fromSide":"right",
 			"toNode":"b23b2f192f98c41c",
 			"toSide":"left"
-		},
-		{
-			"id":"762424bd3937ea23",
-			"styleAttributes":{"pathfindingMethod":"direct"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"8c61525e7361bdb4",
-			"fromSide":"bottom",
-			"toNode":"91d1b226b647c6c6",
-			"toSide":"top"
 		},
 		{
 			"id":"89f06291157f54f4",
@@ -419,14 +435,32 @@
 			"fromEnd":"arrow"
 		},
 		{
-			"id":"a4e631b2060076a7",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"id":"8da5864e74c9d056",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromNode":"24fb9d93632b18cc",
+			"fromSide":"bottom",
+			"toNode":"8c61525e7361bdb4",
+			"toSide":"top"
+		},
+		{
+			"id":"762424bd3937ea23",
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"91d1b226b647c6c6",
+			"fromNode":"8c61525e7361bdb4",
 			"fromSide":"bottom",
-			"toNode":"bc2d13927fdf8f09",
-			"toSide":"right"
+			"toNode":"91d1b226b647c6c6",
+			"toSide":"top"
+		},
+		{
+			"id":"aaab89710a73c34d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"91d1b226b647c6c6",
+			"fromSide":"left",
+			"toNode":"48e87b9955dcf8b2",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
