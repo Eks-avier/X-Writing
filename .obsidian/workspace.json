@@ -116,8 +116,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 1697.6072762727251,
-                  "y": -294.47810604485505,
+                  "x": 1876.9728815257151,
+                  "y": -358.6548637745353,
                   "zoom": -1.113126942636174
                 }
               },
@@ -328,6 +328,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -349,8 +350,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "23d04c898233237a",
