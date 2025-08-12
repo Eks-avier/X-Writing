@@ -1,24 +1,100 @@
 {
 	"nodes":[
-		{"id":"815a034f34c9bfe2","type":"group","x":1080,"y":-540,"width":320,"height":500,"color":"3","label":"ASC"},
-		{"id":"46c5b556217c602c","type":"group","x":480,"y":-710,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
+		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-580,"width":1100,"height":500,"color":"2","label":"AOC"},
+		{"id":"815a034f34c9bfe2","type":"group","x":1060,"y":-580,"width":360,"height":540,"color":"3","label":"ASC"},
+		{"id":"46c5b556217c602c","type":"group","x":480,"y":-740,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
+		{"id":"8670b61694f6a42d","type":"group","x":1920,"y":-1100,"width":300,"height":100,"color":"5","label":"THE ARBITER"},
 		{
-			"id":"71a4031d9cc3a24b",
+			"id":"f457e3d01b62932c",
 			"type":"text",
-			"text":"# SOUL",
+			"text":"# SPELL",
 			"styleAttributes":{},
-			"x":1500,
-			"y":-920,
+			"x":1141,
+			"y":40,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"7568de2f0148a4f5",
+			"type":"text",
+			"text":"# Art of Spell Casting (ASC)",
+			"styleAttributes":{},
+			"x":500,
+			"y":-720,
+			"width":420,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"c836245724598e41",
+			"type":"text",
+			"text":"# Art of Spell Optimization (ASO)",
+			"styleAttributes":{},
+			"x":500,
+			"y":-640,
+			"width":420,
+			"height":60
+		},
+		{
+			"id":"9e26bf7be8a7b06f",
+			"type":"text",
+			"text":"# Art of Spell Keeping (ASK)",
+			"styleAttributes":{},
+			"x":500,
+			"y":-560,
+			"width":420,
+			"height":60
+		},
+		{
+			"id":"7085398ac03f7759",
+			"type":"text",
+			"text":"# Art of Commitments (AOC)",
+			"styleAttributes":{},
+			"x":500,
+			"y":-480,
+			"width":420,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"24fb9d93632b18cc",
+			"type":"text",
+			"text":"# SOUL INFUSION",
+			"styleAttributes":{},
+			"x":1111,
+			"y":-720,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"ec38e29a3fd05b8a",
+			"id":"8c61525e7361bdb4",
 			"type":"text",
-			"text":"# PRIMUS FORCE",
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":1094,
+			"y":-540,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
 			"styleAttributes":{},
-			"x":1040,
-			"y":-920,
+			"x":1094,
+			"y":-440,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"a905655c05b29b05",
+			"type":"text",
+			"text":"# HEAVEN",
+			"styleAttributes":{},
+			"x":1940,
+			"y":-1080,
 			"width":260,
 			"height":60
 		},
@@ -27,29 +103,9 @@
 			"type":"text",
 			"text":"# SOUL RESONANCE",
 			"styleAttributes":{},
-			"x":1915,
-			"y":-680,
+			"x":1920,
+			"y":-720,
 			"width":310,
-			"height":60
-		},
-		{
-			"id":"d47035e6d84c4563",
-			"type":"text",
-			"text":"# COMMITMENTS",
-			"styleAttributes":{},
-			"x":1940,
-			"y":-540,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"98b4257fbfbbda11",
-			"type":"text",
-			"text":"# CONTRACT",
-			"styleAttributes":{},
-			"x":1580,
-			"y":-540,
-			"width":260,
 			"height":60
 		},
 		{
@@ -63,12 +119,72 @@
 			"height":60
 		},
 		{
-			"id":"4fc8e0dc1077c053",
+			"id":"7758587a9084e9a8",
 			"type":"text",
-			"text":"# OATH",
+			"text":"#  VISUALIZATION",
 			"styleAttributes":{},
-			"x":2140,
-			"y":-160,
+			"x":1094,
+			"y":-340,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"44b8e3737bd5774e",
+			"type":"text",
+			"text":"# ARTICULATION  ",
+			"styleAttributes":{},
+			"x":1098,
+			"y":-240,
+			"width":286,
+			"height":60
+		},
+		{
+			"id":"c6e1045107e9c264",
+			"type":"text",
+			"text":"# EXECUTION",
+			"styleAttributes":{},
+			"x":1111,
+			"y":-140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"71a4031d9cc3a24b",
+			"type":"text",
+			"text":"# SOUL",
+			"styleAttributes":{},
+			"x":1500,
+			"y":-950,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ec38e29a3fd05b8a",
+			"type":"text",
+			"text":"# PRIMUS FORCE",
+			"styleAttributes":{},
+			"x":1040,
+			"y":-950,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"98b4257fbfbbda11",
+			"type":"text",
+			"text":"# CONTRACT",
+			"styleAttributes":{},
+			"x":1630,
+			"y":-420,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"feead97e953566ac",
+			"type":"text",
+			"text":"# VOW",
+			"styleAttributes":{},
+			"x":1630,
+			"y":-340,
 			"width":260,
 			"height":60
 		},
@@ -83,136 +199,23 @@
 			"height":60
 		},
 		{
-			"id":"a905655c05b29b05",
+			"id":"4fc8e0dc1077c053",
 			"type":"text",
-			"text":"# HEAVEN",
+			"text":"# OATH",
 			"styleAttributes":{},
-			"x":1940,
-			"y":-1080,
+			"x":2140,
+			"y":-180,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"feead97e953566ac",
+			"id":"d47035e6d84c4563",
 			"type":"text",
-			"text":"# VOW",
+			"text":"# COMMITMENTS",
 			"styleAttributes":{},
-			"x":1580,
-			"y":-440,
+			"x":1945,
+			"y":-540,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"24fb9d93632b18cc",
-			"type":"text",
-			"text":"# SOUL INFUSION",
-			"styleAttributes":{},
-			"x":1111,
-			"y":-680,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"91d1b226b647c6c6",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
-			"x":1094,
-			"y":-420,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"7758587a9084e9a8",
-			"type":"text",
-			"text":"#  VISUALIZATION",
-			"styleAttributes":{},
-			"x":1094,
-			"y":-320,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"44b8e3737bd5774e",
-			"type":"text",
-			"text":"# ARTICULATION  ",
-			"styleAttributes":{},
-			"x":1098,
-			"y":-220,
-			"width":286,
-			"height":60
-		},
-		{
-			"id":"8c61525e7361bdb4",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":1094,
-			"y":-520,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"c836245724598e41",
-			"type":"text",
-			"text":"# Art of Spell Optimization (ASO)",
-			"styleAttributes":{},
-			"x":500,
-			"y":-610,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"7568de2f0148a4f5",
-			"type":"text",
-			"text":"# Art of Spell Casting (ASC)",
-			"styleAttributes":{},
-			"x":500,
-			"y":-690,
-			"width":420,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"7085398ac03f7759",
-			"type":"text",
-			"text":"# Art of Commitments (AOC)",
-			"styleAttributes":{},
-			"x":500,
-			"y":-530,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"9e26bf7be8a7b06f",
-			"type":"text",
-			"text":"# Art of Spell Keeping (ASK)",
-			"styleAttributes":{},
-			"x":500,
-			"y":-450,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"c6e1045107e9c264",
-			"type":"text",
-			"text":"# EXECUTION",
-			"styleAttributes":{},
-			"x":1111,
-			"y":-120,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f457e3d01b62932c",
-			"type":"text",
-			"text":"# SPELL",
-			"styleAttributes":{},
-			"x":1141,
-			"y":40,
-			"width":200,
 			"height":60
 		}
 	],
@@ -240,6 +243,7 @@
 			"id":"64537b60fe10cff6",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"71a4031d9cc3a24b",
 			"fromSide":"bottom",
 			"toNode":"83aab552cd96efc5",
@@ -251,13 +255,14 @@
 			"toFloating":false,
 			"fromNode":"24fb9d93632b18cc",
 			"fromSide":"bottom",
-			"toNode":"815a034f34c9bfe2",
+			"toNode":"8c61525e7361bdb4",
 			"toSide":"top"
 		},
 		{
 			"id":"c6eb1cec5d0c90e5",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"83aab552cd96efc5",
 			"fromSide":"bottom",
 			"toNode":"d47035e6d84c4563",
@@ -269,7 +274,7 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"d47035e6d84c4563",
-			"fromSide":"left",
+			"fromSide":"bottom",
 			"toNode":"98b4257fbfbbda11",
 			"toSide":"right"
 		},
@@ -311,37 +316,6 @@
 			"fromSide":"right",
 			"toNode":"feead97e953566ac",
 			"toSide":"left"
-		},
-		{
-			"id":"82d7b35d0de2996a",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"a905655c05b29b05",
-			"fromSide":"left",
-			"toNode":"71a4031d9cc3a24b",
-			"toSide":"top"
-		},
-		{
-			"id":"df5864620945b4e7",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"d47035e6d84c4563",
-			"fromSide":"left",
-			"toNode":"feead97e953566ac",
-			"toSide":"right"
-		},
-		{
-			"id":"605b4f414e70d380",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"a905655c05b29b05",
-			"fromSide":"right",
-			"toNode":"b23b2f192f98c41c",
-			"toSide":"top",
-			"fromEnd":"arrow"
 		},
 		{
 			"id":"568c48c445f6a245",
@@ -392,13 +366,43 @@
 			"toSide":"top"
 		},
 		{
-			"id":"a5bd0beaa0af8eb3",
-			"styleAttributes":{"pathfindingMethod":"direct"},
+			"id":"bc887e433c9e0755",
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromNode":"815a034f34c9bfe2",
+			"fromNode":"d47035e6d84c4563",
+			"fromSide":"bottom",
+			"toNode":"feead97e953566ac",
+			"toSide":"right"
+		},
+		{
+			"id":"1eb6f15da7eed4f5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c6e1045107e9c264",
 			"fromSide":"bottom",
 			"toNode":"f457e3d01b62932c",
 			"toSide":"top"
+		},
+		{
+			"id":"82d7b35d0de2996a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a905655c05b29b05",
+			"fromSide":"left",
+			"toNode":"71a4031d9cc3a24b",
+			"toSide":"top"
+		},
+		{
+			"id":"605b4f414e70d380",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a905655c05b29b05",
+			"fromSide":"right",
+			"toNode":"b23b2f192f98c41c",
+			"toSide":"top",
+			"fromEnd":"arrow"
 		}
 	],
 	"metadata":{
