@@ -1,20 +1,22 @@
 {
 	"nodes":[
 		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-560,"width":1100,"height":500,"color":"2","label":"AOC"},
-		{"id":"815a034f34c9bfe2","type":"group","x":920,"y":-560,"width":520,"height":1000,"color":"3","label":"ASC"},
+		{"id":"815a034f34c9bfe2","type":"group","x":920,"y":-560,"width":520,"height":980,"color":"3","label":"ASC"},
 		{"id":"46c5b556217c602c","type":"group","x":240,"y":-960,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
-		{"id":"48e87b9955dcf8b2","type":"group","x":960,"y":-260,"width":440,"height":340,"color":"1","label":"BASES"},
-		{"id":"8670b61694f6a42d","type":"group","x":1920,"y":-1100,"width":300,"height":100,"color":"5","label":"THE ARBITER"},
 		{
-			"id":"a905655c05b29b05",
-			"type":"text",
-			"text":"# HEAVEN",
-			"styleAttributes":{},
-			"x":1940,
-			"y":-1080,
-			"width":260,
-			"height":60
+			"id":"48e87b9955dcf8b2",
+			"type":"group",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":950,
+			"y":-280,
+			"width":460,
+			"height":340,
+			"color":"1",
+			"label":"BASES"
 		},
+		{"id":"8670b61694f6a42d","type":"group","x":1945,"y":-1100,"width":335,"height":100,"color":"5","label":"THE ARBITER OF SOULS"},
 		{
 			"id":"7568de2f0148a4f5",
 			"type":"text",
@@ -120,78 +122,6 @@
 			"height":60
 		},
 		{
-			"id":"7758587a9084e9a8",
-			"type":"text",
-			"text":"#  VISUALIZATION",
-			"styleAttributes":{},
-			"x":1034,
-			"y":140,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"8c61525e7361bdb4",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":1034,
-			"y":-520,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"91d1b226b647c6c6",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
-			"x":1034,
-			"y":-400,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"44b8e3737bd5774e",
-			"type":"text",
-			"text":"# ARTICULATION  ",
-			"styleAttributes":{},
-			"x":1037,
-			"y":240,
-			"width":286,
-			"height":60
-		},
-		{
-			"id":"c6e1045107e9c264",
-			"type":"text",
-			"text":"# EXECUTION",
-			"styleAttributes":{},
-			"x":1050,
-			"y":340,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f457e3d01b62932c",
-			"type":"text",
-			"text":"# SPELL",
-			"styleAttributes":{},
-			"x":1081,
-			"y":520,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"24fb9d93632b18cc",
-			"type":"text",
-			"text":"# SOUL INFUSION",
-			"styleAttributes":{},
-			"x":1051,
-			"y":-710,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"8f0eb6b5ffa8d888",
 			"type":"text",
 			"text":"# UNNUL",
@@ -232,13 +162,67 @@
 			"height":60
 		},
 		{
+			"id":"24fb9d93632b18cc",
+			"type":"text",
+			"text":"# SOUL INFUSION",
+			"styleAttributes":{},
+			"x":1048,
+			"y":-700,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
+			"styleAttributes":{},
+			"x":1034,
+			"y":-400,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"8c61525e7361bdb4",
+			"type":"text",
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":1034,
+			"y":-520,
+			"width":293,
+			"height":60
+		},
+		{
 			"id":"e2dc80174da9d165",
 			"type":"text",
 			"text":"# BLESSED ENERGY (BE)",
 			"styleAttributes":{},
-			"x":975,
-			"y":-160,
-			"width":335,
+			"x":968,
+			"y":-180,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"2ada85b915366ca3",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY (EE)",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":968,
+			"y":-100,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"bde3791a108823ba",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES (PHYSE)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":968,
+			"y":-20,
+			"width":425,
 			"height":60
 		},
 		{
@@ -246,29 +230,59 @@
 			"type":"text",
 			"text":"# CURSED ENERGY (CE)",
 			"styleAttributes":{},
-			"x":976,
-			"y":-240,
-			"width":334,
+			"x":968,
+			"y":-260,
+			"width":424,
 			"height":60
 		},
 		{
-			"id":"bde3791a108823ba",
+			"id":"7758587a9084e9a8",
 			"type":"text",
-			"text":"#### PHYSICAL ENERGIES (PHYSE)",
+			"text":"#  VISUALIZATION",
 			"styleAttributes":{},
-			"x":1013,
-			"y":0,
-			"width":335,
+			"x":1042,
+			"y":120,
+			"width":277,
 			"height":60
 		},
 		{
-			"id":"2ada85b915366ca3",
+			"id":"44b8e3737bd5774e",
 			"type":"text",
-			"text":"#### ELEMENTAL ENERGY (EE)",
+			"text":"# ARTICULATION  ",
 			"styleAttributes":{},
-			"x":1013,
-			"y":-80,
-			"width":335,
+			"x":1043,
+			"y":220,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"c6e1045107e9c264",
+			"type":"text",
+			"text":"# EXECUTION",
+			"styleAttributes":{},
+			"x":1051,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f457e3d01b62932c",
+			"type":"text",
+			"text":"# SPELL",
+			"styleAttributes":{},
+			"x":1082,
+			"y":480,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"a905655c05b29b05",
+			"type":"text",
+			"text":"# HEAVEN",
+			"styleAttributes":{},
+			"x":1970,
+			"y":-1080,
+			"width":260,
 			"height":60
 		}
 	],
@@ -412,7 +426,7 @@
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"a905655c05b29b05",
+			"fromNode":"8670b61694f6a42d",
 			"fromSide":"left",
 			"toNode":"71a4031d9cc3a24b",
 			"toSide":"top"
@@ -422,7 +436,7 @@
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"a905655c05b29b05",
+			"fromNode":"8670b61694f6a42d",
 			"fromSide":"right",
 			"toNode":"b23b2f192f98c41c",
 			"toSide":"top",
