@@ -16,7 +16,17 @@
 			"color":"1",
 			"label":"BASES"
 		},
-		{"id":"8670b61694f6a42d","type":"group","x":1945,"y":-1100,"width":335,"height":100,"color":"5","label":"THE ARBITER OF SOULS"},
+		{"id":"8670b61694f6a42d","type":"group","x":2040,"y":-1200,"width":335,"height":100,"color":"5","label":"ARBITER OF SOULS"},
+		{
+			"id":"c2d0e7b63bf85627",
+			"type":"group",
+			"styleAttributes":{"border":"invisible"},
+			"x":1480,
+			"y":-1060,
+			"width":300,
+			"height":100,
+			"label":"SEAT OF IDENTITY"
+		},
 		{
 			"id":"7568de2f0148a4f5",
 			"type":"text",
@@ -118,46 +128,6 @@
 			"styleAttributes":{},
 			"x":1630,
 			"y":-400,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8f0eb6b5ffa8d888",
-			"type":"text",
-			"text":"# UNNUL",
-			"styleAttributes":{},
-			"x":1500,
-			"y":-840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"83aab552cd96efc5",
-			"type":"text",
-			"text":"# SOUL RESONANCE",
-			"styleAttributes":{},
-			"x":1920,
-			"y":-710,
-			"width":310,
-			"height":60
-		},
-		{
-			"id":"71a4031d9cc3a24b",
-			"type":"text",
-			"text":"# SOUL",
-			"styleAttributes":{},
-			"x":1500,
-			"y":-980,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ec38e29a3fd05b8a",
-			"type":"text",
-			"text":"# PRIMUS FORCE",
-			"styleAttributes":{},
-			"x":1051,
-			"y":-980,
 			"width":260,
 			"height":60
 		},
@@ -276,37 +246,57 @@
 			"height":60
 		},
 		{
+			"id":"83aab552cd96efc5",
+			"type":"text",
+			"text":"# SOUL RESONANCE",
+			"styleAttributes":{},
+			"x":1920,
+			"y":-700,
+			"width":310,
+			"height":60
+		},
+		{
+			"id":"71a4031d9cc3a24b",
+			"type":"text",
+			"text":"# SOUL",
+			"styleAttributes":{},
+			"x":1500,
+			"y":-1040,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"a905655c05b29b05",
 			"type":"text",
 			"text":"# HEAVEN",
 			"styleAttributes":{},
-			"x":1970,
-			"y":-1080,
+			"x":2075,
+			"y":-1180,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"ec38e29a3fd05b8a",
+			"type":"text",
+			"text":"# PRIMUS FORCE",
+			"styleAttributes":{},
+			"x":1048,
+			"y":-1040,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8f0eb6b5ffa8d888",
+			"type":"text",
+			"text":"# UNNUL",
+			"styleAttributes":{},
+			"x":1550,
+			"y":-890,
+			"width":160,
 			"height":60
 		}
 	],
 	"edges":[
-		{
-			"id":"d46483d422944f71",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"ec38e29a3fd05b8a",
-			"fromSide":"right",
-			"toNode":"71a4031d9cc3a24b",
-			"toSide":"left"
-		},
-		{
-			"id":"6cda3cccc559f133",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"71a4031d9cc3a24b",
-			"fromSide":"bottom",
-			"toNode":"8f0eb6b5ffa8d888",
-			"toSide":"top"
-		},
 		{
 			"id":"c6eb1cec5d0c90e5",
 			"styleAttributes":{"pathfindingMethod":"direct"},
@@ -422,16 +412,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"82d7b35d0de2996a",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"8670b61694f6a42d",
-			"fromSide":"left",
-			"toNode":"71a4031d9cc3a24b",
-			"toSide":"top"
-		},
-		{
 			"id":"605b4f414e70d380",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
@@ -500,6 +480,35 @@
 			"fromSide":"bottom",
 			"toNode":"83aab552cd96efc5",
 			"toSide":"top"
+		},
+		{
+			"id":"7c8094aeb2991b26",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c2d0e7b63bf85627",
+			"fromSide":"bottom",
+			"toNode":"8f0eb6b5ffa8d888",
+			"toSide":"top"
+		},
+		{
+			"id":"26e3ddafbacfb806",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ec38e29a3fd05b8a",
+			"fromSide":"right",
+			"toNode":"c2d0e7b63bf85627",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"9f50fcbd171b7be8",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"8670b61694f6a42d",
+			"fromSide":"bottom",
+			"toNode":"c2d0e7b63bf85627",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
