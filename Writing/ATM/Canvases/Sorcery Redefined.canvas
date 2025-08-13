@@ -1,20 +1,10 @@
 {
 	"nodes":[
 		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-560,"width":1100,"height":500,"color":"2","label":"AOC"},
-		{"id":"815a034f34c9bfe2","type":"group","x":1060,"y":-560,"width":360,"height":540,"color":"3","label":"ASC"},
+		{"id":"815a034f34c9bfe2","type":"group","x":920,"y":-560,"width":520,"height":1000,"color":"3","label":"ASC"},
 		{"id":"46c5b556217c602c","type":"group","x":240,"y":-960,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
-		{"id":"48e87b9955dcf8b2","type":"group","x":460,"y":-290,"width":480,"height":320,"color":"1","label":"THE BASES"},
+		{"id":"48e87b9955dcf8b2","type":"group","x":960,"y":-260,"width":440,"height":340,"color":"1","label":"BASES"},
 		{"id":"8670b61694f6a42d","type":"group","x":1920,"y":-1100,"width":300,"height":100,"color":"5","label":"THE ARBITER"},
-		{
-			"id":"24fb9d93632b18cc",
-			"type":"text",
-			"text":"# SOUL INFUSION",
-			"styleAttributes":{},
-			"x":1111,
-			"y":-720,
-			"width":260,
-			"height":60
-		},
 		{
 			"id":"a905655c05b29b05",
 			"type":"text",
@@ -22,36 +12,6 @@
 			"styleAttributes":{},
 			"x":1940,
 			"y":-1080,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"83aab552cd96efc5",
-			"type":"text",
-			"text":"# SOUL RESONANCE",
-			"styleAttributes":{},
-			"x":1920,
-			"y":-720,
-			"width":310,
-			"height":60
-		},
-		{
-			"id":"71a4031d9cc3a24b",
-			"type":"text",
-			"text":"# SOUL",
-			"styleAttributes":{},
-			"x":1500,
-			"y":-950,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ec38e29a3fd05b8a",
-			"type":"text",
-			"text":"# PRIMUS FORCE",
-			"styleAttributes":{},
-			"x":1040,
-			"y":-950,
 			"width":260,
 			"height":60
 		},
@@ -98,18 +58,6 @@
 			"width":420,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"8c61525e7361bdb4",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":1094,
-			"y":-520,
-			"width":293,
-			"height":60
 		},
 		{
 			"id":"b23b2f192f98c41c",
@@ -172,22 +120,34 @@
 			"height":60
 		},
 		{
-			"id":"91d1b226b647c6c6",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
-			"x":1094,
-			"y":-430,
-			"width":293,
-			"height":60
-		},
-		{
 			"id":"7758587a9084e9a8",
 			"type":"text",
 			"text":"#  VISUALIZATION",
 			"styleAttributes":{},
-			"x":1095,
-			"y":-290,
+			"x":1034,
+			"y":140,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"8c61525e7361bdb4",
+			"type":"text",
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":1034,
+			"y":-520,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
+			"styleAttributes":{},
+			"x":1034,
+			"y":-400,
 			"width":293,
 			"height":60
 		},
@@ -196,8 +156,8 @@
 			"type":"text",
 			"text":"# ARTICULATION  ",
 			"styleAttributes":{},
-			"x":1098,
-			"y":-210,
+			"x":1037,
+			"y":240,
 			"width":286,
 			"height":60
 		},
@@ -206,8 +166,8 @@
 			"type":"text",
 			"text":"# EXECUTION",
 			"styleAttributes":{},
-			"x":1111,
-			"y":-120,
+			"x":1050,
+			"y":340,
 			"width":260,
 			"height":60
 		},
@@ -216,29 +176,59 @@
 			"type":"text",
 			"text":"# SPELL",
 			"styleAttributes":{},
-			"x":1142,
-			"y":60,
+			"x":1081,
+			"y":520,
 			"width":200,
 			"height":60
 		},
 		{
-			"id":"2ada85b915366ca3",
+			"id":"24fb9d93632b18cc",
 			"type":"text",
-			"text":"# ELEMENTAL ENERGY (EE)",
+			"text":"# SOUL INFUSION",
 			"styleAttributes":{},
-			"x":480,
-			"y":-120,
-			"width":430,
+			"x":1051,
+			"y":-710,
+			"width":260,
 			"height":60
 		},
 		{
-			"id":"bde3791a108823ba",
+			"id":"8f0eb6b5ffa8d888",
 			"type":"text",
-			"text":"# PHYSICAL ENERGIES (PHYSE)",
+			"text":"# UNNUL",
 			"styleAttributes":{},
-			"x":480,
-			"y":-50,
-			"width":430,
+			"x":1500,
+			"y":-840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"83aab552cd96efc5",
+			"type":"text",
+			"text":"# SOUL RESONANCE",
+			"styleAttributes":{},
+			"x":1920,
+			"y":-710,
+			"width":310,
+			"height":60
+		},
+		{
+			"id":"71a4031d9cc3a24b",
+			"type":"text",
+			"text":"# SOUL",
+			"styleAttributes":{},
+			"x":1500,
+			"y":-980,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ec38e29a3fd05b8a",
+			"type":"text",
+			"text":"# PRIMUS FORCE",
+			"styleAttributes":{},
+			"x":1051,
+			"y":-980,
+			"width":260,
 			"height":60
 		},
 		{
@@ -246,9 +236,9 @@
 			"type":"text",
 			"text":"# BLESSED ENERGY (BE)",
 			"styleAttributes":{},
-			"x":480,
-			"y":-190,
-			"width":430,
+			"x":975,
+			"y":-160,
+			"width":335,
 			"height":60
 		},
 		{
@@ -256,9 +246,29 @@
 			"type":"text",
 			"text":"# CURSED ENERGY (CE)",
 			"styleAttributes":{},
-			"x":480,
-			"y":-260,
-			"width":430,
+			"x":976,
+			"y":-240,
+			"width":334,
+			"height":60
+		},
+		{
+			"id":"bde3791a108823ba",
+			"type":"text",
+			"text":"#### PHYSICAL ENERGIES (PHYSE)",
+			"styleAttributes":{},
+			"x":1013,
+			"y":0,
+			"width":335,
+			"height":60
+		},
+		{
+			"id":"2ada85b915366ca3",
+			"type":"text",
+			"text":"#### ELEMENTAL ENERGY (EE)",
+			"styleAttributes":{},
+			"x":1013,
+			"y":-80,
+			"width":335,
 			"height":60
 		}
 	],
@@ -267,6 +277,7 @@
 			"id":"d46483d422944f71",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"ec38e29a3fd05b8a",
 			"fromSide":"right",
 			"toNode":"71a4031d9cc3a24b",
@@ -279,17 +290,7 @@
 			"fromFloating":false,
 			"fromNode":"71a4031d9cc3a24b",
 			"fromSide":"bottom",
-			"toNode":"24fb9d93632b18cc",
-			"toSide":"top"
-		},
-		{
-			"id":"64537b60fe10cff6",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"71a4031d9cc3a24b",
-			"fromSide":"bottom",
-			"toNode":"83aab552cd96efc5",
+			"toNode":"8f0eb6b5ffa8d888",
 			"toSide":"top"
 		},
 		{
@@ -368,15 +369,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"89f06291157f54f4",
-			"styleAttributes":{"pathfindingMethod":"direct"},
-			"toFloating":false,
-			"fromNode":"91d1b226b647c6c6",
-			"fromSide":"bottom",
-			"toNode":"7758587a9084e9a8",
-			"toSide":"top"
-		},
-		{
 			"id":"99666060032cf3f1",
 			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
@@ -388,8 +380,9 @@
 		},
 		{
 			"id":"1b44394418ee359e",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"44b8e3737bd5774e",
 			"fromSide":"bottom",
 			"toNode":"c6e1045107e9c264",
@@ -406,8 +399,9 @@
 		},
 		{
 			"id":"1eb6f15da7eed4f5",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"c6e1045107e9c264",
 			"fromSide":"bottom",
 			"toNode":"f457e3d01b62932c",
@@ -454,12 +448,43 @@
 			"toSide":"top"
 		},
 		{
-			"id":"aaab89710a73c34d",
+			"id":"2415811a2ffdf7ab",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"91d1b226b647c6c6",
+			"fromSide":"bottom",
+			"toNode":"48e87b9955dcf8b2",
+			"toSide":"top"
+		},
+		{
+			"id":"7eab152d6cfab77c",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"48e87b9955dcf8b2",
+			"fromSide":"bottom",
+			"toNode":"7758587a9084e9a8",
+			"toSide":"top"
+		},
+		{
+			"id":"435c03f1cf989399",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromNode":"91d1b226b647c6c6",
-			"fromSide":"left",
-			"toNode":"48e87b9955dcf8b2",
+			"fromFloating":false,
+			"fromNode":"8f0eb6b5ffa8d888",
+			"fromSide":"bottom",
+			"toNode":"24fb9d93632b18cc",
+			"toSide":"top"
+		},
+		{
+			"id":"ed2eb415c2e7e9b7",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8f0eb6b5ffa8d888",
+			"fromSide":"bottom",
+			"toNode":"83aab552cd96efc5",
 			"toSide":"top"
 		}
 	],
