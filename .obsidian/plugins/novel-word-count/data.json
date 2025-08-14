@@ -8516,7 +8516,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1755136567325,
+      "modifiedDate": 1755136974111,
       "sizeInBytes": 2626,
       "sessionStart": {
         "noteCount": 0,
@@ -8527,6 +8527,87 @@
         "newlineCount": 0
       },
       "frontmatter": {}
+    },
+    "Notepad 10.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 630,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1,
+      "characterCount": 3902,
+      "nonWhitespaceCharacterCount": 3248,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 2.3773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755136915028,
+      "modifiedDate": 1754606707659,
+      "sizeInBytes": 3916,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "German Vocabulary - Nouns (A1).txt": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 652,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1733333333333333,
+      "characterCount": 4344,
+      "nonWhitespaceCharacterCount": 3591,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 2.460377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755136915048,
+      "modifiedDate": 1754715743518,
+      "sizeInBytes": 4381,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Unrefined/Filipino Essay.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 563,
+      "nonWhitespaceCharacterCount": 463,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755136915051,
+      "modifiedDate": 1755137151170,
+      "sizeInBytes": 563,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

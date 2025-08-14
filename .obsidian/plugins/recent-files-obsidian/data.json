@@ -5,6 +5,10 @@
       "path": "Writing/ATM/Canvases/Krátos.canvas"
     },
     {
+      "basename": "Filipino Essay",
+      "path": "Writing/ATM/Unrefined/Filipino Essay.md"
+    },
+    {
       "basename": "Sorcery Redefined",
       "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Godzilla Profile Modified",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile Modified.md"
-    },
-    {
-      "basename": "Notepad 7",
-      "path": "Notepad 7.md"
     }
   ],
   "omittedPaths": [],

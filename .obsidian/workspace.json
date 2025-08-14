@@ -116,8 +116,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": 28.90139157611901,
-                  "y": -130.21740955319953,
+                  "x": -66.85866685753857,
+                  "y": -94.61432984733639,
                   "zoom": -0.6905015541089392
                 }
               },
@@ -356,8 +356,14 @@
   },
   "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Unrefined/Filipino Essay.md",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "German Vocabulary - Nouns (A1).txt",
+    "Notepad 10.md",
+    "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
+    "~syncthing~German Vocabulary - Nouns (A1).txt.tmp",
+    "~syncthing~Notepad 10.md.tmp",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
@@ -385,16 +391,10 @@
     "College/3Q2425/Magnetic Field of Current.md",
     "Writing/ATM/Chapters/The First Arc/Devoured.md",
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Xilien Invasion Arc.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/The Perfect Memory Advantage - Hyperthymesia and Japanese Cultural Integration.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",
     "Writing/ATM/Characters/Titans/Mothra/Messy",
-    "Writing/ATM/Story Arcs/The First Arc",
-    "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/World_History",
-    "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Titan_Hierarchy",
-    "Writing/Antitheriomorphosis Universe/2_LORE_&_CONCEPTS/Power_Systems/Psionics",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
@@ -402,7 +402,6 @@
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
-    "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas",
-    "Main Alternate Universe/Characters/Idea Board.canvas"
+    "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas"
   ]
 }
