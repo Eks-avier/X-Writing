@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"e7643e2523c0f4ff","type":"group","x":-620,"y":-680,"width":580,"height":120,"label":"FUNDAMENTAL KRATONIC INTERACTION"},
 		{
 			"id":"45af77af3feb5e7b",
 			"type":"text",
@@ -21,43 +22,13 @@
 			"height":60
 		},
 		{
-			"id":"14a8f24f39a2fa31",
-			"type":"text",
-			"text":"# WILL",
-			"styleAttributes":{},
-			"x":-277,
-			"y":-560,
-			"width":118,
-			"height":60
-		},
-		{
-			"id":"1c98716d8c1349f5",
-			"type":"text",
-			"text":"# PHYSICAL FORCES",
-			"styleAttributes":{},
-			"x":-579,
-			"y":-360,
-			"width":302,
-			"height":60
-		},
-		{
 			"id":"82a2ac266291039d",
 			"type":"text",
 			"text":"# CONQUEROR",
 			"styleAttributes":{},
 			"x":321,
-			"y":-480,
+			"y":-520,
 			"width":215,
-			"height":60
-		},
-		{
-			"id":"eb9c8bbdbfb9eb7d",
-			"type":"text",
-			"text":"# PHYSICAL ENERGIES",
-			"styleAttributes":{},
-			"x":-277,
-			"y":-300,
-			"width":317,
 			"height":60
 		},
 		{
@@ -66,12 +37,88 @@
 			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
 			"x":253,
-			"y":-300,
+			"y":-390,
 			"width":352,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES",
+			"styleAttributes":{},
+			"x":-265,
+			"y":-390,
+			"width":308,
+			"height":60
+		},
+		{
+			"id":"1c98716d8c1349f5",
+			"type":"text",
+			"text":"# PHYSICAL FORCES",
+			"styleAttributes":{},
+			"x":-638,
+			"y":-390,
+			"width":285,
+			"height":60
+		},
+		{
+			"id":"14a8f24f39a2fa31",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":-586,
+			"y":-650,
+			"width":118,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"80cd417ac3689fce",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-650,
+			"width":168,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"39462a7b7f9775da",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-280,
+			"width":159,
+			"height":60
+		},
+		{
+			"id":"d546a38d9071fe3f",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-200,
+			"width":175,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"59e6cf07fbc44b31",
+			"styleAttributes":{
+				"path":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"14a8f24f39a2fa31",
+			"fromSide":"right",
+			"toNode":"80cd417ac3689fce",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
