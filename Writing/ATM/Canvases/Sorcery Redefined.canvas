@@ -2,13 +2,11 @@
 	"nodes":[
 		{"id":"5617db9af87e95c8","type":"group","x":1600,"y":-560,"width":1100,"height":500,"color":"2","label":"AOC"},
 		{"id":"815a034f34c9bfe2","type":"group","x":920,"y":-560,"width":520,"height":980,"color":"3","label":"ASC"},
-		{"id":"46c5b556217c602c","type":"group","x":240,"y":-960,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
+		{"id":"46c5b556217c602c","type":"group","x":360,"y":-1060,"width":460,"height":340,"label":"FOURFOLD DOCTRINE"},
 		{
 			"id":"48e87b9955dcf8b2",
 			"type":"group",
-			"styleAttributes":{
-				"border":null
-			},
+			"styleAttributes":{"border":"invisible"},
 			"x":950,
 			"y":-280,
 			"width":460,
@@ -28,66 +26,12 @@
 			"label":"SEAT OF IDENTITY"
 		},
 		{
-			"id":"7568de2f0148a4f5",
-			"type":"text",
-			"text":"# Art of Spell Casting (ASC)",
-			"styleAttributes":{},
-			"x":260,
-			"y":-940,
-			"width":420,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"c836245724598e41",
-			"type":"text",
-			"text":"# Art of Spell Optimization (ASO)",
-			"styleAttributes":{},
-			"x":260,
-			"y":-860,
-			"width":420,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"9e26bf7be8a7b06f",
-			"type":"text",
-			"text":"# Art of Spell Keeping (ASK)",
-			"styleAttributes":{},
-			"x":260,
-			"y":-780,
-			"width":420,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"7085398ac03f7759",
-			"type":"text",
-			"text":"# Art of Commitments (AOC)",
-			"styleAttributes":{},
-			"x":260,
-			"y":-700,
-			"width":420,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"b23b2f192f98c41c",
 			"type":"text",
 			"text":"# COVENNT",
 			"styleAttributes":{},
 			"x":2400,
 			"y":-380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"feead97e953566ac",
-			"type":"text",
-			"text":"# VOW",
-			"styleAttributes":{},
-			"x":1630,
-			"y":-320,
 			"width":260,
 			"height":60
 		},
@@ -118,16 +62,6 @@
 			"styleAttributes":{},
 			"x":1945,
 			"y":-520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"98b4257fbfbbda11",
-			"type":"text",
-			"text":"# CONTRACT",
-			"styleAttributes":{},
-			"x":1630,
-			"y":-400,
 			"width":260,
 			"height":60
 		},
@@ -293,6 +227,70 @@
 			"x":1550,
 			"y":-890,
 			"width":160,
+			"height":60
+		},
+		{
+			"id":"7568de2f0148a4f5",
+			"type":"text",
+			"text":"# Art of Spell Casting (ASC)",
+			"styleAttributes":{},
+			"x":380,
+			"y":-1040,
+			"width":420,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"c836245724598e41",
+			"type":"text",
+			"text":"# Art of Spell Optimization (ASO)",
+			"styleAttributes":{},
+			"x":380,
+			"y":-960,
+			"width":420,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9e26bf7be8a7b06f",
+			"type":"text",
+			"text":"# Art of Spell Keeping (ASK)",
+			"styleAttributes":{},
+			"x":380,
+			"y":-880,
+			"width":420,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"7085398ac03f7759",
+			"type":"text",
+			"text":"# Art of Commitments (AOC)",
+			"styleAttributes":{},
+			"x":380,
+			"y":-800,
+			"width":420,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"98b4257fbfbbda11",
+			"type":"text",
+			"text":"# CONTRACT",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"feead97e953566ac",
+			"type":"text",
+			"text":"# VOW",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-320,
+			"width":260,
 			"height":60
 		}
 	],
