@@ -1,78 +1,6 @@
 {
 	"nodes":[
-		{"id":"e7643e2523c0f4ff","type":"group","x":-620,"y":-680,"width":580,"height":120,"label":"FUNDAMENTAL KRATONIC INTERACTION"},
-		{
-			"id":"45af77af3feb5e7b",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":23,
-			"y":-620,
-			"width":297,
-			"height":60
-		},
-		{
-			"id":"b7d9551237311069",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":535,
-			"y":-620,
-			"width":329,
-			"height":60
-		},
-		{
-			"id":"82a2ac266291039d",
-			"type":"text",
-			"text":"# CONQUEROR",
-			"styleAttributes":{},
-			"x":321,
-			"y":-520,
-			"width":215,
-			"height":60
-		},
-		{
-			"id":"5cedf1c6eb456475",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":253,
-			"y":-390,
-			"width":352,
-			"height":60
-		},
-		{
-			"id":"488ab9d74fb533a5",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{},
-			"x":400,
-			"y":-260,
-			"width":203,
-			"height":60
-		},
-		{
-			"id":"14a8f24f39a2fa31",
-			"type":"text",
-			"text":"# WILL",
-			"styleAttributes":{},
-			"x":-586,
-			"y":-650,
-			"width":118,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"80cd417ac3689fce",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-650,
-			"width":168,
-			"height":60,
-			"color":"5"
-		},
+		{"id":"e7643e2523c0f4ff","type":"group","x":-600,"y":-840,"width":580,"height":120,"label":"FUNDAMENTAL KRATONIC INTERACTION"},
 		{
 			"id":"d546a38d9071fe3f",
 			"type":"text",
@@ -152,6 +80,78 @@
 			"y":100,
 			"width":258,
 			"height":60
+		},
+		{
+			"id":"45af77af3feb5e7b",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":520,
+			"y":-680,
+			"width":297,
+			"height":60
+		},
+		{
+			"id":"5cedf1c6eb456475",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":750,
+			"y":-450,
+			"width":352,
+			"height":60
+		},
+		{
+			"id":"82a2ac266291039d",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":818,
+			"y":-580,
+			"width":215,
+			"height":60
+		},
+		{
+			"id":"488ab9d74fb533a5",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{},
+			"x":897,
+			"y":-320,
+			"width":203,
+			"height":60
+		},
+		{
+			"id":"b7d9551237311069",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":1032,
+			"y":-680,
+			"width":329,
+			"height":60
+		},
+		{
+			"id":"14a8f24f39a2fa31",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":-566,
+			"y":-810,
+			"width":118,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"80cd417ac3689fce",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-810,
+			"width":168,
+			"height":60,
+			"color":"5"
 		}
 	],
 	"edges":[
