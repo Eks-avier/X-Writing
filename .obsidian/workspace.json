@@ -112,24 +112,17 @@
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Filipino Essay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "viewState": {
+                  "x": 74.32598164012975,
+                  "y": -256.6696693870843,
+                  "zoom": -0.6905015541089392
                 }
               },
-              "icon": "lucide-file",
-              "title": "Filipino Essay"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos"
             }
           }
         ],
@@ -362,9 +355,9 @@
   },
   "active": "23d04c898233237a",
   "lastOpenFiles": [
+    "Filipino Essay.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
-    "Filipino Essay.md",
     "German Vocabulary - Nouns (A1).txt",
     "Notepad 10.md",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",

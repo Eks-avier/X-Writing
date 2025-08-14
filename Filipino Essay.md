@@ -10,4 +10,10 @@
 
 1. Other Filipinos need to gain a deeper understanding of their own language through research.
 2. For example, they can read in websites like online encyclopedias and research articles,
-3. By knowing our own 
+3. Research gives us the power to learn, which helps us to love and respect the Filipino language.
+
+## Conclusion
+
+1. The Filipino language is like a reading a book. 
+2. It teaches you to easily learn and deeply understand.
+3. When we know the Filipino language better, we show love and respect.
