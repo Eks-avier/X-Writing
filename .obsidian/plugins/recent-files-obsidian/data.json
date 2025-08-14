@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Writing/ATM/Canvases/Untitled.canvas"
+    },
+    {
       "basename": "Sorcery Redefined",
       "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+    },
+    {
+      "basename": "Psionics",
+      "path": "Writing/ATM/Canvases/Psionics.canvas"
     },
     {
       "basename": "Art of Commitments",
@@ -19,10 +27,6 @@
     {
       "basename": "Sorcery",
       "path": "Writing/ATM/Canvases/Sorcery.canvas"
-    },
-    {
-      "basename": "Psionics",
-      "path": "Writing/ATM/Canvases/Psionics.canvas"
     },
     {
       "basename": "Notepad 9",
@@ -195,10 +199,6 @@
     {
       "basename": "Notepad 7",
       "path": "Notepad 7.md"
-    },
-    {
-      "basename": "The Titan Standing Hierarchy",
-      "path": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas"
     }
   ],
   "omittedPaths": [],

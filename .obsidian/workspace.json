@@ -114,15 +114,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "file": "Writing/ATM/Canvases/Untitled.canvas",
                 "viewState": {
-                  "x": 124.80686813572152,
-                  "y": -256.4491133268997,
-                  "zoom": -1.0809619159556694
+                  "x": -21.997501164814736,
+                  "y": -71.32441505883757,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Sorcery Redefined"
+              "title": "Untitled"
             }
           }
         ],
@@ -356,12 +356,13 @@
   },
   "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Untitled.canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
-    "Writing/ATM/Canvases/Psionics.canvas",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",

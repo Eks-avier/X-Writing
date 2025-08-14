@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"14a8f24f39a2fa31",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-200,
+			"width":120,
+			"height":35
+		},
+		{
+			"id":"45af77af3feb5e7b",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-140,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

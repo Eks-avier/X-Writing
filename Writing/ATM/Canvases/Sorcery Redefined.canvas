@@ -27,36 +27,6 @@
 			"label":"SEAT OF IDENTITY"
 		},
 		{
-			"id":"b23b2f192f98c41c",
-			"type":"text",
-			"text":"# COVENANT",
-			"styleAttributes":{},
-			"x":2400,
-			"y":-380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5c71c02a6d8d4ab0",
-			"type":"text",
-			"text":"# PROMISE",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-240,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4fc8e0dc1077c053",
-			"type":"text",
-			"text":"# OATH",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-160,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"24fb9d93632b18cc",
 			"type":"text",
 			"text":"# SOUL INFUSION",
@@ -67,36 +37,6 @@
 			"height":60
 		},
 		{
-			"id":"44b8e3737bd5774e",
-			"type":"text",
-			"text":"# ARTICULATION  ",
-			"styleAttributes":{},
-			"x":1043,
-			"y":220,
-			"width":277,
-			"height":60
-		},
-		{
-			"id":"c6e1045107e9c264",
-			"type":"text",
-			"text":"# EXECUTION",
-			"styleAttributes":{},
-			"x":1051,
-			"y":320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f457e3d01b62932c",
-			"type":"text",
-			"text":"# SPELL",
-			"styleAttributes":{},
-			"x":1082,
-			"y":480,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"8f0eb6b5ffa8d888",
 			"type":"text",
 			"text":"# UNNUL",
@@ -104,88 +44,6 @@
 			"x":1550,
 			"y":-890,
 			"width":160,
-			"height":60
-		},
-		{
-			"id":"feead97e953566ac",
-			"type":"text",
-			"text":"# VOW",
-			"styleAttributes":{},
-			"x":1660,
-			"y":-320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d47035e6d84c4563",
-			"type":"text",
-			"text":"# COMMITMENTS",
-			"styleAttributes":{},
-			"x":1945,
-			"y":-520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"83aab552cd96efc5",
-			"type":"text",
-			"text":"# SOUL RESONANCE",
-			"styleAttributes":{},
-			"x":1920,
-			"y":-700,
-			"width":310,
-			"height":60
-		},
-		{
-			"id":"98b4257fbfbbda11",
-			"type":"text",
-			"text":"# CONTRACT",
-			"styleAttributes":{},
-			"x":1660,
-			"y":-400,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"91d1b226b647c6c6",
-			"type":"text",
-			"text":"# PRIMUS ENERGY",
-			"styleAttributes":{},
-			"x":1034,
-			"y":-400,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"8c61525e7361bdb4",
-			"type":"text",
-			"text":"# PRIMUS IGNITION",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":1034,
-			"y":-520,
-			"width":293,
-			"height":60
-		},
-		{
-			"id":"71a4031d9cc3a24b",
-			"type":"text",
-			"text":"# SOUL",
-			"styleAttributes":{},
-			"x":1500,
-			"y":-1040,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a905655c05b29b05",
-			"type":"text",
-			"text":"# HEAVEN",
-			"styleAttributes":{},
-			"x":2075,
-			"y":-1180,
-			"width":260,
 			"height":60
 		},
 		{
@@ -241,6 +99,126 @@
 			"width":420,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"b23b2f192f98c41c",
+			"type":"text",
+			"text":"# COVENANT",
+			"styleAttributes":{},
+			"x":2400,
+			"y":-380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5c71c02a6d8d4ab0",
+			"type":"text",
+			"text":"# PROMISE",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4fc8e0dc1077c053",
+			"type":"text",
+			"text":"# OATH",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"feead97e953566ac",
+			"type":"text",
+			"text":"# VOW",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d47035e6d84c4563",
+			"type":"text",
+			"text":"# COMMITMENTS",
+			"styleAttributes":{},
+			"x":1945,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"83aab552cd96efc5",
+			"type":"text",
+			"text":"# SOUL RESONANCE",
+			"styleAttributes":{},
+			"x":1920,
+			"y":-700,
+			"width":310,
+			"height":60
+		},
+		{
+			"id":"98b4257fbfbbda11",
+			"type":"text",
+			"text":"# CONTRACT",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"71a4031d9cc3a24b",
+			"type":"text",
+			"text":"# SOUL",
+			"styleAttributes":{},
+			"x":1500,
+			"y":-1040,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a905655c05b29b05",
+			"type":"text",
+			"text":"# HEAVEN",
+			"styleAttributes":{},
+			"x":2075,
+			"y":-1180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"44b8e3737bd5774e",
+			"type":"text",
+			"text":"# ARTICULATION  ",
+			"styleAttributes":{},
+			"x":1043,
+			"y":220,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"c6e1045107e9c264",
+			"type":"text",
+			"text":"# EXECUTION",
+			"styleAttributes":{},
+			"x":1051,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f457e3d01b62932c",
+			"type":"text",
+			"text":"# SPELL",
+			"styleAttributes":{},
+			"x":1082,
+			"y":480,
+			"width":200,
+			"height":60
 		},
 		{
 			"id":"e2dc80174da9d165",
@@ -325,16 +303,6 @@
 			"height":60
 		},
 		{
-			"id":"1df869af7c61f91d",
-			"type":"text",
-			"text":"# COMPOSITIONALS",
-			"styleAttributes":{},
-			"x":380,
-			"y":-150,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"bd3d1f5743e301a1",
 			"type":"text",
 			"text":"# TECHNIQUES",
@@ -369,9 +337,71 @@
 			"type":"text",
 			"text":"# EXCESS",
 			"styleAttributes":{},
-			"x":-280,
-			"y":-550,
+			"x":-340,
+			"y":-370,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"d3986bb5d2bff0d0",
+			"type":"text",
+			"text":"# SIGNATURE",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-210,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9592e580e1cb10c0",
+			"type":"text",
+			"text":"# LEAKAGE",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"91fcd583e1d7a4a1",
+			"type":"text",
+			"text":"# PRIMUS POTENTIAL",
+			"styleAttributes":{},
+			"x":-790,
+			"y":-40,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"91d1b226b647c6c6",
+			"type":"text",
+			"text":"# PRIMUS ENERGY",
+			"styleAttributes":{},
+			"x":1034,
+			"y":-400,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"8c61525e7361bdb4",
+			"type":"text",
+			"text":"# PRIMUS IGNITION",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":1034,
+			"y":-520,
+			"width":293,
+			"height":60
+		},
+		{
+			"id":"1df869af7c61f91d",
+			"type":"text",
+			"text":"# COMPOSITIONALS",
+			"styleAttributes":{},
+			"x":380,
+			"y":-150,
+			"width":280,
 			"height":60
 		}
 	],
@@ -588,6 +618,35 @@
 			"fromSide":"bottom",
 			"toNode":"c2d0e7b63bf85627",
 			"toSide":"right"
+		},
+		{
+			"id":"37e5fbccec47ec40",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8fef13094e94006f",
+			"fromSide":"right",
+			"toNode":"9592e580e1cb10c0",
+			"toSide":"top"
+		},
+		{
+			"id":"72da0920d9d7e028",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8fef13094e94006f",
+			"fromSide":"left",
+			"toNode":"d3986bb5d2bff0d0",
+			"toSide":"top"
+		},
+		{
+			"id":"de15e6edbe7b784a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d3986bb5d2bff0d0",
+			"fromSide":"bottom",
+			"toNode":"91fcd583e1d7a4a1",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
