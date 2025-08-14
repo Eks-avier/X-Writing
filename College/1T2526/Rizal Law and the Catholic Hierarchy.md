@@ -12,4 +12,7 @@
 	- The Catholic hierarchy even issued a pastoral letter that detailed its objections to the bill, and urged fellow Catholics to oppose it.
 	- Rodrigo proposed that the education committee hold a closed-door conference with the Catholic hierarchy to search for a solution to the dispute despite public hearings already having been conducted.
 - Laurel and the other supporters rejected the proposal; the public hearing afforded the church the opportunity to be heard fully.
-	- Recto said that **Father Jesus Cavanna** of the Paulist Fathers, who wrote the pastoral letter, testified against the bill during the public 
+	- Recto said that **Father Jesus Cavanna** of the Paulist Fathers, who wrote the pastoral letter, testified against the bill during the public hearing.
+	- A closed-door conference was obviously one of the means by which the hierarchy hoped to exert pressure against the bill.
+	- Lobbies from various Catholic organizations as well as the clerics themselves were very active during the discussion of the Rizal bill.
+		- These clerics, many of which were foreigners, were seeking conferences with senators to convince them to oppose the Rizal bill.
