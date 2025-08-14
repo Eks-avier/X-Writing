@@ -1,1 +1,6 @@
-- Recto fought o
+- Recto fought over the Rizal bill.
+	- This didn't affect the Philippines' colonial relations with America.
+	- His advocacy of this bill was an essential part of his nationalism'
+	- He believed that reading Rizal's novels would strengthen the **Filipinism** of the youth and foster patriotism.
+- Recto was the original author of the bill that made *Noli Me Tangere* and *El Filibusterismo* compulsory reading in all universities and colleges.
+	- It was sponsored by Senator Laurel, committee chairman of the committee on education.
