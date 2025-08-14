@@ -1,46 +1,5 @@
 {
 	"nodes":[
-		{"id":"e7643e2523c0f4ff","type":"group","x":-600,"y":-840,"width":580,"height":120,"label":"FUNDAMENTAL KRATONIC INTERACTION"},
-		{
-			"id":"d546a38d9071fe3f",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-520,
-			"width":175,
-			"height":60
-		},
-		{
-			"id":"39462a7b7f9775da",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{},
-			"x":-527,
-			"y":-520,
-			"width":159,
-			"height":60
-		},
-		{
-			"id":"eb9c8bbdbfb9eb7d",
-			"type":"text",
-			"text":"# PHYSICAL ENERGIES",
-			"styleAttributes":{},
-			"x":-265,
-			"y":-390,
-			"width":308,
-			"height":60
-		},
-		{
-			"id":"1c98716d8c1349f5",
-			"type":"text",
-			"text":"# PHYSICAL FORCES",
-			"styleAttributes":{},
-			"x":-638,
-			"y":-390,
-			"width":285,
-			"height":60
-		},
 		{
 			"id":"5b967e8d078ac8fb",
 			"type":"text",
@@ -48,7 +7,7 @@
 			"styleAttributes":{},
 			"x":-460,
 			"y":-60,
-			"width":168,
+			"width":180,
 			"height":60
 		},
 		{
@@ -58,7 +17,7 @@
 			"styleAttributes":{},
 			"x":-460,
 			"y":20,
-			"width":213,
+			"width":220,
 			"height":60
 		},
 		{
@@ -68,7 +27,7 @@
 			"styleAttributes":{},
 			"x":-460,
 			"y":-140,
-			"width":176,
+			"width":180,
 			"height":60
 		},
 		{
@@ -78,27 +37,27 @@
 			"styleAttributes":{},
 			"x":-460,
 			"y":100,
-			"width":258,
+			"width":260,
 			"height":60
 		},
 		{
-			"id":"45af77af3feb5e7b",
+			"id":"1c98716d8c1349f5",
 			"type":"text",
-			"text":"# CONQUEROR'S WILL",
+			"text":"# PHYSICAL FORCES",
 			"styleAttributes":{},
-			"x":520,
-			"y":-680,
-			"width":297,
+			"x":-247,
+			"y":-580,
+			"width":285,
 			"height":60
 		},
 		{
-			"id":"5cedf1c6eb456475",
+			"id":"57860246e76541ad",
 			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
+			"text":"# WILL",
 			"styleAttributes":{},
-			"x":750,
-			"y":-450,
-			"width":352,
+			"x":-135,
+			"y":-860,
+			"width":119,
 			"height":60
 		},
 		{
@@ -106,19 +65,69 @@
 			"type":"text",
 			"text":"# CONQUEROR",
 			"styleAttributes":{},
-			"x":818,
-			"y":-580,
+			"x":430,
+			"y":-640,
 			"width":215,
 			"height":60
 		},
 		{
-			"id":"488ab9d74fb533a5",
+			"id":"5cedf1c6eb456475",
 			"type":"text",
-			"text":"# ALIGNMENT",
+			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
-			"x":897,
-			"y":-320,
-			"width":203,
+			"x":430,
+			"y":-480,
+			"width":352,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES",
+			"styleAttributes":{},
+			"x":-622,
+			"y":-710,
+			"width":325,
+			"height":60
+		},
+		{
+			"id":"45af77af3feb5e7b",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":543,
+			"y":-940,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"39462a7b7f9775da",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":-95,
+			"y":-1100,
+			"width":159,
+			"height":60
+		},
+		{
+			"id":"fdb1c9d72e923f43",
+			"type":"text",
+			"text":"# KRÁTOS",
+			"styleAttributes":{},
+			"x":120,
+			"y":-1280,
+			"width":157,
+			"height":60
+		},
+		{
+			"id":"d546a38d9071fe3f",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":340,
+			"y":-1100,
+			"width":180,
 			"height":60
 		},
 		{
@@ -126,47 +135,41 @@
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":1032,
-			"y":-680,
-			"width":329,
+			"x":543,
+			"y":-860,
+			"width":348,
 			"height":60
 		},
 		{
-			"id":"14a8f24f39a2fa31",
+			"id":"488ab9d74fb533a5",
 			"type":"text",
-			"text":"# WILL",
+			"text":"# ALIGNMENT",
 			"styleAttributes":{},
-			"x":-566,
-			"y":-810,
-			"width":118,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"80cd417ac3689fce",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{},
-			"x":-220,
-			"y":-810,
-			"width":168,
-			"height":60,
-			"color":"5"
+			"x":543,
+			"y":-760,
+			"width":205,
+			"height":60
 		}
 	],
 	"edges":[
 		{
-			"id":"59e6cf07fbc44b31",
-			"styleAttributes":{
-				"path":null
-			},
+			"id":"bc2727197591f301",
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"14a8f24f39a2fa31",
-			"fromSide":"right",
-			"toNode":"80cd417ac3689fce",
-			"toSide":"left",
-			"fromEnd":"arrow"
+			"fromNode":"fdb1c9d72e923f43",
+			"fromSide":"bottom",
+			"toNode":"39462a7b7f9775da",
+			"toSide":"top"
+		},
+		{
+			"id":"aa103d5b3175dfe2",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"fdb1c9d72e923f43",
+			"fromSide":"bottom",
+			"toNode":"d546a38d9071fe3f",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
