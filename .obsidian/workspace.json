@@ -28,7 +28,7 @@
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
                   "x": 113,
-                  "y": -260,
+                  "y": 96.80403859338924,
                   "zoom": -1.597415480344354
                 }
               },
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
