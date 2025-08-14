@@ -1,0 +1,79 @@
+{
+	"nodes":[
+		{
+			"id":"45af77af3feb5e7b",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":23,
+			"y":-620,
+			"width":297,
+			"height":60
+		},
+		{
+			"id":"b7d9551237311069",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":535,
+			"y":-620,
+			"width":329,
+			"height":60
+		},
+		{
+			"id":"14a8f24f39a2fa31",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":-277,
+			"y":-560,
+			"width":118,
+			"height":60
+		},
+		{
+			"id":"1c98716d8c1349f5",
+			"type":"text",
+			"text":"# PHYSICAL FORCES",
+			"styleAttributes":{},
+			"x":-579,
+			"y":-360,
+			"width":302,
+			"height":60
+		},
+		{
+			"id":"82a2ac266291039d",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":321,
+			"y":-480,
+			"width":215,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES",
+			"styleAttributes":{},
+			"x":-277,
+			"y":-300,
+			"width":317,
+			"height":60
+		},
+		{
+			"id":"5cedf1c6eb456475",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":253,
+			"y":-300,
+			"width":352,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

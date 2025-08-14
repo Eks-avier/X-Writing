@@ -114,15 +114,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Untitled.canvas",
+                "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -21.997501164814736,
-                  "y": -71.32441505883757,
-                  "zoom": 0
+                  "x": 114.27621411537322,
+                  "y": -186.05795776119817,
+                  "zoom": -0.6905015541089392
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Krátos"
             }
           }
         ],
@@ -357,7 +357,7 @@
   "active": "23d04c898233237a",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
-    "Writing/ATM/Canvases/Untitled.canvas",
+    "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
