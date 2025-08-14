@@ -7433,7 +7433,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055102,
-      "modifiedDate": 1754774016949,
+      "modifiedDate": 1755164729615,
       "sizeInBytes": 9309,
       "sessionStart": {
         "noteCount": 1,
@@ -7442,7 +7442,8 @@
         "characterCount": 566,
         "nonWhitespaceCharacterCount": 457,
         "newlineCount": 33
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Sorcery Redefined.canvas": {
       "isCountable": true,
@@ -7515,7 +7516,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1755142165993,
+      "modifiedDate": 1755164726564,
       "sizeInBytes": 2964,
       "sessionStart": {
         "noteCount": 1,
@@ -8598,6 +8599,33 @@
       "createdDate": 1755136915051,
       "modifiedDate": 1755142589851,
       "sizeInBytes": 901,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "College/1T2526/Rizal Law and the Catholic Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755164751210,
+      "modifiedDate": 1755164751210,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

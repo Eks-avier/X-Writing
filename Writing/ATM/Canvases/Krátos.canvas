@@ -42,26 +42,6 @@
 			"height":60
 		},
 		{
-			"id":"eb9c8bbdbfb9eb7d",
-			"type":"text",
-			"text":"# PHYSICAL ENERGIES",
-			"styleAttributes":{},
-			"x":-265,
-			"y":-390,
-			"width":308,
-			"height":60
-		},
-		{
-			"id":"1c98716d8c1349f5",
-			"type":"text",
-			"text":"# PHYSICAL FORCES",
-			"styleAttributes":{},
-			"x":-638,
-			"y":-390,
-			"width":285,
-			"height":60
-		},
-		{
 			"id":"488ab9d74fb533a5",
 			"type":"text",
 			"text":"# ALIGNMENT",
@@ -69,36 +49,6 @@
 			"x":400,
 			"y":-260,
 			"width":203,
-			"height":60
-		},
-		{
-			"id":"5b967e8d078ac8fb",
-			"type":"text",
-			"text":"# COATING",
-			"styleAttributes":{},
-			"x":-460,
-			"y":-60,
-			"width":168,
-			"height":60
-		},
-		{
-			"id":"469b859e197ac127",
-			"type":"text",
-			"text":"# SUBMISSION",
-			"styleAttributes":{},
-			"x":-460,
-			"y":20,
-			"width":213,
-			"height":60
-		},
-		{
-			"id":"f2645b4626a0a93d",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-460,
-			"y":-140,
-			"width":176,
 			"height":60
 		},
 		{
@@ -141,6 +91,56 @@
 			"x":-527,
 			"y":-520,
 			"width":159,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES",
+			"styleAttributes":{},
+			"x":-265,
+			"y":-390,
+			"width":308,
+			"height":60
+		},
+		{
+			"id":"1c98716d8c1349f5",
+			"type":"text",
+			"text":"# PHYSICAL FORCES",
+			"styleAttributes":{},
+			"x":-638,
+			"y":-390,
+			"width":285,
+			"height":60
+		},
+		{
+			"id":"5b967e8d078ac8fb",
+			"type":"text",
+			"text":"# COATING",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-60,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"469b859e197ac127",
+			"type":"text",
+			"text":"# SUBMISSION",
+			"styleAttributes":{},
+			"x":-460,
+			"y":20,
+			"width":213,
+			"height":60
+		},
+		{
+			"id":"f2645b4626a0a93d",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-140,
+			"width":176,
 			"height":60
 		},
 		{

@@ -85,16 +85,6 @@
 			"label":"Classical Elements"
 		},
 		{
-			"id":"df078f405475f5d2",
-			"styleAttributes":{},
-			"text":" # The Soul, Seat of Identity ",
-			"type":"text",
-			"x":-271,
-			"y":-680,
-			"width":469,
-			"height":60
-		},
-		{
 			"id":"02635fbd96ff3fbf",
 			"styleAttributes":{},
 			"text":"# Primus, the Foundation of Magic",
@@ -112,6 +102,216 @@
 			"x":-1080,
 			"y":-920,
 			"width":250,
+			"height":60
+		},
+		{
+			"id":"eb5ba38fd4198546",
+			"styleAttributes":{},
+			"text":"# Cursed Spirits",
+			"type":"text",
+			"x":-1107,
+			"y":200,
+			"width":254,
+			"height":60
+		},
+		{
+			"id":"1abd59ceea39e021",
+			"styleAttributes":{},
+			"text":"# Silent Casting",
+			"type":"text",
+			"x":1373,
+			"y":888,
+			"width":288,
+			"height":59
+		},
+		{
+			"id":"cde67964437c3d79",
+			"styleAttributes":{},
+			"text":"# Promises",
+			"type":"text",
+			"x":424,
+			"y":1247,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"366559e077a3dca7",
+			"styleAttributes":{},
+			"text":"# Oaths",
+			"type":"text",
+			"x":424,
+			"y":1307,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"9ff5a02b971faf3b",
+			"styleAttributes":{},
+			"text":"# Vows",
+			"type":"text",
+			"x":424,
+			"y":1367,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"25c9fbf6620776f3",
+			"styleAttributes":{},
+			"text":"# Covenants",
+			"type":"text",
+			"x":424,
+			"y":1427,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"bd0a9015aa043908",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Casting",
+			"type":"text",
+			"x":-252,
+			"y":626,
+			"width":464,
+			"height":60
+		},
+		{
+			"id":"e195ff79ab69aab8",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Optimization",
+			"type":"text",
+			"x":-252,
+			"y":746,
+			"width":464,
+			"height":50
+		},
+		{
+			"id":"07e42a0e3bbad991",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Keeping",
+			"type":"text",
+			"x":-252,
+			"y":686,
+			"width":464,
+			"height":60
+		},
+		{
+			"id":"6659447f52b2ee49",
+			"styleAttributes":{},
+			"text":"# Fire  Magic",
+			"type":"text",
+			"x":680,
+			"y":-168,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"79bc7ed494dad8c4",
+			"styleAttributes":{},
+			"text":"# Water Magic",
+			"type":"text",
+			"x":680,
+			"y":-108,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"9c8c8c0e88893693",
+			"styleAttributes":{},
+			"text":"# Earth Magic",
+			"type":"text",
+			"x":680,
+			"y":-48,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"6b5a5625bb8c0682",
+			"styleAttributes":{},
+			"text":"# Air Magic",
+			"type":"text",
+			"x":680,
+			"y":12,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"ad6d50c00dc23ccb",
+			"styleAttributes":{},
+			"text":"# Elemental Energy",
+			"type":"text",
+			"x":123,
+			"y":-76,
+			"width":306,
+			"height":60
+		},
+		{
+			"id":"7dfb401b34014363",
+			"styleAttributes":{},
+			"text":"# Chants",
+			"type":"text",
+			"x":1123,
+			"y":791,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"eaaac88b09e66960",
+			"styleAttributes":{},
+			"text":"# Written Activation",
+			"type":"text",
+			"x":1080,
+			"y":520,
+			"width":376,
+			"height":60
+		},
+		{
+			"id":"e4fb9ffbf1fa5664",
+			"styleAttributes":{},
+			"text":"# Incantations",
+			"type":"text",
+			"x":873,
+			"y":695,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"ec081defddd1e677",
+			"styleAttributes":{},
+			"text":"# Spells",
+			"type":"text",
+			"x":-95,
+			"y":300,
+			"width":151,
+			"height":60
+		},
+		{
+			"id":"1335ca0a0a5eef0d",
+			"styleAttributes":{},
+			"text":"# The Art of Commitments",
+			"type":"text",
+			"x":-252,
+			"y":796,
+			"width":464,
+			"height":50
+		},
+		{
+			"id":"f09b6671075bbb45",
+			"styleAttributes":{},
+			"text":"# Contracts",
+			"type":"text",
+			"x":424,
+			"y":1187,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"df078f405475f5d2",
+			"styleAttributes":{},
+			"text":" # The Soul, Seat of Identity ",
+			"type":"text",
+			"x":-271,
+			"y":-680,
+			"width":469,
 			"height":60
 		},
 		{
@@ -155,106 +355,6 @@
 			"height":60
 		},
 		{
-			"id":"eb5ba38fd4198546",
-			"styleAttributes":{},
-			"text":"# Cursed Spirits",
-			"type":"text",
-			"x":-1107,
-			"y":200,
-			"width":254,
-			"height":60
-		},
-		{
-			"id":"7dfb401b34014363",
-			"styleAttributes":{},
-			"text":"# Chants",
-			"type":"text",
-			"x":1123,
-			"y":791,
-			"width":250,
-			"height":50
-		},
-		{
-			"id":"eaaac88b09e66960",
-			"styleAttributes":{},
-			"text":"# Written Activation",
-			"type":"text",
-			"x":1080,
-			"y":520,
-			"width":376,
-			"height":60
-		},
-		{
-			"id":"1abd59ceea39e021",
-			"styleAttributes":{},
-			"text":"# Silent Casting",
-			"type":"text",
-			"x":1373,
-			"y":888,
-			"width":288,
-			"height":59
-		},
-		{
-			"id":"e4fb9ffbf1fa5664",
-			"styleAttributes":{},
-			"text":"# Incantations",
-			"type":"text",
-			"x":873,
-			"y":695,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"ec081defddd1e677",
-			"styleAttributes":{},
-			"text":"# Spells",
-			"type":"text",
-			"x":-95,
-			"y":300,
-			"width":151,
-			"height":60
-		},
-		{
-			"id":"bd0a9015aa043908",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Casting",
-			"type":"text",
-			"x":-252,
-			"y":626,
-			"width":464,
-			"height":60
-		},
-		{
-			"id":"e195ff79ab69aab8",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Optimization",
-			"type":"text",
-			"x":-252,
-			"y":746,
-			"width":464,
-			"height":50
-		},
-		{
-			"id":"07e42a0e3bbad991",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Keeping",
-			"type":"text",
-			"x":-252,
-			"y":686,
-			"width":464,
-			"height":60
-		},
-		{
-			"id":"1335ca0a0a5eef0d",
-			"styleAttributes":{},
-			"text":"# The Art of Commitments",
-			"type":"text",
-			"x":-252,
-			"y":796,
-			"width":464,
-			"height":50
-		},
-		{
 			"id":"42f904a9fa37d44a",
 			"styleAttributes":{},
 			"text":"# Primus Manipulation",
@@ -263,76 +363,6 @@
 			"y":-780,
 			"width":357,
 			"height":65
-		},
-		{
-			"id":"f09b6671075bbb45",
-			"styleAttributes":{},
-			"text":"# Contracts",
-			"type":"text",
-			"x":424,
-			"y":1187,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"cde67964437c3d79",
-			"styleAttributes":{},
-			"text":"# Promises",
-			"type":"text",
-			"x":424,
-			"y":1247,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"366559e077a3dca7",
-			"styleAttributes":{},
-			"text":"# Oaths",
-			"type":"text",
-			"x":424,
-			"y":1307,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"9ff5a02b971faf3b",
-			"styleAttributes":{},
-			"text":"# Vows",
-			"type":"text",
-			"x":424,
-			"y":1367,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"d839f9e5be513a69",
-			"styleAttributes":{},
-			"text":"#  Soul Infusion",
-			"type":"text",
-			"x":-184,
-			"y":-480,
-			"width":297,
-			"height":60
-		},
-		{
-			"id":"6659447f52b2ee49",
-			"styleAttributes":{},
-			"text":"# Fire  Magic",
-			"type":"text",
-			"x":680,
-			"y":-168,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"25c9fbf6620776f3",
-			"styleAttributes":{},
-			"text":"# Covenants",
-			"type":"text",
-			"x":424,
-			"y":1427,
-			"width":300,
-			"height":60
 		},
 		{
 			"id":"b3e7b929f106cc71",
@@ -375,43 +405,13 @@
 			"height":55
 		},
 		{
-			"id":"79bc7ed494dad8c4",
+			"id":"d839f9e5be513a69",
 			"styleAttributes":{},
-			"text":"# Water Magic",
+			"text":"#  Soul Infusion",
 			"type":"text",
-			"x":680,
-			"y":-108,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"9c8c8c0e88893693",
-			"styleAttributes":{},
-			"text":"# Earth Magic",
-			"type":"text",
-			"x":680,
-			"y":-48,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"6b5a5625bb8c0682",
-			"styleAttributes":{},
-			"text":"# Air Magic",
-			"type":"text",
-			"x":680,
-			"y":12,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"ad6d50c00dc23ccb",
-			"styleAttributes":{},
-			"text":"# Elemental Energy",
-			"type":"text",
-			"x":123,
-			"y":-76,
-			"width":306,
+			"x":-184,
+			"y":-480,
+			"width":297,
 			"height":60
 		}
 	],

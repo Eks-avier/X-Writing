@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c56a2faf5b64f9d8",
+            "id": "41e7f809dcbd1247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
+                "file": "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,93 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "psionics-system"
-            }
-          },
-          {
-            "id": "b980c64f52f1b0d5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Sorcery.canvas",
-                "viewState": {
-                  "x": 178.42399308528377,
-                  "y": 222.65623348542485,
-                  "zoom": -1.4601357841008107
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sorcery"
-            }
-          },
-          {
-            "id": "d080cbe5094ce390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Art of Spell Casting"
-            }
-          },
-          {
-            "id": "5ae88111bc2bdc0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Art of Commitments"
-            }
-          },
-          {
-            "id": "23d04c898233237a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
-                "viewState": {
-                  "x": 74.32598164012975,
-                  "y": -256.6696693870843,
-                  "zoom": -0.6905015541089392
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "title": "Rizal Law and the Catholic Hierarchy"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -353,11 +272,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "23d04c898233237a",
+  "active": "41e7f809dcbd1247",
   "lastOpenFiles": [
-    "Filipino Essay.md",
-    "Writing/ATM/Canvases/Krátos.canvas",
+    "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
+    "College/1T2526",
+    "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
+    "Writing/ATM/Canvases/Sorcery.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+    "Writing/ATM/Canvases/Krátos.canvas",
+    "Filipino Essay.md",
     "German Vocabulary - Nouns (A1).txt",
     "Notepad 10.md",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
@@ -365,14 +289,11 @@
     "~syncthing~Notepad 10.md.tmp",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
-    "Writing/ATM/Canvases/Sorcery.canvas",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Magic System/Soul/Soul Infusion.md",
     "College/3Q2425/1-27-25 - Physics.md",
     "College/1Q2526",
@@ -393,7 +314,6 @@
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",
-    "Writing/ATM/Characters/Titans/Mothra/Messy",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
