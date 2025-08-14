@@ -3,4 +3,13 @@
 	- His advocacy of this bill was an essential part of his nationalism'
 	- He believed that reading Rizal's novels would strengthen the **Filipinism** of the youth and foster patriotism.
 - Recto was the original author of the bill that made *Noli Me Tangere* and *El Filibusterismo* compulsory reading in all universities and colleges.
-	- It was sponsored by Senator Laurel, committee chairman of the committee on education.
+	- It was sponsored by Senator Laurel, committee chairman of the *committee on education.*
+	- The bill ran into opposition from the Catholic hierarchy spearheaded in the Senate by Senators:
+		- **Decoroso Rosales**, brother of Archbishop, though now Cardinal Rosales
+		- **Mariano J. Cuenco**, brother of Archbishop Cuenco
+		- **Francisco Rodrigo**, former president of Catholic Action.
+	- The argument of the opposition was that the bill would violate the freedom of conscience and religion.
+	- The Catholic hierarchy even issued a pastoral letter that detailed its objections to the bill, and urged fellow Catholics to oppose it.
+	- Rodrigo proposed that the education committee hold a closed-door conference with the Catholic hierarchy to search for a solution to the dispute despite public hearings already having been conducted.
+- Laurel and the other supporters rejected the proposal; the public hearing afforded the church the opportunity to be heard fully.
+	- Recto said that **Father Jesus Cavanna** of the Paulist Fathers, who wrote the pastoral letter, testified against the bill during the public 
