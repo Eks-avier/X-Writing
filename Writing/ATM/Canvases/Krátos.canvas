@@ -62,28 +62,6 @@
 			"height":60
 		},
 		{
-			"id":"14a8f24f39a2fa31",
-			"type":"text",
-			"text":"# WILL",
-			"styleAttributes":{},
-			"x":-586,
-			"y":-650,
-			"width":118,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"80cd417ac3689fce",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-650,
-			"width":168,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"488ab9d74fb533a5",
 			"type":"text",
 			"text":"# ALIGNMENT",
@@ -91,26 +69,6 @@
 			"x":400,
 			"y":-260,
 			"width":203,
-			"height":60
-		},
-		{
-			"id":"d546a38d9071fe3f",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-520,
-			"width":175,
-			"height":60
-		},
-		{
-			"id":"39462a7b7f9775da",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{},
-			"x":-527,
-			"y":-520,
-			"width":159,
 			"height":60
 		},
 		{
@@ -141,6 +99,48 @@
 			"x":-460,
 			"y":-140,
 			"width":176,
+			"height":60
+		},
+		{
+			"id":"14a8f24f39a2fa31",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":-586,
+			"y":-650,
+			"width":118,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"80cd417ac3689fce",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-650,
+			"width":168,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"d546a38d9071fe3f",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-520,
+			"width":175,
+			"height":60
+		},
+		{
+			"id":"39462a7b7f9775da",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":-527,
+			"y":-520,
+			"width":159,
 			"height":60
 		},
 		{

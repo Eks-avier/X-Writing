@@ -112,17 +112,24 @@
             "id": "23d04c898233237a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
-                "viewState": {
-                  "x": -111.05563584639006,
-                  "y": -25.863412585928643,
-                  "zoom": -0.6905015541089392
+                "file": "Filipino Essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "icon": "lucide-file",
+              "title": "Filipino Essay"
             }
           }
         ],
@@ -223,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394,
-    "collapsed": true
+    "width": 394
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -356,8 +362,9 @@
   },
   "active": "23d04c898233237a",
   "lastOpenFiles": [
-    "Writing/ATM/Unrefined/Filipino Essay.md",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+    "Filipino Essay.md",
     "German Vocabulary - Nouns (A1).txt",
     "Notepad 10.md",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
@@ -365,7 +372,6 @@
     "~syncthing~Notepad 10.md.tmp",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
     "Writing/ATM/Canvases/Sorcery.canvas",

@@ -9,4 +9,5 @@
 ## Body
 
 1. Other Filipinos need to gain a deeper understanding of their own language through research.
-2. By surfing the web about their own language 
+2. For example, they can read in websites like online encyclopedias and research articles,
+3. By knowing our own 
