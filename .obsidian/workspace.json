@@ -23,24 +23,17 @@
             "id": "41e7f809dcbd1247",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "viewState": {
+                  "x": 113,
+                  "y": -260,
+                  "zoom": -1.597415480344354
                 }
               },
-              "icon": "lucide-file",
-              "title": "Rizal Law and the Catholic Hierarchy"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos"
             }
           }
         ],
@@ -141,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -274,6 +266,7 @@
   },
   "active": "41e7f809dcbd1247",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Domination of Energy.canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "College/1T2526",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
@@ -310,7 +303,6 @@
     "College/3Q2425/Electromagnetic Wave.md",
     "College/3Q2425/Magnetic Field of Current.md",
     "Writing/ATM/Chapters/The First Arc/Devoured.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Chapters",
@@ -318,7 +310,6 @@
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
-    "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas"

@@ -7544,8 +7544,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744603432603,
-      "modifiedDate": 1744603549665,
-      "sizeInBytes": 8679,
+      "modifiedDate": 1755182360395,
+      "sizeInBytes": 6753,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.26,
@@ -7553,7 +7553,8 @@
         "characterCount": 675,
         "nonWhitespaceCharacterCount": 573,
         "newlineCount": 25
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Antitheriomorphosis.md": {
       "isCountable": true,

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Krátos",
+      "path": "Writing/ATM/Canvases/Krátos.canvas"
+    },
+    {
+      "basename": "Domination of Energy",
+      "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
+    },
+    {
       "basename": "Rizal Law and the Catholic Hierarchy",
       "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Art of Commitments",
       "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
-    },
-    {
-      "basename": "Krátos",
-      "path": "Writing/ATM/Canvases/Krátos.canvas"
     },
     {
       "basename": "Filipino Essay",
@@ -195,10 +199,6 @@
     {
       "basename": "The Scales of 'Titanus mosura'",
       "path": "Writing/ATM/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md"
-    },
-    {
-      "basename": "The Divine Soul of the Heavenly Instance",
-      "path": "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md"
     }
   ],
   "omittedPaths": [],
