@@ -84,23 +84,53 @@
 			"color":"5"
 		},
 		{
-			"id":"39462a7b7f9775da",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{},
-			"x":-500,
-			"y":-280,
-			"width":159,
-			"height":60
-		},
-		{
 			"id":"d546a38d9071fe3f",
 			"type":"text",
 			"text":"# AKRÁTON",
 			"styleAttributes":{},
-			"x":-180,
-			"y":-200,
+			"x":-240,
+			"y":-520,
 			"width":175,
+			"height":60
+		},
+		{
+			"id":"39462a7b7f9775da",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":-527,
+			"y":-520,
+			"width":159,
+			"height":60
+		},
+		{
+			"id":"488ab9d74fb533a5",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{},
+			"x":400,
+			"y":-260,
+			"width":203,
+			"height":60
+		},
+		{
+			"id":"5b967e8d078ac8fb",
+			"type":"text",
+			"text":"# COATING",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-60,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"469b859e197ac127",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-440,
+			"y":20,
+			"width":260,
 			"height":60
 		}
 	],
