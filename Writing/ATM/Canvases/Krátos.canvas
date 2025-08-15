@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1aec7c4a2e8a3105","type":"group","x":-60,"y":-1240,"width":960,"height":183,"label":"MANIFESTATION"},
+		{"id":"1aec7c4a2e8a3105","type":"group","x":0,"y":-1211,"width":960,"height":183,"label":"MANIFESTATION"},
 		{"id":"93bb33a376c7c53c","type":"group","x":60,"y":-1580,"width":840,"height":100,"label":"FOUNDATION OF KRÁTOS"},
 		{
 			"id":"bbba2e0c209d4efc",
@@ -30,7 +30,8 @@
 			"x":960,
 			"y":-1710,
 			"width":339,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"b38fe7d4e11823af",
@@ -40,48 +41,6 @@
 			"x":585,
 			"y":-1560,
 			"width":298,
-			"height":60
-		},
-		{
-			"id":"57860246e76541ad",
-			"type":"text",
-			"text":"# WILL",
-			"styleAttributes":{},
-			"x":80,
-			"y":-1560,
-			"width":168,
-			"height":60
-		},
-		{
-			"id":"75ad4e61a783fe70",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":340,
-			"y":-1560,
-			"width":168,
-			"height":60
-		},
-		{
-			"id":"b98ad271892a5e34",
-			"type":"text",
-			"text":"# CONQUEROR",
-			"styleAttributes":{},
-			"x":1001,
-			"y":-1399,
-			"width":215,
-			"height":60
-		},
-		{
-			"id":"d546a38d9071fe3f",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":1001,
-			"y":-1500,
-			"width":180,
 			"height":60
 		},
 		{
@@ -125,12 +84,54 @@
 			"height":60
 		},
 		{
+			"id":"57860246e76541ad",
+			"type":"text",
+			"text":"# WILL",
+			"styleAttributes":{},
+			"x":80,
+			"y":-1560,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"75ad4e61a783fe70",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":340,
+			"y":-1560,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"fdb1c9d72e923f43",
+			"type":"text",
+			"text":"# KRÁTOS",
+			"styleAttributes":{},
+			"x":402,
+			"y":-1361,
+			"width":157,
+			"height":60
+		},
+		{
 			"id":"1c98716d8c1349f5",
 			"type":"text",
 			"text":"# NATURAL FORCES",
 			"styleAttributes":{},
-			"x":-40,
-			"y":-1220,
+			"x":20,
+			"y":-1191,
+			"width":301,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# NATURAL ENERGIES",
+			"styleAttributes":{},
+			"x":20,
+			"y":-1111,
 			"width":301,
 			"height":60
 		},
@@ -139,19 +140,9 @@
 			"type":"text",
 			"text":"# SUPERNATURAL FORCES",
 			"styleAttributes":{},
-			"x":493,
-			"y":-1220,
+			"x":558,
+			"y":-1191,
 			"width":383,
-			"height":60
-		},
-		{
-			"id":"eb9c8bbdbfb9eb7d",
-			"type":"text",
-			"text":"# NATURAL ENERGIES",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-1140,
-			"width":301,
 			"height":60
 		},
 		{
@@ -159,8 +150,8 @@
 			"type":"text",
 			"text":"# SUPERNATURAL ENERGIES",
 			"styleAttributes":{},
-			"x":493,
-			"y":-1140,
+			"x":558,
+			"y":-1111,
 			"width":383,
 			"height":60
 		},
@@ -169,19 +160,29 @@
 			"type":"text",
 			"text":"# KRÁTON",
 			"styleAttributes":{},
-			"x":335,
-			"y":-974,
+			"x":395,
+			"y":-920,
 			"width":172,
 			"height":60
 		},
 		{
-			"id":"fdb1c9d72e923f43",
+			"id":"d546a38d9071fe3f",
 			"type":"text",
-			"text":"# KRÁTOS",
+			"text":"# AKRÁTON",
 			"styleAttributes":{},
-			"x":341,
-			"y":-1376,
-			"width":157,
+			"x":-409,
+			"y":-1740,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"b98ad271892a5e34",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":-409,
+			"y":-1810,
+			"width":215,
 			"height":60
 		}
 	],
@@ -261,20 +262,27 @@
 			"fromEnd":"arrow"
 		},
 		{
-			"id":"4497ce903ab54017",
-			"styleAttributes":{"pathfindingMethod":"direct"},
+			"id":"e370e81c310ac9b0",
+			"styleAttributes":{},
 			"toFloating":false,
-			"fromFloating":false,
+			"fromNode":"93bb33a376c7c53c",
+			"fromSide":"bottom",
+			"toNode":"fdb1c9d72e923f43",
+			"toSide":"top"
+		},
+		{
+			"id":"73215b8803161ad9",
+			"styleAttributes":{},
+			"toFloating":false,
 			"fromNode":"fdb1c9d72e923f43",
 			"fromSide":"bottom",
 			"toNode":"1aec7c4a2e8a3105",
 			"toSide":"top"
 		},
 		{
-			"id":"bc32d0a61e0126aa",
-			"styleAttributes":{"pathfindingMethod":"direct"},
+			"id":"ef84c6aef7e9ff00",
+			"styleAttributes":{},
 			"toFloating":false,
-			"fromFloating":false,
 			"fromNode":"1aec7c4a2e8a3105",
 			"fromSide":"bottom",
 			"toNode":"39462a7b7f9775da",

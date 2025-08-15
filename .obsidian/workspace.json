@@ -27,9 +27,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": 522.3600181808417,
-                  "y": -1267.9560734674633,
-                  "zoom": -1.572016237206244
+                  "x": 93.90310507335153,
+                  "y": -1239.9588591410434,
+                  "zoom": -1.533521115371287
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -261,7 +261,8 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "41e7f809dcbd1247",
