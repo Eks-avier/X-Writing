@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1aec7c4a2e8a3105","type":"group","x":-60,"y":-1039,"width":960,"height":183,"label":"MANIFESTATION"},
+		{"id":"1aec7c4a2e8a3105","type":"group","x":-60,"y":-1240,"width":960,"height":183,"label":"MANIFESTATION"},
 		{"id":"93bb33a376c7c53c","type":"group","x":60,"y":-1580,"width":840,"height":100,"label":"FOUNDATION OF KRÁTOS"},
 		{
 			"id":"bbba2e0c209d4efc",
@@ -85,66 +85,6 @@
 			"height":60
 		},
 		{
-			"id":"1c98716d8c1349f5",
-			"type":"text",
-			"text":"# NATURAL FORCES",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-1019,
-			"width":301,
-			"height":60
-		},
-		{
-			"id":"afee0a75bcb34de8",
-			"type":"text",
-			"text":"# SUPERNATURAL FORCES",
-			"styleAttributes":{},
-			"x":493,
-			"y":-1019,
-			"width":383,
-			"height":60
-		},
-		{
-			"id":"eb9c8bbdbfb9eb7d",
-			"type":"text",
-			"text":"# NATURAL ENERGIES",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-939,
-			"width":301,
-			"height":60
-		},
-		{
-			"id":"b677311f911fda76",
-			"type":"text",
-			"text":"# SUPERNATURAL ENERGIES",
-			"styleAttributes":{},
-			"x":493,
-			"y":-939,
-			"width":383,
-			"height":60
-		},
-		{
-			"id":"39462a7b7f9775da",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{},
-			"x":335,
-			"y":-773,
-			"width":172,
-			"height":60
-		},
-		{
-			"id":"fdb1c9d72e923f43",
-			"type":"text",
-			"text":"# KRÁTOS",
-			"styleAttributes":{},
-			"x":341,
-			"y":-1175,
-			"width":157,
-			"height":60
-		},
-		{
 			"id":"10a49e28aff126e4",
 			"type":"text",
 			"text":"# COATING",
@@ -182,6 +122,66 @@
 			"x":-409,
 			"y":-1420,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"1c98716d8c1349f5",
+			"type":"text",
+			"text":"# NATURAL FORCES",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-1220,
+			"width":301,
+			"height":60
+		},
+		{
+			"id":"afee0a75bcb34de8",
+			"type":"text",
+			"text":"# SUPERNATURAL FORCES",
+			"styleAttributes":{},
+			"x":493,
+			"y":-1220,
+			"width":383,
+			"height":60
+		},
+		{
+			"id":"eb9c8bbdbfb9eb7d",
+			"type":"text",
+			"text":"# NATURAL ENERGIES",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-1140,
+			"width":301,
+			"height":60
+		},
+		{
+			"id":"b677311f911fda76",
+			"type":"text",
+			"text":"# SUPERNATURAL ENERGIES",
+			"styleAttributes":{},
+			"x":493,
+			"y":-1140,
+			"width":383,
+			"height":60
+		},
+		{
+			"id":"39462a7b7f9775da",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":335,
+			"y":-974,
+			"width":172,
+			"height":60
+		},
+		{
+			"id":"fdb1c9d72e923f43",
+			"type":"text",
+			"text":"# KRÁTOS",
+			"styleAttributes":{},
+			"x":341,
+			"y":-1376,
+			"width":157,
 			"height":60
 		}
 	],
