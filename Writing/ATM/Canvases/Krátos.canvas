@@ -63,16 +63,6 @@
 			"height":60
 		},
 		{
-			"id":"57860246e76541ad",
-			"type":"text",
-			"text":"# WILL",
-			"styleAttributes":{},
-			"x":-13,
-			"y":-2576,
-			"width":174,
-			"height":60
-		},
-		{
 			"id":"f203303d4611d059",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
@@ -136,6 +126,16 @@
 			"height":60
 		},
 		{
+			"id":"06643a3aefd1882a",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":471,
+			"y":-2883,
+			"width":176,
+			"height":60
+		},
+		{
 			"id":"0f1511cae8a52779",
 			"type":"text",
 			"text":"# KRÁTON",
@@ -143,18 +143,18 @@
 				"shape":null
 			},
 			"x":-103,
-			"y":-2886,
+			"y":-2885,
 			"width":180,
 			"height":60
 		},
 		{
-			"id":"06643a3aefd1882a",
+			"id":"d21450fb0caddd92",
 			"type":"text",
-			"text":"# AKRÁTON",
+			"text":"# KRÁTONIC WILL",
 			"styleAttributes":{},
-			"x":465,
-			"y":-2886,
-			"width":176,
+			"x":-167,
+			"y":-2757,
+			"width":244,
 			"height":60
 		}
 	],
@@ -207,6 +207,15 @@
 			"fromNode":"b1cf011a1baae0c9",
 			"fromSide":"bottom",
 			"toNode":"0f1511cae8a52779",
+			"toSide":"top"
+		},
+		{
+			"id":"c52f760c575b2091",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0f1511cae8a52779",
+			"fromSide":"bottom",
+			"toNode":"d21450fb0caddd92",
 			"toSide":"top"
 		}
 	],
