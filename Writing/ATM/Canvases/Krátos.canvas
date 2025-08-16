@@ -1,74 +1,20 @@
 {
 	"nodes":[
-		{"id":"20f67d79763ba644","type":"group","x":560,"y":-3640,"width":1360,"height":360,"label":"Untitled group"},
-		{"id":"fc29eab05148e021","type":"group","x":-1520,"y":-3240,"width":640,"height":586,"label":"KRÁTONIC TECHNIQUES"},
-		{
-			"id":"b6cdbee445cac73a",
-			"type":"text",
-			"text":"# NOMOTHETE",
-			"styleAttributes":{},
-			"x":142,
-			"y":-3396,
-			"width":213,
-			"height":60
-		},
-		{
-			"id":"4f0b6d2d3113b48c",
-			"type":"text",
-			"text":"# AURA / FIELD",
-			"styleAttributes":{},
-			"x":-1300,
-			"y":-3200,
-			"width":224,
-			"height":60
-		},
-		{
-			"id":"8e64cdab7198629b",
-			"type":"text",
-			"text":"# COATING",
-			"styleAttributes":{},
-			"x":-1272,
-			"y":-3040,
-			"width":168,
-			"height":60
-		},
-		{
-			"id":"8090398a9f3242ad",
-			"type":"text",
-			"text":"# OFFENSIVE",
-			"styleAttributes":{},
-			"x":-1469,
-			"y":-2896,
-			"width":197,
-			"height":60
-		},
-		{
-			"id":"d021574369463194",
-			"type":"text",
-			"text":"# DEFENSIVE ",
-			"styleAttributes":{},
-			"x":-1104,
-			"y":-2896,
-			"width":198,
-			"height":60
-		},
-		{
-			"id":"27a6dc2e2cfd6c7a",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-1469,
-			"y":-2764,
-			"width":197,
-			"height":60
-		},
+		{"id":"0799afb17f5002b5","type":"group","x":-1182,"y":-2717,"width":2020,"height":677,"label":"MANIFESTATION"},
+		{"id":"424151396644bb55","type":"group","x":-1140,"y":-2639,"width":940,"height":560,"label":"MONOKRÁTON"},
+		{"id":"0630f54272719f74","type":"group","x":-140,"y":-2639,"width":940,"height":560,"label":"POLYKRÁTON"},
+		{"id":"20f67d79763ba644","type":"group","x":-1520,"y":-3720,"width":1360,"height":360,"color":"1","label":"CONQUEROR SUBSYSTEM"},
+		{"id":"fc29eab05148e021","type":"group","x":-2194,"y":-3431,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
+		{"id":"56cd2b69c4faccd9","type":"group","x":-800,"y":-3240,"width":300,"height":230,"color":"1","label":"TITLES"},
+		{"id":"e16d8dae41acd05c","type":"group","x":400,"y":-3139,"width":221,"height":102,"label":"INCAPABLE"},
+		{"id":"e5dbbe9587340916","type":"group","x":-285,"y":-3138,"width":220,"height":100,"label":"CAPABLE"},
 		{
 			"id":"279c4e6e365bd0a5",
 			"type":"text",
 			"text":"# CONQUEROR'S WILL",
 			"styleAttributes":{},
-			"x":590,
-			"y":-3619,
+			"x":-1490,
+			"y":-3699,
 			"width":298,
 			"height":60
 		},
@@ -80,8 +26,8 @@
 				"shape":"diamond",
 				"border":null
 			},
-			"x":1130,
-			"y":-3619,
+			"x":-950,
+			"y":-3699,
 			"width":298,
 			"height":60
 		},
@@ -90,141 +36,39 @@
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":1553,
-			"y":-3619,
+			"x":-527,
+			"y":-3699,
 			"width":330,
 			"height":60
 		},
 		{
-			"id":"50c5fa296f9317ea",
+			"id":"bf1fd017e348295f",
 			"type":"text",
-			"text":"# POLYARISTŌN",
+			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
-			"x":320,
-			"y":-2320,
-			"width":227,
+			"x":-970,
+			"y":-3446,
+			"width":339,
 			"height":60
 		},
 		{
-			"id":"6152c99aba6c6abe",
+			"id":"b6cdbee445cac73a",
 			"type":"text",
-			"text":"# POLYEURYTATŌN",
+			"text":"# NOMOTHETE",
 			"styleAttributes":{},
-			"x":80,
-			"y":-2100,
-			"width":289,
-			"height":60
-		},
-		{
-			"id":"fdd98545dd9c61c3",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":500,
-			"y":-2100,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"de472ab4cafbef25",
-			"type":"text",
-			"text":"# MONOKAKISTŌN",
-			"styleAttributes":{},
-			"x":-912,
-			"y":-2318,
-			"width":254,
-			"height":60
-		},
-		{
-			"id":"31a1ef02c162b9a1",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-1141,
-			"y":-2065,
-			"width":277,
-			"height":60
-		},
-		{
-			"id":"1e31686324d07671",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-729,
-			"y":-2065,
-			"width":303,
-			"height":60
-		},
-		{
-			"id":"5aca8370018d9cd5",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-78,
-			"y":-2318,
-			"width":240,
-			"height":60
-		},
-		{
-			"id":"30da6e352c9c7c47",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-501,
-			"y":-2319,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"89481b0cdf15768e",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":162,
-			"y":-2513,
+			"x":-760,
+			"y":-3200,
 			"width":220,
 			"height":60
 		},
 		{
-			"id":"a87959713c1f89c7",
+			"id":"e838c00dbd8cc81a",
 			"type":"text",
-			"text":"# MONOKRÁTON",
+			"text":"# CONQUEROR",
 			"styleAttributes":{},
-			"x":-680,
-			"y":-2513,
-			"width":231,
-			"height":60
-		},
-		{
-			"id":"c85c336bbaba526c",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-2720,
-			"width":254,
-			"height":60
-		},
-		{
-			"id":"d21450fb0caddd92",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-295,
-			"y":-2926,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"0f1511cae8a52779",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-263,
+			"x":-761,
 			"y":-3120,
-			"width":180,
+			"width":221,
 			"height":60
 		},
 		{
@@ -234,9 +78,33 @@
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":80,
-			"y":-3120,
+			"x":82,
+			"y":-3118,
 			"width":174,
+			"height":60
+		},
+		{
+			"id":"0f1511cae8a52779",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-265,
+			"y":-3118,
+			"width":183,
+			"height":60
+		},
+		{
+			"id":"bd77a1732fc00055",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-265,
+			"y":-3118,
+			"width":183,
 			"height":60
 		},
 		{
@@ -244,29 +112,149 @@
 			"type":"text",
 			"text":"# AKRÁTON",
 			"styleAttributes":{},
-			"x":399,
-			"y":-3120,
+			"x":422,
+			"y":-3118,
 			"width":176,
 			"height":60
 		},
 		{
-			"id":"3bd41ef1b63638a0",
+			"id":"d21450fb0caddd92",
 			"type":"text",
-			"text":"# X",
-			"styleAttributes":{"border":"invisible"},
-			"x":457,
-			"y":-2982,
-			"width":60,
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-295,
+			"y":-2922,
+			"width":244,
 			"height":60
 		},
 		{
-			"id":"bf1fd017e348295f",
+			"id":"4f0b6d2d3113b48c",
 			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
+			"text":"# AURA / FIELD",
 			"styleAttributes":{},
-			"x":1110,
-			"y":-3366,
-			"width":339,
+			"x":-1974,
+			"y":-3391,
+			"width":224,
+			"height":60
+		},
+		{
+			"id":"8e64cdab7198629b",
+			"type":"text",
+			"text":"# COATING",
+			"styleAttributes":{},
+			"x":-1946,
+			"y":-3231,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"8090398a9f3242ad",
+			"type":"text",
+			"text":"# OFFENSIVE",
+			"styleAttributes":{},
+			"x":-2143,
+			"y":-3087,
+			"width":197,
+			"height":60
+		},
+		{
+			"id":"d021574369463194",
+			"type":"text",
+			"text":"# DEFENSIVE ",
+			"styleAttributes":{},
+			"x":-1778,
+			"y":-3087,
+			"width":198,
+			"height":60
+		},
+		{
+			"id":"27a6dc2e2cfd6c7a",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-2143,
+			"y":-2955,
+			"width":197,
+			"height":60
+		},
+		{
+			"id":"31a1ef02c162b9a1",
+			"type":"text",
+			"text":"# MONOEURYTATŌN",
+			"styleAttributes":{},
+			"x":-1857,
+			"y":-2289,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"de472ab4cafbef25",
+			"type":"text",
+			"text":"# MONOKAKISTŌN",
+			"styleAttributes":{},
+			"x":-1857,
+			"y":-2537,
+			"width":254,
+			"height":60
+		},
+		{
+			"id":"1e31686324d07671",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-1857,
+			"y":-2387,
+			"width":303,
+			"height":60
+		},
+		{
+			"id":"30da6e352c9c7c47",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-1863,
+			"y":-2640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5aca8370018d9cd5",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":436,
+			"y":-1840,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"6152c99aba6c6abe",
+			"type":"text",
+			"text":"# POLYEURYTATŌN",
+			"styleAttributes":{},
+			"x":676,
+			"y":-1840,
+			"width":289,
+			"height":60
+		},
+		{
+			"id":"fdd98545dd9c61c3",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":880,
+			"y":-1960,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"50c5fa296f9317ea",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":653,
+			"y":-1960,
+			"width":227,
 			"height":60
 		}
 	],
@@ -289,7 +277,7 @@
 			"fromFloating":false,
 			"fromNode":"b1cf011a1baae0c9",
 			"fromSide":"right",
-			"toNode":"06643a3aefd1882a",
+			"toNode":"e16d8dae41acd05c",
 			"toSide":"left"
 		},
 		{
@@ -299,12 +287,12 @@
 			"fromFloating":false,
 			"fromNode":"b1cf011a1baae0c9",
 			"fromSide":"left",
-			"toNode":"0f1511cae8a52779",
+			"toNode":"e5dbbe9587340916",
 			"toSide":"right"
 		},
 		{
 			"id":"c52f760c575b2091",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"0f1511cae8a52779",
@@ -330,54 +318,6 @@
 			"fromSide":"left",
 			"toNode":"bbba2e0c209d4efc",
 			"toSide":"right"
-		},
-		{
-			"id":"ee0514caeb7bad5f",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"06643a3aefd1882a",
-			"fromSide":"bottom",
-			"toNode":"3bd41ef1b63638a0",
-			"toSide":"top"
-		},
-		{
-			"id":"df443cf8622eecaa",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"d21450fb0caddd92",
-			"fromSide":"bottom",
-			"toNode":"c85c336bbaba526c",
-			"toSide":"top"
-		},
-		{
-			"id":"270ce35e32b7981b",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"c85c336bbaba526c",
-			"fromSide":"bottom",
-			"toNode":"a87959713c1f89c7",
-			"toSide":"top"
-		},
-		{
-			"id":"6d2cdb174112fd8e",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"c85c336bbaba526c",
-			"fromSide":"bottom",
-			"toNode":"89481b0cdf15768e",
-			"toSide":"top"
-		},
-		{
-			"id":"b181527e0d146a25",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"50c5fa296f9317ea",
-			"fromSide":"bottom",
-			"toNode":"fdd98545dd9c61c3",
-			"toSide":"top"
 		},
 		{
 			"id":"26ad9e7705e478e6",
@@ -419,69 +359,12 @@
 			"toSide":"top"
 		},
 		{
-			"id":"f9baa210d5b51b55",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"id":"11bc5cee0ac49609",
+			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"50c5fa296f9317ea",
+			"fromNode":"d21450fb0caddd92",
 			"fromSide":"bottom",
-			"toNode":"6152c99aba6c6abe",
-			"toSide":"top"
-		},
-		{
-			"id":"64cd4534526f82e4",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"a87959713c1f89c7",
-			"fromSide":"bottom",
-			"toNode":"30da6e352c9c7c47",
-			"toSide":"top"
-		},
-		{
-			"id":"3d40abeca07de903",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"a87959713c1f89c7",
-			"fromSide":"bottom",
-			"toNode":"de472ab4cafbef25",
-			"toSide":"top"
-		},
-		{
-			"id":"8e28cc1fdd74fe0b",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"de472ab4cafbef25",
-			"fromSide":"bottom",
-			"toNode":"31a1ef02c162b9a1",
-			"toSide":"top"
-		},
-		{
-			"id":"482bd9176dbffc6b",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"de472ab4cafbef25",
-			"fromSide":"bottom",
-			"toNode":"1e31686324d07671",
-			"toSide":"top"
-		},
-		{
-			"id":"48c87043721b3b13",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"89481b0cdf15768e",
-			"fromSide":"bottom",
-			"toNode":"5aca8370018d9cd5",
-			"toSide":"top"
-		},
-		{
-			"id":"f02971d4be0f8246",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"89481b0cdf15768e",
-			"fromSide":"bottom",
-			"toNode":"50c5fa296f9317ea",
+			"toNode":"0799afb17f5002b5",
 			"toSide":"top"
 		}
 	],
