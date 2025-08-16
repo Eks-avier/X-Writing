@@ -275,76 +275,6 @@
 			"height":60
 		},
 		{
-			"id":"e347490a29bceb9b",
-			"type":"text",
-			"text":"# GRAVITATIONAL",
-			"styleAttributes":{},
-			"x":-640,
-			"y":-2640,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"680e7edbb42b0791",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":-2800,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"ecf1d28f0a317871",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":-2920,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"e2f2dbcb57f93b67",
-			"type":"text",
-			"text":"# NUCLEAR",
-			"styleAttributes":{},
-			"x":-1360,
-			"y":-2480,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"b8e08ddf645a731e",
-			"type":"text",
-			"text":"# ELECTROSTATICS",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":-2280,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"220d52c2da9e47ee",
-			"type":"text",
-			"text":"# MAGNETOSTATICS",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":-2220,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"a08d18cd0b032c49",
-			"type":"text",
-			"text":"# ELECTRODYNAMICS",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":-2160,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"d6730feb98022f82",
 			"type":"text",
 			"text":"# ELECTROMAGNETIC",
@@ -355,13 +285,53 @@
 			"height":60
 		},
 		{
-			"id":"aaf83ff63c2d3405",
+			"id":"e2f2dbcb57f93b67",
 			"type":"text",
-			"text":"# EM RADIATION",
+			"text":"# NUCLEAR",
 			"styleAttributes":{},
-			"x":-1140,
-			"y":-2100,
+			"x":-1360,
+			"y":-2320,
 			"width":300,
+			"height":60
+		},
+		{
+			"id":"e347490a29bceb9b",
+			"type":"text",
+			"text":"# GRAVITATIONAL",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":-2440,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"ecf1d28f0a317871",
+			"type":"text",
+			"text":"# PSIONIC",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-2440,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"680e7edbb42b0791",
+			"type":"text",
+			"text":"# MAGIC",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-2380,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"ab1bbdeb21f1739a",
+			"type":"text",
+			"text":"# MANIFESTATIONS",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1260,
+			"y":-2780,
+			"width":260,
 			"height":60
 		}
 	],
@@ -464,42 +434,6 @@
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
 			"toSide":"top"
-		},
-		{
-			"id":"c59ef7ac1d49f890",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"d6730feb98022f82",
-			"fromSide":"bottom",
-			"toNode":"b8e08ddf645a731e",
-			"toSide":"left"
-		},
-		{
-			"id":"0f45211692dc0cc5",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"d6730feb98022f82",
-			"fromSide":"bottom",
-			"toNode":"220d52c2da9e47ee",
-			"toSide":"left"
-		},
-		{
-			"id":"8dbf84e1cceeb869",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"d6730feb98022f82",
-			"fromSide":"bottom",
-			"toNode":"a08d18cd0b032c49",
-			"toSide":"left"
-		},
-		{
-			"id":"557981cbe8e96aba",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"d6730feb98022f82",
-			"fromSide":"bottom",
-			"toNode":"aaf83ff63c2d3405",
-			"toSide":"left"
 		}
 	],
 	"metadata":{
