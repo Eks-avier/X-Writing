@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"1aec7c4a2e8a3105","type":"group","x":60,"y":-1220,"width":960,"height":183,"label":"MANIFESTATION"},
-		{"id":"93bb33a376c7c53c","type":"group","x":120,"y":-1270,"width":840,"height":100,"label":"FOUNDATION OF KRÁTOS"},
 		{
 			"id":"b1cf011a1baae0c9",
 			"type":"text",
@@ -220,22 +218,22 @@
 			"height":60
 		},
 		{
-			"id":"3df0c74d1737eee2",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-319,
-			"y":-1118,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"10a49e28aff126e4",
 			"type":"text",
 			"text":"# COATING",
 			"styleAttributes":{},
 			"x":-319,
-			"y":-1178,
+			"y":-1157,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3df0c74d1737eee2",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-319,
+			"y":-1001,
 			"width":260,
 			"height":60
 		}
@@ -505,6 +503,15 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"712540d4667d68cc",
+			"fromSide":"bottom",
+			"toNode":"10a49e28aff126e4",
+			"toSide":"top"
+		},
+		{
+			"id":"c85b675ce03af5ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"10a49e28aff126e4",
 			"fromSide":"bottom",
 			"toNode":"3df0c74d1737eee2",
 			"toSide":"top"
