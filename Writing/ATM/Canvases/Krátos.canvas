@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"20f67d79763ba644","type":"group","x":-1520,"y":-3720,"width":1360,"height":360,"color":"1","label":"CONQUEROR SUBSYSTEM"},
 		{"id":"fc29eab05148e021","type":"group","x":-2194,"y":-3431,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
-		{"id":"f3ca666e779e2472","type":"group","x":-1200,"y":-2560,"width":680,"height":440,"label":"FUNDAMENTAL PHENOMENA"},
+		{"id":"f3ca666e779e2472","type":"group","x":-1200,"y":-2560,"width":680,"height":300,"label":"FUNDAMENTAL PHENOMENA"},
+		{"id":"0a0c7750b05548a3","type":"group","x":-1560,"y":-2240,"width":300,"height":300,"label":"NATURAL"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":-1520,"y":-3280,"width":300,"height":230,"color":"1","label":"TITLES"},
 		{"id":"e16d8dae41acd05c","type":"group","x":400,"y":-3139,"width":221,"height":102,"label":"INCAPABLE"},
 		{"id":"e5dbbe9587340916","type":"group","x":-285,"y":-3138,"width":220,"height":100,"label":"CAPABLE"},
@@ -281,8 +282,8 @@
 			"text":"# NUCLEAR",
 			"styleAttributes":{},
 			"x":-1160,
-			"y":-2540,
-			"width":260,
+			"y":-2520,
+			"width":300,
 			"height":60
 		},
 		{
@@ -291,17 +292,17 @@
 			"text":"# ELECTROMAGNETIC",
 			"styleAttributes":{},
 			"x":-1160,
-			"y":-2460,
-			"width":300,
+			"y":-2440,
+			"width":298,
 			"height":60
 		},
 		{
-			"id":"e347490a29bceb9b",
+			"id":"680e7edbb42b0791",
 			"type":"text",
-			"text":"# GRAVITATIONAL",
+			"text":"# MAGIC",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2380,
+			"x":-840,
+			"y":-2520,
 			"width":300,
 			"height":60
 		},
@@ -310,18 +311,18 @@
 			"type":"text",
 			"text":"# PSIONIC",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2300,
+			"x":-840,
+			"y":-2440,
 			"width":300,
 			"height":60
 		},
 		{
-			"id":"680e7edbb42b0791",
+			"id":"e347490a29bceb9b",
 			"type":"text",
-			"text":"# MAGIC",
+			"text":"# GRAVITATIONAL",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2220,
+			"x":-1080,
+			"y":-2360,
 			"width":300,
 			"height":60
 		}
