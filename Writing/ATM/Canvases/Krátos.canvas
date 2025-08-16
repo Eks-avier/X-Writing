@@ -1,133 +1,6 @@
 {
 	"nodes":[
-		{"id":"fc29eab05148e021","type":"group","x":-613,"y":-1416,"width":1093,"height":569,"label":"KRÁTONIC TECHNIQUES"},
-		{
-			"id":"b1cf011a1baae0c9",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":161,
-			"y":-3098,
-			"width":174,
-			"height":60
-		},
-		{
-			"id":"06643a3aefd1882a",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":471,
-			"y":-3098,
-			"width":176,
-			"height":60
-		},
-		{
-			"id":"3bd41ef1b63638a0",
-			"type":"text",
-			"text":"# X",
-			"styleAttributes":{"border":"invisible"},
-			"x":529,
-			"y":-2934,
-			"width":60,
-			"height":60
-		},
-		{
-			"id":"0f1511cae8a52779",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-171,
-			"y":-3098,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"bbba2e0c209d4efc",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":"diamond",
-				"border":null
-			},
-			"x":549,
-			"y":-2715,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"f203303d4611d059",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":972,
-			"y":-2715,
-			"width":330,
-			"height":60
-		},
-		{
-			"id":"bf1fd017e348295f",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":529,
-			"y":-2462,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"279c4e6e365bd0a5",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":9,
-			"y":-2796,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"d21450fb0caddd92",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-445,
-			"y":-2796,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"c85c336bbaba526c",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-195,
-			"y":-2483,
-			"width":254,
-			"height":60
-		},
-		{
-			"id":"a87959713c1f89c7",
-			"type":"text",
-			"text":"# MONOKRÁTON",
-			"styleAttributes":{},
-			"x":-388,
-			"y":-2261,
-			"width":231,
-			"height":60
-		},
-		{
-			"id":"89481b0cdf15768e",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":48,
-			"y":-2261,
-			"width":220,
-			"height":60
-		},
+		{"id":"fc29eab05148e021","type":"group","x":-1520,"y":-3240,"width":640,"height":586,"label":"KRÁTONIC TECHNIQUES"},
 		{
 			"id":"b6cdbee445cac73a",
 			"type":"text",
@@ -139,13 +12,47 @@
 			"height":60
 		},
 		{
-			"id":"50c5fa296f9317ea",
+			"id":"0f1511cae8a52779",
 			"type":"text",
-			"text":" # KAKISTON ",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-170,
+			"y":-3120,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"b1cf011a1baae0c9",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":162,
+			"y":-3120,
+			"width":174,
+			"height":60
+		},
+		{
+			"id":"06643a3aefd1882a",
+			"type":"text",
+			"text":"# AKRÁTON",
 			"styleAttributes":{},
-			"x":48,
-			"y":-1969,
-			"width":182,
+			"x":472,
+			"y":-3120,
+			"width":176,
+			"height":60
+		},
+		{
+			"id":"3bd41ef1b63638a0",
+			"type":"text",
+			"text":"# X",
+			"styleAttributes":{"border":"invisible"},
+			"x":530,
+			"y":-2982,
+			"width":60,
 			"height":60
 		},
 		{
@@ -153,19 +60,19 @@
 			"type":"text",
 			"text":"# ARISTŌN",
 			"styleAttributes":{},
-			"x":-278,
-			"y":-1969,
+			"x":-429,
+			"y":-1800,
 			"width":168,
 			"height":60
 		},
 		{
-			"id":"fdd98545dd9c61c3",
+			"id":"50c5fa296f9317ea",
 			"type":"text",
-			"text":"# STENOTATŌN",
+			"text":" # KAKISTON ",
 			"styleAttributes":{},
-			"x":158,
-			"y":-1719,
-			"width":220,
+			"x":-141,
+			"y":-1800,
+			"width":182,
 			"height":60
 		},
 		{
@@ -173,9 +80,19 @@
 			"type":"text",
 			"text":"# EURYTATŌN",
 			"styleAttributes":{},
-			"x":-109,
-			"y":-1719,
+			"x":-297,
+			"y":-1550,
 			"width":205,
+			"height":60
+		},
+		{
+			"id":"fdd98545dd9c61c3",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-31,
+			"y":-1550,
+			"width":220,
 			"height":60
 		},
 		{
@@ -183,28 +100,18 @@
 			"type":"text",
 			"text":"# AURA / FIELD",
 			"styleAttributes":{},
-			"x":-260,
-			"y":-1400,
+			"x":-1300,
+			"y":-3200,
 			"width":224,
 			"height":60
-		},
-		{
-			"id":"76d5613c9421e696",
-			"type":"text",
-			"text":"# SUBMISSION / SHUTTING DOWN",
-			"styleAttributes":{},
-			"x":-560,
-			"y":-1240,
-			"width":300,
-			"height":85
 		},
 		{
 			"id":"8e64cdab7198629b",
 			"type":"text",
 			"text":"# COATING",
 			"styleAttributes":{},
-			"x":40,
-			"y":-1240,
+			"x":-1272,
+			"y":-3040,
 			"width":168,
 			"height":60
 		},
@@ -213,9 +120,9 @@
 			"type":"text",
 			"text":"# OFFENSIVE",
 			"styleAttributes":{},
-			"x":-180,
-			"y":-1100,
-			"width":240,
+			"x":-1469,
+			"y":-2896,
+			"width":197,
 			"height":60
 		},
 		{
@@ -223,8 +130,8 @@
 			"type":"text",
 			"text":"# DEFENSIVE ",
 			"styleAttributes":{},
-			"x":200,
-			"y":-1100,
+			"x":-1104,
+			"y":-2896,
 			"width":198,
 			"height":60
 		},
@@ -233,9 +140,132 @@
 			"type":"text",
 			"text":"# PIERCING",
 			"styleAttributes":{},
-			"x":-160,
-			"y":-960,
-			"width":200,
+			"x":-1469,
+			"y":-2764,
+			"width":197,
+			"height":60
+		},
+		{
+			"id":"279c4e6e365bd0a5",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":441,
+			"y":-2640,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"bf1fd017e348295f",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":961,
+			"y":-2387,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"bbba2e0c209d4efc",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":"diamond",
+				"border":null
+			},
+			"x":981,
+			"y":-2640,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"f203303d4611d059",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":1404,
+			"y":-2640,
+			"width":330,
+			"height":60
+		},
+		{
+			"id":"a87959713c1f89c7",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-527,
+			"y":-2508,
+			"width":231,
+			"height":60
+		},
+		{
+			"id":"c85c336bbaba526c",
+			"type":"text",
+			"text":"# MANIFESTATION",
+			"styleAttributes":{},
+			"x":-207,
+			"y":-2730,
+			"width":254,
+			"height":60
+		},
+		{
+			"id":"d21450fb0caddd92",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-202,
+			"y":-2926,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"89481b0cdf15768e",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":36,
+			"y":-2508,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"1e31686324d07671",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-85,
+			"y":-2100,
+			"width":303,
+			"height":60
+		},
+		{
+			"id":"31a1ef02c162b9a1",
+			"type":"text",
+			"text":"# MONOEURYTATŌN",
+			"styleAttributes":{},
+			"x":-381,
+			"y":-2100,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"30da6e352c9c7c47",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-261,
+			"y":-2297,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"de472ab4cafbef25",
+			"type":"text",
+			"text":"# MONOKAKISTŌN",
+			"styleAttributes":{},
+			"x":-781,
+			"y":-2327,
+			"width":254,
 			"height":60
 		}
 	],
@@ -301,16 +331,6 @@
 			"toSide":"right"
 		},
 		{
-			"id":"558d8da5370fd8cd",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"0f1511cae8a52779",
-			"fromSide":"bottom",
-			"toNode":"279c4e6e365bd0a5",
-			"toSide":"top"
-		},
-		{
 			"id":"ee0514caeb7bad5f",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -326,16 +346,6 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"d21450fb0caddd92",
-			"fromSide":"bottom",
-			"toNode":"c85c336bbaba526c",
-			"toSide":"top"
-		},
-		{
-			"id":"a69cc336e5d49cb7",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"279c4e6e365bd0a5",
 			"fromSide":"bottom",
 			"toNode":"c85c336bbaba526c",
 			"toSide":"top"
@@ -360,44 +370,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"9407fbc3fe5d7b53",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"a87959713c1f89c7",
-			"fromSide":"bottom",
-			"toNode":"5aca8370018d9cd5",
-			"toSide":"top"
-		},
-		{
-			"id":"f9a48b505c1e9c4f",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"89481b0cdf15768e",
-			"fromSide":"bottom",
-			"toNode":"50c5fa296f9317ea",
-			"toSide":"top"
-		},
-		{
-			"id":"d64e7f840fab2a01",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"89481b0cdf15768e",
-			"fromSide":"bottom",
-			"toNode":"5aca8370018d9cd5",
-			"toSide":"top"
-		},
-		{
-			"id":"60b2175b68ed4561",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"a87959713c1f89c7",
-			"fromSide":"bottom",
-			"toNode":"50c5fa296f9317ea",
-			"toSide":"top"
-		},
-		{
 			"id":"ec2c8052c1941358",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -407,25 +379,6 @@
 			"toNode":"50c5fa296f9317ea",
 			"toSide":"left",
 			"toEnd":"none"
-		},
-		{
-			"id":"1cdb1f4e4c7af853",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a87959713c1f89c7",
-			"fromSide":"right",
-			"toNode":"89481b0cdf15768e",
-			"toSide":"left",
-			"toEnd":"none"
-		},
-		{
-			"id":"f9baa210d5b51b55",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"50c5fa296f9317ea",
-			"fromSide":"bottom",
-			"toNode":"6152c99aba6c6abe",
-			"toSide":"top"
 		},
 		{
 			"id":"b181527e0d146a25",
@@ -450,6 +403,7 @@
 			"id":"a84a5ed1392d1916",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"8e64cdab7198629b",
 			"fromSide":"bottom",
 			"toNode":"d021574369463194",
@@ -465,22 +419,60 @@
 			"toSide":"top"
 		},
 		{
-			"id":"b1be31b6a533c0f4",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"id":"6ef481ff8d5906b8",
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"4f0b6d2d3113b48c",
-			"fromSide":"bottom",
-			"toNode":"76d5613c9421e696",
-			"toSide":"top"
-		},
-		{
-			"id":"6ef481ff8d5906b8",
-			"styleAttributes":{},
-			"toFloating":false,
 			"fromNode":"8090398a9f3242ad",
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
+			"toSide":"top"
+		},
+		{
+			"id":"f9baa210d5b51b55",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"50c5fa296f9317ea",
+			"fromSide":"bottom",
+			"toNode":"6152c99aba6c6abe",
+			"toSide":"top"
+		},
+		{
+			"id":"64cd4534526f82e4",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a87959713c1f89c7",
+			"fromSide":"bottom",
+			"toNode":"30da6e352c9c7c47",
+			"toSide":"top"
+		},
+		{
+			"id":"3d40abeca07de903",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a87959713c1f89c7",
+			"fromSide":"bottom",
+			"toNode":"de472ab4cafbef25",
+			"toSide":"top"
+		},
+		{
+			"id":"8e28cc1fdd74fe0b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"de472ab4cafbef25",
+			"fromSide":"bottom",
+			"toNode":"31a1ef02c162b9a1",
+			"toSide":"top"
+		},
+		{
+			"id":"482bd9176dbffc6b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"de472ab4cafbef25",
+			"fromSide":"bottom",
+			"toNode":"1e31686324d07671",
 			"toSide":"top"
 		}
 	],
