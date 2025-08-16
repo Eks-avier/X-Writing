@@ -97,52 +97,14 @@
 			"height":60
 		},
 		{
-			"id":"d21450fb0caddd92",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-347,
-			"y":-2625,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"f203303d4611d059",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":483,
-			"y":-2754,
-			"width":330,
-			"height":60
-		},
-		{
 			"id":"bbba2e0c209d4efc",
 			"type":"text",
 			"text":"# ALIGNMENT",
-			"styleAttributes":{"shape":"diamond"},
+			"styleAttributes":{
+				"shape":"diamond",
+				"border":null
+			},
 			"x":498,
-			"y":-2625,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"bf1fd017e348295f",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":478,
-			"y":-2442,
-			"width":339,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"279c4e6e365bd0a5",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":77,
 			"y":-2625,
 			"width":298,
 			"height":60
@@ -152,7 +114,7 @@
 			"type":"text",
 			"text":"# AKRÁTON",
 			"styleAttributes":{},
-			"x":620,
+			"x":498,
 			"y":-2992,
 			"width":176,
 			"height":60
@@ -162,9 +124,49 @@
 			"type":"text",
 			"text":"# X",
 			"styleAttributes":{"border":"invisible"},
-			"x":708,
-			"y":-2882,
+			"x":817,
+			"y":-2992,
 			"width":60,
+			"height":60
+		},
+		{
+			"id":"f203303d4611d059",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":921,
+			"y":-2625,
+			"width":330,
+			"height":60
+		},
+		{
+			"id":"bf1fd017e348295f",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":478,
+			"y":-2434,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"279c4e6e365bd0a5",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":93,
+			"y":-2625,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"d21450fb0caddd92",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-361,
+			"y":-2625,
+			"width":244,
 			"height":60
 		}
 	],
@@ -224,9 +226,9 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"f203303d4611d059",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"bbba2e0c209d4efc",
-			"toSide":"top"
+			"toSide":"right"
 		},
 		{
 			"id":"558d8da5370fd8cd",
@@ -242,9 +244,8 @@
 			"id":"ee0514caeb7bad5f",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromFloating":false,
 			"fromNode":"06643a3aefd1882a",
-			"fromSide":"bottom",
+			"fromSide":"right",
 			"toNode":"3bd41ef1b63638a0",
 			"toSide":"left"
 		}
