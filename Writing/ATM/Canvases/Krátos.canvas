@@ -1,9 +1,8 @@
 {
 	"nodes":[
 		{"id":"20f67d79763ba644","type":"group","x":-1520,"y":-3720,"width":1360,"height":360,"color":"1","label":"CONQUEROR SUBSYSTEM"},
+		{"id":"f3ca666e779e2472","type":"group","x":-1400,"y":-2520,"width":840,"height":520,"label":"ARISTON MANIFESTATIONS"},
 		{"id":"fc29eab05148e021","type":"group","x":-2194,"y":-3431,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
-		{"id":"f3ca666e779e2472","type":"group","x":-1200,"y":-2560,"width":680,"height":300,"label":"FUNDAMENTAL PHENOMENA"},
-		{"id":"0a0c7750b05548a3","type":"group","x":-1560,"y":-2240,"width":300,"height":300,"label":"NATURAL"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":-1520,"y":-3280,"width":300,"height":230,"color":"1","label":"TITLES"},
 		{"id":"e16d8dae41acd05c","type":"group","x":400,"y":-3139,"width":221,"height":102,"label":"INCAPABLE"},
 		{"id":"e5dbbe9587340916","type":"group","x":-285,"y":-3138,"width":220,"height":100,"label":"CAPABLE"},
@@ -277,42 +276,12 @@
 			"height":60
 		},
 		{
-			"id":"e2f2dbcb57f93b67",
-			"type":"text",
-			"text":"# NUCLEAR",
-			"styleAttributes":{},
-			"x":-1160,
-			"y":-2520,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"dcb9a492eb555d23",
+			"id":"d6730feb98022f82",
 			"type":"text",
 			"text":"# ELECTROMAGNETIC",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2440,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"680e7edbb42b0791",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-2520,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"ecf1d28f0a317871",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-2440,
+			"x":-640,
+			"y":-2720,
 			"width":300,
 			"height":60
 		},
@@ -321,8 +290,58 @@
 			"type":"text",
 			"text":"# GRAVITATIONAL",
 			"styleAttributes":{},
-			"x":-1080,
+			"x":-640,
+			"y":-2640,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"680e7edbb42b0791",
+			"type":"text",
+			"text":"# MAGIC",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":-2800,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"ecf1d28f0a317871",
+			"type":"text",
+			"text":"# PSIONIC",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-2920,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"e2f2dbcb57f93b67",
+			"type":"text",
+			"text":"# NUCLEAR",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":-2480,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"78c1899ff0d725f6",
+			"type":"text",
+			"text":"# STRONG NUCLEAR",
+			"styleAttributes":{},
+			"x":-1160,
 			"y":-2360,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"d9ccd76c652be917",
+			"type":"text",
+			"text":"# WEAK NUCLEAR ",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":-2280,
 			"width":300,
 			"height":60
 		}
@@ -426,6 +445,25 @@
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
 			"toSide":"top"
+		},
+		{
+			"id":"92ad765410295d9d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e2f2dbcb57f93b67",
+			"fromSide":"bottom",
+			"toNode":"78c1899ff0d725f6",
+			"toSide":"left"
+		},
+		{
+			"id":"2c35c900c1bc7b37",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2f2dbcb57f93b67",
+			"fromSide":"bottom",
+			"toNode":"d9ccd76c652be917",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
