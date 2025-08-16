@@ -146,6 +146,16 @@
 			"width":339,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"c85c336bbaba526c",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":-231,
+			"y":-2300,
+			"width":215,
+			"height":60
 		}
 	],
 	"edges":[
@@ -216,6 +226,16 @@
 			"fromNode":"f203303d4611d059",
 			"fromSide":"bottom",
 			"toNode":"bbba2e0c209d4efc",
+			"toSide":"top"
+		},
+		{
+			"id":"ad9be0c071e38a90",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0f1511cae8a52779",
+			"fromSide":"bottom",
+			"toNode":"c85c336bbaba526c",
 			"toSide":"top"
 		}
 	],
