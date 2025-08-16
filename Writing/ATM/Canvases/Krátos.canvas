@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"20f67d79763ba644","type":"group","x":-1520,"y":-3720,"width":1360,"height":360,"color":"1","label":"CONQUEROR SUBSYSTEM"},
-		{"id":"f3ca666e779e2472","type":"group","x":-1400,"y":-2520,"width":840,"height":520,"label":"ARISTON MANIFESTATIONS"},
 		{"id":"fc29eab05148e021","type":"group","x":-2194,"y":-3431,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":-1520,"y":-3280,"width":300,"height":230,"color":"1","label":"TITLES"},
 		{"id":"e16d8dae41acd05c","type":"group","x":400,"y":-3139,"width":221,"height":102,"label":"INCAPABLE"},
@@ -276,16 +275,6 @@
 			"height":60
 		},
 		{
-			"id":"d6730feb98022f82",
-			"type":"text",
-			"text":"# ELECTROMAGNETIC",
-			"styleAttributes":{},
-			"x":-640,
-			"y":-2720,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"e347490a29bceb9b",
 			"type":"text",
 			"text":"# GRAVITATIONAL",
@@ -326,22 +315,52 @@
 			"height":60
 		},
 		{
-			"id":"78c1899ff0d725f6",
+			"id":"b8e08ddf645a731e",
 			"type":"text",
-			"text":"# STRONG NUCLEAR",
+			"text":"# ELECTROSTATICS",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2360,
+			"x":-1140,
+			"y":-2280,
 			"width":300,
 			"height":60
 		},
 		{
-			"id":"d9ccd76c652be917",
+			"id":"220d52c2da9e47ee",
 			"type":"text",
-			"text":"# WEAK NUCLEAR ",
+			"text":"# MAGNETOSTATICS",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2280,
+			"x":-1140,
+			"y":-2220,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"a08d18cd0b032c49",
+			"type":"text",
+			"text":"# ELECTRODYNAMICS",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":-2160,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"d6730feb98022f82",
+			"type":"text",
+			"text":"# ELECTROMAGNETIC",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":-2380,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"aaf83ff63c2d3405",
+			"type":"text",
+			"text":"# EM RADIATION",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":-2100,
 			"width":300,
 			"height":60
 		}
@@ -447,22 +466,39 @@
 			"toSide":"top"
 		},
 		{
-			"id":"92ad765410295d9d",
+			"id":"c59ef7ac1d49f890",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"e2f2dbcb57f93b67",
+			"fromNode":"d6730feb98022f82",
 			"fromSide":"bottom",
-			"toNode":"78c1899ff0d725f6",
+			"toNode":"b8e08ddf645a731e",
 			"toSide":"left"
 		},
 		{
-			"id":"2c35c900c1bc7b37",
-			"styleAttributes":{},
+			"id":"0f45211692dc0cc5",
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromNode":"e2f2dbcb57f93b67",
+			"fromNode":"d6730feb98022f82",
 			"fromSide":"bottom",
-			"toNode":"d9ccd76c652be917",
+			"toNode":"220d52c2da9e47ee",
+			"toSide":"left"
+		},
+		{
+			"id":"8dbf84e1cceeb869",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"d6730feb98022f82",
+			"fromSide":"bottom",
+			"toNode":"a08d18cd0b032c49",
+			"toSide":"left"
+		},
+		{
+			"id":"557981cbe8e96aba",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"d6730feb98022f82",
+			"fromSide":"bottom",
+			"toNode":"aaf83ff63c2d3405",
 			"toSide":"left"
 		}
 	],
