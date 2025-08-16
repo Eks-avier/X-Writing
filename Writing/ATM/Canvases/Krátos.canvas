@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"fc29eab05148e021","type":"group","x":-613,"y":-1416,"width":1093,"height":569,"label":"KRÁTONIC TECHNIQUES"},
 		{
 			"id":"b1cf011a1baae0c9",
 			"type":"text",
@@ -178,63 +179,63 @@
 			"height":60
 		},
 		{
-			"id":"712540d4667d68cc",
+			"id":"4f0b6d2d3113b48c",
 			"type":"text",
-			"text":"# KRÁTONIC TECHNICQUES",
+			"text":"# AURA / FIELD",
 			"styleAttributes":{},
-			"x":-372,
-			"y":-1478,
-			"width":366,
+			"x":-260,
+			"y":-1400,
+			"width":224,
 			"height":60
 		},
 		{
-			"id":"b98ad271892a5e34",
+			"id":"76d5613c9421e696",
 			"type":"text",
-			"text":"# CONQUEROR",
+			"text":"# SUBMISSION / SHUTTING DOWN",
 			"styleAttributes":{},
-			"x":-216,
-			"y":-841,
-			"width":215,
-			"height":60
+			"x":-560,
+			"y":-1240,
+			"width":300,
+			"height":85
 		},
 		{
-			"id":"f03fc87ffcc3b1c0",
-			"type":"text",
-			"text":"# SUBMISSION",
-			"styleAttributes":{},
-			"x":-747,
-			"y":-1355,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"fcb59458c9e52708",
-			"type":"text",
-			"text":"# BUTTING HEADS",
-			"styleAttributes":{},
-			"x":-747,
-			"y":-1275,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"10a49e28aff126e4",
+			"id":"8e64cdab7198629b",
 			"type":"text",
 			"text":"# COATING",
 			"styleAttributes":{},
-			"x":-319,
-			"y":-1157,
-			"width":260,
+			"x":40,
+			"y":-1240,
+			"width":168,
 			"height":60
 		},
 		{
-			"id":"3df0c74d1737eee2",
+			"id":"8090398a9f3242ad",
+			"type":"text",
+			"text":"# OFFENSIVE",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-1100,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"d021574369463194",
+			"type":"text",
+			"text":"# DEFENSIVE ",
+			"styleAttributes":{},
+			"x":200,
+			"y":-1100,
+			"width":198,
+			"height":60
+		},
+		{
+			"id":"27a6dc2e2cfd6c7a",
 			"type":"text",
 			"text":"# PIERCING",
 			"styleAttributes":{},
-			"x":-319,
-			"y":-1001,
-			"width":260,
+			"x":-160,
+			"y":-960,
+			"width":200,
 			"height":60
 		}
 	],
@@ -436,84 +437,50 @@
 			"toSide":"top"
 		},
 		{
-			"id":"6bf41202504bb9d7",
-			"styleAttributes":{
-				"pathfindingMethod":null
-			},
+			"id":"26ad9e7705e478e6",
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"5aca8370018d9cd5",
+			"fromNode":"8e64cdab7198629b",
 			"fromSide":"bottom",
-			"toNode":"712540d4667d68cc",
+			"toNode":"8090398a9f3242ad",
 			"toSide":"top"
 		},
 		{
-			"id":"5b0cd8c1f148446a",
+			"id":"a84a5ed1392d1916",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"6152c99aba6c6abe",
+			"fromNode":"8e64cdab7198629b",
 			"fromSide":"bottom",
-			"toNode":"712540d4667d68cc",
+			"toNode":"d021574369463194",
 			"toSide":"top"
 		},
 		{
-			"id":"49ee410aa413fa63",
+			"id":"25b22fcca500d382",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"fdd98545dd9c61c3",
+			"fromNode":"4f0b6d2d3113b48c",
 			"fromSide":"bottom",
-			"toNode":"712540d4667d68cc",
+			"toNode":"8e64cdab7198629b",
 			"toSide":"top"
 		},
 		{
-			"id":"ef567a3c3e1d3df8",
+			"id":"b1be31b6a533c0f4",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"712540d4667d68cc",
+			"fromNode":"4f0b6d2d3113b48c",
 			"fromSide":"bottom",
-			"toNode":"f03fc87ffcc3b1c0",
-			"toSide":"right"
+			"toNode":"76d5613c9421e696",
+			"toSide":"top"
 		},
 		{
-			"id":"26034adcb144fc92",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"712540d4667d68cc",
-			"fromSide":"bottom",
-			"toNode":"fcb59458c9e52708",
-			"toSide":"right"
-		},
-		{
-			"id":"c50eafbe2c5ac966",
+			"id":"6ef481ff8d5906b8",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f03fc87ffcc3b1c0",
-			"fromSide":"left",
-			"toNode":"fcb59458c9e52708",
-			"toSide":"left",
-			"fromEnd":"arrow"
-		},
-		{
-			"id":"1e5c6f8c1e0f546c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"712540d4667d68cc",
+			"fromNode":"8090398a9f3242ad",
 			"fromSide":"bottom",
-			"toNode":"10a49e28aff126e4",
-			"toSide":"top"
-		},
-		{
-			"id":"c85b675ce03af5ba",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"10a49e28aff126e4",
-			"fromSide":"bottom",
-			"toNode":"3df0c74d1737eee2",
+			"toNode":"27a6dc2e2cfd6c7a",
 			"toSide":"top"
 		}
 	],
