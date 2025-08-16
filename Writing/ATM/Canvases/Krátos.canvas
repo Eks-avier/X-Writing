@@ -105,26 +105,6 @@
 			"height":60
 		},
 		{
-			"id":"89481b0cdf15768e",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":123,
-			"y":-2508,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"5aca8370018d9cd5",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-80,
-			"y":-2320,
-			"width":240,
-			"height":60
-		},
-		{
 			"id":"50c5fa296f9317ea",
 			"type":"text",
 			"text":"# POLYARISTŌN",
@@ -219,22 +199,12 @@
 			"height":60
 		},
 		{
-			"id":"30da6e352c9c7c47",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-2320,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"a87959713c1f89c7",
 			"type":"text",
 			"text":"# MONOKRÁTON",
 			"styleAttributes":{},
-			"x":-680,
-			"y":-2480,
+			"x":-695,
+			"y":-2483,
 			"width":231,
 			"height":60
 		},
@@ -243,8 +213,8 @@
 			"type":"text",
 			"text":"# MONOKAKISTŌN",
 			"styleAttributes":{},
-			"x":-920,
-			"y":-2320,
+			"x":-912,
+			"y":-2318,
 			"width":254,
 			"height":60
 		},
@@ -253,18 +223,8 @@
 			"type":"text",
 			"text":"# MONOEURYTATŌN",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":-2120,
-			"width":277,
-			"height":60
-		},
-		{
-			"id":"d189072fd7015ba1",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-1160,
-			"y":-2120,
+			"x":-1141,
+			"y":-2065,
 			"width":277,
 			"height":60
 		},
@@ -273,9 +233,39 @@
 			"type":"text",
 			"text":"# MONOSTENOTATŌN",
 			"styleAttributes":{},
-			"x":-720,
-			"y":-2120,
+			"x":-729,
+			"y":-2065,
 			"width":303,
+			"height":60
+		},
+		{
+			"id":"89481b0cdf15768e",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":133,
+			"y":-2483,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"5aca8370018d9cd5",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-78,
+			"y":-2318,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"30da6e352c9c7c47",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-501,
+			"y":-2319,
+			"width":260,
 			"height":60
 		}
 	],
@@ -492,17 +482,6 @@
 			"fromSide":"bottom",
 			"toNode":"50c5fa296f9317ea",
 			"toSide":"top"
-		},
-		{
-			"id":"6bf14d3915f368d0",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"30da6e352c9c7c47",
-			"fromSide":"right",
-			"toNode":"5aca8370018d9cd5",
-			"toSide":"left",
-			"toEnd":"none"
 		}
 	],
 	"metadata":{
