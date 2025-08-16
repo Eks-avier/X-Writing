@@ -2,7 +2,10 @@
 	"nodes":[
 		{"id":"20f67d79763ba644","type":"group","x":-1520,"y":-3720,"width":1360,"height":360,"color":"1","label":"CONQUEROR SUBSYSTEM"},
 		{"id":"fc29eab05148e021","type":"group","x":-2194,"y":-3431,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
+		{"id":"508c54ce78c2f631","type":"group","x":-880,"y":-2680,"width":360,"height":420,"label":"FUNDAMENTAL PHENOMENA"},
+		{"id":"390b3e1f3e3a882b","type":"group","x":-1520,"y":-2520,"width":480,"height":160,"label":"KAKISTŌN KRÁTON"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":-1520,"y":-3280,"width":300,"height":230,"color":"1","label":"TITLES"},
+		{"id":"9636afc1375924b7","type":"group","x":-1240,"y":-2900,"width":600,"height":100,"label":"ARISTŌN KRÁTON"},
 		{"id":"e16d8dae41acd05c","type":"group","x":400,"y":-3139,"width":221,"height":102,"label":"INCAPABLE"},
 		{"id":"e5dbbe9587340916","type":"group","x":-285,"y":-3138,"width":220,"height":100,"label":"CAPABLE"},
 		{
@@ -165,16 +168,6 @@
 			"height":60
 		},
 		{
-			"id":"30da6e352c9c7c47",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-1860,
-			"y":-2580,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"762c36ae4b8d3d94",
 			"type":"text",
 			"text":"# MONOKRÁTON",
@@ -205,56 +198,6 @@
 			"height":60
 		},
 		{
-			"id":"a6bbb2881eb1a8c0",
-			"type":"text",
-			"text":"# POLYEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-2460,
-			"width":289,
-			"height":60
-		},
-		{
-			"id":"fd31793714372271",
-			"type":"text",
-			"text":"# POLYKAKISTŌN",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-2540,
-			"width":243,
-			"height":60
-		},
-		{
-			"id":"74a0d0cb0a789316",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-2380,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"12a0a4dd57b7a1d0",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-2640,
-			"width":227,
-			"height":60
-		},
-		{
-			"id":"79bc35869164668a",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-2720,
-			"width":220,
-			"height":60
-		},
-		{
 			"id":"b6cdbee445cac73a",
 			"type":"text",
 			"text":"# NOMOTHETE",
@@ -275,13 +218,93 @@
 			"height":60
 		},
 		{
+			"id":"79bc35869164668a",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-2120,
+			"y":-2680,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"74a0d0cb0a789316",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-2400,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"fd31793714372271",
+			"type":"text",
+			"text":"# POLYKAKISTŌN",
+			"styleAttributes":{},
+			"x":-2120,
+			"y":-2500,
+			"width":243,
+			"height":60
+		},
+		{
+			"id":"a6bbb2881eb1a8c0",
+			"type":"text",
+			"text":"# POLYEURYTATŌN",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-2320,
+			"width":289,
+			"height":60
+		},
+		{
+			"id":"40486f9157618c58",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-2120,
+			"y":-2580,
+			"width":227,
+			"height":60
+		},
+		{
+			"id":"30da6e352c9c7c47",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-1860,
+			"y":-2580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"82dfdf67876b43b1",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":-2880,
+			"width":227,
+			"height":60
+		},
+		{
+			"id":"bd64d8fdf6008adb",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-2880,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"d6730feb98022f82",
 			"type":"text",
-			"text":"# ELECTROMAGNETIC",
+			"text":"# ELECTROMAGNETISM",
 			"styleAttributes":{},
-			"x":-1360,
-			"y":-2380,
-			"width":300,
+			"x":-860,
+			"y":-2580,
+			"width":320,
 			"height":60
 		},
 		{
@@ -289,9 +312,9 @@
 			"type":"text",
 			"text":"# NUCLEAR",
 			"styleAttributes":{},
-			"x":-1360,
-			"y":-2320,
-			"width":300,
+			"x":-860,
+			"y":-2660,
+			"width":320,
 			"height":60
 		},
 		{
@@ -299,9 +322,9 @@
 			"type":"text",
 			"text":"# GRAVITATIONAL",
 			"styleAttributes":{},
-			"x":-1360,
-			"y":-2440,
-			"width":300,
+			"x":-860,
+			"y":-2500,
+			"width":320,
 			"height":60
 		},
 		{
@@ -309,9 +332,9 @@
 			"type":"text",
 			"text":"# PSIONIC",
 			"styleAttributes":{},
-			"x":-1000,
-			"y":-2440,
-			"width":300,
+			"x":-860,
+			"y":-2420,
+			"width":320,
 			"height":60
 		},
 		{
@@ -319,19 +342,9 @@
 			"type":"text",
 			"text":"# MAGIC",
 			"styleAttributes":{},
-			"x":-1000,
-			"y":-2380,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"ab1bbdeb21f1739a",
-			"type":"text",
-			"text":"# MANIFESTATIONS",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1260,
-			"y":-2780,
-			"width":260,
+			"x":-860,
+			"y":-2340,
+			"width":320,
 			"height":60
 		}
 	],
@@ -434,6 +447,25 @@
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
 			"toSide":"top"
+		},
+		{
+			"id":"1ae058247ed77d8a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82dfdf67876b43b1",
+			"fromSide":"right",
+			"toNode":"bd64d8fdf6008adb",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"cb496396394a406d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9636afc1375924b7",
+			"fromSide":"bottom",
+			"toNode":"508c54ce78c2f631",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
