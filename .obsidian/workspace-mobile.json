@@ -179,24 +179,17 @@
             "id": "f99e82848841319f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Unrefined/Filipino Essay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "viewState": {
+                  "x": -20.905923485893865,
+                  "y": -4011.1966749617777,
+                  "zoom": -1.341594748894499
                 }
               },
-              "icon": "lucide-file",
-              "title": "Filipino Essay"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos"
             }
           }
         ],

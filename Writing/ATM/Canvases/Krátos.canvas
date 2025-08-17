@@ -41,6 +41,26 @@
 			"height":60
 		},
 		{
+			"id":"31a1ef02c162b9a1",
+			"type":"text",
+			"text":"# MONOEURYTATŌN",
+			"styleAttributes":{},
+			"x":-1495,
+			"y":-3865,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"51f7f7f317885ed2",
+			"type":"text",
+			"text":"# POLYEURYTATŌN",
+			"styleAttributes":{},
+			"x":-1135,
+			"y":-3865,
+			"width":280,
+			"height":60
+		},
+		{
 			"id":"d21450fb0caddd92",
 			"type":"text",
 			"text":"# KRÁTONIC WILL",
@@ -164,46 +184,6 @@
 			"height":60
 		},
 		{
-			"id":"31a1ef02c162b9a1",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-1495,
-			"y":-3865,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"1e31686324d07671",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-1495,
-			"y":-3685,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"51f7f7f317885ed2",
-			"type":"text",
-			"text":"# POLYEURYTATŌN",
-			"styleAttributes":{},
-			"x":-1135,
-			"y":-3865,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"a6bbb2881eb1a8c0",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-1115,
-			"y":-3685,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"8090398a9f3242ad",
 			"type":"text",
 			"text":"# OFFENSIVE",
@@ -251,6 +231,26 @@
 			"x":-1991,
 			"y":-3380,
 			"width":224,
+			"height":60
+		},
+		{
+			"id":"1e31686324d07671",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-1495,
+			"y":-3685,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"a6bbb2881eb1a8c0",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-1115,
+			"y":-3685,
+			"width":280,
 			"height":60
 		},
 		{
@@ -377,6 +377,7 @@
 			"id":"b290c086908c0aa0",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"9636afc1375924b7",
 			"fromSide":"bottom",
 			"toNode":"ecf1d28f0a317871",
