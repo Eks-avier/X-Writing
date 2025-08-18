@@ -9,69 +9,6 @@
 		{"id":"e5dbbe9587340916","type":"group","x":-476,"y":-4719,"width":236,"height":100,"label":"CAPABLE"},
 		{"id":"e16d8dae41acd05c","type":"group","x":139,"y":-4720,"width":221,"height":102,"label":"INCAPABLE"},
 		{
-			"id":"06643a3aefd1882a",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":161,
-			"y":-4699,
-			"width":176,
-			"height":60
-		},
-		{
-			"id":"b1cf011a1baae0c9",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-138,
-			"y":-4699,
-			"width":174,
-			"height":60
-		},
-		{
-			"id":"bbba2e0c209d4efc",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":"diamond",
-				"border":null
-			},
-			"x":269,
-			"y":-4399,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"f203303d4611d059",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":696,
-			"y":-4399,
-			"width":330,
-			"height":60
-		},
-		{
-			"id":"279c4e6e365bd0a5",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-200,
-			"y":-4399,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"bf1fd017e348295f",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":249,
-			"y":-4160,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"82dfdf67876b43b1",
 			"type":"text",
 			"text":"# POLYARISTŌN",
@@ -139,16 +76,6 @@
 			"x":-380,
 			"y":-3490,
 			"width":320,
-			"height":60
-		},
-		{
-			"id":"d21450fb0caddd92",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-4540,
-			"width":244,
 			"height":60
 		},
 		{
@@ -222,18 +149,6 @@
 			"height":60
 		},
 		{
-			"id":"0f1511cae8a52779",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-460,
-			"y":-4699,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"31a1ef02c162b9a1",
 			"type":"text",
 			"text":"# MONOEURYTATŌN",
@@ -271,6 +186,176 @@
 			"x":-1763,
 			"y":-3645,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"0f1511cae8a52779",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-460,
+			"y":-4699,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"43cac365187681d9",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1000,
+			"y":-5080,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"06643a3aefd1882a",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":161,
+			"y":-4699,
+			"width":176,
+			"height":60
+		},
+		{
+			"id":"60cd83a186a21ade",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-5000,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"d21450fb0caddd92",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-4540,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"279c4e6e365bd0a5",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-4399,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"bbba2e0c209d4efc",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":"diamond",
+				"border":null
+			},
+			"x":269,
+			"y":-4399,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"f203303d4611d059",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":696,
+			"y":-4399,
+			"width":330,
+			"height":60
+		},
+		{
+			"id":"b1cf011a1baae0c9",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-138,
+			"y":-4699,
+			"width":174,
+			"height":60
+		},
+		{
+			"id":"bf1fd017e348295f",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":249,
+			"y":-4160,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"7db94b3be4c898bd",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-4800,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"40c4259ff0a64229",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-4720,
+			"width":330,
+			"height":60
+		},
+		{
+			"id":"d45819342995cc17",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-4640,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"41bd35c565c834ab",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":"diamond",
+				"border":null
+			},
+			"x":-1480,
+			"y":-4880,
+			"width":298,
+			"height":60
+		},
+		{
+			"id":"4bd0294bdf2c6bbf",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1000,
+			"y":-5160,
+			"width":174,
+			"height":60
+		},
+		{
+			"id":"d8bded22747d6035",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-4920,
+			"width":244,
 			"height":60
 		}
 	],
