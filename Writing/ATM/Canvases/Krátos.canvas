@@ -3,16 +3,6 @@
 		{"id":"fc29eab05148e021","type":"group","x":-320,"y":-4720,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":365,"y":-4364,"width":300,"height":230,"color":"1","label":"TITLES"},
 		{
-			"id":"726219e620b574eb",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1663,
-			"y":-5880,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"95591a82cd676dc8",
 			"type":"text",
 			"text":"# KRÁTON",
@@ -32,26 +22,6 @@
 			"x":-1240,
 			"y":-5880,
 			"width":200,
-			"height":60
-		},
-		{
-			"id":"c61971cd9778800e",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-2102,
-			"y":-5680,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"f1da559c36412945",
-			"type":"text",
-			"text":"# PHANEROSIS",
-			"styleAttributes":{},
-			"x":-2102,
-			"y":-5400,
-			"width":244,
 			"height":60
 		},
 		{"id":"4911deb66bab54b3","type":"text","text":"# KAKISTŌN","x":17,"y":-5740,"width":280,"height":60},
@@ -538,6 +508,26 @@
 			"x":217,
 			"y":-6340,
 			"width":200,
+			"height":60
+		},
+		{
+			"id":"726219e620b574eb",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1663,
+			"y":-5880,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"c61971cd9778800e",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-2102,
+			"y":-5680,
+			"width":244,
 			"height":60
 		}
 	],
