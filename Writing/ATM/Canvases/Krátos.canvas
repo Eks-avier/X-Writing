@@ -555,6 +555,16 @@
 			"height":60
 		},
 		{
+			"id":"c61971cd9778800e",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-2102,
+			"y":-5600,
+			"width":244,
+			"height":60
+		},
+		{
 			"id":"5307b393655d82e2",
 			"type":"text",
 			"text":"# KRÁTOS",
@@ -565,13 +575,13 @@
 			"height":60
 		},
 		{
-			"id":"c61971cd9778800e",
+			"id":"3d545b3ea48e753e",
 			"type":"text",
-			"text":"# KRÁTONIC WILL",
+			"text":"# KRÁTOS",
 			"styleAttributes":{},
-			"x":-2102,
-			"y":-5600,
-			"width":244,
+			"x":205,
+			"y":-6560,
+			"width":200,
 			"height":60
 		}
 	],
