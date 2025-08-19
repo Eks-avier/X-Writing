@@ -27,13 +27,39 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -1404.857275275575,
-                  "y": -4562.122414506822,
+                  "x": -1552.1842659915367,
+                  "y": -4402.403409488252,
                   "zoom": -1.2505142075554636
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Krátos"
+            }
+          },
+          {
+            "id": "bcebcfabf58b0d49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-19 14.52.10.excalidraw"
+            }
+          },
+          {
+            "id": "afce42ab9c6c9526",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=HvZW1ooZUnQLz-fzul1_s&theme=light&version=2&sort=default",
+                "title": "Excalidraw Libraries",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Excalidraw Libraries"
             }
           },
           {
@@ -49,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,11 +301,13 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "41e7f809dcbd1247",
+  "active": "afce42ab9c6c9526",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
@@ -318,7 +346,6 @@
     "College/3Q2425/Light.md",
     "College/3Q2425/Electromagnetic Wave.md",
     "College/3Q2425/Magnetic Field of Current.md",
-    "Writing/ATM/Chapters/The First Arc/Devoured.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
