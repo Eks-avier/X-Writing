@@ -19,76 +19,13 @@
 			"height":60
 		},
 		{
-			"id":"60cd83a186a21ade",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":-5000,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"7db94b3be4c898bd",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-1480,
-			"y":-4800,
-			"width":298,
-			"height":60
-		},
-		{
 			"id":"40c4259ff0a64229",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
 			"x":-1480,
 			"y":-4720,
-			"width":330,
-			"height":60
-		},
-		{
-			"id":"d45819342995cc17",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":-1480,
-			"y":-4640,
 			"width":339,
-			"height":60
-		},
-		{
-			"id":"41bd35c565c834ab",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":"diamond",
-				"border":null
-			},
-			"x":-1480,
-			"y":-4880,
-			"width":298,
-			"height":60
-		},
-		{
-			"id":"4bd0294bdf2c6bbf",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1000,
-			"y":-5160,
-			"width":174,
-			"height":60
-		},
-		{
-			"id":"d8bded22747d6035",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":-4920,
-			"width":244,
 			"height":60
 		},
 		{
@@ -242,16 +179,6 @@
 			"height":60
 		},
 		{
-			"id":"4df2fcf0844bfc17",
-			"type":"text",
-			"text":"# GRAVITATIONAL",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3940,
-			"width":320,
-			"height":60
-		},
-		{
 			"id":"680e7edbb42b0791",
 			"type":"text",
 			"text":"# MAGIC",
@@ -259,46 +186,6 @@
 			"x":260,
 			"y":-3490,
 			"width":320,
-			"height":60
-		},
-		{
-			"id":"d8ff0991dd99ae52",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3737,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"0d52a978e34db673",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3797,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"ae3bcfee4a06f626",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4260,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"96fec0108917356a",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4320,
-			"width":260,
 			"height":60
 		},
 		{
@@ -332,42 +219,12 @@
 			"height":60
 		},
 		{
-			"id":"75dd039179848c7e",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-1720,
-			"y":-4120,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"a6bbb2881eb1a8c0",
 			"type":"text",
 			"text":"# POLYSTENOTATŌN",
 			"styleAttributes":{},
 			"x":-1763,
 			"y":-3645,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"909aeb1225239605",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-1720,
-			"y":-4060,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"9b887242380b31d6",
-			"type":"text",
-			"text":"# EURYTATŌN",
-			"styleAttributes":{},
-			"x":-2003,
-			"y":-4380,
 			"width":280,
 			"height":60
 		},
@@ -392,16 +249,219 @@
 			"height":60
 		},
 		{
+			"id":"9b887242380b31d6",
+			"type":"text",
+			"text":"# EURYTATŌN",
+			"styleAttributes":{},
+			"x":-2003,
+			"y":-4380,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"75dd039179848c7e",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-1723,
+			"y":-4320,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"909aeb1225239605",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-1723,
+			"y":-4260,
+			"width":300,
+			"height":60
+		},
+		{
 			"id":"8566190c8771f267",
 			"type":"text",
 			"text":"# STENOTATŌN",
 			"styleAttributes":{},
-			"x":-2003,
-			"y":-4150,
+			"x":-1723,
+			"y":-4380,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"d45819342995cc17",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-4660,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"7db94b3be4c898bd",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-4780,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"41bd35c565c834ab",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":"diamond",
+				"border":null
+			},
+			"x":-1480,
+			"y":-4860,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"60cd83a186a21ade",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-5020,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"4bd0294bdf2c6bbf",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1000,
+			"y":-5140,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"d8bded22747d6035",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":-4890,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"0d52a978e34db673",
+			"type":"text",
+			"text":"# PSIONIC",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-3880,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"d8ff0991dd99ae52",
+			"type":"text",
+			"text":"# MAGIC",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-3820,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"4df2fcf0844bfc17",
+			"type":"text",
+			"text":"# GRAVITATIONAL",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-3940,
+			"width":320,
+			"height":60
+		},
+		{"id":"4911deb66bab54b3","type":"text","text":"# KAKISTŌN","x":-1863,"y":-4440,"width":280,"height":60},
+		{
+			"id":"96fec0108917356a",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4350,
 			"width":260,
 			"height":60
 		},
-		{"id":"4911deb66bab54b3","type":"text","text":"# KAKISTŌN","x":-2003,"y":-4480,"width":280,"height":60}
+		{
+			"id":"1810483a81eb0efc",
+			"type":"text",
+			"text":"# IDIARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9ed09ddb4c30125c",
+			"type":"text",
+			"text":"# ARISTŌN",
+			"styleAttributes":{},
+			"x":-990,
+			"y":-4410,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ae3bcfee4a06f626",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"01fd6fc3078ed40b",
+			"type":"text",
+			"text":"# HOLOARISTŌN ",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7bb6462897de7102",
+			"type":"text",
+			"text":"# KOINOS KRATON",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":-5120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"01d47e261d1fcd92",
+			"type":"text",
+			"text":"# KOINE KRATON",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":-5180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0ed5c2b51020f5e1",
+			"type":"text",
+			"text":"# KRATOR",
+			"styleAttributes":{},
+			"x":-1833,
+			"y":-5180,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{
