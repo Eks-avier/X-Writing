@@ -269,46 +269,6 @@
 			"height":60
 		},
 		{
-			"id":"01fd6fc3078ed40b",
-			"type":"text",
-			"text":"# HOLOARISTŌN ",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4350,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1810483a81eb0efc",
-			"type":"text",
-			"text":"# IDIARISTŌN",
-			"styleAttributes":{},
-			"x":-860,
-			"y":-4350,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"96fec0108917356a",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4290,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ae3bcfee4a06f626",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-860,
-			"y":-4290,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"10922d07ea09e6b7",
 			"type":"text",
 			"text":"# NUCLEAR",
@@ -356,6 +316,56 @@
 			"x":-1310,
 			"y":-3765,
 			"width":320,
+			"height":60
+		},
+		{
+			"id":"01fd6fc3078ed40b",
+			"type":"text",
+			"text":"# HOLOARISTŌN ",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1810483a81eb0efc",
+			"type":"text",
+			"text":"# IDIARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"96fec0108917356a",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ae3bcfee4a06f626",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"34786928894e93f8",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4320,
+			"width":260,
 			"height":60
 		}
 	],
