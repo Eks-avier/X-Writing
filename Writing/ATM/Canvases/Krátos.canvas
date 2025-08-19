@@ -243,16 +243,6 @@
 			"height":60
 		},
 		{
-			"id":"d8bded22747d6035",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-1415,
-			"y":-4890,
-			"width":244,
-			"height":60
-		},
-		{
 			"id":"168780558ba27392",
 			"type":"text",
 			"text":"# MONOEURYTATŌN",
@@ -476,6 +466,26 @@
 			"x":-2400,
 			"y":-4640,
 			"width":220,
+			"height":60
+		},
+		{
+			"id":"d8bded22747d6035",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-1320,
+			"y":-4950,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"c6e96d7e30a2ff6c",
+			"type":"text",
+			"text":"# PHANEROSIS",
+			"styleAttributes":{},
+			"x":-1320,
+			"y":-4890,
+			"width":244,
 			"height":60
 		}
 	],
