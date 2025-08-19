@@ -35,9 +35,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Krátos"
             }
+          },
+          {
+            "id": "eb99f3ba9f3b2079",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,6 +265,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -261,11 +274,10 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41e7f809dcbd1247",
+  "active": "eb99f3ba9f3b2079",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
