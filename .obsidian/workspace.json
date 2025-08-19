@@ -23,17 +23,48 @@
             "id": "84a02b2c32f3e59b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
-                "viewState": {
-                  "x": -1636.0795896096904,
-                  "y": -5974.206085734504,
-                  "zoom": -2.893518266857024
+                "file": "Notepad 10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "icon": "lucide-file",
+              "title": "Notepad 10"
+            }
+          },
+          {
+            "id": "945fcc965a95350a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notepad 11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notepad 11"
             }
           },
           {
@@ -49,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -279,10 +309,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84a02b2c32f3e59b",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "_Templates/Character Profile Template.md",
+    "Notepad 10.md",
+    "Notepad 11.md",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/Notepad 11.md",
+    "_Templates/Character Profile Template.md",
     "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
@@ -295,7 +328,6 @@
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "Filipino Essay.md",
     "German Vocabulary - Nouns (A1).txt",
-    "Notepad 10.md",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
     "~syncthing~German Vocabulary - Nouns (A1).txt.tmp",
     "~syncthing~Notepad 10.md.tmp",
@@ -319,8 +351,6 @@
     "College/3Q2425/Magnetism.md",
     "College/3Q2425/Electromagnetic Induction.md",
     "College/3Q2425/Light.md",
-    "College/3Q2425/Electromagnetic Wave.md",
-    "College/3Q2425/Magnetic Field of Current.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",

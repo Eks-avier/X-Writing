@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Notepad 11",
+      "path": "Notepad 11.md"
+    },
+    {
+      "basename": "Notepad 10",
+      "path": "Notepad 10.md"
+    },
+    {
       "basename": "Krátos",
       "path": "Writing/ATM/Canvases/Krátos.canvas"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "hyperthymesia_japanese_integration",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md"
-    },
-    {
-      "basename": "godric_hyperthymesia",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric_hyperthymesia.md"
     }
   ],
   "omittedPaths": [],
