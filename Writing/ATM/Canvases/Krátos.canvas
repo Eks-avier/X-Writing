@@ -522,16 +522,6 @@
 			"height":60
 		},
 		{
-			"id":"7db94b3be4c898bd",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-1440,
-			"y":-5420,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"6e49d22ad7bc2d2a",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
@@ -555,26 +545,6 @@
 			"height":60
 		},
 		{
-			"id":"c61971cd9778800e",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-2102,
-			"y":-5600,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"5307b393655d82e2",
-			"type":"text",
-			"text":"# KRÁTOS",
-			"styleAttributes":{},
-			"x":-2080,
-			"y":-5760,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"3d545b3ea48e753e",
 			"type":"text",
 			"text":"# KRÁTOS",
@@ -582,6 +552,26 @@
 			"x":205,
 			"y":-6560,
 			"width":200,
+			"height":60
+		},
+		{
+			"id":"dbe7f7914935eb17",
+			"type":"text",
+			"text":"# KOINIC WILL",
+			"styleAttributes":{},
+			"x":-2280,
+			"y":-5710,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7db94b3be4c898bd",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-1940,
+			"y":-5710,
+			"width":339,
 			"height":60
 		}
 	],
@@ -646,21 +636,21 @@
 			"toSide":"left"
 		},
 		{
-			"id":"4e4a85cceffa3918",
+			"id":"ffa81e44a8967c91",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"95591a82cd676dc8",
 			"fromSide":"bottom",
-			"toNode":"5307b393655d82e2",
+			"toNode":"dbe7f7914935eb17",
 			"toSide":"top"
 		},
 		{
-			"id":"e025b57db8043623",
+			"id":"8a10818df9b86adb",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"5307b393655d82e2",
+			"fromNode":"95591a82cd676dc8",
 			"fromSide":"bottom",
-			"toNode":"c61971cd9778800e",
+			"toNode":"7db94b3be4c898bd",
 			"toSide":"top"
 		}
 	],
