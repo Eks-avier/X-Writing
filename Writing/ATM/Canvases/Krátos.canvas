@@ -500,12 +500,25 @@
 			"height":60
 		},
 		{
+			"id":"926093c95e9e5787",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":null,
+				"border":null
+			},
+			"x":-1480,
+			"y":-5684,
+			"width":339,
+			"height":60
+		},
+		{
 			"id":"7b63538adf689974",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":-1056,
-			"y":-5774,
+			"x":-1480,
+			"y":-5624,
 			"width":339,
 			"height":60
 		},
@@ -514,8 +527,8 @@
 			"type":"text",
 			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
-			"x":-1056,
-			"y":-5714,
+			"x":-1480,
+			"y":-5564,
 			"width":339,
 			"height":60
 		},
@@ -524,21 +537,8 @@
 			"type":"text",
 			"text":"# CONQUEROR'S WILL",
 			"styleAttributes":{},
-			"x":-1480,
-			"y":-6080,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"926093c95e9e5787",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":null,
-				"border":null
-			},
-			"x":-1310,
-			"y":-5560,
+			"x":-1040,
+			"y":-6200,
 			"width":339,
 			"height":60
 		}

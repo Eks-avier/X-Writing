@@ -27,8 +27,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -1006.1121746071117,
-                  "y": -5834.480334672761,
+                  "x": -780.0635244856493,
+                  "y": -5912.966594456368,
                   "zoom": -0.7803912603441363
                 }
               },
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,16 +297,14 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
+    "Notepad 11.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Notepad 10.md",
-    "Notepad 11.md",
     "Writing/ATM/Canvases/Notepad 11.md",
     "_Templates/Character Profile Template.md",
     "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
