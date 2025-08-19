@@ -27,9 +27,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -533.6908274097724,
-                  "y": -4249.708985618239,
-                  "zoom": -1.8935182668570245
+                  "x": -1704.0656931316548,
+                  "y": -4122.325201305029,
+                  "zoom": -0.9290121779046832
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,10 +274,11 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "eb99f3ba9f3b2079",
+  "active": "41e7f809dcbd1247",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
