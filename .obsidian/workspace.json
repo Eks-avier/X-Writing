@@ -27,9 +27,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -1217.8446930512018,
-                  "y": -4356.17177179227,
-                  "zoom": -1.572016237206244
+                  "x": -2188.4853331144486,
+                  "y": -4435.33538181988,
+                  "zoom": -0.9290121779046832
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -274,13 +274,14 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "41e7f809dcbd1247",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
