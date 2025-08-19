@@ -287,8 +287,8 @@
         "state": {
           "type": "mk-path-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "mk-path-view"
         }
       }
     ],
@@ -351,6 +351,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
@@ -361,7 +362,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f99e82848841319f",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
     "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/ATM/Unrefined/Filipino Essay.md",
