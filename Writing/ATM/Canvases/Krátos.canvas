@@ -532,29 +532,6 @@
 			"height":60
 		},
 		{
-			"id":"7db94b3be4c898bd",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-1902,
-			"y":-5330,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"396e3c8781870c47",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":null,
-				"border":null
-			},
-			"x":-1902,
-			"y":-5270,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"6e49d22ad7bc2d2a",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
@@ -571,6 +548,29 @@
 			"styleAttributes":{},
 			"x":-1479,
 			"y":-5270,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"7db94b3be4c898bd",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-1980,
+			"y":-5710,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"396e3c8781870c47",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":null,
+				"border":null
+			},
+			"x":-1980,
+			"y":-5600,
 			"width":339,
 			"height":60
 		}
@@ -637,11 +637,22 @@
 		},
 		{
 			"id":"ffa81e44a8967c91",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"95591a82cd676dc8",
 			"fromSide":"bottom",
 			"toNode":"dbe7f7914935eb17",
+			"toSide":"top"
+		},
+		{
+			"id":"2b878e1d9929ee75",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"95591a82cd676dc8",
+			"fromSide":"bottom",
+			"toNode":"7db94b3be4c898bd",
 			"toSide":"top"
 		}
 	],
