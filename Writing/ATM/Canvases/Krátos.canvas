@@ -512,16 +512,6 @@
 			"height":60
 		},
 		{
-			"id":"c61971cd9778800e",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-2102,
-			"y":-5680,
-			"width":244,
-			"height":60
-		},
-		{
 			"id":"7bf5852af52ed4d5",
 			"type":"text",
 			"text":"# CONQUEROR'S REPOSE",
@@ -565,13 +555,23 @@
 			"height":60
 		},
 		{
-			"id":"30515d937aa22237",
+			"id":"5307b393655d82e2",
 			"type":"text",
-			"text":"",
+			"text":"# KRÁTOS",
 			"styleAttributes":{},
-			"x":-2320,
+			"x":-2080,
+			"y":-5760,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"c61971cd9778800e",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-2102,
 			"y":-5600,
-			"width":260,
+			"width":244,
 			"height":60
 		}
 	],
@@ -636,10 +636,19 @@
 			"toSide":"left"
 		},
 		{
-			"id":"e08be063bd7b566f",
+			"id":"4e4a85cceffa3918",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"95591a82cd676dc8",
+			"fromSide":"bottom",
+			"toNode":"5307b393655d82e2",
+			"toSide":"top"
+		},
+		{
+			"id":"e025b57db8043623",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5307b393655d82e2",
 			"fromSide":"bottom",
 			"toNode":"c61971cd9778800e",
 			"toSide":"top"
