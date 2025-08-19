@@ -123,33 +123,6 @@
         "newlineCount": 214
       }
     },
-    "_Templates/Character Profile Template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1752229087262,
-      "modifiedDate": 1752229923560,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Notepad 6.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7423,7 +7396,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1755585622772,
+      "modifiedDate": 1755587124184,
       "sizeInBytes": 9424,
       "sessionStart": {
         "noteCount": 1,
@@ -8642,8 +8615,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1755586330513,
-      "modifiedDate": 1755586347674,
-      "sizeInBytes": 1457,
+      "modifiedDate": 1755587107497,
+      "sizeInBytes": 7644,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

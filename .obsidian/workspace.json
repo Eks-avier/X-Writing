@@ -20,46 +20,20 @@
             }
           },
           {
-            "id": "41e7f809dcbd1247",
+            "id": "84a02b2c32f3e59b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -1552.1842659915367,
-                  "y": -4402.403409488252,
-                  "zoom": -1.2505142075554636
+                  "x": -1353.2006445132236,
+                  "y": -4431.117364489723,
+                  "zoom": -1.2505142075554632
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Krátos"
-            }
-          },
-          {
-            "id": "bcebcfabf58b0d49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-19 14.52.10.excalidraw"
-            }
-          },
-          {
-            "id": "afce42ab9c6c9526",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=HvZW1ooZUnQLz-fzul1_s&theme=light&version=2&sort=default",
-                "title": "Excalidraw Libraries",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Excalidraw Libraries"
             }
           },
           {
@@ -75,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,10 +279,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "afce42ab9c6c9526",
+  "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
+    "_Templates/Character Profile Template.md",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
