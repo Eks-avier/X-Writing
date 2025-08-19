@@ -1,11 +1,7 @@
 {
 	"nodes":[
 		{"id":"fc29eab05148e021","type":"group","x":-2200,"y":-3420,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
-		{"id":"390b3e1f3e3a882b","type":"group","x":-2200,"y":-3920,"width":777,"height":395,"label":"KAKISTŌN"},
-		{"id":"2ae8ef9fab38b8e7","type":"group","x":-2163,"y":-3665,"width":700,"height":100,"label":"STENOTATŌN"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":-1515,"y":-3064,"width":300,"height":230,"color":"1","label":"TITLES"},
-		{"id":"20cb5a643d519f62","type":"group","x":-2163,"y":-3845,"width":680,"height":100,"label":"EURYTATŌN"},
-		{"id":"9636afc1375924b7","type":"group","x":-200,"y":-3960,"width":600,"height":100,"label":"ARISTŌN"},
 		{
 			"id":"43cac365187681d9",
 			"type":"text",
@@ -96,136 +92,6 @@
 			"x":-1476,
 			"y":-2944,
 			"width":221,
-			"height":60
-		},
-		{
-			"id":"82dfdf67876b43b1",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-180,
-			"y":-3940,
-			"width":227,
-			"height":60
-		},
-		{
-			"id":"bd64d8fdf6008adb",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":120,
-			"y":-3940,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e2f2dbcb57f93b67",
-			"type":"text",
-			"text":"# NUCLEAR",
-			"styleAttributes":{},
-			"x":-543,
-			"y":-3677,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"ecf1d28f0a317871",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-380,
-			"y":-3490,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"d6730feb98022f82",
-			"type":"text",
-			"text":"# ELECTROMAGNETISM",
-			"styleAttributes":{},
-			"x":-60,
-			"y":-3617,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"e347490a29bceb9b",
-			"type":"text",
-			"text":"# GRAVITATIONAL",
-			"styleAttributes":{},
-			"x":420,
-			"y":-3677,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"10922d07ea09e6b7",
-			"type":"text",
-			"text":"# NUCLEAR",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4060,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"d4905474d6048e05",
-			"type":"text",
-			"text":"# ELECTROMAGNETISM",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4000,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"680e7edbb42b0791",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":260,
-			"y":-3490,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"51f7f7f317885ed2",
-			"type":"text",
-			"text":"# POLYEURYTATŌN",
-			"styleAttributes":{},
-			"x":-1783,
-			"y":-3825,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"31a1ef02c162b9a1",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2143,
-			"y":-3825,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"1e31686324d07671",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2143,
-			"y":-3645,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"a6bbb2881eb1a8c0",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-1763,
-			"y":-3645,
-			"width":280,
 			"height":60
 		},
 		{
@@ -351,57 +217,7 @@
 			"width":244,
 			"height":60
 		},
-		{
-			"id":"0d52a978e34db673",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3880,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"d8ff0991dd99ae52",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3820,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"4df2fcf0844bfc17",
-			"type":"text",
-			"text":"# GRAVITATIONAL",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-3940,
-			"width":320,
-			"height":60
-		},
 		{"id":"4911deb66bab54b3","type":"text","text":"# KAKISTŌN","x":-1863,"y":-4440,"width":280,"height":60},
-		{
-			"id":"96fec0108917356a",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4350,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1810483a81eb0efc",
-			"type":"text",
-			"text":"# IDIARISTŌN",
-			"styleAttributes":{},
-			"x":-860,
-			"y":-4290,
-			"width":260,
-			"height":60
-		},
 		{
 			"id":"9ed09ddb4c30125c",
 			"type":"text",
@@ -409,26 +225,6 @@
 			"styleAttributes":{},
 			"x":-990,
 			"y":-4410,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ae3bcfee4a06f626",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-860,
-			"y":-4350,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"01fd6fc3078ed40b",
-			"type":"text",
-			"text":"# HOLOARISTŌN ",
-			"styleAttributes":{},
-			"x":-1120,
-			"y":-4290,
 			"width":260,
 			"height":60
 		},
@@ -460,6 +256,106 @@
 			"x":-1833,
 			"y":-5180,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"a460a226614f63aa",
+			"type":"text",
+			"text":"# KRATEIRA",
+			"styleAttributes":{},
+			"x":-1833,
+			"y":-5120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"01fd6fc3078ed40b",
+			"type":"text",
+			"text":"# HOLOARISTŌN ",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1810483a81eb0efc",
+			"type":"text",
+			"text":"# IDIARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"96fec0108917356a",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-4290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ae3bcfee4a06f626",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-4290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"10922d07ea09e6b7",
+			"type":"text",
+			"text":"# NUCLEAR",
+			"styleAttributes":{},
+			"x":-1310,
+			"y":-4005,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"d4905474d6048e05",
+			"type":"text",
+			"text":"# ELECTROMAGNETISM",
+			"styleAttributes":{},
+			"x":-1310,
+			"y":-3945,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"4df2fcf0844bfc17",
+			"type":"text",
+			"text":"# GRAVITATIONAL",
+			"styleAttributes":{},
+			"x":-1310,
+			"y":-3885,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"0d52a978e34db673",
+			"type":"text",
+			"text":"# PSIONIC",
+			"styleAttributes":{},
+			"x":-1310,
+			"y":-3825,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"d8ff0991dd99ae52",
+			"type":"text",
+			"text":"# MAGIC",
+			"styleAttributes":{},
+			"x":-1310,
+			"y":-3765,
+			"width":320,
 			"height":60
 		}
 	],
@@ -501,85 +397,6 @@
 			"fromNode":"8090398a9f3242ad",
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
-			"toSide":"top"
-		},
-		{
-			"id":"1ae058247ed77d8a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"82dfdf67876b43b1",
-			"fromSide":"right",
-			"toNode":"bd64d8fdf6008adb",
-			"toSide":"left",
-			"toEnd":"none"
-		},
-		{
-			"id":"d0313d9c12cc8211",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"9636afc1375924b7",
-			"fromSide":"bottom",
-			"toNode":"e2f2dbcb57f93b67",
-			"toSide":"top"
-		},
-		{
-			"id":"c9b8f8e58daa76d6",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"9636afc1375924b7",
-			"fromSide":"bottom",
-			"toNode":"d6730feb98022f82",
-			"toSide":"top"
-		},
-		{
-			"id":"b290c086908c0aa0",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"9636afc1375924b7",
-			"fromSide":"bottom",
-			"toNode":"ecf1d28f0a317871",
-			"toSide":"top"
-		},
-		{
-			"id":"4955112c809ee23c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"9636afc1375924b7",
-			"fromSide":"bottom",
-			"toNode":"e347490a29bceb9b",
-			"toSide":"top"
-		},
-		{
-			"id":"657694c4b5b88a36",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"31a1ef02c162b9a1",
-			"fromSide":"right",
-			"toNode":"51f7f7f317885ed2",
-			"toSide":"left",
-			"toEnd":"none"
-		},
-		{
-			"id":"050113c20533ee94",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"1e31686324d07671",
-			"fromSide":"right",
-			"toNode":"a6bbb2881eb1a8c0",
-			"toSide":"left",
-			"toEnd":"none"
-		},
-		{
-			"id":"ccd43071a810fab7",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"9636afc1375924b7",
-			"fromSide":"bottom",
-			"toNode":"680e7edbb42b0791",
 			"toSide":"top"
 		}
 	],
