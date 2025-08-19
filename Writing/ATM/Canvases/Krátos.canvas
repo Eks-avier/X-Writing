@@ -106,26 +106,6 @@
 			"height":60
 		},
 		{
-			"id":"c61971cd9778800e",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-2102,
-			"y":-5680,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"7db94b3be4c898bd",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-1720,
-			"y":-5680,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"a27d96c79141ca78",
 			"type":"text",
 			"text":"# THERMOTON",
@@ -493,7 +473,7 @@
 			"type":"text",
 			"text":"# ALIGNMENT",
 			"styleAttributes":{
-				"shape":"diamond",
+				"shape":null,
 				"border":null
 			},
 			"x":578,
@@ -532,15 +512,32 @@
 			"height":60
 		},
 		{
-			"id":"396e3c8781870c47",
+			"id":"c61971cd9778800e",
 			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":"diamond",
-				"border":null
-			},
-			"x":-1720,
-			"y":-5520,
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":-2102,
+			"y":-5680,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"7bf5852af52ed4d5",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-5360,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"7db94b3be4c898bd",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-5420,
 			"width":339,
 			"height":60
 		},
@@ -549,19 +546,32 @@
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":-1240,
-			"y":-5520,
+			"x":-1440,
+			"y":-5480,
 			"width":339,
 			"height":60
 		},
 		{
-			"id":"7bf5852af52ed4d5",
+			"id":"396e3c8781870c47",
 			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":-1720,
-			"y":-5360,
+			"text":"# ALIGNMENT",
+			"styleAttributes":{
+				"shape":null,
+				"border":null
+			},
+			"x":-1440,
+			"y":-5540,
 			"width":339,
+			"height":60
+		},
+		{
+			"id":"30515d937aa22237",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2320,
+			"y":-5600,
+			"width":260,
 			"height":60
 		}
 	],
