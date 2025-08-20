@@ -97,26 +97,6 @@
 			"height":60
 		},
 		{
-			"id":"a53dc482fb079b73",
-			"type":"text",
-			"text":"# CONQUEROR'S WILL",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":-6320,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"7b63538adf689974",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":-600,
-			"y":-6160,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"08aa7fb423abf41a",
 			"type":"text",
 			"text":"# MANIFESTATION",
@@ -595,23 +575,43 @@
 			"height":60
 		},
 		{
-			"id":"0187fae78731ff10",
-			"type":"text",
-			"text":"# WILL OF THE KOINOS",
-			"styleAttributes":{},
-			"x":-2596,
-			"y":-6440,
-			"width":320,
-			"height":60
-		},
-		{
 			"id":"6498ea598cb77eb8",
 			"type":"text",
 			"text":"# PHANEROSIS",
 			"styleAttributes":{},
-			"x":-2436,
-			"y":-7100,
+			"x":-2342,
+			"y":-6300,
 			"width":244,
+			"height":60
+		},
+		{
+			"id":"a53dc482fb079b73",
+			"type":"text",
+			"text":"# WILL OF THE KRATOR",
+			"styleAttributes":{},
+			"x":-2120,
+			"y":-6460,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"0187fae78731ff10",
+			"type":"text",
+			"text":"# WILL OF THE KOINON",
+			"styleAttributes":{},
+			"x":-2640,
+			"y":-6460,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"7b63538adf689974",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":-1700,
+			"y":-6460,
+			"width":339,
 			"height":60
 		}
 	],
@@ -670,15 +670,6 @@
 			"label":"Misaligned"
 		},
 		{
-			"id":"7fd0ec7486e0f722",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a53dc482fb079b73",
-			"fromSide":"bottom",
-			"toNode":"926093c95e9e5787",
-			"toSide":"top"
-		},
-		{
 			"id":"609247a19989a70e",
 			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
@@ -688,15 +679,6 @@
 			"toNode":"08aa7fb423abf41a",
 			"toSide":"top",
 			"label":"Aligned"
-		},
-		{
-			"id":"c65673d7c9ed7d43",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7b63538adf689974",
-			"fromSide":"left",
-			"toNode":"926093c95e9e5787",
-			"toSide":"right"
 		},
 		{
 			"id":"5642b84728491099",
@@ -730,13 +712,41 @@
 			"toSide":"top"
 		},
 		{
-			"id":"287e08576f2dcfaa",
-			"styleAttributes":{},
+			"id":"19ee7e2259abdd43",
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"cf775abd11fe7906",
 			"fromSide":"bottom",
 			"toNode":"0187fae78731ff10",
 			"toSide":"top"
+		},
+		{
+			"id":"27d4e3b027da44d1",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"0187fae78731ff10",
+			"fromSide":"bottom",
+			"toNode":"6498ea598cb77eb8",
+			"toSide":"left"
+		},
+		{
+			"id":"c54211818c689281",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"cf775abd11fe7906",
+			"fromSide":"bottom",
+			"toNode":"a53dc482fb079b73",
+			"toSide":"top"
+		},
+		{
+			"id":"14f65d360bd6f9ba",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a53dc482fb079b73",
+			"fromSide":"bottom",
+			"toNode":"6498ea598cb77eb8",
+			"toSide":"right"
 		}
 	],
 	"metadata":{

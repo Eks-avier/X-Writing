@@ -6131,20 +6131,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 65,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 731,
-      "nonWhitespaceCharacterCount": 606,
-      "newlineCount": 55,
-      "readingTimeInMinutes": 0.24528301886792453,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 812,
+      "nonWhitespaceCharacterCount": 669,
+      "newlineCount": 61,
+      "readingTimeInMinutes": 0.29056603773584905,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1755657736436,
-      "sizeInBytes": 11474,
+      "modifiedDate": 1755683045763,
+      "sizeInBytes": 13729,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21666666666666667,
@@ -6152,6 +6152,11 @@
         "characterCount": 731,
         "nonWhitespaceCharacterCount": 606,
         "newlineCount": 55
+      },
+      "frontmatter": {
+        "tags": [
+          "power_system"
+        ]
       }
     },
     "Writing/ATM/Canvases/Domination of Energy.canvas": {
