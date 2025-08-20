@@ -2,8 +2,9 @@
 	"nodes":[
 		{"id":"81042b57ba5a5a7b","type":"group","x":0,"y":-6720,"width":2060,"height":1700,"label":"VOCABULARY BANK"},
 		{"id":"fc29eab05148e021","type":"group","x":-320,"y":-4720,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
-		{"id":"56cd2b69c4faccd9","type":"group","x":365,"y":-4364,"width":300,"height":230,"color":"1","label":"TITLES"},
+		{"id":"de70182acb0621a0","type":"group","x":-2240,"y":-5360,"width":660,"height":120,"label":"Themelion"},
 		{"id":"b89190fe5effd29b","type":"group","x":-2240,"y":-6820,"width":640,"height":100,"label":"Themelion"},
+		{"id":"56cd2b69c4faccd9","type":"group","x":365,"y":-4364,"width":300,"height":230,"color":"1","label":"TITLES"},
 		{
 			"id":"ff91b5d8807a685e",
 			"type":"text",
@@ -665,6 +666,162 @@
 			"y":-6680,
 			"width":200,
 			"height":60
+		},
+		{
+			"id":"de0196ff71bd41c6",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-2404,
+			"y":-6100,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"36db67162b377a5d",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1940,
+			"y":-6100,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"1c609e30013b0696",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-1520,
+			"y":-6100,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"320f226ee6d1e698",
+			"type":"text",
+			"text":"# WILL OF THE KRÁTON",
+			"styleAttributes":{},
+			"x":-2414,
+			"y":-5920,
+			"width":264,
+			"height":80
+		},
+		{
+			"id":"bb1ecce393becb0c",
+			"type":"text",
+			"text":"# KRATOROS THELESIS",
+			"styleAttributes":{},
+			"x":-2811,
+			"y":-5520,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"3eabd4dba34b999c",
+			"type":"text",
+			"text":"# KRATOROS HORME",
+			"styleAttributes":{},
+			"x":-2810,
+			"y":-5240,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"730f4f375e34ebb6",
+			"type":"text",
+			"text":"# SYMPHONIA",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2771,
+			"y":-5100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9af98e67732b9c6e",
+			"type":"text",
+			"text":"# ANAKALYPTO",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2771,
+			"y":-5380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"04cb7ca179b396c8",
+			"type":"text",
+			"text":"# KATAKLISIS",
+			"styleAttributes":{},
+			"x":-3470,
+			"y":-5100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7b14b69b2fc3d55e",
+			"type":"text",
+			"text":"# LANTHANEIA",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-3470,
+			"y":-5380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"56b3083001fc5ebb",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":-2787,
+			"y":-5660,
+			"width":292,
+			"height":60
+		},
+		{
+			"id":"5b599cca4273872f",
+			"type":"text",
+			"text":"# PHANEROSIS",
+			"styleAttributes":{},
+			"x":-2051,
+			"y":-4900,
+			"width":264,
+			"height":60
+		},
+		{
+			"id":"158784951999587e",
+			"type":"text",
+			"text":"# KOINON",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-5660,
+			"width":292,
+			"height":60
+		},
+		{
+			"id":"9f349a84e00eda0b",
+			"type":"text",
+			"text":"# WILL OF THE KOINON",
+			"styleAttributes":{},
+			"x":-2220,
+			"y":-5330,
+			"width":301,
+			"height":60
+		},
+		{
+			"id":"d27fdfd92446da28",
+			"type":"text",
+			"text":"# KARTERIA",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-1860,
+			"y":-5330,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -858,6 +1015,158 @@
 			"fromSide":"bottom",
 			"toNode":"1ac71cffe202b483",
 			"toSide":"top"
+		},
+		{
+			"id":"34280a260765aa50",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"de70182acb0621a0",
+			"fromSide":"bottom",
+			"toNode":"5b599cca4273872f",
+			"toSide":"top"
+		},
+		{
+			"id":"11d6c62c5f4c3224",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"158784951999587e",
+			"fromSide":"bottom",
+			"toNode":"de70182acb0621a0",
+			"toSide":"top"
+		},
+		{
+			"id":"1170133610eb7e27",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"de0196ff71bd41c6",
+			"fromSide":"bottom",
+			"toNode":"320f226ee6d1e698",
+			"toSide":"top"
+		},
+		{
+			"id":"847807ee38a572ac",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"36db67162b377a5d",
+			"fromSide":"left",
+			"toNode":"de0196ff71bd41c6",
+			"toSide":"right",
+			"label":"Yes"
+		},
+		{
+			"id":"1d2b2f5ff61327d4",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"36db67162b377a5d",
+			"fromSide":"right",
+			"toNode":"1c609e30013b0696",
+			"toSide":"left",
+			"label":"No"
+		},
+		{
+			"id":"abbae5faba18913f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"320f226ee6d1e698",
+			"fromSide":"bottom",
+			"toNode":"158784951999587e",
+			"toSide":"top"
+		},
+		{
+			"id":"99d5ad51860e1a88",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"320f226ee6d1e698",
+			"fromSide":"bottom",
+			"toNode":"56b3083001fc5ebb",
+			"toSide":"top"
+		},
+		{
+			"id":"8deb115266ed32fc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bb1ecce393becb0c",
+			"fromSide":"bottom",
+			"toNode":"9af98e67732b9c6e",
+			"toSide":"top"
+		},
+		{
+			"id":"7f428ee2992a475b",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"56b3083001fc5ebb",
+			"fromSide":"bottom",
+			"toNode":"bb1ecce393becb0c",
+			"toSide":"top"
+		},
+		{
+			"id":"746b07cd8aee8d93",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3eabd4dba34b999c",
+			"fromSide":"bottom",
+			"toNode":"730f4f375e34ebb6",
+			"toSide":"top"
+		},
+		{
+			"id":"c029a614e195d5d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9af98e67732b9c6e",
+			"fromSide":"bottom",
+			"toNode":"3eabd4dba34b999c",
+			"toSide":"top"
+		},
+		{
+			"id":"234d7aec257ddd04",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"730f4f375e34ebb6",
+			"fromSide":"left",
+			"toNode":"04cb7ca179b396c8",
+			"toSide":"right",
+			"label":"DIAPHONIA"
+		},
+		{
+			"id":"f4de5a8e13e140a9",
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":"dotted"
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"730f4f375e34ebb6",
+			"fromSide":"bottom",
+			"toNode":"5b599cca4273872f",
+			"toSide":"top",
+			"label":"Aligned"
+		},
+		{
+			"id":"149687e45398ba8b",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9af98e67732b9c6e",
+			"fromSide":"left",
+			"toNode":"7b14b69b2fc3d55e",
+			"toSide":"right",
+			"label":"UNFOUND"
+		},
+		{
+			"id":"86f8fae626e4ea2b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9f349a84e00eda0b",
+			"fromSide":"right",
+			"toNode":"d27fdfd92446da28",
+			"toSide":"left",
+			"fromEnd":"arrow"
 		}
 	],
 	"metadata":{
