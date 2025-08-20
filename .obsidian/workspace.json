@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,10 +302,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Krátos.canvas",
     "Notepad 11.md",
+    "Writing/ATM/Canvases/Krátos.canvas",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
     "_Templates/Character Profile Template.md",
