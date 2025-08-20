@@ -667,16 +667,6 @@
 			"height":60
 		},
 		{
-			"id":"a255c58dc158cd0b",
-			"type":"text",
-			"text":"# KOINOU THELESIS",
-			"styleAttributes":{},
-			"x":-2089,
-			"y":-6700,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"1ac71cffe202b483",
 			"type":"text",
 			"text":"# PHANEROSIS",
@@ -684,6 +674,16 @@
 			"x":-2051,
 			"y":-6360,
 			"width":264,
+			"height":60
+		},
+		{
+			"id":"a255c58dc158cd0b",
+			"type":"text",
+			"text":"# KOINOU THELESIS",
+			"styleAttributes":{},
+			"x":-2090,
+			"y":-6810,
+			"width":339,
 			"height":60
 		}
 	],
