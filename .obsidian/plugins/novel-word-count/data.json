@@ -6075,33 +6075,6 @@
         "newlineCount": 37
       }
     },
-    "Writing/ATM/Canvases/Krátos.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 129,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.43,
-      "characterCount": 1514,
-      "nonWhitespaceCharacterCount": 1265,
-      "newlineCount": 109,
-      "readingTimeInMinutes": 0.4867924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755134975036,
-      "modifiedDate": 1755726228089,
-      "sizeInBytes": 23511,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.43,
-        "wordCount": 129,
-        "characterCount": 1514,
-        "nonWhitespaceCharacterCount": 1265,
-        "newlineCount": 109
-      }
-    },
     "Writing/ATM/Canvases/Psionics.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8624,6 +8597,60 @@
         "characterCount": 12070,
         "nonWhitespaceCharacterCount": 10156,
         "newlineCount": 114
+      }
+    },
+    "Writing/ATM/Canvases/Krátos (Greek).canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 1514,
+      "nonWhitespaceCharacterCount": 1265,
+      "newlineCount": 109,
+      "readingTimeInMinutes": 0.4867924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755134975036,
+      "modifiedDate": 1755732120785,
+      "sizeInBytes": 23536,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Canvases/Krátos (English).canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755732157426,
+      "modifiedDate": 1755732157426,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

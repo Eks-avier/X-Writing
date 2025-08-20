@@ -25,15 +25,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -1757.031143840274,
-                  "y": -5828.236935127533,
-                  "zoom": -2.4653148409317014
+                  "x": 27.25933837890625,
+                  "y": 3.1696929931640625,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "title": "Krátos (English)"
             }
           },
           {
@@ -304,8 +304,10 @@
   },
   "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 11.md",
-    "Writing/ATM/Canvases/Krátos.canvas",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
     "_Templates/Character Profile Template.md",
@@ -342,7 +344,6 @@
     "College/3Q2425/Practice Exam.md",
     "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
     "College/3Q2425/Magnetism.md",
-    "College/3Q2425/Electromagnetic Induction.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
