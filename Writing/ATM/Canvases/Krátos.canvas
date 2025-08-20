@@ -666,144 +666,14 @@
 			"width":339,
 			"height":80
 		},
-		{
-			"id":"916dc850de29b98c",
-			"type":"text",
-			"text":"# THERMOTON",
-			"styleAttributes":{},
-			"x":-2523,
-			"y":-5480,
-			"width":217,
-			"height":60
-		},
-		{
-			"id":"09b0900b9527a651",
-			"type":"text",
-			"text":"# PYROTON",
-			"styleAttributes":{},
-			"x":-2632,
-			"y":-5420,
-			"width":217,
-			"height":60
-		},
-		{
-			"id":"1353595de24fa52a",
-			"type":"text",
-			"text":"# EURYTATŌN",
-			"styleAttributes":{},
-			"x":-2478,
-			"y":-5740,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"88c420f39c0df570",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2478,
-			"y":-5680,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"3d48292ce8a03ae7",
-			"type":"text",
-			"text":"# POLYEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2478,
-			"y":-5620,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"402b482f8f2f72b1",
-			"type":"text",
-			"text":"# HYDROTON",
-			"styleAttributes":{},
-			"x":-2415,
-			"y":-5420,
-			"width":217,
-			"height":60
-		},
-		{
-			"id":"50545c7281421002",
-			"type":"text",
-			"text":"# KRYOTON",
-			"styleAttributes":{},
-			"x":-2415,
-			"y":-5360,
-			"width":217,
-			"height":60
-		},
-		{"id":"c8e7ef98ed609371","type":"text","text":"# KAKISTŌN","x":-2338,"y":-5800,"width":280,"height":60},
-		{
-			"id":"74171b716d2aabbc",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2198,
-			"y":-5680,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"71b6b00fef66bd07",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2198,
-			"y":-5620,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"d276a49a76aa787e",
-			"type":"text",
-			"text":"# STENOTATŌN",
-			"styleAttributes":{},
-			"x":-2198,
-			"y":-5740,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"a82ac95781ae938e",
-			"type":"text",
-			"text":"# AEROTON",
-			"styleAttributes":{},
-			"x":-2198,
-			"y":-5420,
-			"width":217,
-			"height":60
-		},
-		{
-			"id":"61b04c67f322eb57",
-			"type":"text",
-			"text":"# PSIONIC",
-			"styleAttributes":{},
-			"x":-1695,
-			"y":-5300,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"6ed9ca9681f12500",
-			"type":"text",
-			"text":"# MAGIC",
-			"styleAttributes":{},
-			"x":-1695,
-			"y":-5240,
-			"width":320,
-			"height":60
-		},
+		{"id":"c8e7ef98ed609371","type":"text","text":"# KAKISTŌN KRATON","x":-1699,"y":-6180,"width":279,"height":60},
 		{
 			"id":"8fb56e53eb76af51",
 			"type":"text",
 			"text":"# NUCLEAR",
 			"styleAttributes":{},
-			"x":-1695,
-			"y":-5480,
+			"x":-1656,
+			"y":-5040,
 			"width":320,
 			"height":60
 		},
@@ -812,8 +682,28 @@
 			"type":"text",
 			"text":"# ELECTROMAGNETISM",
 			"styleAttributes":{},
-			"x":-1695,
-			"y":-5420,
+			"x":-1656,
+			"y":-4980,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"61b04c67f322eb57",
+			"type":"text",
+			"text":"# PSIONIC",
+			"styleAttributes":{},
+			"x":-1656,
+			"y":-4860,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"6ed9ca9681f12500",
+			"type":"text",
+			"text":"# MAGIC",
+			"styleAttributes":{},
+			"x":-1656,
+			"y":-4800,
 			"width":320,
 			"height":60
 		},
@@ -822,19 +712,9 @@
 			"type":"text",
 			"text":"# GRAVITATIONAL",
 			"styleAttributes":{},
-			"x":-1695,
-			"y":-5360,
+			"x":-1656,
+			"y":-4920,
 			"width":320,
-			"height":60
-		},
-		{
-			"id":"477a030065e5148d",
-			"type":"text",
-			"text":"# HOLOTATŌN ",
-			"styleAttributes":{},
-			"x":-1795,
-			"y":-5740,
-			"width":260,
 			"height":60
 		},
 		{
@@ -842,8 +722,8 @@
 			"type":"text",
 			"text":"# HOLOARISTŌN ",
 			"styleAttributes":{},
-			"x":-1795,
-			"y":-5680,
+			"x":-1756,
+			"y":-5240,
 			"width":260,
 			"height":60
 		},
@@ -852,38 +732,8 @@
 			"type":"text",
 			"text":"# POLYARISTŌN",
 			"styleAttributes":{},
-			"x":-1795,
-			"y":-5620,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f3031f48757f458c",
-			"type":"text",
-			"text":"# GEOTON",
-			"styleAttributes":{},
-			"x":-1981,
-			"y":-5420,
-			"width":217,
-			"height":60
-		},
-		{
-			"id":"0e354e789479d3c9",
-			"type":"text",
-			"text":"# ARISTŌN",
-			"styleAttributes":{},
-			"x":-1665,
-			"y":-5800,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"152903e2a84c519f",
-			"type":"text",
-			"text":"# IDIOTATŌN",
-			"styleAttributes":{},
-			"x":-1535,
-			"y":-5740,
+			"x":-1756,
+			"y":-5180,
 			"width":260,
 			"height":60
 		},
@@ -892,8 +742,8 @@
 			"type":"text",
 			"text":"# IDIARISTŌN",
 			"styleAttributes":{},
-			"x":-1535,
-			"y":-5680,
+			"x":-1496,
+			"y":-5240,
 			"width":260,
 			"height":60
 		},
@@ -902,39 +752,190 @@
 			"type":"text",
 			"text":"# MONOARISTŌN",
 			"styleAttributes":{},
-			"x":-1535,
-			"y":-5620,
+			"x":-1496,
+			"y":-5180,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"4dee64da69973b52",
+			"id":"04c539027f747382",
 			"type":"text",
-			"text":"# MONO-",
+			"text":"# ARISTŌN KRATON",
 			"styleAttributes":{},
-			"x":-1702,
-			"y":-6180,
+			"x":-1635,
+			"y":-5360,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"09b0900b9527a651",
+			"type":"text",
+			"text":"# PYROTON",
+			"styleAttributes":{},
+			"x":-2593,
+			"y":-4980,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"916dc850de29b98c",
+			"type":"text",
+			"text":"# THERMOTON",
+			"styleAttributes":{},
+			"x":-2484,
+			"y":-5040,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"3d48292ce8a03ae7",
+			"type":"text",
+			"text":"# POLYEURYTATŌN",
+			"styleAttributes":{},
+			"x":-2439,
+			"y":-5180,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"402b482f8f2f72b1",
+			"type":"text",
+			"text":"# HYDROTON",
+			"styleAttributes":{},
+			"x":-2376,
+			"y":-4980,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"50545c7281421002",
+			"type":"text",
+			"text":"# KRYOTON",
+			"styleAttributes":{},
+			"x":-2376,
+			"y":-4920,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"a82ac95781ae938e",
+			"type":"text",
+			"text":"# AEROTON",
+			"styleAttributes":{},
+			"x":-2159,
+			"y":-4980,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"f3031f48757f458c",
+			"type":"text",
+			"text":"# GEOTON",
+			"styleAttributes":{},
+			"x":-1942,
+			"y":-4980,
+			"width":217,
+			"height":60
+		},
+		{
+			"id":"1353595de24fa52a",
+			"type":"text",
+			"text":"# EURYTATŌN",
+			"styleAttributes":{},
+			"x":-2439,
+			"y":-5300,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"88c420f39c0df570",
+			"type":"text",
+			"text":"# MONOEURYTATŌN",
+			"styleAttributes":{},
+			"x":-2439,
+			"y":-5240,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"d276a49a76aa787e",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-2159,
+			"y":-5300,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"74171b716d2aabbc",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-2159,
+			"y":-5240,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"71b6b00fef66bd07",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-2159,
+			"y":-5180,
+			"width":300,
+			"height":60
+		},
+		{"id":"5dc1668d1092f21a","type":"text","text":"# KAKISTŌN KRATON","x":-2288,"y":-5360,"width":279,"height":60},
+		{
+			"id":"477a030065e5148d",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-1756,
+			"y":-5300,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"00a44cb177be185f",
+			"id":"152903e2a84c519f",
 			"type":"text",
-			"text":"# POLY-",
+			"text":"# IDIOTATŌN",
 			"styleAttributes":{},
-			"x":-2401,
-			"y":-6180,
+			"x":-1496,
+			"y":-5300,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"f16d5ab462a0a4a9",
+			"id":"0e354e789479d3c9",
 			"type":"text",
-			"text":"",
+			"text":"# ARISTŌN KRATON",
 			"styleAttributes":{},
-			"x":-2180,
-			"y":-6000,
-			"width":260,
+			"x":-2717,
+			"y":-6140,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"f45278b544867c8b",
+			"type":"text",
+			"text":"# IDIOTATŌN",
+			"styleAttributes":{},
+			"x":-2337,
+			"y":-5920,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"d0d2400750d0301a",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-3097,
+			"y":-5920,
+			"width":280,
 			"height":60
 		}
 	],
@@ -1131,21 +1132,46 @@
 			"toSide":"top"
 		},
 		{
-			"id":"e1d0883ba7e3fce5",
-			"styleAttributes":{},
+			"id":"d137d1bfc33e4d8d",
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":null
+			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"1ac71cffe202b483",
 			"fromSide":"bottom",
-			"toNode":"00a44cb177be185f",
+			"toNode":"0e354e789479d3c9",
+			"toSide":"right"
+		},
+		{
+			"id":"2078bf9c1482adc2",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1ac71cffe202b483",
+			"fromSide":"bottom",
+			"toNode":"c8e7ef98ed609371",
+			"toSide":"left"
+		},
+		{
+			"id":"047f99877a06612d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e354e789479d3c9",
+			"fromSide":"bottom",
+			"toNode":"d0d2400750d0301a",
 			"toSide":"top"
 		},
 		{
-			"id":"485d2187462e0900",
+			"id":"57d4481d788e374d",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"1ac71cffe202b483",
+			"fromNode":"0e354e789479d3c9",
 			"fromSide":"bottom",
-			"toNode":"4dee64da69973b52",
+			"toNode":"f45278b544867c8b",
 			"toSide":"top"
 		}
 	],
