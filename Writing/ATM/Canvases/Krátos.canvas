@@ -470,16 +470,6 @@
 			"height":60
 		},
 		{
-			"id":"e92447489e06849c",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-2000,
-			"y":-6820,
-			"width":200,
-			"height":60
-		},
-		{
 			"id":"9128e714dec4645e",
 			"type":"text",
 			"text":"# IDIOTATŌN",
@@ -594,9 +584,9 @@
 		{
 			"id":"a73db4f0d8f3ef08",
 			"type":"text",
-			"text":"# ALIGNMENT?",
+			"text":"# ALIGNMENT",
 			"styleAttributes":{
-				"shape":null,
+				"shape":"diamond",
 				"border":null
 			},
 			"x":-1268,
@@ -608,11 +598,49 @@
 			"id":"69ba74ea282f2724",
 			"type":"text",
 			"text":"# LATENCY",
-			"styleAttributes":{
-				"shape":null
-			},
+			"styleAttributes":{"shape":"diamond"},
 			"x":-1268,
-			"y":-6400,
+			"y":-6380,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"e92447489e06849c",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2000,
+			"y":-6820,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"351d5b9abef3c035",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1900,
+			"y":-7640,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"9b38120eaeb300dc",
+			"type":"text",
+			"text":"# KRATOR",
+			"styleAttributes":{},
+			"x":-2260,
+			"y":-7640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"538f98727393b7a0",
+			"type":"text",
+			"text":"# KOINON",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":-7640,
 			"width":260,
 			"height":60
 		}
