@@ -2,78 +2,8 @@
 	"nodes":[
 		{"id":"81042b57ba5a5a7b","type":"group","x":0,"y":-6720,"width":2060,"height":1700,"label":"VOCABULARY BANK"},
 		{"id":"fc29eab05148e021","type":"group","x":-320,"y":-4720,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
-		{"id":"b89190fe5effd29b","type":"group","x":-1820,"y":-6640,"width":300,"height":300,"label":"Untitled group"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":365,"y":-4364,"width":300,"height":230,"color":"1","label":"TITLES"},
-		{
-			"id":"d021574369463194",
-			"type":"text",
-			"text":"# DEFENSIVE ",
-			"styleAttributes":{},
-			"x":80,
-			"y":-4380,
-			"width":198,
-			"height":60
-		},
-		{
-			"id":"b6cdbee445cac73a",
-			"type":"text",
-			"text":"# NOMOTHETE",
-			"styleAttributes":{},
-			"x":405,
-			"y":-4324,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"e838c00dbd8cc81a",
-			"type":"text",
-			"text":"# CONQUEROR",
-			"styleAttributes":{},
-			"x":404,
-			"y":-4244,
-			"width":221,
-			"height":60
-		},
-		{
-			"id":"4f0b6d2d3113b48c",
-			"type":"text",
-			"text":"# AURA / FIELD",
-			"styleAttributes":{},
-			"x":-111,
-			"y":-4680,
-			"width":224,
-			"height":60
-		},
-		{
-			"id":"8e64cdab7198629b",
-			"type":"text",
-			"text":"# COATING",
-			"styleAttributes":{},
-			"x":-83,
-			"y":-4545,
-			"width":168,
-			"height":60
-		},
-		{
-			"id":"8090398a9f3242ad",
-			"type":"text",
-			"text":"# OFFENSIVE",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-4380,
-			"width":197,
-			"height":60
-		},
-		{
-			"id":"27a6dc2e2cfd6c7a",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-4240,
-			"width":197,
-			"height":60
-		},
+		{"id":"b89190fe5effd29b","type":"group","x":-2240,"y":-6820,"width":640,"height":100,"label":"Themelion"},
 		{
 			"id":"ff91b5d8807a685e",
 			"type":"text",
@@ -682,19 +612,91 @@
 			"type":"text",
 			"text":"# KOINOU THELESIS",
 			"styleAttributes":{},
-			"x":-2297,
-			"y":-6820,
+			"x":-2220,
+			"y":-6800,
 			"width":260,
 			"height":60
 		},
 		{
 			"id":"6f1d066fa56885ed",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-1787,
-			"y":-6810,
+			"text":"# KARTERIA",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-1881,
+			"y":-6800,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"8090398a9f3242ad",
+			"type":"text",
+			"text":"# OFFENSIVE",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-4380,
+			"width":197,
+			"height":60
+		},
+		{
+			"id":"d021574369463194",
+			"type":"text",
+			"text":"# DEFENSIVE ",
+			"styleAttributes":{},
+			"x":80,
+			"y":-4380,
+			"width":198,
+			"height":60
+		},
+		{
+			"id":"b6cdbee445cac73a",
+			"type":"text",
+			"text":"# NOMOTHETE",
+			"styleAttributes":{},
+			"x":405,
+			"y":-4324,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"e838c00dbd8cc81a",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":404,
+			"y":-4244,
+			"width":221,
+			"height":60
+		},
+		{
+			"id":"4f0b6d2d3113b48c",
+			"type":"text",
+			"text":"# AURA / FIELD",
+			"styleAttributes":{},
+			"x":-111,
+			"y":-4680,
+			"width":224,
+			"height":60
+		},
+		{
+			"id":"8e64cdab7198629b",
+			"type":"text",
+			"text":"# COATING",
+			"styleAttributes":{},
+			"x":-83,
+			"y":-4545,
+			"width":168,
+			"height":60
+		},
+		{
+			"id":"27a6dc2e2cfd6c7a",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-4240,
+			"width":197,
 			"height":60
 		}
 	],
@@ -804,7 +806,7 @@
 			"toFloating":false,
 			"fromNode":"75ec06ac74566ed3",
 			"fromSide":"bottom",
-			"toNode":"a255c58dc158cd0b",
+			"toNode":"b89190fe5effd29b",
 			"toSide":"top"
 		},
 		{
@@ -845,7 +847,7 @@
 			"fromSide":"left",
 			"toNode":"b08f4900cdef1a99",
 			"toSide":"right",
-			"label":"MISALIGNED"
+			"label":"DIAPHONIA"
 		},
 		{
 			"id":"b501ae7355b8b1eb",
@@ -871,22 +873,23 @@
 			"label":"Aligned"
 		},
 		{
+			"id":"9860835a8b451cf9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a255c58dc158cd0b",
+			"fromSide":"right",
+			"toNode":"6f1d066fa56885ed",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
 			"id":"0bd67fff3eb2ee37",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"a255c58dc158cd0b",
+			"fromNode":"b89190fe5effd29b",
 			"fromSide":"bottom",
 			"toNode":"1ac71cffe202b483",
-			"toSide":"top"
-		},
-		{
-			"id":"30dc38f57e198830",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"75ec06ac74566ed3",
-			"fromSide":"bottom",
-			"toNode":"6f1d066fa56885ed",
 			"toSide":"top"
 		}
 	],
