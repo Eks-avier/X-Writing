@@ -565,24 +565,14 @@
 			"height":60
 		},
 		{
-			"id":"ee7a4214dcc9b901",
-			"type":"text",
-			"text":"# KRATOR\n# KRATEIRA",
-			"styleAttributes":{},
-			"x":-2764,
-			"y":-7120,
-			"width":244,
-			"height":100
-		},
-		{
 			"id":"75ec06ac74566ed3",
 			"type":"text",
-			"text":"# KOINOS KRATON\n# KOINE KRATON",
+			"text":"# KOINOS / KOINE KRATON",
 			"styleAttributes":{},
-			"x":-2042,
+			"x":-2090,
 			"y":-7120,
-			"width":242,
-			"height":100
+			"width":339,
+			"height":60
 		},
 		{
 			"id":"7b63538adf689974",
@@ -610,17 +600,7 @@
 			"text":"# KRATOROS THELESIS",
 			"styleAttributes":{},
 			"x":-2811,
-			"y":-6900,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"a255c58dc158cd0b",
-			"type":"text",
-			"text":"# KOINOU THELESIS",
-			"styleAttributes":{},
-			"x":-2090,
-			"y":-6900,
+			"y":-6980,
 			"width":339,
 			"height":60
 		},
@@ -630,7 +610,7 @@
 			"text":"# KRATOROS HORME",
 			"styleAttributes":{},
 			"x":-2810,
-			"y":-6620,
+			"y":-6700,
 			"width":339,
 			"height":60
 		},
@@ -640,7 +620,7 @@
 			"text":"# SYMPHONIA",
 			"styleAttributes":{"shape":"diamond"},
 			"x":-2771,
-			"y":-6440,
+			"y":-6560,
 			"width":260,
 			"height":60
 		},
@@ -650,7 +630,17 @@
 			"text":"# ANAKALYPTO",
 			"styleAttributes":{"shape":"diamond"},
 			"x":-2771,
-			"y":-6760,
+			"y":-6840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b08f4900cdef1a99",
+			"type":"text",
+			"text":"# KATAKLISIS",
+			"styleAttributes":{},
+			"x":-3470,
+			"y":-6560,
 			"width":260,
 			"height":60
 		},
@@ -661,19 +651,29 @@
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":-3150,
-			"y":-6760,
+			"x":-3470,
+			"y":-6840,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"b08f4900cdef1a99",
+			"id":"ee7a4214dcc9b901",
 			"type":"text",
-			"text":"# KATAKLISIS",
+			"text":"# KRATOR / KRATEIRA",
 			"styleAttributes":{},
-			"x":-3150,
-			"y":-6440,
-			"width":260,
+			"x":-2787,
+			"y":-7120,
+			"width":292,
+			"height":60
+		},
+		{
+			"id":"a255c58dc158cd0b",
+			"type":"text",
+			"text":"# KOINOU THELESIS",
+			"styleAttributes":{},
+			"x":-2089,
+			"y":-6700,
+			"width":339,
 			"height":60
 		},
 		{
@@ -681,8 +681,8 @@
 			"type":"text",
 			"text":"# PHANEROSIS",
 			"styleAttributes":{},
-			"x":-2414,
-			"y":-6130,
+			"x":-2051,
+			"y":-6360,
 			"width":264,
 			"height":60
 		}
@@ -798,13 +798,14 @@
 		},
 		{
 			"id":"a4e390f99666dd10",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"06e8710344d793c0",
 			"fromSide":"left",
 			"toNode":"3ebefc859833a890",
-			"toSide":"right"
+			"toSide":"right",
+			"label":"UNFOUND"
 		},
 		{
 			"id":"e0582dd18a58a94b",
@@ -826,13 +827,14 @@
 		},
 		{
 			"id":"20d9decd00b28d35",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"6952ed851f4bd1ad",
 			"fromSide":"left",
 			"toNode":"b08f4900cdef1a99",
-			"toSide":"right"
+			"toSide":"right",
+			"label":"MISALIGNED"
 		},
 		{
 			"id":"b501ae7355b8b1eb",
@@ -846,7 +848,8 @@
 		{
 			"id":"5f0c63dc60d1c7e8",
 			"styleAttributes":{
-				"pathfindingMethod":null
+				"pathfindingMethod":null,
+				"path":"dotted"
 			},
 			"toFloating":false,
 			"fromFloating":false,
@@ -855,6 +858,16 @@
 			"toNode":"1ac71cffe202b483",
 			"toSide":"top",
 			"label":"Aligned"
+		},
+		{
+			"id":"0bd67fff3eb2ee37",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a255c58dc158cd0b",
+			"fromSide":"bottom",
+			"toNode":"1ac71cffe202b483",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
