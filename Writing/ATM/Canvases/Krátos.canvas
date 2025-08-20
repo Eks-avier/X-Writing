@@ -603,6 +603,16 @@
 			"y":-6160,
 			"width":339,
 			"height":60
+		},
+		{
+			"id":"69ba74ea282f2724",
+			"type":"text",
+			"text":"# LATENCY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2030,
+			"y":-6320,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
