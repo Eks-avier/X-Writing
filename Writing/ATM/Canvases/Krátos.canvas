@@ -74,26 +74,6 @@
 			"height":60
 		},
 		{
-			"id":"c83f18741a399308",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":-1040,
-			"y":-5800,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"08aa7fb423abf41a",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-1580,
-			"y":-5900,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"ff91b5d8807a685e",
 			"type":"text",
 			"text":"# PROSKYNESIS",
@@ -495,7 +475,7 @@
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
 			"x":-2000,
-			"y":-6760,
+			"y":-6780,
 			"width":200,
 			"height":60
 		},
@@ -535,7 +515,7 @@
 			"text":"# AKRÁTON",
 			"styleAttributes":{},
 			"x":-1680,
-			"y":-6760,
+			"y":-6780,
 			"width":200,
 			"height":60
 		},
@@ -547,7 +527,7 @@
 				"shape":null
 			},
 			"x":-2320,
-			"y":-6760,
+			"y":-6780,
 			"width":200,
 			"height":60
 		},
@@ -557,7 +537,7 @@
 			"text":"# KRÁTONIC WILL",
 			"styleAttributes":{},
 			"x":-2342,
-			"y":-6620,
+			"y":-6640,
 			"width":244,
 			"height":60
 		},
@@ -567,7 +547,7 @@
 			"text":"# PHANEROSIS",
 			"styleAttributes":{},
 			"x":-2342,
-			"y":-6300,
+			"y":-6100,
 			"width":244,
 			"height":60
 		},
@@ -592,24 +572,11 @@
 			"height":60
 		},
 		{
-			"id":"926093c95e9e5787",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{
-				"shape":null,
-				"border":null
-			},
-			"x":-1040,
-			"y":-6160,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"7b63538adf689974",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":-1320,
+			"x":-1581,
 			"y":-6460,
 			"width":339,
 			"height":60
@@ -617,13 +584,23 @@
 		{
 			"id":"a73db4f0d8f3ef08",
 			"type":"text",
-			"text":"# ALIGNMENT",
+			"text":"# ALIGNMENT?",
 			"styleAttributes":{
 				"shape":"diamond",
 				"border":null
 			},
-			"x":-1659,
-			"y":-6460,
+			"x":-1840,
+			"y":-6300,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"517ae88f54d9455e",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":-1289,
+			"y":-6100,
 			"width":339,
 			"height":60
 		}
@@ -667,31 +644,6 @@
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
 			"toSide":"top"
-		},
-		{
-			"id":"5cb23bb7e78ea52f",
-			"styleAttributes":{
-				"pathfindingMethod":null,
-				"path":"dotted"
-			},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"926093c95e9e5787",
-			"fromSide":"bottom",
-			"toNode":"c83f18741a399308",
-			"toSide":"top",
-			"label":"Misaligned"
-		},
-		{
-			"id":"609247a19989a70e",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"926093c95e9e5787",
-			"fromSide":"bottom",
-			"toNode":"08aa7fb423abf41a",
-			"toSide":"top",
-			"label":"Aligned"
 		},
 		{
 			"id":"5642b84728491099",
@@ -752,14 +704,50 @@
 			"toSide":"top"
 		},
 		{
-			"id":"14f65d360bd6f9ba",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"id":"bc073912fe783e1c",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
 			"toFloating":false,
-			"fromFloating":false,
 			"fromNode":"a53dc482fb079b73",
 			"fromSide":"bottom",
-			"toNode":"6498ea598cb77eb8",
+			"toNode":"a73db4f0d8f3ef08",
+			"toSide":"left"
+		},
+		{
+			"id":"5c5e080f73827cac",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7b63538adf689974",
+			"fromSide":"bottom",
+			"toNode":"a73db4f0d8f3ef08",
 			"toSide":"right"
+		},
+		{
+			"id":"9ff46aa0c884b516",
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":"dotted"
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a73db4f0d8f3ef08",
+			"fromSide":"bottom",
+			"toNode":"6498ea598cb77eb8",
+			"toSide":"right",
+			"label":"ALIGNMENT"
+		},
+		{
+			"id":"422951bee6721200",
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":"dotted"
+			},
+			"toFloating":false,
+			"fromNode":"a73db4f0d8f3ef08",
+			"fromSide":"bottom",
+			"toNode":"517ae88f54d9455e",
+			"toSide":"left",
+			"label":"MISALIGNMENT"
 		}
 	],
 	"metadata":{
