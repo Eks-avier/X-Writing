@@ -27,9 +27,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -2285.3052562179287,
-                  "y": -5210.890189388596,
-                  "zoom": -2.1891425980193944
+                  "x": -2318.25658141036,
+                  "y": -6860.717588720351,
+                  "zoom": -1.8369547636005799
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,10 +302,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "84a02b2c32f3e59b",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "Notepad 11.md",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Notepad 11.md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
     "_Templates/Character Profile Template.md",
