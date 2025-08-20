@@ -500,84 +500,12 @@
 			"height":60
 		},
 		{
-			"id":"5d321a902338fb1f",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":-1680,
-			"y":-6820,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"4bbbf01990702b28",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-2320,
-			"y":-6820,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"cf775abd11fe7906",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-2342,
-			"y":-6640,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"6498ea598cb77eb8",
-			"type":"text",
-			"text":"# PHANEROSIS",
-			"styleAttributes":{},
-			"x":-2342,
-			"y":-6100,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"a53dc482fb079b73",
-			"type":"text",
-			"text":"# WILL OF THE KRATOR",
-			"styleAttributes":{},
-			"x":-2120,
-			"y":-6460,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"0187fae78731ff10",
-			"type":"text",
-			"text":"# WILL OF THE KOINOU",
-			"styleAttributes":{},
-			"x":-2640,
-			"y":-6460,
-			"width":320,
-			"height":60
-		},
-		{
 			"id":"517ae88f54d9455e",
 			"type":"text",
 			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
 			"x":-1289,
 			"y":-6100,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"7b63538adf689974",
-			"type":"text",
-			"text":"#  CONQUEROR'S DESIRE",
-			"styleAttributes":{},
-			"x":-1289,
-			"y":-6160,
 			"width":339,
 			"height":60
 		},
@@ -605,43 +533,157 @@
 			"height":60
 		},
 		{
+			"id":"ba31eb165527ceb1",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-2404,
+			"y":-7520,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"978b6c9dbd46d620",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1940,
+			"y":-7520,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"0d2830fa107c657d",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-1520,
+			"y":-7520,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"ee7a4214dcc9b901",
+			"type":"text",
+			"text":"# KRATOR\n# KRA",
+			"styleAttributes":{},
+			"x":-2764,
+			"y":-7120,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"75ec06ac74566ed3",
+			"type":"text",
+			"text":"# KOINOS KRATON\n# KOINE KRATON",
+			"styleAttributes":{},
+			"x":-2042,
+			"y":-7120,
+			"width":242,
+			"height":100
+		},
+		{
+			"id":"966b68e70e60a491",
+			"type":"text",
+			"text":"# KRATOROS THELESIS",
+			"styleAttributes":{},
+			"x":-2811,
+			"y":-6940,
+			"width":339,
+			"height":60
+		},
+		{
 			"id":"e92447489e06849c",
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-2000,
-			"y":-6820,
+			"x":-3680,
+			"y":-6760,
 			"width":200,
 			"height":60
 		},
 		{
-			"id":"351d5b9abef3c035",
+			"id":"5d321a902338fb1f",
 			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1900,
-			"y":-7640,
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-3360,
+			"y":-6760,
 			"width":200,
 			"height":60
 		},
 		{
-			"id":"9b38120eaeb300dc",
+			"id":"cf775abd11fe7906",
 			"type":"text",
-			"text":"# KRATOR",
+			"text":"# KRÁTONIC WILL",
 			"styleAttributes":{},
-			"x":-2260,
-			"y":-7640,
-			"width":260,
+			"x":-4022,
+			"y":-6580,
+			"width":244,
 			"height":60
 		},
 		{
-			"id":"538f98727393b7a0",
+			"id":"0187fae78731ff10",
 			"type":"text",
-			"text":"# KOINON",
+			"text":"# WILL OF THE KOINOU",
 			"styleAttributes":{},
-			"x":-1600,
-			"y":-7640,
-			"width":260,
+			"x":-4320,
+			"y":-6400,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"4bbbf01990702b28",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-4000,
+			"y":-6760,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"a53dc482fb079b73",
+			"type":"text",
+			"text":"# WILL OF THE KRATOR",
+			"styleAttributes":{},
+			"x":-3800,
+			"y":-6400,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"6498ea598cb77eb8",
+			"type":"text",
+			"text":"# PHANEROSIS",
+			"styleAttributes":{},
+			"x":-4022,
+			"y":-6040,
+			"width":244,
+			"height":60
+		},
+		{
+			"id":"7b63538adf689974",
+			"type":"text",
+			"text":"#  CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":-1289,
+			"y":-6160,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"a5c6cadbec04c44c",
+			"type":"text",
+			"text":"# KRÁTON THELESIS",
+			"styleAttributes":{},
+			"x":-2414,
+			"y":-7340,
+			"width":264,
 			"height":60
 		}
 	],
@@ -743,6 +785,66 @@
 			"fromNode":"cf775abd11fe7906",
 			"fromSide":"bottom",
 			"toNode":"a53dc482fb079b73",
+			"toSide":"top"
+		},
+		{
+			"id":"fdb346364e2c7a31",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"978b6c9dbd46d620",
+			"fromSide":"right",
+			"toNode":"0d2830fa107c657d",
+			"toSide":"left",
+			"label":"No"
+		},
+		{
+			"id":"e584df63397b80bc",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"978b6c9dbd46d620",
+			"fromSide":"left",
+			"toNode":"ba31eb165527ceb1",
+			"toSide":"right",
+			"label":"Yes"
+		},
+		{
+			"id":"64f1c06fb2ac9a5b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ba31eb165527ceb1",
+			"fromSide":"bottom",
+			"toNode":"a5c6cadbec04c44c",
+			"toSide":"top"
+		},
+		{
+			"id":"5558642d32868b5c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a5c6cadbec04c44c",
+			"fromSide":"bottom",
+			"toNode":"ee7a4214dcc9b901",
+			"toSide":"top"
+		},
+		{
+			"id":"2b084850d92dabd7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a5c6cadbec04c44c",
+			"fromSide":"bottom",
+			"toNode":"75ec06ac74566ed3",
+			"toSide":"top"
+		},
+		{
+			"id":"34a4c0b6a335e626",
+			"styleAttributes":{"pathfindingMethod":"direct"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ee7a4214dcc9b901",
+			"fromSide":"bottom",
+			"toNode":"966b68e70e60a491",
 			"toSide":"top"
 		}
 	],
