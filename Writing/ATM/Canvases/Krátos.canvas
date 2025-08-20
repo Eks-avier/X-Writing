@@ -625,33 +625,13 @@
 			"height":60
 		},
 		{
-			"id":"3ebefc859833a890",
-			"type":"text",
-			"text":"# LANTHANEIA",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-2764,
-			"y":-6760,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"54cf60f6e4fa3c52",
 			"type":"text",
 			"text":"# KRATOROS HORME",
 			"styleAttributes":{},
-			"x":-2811,
+			"x":-2810,
 			"y":-6620,
 			"width":339,
-			"height":60
-		},
-		{
-			"id":"1ac71cffe202b483",
-			"type":"text",
-			"text":"# PHANEROSIS",
-			"styleAttributes":{},
-			"x":-2414,
-			"y":-7280,
-			"width":264,
 			"height":60
 		},
 		{
@@ -665,13 +645,45 @@
 			"height":60
 		},
 		{
+			"id":"06e8710344d793c0",
+			"type":"text",
+			"text":"# ANAKALYPTO",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2771,
+			"y":-6760,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3ebefc859833a890",
+			"type":"text",
+			"text":"# LANTHANEIA",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-3150,
+			"y":-6760,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"b08f4900cdef1a99",
 			"type":"text",
 			"text":"# KATAKLISIS",
 			"styleAttributes":{},
-			"x":-3160,
+			"x":-3150,
 			"y":-6440,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"1ac71cffe202b483",
+			"type":"text",
+			"text":"# PHANEROSIS",
+			"styleAttributes":{},
+			"x":-2414,
+			"y":-6130,
+			"width":264,
 			"height":60
 		}
 	],
@@ -783,6 +795,66 @@
 			"fromSide":"bottom",
 			"toNode":"a255c58dc158cd0b",
 			"toSide":"top"
+		},
+		{
+			"id":"a4e390f99666dd10",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"06e8710344d793c0",
+			"fromSide":"left",
+			"toNode":"3ebefc859833a890",
+			"toSide":"right"
+		},
+		{
+			"id":"e0582dd18a58a94b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"06e8710344d793c0",
+			"fromSide":"bottom",
+			"toNode":"54cf60f6e4fa3c52",
+			"toSide":"top"
+		},
+		{
+			"id":"12cf1218bd7a85d9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"54cf60f6e4fa3c52",
+			"fromSide":"bottom",
+			"toNode":"6952ed851f4bd1ad",
+			"toSide":"top"
+		},
+		{
+			"id":"20d9decd00b28d35",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6952ed851f4bd1ad",
+			"fromSide":"left",
+			"toNode":"b08f4900cdef1a99",
+			"toSide":"right"
+		},
+		{
+			"id":"b501ae7355b8b1eb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"966b68e70e60a491",
+			"fromSide":"bottom",
+			"toNode":"06e8710344d793c0",
+			"toSide":"top"
+		},
+		{
+			"id":"5f0c63dc60d1c7e8",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6952ed851f4bd1ad",
+			"fromSide":"bottom",
+			"toNode":"1ac71cffe202b483",
+			"toSide":"top",
+			"label":"Aligned"
 		}
 	],
 	"metadata":{
