@@ -5,7 +5,7 @@
   "baseFontSize": 14,
   "nativeMenus": false,
   "showRibbon": false,
-  "textFontFamily": "Quintessential,Rubik",
+  "textFontFamily": "FiraCode Nerd Font,Quintessential,Rubik",
   "interfaceFontFamily": "Rubik,JetBrains Mono",
   "monospaceFontFamily": "FiraCode Nerd Font,Quintessential,Rubik"
 }

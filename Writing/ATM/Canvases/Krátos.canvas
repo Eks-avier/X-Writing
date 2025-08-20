@@ -3,7 +3,7 @@
 		{"id":"81042b57ba5a5a7b","type":"group","x":0,"y":-6720,"width":2060,"height":1700,"label":"VOCABULARY BANK"},
 		{"id":"fc29eab05148e021","type":"group","x":-320,"y":-4720,"width":640,"height":586,"color":"1","label":"KRÁTONIC TECHNIQUES"},
 		{"id":"56cd2b69c4faccd9","type":"group","x":365,"y":-4364,"width":300,"height":230,"color":"1","label":"TITLES"},
-		{"id":"b89190fe5effd29b","type":"group","x":-2240,"y":-6820,"width":640,"height":100,"label":"Themelion"},
+		{"id":"b89190fe5effd29b","type":"group","x":-2260,"y":-6820,"width":680,"height":100,"label":"Themelion"},
 		{
 			"id":"ff91b5d8807a685e",
 			"type":"text",
@@ -502,28 +502,6 @@
 			"height":60
 		},
 		{
-			"id":"a255c58dc158cd0b",
-			"type":"text",
-			"text":"# KOINOU THELESIS",
-			"styleAttributes":{},
-			"x":-2220,
-			"y":-6800,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6f1d066fa56885ed",
-			"type":"text",
-			"text":"# KARTERIA",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":-1881,
-			"y":-6800,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"8090398a9f3242ad",
 			"type":"text",
 			"text":"# OFFENSIVE",
@@ -666,7 +644,6 @@
 			"width":339,
 			"height":80
 		},
-		{"id":"c8e7ef98ed609371","type":"text","text":"# KAKISTŌN KRATON","x":-1699,"y":-6180,"width":279,"height":60},
 		{
 			"id":"8fb56e53eb76af51",
 			"type":"text",
@@ -718,56 +695,6 @@
 			"height":60
 		},
 		{
-			"id":"79d3e34a2f70316d",
-			"type":"text",
-			"text":"# HOLOARISTŌN ",
-			"styleAttributes":{},
-			"x":-1756,
-			"y":-5240,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c510149fafedc0ac",
-			"type":"text",
-			"text":"# POLYARISTŌN",
-			"styleAttributes":{},
-			"x":-1756,
-			"y":-5180,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1432d72a63e19dbc",
-			"type":"text",
-			"text":"# IDIARISTŌN",
-			"styleAttributes":{},
-			"x":-1496,
-			"y":-5240,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c0c35dd468fe0294",
-			"type":"text",
-			"text":"# MONOARISTŌN",
-			"styleAttributes":{},
-			"x":-1496,
-			"y":-5180,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"04c539027f747382",
-			"type":"text",
-			"text":"# ARISTŌN KRATON",
-			"styleAttributes":{},
-			"x":-1635,
-			"y":-5360,
-			"width":279,
-			"height":60
-		},
-		{
 			"id":"09b0900b9527a651",
 			"type":"text",
 			"text":"# PYROTON",
@@ -785,16 +712,6 @@
 			"x":-2484,
 			"y":-5040,
 			"width":217,
-			"height":60
-		},
-		{
-			"id":"3d48292ce8a03ae7",
-			"type":"text",
-			"text":"# POLYEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2439,
-			"y":-5180,
-			"width":280,
 			"height":60
 		},
 		{
@@ -838,77 +755,6 @@
 			"height":60
 		},
 		{
-			"id":"1353595de24fa52a",
-			"type":"text",
-			"text":"# EURYTATŌN",
-			"styleAttributes":{},
-			"x":-2439,
-			"y":-5300,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"88c420f39c0df570",
-			"type":"text",
-			"text":"# MONOEURYTATŌN",
-			"styleAttributes":{},
-			"x":-2439,
-			"y":-5240,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"d276a49a76aa787e",
-			"type":"text",
-			"text":"# STENOTATŌN",
-			"styleAttributes":{},
-			"x":-2159,
-			"y":-5300,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"74171b716d2aabbc",
-			"type":"text",
-			"text":"# MONOSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2159,
-			"y":-5240,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"71b6b00fef66bd07",
-			"type":"text",
-			"text":"# POLYSTENOTATŌN",
-			"styleAttributes":{},
-			"x":-2159,
-			"y":-5180,
-			"width":300,
-			"height":60
-		},
-		{"id":"5dc1668d1092f21a","type":"text","text":"# KAKISTŌN KRATON","x":-2288,"y":-5360,"width":279,"height":60},
-		{
-			"id":"477a030065e5148d",
-			"type":"text",
-			"text":"# HOLOTATŌN ",
-			"styleAttributes":{},
-			"x":-1756,
-			"y":-5300,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"152903e2a84c519f",
-			"type":"text",
-			"text":"# IDIOTATŌN",
-			"styleAttributes":{},
-			"x":-1496,
-			"y":-5300,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"0e354e789479d3c9",
 			"type":"text",
 			"text":"# ARISTŌN KRATON",
@@ -923,7 +769,7 @@
 			"type":"text",
 			"text":"# IDIOTATŌN",
 			"styleAttributes":{},
-			"x":-2337,
+			"x":-2417,
 			"y":-5920,
 			"width":280,
 			"height":60
@@ -933,8 +779,242 @@
 			"type":"text",
 			"text":"# HOLOTATŌN ",
 			"styleAttributes":{},
-			"x":-3097,
+			"x":-3017,
 			"y":-5920,
+			"width":280,
+			"height":60
+		},
+		{"id":"c8e7ef98ed609371","type":"text","text":"# KAKISTŌN KRATON","x":-1399,"y":-6140,"width":279,"height":60},
+		{
+			"id":"07e133523a2f087a",
+			"type":"text",
+			"text":"# EURYTATŌN",
+			"styleAttributes":{},
+			"x":-1759,
+			"y":-5920,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"975cd7a28f52f321",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":-5920,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"d276a49a76aa787e",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-2277,
+			"y":-5390,
+			"width":300,
+			"height":60
+		},
+		{"id":"5dc1668d1092f21a","type":"text","text":"# KAKISTŌN KRATON","x":-2406,"y":-5450,"width":279,"height":60},
+		{
+			"id":"1353595de24fa52a",
+			"type":"text",
+			"text":"# EURYTATŌN",
+			"styleAttributes":{},
+			"x":-2557,
+			"y":-5390,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"027782dd946db43f",
+			"type":"text",
+			"text":"# POLYKAKISTŌN",
+			"styleAttributes":{},
+			"x":-2557,
+			"y":-5330,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"74171b716d2aabbc",
+			"type":"text",
+			"text":"# MONOSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-2277,
+			"y":-5270,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"504ec608e608de43",
+			"type":"text",
+			"text":"# MONOKAKISTŌN",
+			"styleAttributes":{},
+			"x":-2277,
+			"y":-5330,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"88c420f39c0df570",
+			"type":"text",
+			"text":"# MONOEURYTATŌN",
+			"styleAttributes":{},
+			"x":-2557,
+			"y":-5270,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"3d48292ce8a03ae7",
+			"type":"text",
+			"text":"# POLYEURYTATŌN",
+			"styleAttributes":{},
+			"x":-2557,
+			"y":-5210,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"71b6b00fef66bd07",
+			"type":"text",
+			"text":"# POLYSTENOTATŌN",
+			"styleAttributes":{},
+			"x":-2277,
+			"y":-5210,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"04c539027f747382",
+			"type":"text",
+			"text":"# ARISTŌN KRATON",
+			"styleAttributes":{},
+			"x":-1626,
+			"y":-5450,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"477a030065e5148d",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":-5390,
+			"width":284,
+			"height":60
+		},
+		{
+			"id":"152903e2a84c519f",
+			"type":"text",
+			"text":"# IDIOTATŌN",
+			"styleAttributes":{},
+			"x":-1496,
+			"y":-5390,
+			"width":276,
+			"height":60
+		},
+		{
+			"id":"79d3e34a2f70316d",
+			"type":"text",
+			"text":"# MONOHOLOARISTŌN ",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":-5270,
+			"width":284,
+			"height":60
+		},
+		{
+			"id":"1432d72a63e19dbc",
+			"type":"text",
+			"text":"# MONOIDIARISTŌN",
+			"styleAttributes":{},
+			"x":-1496,
+			"y":-5270,
+			"width":276,
+			"height":60
+		},
+		{
+			"id":"c510149fafedc0ac",
+			"type":"text",
+			"text":"# POLYARISTŌN",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":-5330,
+			"width":284,
+			"height":60
+		},
+		{
+			"id":"37867d44fce362fb",
+			"type":"text",
+			"text":"# POLYHOLARISTŌN",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":-5210,
+			"width":284,
+			"height":60
+		},
+		{
+			"id":"c0c35dd468fe0294",
+			"type":"text",
+			"text":"# MONOARISTŌN",
+			"styleAttributes":{},
+			"x":-1496,
+			"y":-5330,
+			"width":276,
+			"height":60
+		},
+		{
+			"id":"7aaf0ccacf58db2b",
+			"type":"text",
+			"text":"# MONOHOLARISTŌN",
+			"styleAttributes":{},
+			"x":-1496,
+			"y":-5210,
+			"width":276,
+			"height":60
+		},
+		{
+			"id":"6f1d066fa56885ed",
+			"type":"text",
+			"text":"# KARTERIA",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-1860,
+			"y":-6800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a255c58dc158cd0b",
+			"type":"text",
+			"text":"# KOINOU THELESIS",
+			"styleAttributes":{},
+			"x":-2230,
+			"y":-6800,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"bd72bc152bd6c43a",
+			"type":"text",
+			"text":"# HOLOARISTŌN ",
+			"styleAttributes":{},
+			"x":-3157,
+			"y":-5830,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"22721d1b22bbb813",
+			"type":"text",
+			"text":"# IDIARISTŌN",
+			"styleAttributes":{},
+			"x":-2277,
+			"y":-5830,
 			"width":280,
 			"height":60
 		}
@@ -1172,6 +1252,24 @@
 			"fromNode":"0e354e789479d3c9",
 			"fromSide":"bottom",
 			"toNode":"f45278b544867c8b",
+			"toSide":"top"
+		},
+		{
+			"id":"3a7bbe7e8aaf7b36",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c8e7ef98ed609371",
+			"fromSide":"bottom",
+			"toNode":"07e133523a2f087a",
+			"toSide":"top"
+		},
+		{
+			"id":"f7ad44c72afe7c22",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c8e7ef98ed609371",
+			"fromSide":"bottom",
+			"toNode":"975cd7a28f52f321",
 			"toSide":"top"
 		}
 	],
