@@ -582,19 +582,6 @@
 			"height":60
 		},
 		{
-			"id":"a73db4f0d8f3ef08",
-			"type":"text",
-			"text":"# ALIGNMENT?",
-			"styleAttributes":{
-				"shape":"diamond",
-				"border":null
-			},
-			"x":-2389,
-			"y":-6320,
-			"width":339,
-			"height":60
-		},
-		{
 			"id":"7b63538adf689974",
 			"type":"text",
 			"text":"#  CONQUEROR'S DESIRE",
@@ -605,12 +592,27 @@
 			"height":60
 		},
 		{
+			"id":"a73db4f0d8f3ef08",
+			"type":"text",
+			"text":"# ALIGNMENT?",
+			"styleAttributes":{
+				"shape":null,
+				"border":null
+			},
+			"x":-1268,
+			"y":-6460,
+			"width":279,
+			"height":60
+		},
+		{
 			"id":"69ba74ea282f2724",
 			"type":"text",
 			"text":"# LATENCY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-2030,
-			"y":-6320,
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-1268,
+			"y":-6400,
 			"width":260,
 			"height":60
 		}
