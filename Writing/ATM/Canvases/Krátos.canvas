@@ -567,12 +567,12 @@
 		{
 			"id":"ee7a4214dcc9b901",
 			"type":"text",
-			"text":"# KRATOR\n# KRA",
+			"text":"# KRATOR\n# KRATEIRA",
 			"styleAttributes":{},
 			"x":-2764,
 			"y":-7120,
 			"width":244,
-			"height":60
+			"height":100
 		},
 		{
 			"id":"75ec06ac74566ed3",
@@ -583,88 +583,6 @@
 			"y":-7120,
 			"width":242,
 			"height":100
-		},
-		{
-			"id":"966b68e70e60a491",
-			"type":"text",
-			"text":"# KRATOROS THELESIS",
-			"styleAttributes":{},
-			"x":-2811,
-			"y":-6940,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"e92447489e06849c",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-3680,
-			"y":-6760,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"5d321a902338fb1f",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":-3360,
-			"y":-6760,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"cf775abd11fe7906",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":-4022,
-			"y":-6580,
-			"width":244,
-			"height":60
-		},
-		{
-			"id":"0187fae78731ff10",
-			"type":"text",
-			"text":"# WILL OF THE KOINOU",
-			"styleAttributes":{},
-			"x":-4320,
-			"y":-6400,
-			"width":320,
-			"height":60
-		},
-		{
-			"id":"4bbbf01990702b28",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-4000,
-			"y":-6760,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"a53dc482fb079b73",
-			"type":"text",
-			"text":"# WILL OF THE KRATOR",
-			"styleAttributes":{},
-			"x":-3800,
-			"y":-6400,
-			"width":339,
-			"height":60
-		},
-		{
-			"id":"6498ea598cb77eb8",
-			"type":"text",
-			"text":"# PHANEROSIS",
-			"styleAttributes":{},
-			"x":-4022,
-			"y":-6040,
-			"width":244,
-			"height":60
 		},
 		{
 			"id":"7b63538adf689974",
@@ -684,6 +602,76 @@
 			"x":-2414,
 			"y":-7340,
 			"width":264,
+			"height":60
+		},
+		{
+			"id":"966b68e70e60a491",
+			"type":"text",
+			"text":"# KRATOROS THELESIS",
+			"styleAttributes":{},
+			"x":-2811,
+			"y":-6900,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"a255c58dc158cd0b",
+			"type":"text",
+			"text":"# KOINOU THELESIS",
+			"styleAttributes":{},
+			"x":-2090,
+			"y":-6900,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"3ebefc859833a890",
+			"type":"text",
+			"text":"# LANTHANEIA",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2764,
+			"y":-6760,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"54cf60f6e4fa3c52",
+			"type":"text",
+			"text":"# KRATOROS HORME",
+			"styleAttributes":{},
+			"x":-2811,
+			"y":-6620,
+			"width":339,
+			"height":60
+		},
+		{
+			"id":"1ac71cffe202b483",
+			"type":"text",
+			"text":"# PHANEROSIS",
+			"styleAttributes":{},
+			"x":-2414,
+			"y":-7280,
+			"width":264,
+			"height":60
+		},
+		{
+			"id":"6952ed851f4bd1ad",
+			"type":"text",
+			"text":"# SYMPHONIA",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2771,
+			"y":-6440,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b08f4900cdef1a99",
+			"type":"text",
+			"text":"# KATAKLISIS",
+			"styleAttributes":{},
+			"x":-3160,
+			"y":-6440,
+			"width":260,
 			"height":60
 		}
 	],
@@ -725,66 +713,6 @@
 			"fromNode":"8090398a9f3242ad",
 			"fromSide":"bottom",
 			"toNode":"27a6dc2e2cfd6c7a",
-			"toSide":"top"
-		},
-		{
-			"id":"5642b84728491099",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"e92447489e06849c",
-			"fromSide":"left",
-			"toNode":"4bbbf01990702b28",
-			"toSide":"right",
-			"label":"Yes"
-		},
-		{
-			"id":"87e118914e6398ce",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"e92447489e06849c",
-			"fromSide":"right",
-			"toNode":"5d321a902338fb1f",
-			"toSide":"left",
-			"label":"No"
-		},
-		{
-			"id":"c97b4da4a4acf959",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"4bbbf01990702b28",
-			"fromSide":"bottom",
-			"toNode":"cf775abd11fe7906",
-			"toSide":"top"
-		},
-		{
-			"id":"19ee7e2259abdd43",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cf775abd11fe7906",
-			"fromSide":"bottom",
-			"toNode":"0187fae78731ff10",
-			"toSide":"top"
-		},
-		{
-			"id":"27d4e3b027da44d1",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"0187fae78731ff10",
-			"fromSide":"bottom",
-			"toNode":"6498ea598cb77eb8",
-			"toSide":"left"
-		},
-		{
-			"id":"c54211818c689281",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cf775abd11fe7906",
-			"fromSide":"bottom",
-			"toNode":"a53dc482fb079b73",
 			"toSide":"top"
 		},
 		{
@@ -845,6 +773,15 @@
 			"fromNode":"ee7a4214dcc9b901",
 			"fromSide":"bottom",
 			"toNode":"966b68e70e60a491",
+			"toSide":"top"
+		},
+		{
+			"id":"f3c9e854bde3d8b9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"75ec06ac74566ed3",
+			"fromSide":"bottom",
+			"toNode":"a255c58dc158cd0b",
 			"toSide":"top"
 		}
 	],
