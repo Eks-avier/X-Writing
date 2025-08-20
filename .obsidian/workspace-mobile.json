@@ -183,9 +183,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos.canvas",
                 "viewState": {
-                  "x": -20.905923485893865,
-                  "y": -4011.1966749617777,
-                  "zoom": -1.341594748894499
+                  "x": -1100.0368064355775,
+                  "y": -6077.21140825667,
+                  "zoom": -1.564339993958701
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -345,9 +345,21 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "1c9d6ef991d92310",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Writing/ATM/Canvases/Krátos.canvas"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,8 +374,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45b8115e733d08c",
+  "active": "f99e82848841319f",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/ATM/Unrefined/Filipino Essay.md",
     "Writing/ATM/Unrefined/Unrefined - Mothra's Regalia.md",
@@ -389,7 +403,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Notepad 11.md",
     "Writing/ATM/Story Arcs/Concept - Medieval AU.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",

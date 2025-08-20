@@ -5,6 +5,10 @@
       "path": "Writing/ATM/Canvases/Krátos.canvas"
     },
     {
+      "basename": "Psionics",
+      "path": "Writing/ATM/Canvases/Psionics.canvas"
+    },
+    {
       "basename": "Notepad 11",
       "path": "Notepad 11.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Sorcery Redefined",
       "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
-    },
-    {
-      "basename": "Psionics",
-      "path": "Writing/ATM/Canvases/Psionics.canvas"
     },
     {
       "basename": "Unrefined - The Art of Commitments",
