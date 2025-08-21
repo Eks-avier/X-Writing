@@ -181,15 +181,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
                 "viewState": {
-                  "x": -1100.0368064355775,
-                  "y": -6077.21140825667,
-                  "zoom": -1.564339993958701
+                  "x": -1529.1910975604262,
+                  "y": -6120.863231241551,
+                  "zoom": -3.780625330693384
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "title": "Krátos (Greek)"
             }
           }
         ],
@@ -376,6 +376,7 @@
   },
   "active": "f99e82848841319f",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
