@@ -1,6 +1,17 @@
 {
 	"nodes":[
-		{"id":"a0b6afaa1c018b9c","type":"group","x":-1380,"y":-40,"width":780,"height":100,"label":"THEMELION"},
+		{"id":"2e1d2dba94abb8b1","type":"group","x":-180,"y":-320,"width":900,"height":520,"label":"CONQUEROR"},
+		{"id":"b42401c4d4b8c218","type":"group","x":-1500,"y":-400,"width":820,"height":280,"label":"KOINOS / KOINĒ KRÁTON"},
+		{
+			"id":"a0b6afaa1c018b9c",
+			"type":"group",
+			"styleAttributes":{"border":"invisible"},
+			"x":-1480,
+			"y":-20,
+			"width":780,
+			"height":100,
+			"label":"THEMELION"
+		},
 		{
 			"id":"bc1acfdc73c95085",
 			"type":"text",
@@ -46,7 +57,7 @@
 			"type":"text",
 			"text":"# CONQUEROR'S WILL",
 			"styleAttributes":{},
-			"x":-400,
+			"x":-160,
 			"y":-300,
 			"width":340,
 			"height":60
@@ -56,7 +67,7 @@
 			"type":"text",
 			"text":"# PURSUIT",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-360,
+			"x":-120,
 			"y":-160,
 			"width":260,
 			"height":60
@@ -66,7 +77,7 @@
 			"type":"text",
 			"text":"# CONQUEROR'S DESIRE",
 			"styleAttributes":{},
-			"x":-400,
+			"x":-160,
 			"y":-20,
 			"width":340,
 			"height":60
@@ -78,7 +89,7 @@
 			"styleAttributes":{
 				"shape":null
 			},
-			"x":120,
+			"x":360,
 			"y":-160,
 			"width":340,
 			"height":60
@@ -88,7 +99,7 @@
 			"type":"text",
 			"text":"# ALIGNMENT",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-360,
+			"x":-120,
 			"y":120,
 			"width":260,
 			"height":60
@@ -98,7 +109,7 @@
 			"type":"text",
 			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
-			"x":120,
+			"x":360,
 			"y":120,
 			"width":340,
 			"height":60
@@ -358,22 +369,12 @@
 			"height":60
 		},
 		{
-			"id":"6c1655cc03335d12",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{},
-			"x":-1160,
-			"y":-300,
-			"width":340,
-			"height":60
-		},
-		{
 			"id":"bdc1ff3939a55972",
 			"type":"text",
 			"text":"# KOINON'S WILL",
 			"styleAttributes":{},
-			"x":-1360,
-			"y":-20,
+			"x":-1460,
+			"y":0,
 			"width":340,
 			"height":60
 		},
@@ -382,8 +383,18 @@
 			"type":"text",
 			"text":"# KOINON'S RESOLVE",
 			"styleAttributes":{},
-			"x":-960,
-			"y":-20,
+			"x":-1060,
+			"y":0,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"6c1655cc03335d12",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{},
+			"x":-1260,
+			"y":-160,
 			"width":340,
 			"height":60
 		}
@@ -419,24 +430,16 @@
 			"toSide":"top"
 		},
 		{
-			"id":"621ef8add6014f0f",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"8e203b7560727d3c",
-			"fromSide":"bottom",
-			"toNode":"6c1655cc03335d12",
-			"toSide":"top"
-		},
-		{
 			"id":"81a7d45df610d07c",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"8e203b7560727d3c",
 			"fromSide":"bottom",
-			"toNode":"0775f86074b3048e",
-			"toSide":"top"
+			"toNode":"2e1d2dba94abb8b1",
+			"toSide":"left"
 		},
 		{
 			"id":"f48354038850baae",
@@ -521,6 +524,16 @@
 			"fromSide":"bottom",
 			"toNode":"a0b6afaa1c018b9c",
 			"toSide":"top"
+		},
+		{
+			"id":"1a56eedaaeaf5c7b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8e203b7560727d3c",
+			"fromSide":"bottom",
+			"toNode":"b42401c4d4b8c218",
+			"toSide":"right"
 		}
 	],
 	"metadata":{

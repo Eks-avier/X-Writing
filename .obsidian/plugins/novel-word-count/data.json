@@ -7388,7 +7388,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1755732120785,
+      "modifiedDate": 1755825798048,
       "sizeInBytes": 23536,
       "sessionStart": {
         "noteCount": 1,
@@ -7397,6 +7397,11 @@
         "characterCount": 1514,
         "nonWhitespaceCharacterCount": 1265,
         "newlineCount": 109
+      },
+      "frontmatter": {
+        "tags": [
+          "power_system"
+        ]
       }
     },
     "Writing/ATM/Canvases/Krátos (English).canvas": {
@@ -7415,8 +7420,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755732157426,
-      "modifiedDate": 1755825481424,
-      "sizeInBytes": 9534,
+      "modifiedDate": 1755826068504,
+      "sizeInBytes": 10033,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
