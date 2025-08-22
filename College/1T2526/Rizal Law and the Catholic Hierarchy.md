@@ -16,3 +16,10 @@
 	- A closed-door conference was obviously one of the means by which the hierarchy hoped to exert pressure against the bill.
 	- Lobbies from various Catholic organizations as well as the clerics themselves were very active during the discussion of the Rizal bill.
 		- These clerics, many of which were foreigners, were seeking conferences with senators to convince them to oppose the Rizal bill.
+- A more organized campaign against the bill was launched under the auspices of the **Catholic Action of Manila**/
+	- Its first activity was a symposium and open forum
+		- Two announcements were made here
+			1. The *Sentinel*, the official organ of Philippine Catholic Action, would be published daily rather than weekly
+			2. The Filipino Catholics would be urged to write their congressman to **kill** the Rizal bill.
+	- Fr. Jesus Cavanna, who was introduced as an authority on Rizal, said that the novels *belong to the past* and it would be *harmful* to read them because they represented a *false picture* of conditions in the country at that time.
+		- He described *Noli Me Tangere* as a 
