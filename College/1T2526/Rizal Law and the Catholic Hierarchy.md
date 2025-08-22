@@ -22,4 +22,7 @@
 			1. The *Sentinel*, the official organ of Philippine Catholic Action, would be published daily rather than weekly
 			2. The Filipino Catholics would be urged to write their congressman to **kill** the Rizal bill.
 	- Fr. Jesus Cavanna, who was introduced as an authority on Rizal, said that the novels *belong to the past* and it would be *harmful* to read them because they represented a *false picture* of conditions in the country at that time.
-		- He described *Noli Me Tangere* as a 
+		- He described *Noli Me Tangere* as an *attack on the clergy*.
+			- Its object was to *ridicule* the *Catholic Faith*
+			- The novel wasn't really patriotic because out of the 333 pages only 25 contained patriotic passages while 120 were devoted to anti-Catholic attacks.
+			- Jesus Paredes, a radio commentator, declared that since some parts of the novels had been declared *objectionable matter* by the hierarchy, Catholics have the right to refuse to read them for the sake of their salvation.
