@@ -6,9 +6,9 @@
 			"styleAttributes":{"border":"invisible"},
 			"x":-280,
 			"y":-180,
-			"width":940,
+			"width":980,
 			"height":560,
-			"color":"3"
+			"color":"#ffd700"
 		},
 		{
 			"id":"b42401c4d4b8c218",
@@ -142,78 +142,6 @@
 			"height":60
 		},
 		{
-			"id":"742be496cb8a9f8a",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":1260,
-			"y":-320,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"abd6307d90f847f6",
-			"type":"text",
-			"text":"# KOINON",
-			"styleAttributes":{},
-			"x":1300,
-			"y":-380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ffbfbfc9e990ff0d",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":1300,
-			"y":-720,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"948b3edd1a0df1a2",
-			"type":"text",
-			"text":"# KRÁTON",
-			"styleAttributes":{},
-			"x":1300,
-			"y":-640,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"26a4210a1ae0f472",
-			"type":"text",
-			"text":"# AKRÁTON",
-			"styleAttributes":{},
-			"x":1300,
-			"y":-580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b9a72195410bfcd5",
-			"type":"text",
-			"text":"# KRÁTONIC WILL",
-			"styleAttributes":{},
-			"x":1300,
-			"y":-520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"638405485131bd12",
-			"type":"text",
-			"text":"# KOINON'S RESOLVE",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-260,
-			"width":340,
-			"height":60
-		},
-		{
 			"id":"8662350d6eccbb79",
 			"type":"text",
 			"text":"# MANIFESTATION",
@@ -266,26 +194,6 @@
 			"height":60
 		},
 		{
-			"id":"2303ed028d870354",
-			"type":"text",
-			"text":"# MONOKRÁTON",
-			"styleAttributes":{},
-			"x":-1500,
-			"y":720,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"39a8edcb4149e53c",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":-1500,
-			"y":620,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"6c1655cc03335d12",
 			"type":"text",
 			"text":"# KOINON'S WILL",
@@ -325,28 +233,6 @@
 			"x":-200,
 			"y":280,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"ff382cce487cf092",
-			"type":"text",
-			"text":"# CONQUEROR'S LATENCY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":280,
-			"y":0,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"ec1280c3cdc1b2c6",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":280,
-			"y":280,
-			"width":340,
 			"height":60
 		},
 		{
@@ -442,6 +328,120 @@
 			"y":40,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"742be496cb8a9f8a",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":1260,
+			"y":-300,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"abd6307d90f847f6",
+			"type":"text",
+			"text":"# KOINON",
+			"styleAttributes":{},
+			"x":1300,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"638405485131bd12",
+			"type":"text",
+			"text":"# KOINON'S RESOLVE",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-240,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"ffbfbfc9e990ff0d",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":1300,
+			"y":-660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"948b3edd1a0df1a2",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":1300,
+			"y":-580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"26a4210a1ae0f472",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":1300,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b9a72195410bfcd5",
+			"type":"text",
+			"text":"# KRÁTONIC WILL",
+			"styleAttributes":{},
+			"x":1300,
+			"y":-460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ff382cce487cf092",
+			"type":"text",
+			"text":"# CONQUEROR'S LATENCY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":320,
+			"y":0,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"ec1280c3cdc1b2c6",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":320,
+			"y":280,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"39a8edcb4149e53c",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-1370,
+			"y":540,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"2303ed028d870354",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":540,
+			"width":280,
+			"height":60
 		}
 	],
 	"edges":[
@@ -505,24 +505,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"ccdfa53369fda215",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8662350d6eccbb79",
-			"fromSide":"bottom",
-			"toNode":"39a8edcb4149e53c",
-			"toSide":"right"
-		},
-		{
-			"id":"47559b656b4d5a44",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8662350d6eccbb79",
-			"fromSide":"bottom",
-			"toNode":"2303ed028d870354",
-			"toSide":"right"
-		},
-		{
 			"id":"1418cb89368c568e",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -549,7 +531,8 @@
 			"fromNode":"21c16824bad0ad67",
 			"fromSide":"right",
 			"toNode":"ff382cce487cf092",
-			"toSide":"left"
+			"toSide":"left",
+			"label":"FRUITLESS"
 		},
 		{
 			"id":"b8a11e22499b2dbb",
@@ -568,7 +551,8 @@
 			"fromNode":"a1dcf2b3d2b0bdc2",
 			"fromSide":"right",
 			"toNode":"ec1280c3cdc1b2c6",
-			"toSide":"left"
+			"toSide":"left",
+			"label":"MISALIGNMENT"
 		},
 		{
 			"id":"d48c3628f140b0d7",

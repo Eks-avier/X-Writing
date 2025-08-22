@@ -27,9 +27,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": 1258.0406870830016,
-                  "y": -120.02911660120647,
-                  "zoom": -1.1824973246494828
+                  "x": 280.77764248458175,
+                  "y": 282.1963035377934,
+                  "zoom": -1.4653148409317016
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -44,8 +44,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
                 "viewState": {
-                  "x": -1711.4623608315073,
-                  "y": -5840.327163984018,
+                  "x": -2304.777534660735,
+                  "y": -6641.657370967291,
                   "zoom": -0.8986975157984656
                 }
               },
@@ -180,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Sorcery Redefined"
+              "title": "File properties for Krátos (English)"
             }
           },
           {
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorcery Redefined"
+              "title": "Backlinks for Krátos (English)"
             }
           },
           {
@@ -273,7 +273,8 @@
               "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
