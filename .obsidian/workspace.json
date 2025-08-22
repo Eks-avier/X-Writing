@@ -27,8 +27,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": 27.25933837890625,
-                  "y": 3.1696929931640625,
+                  "x": 11.500953607688984,
+                  "y": 321.37894489446103,
                   "zoom": 0
                 }
               },
@@ -40,24 +40,17 @@
             "id": "945fcc965a95350a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notepad 11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
+                "viewState": {
+                  "x": -2086.6090452226663,
+                  "y": -5781.856605134314,
+                  "zoom": -1.25088535021728
                 }
               },
-              "icon": "lucide-file",
-              "title": "Notepad 11"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos (Greek)"
             }
           },
           {
@@ -298,15 +291,17 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
-    "Writing/ATM/Canvases/Krátos (English).md",
+    "Writing/ATM/Canvases/Untitled.md",
     "Notepad 11.md",
+    "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
     "_Templates/Character Profile Template.md",
@@ -342,14 +337,12 @@
     "College/3Q2425/College.md",
     "College/3Q2425/Practice Exam.md",
     "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
-    "College/3Q2425/Magnetism.md",
     "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Chapters/Untitled",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/Antitheriomorphosis/The Nordsons and Lepidiels.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
-    "Main Alternate Universe/Antitheriomorphosis - Magic System.png",
-    "Main Alternate Universe/Antitheriomorphosis - Magic System.canvas"
+    "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]
 }

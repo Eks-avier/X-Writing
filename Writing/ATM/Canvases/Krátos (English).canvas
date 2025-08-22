@@ -1,5 +1,206 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"6ae0bb588f42939a",
+			"type":"text",
+			"text":"# CONQUEROR'S WILL",
+			"styleAttributes":{},
+			"x":280,
+			"y":-100,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"eb47f7d407bb2e7b",
+			"type":"text",
+			"text":"# CONQUEROR'S DESIRE",
+			"styleAttributes":{},
+			"x":280,
+			"y":-40,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"7f76aebaa6c500e8",
+			"type":"text",
+			"text":"# CONQUEROR",
+			"styleAttributes":{},
+			"x":280,
+			"y":-180,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"e5ac018a3be1bb8a",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"948b3edd1a0df1a2",
+			"type":"text",
+			"text":"# KRÁTON",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"26a4210a1ae0f472",
+			"type":"text",
+			"text":"# AKRÁTON",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e1520f206c9394f",
+			"type":"text",
+			"text":"# MANIFESTATION",
+			"styleAttributes":{},
+			"x":-180,
+			"y":60,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1e349249dd808acc",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":280,
+			"y":20,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"31f0c14c47f679bd",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{},
+			"x":320,
+			"y":120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"363e8664c809e2ff",
+			"type":"text",
+			"text":"# MISALIGNMENT",
+			"styleAttributes":{},
+			"x":320,
+			"y":180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"afee130aa052f786",
+			"type":"text",
+			"text":"# LATENCY",
+			"styleAttributes":{},
+			"x":320,
+			"y":260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9c771da87756194a",
+			"type":"text",
+			"text":"# PURSUIT",
+			"styleAttributes":{},
+			"x":320,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2d9348239d6d34a1",
+			"type":"text",
+			"text":"# KAKISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-40,
+			"y":160,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"e28efaed40e2c21b",
+			"type":"text",
+			"text":"# ARISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-320,
+			"y":160,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"fbc8876f5cdee4ad",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-320,
+			"y":220,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"e43689698383b476",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-40,
+			"y":220,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"868a60457829d8ea",
+			"type":"text",
+			"text":"# IDIOTATŌN",
+			"styleAttributes":{},
+			"x":398,
+			"y":234,
+			"width":276,
+			"height":60
+		},
+		{
+			"id":"fb05ca454457b6b8",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":114,
+			"y":234,
+			"width":284,
+			"height":60
+		},
+		{
+			"id":"312b48594c8842d6",
+			"type":"text",
+			"text":"# EURYTATŌN",
+			"styleAttributes":{},
+			"x":-320,
+			"y":280,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"67d3411c7adc1681",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-320,
+			"y":340,
+			"width":280,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
