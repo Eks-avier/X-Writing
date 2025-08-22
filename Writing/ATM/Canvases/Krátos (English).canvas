@@ -424,23 +424,43 @@
 			"height":60
 		},
 		{
-			"id":"39a8edcb4149e53c",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":-1370,
-			"y":540,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"2303ed028d870354",
 			"type":"text",
 			"text":"# MONOKRÁTON",
 			"styleAttributes":{},
-			"x":-1090,
-			"y":540,
+			"x":-960,
+			"y":680,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"39a8edcb4149e53c",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-1500,
+			"y":680,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"3ad4e9bdc0d904b2",
+			"type":"text",
+			"text":"# KAKISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":800,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"096eb450561528da",
+			"type":"text",
+			"text":"# ARISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-1370,
+			"y":800,
+			"width":279,
 			"height":60
 		}
 	],
@@ -570,6 +590,24 @@
 			"fromNode":"0775f86074b3048e",
 			"fromSide":"bottom",
 			"toNode":"21c16824bad0ad67",
+			"toSide":"top"
+		},
+		{
+			"id":"328f182d2e5e272a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"8662350d6eccbb79",
+			"fromSide":"bottom",
+			"toNode":"39a8edcb4149e53c",
+			"toSide":"top"
+		},
+		{
+			"id":"06a51e6579d8ef5d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"8662350d6eccbb79",
+			"fromSide":"bottom",
+			"toNode":"2303ed028d870354",
 			"toSide":"top"
 		}
 	],
