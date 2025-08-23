@@ -27,3 +27,4 @@
 			- The novel wasn't really patriotic because out of the 333 pages only 25 contained patriotic passages while 120 were devoted to anti-Catholic attacks.
 	- Jesus Paredes, a radio commentator, declared that since some parts of the novels had been declared *objectionable matter* by the hierarchy, Catholics have the right to refuse to read them for the sake of their salvation.
 	- Another radio commentator offered the interesting speculation that the bill was Recto's revenge against Catholic voters who, together with Magsaysay, were responsible for his poor showing in the 1955 senatorial elections.
+- 
