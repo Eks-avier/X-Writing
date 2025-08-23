@@ -5,12 +5,20 @@
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
     },
     {
-      "basename": "Krátos (Greek)",
-      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
-    },
-    {
       "basename": "Notepad 11",
       "path": "Notepad 11.md"
+    },
+    {
+      "basename": "Rizal Law and the Catholic Hierarchy",
+      "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
+    },
+    {
+      "basename": "Filipino Essay",
+      "path": "Filipino Essay.md"
+    },
+    {
+      "basename": "Krátos (Greek)",
+      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Psionics",
@@ -29,10 +37,6 @@
       "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
     },
     {
-      "basename": "Rizal Law and the Catholic Hierarchy",
-      "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
-    },
-    {
       "basename": "psionics-system",
       "path": "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Art of Commitments",
       "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
-    },
-    {
-      "basename": "Filipino Essay",
-      "path": "Filipino Essay.md"
     },
     {
       "basename": "Sorcery Redefined",
@@ -195,10 +195,6 @@
     {
       "basename": "godric-hyperthymesia-adaptation",
       "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md"
-    },
-    {
-      "basename": "hyperthymesia_japanese_integration",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/hyperthymesia_japanese_integration.md"
     }
   ],
   "omittedPaths": [],

@@ -8,192 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2063bdced0d7333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Antitheriomorphosis/Characters/Godzilla III/OpusOrganized.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OpusOrganized"
-            }
-          },
-          {
-            "id": "6758371317d088c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spending.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spending"
-            }
-          },
-          {
-            "id": "c894745d267dbbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fundamental Forces Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Fundamental Forces Theory"
-            }
-          },
-          {
-            "id": "dd0612a38f21e596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "godric-hyperthymesia-adaptation"
-            }
-          },
-          {
-            "id": "d1f3ef64d13afb4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notepad.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notepad"
-            }
-          },
-          {
-            "id": "d3b0230e4d7fd775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notepad 10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notepad 10"
-            }
-          },
-          {
-            "id": "4fdef8fb5f4c9b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unrefined - Base Physical Capabilities"
-            }
-          },
-          {
             "id": "f99e82848841319f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -1529.1910975604262,
-                  "y": -6120.863231241551,
-                  "zoom": -3.780625330693384
+                  "x": -444.70802437881963,
+                  "y": 1106.7846489891149,
+                  "zoom": -1.3503311807637193
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos (Greek)"
+              "title": "Krátos (English)"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -376,6 +207,7 @@
   },
   "active": "f99e82848841319f",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",

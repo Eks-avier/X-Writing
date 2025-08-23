@@ -7454,8 +7454,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755732157426,
-      "modifiedDate": 1755921193731,
-      "sizeInBytes": 15100,
+      "modifiedDate": 1755917983415,
+      "sizeInBytes": 15075,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2,
@@ -8631,38 +8631,6 @@
         "characterCount": 750,
         "nonWhitespaceCharacterCount": 600,
         "newlineCount": 47
-      }
-    },
-    "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 129,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.43,
-      "characterCount": 1514,
-      "nonWhitespaceCharacterCount": 1265,
-      "newlineCount": 109,
-      "readingTimeInMinutes": 0.4867924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755134975036,
-      "modifiedDate": 1755905841523,
-      "sizeInBytes": 23536,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "tags": [
-          "power_system"
-        ]
       }
     }
   }
