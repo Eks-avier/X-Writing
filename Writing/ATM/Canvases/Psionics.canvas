@@ -4,7 +4,7 @@
 		{
 			"id":"3f3b6c9ed31abdd4",
 			"type":"text",
-			"text":"# PSI ENERGY",
+			"text":"# PSIENERGY",
 			"styleAttributes":{},
 			"x":520,
 			"y":-580,
@@ -64,7 +64,7 @@
 		{
 			"id":"4714f8457a2b9436",
 			"type":"text",
-			"text":"# PSI FORCE",
+			"text":"# PSIFORCE",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-420,
 			"y":-580,

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Journal/Untitled.md"
+      "basename": "Sorcery Redefined",
+      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
+    },
+    {
+      "basename": "Sorcery",
+      "path": "Writing/ATM/Canvases/Sorcery.canvas"
+    },
+    {
+      "basename": "Psionics",
+      "path": "Writing/ATM/Canvases/Psionics.canvas"
     },
     {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Journal/Untitled.md"
+    },
+    {
+      "basename": "Rizal Law and the Catholic Hierarchy",
+      "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
     },
     {
       "basename": "Krátos (Greek)",
@@ -15,10 +31,6 @@
     {
       "basename": "Notepad 11",
       "path": "Notepad 11.md"
-    },
-    {
-      "basename": "Psionics",
-      "path": "Writing/ATM/Canvases/Psionics.canvas"
     },
     {
       "basename": "Drawing 2025-08-19 14.52.10.excalidraw",
@@ -33,16 +45,8 @@
       "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
     },
     {
-      "basename": "Rizal Law and the Catholic Hierarchy",
-      "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
-    },
-    {
       "basename": "psionics-system",
       "path": "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md"
-    },
-    {
-      "basename": "Sorcery",
-      "path": "Writing/ATM/Canvases/Sorcery.canvas"
     },
     {
       "basename": "Art of Spell Casting",
@@ -55,10 +59,6 @@
     {
       "basename": "Filipino Essay",
       "path": "Filipino Essay.md"
-    },
-    {
-      "basename": "Sorcery Redefined",
-      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     },
     {
       "basename": "Unrefined - The Art of Commitments",
@@ -195,10 +195,6 @@
     {
       "basename": "Concept - Medieval AU",
       "path": "Writing/ATM/Story Arcs/Concept - Medieval AU.md"
-    },
-    {
-      "basename": "godric-hyperthymesia-adaptation",
-      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md"
     }
   ],
   "omittedPaths": [],

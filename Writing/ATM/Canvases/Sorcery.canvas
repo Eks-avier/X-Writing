@@ -9,11 +9,27 @@
 		{"id":"eaef8a42f9aba0d5","fromNode":"6e65128452019efd","fromSide":"bottom","toNode":"ad6d50c00dc23ccb","toSide":"top"},
 		{"id":"8f17d1b7f9df03de","fromNode":"6e65128452019efd","fromSide":"left","toNode":"f02cc22aa5fe7d1d","toSide":"right"},
 		{"id":"c17fc34eb656e06f","fromNode":"48051e5339e046e5","fromSide":"top","toNode":"ec081defddd1e677","toSide":"bottom"},
-		{"id":"84bda140475a0e38","fromNode":"02635fbd96ff3fbf","fromSide":"bottom","toNode":"42f904a9fa37d44a","toSide":"left"},
+		{
+			"id":"84bda140475a0e38",
+			"fromFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"02635fbd96ff3fbf",
+			"fromSide":"bottom",
+			"toNode":"42f904a9fa37d44a",
+			"toSide":"left"
+		},
 		{"id":"b442dffff56fb5be","fromNode":"bd0a9015aa043908","fromSide":"right","toNode":"27e7753b3f27d6e9","toSide":"left"},
 		{"id":"b2d883d887921bc2","fromNode":"7dfb401b34014363","fromSide":"bottom","toNode":"1abd59ceea39e021","toSide":"left"},
 		{"id":"ceb5d8856e4ba3b7","fromNode":"e4fb9ffbf1fa5664","fromSide":"bottom","toNode":"7dfb401b34014363","toSide":"left"},
-		{"id":"37b659ff2c5c06e5","fromNode":"8924aac1ccb068cc","fromSide":"right","toNode":"02635fbd96ff3fbf","toSide":"left","toEnd":"none"},
+		{
+			"id":"37b659ff2c5c06e5",
+			"fromFloating":false,
+			"styleAttributes":{"path":"dotted"},
+			"fromNode":"02635fbd96ff3fbf",
+			"fromSide":"left",
+			"toNode":"8924aac1ccb068cc",
+			"toSide":"right"
+		},
 		{"id":"dad930ce4faba83f","fromNode":"d839f9e5be513a69","fromSide":"bottom","toNode":"6e65128452019efd","toSide":"top"},
 		{"id":"3d7ebd8ab955d9f7","fromNode":"bd0a9015aa043908","fromSide":"left","toNode":"5c81e4b9500ce2e3","toSide":"right"},
 		{"id":"6f0246872db8dcc7","fromNode":"02635fbd96ff3fbf","fromSide":"bottom","toNode":"df078f405475f5d2","toSide":"top"},
@@ -85,16 +101,6 @@
 			"label":"Classical Elements"
 		},
 		{
-			"id":"02635fbd96ff3fbf",
-			"styleAttributes":{},
-			"text":"# Primus, the Foundation of Magic",
-			"type":"text",
-			"x":-311,
-			"y":-920,
-			"width":551,
-			"height":60
-		},
-		{
 			"id":"8924aac1ccb068cc",
 			"styleAttributes":{},
 			"text":"# The Null",
@@ -112,86 +118,6 @@
 			"x":-1107,
 			"y":200,
 			"width":254,
-			"height":60
-		},
-		{
-			"id":"1abd59ceea39e021",
-			"styleAttributes":{},
-			"text":"# Silent Casting",
-			"type":"text",
-			"x":1373,
-			"y":888,
-			"width":288,
-			"height":59
-		},
-		{
-			"id":"cde67964437c3d79",
-			"styleAttributes":{},
-			"text":"# Promises",
-			"type":"text",
-			"x":424,
-			"y":1247,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"366559e077a3dca7",
-			"styleAttributes":{},
-			"text":"# Oaths",
-			"type":"text",
-			"x":424,
-			"y":1307,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"9ff5a02b971faf3b",
-			"styleAttributes":{},
-			"text":"# Vows",
-			"type":"text",
-			"x":424,
-			"y":1367,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"25c9fbf6620776f3",
-			"styleAttributes":{},
-			"text":"# Covenants",
-			"type":"text",
-			"x":424,
-			"y":1427,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"bd0a9015aa043908",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Casting",
-			"type":"text",
-			"x":-252,
-			"y":626,
-			"width":464,
-			"height":60
-		},
-		{
-			"id":"e195ff79ab69aab8",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Optimization",
-			"type":"text",
-			"x":-252,
-			"y":746,
-			"width":464,
-			"height":50
-		},
-		{
-			"id":"07e42a0e3bbad991",
-			"styleAttributes":{},
-			"text":"# The Art of Spell Keeping",
-			"type":"text",
-			"x":-252,
-			"y":686,
-			"width":464,
 			"height":60
 		},
 		{
@@ -235,13 +161,63 @@
 			"height":60
 		},
 		{
-			"id":"ad6d50c00dc23ccb",
+			"id":"f02cc22aa5fe7d1d",
 			"styleAttributes":{},
-			"text":"# Elemental Energy",
+			"text":"# Alchemy",
 			"type":"text",
-			"x":123,
-			"y":-76,
-			"width":306,
+			"x":-785,
+			"y":-276,
+			"width":236,
+			"height":60
+		},
+		{
+			"id":"424ab37a24091056",
+			"styleAttributes":{},
+			"text":"# Curses",
+			"type":"text",
+			"x":-756,
+			"y":72,
+			"width":179,
+			"height":60
+		},
+		{
+			"id":"cde67964437c3d79",
+			"styleAttributes":{},
+			"text":"# Promises",
+			"type":"text",
+			"x":424,
+			"y":1247,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"366559e077a3dca7",
+			"styleAttributes":{},
+			"text":"# Oaths",
+			"type":"text",
+			"x":424,
+			"y":1307,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"9ff5a02b971faf3b",
+			"styleAttributes":{},
+			"text":"# Vows",
+			"type":"text",
+			"x":424,
+			"y":1367,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"25c9fbf6620776f3",
+			"styleAttributes":{},
+			"text":"# Covenants",
+			"type":"text",
+			"x":424,
+			"y":1427,
+			"width":300,
 			"height":60
 		},
 		{
@@ -265,36 +241,6 @@
 			"height":60
 		},
 		{
-			"id":"e4fb9ffbf1fa5664",
-			"styleAttributes":{},
-			"text":"# Incantations",
-			"type":"text",
-			"x":873,
-			"y":695,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"ec081defddd1e677",
-			"styleAttributes":{},
-			"text":"# Spells",
-			"type":"text",
-			"x":-95,
-			"y":300,
-			"width":151,
-			"height":60
-		},
-		{
-			"id":"1335ca0a0a5eef0d",
-			"styleAttributes":{},
-			"text":"# The Art of Commitments",
-			"type":"text",
-			"x":-252,
-			"y":796,
-			"width":464,
-			"height":50
-		},
-		{
 			"id":"f09b6671075bbb45",
 			"styleAttributes":{},
 			"text":"# Contracts",
@@ -302,6 +248,36 @@
 			"x":424,
 			"y":1187,
 			"width":300,
+			"height":60
+		},
+		{
+			"id":"02635fbd96ff3fbf",
+			"styleAttributes":{},
+			"text":"# Primus, the Foundation of Magic",
+			"type":"text",
+			"x":-311,
+			"y":-920,
+			"width":551,
+			"height":60
+		},
+		{
+			"id":"1abd59ceea39e021",
+			"styleAttributes":{},
+			"text":"# Silent Casting",
+			"type":"text",
+			"x":1373,
+			"y":888,
+			"width":288,
+			"height":59
+		},
+		{
+			"id":"e4fb9ffbf1fa5664",
+			"styleAttributes":{},
+			"text":"# Incantations",
+			"type":"text",
+			"x":873,
+			"y":695,
+			"width":250,
 			"height":60
 		},
 		{
@@ -315,26 +291,6 @@
 			"height":60
 		},
 		{
-			"id":"6e65128452019efd",
-			"styleAttributes":{},
-			"text":"# Structured Primus",
-			"type":"text",
-			"x":-208,
-			"y":-276,
-			"width":344,
-			"height":60
-		},
-		{
-			"id":"f02cc22aa5fe7d1d",
-			"styleAttributes":{},
-			"text":"# Alchemy",
-			"type":"text",
-			"x":-785,
-			"y":-276,
-			"width":236,
-			"height":60
-		},
-		{
 			"id":"f943b1535115789c",
 			"styleAttributes":{},
 			"text":"# Cursed Energy",
@@ -343,26 +299,6 @@
 			"y":-76,
 			"width":278,
 			"height":60
-		},
-		{
-			"id":"424ab37a24091056",
-			"styleAttributes":{},
-			"text":"# Curses",
-			"type":"text",
-			"x":-756,
-			"y":72,
-			"width":179,
-			"height":60
-		},
-		{
-			"id":"42f904a9fa37d44a",
-			"styleAttributes":{},
-			"text":"# Primus Manipulation",
-			"type":"text",
-			"x":391,
-			"y":-780,
-			"width":357,
-			"height":65
 		},
 		{
 			"id":"b3e7b929f106cc71",
@@ -405,6 +341,76 @@
 			"height":55
 		},
 		{
+			"id":"bd0a9015aa043908",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Casting",
+			"type":"text",
+			"x":-252,
+			"y":626,
+			"width":464,
+			"height":60
+		},
+		{
+			"id":"e195ff79ab69aab8",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Optimization",
+			"type":"text",
+			"x":-252,
+			"y":746,
+			"width":464,
+			"height":50
+		},
+		{
+			"id":"07e42a0e3bbad991",
+			"styleAttributes":{},
+			"text":"# The Art of Spell Keeping",
+			"type":"text",
+			"x":-252,
+			"y":686,
+			"width":464,
+			"height":60
+		},
+		{
+			"id":"ad6d50c00dc23ccb",
+			"styleAttributes":{},
+			"text":"# Elemental Energy",
+			"type":"text",
+			"x":123,
+			"y":-76,
+			"width":306,
+			"height":60
+		},
+		{
+			"id":"ec081defddd1e677",
+			"styleAttributes":{},
+			"text":"# Spells",
+			"type":"text",
+			"x":-95,
+			"y":300,
+			"width":151,
+			"height":60
+		},
+		{
+			"id":"1335ca0a0a5eef0d",
+			"styleAttributes":{},
+			"text":"# The Art of Commitments",
+			"type":"text",
+			"x":-252,
+			"y":796,
+			"width":464,
+			"height":50
+		},
+		{
+			"id":"6e65128452019efd",
+			"styleAttributes":{},
+			"text":"# Structured Primus",
+			"type":"text",
+			"x":-208,
+			"y":-276,
+			"width":344,
+			"height":60
+		},
+		{
 			"id":"d839f9e5be513a69",
 			"styleAttributes":{},
 			"text":"#  Soul Infusion",
@@ -413,6 +419,16 @@
 			"y":-480,
 			"width":297,
 			"height":60
+		},
+		{
+			"id":"42f904a9fa37d44a",
+			"styleAttributes":{},
+			"text":"# Primus Manipulation",
+			"type":"text",
+			"x":400,
+			"y":-800,
+			"width":357,
+			"height":65
 		}
 	],
 	"metadata":{

@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "84a02b2c32f3e59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Untitled.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "945fcc965a95350a",
             "type": "leaf",
             "state": {
@@ -78,9 +54,43 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.10"
             }
+          },
+          {
+            "id": "0ab5916fdaf22b3f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/Psionics.canvas",
+                "viewState": {
+                  "x": 238.19366114965214,
+                  "y": -261.98723631020744,
+                  "zoom": -1.3742409017889128
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Psionics"
+            }
+          },
+          {
+            "id": "5bbf688554be2e79",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+                "viewState": {
+                  "x": 543.7236400832941,
+                  "y": 296.8009999334934,
+                  "zoom": -1.112968817036249
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sorcery Redefined"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -310,16 +320,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "84a02b2c32f3e59b",
+  "active": "5bbf688554be2e79",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Sorcery.canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Canvases/Magic.md",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Journal/Untitled.md",
+    "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
     "Notepad 11.md",
-    "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Filipino Essay.md",
     "Answers to Questions.md",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
@@ -333,7 +346,6 @@
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "College/1T2526",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
-    "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
     "German Vocabulary - Nouns (A1).txt",
@@ -341,7 +353,6 @@
     "~syncthing~German Vocabulary - Nouns (A1).txt.tmp",
     "~syncthing~Notepad 10.md.tmp",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
-    "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",
@@ -354,7 +365,6 @@
     "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
     "College/3Q2425/Light and Optics.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "College/3Q2425/College.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",

@@ -27,16 +27,6 @@
 			"label":"SEAT OF IDENTITY"
 		},
 		{
-			"id":"24fb9d93632b18cc",
-			"type":"text",
-			"text":"# SOUL INFUSION",
-			"styleAttributes":{},
-			"x":1048,
-			"y":-700,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"8f0eb6b5ffa8d888",
 			"type":"text",
 			"text":"# UNNUL",
@@ -101,56 +91,6 @@
 			"color":"2"
 		},
 		{
-			"id":"b23b2f192f98c41c",
-			"type":"text",
-			"text":"# COVENANT",
-			"styleAttributes":{},
-			"x":2400,
-			"y":-380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5c71c02a6d8d4ab0",
-			"type":"text",
-			"text":"# PROMISE",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-240,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4fc8e0dc1077c053",
-			"type":"text",
-			"text":"# OATH",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-160,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"feead97e953566ac",
-			"type":"text",
-			"text":"# VOW",
-			"styleAttributes":{},
-			"x":1660,
-			"y":-320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d47035e6d84c4563",
-			"type":"text",
-			"text":"# COMMITMENTS",
-			"styleAttributes":{},
-			"x":1945,
-			"y":-520,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"83aab552cd96efc5",
 			"type":"text",
 			"text":"# SOUL RESONANCE",
@@ -161,12 +101,22 @@
 			"height":60
 		},
 		{
-			"id":"98b4257fbfbbda11",
+			"id":"b23b2f192f98c41c",
 			"type":"text",
-			"text":"# CONTRACT",
+			"text":"# COVENANT",
 			"styleAttributes":{},
-			"x":1660,
-			"y":-400,
+			"x":2400,
+			"y":-380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d47035e6d84c4563",
+			"type":"text",
+			"text":"# COMMITMENTS",
+			"styleAttributes":{},
+			"x":1945,
+			"y":-520,
 			"width":260,
 			"height":60
 		},
@@ -188,138 +138,6 @@
 			"x":2075,
 			"y":-1180,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"44b8e3737bd5774e",
-			"type":"text",
-			"text":"# ARTICULATION  ",
-			"styleAttributes":{},
-			"x":1043,
-			"y":220,
-			"width":277,
-			"height":60
-		},
-		{
-			"id":"c6e1045107e9c264",
-			"type":"text",
-			"text":"# EXECUTION",
-			"styleAttributes":{},
-			"x":1051,
-			"y":320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f457e3d01b62932c",
-			"type":"text",
-			"text":"# SPELL",
-			"styleAttributes":{},
-			"x":1082,
-			"y":480,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"e2dc80174da9d165",
-			"type":"text",
-			"text":"# BLESSED ENERGY (BE)",
-			"styleAttributes":{},
-			"x":968,
-			"y":-160,
-			"width":425,
-			"height":60
-		},
-		{
-			"id":"2ada85b915366ca3",
-			"type":"text",
-			"text":"# ELEMENTAL ENERGY (EE)",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":968,
-			"y":-80,
-			"width":425,
-			"height":60
-		},
-		{
-			"id":"bde3791a108823ba",
-			"type":"text",
-			"text":"# PHYSICAL ENERGIES (PHYSE)",
-			"styleAttributes":{"textAlign":"center"},
-			"x":968,
-			"y":0,
-			"width":425,
-			"height":60
-		},
-		{
-			"id":"fffd9611c0c8eda7",
-			"type":"text",
-			"text":"# CURSED ENERGY (CE)",
-			"styleAttributes":{},
-			"x":968,
-			"y":-240,
-			"width":424,
-			"height":60
-		},
-		{
-			"id":"7758587a9084e9a8",
-			"type":"text",
-			"text":"#  VISUALIZATION",
-			"styleAttributes":{},
-			"x":1042,
-			"y":120,
-			"width":277,
-			"height":60
-		},
-		{
-			"id":"5fa30e53ccd862c8",
-			"type":"text",
-			"text":"# IMPERATIVES",
-			"styleAttributes":{},
-			"x":380,
-			"y":-390,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"23771bf6e6ccf2ae",
-			"type":"text",
-			"text":"# CONDITIONALS",
-			"styleAttributes":{},
-			"x":380,
-			"y":-310,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"47ada42f062ed6e3",
-			"type":"text",
-			"text":"# RESPONSIVES",
-			"styleAttributes":{},
-			"x":380,
-			"y":-230,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"bd3d1f5743e301a1",
-			"type":"text",
-			"text":"# TECHNIQUES",
-			"styleAttributes":{},
-			"x":380,
-			"y":-470,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"327bb339e9d2d529",
-			"type":"text",
-			"text":"# TRADITIONALS",
-			"styleAttributes":{},
-			"x":380,
-			"y":-550,
-			"width":280,
 			"height":60
 		},
 		{
@@ -373,6 +191,158 @@
 			"height":60
 		},
 		{
+			"id":"5c71c02a6d8d4ab0",
+			"type":"text",
+			"text":"# PROMISE",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4fc8e0dc1077c053",
+			"type":"text",
+			"text":"# OATH",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"feead97e953566ac",
+			"type":"text",
+			"text":"# VOW",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"98b4257fbfbbda11",
+			"type":"text",
+			"text":"# CONTRACT",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"44b8e3737bd5774e",
+			"type":"text",
+			"text":"# ARTICULATION  ",
+			"styleAttributes":{},
+			"x":1043,
+			"y":220,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"c6e1045107e9c264",
+			"type":"text",
+			"text":"# EXECUTION",
+			"styleAttributes":{},
+			"x":1051,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f457e3d01b62932c",
+			"type":"text",
+			"text":"# SPELL",
+			"styleAttributes":{},
+			"x":1082,
+			"y":480,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"bde3791a108823ba",
+			"type":"text",
+			"text":"# PHYSICAL ENERGIES (PHYSE)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":968,
+			"y":0,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"7758587a9084e9a8",
+			"type":"text",
+			"text":"#  VISUALIZATION",
+			"styleAttributes":{},
+			"x":1042,
+			"y":120,
+			"width":277,
+			"height":60
+		},
+		{
+			"id":"24fb9d93632b18cc",
+			"type":"text",
+			"text":"# SOUL INFUSION",
+			"styleAttributes":{},
+			"x":1048,
+			"y":-700,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e2dc80174da9d165",
+			"type":"text",
+			"text":"# BLESSED ENERGY (BE)",
+			"styleAttributes":{},
+			"x":968,
+			"y":-160,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"2ada85b915366ca3",
+			"type":"text",
+			"text":"# ELEMENTAL ENERGY (EE)",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":968,
+			"y":-80,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"fffd9611c0c8eda7",
+			"type":"text",
+			"text":"# CURSED ENERGY (CE)",
+			"styleAttributes":{},
+			"x":968,
+			"y":-240,
+			"width":424,
+			"height":60
+		},
+		{
+			"id":"bd3d1f5743e301a1",
+			"type":"text",
+			"text":"# TECHNIQUES",
+			"styleAttributes":{},
+			"x":380,
+			"y":-470,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"327bb339e9d2d529",
+			"type":"text",
+			"text":"# TRADITIONALS",
+			"styleAttributes":{},
+			"x":380,
+			"y":-550,
+			"width":280,
+			"height":60
+		},
+		{
 			"id":"91d1b226b647c6c6",
 			"type":"text",
 			"text":"# PRIMUS ENERGY",
@@ -395,6 +365,36 @@
 			"height":60
 		},
 		{
+			"id":"5fa30e53ccd862c8",
+			"type":"text",
+			"text":"# IMPERATIVES",
+			"styleAttributes":{},
+			"x":380,
+			"y":-390,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"23771bf6e6ccf2ae",
+			"type":"text",
+			"text":"# CONDITIONALS",
+			"styleAttributes":{},
+			"x":380,
+			"y":-310,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"47ada42f062ed6e3",
+			"type":"text",
+			"text":"# RESPONSIVES",
+			"styleAttributes":{},
+			"x":380,
+			"y":-230,
+			"width":280,
+			"height":60
+		},
+		{
 			"id":"1df869af7c61f91d",
 			"type":"text",
 			"text":"# COMPOSITIONALS",
@@ -402,6 +402,16 @@
 			"x":380,
 			"y":-150,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"80d512fbbb80f4ed",
+			"type":"text",
+			"text":"INCANT",
+			"styleAttributes":{},
+			"x":240,
+			"y":240,
+			"width":260,
 			"height":60
 		}
 	],

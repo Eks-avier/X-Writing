@@ -51,18 +51,6 @@
 			"color":"#ffd700"
 		},
 		{
-			"id":"ff382cce487cf092",
-			"type":"text",
-			"text":"# CONQUEROR'S LATENCY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":400,
-			"y":60,
-			"width":360,
-			"height":60
-		},
-		{
 			"id":"b83ebb46387d5c4b",
 			"type":"text",
 			"text":"# BIOLOGY",
@@ -113,6 +101,52 @@
 			"height":60
 		},
 		{
+			"id":"bdc1ff3939a55972",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1380,
+			"y":200,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"6c1655cc03335d12",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1180,
+			"y":0,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"ef620ee75f9a861e",
+			"type":"text",
+			"text":"# KOINON'S RESOLVE",
+			"styleAttributes":{},
+			"x":-980,
+			"y":200,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"ff382cce487cf092",
+			"type":"text",
+			"text":"# CONQUEROR'S LATENCY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":400,
+			"y":60,
+			"width":360,
+			"height":60
+		},
+		{
 			"id":"8c5bd2ad12fe58b7",
 			"type":"text",
 			"text":"# CONQUEROR'S DESIRE",
@@ -139,30 +173,6 @@
 			"styleAttributes":{},
 			"x":-240,
 			"y":-80,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"bdc1ff3939a55972",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1380,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"6c1655cc03335d12",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1180,
-			"y":0,
 			"width":340,
 			"height":60
 		},
@@ -257,16 +267,6 @@
 			"height":60
 		},
 		{
-			"id":"ef620ee75f9a861e",
-			"type":"text",
-			"text":"# KOINON'S RESOLVE",
-			"styleAttributes":{},
-			"x":-980,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
 			"id":"d9bd49765845bd9e",
 			"type":"text",
 			"text":"# BIOLOGY",
@@ -274,6 +274,46 @@
 			"x":-1140,
 			"y":960,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"b20eb1286a3e9117",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1571,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3a9f569ad6aac8de",
+			"type":"text",
+			"text":"# PYRENIKON",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":1440,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"26a6af974de63907",
+			"type":"text",
+			"text":"# ELEKTROMAGNETON",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":1520,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"3f1861936fc2cdc2",
+			"type":"text",
+			"text":"# BARYTON",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":1600,
+			"width":300,
 			"height":60
 		},
 		{
@@ -334,46 +374,6 @@
 			"x":400,
 			"y":340,
 			"width":360,
-			"height":60
-		},
-		{
-			"id":"b20eb1286a3e9117",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1571,
-			"y":1160,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3a9f569ad6aac8de",
-			"type":"text",
-			"text":"# PYRENIKON",
-			"styleAttributes":{},
-			"x":-1560,
-			"y":1440,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"26a6af974de63907",
-			"type":"text",
-			"text":"# ELEKTROMAGNETON",
-			"styleAttributes":{},
-			"x":-1560,
-			"y":1520,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"3f1861936fc2cdc2",
-			"type":"text",
-			"text":"# BARYTON",
-			"styleAttributes":{},
-			"x":-1560,
-			"y":1600,
-			"width":300,
 			"height":60
 		},
 		{
