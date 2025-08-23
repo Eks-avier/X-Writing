@@ -23,24 +23,17 @@
             "id": "84a02b2c32f3e59b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notepad 11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "viewState": {
+                  "x": -840.0897445974739,
+                  "y": 1106.042690584597,
+                  "zoom": -0.9892449910429417
                 }
               },
-              "icon": "lucide-file",
-              "title": "Notepad 11"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos (English)"
             }
           },
           {
@@ -312,11 +305,11 @@
   },
   "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
+    "Notepad 11.md",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Filipino Essay.md",
     "Answers to Questions.md",
-    "Notepad 11.md",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/Krátos (English).md",
