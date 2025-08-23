@@ -20,13 +20,13 @@
 			"height":350,
 			"color":"5"
 		},
-		{"id":"7a3963b21997132f","type":"group","x":-380,"y":1580,"width":300,"height":340,"color":"6","label":"The Four Elements"},
+		{"id":"7a3963b21997132f","type":"group","x":-560,"y":1640,"width":300,"height":340,"color":"6","label":"The Four Elements"},
 		{
 			"id":"c3b1d8567bd614ba",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
 			"x":-1360,
-			"y":1560,
+			"y":1640,
 			"width":340,
 			"height":260,
 			"color":"6",
@@ -567,12 +567,52 @@
 			"height":60
 		},
 		{
+			"id":"002c0c73318f0ba1",
+			"type":"text",
+			"text":"# PYROTŌN",
+			"styleAttributes":{},
+			"x":-540,
+			"y":1660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"16794349205bd892",
+			"type":"text",
+			"text":"# HYDROTŌN",
+			"styleAttributes":{},
+			"x":-540,
+			"y":1740,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b31b3777a3dc6dc9",
+			"type":"text",
+			"text":"# GEOTŌN",
+			"styleAttributes":{},
+			"x":-540,
+			"y":1820,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7d074fc3ac9626b6",
+			"type":"text",
+			"text":"# AEROTŌN",
+			"styleAttributes":{},
+			"x":-540,
+			"y":1900,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"3a9f569ad6aac8de",
 			"type":"text",
 			"text":"# PYRENIKON",
 			"styleAttributes":{},
 			"x":-1340,
-			"y":1580,
+			"y":1660,
 			"width":300,
 			"height":60
 		},
@@ -582,7 +622,7 @@
 			"text":"# ELEKTROMAGNETON",
 			"styleAttributes":{},
 			"x":-1340,
-			"y":1660,
+			"y":1740,
 			"width":300,
 			"height":60
 		},
@@ -592,7 +632,7 @@
 			"text":"# BARYTON",
 			"styleAttributes":{},
 			"x":-1340,
-			"y":1740,
+			"y":1820,
 			"width":300,
 			"height":60
 		},
@@ -614,46 +654,6 @@
 			"x":-936,
 			"y":1740,
 			"width":291,
-			"height":60
-		},
-		{
-			"id":"002c0c73318f0ba1",
-			"type":"text",
-			"text":"# PYROTŌN",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1600,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"16794349205bd892",
-			"type":"text",
-			"text":"# HYDROTŌN",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1680,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b31b3777a3dc6dc9",
-			"type":"text",
-			"text":"# GEOTŌN",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1760,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"7d074fc3ac9626b6",
-			"type":"text",
-			"text":"# AEROTŌN",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1840,
-			"width":260,
 			"height":60
 		}
 	],
