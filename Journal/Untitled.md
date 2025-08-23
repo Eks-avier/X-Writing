@@ -16,4 +16,4 @@
 ---
 
 1. Solving a science problem with a plan is important so that disasters due to chaos can be avoided.
-2. Among the people in my community who use the scientific method in doing their jobs are the dentists. They need to identify the problems in their patients  
+2. Among the people in my community who use the scientific method in doing their jobs are the dentists. They need to identify the problems in their patients' teeth correctly by using the  
