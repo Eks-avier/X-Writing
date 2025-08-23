@@ -472,42 +472,22 @@
 			"height":60
 		},
 		{
-			"id":"312b48594c8842d6",
-			"type":"text",
-			"text":"# EURYTATŌN",
-			"styleAttributes":{},
-			"x":-640,
-			"y":1220,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"67d3411c7adc1681",
-			"type":"text",
-			"text":"# STENOTATŌN",
-			"styleAttributes":{},
-			"x":-640,
-			"y":1280,
-			"width":280,
-			"height":60
-		},
-		{
 			"id":"31cb2274d2b1a782",
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-630,
+			"x":-710,
 			"y":1160,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"fb05ca454457b6b8",
+			"id":"312b48594c8842d6",
 			"type":"text",
-			"text":"# HOLOTATŌN ",
+			"text":"# EURYTATŌN",
 			"styleAttributes":{},
-			"x":-2021,
-			"y":1000,
+			"x":-270,
+			"y":1240,
 			"width":280,
 			"height":60
 		},
@@ -516,8 +496,28 @@
 			"type":"text",
 			"text":"# IDIOTATŌN",
 			"styleAttributes":{},
-			"x":-2021,
-			"y":1320,
+			"x":-2041,
+			"y":1240,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"fb05ca454457b6b8",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-2041,
+			"y":1080,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"67d3411c7adc1681",
+			"type":"text",
+			"text":"# STENOTATŌN",
+			"styleAttributes":{},
+			"x":-270,
+			"y":1080,
 			"width":280,
 			"height":60
 		}
@@ -757,6 +757,34 @@
 			"fromSide":"left",
 			"toNode":"868a60457829d8ea",
 			"toSide":"right"
+		},
+		{
+			"id":"a22aed58fafb2b57",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ad4e9bdc0d904b2",
+			"fromSide":"bottom",
+			"toNode":"31cb2274d2b1a782",
+			"toSide":"top"
+		},
+		{
+			"id":"7ff065c58542562d",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"31cb2274d2b1a782",
+			"fromSide":"right",
+			"toNode":"67d3411c7adc1681",
+			"toSide":"left"
+		},
+		{
+			"id":"be1eab3c3df6a11c",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"31cb2274d2b1a782",
+			"fromSide":"right",
+			"toNode":"312b48594c8842d6",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
