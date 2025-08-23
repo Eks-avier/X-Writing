@@ -7496,7 +7496,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755732157426,
-      "modifiedDate": 1755936902142,
+      "modifiedDate": 1755944024400,
       "sizeInBytes": 16013,
       "sessionStart": {
         "noteCount": 1,
@@ -8651,6 +8651,33 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307,
         "newlineCount": 10
+      }
+    },
+    "Journal/Untitled.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 506,
+      "nonWhitespaceCharacterCount": 409,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755944024259,
+      "modifiedDate": 1755944311708,
+      "sizeInBytes": 506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

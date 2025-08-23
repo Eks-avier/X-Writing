@@ -51,16 +51,6 @@
 			"color":"#ffd700"
 		},
 		{
-			"id":"a1dcf2b3d2b0bdc2",
-			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-200,
-			"y":340,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"ff382cce487cf092",
 			"type":"text",
 			"text":"# CONQUEROR'S LATENCY",
@@ -70,120 +60,6 @@
 			"x":400,
 			"y":60,
 			"width":360,
-			"height":60
-		},
-		{
-			"id":"ec1280c3cdc1b2c6",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":400,
-			"y":340,
-			"width":360,
-			"height":60
-		},
-		{
-			"id":"39a8edcb4149e53c",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":-1581,
-			"y":760,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"096eb450561528da",
-			"type":"text",
-			"text":"# ARISTŌN KRÁTON",
-			"styleAttributes":{},
-			"x":-1581,
-			"y":960,
-			"width":279,
-			"height":60
-		},
-		{
-			"id":"8662350d6eccbb79",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":560,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5b185c55bc5fcb62",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1140,
-			"y":760,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"bdc1ff3939a55972",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1380,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"ef620ee75f9a861e",
-			"type":"text",
-			"text":"# KOINON'S RESOLVE",
-			"styleAttributes":{},
-			"x":-980,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"6c1655cc03335d12",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1180,
-			"y":0,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"d9bd49765845bd9e",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1140,
-			"y":960,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2303ed028d870354",
-			"type":"text",
-			"text":"# MONOKRÁTON",
-			"styleAttributes":{},
-			"x":-720,
-			"y":760,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"3ad4e9bdc0d904b2",
-			"type":"text",
-			"text":"# KAKISTŌN KRÁTON",
-			"styleAttributes":{},
-			"x":-720,
-			"y":960,
-			"width":280,
 			"height":60
 		},
 		{
@@ -267,6 +143,30 @@
 			"height":60
 		},
 		{
+			"id":"bdc1ff3939a55972",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1380,
+			"y":200,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"6c1655cc03335d12",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1180,
+			"y":0,
+			"width":340,
+			"height":60
+		},
+		{
 			"id":"fb05ca454457b6b8",
 			"type":"text",
 			"text":"# HOLARISTŌN ",
@@ -287,22 +187,162 @@
 			"height":60
 		},
 		{
-			"id":"b20eb1286a3e9117",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1571,
-			"y":1160,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"5d0b24fa68a731ad",
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
 			"x":-2040,
 			"y":1520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cacd4acf36b3b562",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{},
+			"x":-2560,
+			"y":1480,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"88f4010bc43692da",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{},
+			"x":-2560,
+			"y":1560,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"39a8edcb4149e53c",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-1581,
+			"y":760,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"096eb450561528da",
+			"type":"text",
+			"text":"# ARISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-1581,
+			"y":960,
+			"width":279,
+			"height":60
+		},
+		{
+			"id":"8662350d6eccbb79",
+			"type":"text",
+			"text":"# MANIFESTATION",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5b185c55bc5fcb62",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1140,
+			"y":760,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ef620ee75f9a861e",
+			"type":"text",
+			"text":"# KOINON'S RESOLVE",
+			"styleAttributes":{},
+			"x":-980,
+			"y":200,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"d9bd49765845bd9e",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1140,
+			"y":960,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2303ed028d870354",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-720,
+			"y":760,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"3ad4e9bdc0d904b2",
+			"type":"text",
+			"text":"# KAKISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-720,
+			"y":960,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"31cb2274d2b1a782",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-710,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"002c0c73318f0ba1",
+			"type":"text",
+			"text":"# PYROTŌN",
+			"styleAttributes":{},
+			"x":-680,
+			"y":1640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a1dcf2b3d2b0bdc2",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-200,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ec1280c3cdc1b2c6",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":400,
+			"y":340,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"b20eb1286a3e9117",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1571,
+			"y":1160,
 			"width":260,
 			"height":60
 		},
@@ -337,36 +377,6 @@
 			"height":60
 		},
 		{
-			"id":"cacd4acf36b3b562",
-			"type":"text",
-			"text":"# PRIMOTON",
-			"styleAttributes":{},
-			"x":-2560,
-			"y":1480,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"88f4010bc43692da",
-			"type":"text",
-			"text":"# PRIMOTON",
-			"styleAttributes":{},
-			"x":-2560,
-			"y":1560,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"31cb2274d2b1a782",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-710,
-			"y":1160,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"0fda4a80fb8d6c77",
 			"type":"text",
 			"text":"# BIOLOGY",
@@ -382,16 +392,6 @@
 			"text":"# HYDROTŌN",
 			"styleAttributes":{},
 			"x":-380,
-			"y":1640,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"002c0c73318f0ba1",
-			"type":"text",
-			"text":"# PYROTŌN",
-			"styleAttributes":{},
-			"x":-680,
 			"y":1640,
 			"width":260,
 			"height":60

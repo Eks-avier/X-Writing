@@ -23,17 +23,24 @@
             "id": "84a02b2c32f3e59b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
-                "viewState": {
-                  "x": -908.4350362591185,
-                  "y": 596.7744479495268,
-                  "zoom": -2.0337356378597313
+                "file": "Journal/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos (English)"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -170,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -299,21 +305,23 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "84a02b2c32f3e59b",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Journal/Untitled.md",
+    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
     "Notepad 11.md",
-    "Writing/ATM/Canvases/Krátos (English).canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Filipino Essay.md",
     "Answers to Questions.md",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
-    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
@@ -346,8 +354,6 @@
     "College/3Q2425/Light and Optics.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "College/3Q2425/College.md",
-    "College/3Q2425/Practice Exam.md",
-    "Writing/ATM/Chapters/The First Arc",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
