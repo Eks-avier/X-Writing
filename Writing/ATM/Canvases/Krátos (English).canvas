@@ -20,6 +20,7 @@
 			"height":350,
 			"color":"5"
 		},
+		{"id":"89d231a97b42ef67","type":"group","x":-2280,"y":1420,"width":760,"height":300,"label":"FUNDAMENTAL"},
 		{
 			"id":"a0b6afaa1c018b9c",
 			"type":"group",
@@ -30,6 +31,28 @@
 			"height":100,
 			"color":"2",
 			"label":"THEMELION"
+		},
+		{
+			"id":"c3b1d8567bd614ba",
+			"type":"group",
+			"styleAttributes":{"border":"invisible"},
+			"x":-2250,
+			"y":1480,
+			"width":340,
+			"height":220,
+			"color":"4",
+			"label":"NATURAL"
+		},
+		{
+			"id":"6009f314a0eaa952",
+			"type":"group",
+			"styleAttributes":{"border":"invisible"},
+			"x":-1890,
+			"y":1500,
+			"width":340,
+			"height":180,
+			"color":"6",
+			"label":"SUPERNATURAL"
 		},
 		{"id":"3340fd5863b3e641","type":"group","x":-2060,"y":1100,"width":320,"height":180,"label":"Untitled group"},
 		{
@@ -503,56 +526,6 @@
 			"height":60
 		},
 		{
-			"id":"26a6af974de63907",
-			"type":"text",
-			"text":"# ELEKTROMAGNETON",
-			"styleAttributes":{},
-			"x":-1716,
-			"y":1440,
-			"width":291,
-			"height":60
-		},
-		{
-			"id":"3a9f569ad6aac8de",
-			"type":"text",
-			"text":"# PYRENIKON",
-			"styleAttributes":{},
-			"x":-1716,
-			"y":1380,
-			"width":291,
-			"height":60
-		},
-		{
-			"id":"3f1861936fc2cdc2",
-			"type":"text",
-			"text":"# BARYTON",
-			"styleAttributes":{},
-			"x":-1716,
-			"y":1500,
-			"width":291,
-			"height":60
-		},
-		{
-			"id":"88f4010bc43692da",
-			"type":"text",
-			"text":"# PRIMOTON",
-			"styleAttributes":{},
-			"x":-1360,
-			"y":1410,
-			"width":291,
-			"height":60
-		},
-		{
-			"id":"a182bb38de205d23",
-			"type":"text",
-			"text":"# PSIONITON",
-			"styleAttributes":{},
-			"x":-1360,
-			"y":1470,
-			"width":291,
-			"height":60
-		},
-		{
 			"id":"fb05ca454457b6b8",
 			"type":"text",
 			"text":"# HOLOTATŌN ",
@@ -570,6 +543,56 @@
 			"x":-2041,
 			"y":1200,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"3a9f569ad6aac8de",
+			"type":"text",
+			"text":"# PYRENIKON",
+			"styleAttributes":{},
+			"x":-2226,
+			"y":1500,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"26a6af974de63907",
+			"type":"text",
+			"text":"# ELEKTROMAGNETON",
+			"styleAttributes":{},
+			"x":-2226,
+			"y":1560,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"3f1861936fc2cdc2",
+			"type":"text",
+			"text":"# BARYTON",
+			"styleAttributes":{},
+			"x":-2226,
+			"y":1620,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"a182bb38de205d23",
+			"type":"text",
+			"text":"# PSIONITON",
+			"styleAttributes":{},
+			"x":-1866,
+			"y":1600,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"88f4010bc43692da",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{},
+			"x":-1866,
+			"y":1520,
+			"width":291,
 			"height":60
 		}
 	],
@@ -837,6 +860,15 @@
 			"fromSide":"right",
 			"toNode":"312b48594c8842d6",
 			"toSide":"left"
+		},
+		{
+			"id":"dc688d7df23d47e8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3340fd5863b3e641",
+			"fromSide":"bottom",
+			"toNode":"89d231a97b42ef67",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
