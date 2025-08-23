@@ -20,39 +20,34 @@
             }
           },
           {
-            "id": "945fcc965a95350a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rizal Law and the Catholic Hierarchy"
-            }
-          },
-          {
             "id": "eb99f3ba9f3b2079",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.9.10"
               },
+              "pinned": true,
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.10"
+            }
+          },
+          {
+            "id": "945fcc965a95350a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "viewState": {
+                  "x": -880,
+                  "y": 520,
+                  "zoom": -2.4317888635681686
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos (English)"
             }
           },
           {
@@ -80,9 +75,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 543.7236400832941,
-                  "y": 296.8009999334934,
-                  "zoom": -1.112968817036249
+                  "x": 480.6154836996743,
+                  "y": 329.24340420297574,
+                  "zoom": -1.4344708466870295
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -90,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,14 +315,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5bbf688554be2e79",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Magic.md",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Journal/Untitled.md",
-    "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
@@ -352,7 +348,6 @@
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
     "~syncthing~German Vocabulary - Nouns (A1).txt.tmp",
     "~syncthing~Notepad 10.md.tmp",
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
     "Notepad 9.md",
     "Writing/ATM/Magic System/Soul/Soul Resonance.md",

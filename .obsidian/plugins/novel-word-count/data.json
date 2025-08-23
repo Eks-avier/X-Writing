@@ -7361,8 +7361,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1743271055102,
-      "modifiedDate": 1755164729615,
-      "sizeInBytes": 9309,
+      "modifiedDate": 1755953462178,
+      "sizeInBytes": 9483,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24333333333333335,
@@ -7370,26 +7370,27 @@
         "characterCount": 566,
         "nonWhitespaceCharacterCount": 457,
         "newlineCount": 33
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Sorcery Redefined.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 67,
+      "wordCount": 72,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22333333333333333,
-      "characterCount": 586,
-      "nonWhitespaceCharacterCount": 480,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 0.2528301886792453,
+      "pageCount": 0.24,
+      "characterCount": 634,
+      "nonWhitespaceCharacterCount": 519,
+      "newlineCount": 41,
+      "readingTimeInMinutes": 0.27169811320754716,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1754773724584,
-      "modifiedDate": 1755134975093,
-      "sizeInBytes": 13093,
+      "modifiedDate": 1755953557178,
+      "sizeInBytes": 14117,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22333333333333333,
@@ -7397,7 +7398,8 @@
         "characterCount": 586,
         "nonWhitespaceCharacterCount": 480,
         "newlineCount": 37
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Psionics.canvas": {
       "isCountable": true,

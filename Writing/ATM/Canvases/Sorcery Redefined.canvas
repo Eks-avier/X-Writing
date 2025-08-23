@@ -407,10 +407,40 @@
 		{
 			"id":"80d512fbbb80f4ed",
 			"type":"text",
-			"text":"INCANT",
+			"text":"# INCANTATIONS",
 			"styleAttributes":{},
-			"x":240,
+			"x":40,
 			"y":240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"68d21c384bc2472d",
+			"type":"text",
+			"text":"# CHANTS",
+			"styleAttributes":{},
+			"x":40,
+			"y":380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"061397febd53c1a0",
+			"type":"text",
+			"text":"# GESTURES",
+			"styleAttributes":{},
+			"x":360,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2cd07cbad8101e3e",
+			"type":"text",
+			"text":"# HAND SIGNS",
+			"styleAttributes":{},
+			"x":360,
+			"y":380,
 			"width":260,
 			"height":60
 		}
@@ -656,6 +686,24 @@
 			"fromNode":"d3986bb5d2bff0d0",
 			"fromSide":"bottom",
 			"toNode":"91fcd583e1d7a4a1",
+			"toSide":"top"
+		},
+		{
+			"id":"aefc365623015cd9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"80d512fbbb80f4ed",
+			"fromSide":"bottom",
+			"toNode":"68d21c384bc2472d",
+			"toSide":"top"
+		},
+		{
+			"id":"8ecf337493fcc67d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"061397febd53c1a0",
+			"fromSide":"bottom",
+			"toNode":"2cd07cbad8101e3e",
 			"toSide":"top"
 		}
 	],
