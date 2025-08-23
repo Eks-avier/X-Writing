@@ -520,6 +520,56 @@
 			"y":-80,
 			"width":340,
 			"height":60
+		},
+		{
+			"id":"26a6af974de63907",
+			"type":"text",
+			"text":"# ELEKTROMAGNETON",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":1440,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"3a9f569ad6aac8de",
+			"type":"text",
+			"text":"# PYRENIKON",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":1380,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"3f1861936fc2cdc2",
+			"type":"text",
+			"text":"# BARYTON",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":1500,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"88f4010bc43692da",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{},
+			"x":-1369,
+			"y":1410,
+			"width":291,
+			"height":60
+		},
+		{
+			"id":"a182bb38de205d23",
+			"type":"text",
+			"text":"# PSIONITON",
+			"styleAttributes":{},
+			"x":-1369,
+			"y":1470,
+			"width":291,
+			"height":60
 		}
 	],
 	"edges":[
