@@ -31,6 +31,7 @@
 			"color":"2",
 			"label":"THEMELION"
 		},
+		{"id":"3340fd5863b3e641","type":"group","x":-2060,"y":1100,"width":320,"height":180,"label":"Untitled group"},
 		{
 			"id":"a1dcf2b3d2b0bdc2",
 			"type":"text",
@@ -155,26 +156,6 @@
 			"x":-1140,
 			"y":960,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"868a60457829d8ea",
-			"type":"text",
-			"text":"# IDIOTATŌN",
-			"styleAttributes":{},
-			"x":-2041,
-			"y":1240,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"fb05ca454457b6b8",
-			"type":"text",
-			"text":"# HOLOTATŌN ",
-			"styleAttributes":{},
-			"x":-2041,
-			"y":1080,
-			"width":280,
 			"height":60
 		},
 		{
@@ -526,7 +507,7 @@
 			"type":"text",
 			"text":"# ELEKTROMAGNETON",
 			"styleAttributes":{},
-			"x":-1660,
+			"x":-1716,
 			"y":1440,
 			"width":291,
 			"height":60
@@ -536,7 +517,7 @@
 			"type":"text",
 			"text":"# PYRENIKON",
 			"styleAttributes":{},
-			"x":-1660,
+			"x":-1716,
 			"y":1380,
 			"width":291,
 			"height":60
@@ -546,7 +527,7 @@
 			"type":"text",
 			"text":"# BARYTON",
 			"styleAttributes":{},
-			"x":-1660,
+			"x":-1716,
 			"y":1500,
 			"width":291,
 			"height":60
@@ -556,7 +537,7 @@
 			"type":"text",
 			"text":"# PRIMOTON",
 			"styleAttributes":{},
-			"x":-1369,
+			"x":-1360,
 			"y":1410,
 			"width":291,
 			"height":60
@@ -566,9 +547,29 @@
 			"type":"text",
 			"text":"# PSIONITON",
 			"styleAttributes":{},
-			"x":-1369,
+			"x":-1360,
 			"y":1470,
 			"width":291,
+			"height":60
+		},
+		{
+			"id":"fb05ca454457b6b8",
+			"type":"text",
+			"text":"# HOLOTATŌN ",
+			"styleAttributes":{},
+			"x":-2041,
+			"y":1120,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"868a60457829d8ea",
+			"type":"text",
+			"text":"# IDIOTATŌN",
+			"styleAttributes":{},
+			"x":-2041,
+			"y":1200,
+			"width":280,
 			"height":60
 		}
 	],
