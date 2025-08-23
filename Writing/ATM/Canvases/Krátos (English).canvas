@@ -6,7 +6,7 @@
 			"styleAttributes":{"border":"invisible"},
 			"x":-280,
 			"y":-180,
-			"width":980,
+			"width":1080,
 			"height":560,
 			"color":"#ffd700"
 		},
@@ -14,7 +14,7 @@
 			"id":"b42401c4d4b8c218",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
-			"x":-1520,
+			"x":-1440,
 			"y":-180,
 			"width":860,
 			"height":350,
@@ -24,64 +24,12 @@
 			"id":"a0b6afaa1c018b9c",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
-			"x":-1480,
+			"x":-1400,
 			"y":40,
 			"width":780,
 			"height":100,
 			"color":"2",
 			"label":"THEMELION"
-		},
-		{
-			"id":"8662350d6eccbb79",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-1220,
-			"y":480,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2303ed028d870354",
-			"type":"text",
-			"text":"# MONOKRÁTON",
-			"styleAttributes":{},
-			"x":-960,
-			"y":680,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"39a8edcb4149e53c",
-			"type":"text",
-			"text":"# POLYKRÁTON",
-			"styleAttributes":{},
-			"x":-1500,
-			"y":680,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"bdc1ff3939a55972",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1460,
-			"y":60,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"ef620ee75f9a861e",
-			"type":"text",
-			"text":"# KOINON'S RESOLVE",
-			"styleAttributes":{},
-			"x":-1060,
-			"y":60,
-			"width":340,
-			"height":60
 		},
 		{
 			"id":"8c5bd2ad12fe58b7",
@@ -111,18 +59,6 @@
 			"x":-200,
 			"y":280,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"6c1655cc03335d12",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1260,
-			"y":-140,
-			"width":340,
 			"height":60
 		},
 		{
@@ -173,28 +109,6 @@
 			"x":-1000,
 			"y":-660,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"ff382cce487cf092",
-			"type":"text",
-			"text":"# CONQUEROR'S LATENCY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":320,
-			"y":0,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"ec1280c3cdc1b2c6",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
-			"styleAttributes":{},
-			"x":320,
-			"y":280,
-			"width":340,
 			"height":60
 		},
 		{
@@ -444,13 +358,89 @@
 			"height":60
 		},
 		{
-			"id":"096eb450561528da",
+			"id":"ff382cce487cf092",
 			"type":"text",
-			"text":"# ARISTŌN KRÁTON",
+			"text":"# CONQUEROR'S LATENCY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":400,
+			"y":0,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"ec1280c3cdc1b2c6",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
 			"styleAttributes":{},
-			"x":-1500,
-			"y":860,
-			"width":279,
+			"x":400,
+			"y":280,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"6c1655cc03335d12",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1180,
+			"y":-140,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"bdc1ff3939a55972",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1380,
+			"y":60,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"ef620ee75f9a861e",
+			"type":"text",
+			"text":"# KOINON'S RESOLVE",
+			"styleAttributes":{},
+			"x":-980,
+			"y":60,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"8662350d6eccbb79",
+			"type":"text",
+			"text":"# MANIFESTATION",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":480,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"39a8edcb4149e53c",
+			"type":"text",
+			"text":"# POLYKRÁTON",
+			"styleAttributes":{},
+			"x":-1420,
+			"y":680,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"2303ed028d870354",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-880,
+			"y":680,
+			"width":280,
 			"height":60
 		},
 		{
@@ -458,9 +448,19 @@
 			"type":"text",
 			"text":"# KAKISTŌN KRÁTON",
 			"styleAttributes":{},
-			"x":-960,
+			"x":-880,
 			"y":830,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"096eb450561528da",
+			"type":"text",
+			"text":"# ARISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-1420,
+			"y":860,
+			"width":279,
 			"height":60
 		}
 	],
@@ -552,7 +552,7 @@
 			"fromSide":"right",
 			"toNode":"ff382cce487cf092",
 			"toSide":"left",
-			"label":"FRUITLESS"
+			"label":"FRUITLESSNESS"
 		},
 		{
 			"id":"b8a11e22499b2dbb",
@@ -609,6 +609,16 @@
 			"fromSide":"bottom",
 			"toNode":"2303ed028d870354",
 			"toSide":"top"
+		},
+		{
+			"id":"c3e814db5976adcc",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a1dcf2b3d2b0bdc2",
+			"fromSide":"bottom",
+			"toNode":"8662350d6eccbb79",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
