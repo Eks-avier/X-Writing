@@ -41,9 +41,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -880,
-                  "y": 520,
-                  "zoom": -2.4317888635681686
+                  "x": -402.94725805723454,
+                  "y": 146.87465472441733,
+                  "zoom": -1.1457807449650466
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -58,8 +58,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Psionics.canvas",
                 "viewState": {
-                  "x": 238.19366114965214,
-                  "y": -261.98723631020744,
+                  "x": 1074.8665741275909,
+                  "y": -103.84508668417664,
                   "zoom": -1.3742409017889128
                 }
               },
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -315,14 +315,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "0ab5916fdaf22b3f",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (English).canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Magic.md",
-    "Writing/ATM/Canvases/Krátos (English).canvas",
     "Journal/Untitled.md",
     "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
