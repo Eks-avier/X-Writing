@@ -174,7 +174,6 @@
 			"width":300,
 			"height":60
 		},
-		{"id":"d8c20f5581907c72","type":"text","text":"# COATING","x":-1160,"y":1300,"width":300,"height":60},
 		{
 			"id":"d9bd49765845bd9e",
 			"type":"text",
@@ -448,43 +447,63 @@
 			"height":60
 		},
 		{
-			"id":"13c5c07ae4880567",
+			"id":"71520068bcdee151",
 			"type":"text",
 			"text":"# NEUTRALIZATION",
 			"styleAttributes":{},
-			"x":-860,
-			"y":1520,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"527af163e74de4f8",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-1440,
-			"y":1520,
-			"width":300,
+			"x":-950,
+			"y":1740,
+			"width":290,
 			"height":60
 		},
 		{
 			"id":"a0938c6c100a815b",
 			"type":"text",
-			"text":"# CONQUEROR'S AURA",
+			"text":"# AURA OF THE CONQUEROR",
 			"styleAttributes":{},
-			"x":-1240,
-			"y":1780,
-			"width":300,
+			"x":-1450,
+			"y":1320,
+			"width":380,
 			"height":60
 		},
 		{
 			"id":"1bbbcd9f680217e4",
 			"type":"text",
-			"text":"AURA OF THE KOINON",
+			"text":"# AURA OF THE KOINON",
 			"styleAttributes":{},
-			"x":-1200,
-			"y":1860,
-			"width":260,
+			"x":-950,
+			"y":1320,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"6df0a0ffbf4fc95e",
+			"type":"text",
+			"text":"# ACTIVE COATING",
+			"styleAttributes":{},
+			"x":-900,
+			"y":1480,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"7aa4dc5de2441a7e",
+			"type":"text",
+			"text":"# PASSIVE COATING",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":1480,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"6a2c92c424b82297",
+			"type":"text",
+			"text":"# PENETRATION",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":1740,
+			"width":290,
 			"height":60
 		}
 	],
@@ -850,15 +869,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"9589b476484e022c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8245fc82e6d2a826",
-			"fromSide":"bottom",
-			"toNode":"d8c20f5581907c72",
-			"toSide":"top"
-		},
-		{
 			"id":"118cace561b98ca8",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -868,22 +878,52 @@
 			"toSide":"top"
 		},
 		{
-			"id":"afb38f6851e697e1",
-			"styleAttributes":{},
+			"id":"fe79af21e8692ed2",
+			"styleAttributes":{"pathfindingMethod":"square","path":"dotted"},
 			"toFloating":false,
-			"fromNode":"d8c20f5581907c72",
-			"fromSide":"bottom",
-			"toNode":"527af163e74de4f8",
-			"toSide":"right"
+			"fromFloating":false,
+			"fromNode":"8245fc82e6d2a826",
+			"fromSide":"left",
+			"toNode":"a0938c6c100a815b",
+			"toSide":"top"
 		},
 		{
-			"id":"1f3dc5edf867d175",
+			"id":"f366e5f8702d2fc5",
+			"styleAttributes":{"pathfindingMethod":"square","path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8245fc82e6d2a826",
+			"fromSide":"right",
+			"toNode":"1bbbcd9f680217e4",
+			"toSide":"top"
+		},
+		{
+			"id":"974d0855057ac227",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"d8c20f5581907c72",
+			"fromNode":"1bbbcd9f680217e4",
 			"fromSide":"bottom",
-			"toNode":"13c5c07ae4880567",
-			"toSide":"left"
+			"toNode":"6df0a0ffbf4fc95e",
+			"toSide":"top"
+		},
+		{
+			"id":"baf9bfaf078a6b68",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a0938c6c100a815b",
+			"fromSide":"bottom",
+			"toNode":"7aa4dc5de2441a7e",
+			"toSide":"top"
+		},
+		{
+			"id":"c408bff9ec71e315",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7aa4dc5de2441a7e",
+			"fromSide":"right",
+			"toNode":"6df0a0ffbf4fc95e",
+			"toSide":"left",
+			"toEnd":"none"
 		}
 	],
 	"metadata":{
