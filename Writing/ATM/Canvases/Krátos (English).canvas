@@ -11,21 +11,11 @@
 			"color":"6"
 		},
 		{
-			"id":"b42401c4d4b8c218",
-			"type":"group",
-			"styleAttributes":{"border":"invisible"},
-			"x":-1440,
-			"y":-40,
-			"width":860,
-			"height":350,
-			"color":"5"
-		},
-		{
 			"id":"a0b6afaa1c018b9c",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
 			"x":-1400,
-			"y":180,
+			"y":80,
 			"width":780,
 			"height":100,
 			"label":"THEMELION"
@@ -103,40 +93,6 @@
 			"height":60
 		},
 		{
-			"id":"bdc1ff3939a55972",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1380,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"6c1655cc03335d12",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1180,
-			"y":0,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"ef620ee75f9a861e",
-			"type":"text",
-			"text":"# KOINON'S RESOLVE",
-			"styleAttributes":{},
-			"x":-980,
-			"y":200,
-			"width":340,
-			"height":60
-		},
-		{
 			"id":"ff382cce487cf092",
 			"type":"text",
 			"text":"# CONQUEROR'S LATENCY",
@@ -206,6 +162,16 @@
 			"x":-2560,
 			"y":1560,
 			"width":300,
+			"height":60
+		},
+		{
+			"id":"fb05ca454457b6b8",
+			"type":"text",
+			"text":"# HOLARISTŌN ",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":1120,
+			"width":299,
 			"height":60
 		},
 		{
@@ -299,6 +265,16 @@
 			"height":60
 		},
 		{
+			"id":"868a60457829d8ea",
+			"type":"text",
+			"text":"# IDIARISTŌN",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":1200,
+			"width":299,
+			"height":60
+		},
+		{
 			"id":"3a9f569ad6aac8de",
 			"type":"text",
 			"text":"# PYRENIKON",
@@ -349,16 +325,6 @@
 			"height":60
 		},
 		{
-			"id":"0fda4a80fb8d6c77",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-260,
-			"y":1400,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"002c0c73318f0ba1",
 			"type":"text",
 			"text":"# PYROTŌN",
@@ -399,6 +365,16 @@
 			"height":60
 		},
 		{
+			"id":"0fda4a80fb8d6c77",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-260,
+			"y":1400,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"312b48594c8842d6",
 			"type":"text",
 			"text":"# EURYTATŌN",
@@ -419,23 +395,25 @@
 			"height":60
 		},
 		{
-			"id":"fb05ca454457b6b8",
+			"id":"ef620ee75f9a861e",
 			"type":"text",
-			"text":"# HOLARISTŌN ",
+			"text":"# KOINON'S RESOLVE",
 			"styleAttributes":{},
-			"x":-2060,
-			"y":1120,
-			"width":299,
+			"x":-980,
+			"y":100,
+			"width":340,
 			"height":60
 		},
 		{
-			"id":"868a60457829d8ea",
+			"id":"bdc1ff3939a55972",
 			"type":"text",
-			"text":"# IDIARISTŌN",
-			"styleAttributes":{},
-			"x":-2060,
-			"y":1200,
-			"width":299,
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1380,
+			"y":100,
+			"width":340,
 			"height":60
 		}
 	],
@@ -478,15 +456,6 @@
 			"toNode":"ef620ee75f9a861e",
 			"toSide":"left",
 			"toEnd":"none"
-		},
-		{
-			"id":"1418cb89368c568e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"6c1655cc03335d12",
-			"fromSide":"bottom",
-			"toNode":"a0b6afaa1c018b9c",
-			"toSide":"top"
 		},
 		{
 			"id":"0d4fa4c00647ca68",
@@ -584,16 +553,6 @@
 			"fromSide":"right",
 			"toNode":"3ad4e9bdc0d904b2",
 			"toSide":"left"
-		},
-		{
-			"id":"acba1abf4d14bbcd",
-			"styleAttributes":{"pathfindingMethod":"square","path":"long-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"b83ebb46387d5c4b",
-			"fromSide":"left",
-			"toNode":"6c1655cc03335d12",
-			"toSide":"top"
 		},
 		{
 			"id":"b116236926c2ab29",
@@ -805,6 +764,16 @@
 			"fromSide":"left",
 			"toNode":"868a60457829d8ea",
 			"toSide":"right"
+		},
+		{
+			"id":"28968479db2e69da",
+			"styleAttributes":{"path":"long-dashed","pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b83ebb46387d5c4b",
+			"fromSide":"left",
+			"toNode":"a0b6afaa1c018b9c",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
