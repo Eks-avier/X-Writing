@@ -417,67 +417,6 @@
 			"height":60
 		},
 		{
-			"id":"7eb7aa43dfc948ca",
-			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-2600,
-			"y":30,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"953d1d75b9e9b4d2",
-			"type":"text",
-			"text":"# AURA",
-			"styleAttributes":{},
-			"x":-2600,
-			"y":170,
-			"width":300,
-			"height":60
-		},
-		{"id":"375c47d180e9dbcf","type":"text","text":"# COATING","x":-2600,"y":310,"width":300,"height":60},
-		{
-			"id":"955fbe4a5b0ccabf",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-2900,
-			"y":470,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"b7d4af87ea49a03d",
-			"type":"text",
-			"text":"# NEUTRALIZATION",
-			"styleAttributes":{},
-			"x":-2300,
-			"y":470,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"28422b03c3e46b58",
-			"type":"text",
-			"text":"# CONTESTING",
-			"styleAttributes":{},
-			"x":-1911,
-			"y":170,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"887a1b27b18f1717",
-			"type":"text",
-			"text":"# SUBMISSION",
-			"styleAttributes":{},
-			"x":-1911,
-			"y":250,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"8245fc82e6d2a826",
 			"type":"text",
 			"text":"# AURA",
@@ -905,45 +844,6 @@
 			"fromSide":"bottom",
 			"toNode":"8245fc82e6d2a826",
 			"toSide":"top"
-		},
-		{
-			"id":"71dfa5ae501ef08c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7eb7aa43dfc948ca",
-			"fromSide":"bottom",
-			"toNode":"953d1d75b9e9b4d2",
-			"toSide":"top"
-		},
-		{
-			"id":"44ed85588f42afca",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"953d1d75b9e9b4d2",
-			"fromSide":"bottom",
-			"toNode":"375c47d180e9dbcf",
-			"toSide":"top"
-		},
-		{
-			"id":"6400b43f6950bf86",
-			"styleAttributes":{
-				"arrow":null
-			},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"375c47d180e9dbcf",
-			"fromSide":"bottom",
-			"toNode":"955fbe4a5b0ccabf",
-			"toSide":"right"
-		},
-		{
-			"id":"11a13627ced3fc48",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"375c47d180e9dbcf",
-			"fromSide":"bottom",
-			"toNode":"b7d4af87ea49a03d",
-			"toSide":"left"
 		}
 	],
 	"metadata":{
