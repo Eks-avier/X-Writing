@@ -88,7 +88,7 @@
 			"text":"# AURA OF THE KOINON",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-1450,
-			"y":1320,
+			"y":1300,
 			"width":380,
 			"height":60
 		},
@@ -98,7 +98,7 @@
 			"text":"# AURA OF THE KRATOR",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-950,
-			"y":1320,
+			"y":1300,
 			"width":380,
 			"height":60
 		},
@@ -469,32 +469,22 @@
 			"height":60
 		},
 		{
-			"id":"7aa4dc5de2441a7e",
-			"type":"text",
-			"text":"# ACTIVE COATING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1280,
-			"y":1500,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"89e2c8158b567b08",
-			"type":"text",
-			"text":"# OFFENSIVE COATING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1325,
-			"y":1560,
-			"width":325,
-			"height":60
-		},
-		{
 			"id":"6a2c92c424b82297",
 			"type":"text",
 			"text":"# PENETRATION",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1290,
-			"y":1620,
+			"x":-1300,
+			"y":1900,
+			"width":290,
+			"height":60
+		},
+		{
+			"id":"71520068bcdee151",
+			"type":"text",
+			"text":"# NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1010,
+			"y":1900,
 			"width":290,
 			"height":60
 		},
@@ -503,9 +493,29 @@
 			"type":"text",
 			"text":"# PASSIVE COATING",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1000,
-			"y":1500,
+			"x":-1400,
+			"y":1440,
 			"width":280,
+			"height":60
+		},
+		{
+			"id":"7aa4dc5de2441a7e",
+			"type":"text",
+			"text":"# ACTIVE COATING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-900,
+			"y":1440,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"4e40785557b704f8",
+			"type":"text",
+			"text":"# COATING TECHNIQUES",
+			"styleAttributes":{},
+			"x":-1180,
+			"y":1580,
+			"width":340,
 			"height":60
 		},
 		{
@@ -513,19 +523,19 @@
 			"type":"text",
 			"text":"# DEFENSIVE COATING",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1000,
-			"y":1560,
+			"x":-890,
+			"y":1760,
 			"width":325,
 			"height":60
 		},
 		{
-			"id":"71520068bcdee151",
+			"id":"89e2c8158b567b08",
 			"type":"text",
-			"text":"# NEUTRALIZATION",
+			"text":"# OFFENSIVE COATING",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1000,
-			"y":1620,
-			"width":290,
+			"x":-1455,
+			"y":1760,
+			"width":325,
 			"height":60
 		}
 	],
@@ -917,6 +927,62 @@
 			"fromNode":"8245fc82e6d2a826",
 			"fromSide":"right",
 			"toNode":"1bbbcd9f680217e4",
+			"toSide":"top"
+		},
+		{
+			"id":"c4a909de1db82349",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a0938c6c100a815b",
+			"fromSide":"bottom",
+			"toNode":"6df0a0ffbf4fc95e",
+			"toSide":"top"
+		},
+		{
+			"id":"0ff117f7a70606d4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1bbbcd9f680217e4",
+			"fromSide":"bottom",
+			"toNode":"7aa4dc5de2441a7e",
+			"toSide":"top"
+		},
+		{
+			"id":"55a8be8cc68b61ea",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6df0a0ffbf4fc95e",
+			"fromSide":"bottom",
+			"toNode":"4e40785557b704f8",
+			"toSide":"left"
+		},
+		{
+			"id":"f2411224f276310c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"7aa4dc5de2441a7e",
+			"fromSide":"bottom",
+			"toNode":"4e40785557b704f8",
+			"toSide":"right"
+		},
+		{
+			"id":"d0050351ab676667",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4e40785557b704f8",
+			"fromSide":"bottom",
+			"toNode":"89e2c8158b567b08",
+			"toSide":"top"
+		},
+		{
+			"id":"a0162017b1f98629",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4e40785557b704f8",
+			"fromSide":"bottom",
+			"toNode":"987a6823338ac868",
 			"toSide":"top"
 		}
 	],
