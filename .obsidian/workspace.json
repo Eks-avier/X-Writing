@@ -41,13 +41,25 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -1496.071860787318,
-                  "y": 1421.9265098826093,
+                  "x": -1225.10694954142,
+                  "y": 1240.245597389429,
                   "zoom": -1.6075101482539025
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Krátos (English)"
+            }
+          },
+          {
+            "id": "d5e03d693864c2c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           },
           {
