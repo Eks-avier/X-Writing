@@ -10,6 +10,7 @@
 			"height":560,
 			"color":"6"
 		},
+		{"id":"8201a4f3fc82dc28","type":"group","x":-1900,"y":1420,"width":340,"height":260,"color":"4","label":"NATURAL"},
 		{
 			"id":"a0b6afaa1c018b9c",
 			"type":"group",
@@ -42,6 +43,7 @@
 			"color":"#ffd700",
 			"label":"DEPTH"
 		},
+		{"id":"9014dc262fc889fd","type":"group","x":-2900,"y":1460,"width":340,"height":180,"color":"1","label":"SUPERNATURAL"},
 		{
 			"id":"16794349205bd892",
 			"type":"text",
@@ -406,26 +408,6 @@
 			"height":60
 		},
 		{
-			"id":"53c82e949f3a04f5",
-			"type":"text",
-			"text":"# CONTESTING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1880,
-			"y":-360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6dcab72009f0c057",
-			"type":"text",
-			"text":"# SUBMISSION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1880,
-			"y":-280,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"8c5bd2ad12fe58b7",
 			"type":"text",
 			"text":"# CONQUEROR'S DESIRE",
@@ -466,26 +448,6 @@
 			"x":400,
 			"y":60,
 			"width":360,
-			"height":60
-		},
-		{
-			"id":"6a2c92c424b82297",
-			"type":"text",
-			"text":"# PENETRATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1300,
-			"y":1900,
-			"width":290,
-			"height":60
-		},
-		{
-			"id":"71520068bcdee151",
-			"type":"text",
-			"text":"# NEUTRALIZATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1010,
-			"y":1900,
-			"width":290,
 			"height":60
 		},
 		{
@@ -537,6 +499,66 @@
 			"y":1760,
 			"width":325,
 			"height":60
+		},
+		{
+			"id":"6a2c92c424b82297",
+			"type":"text",
+			"text":"# PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1437,
+			"y":1900,
+			"width":290,
+			"height":60
+		},
+		{
+			"id":"71520068bcdee151",
+			"type":"text",
+			"text":"# NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-872,
+			"y":1900,
+			"width":290,
+			"height":60
+		},
+		{
+			"id":"1679ccd2ad01bace",
+			"type":"text",
+			"text":"# KRATONIC COMBAT",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":2040,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"8d8c234d3037f7cf",
+			"type":"text",
+			"text":"# CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1700,
+			"y":2235,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1177852ebef19a0b",
+			"type":"text",
+			"text":"# SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-570,
+			"y":2235,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bc2e7e08be6e924d",
+			"type":"text",
+			"text":"# WILLPOWER LEVEL",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-1195,
+			"y":2220,
+			"width":370,
+			"height":90
 		}
 	],
 	"edges":[
@@ -713,51 +735,6 @@
 			"fromSide":"bottom",
 			"toNode":"31cb2274d2b1a782",
 			"toSide":"top"
-		},
-		{
-			"id":"8ad19f124ba1533c",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromNode":"5d0b24fa68a731ad",
-			"fromSide":"left",
-			"toNode":"cacd4acf36b3b562",
-			"toSide":"right"
-		},
-		{
-			"id":"64e7c94e62a4c0c0",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromNode":"5d0b24fa68a731ad",
-			"fromSide":"left",
-			"toNode":"88f4010bc43692da",
-			"toSide":"right"
-		},
-		{
-			"id":"9354fd2d6f11ff7a",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromNode":"5d0b24fa68a731ad",
-			"fromSide":"right",
-			"toNode":"3a9f569ad6aac8de",
-			"toSide":"left"
-		},
-		{
-			"id":"76612f90e7fa9410",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromNode":"5d0b24fa68a731ad",
-			"fromSide":"right",
-			"toNode":"26a6af974de63907",
-			"toSide":"left"
-		},
-		{
-			"id":"d3180ef814f0ab65",
-			"styleAttributes":{"path":"dotted"},
-			"toFloating":false,
-			"fromNode":"5d0b24fa68a731ad",
-			"fromSide":"right",
-			"toNode":"3f1861936fc2cdc2",
-			"toSide":"left"
 		},
 		{
 			"id":"0f288db8bc14de1d",
@@ -984,6 +961,122 @@
 			"fromSide":"bottom",
 			"toNode":"987a6823338ac868",
 			"toSide":"top"
+		},
+		{
+			"id":"289394c662551b2f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"89e2c8158b567b08",
+			"fromSide":"bottom",
+			"toNode":"6a2c92c424b82297",
+			"toSide":"top"
+		},
+		{
+			"id":"5ab7e23da3201d72",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"987a6823338ac868",
+			"fromSide":"bottom",
+			"toNode":"71520068bcdee151",
+			"toSide":"top"
+		},
+		{
+			"id":"68f5bed5b40e6c6a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"6a2c92c424b82297",
+			"fromSide":"bottom",
+			"toNode":"1679ccd2ad01bace",
+			"toSide":"left"
+		},
+		{
+			"id":"58a55fc722c10768",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"71520068bcdee151",
+			"fromSide":"bottom",
+			"toNode":"1679ccd2ad01bace",
+			"toSide":"right"
+		},
+		{
+			"id":"9bdca48810d963e2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1679ccd2ad01bace",
+			"fromSide":"bottom",
+			"toNode":"bc2e7e08be6e924d",
+			"toSide":"top"
+		},
+		{
+			"id":"d688b0879cfb124d",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bc2e7e08be6e924d",
+			"fromSide":"left",
+			"toNode":"8d8c234d3037f7cf",
+			"toSide":"right",
+			"label":"EQUAL"
+		},
+		{
+			"id":"5323e3a8ed3912ee",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bc2e7e08be6e924d",
+			"fromSide":"right",
+			"toNode":"1177852ebef19a0b",
+			"toSide":"left",
+			"label":"UNEQUAL"
+		},
+		{
+			"id":"76612f90e7fa9410",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"5d0b24fa68a731ad",
+			"fromSide":"right",
+			"toNode":"26a6af974de63907",
+			"toSide":"left"
+		},
+		{
+			"id":"64e7c94e62a4c0c0",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"5d0b24fa68a731ad",
+			"fromSide":"left",
+			"toNode":"88f4010bc43692da",
+			"toSide":"right"
+		},
+		{
+			"id":"8ad19f124ba1533c",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"5d0b24fa68a731ad",
+			"fromSide":"left",
+			"toNode":"cacd4acf36b3b562",
+			"toSide":"right"
+		},
+		{
+			"id":"9354fd2d6f11ff7a",
+			"styleAttributes":{
+				"path":"dotted",
+				"arrow":null
+			},
+			"toFloating":false,
+			"fromNode":"5d0b24fa68a731ad",
+			"fromSide":"right",
+			"toNode":"3a9f569ad6aac8de",
+			"toSide":"left"
+		},
+		{
+			"id":"d3180ef814f0ab65",
+			"styleAttributes":{"path":"dotted"},
+			"toFloating":false,
+			"fromNode":"5d0b24fa68a731ad",
+			"fromSide":"right",
+			"toNode":"3f1861936fc2cdc2",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
