@@ -41,8 +41,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -896.2968726867562,
-                  "y": 993.6978106560466,
+                  "x": -831.8122887503554,
+                  "y": 1031.3135345733147,
                   "zoom": -3.215020296507804
                 }
               },
@@ -75,9 +75,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 480.6154836996743,
-                  "y": 329.24340420297574,
-                  "zoom": -1.4344708466870295
+                  "x": -239.4054697715777,
+                  "y": -147.74641135452626,
+                  "zoom": -1.112968817036249
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -311,10 +311,11 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "5bbf688554be2e79",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
