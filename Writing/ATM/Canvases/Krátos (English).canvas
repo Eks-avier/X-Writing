@@ -43,26 +43,6 @@
 			"label":"DEPTH"
 		},
 		{
-			"id":"5d0b24fa68a731ad",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-2360,
-			"y":1520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cacd4acf36b3b562",
-			"type":"text",
-			"text":"# PRIMOTON",
-			"styleAttributes":{"shape":"circle"},
-			"x":-2880,
-			"y":1480,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"fb05ca454457b6b8",
 			"type":"text",
 			"text":"# HOLARISTŌN ",
@@ -70,76 +50,6 @@
 			"x":-2380,
 			"y":1120,
 			"width":299,
-			"height":60
-		},
-		{
-			"id":"5b185c55bc5fcb62",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1140,
-			"y":760,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d9bd49765845bd9e",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-1140,
-			"y":960,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2303ed028d870354",
-			"type":"text",
-			"text":"# MONOKRÁTON",
-			"styleAttributes":{},
-			"x":-720,
-			"y":760,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"3ad4e9bdc0d904b2",
-			"type":"text",
-			"text":"# KAKISTŌN KRÁTON",
-			"styleAttributes":{},
-			"x":-400,
-			"y":960,
-			"width":280,
-			"height":60
-		},
-		{
-			"id":"31cb2274d2b1a782",
-			"type":"text",
-			"text":"# BIOLOGY",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-390,
-			"y":1160,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"002c0c73318f0ba1",
-			"type":"text",
-			"text":"# PYROTŌN",
-			"styleAttributes":{"shape":"circle"},
-			"x":-370,
-			"y":1600,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"88f4010bc43692da",
-			"type":"text",
-			"text":"# PRIMOTON",
-			"styleAttributes":{"shape":"circle"},
-			"x":-2880,
-			"y":1560,
-			"width":300,
 			"height":60
 		},
 		{
@@ -213,13 +123,116 @@
 			"height":60
 		},
 		{
-			"id":"8662350d6eccbb79",
+			"id":"5d0b24fa68a731ad",
 			"type":"text",
-			"text":"# MANIFESTATION",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":560,
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-2360,
+			"y":1520,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"cacd4acf36b3b562",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{"shape":"circle"},
+			"x":-2880,
+			"y":1480,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"88f4010bc43692da",
+			"type":"text",
+			"text":"# PRIMOTON",
+			"styleAttributes":{"shape":"circle"},
+			"x":-2880,
+			"y":1560,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"bdc1ff3939a55972",
+			"type":"text",
+			"text":"# KOINON'S WILL",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1380,
+			"y":100,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"8245fc82e6d2a826",
+			"type":"text",
+			"text":"# AURA",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":1160,
+			"width":300,
+			"height":60
+		},
+		{"id":"d8c20f5581907c72","type":"text","text":"# COATING","x":-1160,"y":1300,"width":300,"height":60},
+		{
+			"id":"d9bd49765845bd9e",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1140,
+			"y":960,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3ad4e9bdc0d904b2",
+			"type":"text",
+			"text":"# KAKISTŌN KRÁTON",
+			"styleAttributes":{},
+			"x":-400,
+			"y":960,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"31cb2274d2b1a782",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-390,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"002c0c73318f0ba1",
+			"type":"text",
+			"text":"# PYROTŌN",
+			"styleAttributes":{"shape":"circle"},
+			"x":-370,
+			"y":1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5b185c55bc5fcb62",
+			"type":"text",
+			"text":"# BIOLOGY",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-1140,
+			"y":760,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2303ed028d870354",
+			"type":"text",
+			"text":"# MONOKRÁTON",
+			"styleAttributes":{},
+			"x":-720,
+			"y":760,
+			"width":280,
 			"height":60
 		},
 		{
@@ -263,12 +276,12 @@
 			"height":60
 		},
 		{
-			"id":"a1dcf2b3d2b0bdc2",
+			"id":"8662350d6eccbb79",
 			"type":"text",
-			"text":"# ALIGNMENT",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-200,
-			"y":340,
+			"text":"# MANIFESTATION",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":560,
 			"width":260,
 			"height":60
 		},
@@ -283,6 +296,16 @@
 			"height":60
 		},
 		{
+			"id":"a1dcf2b3d2b0bdc2",
+			"type":"text",
+			"text":"# ALIGNMENT",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-200,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"8c5bd2ad12fe58b7",
 			"type":"text",
 			"text":"# CONQUEROR'S DESIRE",
@@ -290,6 +313,26 @@
 			"x":-240,
 			"y":200,
 			"width":340,
+			"height":60
+		},
+		{
+			"id":"ec1280c3cdc1b2c6",
+			"type":"text",
+			"text":"# CONQUEROR'S REPOSE",
+			"styleAttributes":{},
+			"x":400,
+			"y":340,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"7d074fc3ac9626b6",
+			"type":"text",
+			"text":"# AEROTŌN",
+			"styleAttributes":{"shape":"circle"},
+			"x":530,
+			"y":1600,
+			"width":260,
 			"height":60
 		},
 		{
@@ -313,18 +356,6 @@
 			"height":60
 		},
 		{
-			"id":"bdc1ff3939a55972",
-			"type":"text",
-			"text":"# KOINON'S WILL",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-1380,
-			"y":100,
-			"width":340,
-			"height":60
-		},
-		{
 			"id":"0775f86074b3048e",
 			"type":"text",
 			"text":"# CONQUEROR'S WILL",
@@ -332,6 +363,18 @@
 			"x":-240,
 			"y":-80,
 			"width":340,
+			"height":60
+		},
+		{
+			"id":"ff382cce487cf092",
+			"type":"text",
+			"text":"# CONQUEROR'S LATENCY",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":400,
+			"y":60,
+			"width":360,
 			"height":60
 		},
 		{
@@ -385,56 +428,23 @@
 			"height":60
 		},
 		{
-			"id":"ff382cce487cf092",
+			"id":"53c82e949f3a04f5",
 			"type":"text",
-			"text":"# CONQUEROR'S LATENCY",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":400,
-			"y":60,
-			"width":360,
-			"height":60
-		},
-		{
-			"id":"ec1280c3cdc1b2c6",
-			"type":"text",
-			"text":"# CONQUEROR'S REPOSE",
+			"text":"# CONTESTING",
 			"styleAttributes":{},
-			"x":400,
-			"y":340,
-			"width":360,
-			"height":60
-		},
-		{
-			"id":"7d074fc3ac9626b6",
-			"type":"text",
-			"text":"# AEROTŌN",
-			"styleAttributes":{"shape":"circle"},
-			"x":530,
-			"y":1600,
+			"x":-1880,
+			"y":-360,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"8245fc82e6d2a826",
+			"id":"6dcab72009f0c057",
 			"type":"text",
-			"text":"# AURA",
+			"text":"# SUBMISSION",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":1160,
-			"width":300,
-			"height":60
-		},
-		{"id":"d8c20f5581907c72","type":"text","text":"# COATING","x":-1160,"y":1300,"width":300,"height":60},
-		{
-			"id":"527af163e74de4f8",
-			"type":"text",
-			"text":"# PIERCING",
-			"styleAttributes":{},
-			"x":-1460,
-			"y":1460,
-			"width":300,
+			"x":-1880,
+			"y":-280,
+			"width":260,
 			"height":60
 		},
 		{
@@ -443,8 +453,38 @@
 			"text":"# NEUTRALIZATION",
 			"styleAttributes":{},
 			"x":-860,
-			"y":1460,
+			"y":1520,
 			"width":300,
+			"height":60
+		},
+		{
+			"id":"527af163e74de4f8",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":1520,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"a0938c6c100a815b",
+			"type":"text",
+			"text":"# CONQUEROR'S AURA",
+			"styleAttributes":{},
+			"x":-1240,
+			"y":1780,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"1bbbcd9f680217e4",
+			"type":"text",
+			"text":"AURA OF THE KOINON",
+			"styleAttributes":{},
+			"x":-1200,
+			"y":1860,
+			"width":260,
 			"height":60
 		}
 	],
@@ -672,8 +712,9 @@
 			"id":"0f288db8bc14de1d",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0fda4a80fb8d6c77",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"002c0c73318f0ba1",
 			"toSide":"top"
 		},
@@ -681,6 +722,7 @@
 			"id":"0b46e246c2eddb94",
 			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0fda4a80fb8d6c77",
 			"fromSide":"bottom",
 			"toNode":"16794349205bd892",
@@ -699,8 +741,9 @@
 			"id":"21fdce2be908857d",
 			"styleAttributes":{"path":"dotted"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0fda4a80fb8d6c77",
-			"fromSide":"bottom",
+			"fromSide":"right",
 			"toNode":"7d074fc3ac9626b6",
 			"toSide":"top"
 		},
@@ -816,27 +859,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"321cbee7642f6399",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"d8c20f5581907c72",
-			"fromSide":"bottom",
-			"toNode":"13c5c07ae4880567",
-			"toSide":"left"
-		},
-		{
-			"id":"159f8f36129aa781",
-			"styleAttributes":{
-				"arrow":null
-			},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"d8c20f5581907c72",
-			"fromSide":"bottom",
-			"toNode":"527af163e74de4f8",
-			"toSide":"right"
-		},
-		{
 			"id":"118cace561b98ca8",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -844,6 +866,24 @@
 			"fromSide":"bottom",
 			"toNode":"8245fc82e6d2a826",
 			"toSide":"top"
+		},
+		{
+			"id":"afb38f6851e697e1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8c20f5581907c72",
+			"fromSide":"bottom",
+			"toNode":"527af163e74de4f8",
+			"toSide":"right"
+		},
+		{
+			"id":"1f3dc5edf867d175",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8c20f5581907c72",
+			"fromSide":"bottom",
+			"toNode":"13c5c07ae4880567",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
