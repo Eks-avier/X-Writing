@@ -24,7 +24,7 @@
 			"id":"57e9b0a221e91a55",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
-			"x":-300,
+			"x":20,
 			"y":1100,
 			"width":340,
 			"height":180,
@@ -35,7 +35,7 @@
 			"id":"3340fd5863b3e641",
 			"type":"group",
 			"styleAttributes":{"border":"invisible"},
-			"x":-2080,
+			"x":-2400,
 			"y":1100,
 			"width":340,
 			"height":180,
@@ -47,7 +47,7 @@
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-2040,
+			"x":-2360,
 			"y":1520,
 			"width":260,
 			"height":60
@@ -57,7 +57,7 @@
 			"type":"text",
 			"text":"# PRIMOTON",
 			"styleAttributes":{"shape":"circle"},
-			"x":-2560,
+			"x":-2880,
 			"y":1480,
 			"width":300,
 			"height":60
@@ -67,7 +67,7 @@
 			"type":"text",
 			"text":"# HOLARISTŌN ",
 			"styleAttributes":{},
-			"x":-2060,
+			"x":-2380,
 			"y":1120,
 			"width":299,
 			"height":60
@@ -107,7 +107,7 @@
 			"type":"text",
 			"text":"# KAKISTŌN KRÁTON",
 			"styleAttributes":{},
-			"x":-720,
+			"x":-400,
 			"y":960,
 			"width":280,
 			"height":60
@@ -117,7 +117,7 @@
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-710,
+			"x":-390,
 			"y":1160,
 			"width":260,
 			"height":60
@@ -127,7 +127,7 @@
 			"type":"text",
 			"text":"# PYROTŌN",
 			"styleAttributes":{"shape":"circle"},
-			"x":-690,
+			"x":-370,
 			"y":1600,
 			"width":260,
 			"height":60
@@ -137,7 +137,7 @@
 			"type":"text",
 			"text":"# PRIMOTON",
 			"styleAttributes":{"shape":"circle"},
-			"x":-2560,
+			"x":-2880,
 			"y":1560,
 			"width":300,
 			"height":60
@@ -157,7 +157,7 @@
 			"type":"text",
 			"text":"# ARISTŌN KRÁTON",
 			"styleAttributes":{},
-			"x":-1581,
+			"x":-1901,
 			"y":960,
 			"width":279,
 			"height":60
@@ -167,7 +167,7 @@
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-1571,
+			"x":-1891,
 			"y":1160,
 			"width":260,
 			"height":60
@@ -177,7 +177,7 @@
 			"type":"text",
 			"text":"# IDIARISTŌN",
 			"styleAttributes":{},
-			"x":-2060,
+			"x":-2380,
 			"y":1200,
 			"width":299,
 			"height":60
@@ -187,7 +187,7 @@
 			"type":"text",
 			"text":"# PYRENIKON",
 			"styleAttributes":{"shape":"circle"},
-			"x":-1560,
+			"x":-1880,
 			"y":1440,
 			"width":300,
 			"height":60
@@ -197,7 +197,7 @@
 			"type":"text",
 			"text":"# ELEKTROMAGNETON",
 			"styleAttributes":{"shape":"circle"},
-			"x":-1560,
+			"x":-1880,
 			"y":1520,
 			"width":300,
 			"height":60
@@ -207,7 +207,7 @@
 			"type":"text",
 			"text":"# BARYTON",
 			"styleAttributes":{"shape":"circle"},
-			"x":-1560,
+			"x":-1880,
 			"y":1600,
 			"width":300,
 			"height":60
@@ -227,7 +227,7 @@
 			"type":"text",
 			"text":"# HYDROTŌN",
 			"styleAttributes":{"shape":"circle"},
-			"x":-390,
+			"x":-70,
 			"y":1600,
 			"width":260,
 			"height":60
@@ -237,7 +237,7 @@
 			"type":"text",
 			"text":"# BIOLOGY",
 			"styleAttributes":{"shape":"diamond"},
-			"x":-260,
+			"x":60,
 			"y":1400,
 			"width":260,
 			"height":60
@@ -247,7 +247,7 @@
 			"type":"text",
 			"text":"# EURYTATŌN",
 			"styleAttributes":{},
-			"x":-280,
+			"x":40,
 			"y":1200,
 			"width":300,
 			"height":60
@@ -257,7 +257,7 @@
 			"type":"text",
 			"text":"# STENOTATŌN",
 			"styleAttributes":{},
-			"x":-280,
+			"x":40,
 			"y":1120,
 			"width":300,
 			"height":60
@@ -277,7 +277,7 @@
 			"type":"text",
 			"text":"# GEOTŌN",
 			"styleAttributes":{"shape":"circle"},
-			"x":-90,
+			"x":230,
 			"y":1600,
 			"width":260,
 			"height":60
@@ -411,7 +411,7 @@
 			"type":"text",
 			"text":"# AEROTŌN",
 			"styleAttributes":{"shape":"circle"},
-			"x":210,
+			"x":530,
 			"y":1600,
 			"width":260,
 			"height":60
@@ -474,6 +474,37 @@
 			"styleAttributes":{},
 			"x":-1911,
 			"y":250,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"8245fc82e6d2a826",
+			"type":"text",
+			"text":"# AURA",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":1160,
+			"width":300,
+			"height":60
+		},
+		{"id":"d8c20f5581907c72","type":"text","text":"# COATING","x":-1160,"y":1300,"width":300,"height":60},
+		{
+			"id":"527af163e74de4f8",
+			"type":"text",
+			"text":"# PIERCING",
+			"styleAttributes":{},
+			"x":-1460,
+			"y":1460,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"13c5c07ae4880567",
+			"type":"text",
+			"text":"# NEUTRALIZATION",
+			"styleAttributes":{},
+			"x":-860,
+			"y":1460,
 			"width":300,
 			"height":60
 		}
@@ -834,6 +865,45 @@
 			"fromNode":"b83ebb46387d5c4b",
 			"fromSide":"left",
 			"toNode":"a0b6afaa1c018b9c",
+			"toSide":"top"
+		},
+		{
+			"id":"9589b476484e022c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8245fc82e6d2a826",
+			"fromSide":"bottom",
+			"toNode":"d8c20f5581907c72",
+			"toSide":"top"
+		},
+		{
+			"id":"321cbee7642f6399",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8c20f5581907c72",
+			"fromSide":"bottom",
+			"toNode":"13c5c07ae4880567",
+			"toSide":"left"
+		},
+		{
+			"id":"159f8f36129aa781",
+			"styleAttributes":{
+				"arrow":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d8c20f5581907c72",
+			"fromSide":"bottom",
+			"toNode":"527af163e74de4f8",
+			"toSide":"right"
+		},
+		{
+			"id":"118cace561b98ca8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d9bd49765845bd9e",
+			"fromSide":"bottom",
+			"toNode":"8245fc82e6d2a826",
 			"toSide":"top"
 		},
 		{
