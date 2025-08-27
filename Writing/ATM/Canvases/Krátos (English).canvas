@@ -165,16 +165,6 @@
 			"height":60
 		},
 		{
-			"id":"8245fc82e6d2a826",
-			"type":"text",
-			"text":"# AURA",
-			"styleAttributes":{},
-			"x":-1160,
-			"y":1160,
-			"width":300,
-			"height":60
-		},
-		{
 			"id":"d9bd49765845bd9e",
 			"type":"text",
 			"text":"# BIOLOGY",
@@ -447,19 +437,9 @@
 			"height":60
 		},
 		{
-			"id":"71520068bcdee151",
-			"type":"text",
-			"text":"# NEUTRALIZATION",
-			"styleAttributes":{},
-			"x":-950,
-			"y":1740,
-			"width":290,
-			"height":60
-		},
-		{
 			"id":"a0938c6c100a815b",
 			"type":"text",
-			"text":"# AURA OF THE CONQUEROR",
+			"text":"# AURA OF THE KOINON",
 			"styleAttributes":{},
 			"x":-1450,
 			"y":1320,
@@ -469,7 +449,7 @@
 		{
 			"id":"1bbbcd9f680217e4",
 			"type":"text",
-			"text":"# AURA OF THE KOINON",
+			"text":"# AURA OF THE KRATOR",
 			"styleAttributes":{},
 			"x":-950,
 			"y":1320,
@@ -477,32 +457,72 @@
 			"height":60
 		},
 		{
+			"id":"6a2c92c424b82297",
+			"type":"text",
+			"text":"# PENETRATION",
+			"styleAttributes":{},
+			"x":-1305,
+			"y":1700,
+			"width":290,
+			"height":60
+		},
+		{
 			"id":"6df0a0ffbf4fc95e",
 			"type":"text",
-			"text":"# ACTIVE COATING",
+			"text":"# PASSIVE COATING",
 			"styleAttributes":{},
-			"x":-900,
-			"y":1480,
+			"x":-1000,
+			"y":1500,
 			"width":280,
 			"height":60
 		},
 		{
 			"id":"7aa4dc5de2441a7e",
 			"type":"text",
-			"text":"# PASSIVE COATING",
+			"text":"# ACTIVE COATING",
 			"styleAttributes":{},
-			"x":-1400,
-			"y":1480,
+			"x":-1280,
+			"y":1500,
 			"width":280,
 			"height":60
 		},
 		{
-			"id":"6a2c92c424b82297",
+			"id":"8245fc82e6d2a826",
 			"type":"text",
-			"text":"# PENETRATION",
+			"text":"# AURA",
 			"styleAttributes":{},
-			"x":-1360,
-			"y":1740,
+			"x":-1140,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"89e2c8158b567b08",
+			"type":"text",
+			"text":"# OFFENSIVE COATING",
+			"styleAttributes":{},
+			"x":-1322,
+			"y":1800,
+			"width":325,
+			"height":60
+		},
+		{
+			"id":"987a6823338ac868",
+			"type":"text",
+			"text":"# DEFENSIVE COATING",
+			"styleAttributes":{},
+			"x":-1322,
+			"y":1860,
+			"width":325,
+			"height":60
+		},
+		{
+			"id":"71520068bcdee151",
+			"type":"text",
+			"text":"# NEUTRALIZATION",
+			"styleAttributes":{},
+			"x":-980,
+			"y":1700,
 			"width":290,
 			"height":60
 		}
@@ -896,34 +916,6 @@
 			"fromSide":"right",
 			"toNode":"1bbbcd9f680217e4",
 			"toSide":"top"
-		},
-		{
-			"id":"974d0855057ac227",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"1bbbcd9f680217e4",
-			"fromSide":"bottom",
-			"toNode":"6df0a0ffbf4fc95e",
-			"toSide":"top"
-		},
-		{
-			"id":"baf9bfaf078a6b68",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a0938c6c100a815b",
-			"fromSide":"bottom",
-			"toNode":"7aa4dc5de2441a7e",
-			"toSide":"top"
-		},
-		{
-			"id":"c408bff9ec71e315",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7aa4dc5de2441a7e",
-			"fromSide":"right",
-			"toNode":"6df0a0ffbf4fc95e",
-			"toSide":"left",
-			"toEnd":"none"
 		}
 	],
 	"metadata":{
