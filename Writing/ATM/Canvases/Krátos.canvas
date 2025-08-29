@@ -172,16 +172,6 @@
 			"height":60
 		},
 		{
-			"id":"61a1f8f29b94844c",
-			"type":"text",
-			"text":"KAKISTŌN",
-			"styleAttributes":{"textAlign":"center"},
-			"x":0,
-			"y":-220,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"7a1cf3db67d426af",
 			"type":"text",
 			"text":"EURYKAKISTŌN",
@@ -292,6 +282,26 @@
 			"height":60
 		},
 		{
+			"id":"5799827ebb100933",
+			"type":"text",
+			"text":"POLYKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1800,
+			"y":260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"40e3f9c155ff1f6f",
+			"type":"text",
+			"text":"MONOKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1500,
+			"y":260,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"abdf0d28c7e20d41",
 			"type":"text",
 			"text":"ARISTŌN KRÁTON",
@@ -302,22 +312,22 @@
 			"height":60
 		},
 		{
-			"id":"40e3f9c155ff1f6f",
+			"id":"5118b7f746edad67",
 			"type":"text",
-			"text":"MONOKRÁTON",
+			"text":"ARISTŌN KRÁTON",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":290,
+			"x":-1800,
+			"y":340,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"5799827ebb100933",
+			"id":"61a1f8f29b94844c",
 			"type":"text",
-			"text":"POLYKRÁTON",
+			"text":"KAKISTŌN KRÁTON",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-1460,
-			"y":200,
+			"x":-1500,
+			"y":340,
 			"width":260,
 			"height":60
 		}
