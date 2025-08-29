@@ -46,7 +46,7 @@
 			"text":"WILL OF THE KOINON",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-20,
-			"y":-270,
+			"y":-240,
 			"width":260,
 			"height":60
 		},
@@ -56,7 +56,7 @@
 			"text":"WILL OF THE KRATOR",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-20,
-			"y":-140,
+			"y":-160,
 			"width":260,
 			"height":60
 		},
@@ -66,7 +66,77 @@
 			"text":"RESOLVE OF THE KOINON",
 			"styleAttributes":{"textAlign":"center"},
 			"x":260,
-			"y":-270,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ea169401cfc44ae0",
+			"type":"text",
+			"text":"AURA OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":70,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1387cf03f5f8e6f3",
+			"type":"text",
+			"text":"AURA OF THE KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":-10,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e867c2a082cd2945",
+			"type":"text",
+			"text":"COATING OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":150,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ac2726493215efdd",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":230,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ab5bd011796599f5",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":310,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f4fa9614ccdeb168",
+			"type":"text",
+			"text":"SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":390,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1441a13da043a040",
+			"type":"text",
+			"text":"CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-20,
+			"y":470,
 			"width":260,
 			"height":60
 		},
@@ -75,18 +145,108 @@
 			"type":"text",
 			"text":"MANIFESTATION",
 			"styleAttributes":{"textAlign":"center"},
-			"x":260,
-			"y":-140,
+			"x":560,
+			"y":-10,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"5cf0a52330c1efca",
+			"id":"5799827ebb100933",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-60,
-			"y":100,
+			"text":"POLYKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":560,
+			"y":70,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"40e3f9c155ff1f6f",
+			"type":"text",
+			"text":"MONOKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":560,
+			"y":150,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"abdf0d28c7e20d41",
+			"type":"text",
+			"text":"ARISTŌN KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":840,
+			"y":220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9eb6bf5071154f23",
+			"type":"text",
+			"text":"HOLARISTŌN",
+			"styleAttributes":{"textAlign":"center"},
+			"x":840,
+			"y":300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0d0ce0db79454df1",
+			"type":"text",
+			"text":"IDIARISTŌN",
+			"styleAttributes":{"textAlign":"center"},
+			"x":840,
+			"y":380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a6a9d403088d827b",
+			"type":"text",
+			"text":"PYRENIKON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":710,
+			"y":480,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c47748e8da309ff1",
+			"type":"text",
+			"text":"ELEKTROMAGNETON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":710,
+			"y":560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3bfd0b809d3a3983",
+			"type":"text",
+			"text":"BARYTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":710,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"12f9ed9bd8af6d9e",
+			"type":"text",
+			"text":"PRIMOTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":990,
+			"y":480,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9b5fccad13d9dd56",
+			"type":"text",
+			"text":"PSIONITON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":990,
+			"y":560,
 			"width":260,
 			"height":60
 		}
