@@ -72,116 +72,6 @@
 			"height":60
 		},
 		{
-			"id":"40e3f9c155ff1f6f",
-			"type":"text",
-			"text":"MONOKRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1070,
-			"y":200,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5799827ebb100933",
-			"type":"text",
-			"text":"POLYKRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1330,
-			"y":200,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5118b7f746edad67",
-			"type":"text",
-			"text":"ARISTŌN KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1330,
-			"y":260,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"61a1f8f29b94844c",
-			"type":"text",
-			"text":"KAKISTŌN KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1070,
-			"y":260,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b0e3e770fe9dbfdc",
-			"type":"text",
-			"text":"AURA OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":500,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c4b6b1a958ca48a3",
-			"type":"text",
-			"text":"COATING OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":640,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3298b3a33373fa2a",
-			"type":"text",
-			"text":"PENETRATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1330,
-			"y":760,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"50b0f917b3aabc4c",
-			"type":"text",
-			"text":"NEUTRALIZATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1070,
-			"y":760,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1494b07c7c737647",
-			"type":"text",
-			"text":"SUBMISSION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1070,
-			"y":840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3dc96099f8b959f4",
-			"type":"text",
-			"text":"CONTESTING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-810,
-			"y":840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"20f0b47de657930f",
-			"type":"text",
-			"text":"AURA OF THE KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":370,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"e02cf53b95e468c3",
 			"type":"text",
 			"text":"AEROTON",
@@ -410,6 +300,116 @@
 			"y":-200,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"5799827ebb100933",
+			"type":"text",
+			"text":"POLYKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1960,
+			"y":120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5118b7f746edad67",
+			"type":"text",
+			"text":"ARISTŌN KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1960,
+			"y":180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"40e3f9c155ff1f6f",
+			"type":"text",
+			"text":"MONOKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1700,
+			"y":120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"61a1f8f29b94844c",
+			"type":"text",
+			"text":"KAKISTŌN KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1700,
+			"y":180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b0e3e770fe9dbfdc",
+			"type":"text",
+			"text":"AURA OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4b6b1a958ca48a3",
+			"type":"text",
+			"text":"COATING OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":500,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"20f0b47de657930f",
+			"type":"text",
+			"text":"AURA OF THE KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":230,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3298b3a33373fa2a",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1460,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"50b0f917b3aabc4c",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-940,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1494b07c7c737647",
+			"type":"text",
+			"text":"SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":760,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3dc96099f8b959f4",
+			"type":"text",
+			"text":"CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":840,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -492,7 +492,7 @@
 		},
 		{
 			"id":"c8e691e5306c6e46",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"c4b6b1a958ca48a3",
@@ -502,12 +502,39 @@
 		},
 		{
 			"id":"358dca694563226b",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"c4b6b1a958ca48a3",
 			"fromSide":"bottom",
 			"toNode":"50b0f917b3aabc4c",
 			"toSide":"top"
+		},
+		{
+			"id":"968c25f4ce80b1dc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7aa54225431629e5",
+			"fromSide":"bottom",
+			"toNode":"20f0b47de657930f",
+			"toSide":"top"
+		},
+		{
+			"id":"100d77a7c90ae9c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"50b0f917b3aabc4c",
+			"fromSide":"bottom",
+			"toNode":"3dc96099f8b959f4",
+			"toSide":"left"
+		},
+		{
+			"id":"44b6ba5633985f36",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"50b0f917b3aabc4c",
+			"fromSide":"bottom",
+			"toNode":"1494b07c7c737647",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
