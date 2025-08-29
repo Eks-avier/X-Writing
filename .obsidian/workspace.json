@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "eb99f3ba9f3b2079",
+            "id": "d5e03d693864c2c5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.9.10"
+                "currentVersion": "1.9.12"
               },
-              "pinned": true,
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "Release Notes 1.9.12"
             }
           },
           {
@@ -41,8 +39,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (English).canvas",
                 "viewState": {
-                  "x": -344.6442812172088,
-                  "y": 114.64955652579167,
+                  "x": -299.109129066107,
+                  "y": -143.38300104931807,
                   "zoom": -1.602018204019658
                 }
               },
@@ -51,15 +49,20 @@
             }
           },
           {
-            "id": "d5e03d693864c2c5",
+            "id": "061da0d9587e5cd9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "viewState": {
+                  "x": 310.2768596548475,
+                  "y": -97.03838151959008,
+                  "zoom": -0.1111110432942708
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos"
             }
           },
           {
@@ -97,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,8 +179,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -186,8 +189,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "history",
+              "title": "History"
             }
           }
         ]
@@ -323,26 +326,28 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Magic.md",
     "Journal/Untitled.md",
-    "Writing/ATM/Canvases/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
     "Notepad 11.md",
     "Filipino Essay.md",
     "Answers to Questions.md",
-    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",

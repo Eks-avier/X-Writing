@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Krátos",
+      "path": "Writing/ATM/Canvases/Krátos.canvas"
+    },
+    {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
+    },
+    {
+      "basename": "Krátos (Greek)",
+      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Sorcery Redefined",
@@ -23,10 +31,6 @@
     {
       "basename": "Untitled",
       "path": "Journal/Untitled.md"
-    },
-    {
-      "basename": "Krátos (Greek)",
-      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Notepad 11",
