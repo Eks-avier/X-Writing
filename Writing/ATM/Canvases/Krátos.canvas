@@ -384,12 +384,22 @@
 		{
 			"id":"9efb44827ba71385",
 			"type":"text",
-			"text":"\n|     | MONOKRÁTON | POLYKRÁTON |\n| :-: | :--------: | :--------: |\n|     |            |            |\n",
-			"styleAttributes":{"textAlign":"center"},
-			"x":660,
-			"y":-1000,
-			"width":700,
-			"height":340
+			"text":"# THE ARISTŌN CLASS\n\n|            |      MONOKRÁTON       |      POLYKRÁTON       |\n| :--------: | :-------------------: | :-------------------: |\n| HOLARISTŌN | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIARISTŌN | IDIARISTŌN MONOKRÁTON | IDIARISTŌNPOLYKRÁTON  |\n",
+			"styleAttributes":{"textAlign":"center","border":"invisible"},
+			"x":640,
+			"y":-900,
+			"width":520,
+			"height":180
+		},
+		{
+			"id":"c0fed45f2c9f01c1",
+			"type":"text",
+			"text":"# THE KAKISTŌN CLASS\n\n|           |      MONOKRÁTON      |      POLYKRÁTON      |\n| :-------: | :------------------: | :------------------: |\n| EURYTATŌN | EURYTATŌN MONOKRÁTON | EURYTATŌN POLYKRÁTON |\n",
+			"styleAttributes":{},
+			"x":640,
+			"y":-700,
+			"width":520,
+			"height":180
 		}
 	],
 	"edges":[
