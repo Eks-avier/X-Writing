@@ -182,46 +182,6 @@
 			"height":60
 		},
 		{
-			"id":"ab5bd011796599f5",
-			"type":"text",
-			"text":"NEUTRALIZATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
-			"y":-40,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f4fa9614ccdeb168",
-			"type":"text",
-			"text":"SUBMISSION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
-			"y":40,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1441a13da043a040",
-			"type":"text",
-			"text":"CONTESTING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
-			"y":120,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ac2726493215efdd",
-			"type":"text",
-			"text":"PENETRATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
-			"y":-120,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"1387cf03f5f8e6f3",
 			"type":"text",
 			"text":"AURA OF THE KRÁTON",
@@ -400,6 +360,86 @@
 			"y":260,
 			"width":590,
 			"height":180
+		},
+		{
+			"id":"ab5bd011796599f5",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f4fa9614ccdeb168",
+			"type":"text",
+			"text":"SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1441a13da043a040",
+			"type":"text",
+			"text":"CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ac2726493215efdd",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"272780a72ec20461",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-380,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7de4a9f2d07b4f95",
+			"type":"text",
+			"text":"SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-380,
+			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"933a3baa8235ec00",
+			"type":"text",
+			"text":"CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-380,
+			"y":-140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1290d5410e1075fc",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-380,
+			"y":-380,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -520,23 +560,31 @@
 		},
 		{
 			"id":"b43ed7f4ac628542",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":"dotted"
+			},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"7aa54225431629e5",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"126f9b7ed5cf80dc",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"🔒"
 		},
 		{
 			"id":"19dde95b19767f6a",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":null,
+				"path":"dotted"
+			},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"7aa54225431629e5",
-			"fromSide":"bottom",
+			"fromSide":"right",
 			"toNode":"c0fed45f2c9f01c1",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"🔒"
 		}
 	],
 	"metadata":{
