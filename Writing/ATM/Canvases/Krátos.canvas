@@ -52,16 +52,6 @@
 			"height":60
 		},
 		{
-			"id":"3bfd0b809d3a3983",
-			"type":"text",
-			"text":"BARYTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":660,
-			"y":-60,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"f3ac2b96f457d140",
 			"type":"text",
 			"text":"HYDROTON",
@@ -150,96 +140,6 @@
 			"y":-360,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"c0fed45f2c9f01c1",
-			"type":"text",
-			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
-			"styleAttributes":{"border":"invisible"},
-			"x":-940,
-			"y":260,
-			"width":590,
-			"height":180
-		},
-		{
-			"id":"3298b3a33373fa2a",
-			"type":"text",
-			"text":"PENETRATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1460,
-			"y":970,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"50b0f917b3aabc4c",
-			"type":"text",
-			"text":"NEUTRALIZATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-940,
-			"y":970,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1494b07c7c737647",
-			"type":"text",
-			"text":"SUBMISSION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-720,
-			"y":1090,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3dc96099f8b959f4",
-			"type":"text",
-			"text":"CONTESTING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-720,
-			"y":1170,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"20f0b47de657930f",
-			"type":"text",
-			"text":"AURA OF THE KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":560,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b0e3e770fe9dbfdc",
-			"type":"text",
-			"text":"AURA OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":690,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c4b6b1a958ca48a3",
-			"type":"text",
-			"text":"COATING OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":830,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"126f9b7ed5cf80dc",
-			"type":"text",
-			"text":"# THE ARISTŌN CLASS\n\n|              |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :----------: | :-------------------: | :-------------------: |\n| HOLOTATŌN 🔒 | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIOTATŌN 🔒 | IDIARISTŌN MONOKRÁTON | IDIARISTŌN POLYKRÁTON |\n",
-			"styleAttributes":{"border":"invisible"},
-			"x":-1790,
-			"y":260,
-			"width":590,
-			"height":180
 		},
 		{
 			"id":"ac2726493215efdd",
@@ -362,22 +262,102 @@
 			"height":60
 		},
 		{
-			"id":"12f9ed9bd8af6d9e",
+			"id":"126f9b7ed5cf80dc",
 			"type":"text",
-			"text":"PRIMOTON",
+			"text":"# THE ARISTŌN CLASS\n\n|              |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :----------: | :-------------------: | :-------------------: |\n| HOLOTATŌN 🔒 | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIOTATŌN 🔒 | IDIARISTŌN MONOKRÁTON | IDIARISTŌN POLYKRÁTON |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-2120,
+			"y":40,
+			"width":590,
+			"height":180
+		},
+		{
+			"id":"c0fed45f2c9f01c1",
+			"type":"text",
+			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-600,
+			"y":40,
+			"width":590,
+			"height":180
+		},
+		{
+			"id":"1494b07c7c737647",
+			"type":"text",
+			"text":"SUBMISSION",
 			"styleAttributes":{"textAlign":"center"},
-			"x":520,
-			"y":20,
+			"x":-720,
+			"y":770,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"9b5fccad13d9dd56",
+			"id":"3dc96099f8b959f4",
 			"type":"text",
-			"text":"PSIONITON",
+			"text":"CONTESTING",
 			"styleAttributes":{"textAlign":"center"},
-			"x":820,
-			"y":20,
+			"x":-720,
+			"y":850,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"20f0b47de657930f",
+			"type":"text",
+			"text":"AURA OF THE KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b0e3e770fe9dbfdc",
+			"type":"text",
+			"text":"AURA OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4b6b1a958ca48a3",
+			"type":"text",
+			"text":"COATING OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3298b3a33373fa2a",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1460,
+			"y":660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"50b0f917b3aabc4c",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-940,
+			"y":660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"12f9ed9bd8af6d9e",
+			"type":"text",
+			"text":"PRIMOTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2120,
+			"y":440,
 			"width":260,
 			"height":60
 		},
@@ -386,8 +366,28 @@
 			"type":"text",
 			"text":"PYRENIKON",
 			"styleAttributes":{"textAlign":"center"},
-			"x":520,
-			"y":-140,
+			"x":-2120,
+			"y":280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3bfd0b809d3a3983",
+			"type":"text",
+			"text":"BARYTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1980,
+			"y":360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9b5fccad13d9dd56",
+			"type":"text",
+			"text":"PSIONITON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1820,
+			"y":440,
 			"width":260,
 			"height":60
 		},
@@ -396,8 +396,8 @@
 			"type":"text",
 			"text":"ELEKTROMAGNETON",
 			"styleAttributes":{"textAlign":"center"},
-			"x":820,
-			"y":-140,
+			"x":-1820,
+			"y":280,
 			"width":260,
 			"height":60
 		}
@@ -529,7 +529,7 @@
 			"fromNode":"7aa54225431629e5",
 			"fromSide":"left",
 			"toNode":"126f9b7ed5cf80dc",
-			"toSide":"top",
+			"toSide":"right",
 			"label":"🔒"
 		},
 		{
@@ -543,26 +543,17 @@
 			"fromNode":"7aa54225431629e5",
 			"fromSide":"right",
 			"toNode":"c0fed45f2c9f01c1",
-			"toSide":"top",
+			"toSide":"left",
 			"label":"🔒"
 		},
 		{
-			"id":"0f7fbe9e987d7761",
+			"id":"c04d905887af24b6",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"126f9b7ed5cf80dc",
+			"fromNode":"7aa54225431629e5",
 			"fromSide":"bottom",
 			"toNode":"20f0b47de657930f",
-			"toSide":"left"
-		},
-		{
-			"id":"d16056caeaef2f2a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c0fed45f2c9f01c1",
-			"fromSide":"bottom",
-			"toNode":"20f0b47de657930f",
-			"toSide":"right"
+			"toSide":"top"
 		}
 	],
 	"metadata":{
