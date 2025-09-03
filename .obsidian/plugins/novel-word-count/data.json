@@ -7494,34 +7494,6 @@
       },
       "frontmatter": {}
     },
-    "Writing/ATM/Canvases/Krátos.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 94,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.31333333333333335,
-      "characterCount": 1331,
-      "nonWhitespaceCharacterCount": 948,
-      "newlineCount": 52,
-      "readingTimeInMinutes": 0.35471698113207545,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1756432443296,
-      "modifiedDate": 1756883222130,
-      "sizeInBytes": 8801,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 1067,
-        "nonWhitespaceCharacterCount": 857,
-        "newlineCount": 52
-      },
-      "frontmatter": {}
-    },
     "Writing/ATM/Canvases/Krátos (English).canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7538,7 +7510,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755732157426,
-      "modifiedDate": 1756432443521,
+      "modifiedDate": 1756883713122,
       "sizeInBytes": 22529,
       "sessionStart": {
         "noteCount": 1,
@@ -7566,7 +7538,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755134975036,
-      "modifiedDate": 1756432458817,
+      "modifiedDate": 1756883706641,
       "sizeInBytes": 23536,
       "sessionStart": {
         "noteCount": 1,
@@ -7598,7 +7570,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744603432603,
-      "modifiedDate": 1755182360395,
+      "modifiedDate": 1756883710142,
       "sizeInBytes": 6753,
       "sessionStart": {
         "noteCount": 1,
@@ -8688,6 +8660,61 @@
         "characterCount": 366,
         "nonWhitespaceCharacterCount": 307,
         "newlineCount": 10
+      }
+    },
+    "Writing/ATM/Canvases/Krátos (Common).canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 1329,
+      "nonWhitespaceCharacterCount": 931,
+      "newlineCount": 50,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1756432443296,
+      "modifiedDate": 1756883884319,
+      "sizeInBytes": 8549,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {}
+    },
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1756883666094,
+      "modifiedDate": 1756883666094,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

@@ -175,16 +175,6 @@
 			"height":50
 		},
 		{
-			"id":"b2e1e1e047388a2e",
-			"styleAttributes":{},
-			"text":"# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
-			"type":"text",
-			"x":731,
-			"y":40,
-			"width":370,
-			"height":123
-		},
-		{
 			"id":"b79b6fe59df756cd",
 			"styleAttributes":{},
 			"text":"# Magic Disruption",
@@ -233,6 +223,16 @@
 			"y":629,
 			"width":305,
 			"height":50
+		},
+		{
+			"id":"b2e1e1e047388a2e",
+			"styleAttributes":{},
+			"text":"# Advanced Conversion\n\nCan convert  *matter* itself into his own energy by recognizing that matter is fundamentally a form of energy.",
+			"type":"text",
+			"x":731,
+			"y":40,
+			"width":370,
+			"height":123
 		},
 		{
 			"id":"a631b387fb15f077",

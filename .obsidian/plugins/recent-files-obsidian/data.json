@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Krátos",
-      "path": "Writing/ATM/Canvases/Krátos.canvas"
+      "basename": "Krátos (Common)",
+      "path": "Writing/ATM/Canvases/Krátos (Common).canvas"
     },
     {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
+    },
+    {
+      "basename": "Domination of Energy",
+      "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
+    },
+    {
+      "basename": "Krátos (Greek)",
+      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
+    },
+    {
+      "basename": "Krátos (Conqueror)",
+      "path": "Writing/ATM/Canvases/Krátos (Conqueror).canvas"
     },
     {
       "basename": "Psionics",
@@ -15,10 +27,6 @@
     {
       "basename": "Sorcery Redefined",
       "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
-    },
-    {
-      "basename": "Krátos (Greek)",
-      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Rizal Law and the Catholic Hierarchy",
@@ -43,10 +51,6 @@
     {
       "basename": "The Nordsons and Lepidiels",
       "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
-    },
-    {
-      "basename": "Domination of Energy",
-      "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
     },
     {
       "basename": "psionics-system",
@@ -195,10 +199,6 @@
     {
       "basename": "Character References Template",
       "path": "_Templates/Character References Template.md"
-    },
-    {
-      "basename": "Concept - Medieval AU",
-      "path": "Writing/ATM/Story Arcs/Concept - Medieval AU.md"
     }
   ],
   "omittedPaths": [],

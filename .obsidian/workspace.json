@@ -37,15 +37,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "file": "Writing/ATM/Canvases/Krátos (Common).canvas",
                 "viewState": {
-                  "x": -306.0635803136219,
-                  "y": 1397.1890297888262,
-                  "zoom": -0.5555555216471354
+                  "x": -620.774311314701,
+                  "y": 384.0689688872539,
+                  "zoom": -0.8135448936352018
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos (English)"
+              "title": "Krátos (Common)"
             }
           },
           {
@@ -54,15 +54,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos.canvas",
+                "file": "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
                 "viewState": {
-                  "x": -892.2594193791056,
-                  "y": 448.7628204044096,
-                  "zoom": -0.6182615095269526
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos"
+              "title": "Krátos (Conqueror)"
             }
           },
           {
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -330,13 +329,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/Krátos (English).canvas",
-    "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/Krátos (Common).canvas",
+    "Writing/ATM/Canvases/Domination of Energy.canvas",
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
-    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Untitled.md",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
@@ -355,7 +356,6 @@
     "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
-    "Writing/ATM/Canvases/Domination of Energy.canvas",
     "College/1T2526",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
@@ -377,7 +377,6 @@
     "College/3Q2425/Light and Optics.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
-    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]
