@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"cbd31d4d459a0a44","type":"group","x":-1400,"y":-140,"width":660,"height":100,"label":"THEMELION"},
+		{"id":"cbd31d4d459a0a44","type":"group","x":-1400,"y":-140,"width":660,"height":100,"color":"5","label":"THEMELION"},
 		{
 			"id":"fcba6fe4e3b1a480",
 			"type":"text",
@@ -122,28 +122,6 @@
 			"height":60
 		},
 		{
-			"id":"c0fed45f2c9f01c1",
-			"type":"text",
-			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-780,
-			"y":-40,
-			"width":590,
-			"height":180
-		},
-		{
-			"id":"affe5c9f44761cfa",
-			"type":"text",
-			"text":"# THE KAKISTŌN MANIFESTATIONS\n\n| FOURFOLD MANIFESTATIONS 🔒 |\n| :------------------------: |\n|          PYROTON           |\n|          HYDROTON          |\n|          AEROTON           |\n|           GEOTON           |\n",
-			"styleAttributes":{},
-			"x":-405,
-			"y":200,
-			"width":470,
-			"height":240
-		},
-		{
 			"id":"4289d8e41fb87c02",
 			"type":"text",
 			"text":"WILL OF THE KOINON",
@@ -167,23 +145,45 @@
 			"id":"467be58e252102f8",
 			"type":"text",
 			"text":"# THE ARISTŌN MANIFESTATIONS\n\n|  NATURAL MANIFESTATIONS 🔒   |\n| :--------------------------: |\n| PYRENIKON (STRONG \\|\\| WEAK) |\n|       ELEKTROMAGNETON        |\n|           BARYTON            |\n\n| SUPERNATURAL MANIFESTATIONS 🔒 |\n| :----------------------------: |\n|            PRIMOTON            |\n|           PSIONITON            |\n",
-			"styleAttributes":{},
+			"styleAttributes":{"border":"invisible"},
 			"x":-2242,
 			"y":200,
 			"width":462,
-			"height":320
+			"height":320,
+			"color":"#ffd700"
 		},
 		{
 			"id":"126f9b7ed5cf80dc",
 			"type":"text",
 			"text":"# THE ARISTŌN CLASS\n\n|              |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :----------: | :-------------------: | :-------------------: |\n| HOLOTATŌN 🔒 | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIOTATŌN 🔒 | IDIARISTŌN MONOKRÁTON | IDIARISTŌN POLYKRÁTON |\n",
-			"styleAttributes":{
-				"border":null
-			},
+			"styleAttributes":{"border":"invisible"},
 			"x":-1995,
 			"y":-40,
 			"width":590,
-			"height":180
+			"height":180,
+			"color":"#ffd700"
+		},
+		{
+			"id":"affe5c9f44761cfa",
+			"type":"text",
+			"text":"# THE KAKISTŌN MANIFESTATIONS\n\n| FOURFOLD MANIFESTATIONS 🔒 |\n| :------------------------: |\n|          PYROTON           |\n|          HYDROTON          |\n|          AEROTON           |\n|           GEOTON           |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-365,
+			"y":200,
+			"width":470,
+			"height":240,
+			"color":"#964b00"
+		},
+		{
+			"id":"c0fed45f2c9f01c1",
+			"type":"text",
+			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-740,
+			"y":-40,
+			"width":590,
+			"height":180,
+			"color":"#964b00"
 		}
 	],
 	"edges":[
@@ -218,6 +218,7 @@
 			"toNode":"4b3c5438269fceb0",
 			"toSide":"left",
 			"toEnd":"none",
+			"color":"5",
 			"label":"➕"
 		},
 		{

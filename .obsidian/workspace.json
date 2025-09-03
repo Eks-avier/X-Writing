@@ -39,9 +39,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (Common).canvas",
                 "viewState": {
-                  "x": -620.774311314701,
-                  "y": 384.0689688872539,
-                  "zoom": -0.8135448936352018
+                  "x": -1068.5,
+                  "y": 648.7305530017719,
+                  "zoom": -0.5742174670512704
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,9 +56,9 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 25.631439050120832,
+                  "y": 45.013651004275324,
+                  "zoom": -0.5071504662326818
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -90,8 +90,8 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
                 "viewState": {
-                  "x": 1252.997446118381,
-                  "y": -162.88673079109097,
+                  "x": 1501.778262100152,
+                  "y": -310.97062054916785,
                   "zoom": -1.112968817036249
                 }
               },
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -329,15 +330,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
-    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Untitled.md",
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
