@@ -1,4 +1,4 @@
-# Krátos (draftt 1)
+# Krátos (draft 1)
 
 ## Fundamental Nature
 
