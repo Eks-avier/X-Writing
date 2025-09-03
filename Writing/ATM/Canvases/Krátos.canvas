@@ -2,136 +2,6 @@
 	"nodes":[
 		{"id":"cbd31d4d459a0a44","type":"group","x":-1360,"y":-80,"width":580,"height":100,"label":"THEMELION"},
 		{
-			"id":"4289d8e41fb87c02",
-			"type":"text",
-			"text":"WILL OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1340,
-			"y":-60,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"126f9b7ed5cf80dc",
-			"type":"text",
-			"text":"# THE ARISTŌN CLASS\n\n|              |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :----------: | :-------------------: | :-------------------: |\n| HOLOTATŌN 🔒 | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIOTATŌN 🔒 | IDIARISTŌN MONOKRÁTON | IDIARISTŌN POLYKRÁTON |\n",
-			"styleAttributes":{"border":"invisible"},
-			"x":-2120,
-			"y":40,
-			"width":590,
-			"height":180
-		},
-		{
-			"id":"3298b3a33373fa2a",
-			"type":"text",
-			"text":"PENETRATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1460,
-			"y":660,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"7aa54225431629e5",
-			"type":"text",
-			"text":"MANIFESTATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":100,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"20f0b47de657930f",
-			"type":"text",
-			"text":"AURA OF THE KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":240,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b0e3e770fe9dbfdc",
-			"type":"text",
-			"text":"AURA OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c4b6b1a958ca48a3",
-			"type":"text",
-			"text":"COATING OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4b3c5438269fceb0",
-			"type":"text",
-			"text":"RESOLVE OF THE KOINON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1060,
-			"y":-60,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"fcba6fe4e3b1a480",
-			"type":"text",
-			"text":"WILL OF THE KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":-220,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"50b0f917b3aabc4c",
-			"type":"text",
-			"text":"NEUTRALIZATION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-940,
-			"y":660,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1494b07c7c737647",
-			"type":"text",
-			"text":"SUBMISSION",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-720,
-			"y":770,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3dc96099f8b959f4",
-			"type":"text",
-			"text":"CONTESTING",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-720,
-			"y":850,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c0fed45f2c9f01c1",
-			"type":"text",
-			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
-			"styleAttributes":{"border":"invisible"},
-			"x":-600,
-			"y":40,
-			"width":590,
-			"height":180
-		},
-		{
 			"id":"ac2726493215efdd",
 			"type":"text",
 			"text":"PENETRATION",
@@ -178,26 +48,6 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":140,
 			"y":-220,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b57047fa1c8a0604",
-			"type":"text",
-			"text":"KRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1200,
-			"y":-360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5fb479b61d3bbfbf",
-			"type":"text",
-			"text":"BIOLOGY",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-1580,
-			"y":-360,
 			"width":260,
 			"height":60
 		},
@@ -302,6 +152,216 @@
 			"height":60
 		},
 		{
+			"id":"126f9b7ed5cf80dc",
+			"type":"text",
+			"text":"# THE ARISTŌN CLASS\n\n|              |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :----------: | :-------------------: | :-------------------: |\n| HOLOTATŌN 🔒 | HOLARISTŌN MONOKRÁTON | HOLARISTŌN POLYKRÁTON |\n| IDIOTATŌN 🔒 | IDIARISTŌN MONOKRÁTON | IDIARISTŌN POLYKRÁTON |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-2120,
+			"y":40,
+			"width":590,
+			"height":180
+		},
+		{
+			"id":"3bfd0b809d3a3983",
+			"type":"text",
+			"text":"BARYTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1985,
+			"y":720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a6a9d403088d827b",
+			"type":"text",
+			"text":"PYRENIKON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2125,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c47748e8da309ff1",
+			"type":"text",
+			"text":"ELEKTROMAGNETON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1825,
+			"y":640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"12f9ed9bd8af6d9e",
+			"type":"text",
+			"text":"PRIMOTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2125,
+			"y":800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9b5fccad13d9dd56",
+			"type":"text",
+			"text":"PSIONITON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1825,
+			"y":800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4289d8e41fb87c02",
+			"type":"text",
+			"text":"WILL OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1340,
+			"y":-60,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3298b3a33373fa2a",
+			"type":"text",
+			"text":"PENETRATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1460,
+			"y":660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7aa54225431629e5",
+			"type":"text",
+			"text":"MANIFESTATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"20f0b47de657930f",
+			"type":"text",
+			"text":"AURA OF THE KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b0e3e770fe9dbfdc",
+			"type":"text",
+			"text":"AURA OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4b6b1a958ca48a3",
+			"type":"text",
+			"text":"COATING OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fcba6fe4e3b1a480",
+			"type":"text",
+			"text":"WILL OF THE KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b57047fa1c8a0604",
+			"type":"text",
+			"text":"KRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5fb479b61d3bbfbf",
+			"type":"text",
+			"text":"BIOLOGY",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-1580,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"198bb48fa9227826",
+			"type":"text",
+			"text":"AKRÁTON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1960,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4b3c5438269fceb0",
+			"type":"text",
+			"text":"RESOLVE OF THE KOINON",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1060,
+			"y":-60,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"50b0f917b3aabc4c",
+			"type":"text",
+			"text":"NEUTRALIZATION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-940,
+			"y":660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1494b07c7c737647",
+			"type":"text",
+			"text":"SUBMISSION",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3dc96099f8b959f4",
+			"type":"text",
+			"text":"CONTESTING",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":850,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c0fed45f2c9f01c1",
+			"type":"text",
+			"text":"# THE KAKISTŌN CLASS\n\n|               |     MONOKRÁTON 🔒     |     POLYKRÁTON 🔒     |\n| :-----------: | :-------------------: | :-------------------: |\n| EURYTATŌN 🔒  | EURYTATŌN MONOKRÁTON  | EURYTATŌN POLYKRÁTON  |\n| STENOTATŌN 🔒 | STENOTATŌN MONOKRÁTON | STENOTATŌN POLYKRÁTON |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-600,
+			"y":40,
+			"width":590,
+			"height":180
+		},
+		{
 			"id":"4cbc206eeeefd337",
 			"type":"text",
 			"text":"PYROTON",
@@ -342,74 +402,14 @@
 			"height":60
 		},
 		{
-			"id":"198bb48fa9227826",
-			"type":"text",
-			"text":"AKRÁTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1960,
-			"y":-360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"12f9ed9bd8af6d9e",
-			"type":"text",
-			"text":"PRIMOTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2125,
-			"y":580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3bfd0b809d3a3983",
-			"type":"text",
-			"text":"BARYTON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1985,
-			"y":500,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9b5fccad13d9dd56",
-			"type":"text",
-			"text":"PSIONITON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1825,
-			"y":580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a6a9d403088d827b",
-			"type":"text",
-			"text":"PYRENIKON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2125,
-			"y":420,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c47748e8da309ff1",
-			"type":"text",
-			"text":"ELEKTROMAGNETON",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1825,
-			"y":420,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"467be58e252102f8",
 			"type":"text",
-			"text":"",
+			"text":"# THE NATURAL ARISTŌN MANIFESTATIONS\n\n| PYRENIKON<br>ELEKTROMAGNETON<br>BARYTON |     |\n| --------------------------------------- | --- |\n|                                         |     |\n|                                         |     |\n",
 			"styleAttributes":{},
-			"x":-1955,
+			"x":-2447,
 			"y":300,
-			"width":260,
-			"height":60
+			"width":462,
+			"height":240
 		}
 	],
 	"edges":[
@@ -569,8 +569,9 @@
 			"id":"5e15f6984bbaa1df",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"126f9b7ed5cf80dc",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"467be58e252102f8",
 			"toSide":"top"
 		}
