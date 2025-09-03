@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"21c14178bd73e7d5",
+			"type":"text",
+			"text":"AURA OF THE KRATOR",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-560,
+			"y":-700,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
