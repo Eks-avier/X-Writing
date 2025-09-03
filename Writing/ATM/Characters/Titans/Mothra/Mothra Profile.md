@@ -24,7 +24,7 @@ This section provides the fundamental identifying details and a high-level overv
 - **Approximated True Age**: 250 million years old
 - **Ethnicity (Human Form)**: Pan-Eurasian (Idealized)
   - Her human form blends Southern European and East Asian features, creating an ethereal, classical beauty that transcends any single ethnicity, reflecting her global and divine nature.
-- **Magical Aptitude**: [[The Soul.md#Null Limitation|Null]]
+- **Magical Aptitude**: [[The Soul#Null Limitation|Null]]
 - **Psionic Aptitude**: [[psionics-system.md#Classification System: Non and Unnon|Unnon]] ([[psionics-system.md#True Psychics and Capability Thresholds|Nomothete Psychic]])
 - **Krátos Aptitude**: [[kratos_system_summary.md#Basic Classifications|Akráton]]
 - **Living Status**: Alive (via Reincarnation)

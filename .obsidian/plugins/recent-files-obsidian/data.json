@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Krátos, the Power of Will",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
+    },
+    {
+      "basename": "Krátos (draftt 1)",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos (draftt 1).md"
+    },
+    {
+      "basename": "Krátos (draft 2)",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md"
+    },
+    {
+      "basename": "Krátos (Common)",
+      "path": "Writing/ATM/Canvases/Krátos (Common).canvas"
+    },
+    {
+      "basename": "Unrefined - Time Manipulation ",
+      "path": "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md"
+    },
+    {
+      "basename": "Architecture of Spell Casting",
+      "path": "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md"
+    },
+    {
       "basename": "Krátos (Conqueror)",
       "path": "Writing/ATM/Canvases/Krátos (Conqueror).canvas"
     },
     {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
-    },
-    {
-      "basename": "Krátos (Common)",
-      "path": "Writing/ATM/Canvases/Krátos (Common).canvas"
     },
     {
       "basename": "Sorcery Redefined",
@@ -58,11 +78,11 @@
     },
     {
       "basename": "Art of Spell Casting",
-      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md"
+      "path": "Writing/ATM/Power Systems/Magic/The Fourfold Doctrine/Art of Spell Casting.md"
     },
     {
       "basename": "Art of Commitments",
-      "path": "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md"
+      "path": "Writing/ATM/Power Systems/Magic/The Fourfold Doctrine/Art of Commitments.md"
     },
     {
       "basename": "Filipino Essay",
@@ -70,7 +90,7 @@
     },
     {
       "basename": "Unrefined - The Art of Commitments",
-      "path": "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md"
+      "path": "Writing/ATM/Power Systems/Unrefined/Unrefined - The Art of Commitments.md"
     },
     {
       "basename": "Notepad 9",
@@ -78,7 +98,7 @@
     },
     {
       "basename": "Soul Resonance",
-      "path": "Writing/ATM/Magic System/Soul/Soul Resonance.md"
+      "path": "Writing/ATM/Power Systems/Soul/Soul Resonance.md"
     },
     {
       "basename": "The First Arc - Plot Outline",
@@ -90,7 +110,7 @@
     },
     {
       "basename": "Soul Infusion",
-      "path": "Writing/ATM/Magic System/Soul/Soul Infusion.md"
+      "path": "Writing/ATM/Power Systems/Soul/Soul Infusion.md"
     },
     {
       "basename": "1-27-25 - Physics",
@@ -179,26 +199,6 @@
     {
       "basename": "Notepad 8",
       "path": "Notepad 8.md"
-    },
-    {
-      "basename": "Titans, Magic, and Psionics",
-      "path": "Writing/ATM/Magic System/Titans, Magic, and Psionics.md"
-    },
-    {
-      "basename": "Psychic-Sorcery Interface",
-      "path": "Writing/ATM/Magic System/Psychic-Sorcery Interface.md"
-    },
-    {
-      "basename": "psionics-system",
-      "path": "Writing/ATM/Characters/Titans/Mothra/psionics-system.md"
-    },
-    {
-      "basename": "Power Dynamics",
-      "path": "Writing/ATM/Power Dynamics.md"
-    },
-    {
-      "basename": "Character References Template",
-      "path": "_Templates/Character References Template.md"
     }
   ],
   "omittedPaths": [],

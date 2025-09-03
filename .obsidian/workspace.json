@@ -32,92 +32,91 @@
             }
           },
           {
-            "id": "945fcc965a95350a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Krátos (Common).canvas",
-                "viewState": {
-                  "x": -1068.5,
-                  "y": 648.7305530017719,
-                  "zoom": -0.5742174670512704
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos (Common)"
-            }
-          },
-          {
             "id": "061da0d9587e5cd9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
-                "viewState": {
-                  "x": -333.6907275549677,
-                  "y": -294.4257890669392,
-                  "zoom": -0.5071504662326818
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos (Conqueror)"
-            }
-          },
-          {
-            "id": "f7f084b2d53d75e9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
-                "viewState": {
-                  "x": -21.03148944146416,
-                  "y": 457.7146108966398,
-                  "zoom": -1.23965608260782
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos (English)"
-            }
-          },
-          {
-            "id": "0ab5916fdaf22b3f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Psionics.canvas",
-                "viewState": {
-                  "x": 612.8105178683638,
-                  "y": -366.37692273395885,
-                  "zoom": -1.3742409017889128
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Psionics"
-            }
-          },
-          {
-            "id": "5bbf688554be2e79",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Sorcery Redefined.canvas",
-                "viewState": {
-                  "x": 1501.778262100152,
-                  "y": -310.97062054916785,
-                  "zoom": -1.112968817036249
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sorcery Redefined"
+              "icon": "lucide-file",
+              "title": "Krátos, the Power of Will"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "e9f3eacac4d9b640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "945fcc965a95350a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draftt 1).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Krátos (draftt 1)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74ee711d30c292be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31701aa74c30a949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Krátos (draft 2)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,14 +342,24 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Krátos (English).canvas",
-    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draftt 1).md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
+    "Writing/ATM/Power Systems/Krátos/Untitled",
+    "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md",
+    "Writing/ATM/Power Systems/Krátos",
+    "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md",
+    "Writing/ATM/Power Systems/Unrefined",
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Power Systems/Magic",
+    "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
@@ -375,25 +384,15 @@
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "College/1T2526",
     "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
-    "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Commitments.md",
+    "Writing/ATM/Power Systems/Magic/The Fourfold Doctrine/Art of Spell Casting.md",
+    "Writing/ATM/Power Systems/Magic/The Fourfold Doctrine/Art of Commitments.md",
     "German Vocabulary - Nouns (A1).txt",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
-    "~syncthing~German Vocabulary - Nouns (A1).txt.tmp",
-    "~syncthing~Notepad 10.md.tmp",
-    "Writing/ATM/Magic System/Unrefined - The Art of Commitments.md",
+    "Writing/ATM/Power Systems/Unrefined/Unrefined - The Art of Commitments.md",
     "Notepad 9.md",
-    "Writing/ATM/Magic System/Soul/Soul Resonance.md",
+    "Writing/ATM/Power Systems/Soul/Soul Resonance.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Magic System/Soul/Soul Infusion.md",
-    "College/3Q2425/1-27-25 - Physics.md",
-    "College/1Q2526",
-    "College/3Q2425",
-    "Writing/ATM/Characters/Titans/Mothra/Mothra Profile.md",
-    "College/3Q2425/Light and Optics.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]
