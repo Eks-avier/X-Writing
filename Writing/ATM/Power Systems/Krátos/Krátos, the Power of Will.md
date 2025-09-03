@@ -1,6 +1,6 @@
 # Krátos, the Power of Will
 
-## What is Krátos?
+## Definition
 
 - It is willpower made manifest.
 - Someone who wields Krátos does not *control* what their will manifests as, their will *literally* expresses itself *as* their will's manifestation.
@@ -9,22 +9,29 @@
 	- Psionics requires an interaction between the Psiforce and a sentient being's biological brain
 	- Krátos demands from those capable of it *only* their willpower.
 
-## The Kráton and Akráton
 
-- Those who are capable of Krátos are called Kráton.
-- Those who are **not** capable are called Akráton.
-- One's classification in Krátos is **absolute** and **permanent**.
-	- A Kráton can *never* become an Akráton
+
+## Determinism in Krátos
+
+### The Kráton and Akráton
+
+- Those who are capable of Krátos are called **Kráton**.
+- Those who are ***not*** capable are called **Akráton**.
+- One's classification in Krátos is *absolute* and *permanent*.
+	- A Kráton can *never* become an Akráton.
+		- It cannot be lost through any sort of disuse, injury, or disease and ailment.
 	- An Akráton can *never* become a Kráton.
-		- Neither through training or 
+		- It cannot be gained through either any sort of training or bestowal, even if attempted through the other two power systems.
+			- The sole exception being bestowal by Heaven itself.
 
-## The Role of Genetics and Biology
+#### Distribution Levels
 
-### Distribution Levels
+%% Note: Can be further clarified %%
 
-%% Note: Can be made tabular %%
+|   LEVEL    | VARIATION |                                    DESCRIPTION                                     |
+| :--------: | :-------: | :--------------------------------------------------------------------------------: |
+|  SPECIES   |   ✅ / ❌   |                  Entire species can be either Kráton or Akráton.                   |
+|  LINEAGE   |   ✅ / ❌   |       Lineages within species who are either Kráton or Akráton can be either       |
+| INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
 
-- **Species-level**: An entire species can be designated as capable of Krátos.
-- **Lineage-level**: Specific families and clans within a species *incapable* of Krátos *can* be designated as Kráton.
-- **Individual-level**: Extremely rare individuals may develop the ability to wield Krátos regardless of their species or lineage limitations.
-
+### 
