@@ -56,13 +56,30 @@
               "state": {
                 "file": "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
                 "viewState": {
-                  "x": 25.631439050120832,
-                  "y": 45.013651004275324,
+                  "x": -124.8078346241378,
+                  "y": -177.6589391537411,
                   "zoom": -0.5071504662326818
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Krátos (Conqueror)"
+            }
+          },
+          {
+            "id": "f7f084b2d53d75e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "viewState": {
+                  "x": -21.03148944146416,
+                  "y": 457.7146108966398,
+                  "zoom": -1.23965608260782
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos (English)"
             }
           },
           {
@@ -197,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -326,16 +342,15 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Krátos (Common).canvas",
-    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
-    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Canvases/Krátos (Common).canvas",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
