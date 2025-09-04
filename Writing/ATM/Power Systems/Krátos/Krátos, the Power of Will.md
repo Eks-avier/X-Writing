@@ -39,6 +39,6 @@
 - Biology and Krátos are intertwined.
 - Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it. 
 	- The most prominent species to possess Krátos is *Titanus gojira*. 
-		- Their ancestors were mutated by **Fallen Star** upon extended exposure.
+		- Their ancestors were mutated by the **Fallen Star** upon extended exposure.
 		- This resulted in their bodies developing the ability to *facilitate* the **storage** and **production** of nuclear energy, which lead to them developing the ability *harness* and *wield* it as a weapon, through their iconic **Atomic Breath** and their emission of dangerous/beneficial radiation.
-		- 
+		- The effectiveness of their powers
