@@ -37,4 +37,6 @@
 ### The Role of Biology
 
 - Biology and Krátos are intertwined.
-- Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it.
+- Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it. 
+	- The most prominent species to possess Krátos is *Titanus gojira*. 
+		- They were mutated by **Fallen Star** upon contact.
