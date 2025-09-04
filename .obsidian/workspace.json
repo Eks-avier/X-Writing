@@ -342,50 +342,10 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "0fbe6b0883386c30",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a9b502ba53994184",
-        "type": "window",
-        "children": [
-          {
-            "id": "0cf6a5a704d1a0fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62787fabd43a7675",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://writewithharper.com/docs/contributors/dictionary",
-                    "title": "Updating the Curated Dictionary - Harper",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Updating the Curated Dictionary - Harper"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 140,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "62787fabd43a7675",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",

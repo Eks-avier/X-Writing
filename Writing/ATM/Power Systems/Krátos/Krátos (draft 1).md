@@ -8,11 +8,11 @@
 
 ### The Central Truth
 
-A Kraton's power is not manipulation of external forces—it is **willpower made manifest**. When a Pyron “controls fire,” their willpower literally burns like flame. When a Graviton “controls gravity,” their will crushes like a black hole. The force is not separate from the wielder; it is the physical expression of their determination.
+A Kráton's power is not manipulation of external forces—it is **willpower made manifest**. When a Pyron “controls fire,” their willpower literally burns like flame. When a Graviton “controls gravity,” their will crushes like a black hole. The force is not separate from the wielder; it is the physical expression of their determination.
 
 ### Power Source Hierarchy
 
-1. **Willpower** - The fundamental driver of all Kratonic abilities
+1. **Willpower** - The fundamental driver of all Krátonic abilities
 2. **Inherited Biological Capacity** - Genetic predisposition determines which phenomena can be controlled
 3. **Desire** (Conquerors only) - The psychological framework that gives willpower direction and purpose
 
@@ -20,7 +20,7 @@ A Kraton's power is not manipulation of external forces—it is **willpower made
 
 **“Reality has no choice but to comply with a being of sufficient willpower.”**
 
-This principle explains why Kratonic abilities can override natural immunities, bypass conventional defenses, and achieve seemingly impossible effects. The universe literally reshapes itself around absolute conviction.
+This principle explains why Krátonic abilities can override natural immunities, bypass conventional defences, and achieve seemingly impossible effects. The universe literally reshapes itself around absolute conviction.
 
 ---
 
@@ -28,8 +28,8 @@ This principle explains why Kratonic abilities can override natural immunities, 
 
 ### Primary Classification
 
-- **Kraton**: Possesses the inherited capacity for Krátos
-- **Akraton**: Does not possess Kratonic capabilities
+- **Kráton**: Possesses the inherited capacity for Krátos
+- **Akráton**: Does not possess Krátonic capabilities
 
 ### Capability Determination
 
@@ -41,8 +41,8 @@ Classification is **binary and absolute**:
 
 ### Genetic Distribution
 
-- **Species-Level**: Entire species may possess Kratonic capability
-- **Lineage-Level**: Family lines within Non-Kratonic species may possess the gift
+- **Species-Level**: Entire species may possess Krátonic capability
+- **Lineage-Level**: Family lines within Akrátonic species may possess the gift
 - **Individual-Level**: Rare individuals may manifest despite species/lineage limitations
 
 ---
