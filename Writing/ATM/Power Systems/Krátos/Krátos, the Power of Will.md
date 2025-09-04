@@ -31,7 +31,10 @@
 |   LEVEL    | VARIATION |                                    DESCRIPTION                                     |
 | :--------: | :-------: | :--------------------------------------------------------------------------------: |
 |  SPECIES   |   ✅ / ❌   |                  Entire species can be either Kráton or Akráton.                   |
-|  LINEAGE   |   ✅ / ❌   |       Lineages within species who are either Kráton or Akráton can be either       |
+|  LINEAGE   |   ✅ / ❌   | Lineages within species who are either Kráton or Akráton can be either of the two. |
 | INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
 
-### 
+### The Role of Biology
+
+- Biology and Krátos are intertwined.
+- Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it.

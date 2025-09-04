@@ -93,17 +93,6 @@
 	],
 	"edges":[
 		{
-			"id":"8b1ffa59ec849a66",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"1c65dde8c34e6b58",
-			"fromSide":"right",
-			"toNode":"c0a122132114e4bb",
-			"toSide":"left",
-			"fromEnd":"arrow"
-		},
-		{
 			"id":"5a1008d41f30a555",
 			"styleAttributes":{},
 			"toFloating":false,

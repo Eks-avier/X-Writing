@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
                 "viewState": {
-                  "x": -427.01049457006945,
-                  "y": 1106.3460000974924,
-                  "zoom": -1.4833993292283099
+                  "x": 183.6782161029874,
+                  "y": 213.47505630737115,
+                  "zoom": -2.184716747883342
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Krátos (English)"
+              "title": "The Titan Standing Hierarchy"
             }
           }
         ]
@@ -207,10 +207,12 @@
   },
   "active": "f99e82848841319f",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/Krátos (Greek).canvas",
-    "Writing/ATM/Canvases/Krátos (English).canvas",
-    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
+    "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/ATM/Unrefined/Filipino Essay.md",
     "Writing/ATM/Unrefined/Unrefined - Mothra's Regalia.md",
