@@ -63,7 +63,7 @@
               "state": {
                 "file": "Notepad 12.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
