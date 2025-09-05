@@ -6,6 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
+        "dimension": 41.130298273155425,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -61,9 +62,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notepad 12.md",
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -76,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notepad 12"
+              "title": "Krátos, the Power of Will"
             }
           }
         ],
@@ -85,6 +86,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
+        "dimension": 25.536368393511246,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -115,6 +117,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -237,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -370,8 +374,8 @@
   },
   "active": "f6ea744d272cdff2",
   "lastOpenFiles": [
-    "Notepad 11.md",
     "Notepad 12.md",
+    "Notepad 11.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Antitheriomorphosis.md",

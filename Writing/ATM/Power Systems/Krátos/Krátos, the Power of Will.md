@@ -26,13 +26,16 @@
 
 #### Distribution Levels
 
-%% Note: Can be further clarified %%
-
-|   LEVEL    | VARIATION |                                    DESCRIPTION                                     |
-| :--------: | :-------: | :--------------------------------------------------------------------------------: |
-|  SPECIES   |   ✅ / ❌   |                  Entire species can be either Kráton or Akráton.                   |
-|  LINEAGE   |   ✅ / ❌   | Lineages within species who are either Kráton or Akráton can be either of the two. |
-| INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
+| SPECIES | LINEAGE | INDIVIDUAL |
+| :-----: | :-----: | :--------: |
+|    X    |    X    |     X      |
+|    X    |    X    |     Y      |
+|    X    |    Y    |     X      |
+|    X    |    Y    |     Y      |
+|    Y    |    X    |     X      |
+|    Y    |    X    |     Y      |
+|    Y    |    Y    |     X      |
+|    Y    |    Y    |     Y      |
 
 ### The Role of Biology
 

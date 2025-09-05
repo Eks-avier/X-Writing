@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-09-05T17:49:35.002Z",
+      "total": 0,
+      "drafts": {
+        "Writing/ATM/Chapters/The First Arc/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Devoured": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-09-03T16:16:16.842Z",
       "total": 0,
       "drafts": {
@@ -355,20 +367,6 @@
           "total": 0,
           "scenes": {
             "Consolation": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-02-13T05:23:56.628Z",
-      "total": 2,
-      "drafts": {
-        "Writing/Link Disconnected/Index.md": {
-          "total": 2,
-          "scenes": {
-            "Announcement": 1,
-            "Consolation": 0,
-            "Midnight Stroll": 1
           }
         }
       }
