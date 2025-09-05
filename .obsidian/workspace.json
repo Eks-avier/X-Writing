@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+                "file": "Notepad 11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Krátos, the Power of Will"
+              "title": "Notepad 11"
+            }
+          },
+          {
+            "id": "f6ea744d272cdff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notepad 12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notepad 12"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e9f3eacac4d9b640",
@@ -213,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -346,11 +369,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "f6ea744d272cdff2",
   "lastOpenFiles": [
+    "Notepad 11.md",
+    "Notepad 12.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Antitheriomorphosis.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
@@ -374,7 +399,6 @@
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
-    "Notepad 11.md",
     "Filipino Essay.md",
     "Answers to Questions.md",
     "Writing/ATM/Canvases/Krátos (English).md",
@@ -393,7 +417,6 @@
     "Notepad 9.md",
     "Writing/ATM/Power Systems/Soul/Soul Resonance.md",
     "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
-    "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]

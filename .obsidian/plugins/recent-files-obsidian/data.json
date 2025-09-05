@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Notepad 12",
+      "path": "Notepad 12.md"
+    },
+    {
+      "basename": "Notepad 11",
+      "path": "Notepad 11.md"
+    },
+    {
       "basename": "Krátos, the Power of Will",
       "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Untitled",
       "path": "Journal/Untitled.md"
-    },
-    {
-      "basename": "Notepad 11",
-      "path": "Notepad 11.md"
     },
     {
       "basename": "Drawing 2025-08-19 14.52.10.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "The Fundamental Forces Theory",
       "path": "Writing/ATM/The Fundamental Forces Theory.md"
-    },
-    {
-      "basename": "Hiding the Colossal",
-      "path": "Writing/ATM/Hiding the Colossal.md"
     }
   ],
   "omittedPaths": [],
