@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 41.130298273155425,
+        "dimension": 39.61276818419675,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -38,30 +38,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notepad 11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notepad 11"
-            }
-          },
-          {
-            "id": "f6ea744d272cdff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
                 "mode": "source",
                 "source": false,
@@ -81,12 +57,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 25.536368393511246,
+        "dimension": 31.135531135531135,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -117,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 29.25170068027211,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -195,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Ascendant Classification\"",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -236,7 +212,8 @@
               "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -369,15 +346,16 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f6ea744d272cdff2",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
-    "Notepad 12.md",
-    "Notepad 11.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+    "Notepad 12.md",
+    "Notepad 11.md",
     "Writing/ATM/Antitheriomorphosis.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
