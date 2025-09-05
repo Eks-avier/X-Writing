@@ -6,7 +6,7 @@
 	3. `8+18 = 26`
 	- **Verdict**: Likely lost focus, mixed up division with multiplication.
 - In #10, this was his solution:
-	1. `18/2 - 9`
+	1. `18/2 = 9`
 	2. `4*2 = 8`
 	3. `9+8 = 17`
 	4. `17-3 = 15`
