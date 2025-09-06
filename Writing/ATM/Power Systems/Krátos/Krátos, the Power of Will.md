@@ -24,8 +24,6 @@
 
 #### Distribution Levels
 
-%% Note: Can be further clarified %%
-
 |   LEVEL    | VARIATION |                                    DESCRIPTION                                     |
 | :--------: | :-------: | :--------------------------------------------------------------------------------: |
 |  SPECIES   |   ✅ / ❌   |                  Entire species can be either Kráton or Akráton.                   |
@@ -33,16 +31,18 @@
 | INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
 
 
+*The table below demonstrates all the possible combination of classifications*.
+
 | SPECIES | LINEAGE | INDIVIDUAL |
 | :-----: | :-----: | :--------: |
-|    X    |    X    |     X      |
-|    X    |    X    |     Y      |
-|    X    |    Y    |     X      |
-|    X    |    Y    |     Y      |
-|    Y    |    X    |     X      |
-|    Y    |    X    |     Y      |
-|    Y    |    Y    |     X      |
-|    Y    |    Y    |     Y      |
+| KRÁTON  | KRÁTON  |   KRÁTON |
+| KRÁTON  | KRÁTON  |     AKRÁTON      |
+| KRÁTON  |    AKRÁTON    |   KRÁTON   |
+| KRÁTON  |    AKRÁTON    |     AKRÁTON      |
+|    AKRÁTON    | KRÁTON  |   KRÁTON   |
+|    AKRÁTON    | KRÁTON  |     AKRÁTON      |
+|    AKRÁTON    |    AKRÁTON    |   KRÁTON   |
+|    AKRÁTON    |    AKRÁTON    |     AKRÁTON      |
 
 ### The Role of Biology
 
@@ -50,5 +50,6 @@
 - Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it.
 	- The most prominent species to possess Krátos is *Titanus gojira*.
 		- Their ancestors were mutated by the **Fallen Star** upon extended exposure.
-		- This resulted in their bodies developing the ability to *facilitate* the **storage** and **production** of nuclear energy, which lead to them developing the ability *harness* and *wield* it as a weapon, through their iconic **Atomic Breath** and their emission of dangerous/beneficial radiation.
+		- This resulted in their bodies developing the ability to *facilitate* the **storage** and **production** of nuclear energy. 
+			- This led them to develop the ability to *harness* and *wield* their atomic energy as a weapon, through their iconic **Atomic Breath** and their emission of dangerous/beneficial radiation.
 
