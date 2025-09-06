@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+                "file": "Journal/To My Fellow Kupalords.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Krátos (draft 1)"
+              "title": "To My Fellow Kupalords"
             }
           }
         ]
@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -345,13 +344,16 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+    "Journal/Happy Birthday, Dandan.md",
+    "Journal/A Letter to My Sweetest Pookie.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Notepad 11.md",
     "Writing/ATM/Antitheriomorphosis.md",
@@ -394,8 +396,6 @@
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
     "Writing/ATM/Power Systems/Unrefined/Unrefined - The Art of Commitments.md",
     "Notepad 9.md",
-    "Writing/ATM/Power Systems/Soul/Soul Resonance.md",
-    "Writing/ATM/Story Arcs/The First Arc/The First Arc - Plot Outline.md",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]
