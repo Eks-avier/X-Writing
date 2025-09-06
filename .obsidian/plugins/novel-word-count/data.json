@@ -8816,6 +8816,33 @@
         "nonWhitespaceCharacterCount": 2764,
         "newlineCount": 30
       }
+    },
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2252,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.506666666666667,
+      "characterCount": 21127,
+      "nonWhitespaceCharacterCount": 18374,
+      "newlineCount": 479,
+      "readingTimeInMinutes": 8.49811320754717,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757149204235,
+      "modifiedDate": 1757149206231,
+      "sizeInBytes": 21473,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
