@@ -23,10 +23,10 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- The weaker the willpower, the weaker the Penetration.
 				- Conversely, the stronger the willpower, the stronger the Penetration effect.
 				- We can treat this as a **spectrum**.
-					- "Low" Penetration
-					- "Mid" Penetration
-					- "High" Penetration
-					- Each "point" on the spectrum should have its *own* name.
+					- “Low” Penetration
+					- “Mid” Penetration
+					- “High” Penetration
+					- Each “point” on the spectrum should have its *own* name.
 	- As with the *Titanus gojira*'s iconic Atomic Breaths or Ghidorah's equally iconic *Gravity Beams*, Coating can extend *from* the body and *into* attacks.
 	    - A Pyroton can pick up a random bow and arrow and *infuse* it with their Aura, thereby applying Coating.
 		    - A Pyroton can even imbue rocks, or shards of glass, or a piece of toenail and if he is filled with enough willpower and skill, then he can apply Coating to it.
@@ -40,11 +40,11 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		 - It hinges on a Kraton *physically touching* an object.
 			  - It cannot be applied from a distance.
 		 - The greater the distance from the Kraton, the “imbued” object's Coating degrades.
-			  - Stronger Kratons like Ghidorah and Godzilla can have their attacks go on for several kilometres. 	        
-	- A Kraton does not need to rely on their Coating to cause any sort of damage. 
+			  - Stronger Kratons like Ghidorah and Godzilla can have their attacks go on for several kilometres.
+	- A Kraton does not need to rely on their Coating to cause any sort of damage.
 		- The damage a Kraton can cause is actually related to what **kind of phenomena** his will manifests as.
 			- Godzilla, by virtue of his biology, is a walking nuclear reactor.
-				- He is, thus, also a walking nuke. 
+				- He is, thus, also a walking nuke.
 					- His attacks cause extreme damage to living beings and the environment *because* he has the power of nuke.
 			- When Ghidorah electrocutes a human to death, disintegrating them, they died because they received hundreds of thousands of volts; whether or not his attack had Coating applied is irrelevant.
 				- But when Ghidorah tries to fire one of his *Gravity Beams* at Godzilla, the Coating actually matters because Godzilla is immune to high-voltage electricity.
@@ -52,22 +52,33 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 						- Coating *drains* energy, and because Krator have *passive* Coating, they also passively drain energy.
 							- In fact, all of their passive emanations **actively drain energy**.
 								- It is in their best interest to learn how to learn how to minimize their abilities to conserve energy.
-									- Their passive "privileges" cannot be "turned off."
-										- After all, you cannot turn off the notion of "will."
+									- Their passive “privileges” cannot be “turned off.”
+										- After all, you cannot turn off the notion of “will.”
 						- Coating can be seen as an *amplifier* rather than a default option.
-
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
-	- There are two "modes" of this type of Coating.
-		- A "general mode," in which a Kraton can protect themselves from any harm.
+  - Defensive Coating *complements* natural physiology.
+	- A theoretical human, who's a Pyroton, with great physical fitness will contribute to the strength of his Defensive Coating.
+		- Godzilla's Atomic Amplification acts as *second armor*.
+			- He's already **nigh-invulnerable** at *base*.
+				- The same principle is applied to Ghidorah.
+	- Despite the synergy, and if one is a Koinon, Defensive Coating is *not* automatic. 
+		- A human Pyroton is *not* immune to his own flames.
+			- He *has* to actually Coat himself first.
+		- Because the instinct of self-preservation is strong, the body automatically coats itself.
+			- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
+				- 
+	
+	- There are two “modes” of this type of Coating.
+		- A “general mode,” in which a Kraton can protect themselves from any harm.
 			- This consumes a *tremendous* amount of stamina.
 				- This also is the *instinct* for most people, like flinching is for humans.
 				- This is *passive* for Krator.
-					- Because it's passive for Krator since the moment they unlock their Manifestation through Alignment, their bodies have naturally "optimized" it.
+					- Because it's passive for Krator since the moment they unlock their Manifestation through Alignment, their bodies have naturally “optimized” it.
 						- However, this does not remove the passive energy drain.
-		- A "specific modes," in which a Kraton can protect selective parts of their body.
+		- A “specific modes,” in which a Kraton can protect selective parts of their body.
 			- This *must* be trained for **all** Kraton!
 				- Some don't even know that this can be done.
 					- Godzilla, through Atomic Amplification, which is about as pure as Coating applications can get, has trained to selectively amplify any part of his body.
 					- Scylla naturally does this with her ice.
-						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique. 
-					- Ghidorah, as Ichi in Arthur, had to learn this manually
+						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique.
+					- Ghidorah, as Ichi in Arthur, had to learn this manually—same as Godzilla.
