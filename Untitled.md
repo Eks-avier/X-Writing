@@ -22,7 +22,12 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- The effectiveness of one's Penetration is proportional to the attacker's willpower.
 				- The weaker the willpower, the weaker the Penetration.
 				- Conversely, the stronger the willpower, the stronger the Penetration effect.
-	- As with *Titanus gojira*'s iconic Atomic Breaths or Ghidorah's equally iconic *Gravity Beams*, Coating can extend *from* the body and *into* attacks.
+				- We can treat this as a **spectrum**.
+					- "Low" Penetration
+					- "Mid" Penetration
+					- "High" Penetration
+					- Each "point" on the spectrum should have its *own* name.
+	- As with the *Titanus gojira*'s iconic Atomic Breaths or Ghidorah's equally iconic *Gravity Beams*, Coating can extend *from* the body and *into* attacks.
 	    - A Pyroton can pick up a random bow and arrow and *infuse* it with their Aura, thereby applying Coating.
 		    - A Pyroton can even imbue rocks, or shards of glass, or a piece of toenail and if he is filled with enough willpower and skill, then he can apply Coating to it.
 	    - Ghidorah's *Gravity Beams* are electric energy attacks that take the shape of lightning and are typically shot from one or all three of his mouths.
@@ -50,5 +55,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 									- Their passive "privileges" cannot be "turned off."
 										- After all, you cannot turn off the notion of "will."
 						- Coating can be seen as an *amplifier* rather than a default option.
+	- 
 
-- Defensive Coating 
+- Defensive Coating is orienting one's Aura to protect one's self from danger.
+	- There are two "modes" of this type of Coating.
+		- A "general mode," in which a Kraton can protect themselves from any 
