@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/To My Fellow Kupalords.md",
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "To My Fellow Kupalords"
+              "title": "Krátos (draft 1)"
             }
           }
         ]
@@ -348,11 +348,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
-    "Journal/Happy Birthday, Dandan.md",
-    "Journal/A Letter to My Sweetest Pookie.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+    "Journal/A Letter to My Sweetest Pookie.md",
+    "Journal/Happy Birthday, Dandan.md",
+    "Journal/To My Fellow Kupalords.md",
+    "Journal/Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Notepad 11.md",
@@ -376,7 +378,6 @@
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Magic.md",
-    "Journal/Untitled.md",
     "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
@@ -395,7 +396,6 @@
     "German Vocabulary - Nouns (A1).txt",
     "Writing/ATM/Unrefined/~syncthing~Filipino Essay.md.tmp",
     "Writing/ATM/Power Systems/Unrefined/Unrefined - The Art of Commitments.md",
-    "Notepad 9.md",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]

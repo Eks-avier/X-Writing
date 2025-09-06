@@ -50,3 +50,4 @@
 	- The most prominent species to possess Krátos is *Titanus gojira*.
 		- Their ancestors were mutated by the **Fallen Star** upon extended exposure.
 		- This resulted in their bodies developing the ability to *facilitate* the **storage** and **production** of nuclear energy, which lead to them developing the ability *harness* and *wield* it as a weapon, through their iconic **Atomic Breath** and their emission of dangerous/beneficial radiation.
+

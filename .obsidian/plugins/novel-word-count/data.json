@@ -8061,33 +8061,6 @@
         "newlineCount": 241
       }
     },
-    "Journal/Untitled.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 189,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.63,
-      "characterCount": 1086,
-      "nonWhitespaceCharacterCount": 887,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.7132075471698113,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755944024259,
-      "modifiedDate": 1755946331659,
-      "sizeInBytes": 1086,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.63,
-        "wordCount": 189,
-        "characterCount": 1086,
-        "nonWhitespaceCharacterCount": 887,
-        "newlineCount": 19
-      }
-    },
     "Journal/To My Fellow Kupalords.md": {
       "isCountable": true,
       "targetNodeType": "file",
