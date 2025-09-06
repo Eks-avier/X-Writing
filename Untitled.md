@@ -61,4 +61,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
 	- There are two "modes" of this type of Coating.
 		- A "general mode," in which a Kraton can protect themselves from any harm.
-			- This consumes a *tremendous* amoun
+			- This consumes a *tremendous* amount of stamina.
+				- This also is the *instinct* for most people, like flinching is for humans.
+		- A "specific modes," in which a Kraton can protect selective parts of their body.
