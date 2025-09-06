@@ -61,5 +61,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- A "general mode," in which a Kraton can protect themselves from any harm.
 			- This consumes a *tremendous* amount of stamina.
 				- This also is the *instinct* for most people, like flinching is for humans.
+				- This is *passive* for Krator.
+					- Because it's passive for Krator since the moment they unlock their Manifestation through Alignment, their bodies have naturally "optimized" it.
+						- However, this does not remove the passive energy drain.
 		- A "specific modes," in which a Kraton can protect selective parts of their body.
-		- 
+			- This *must* be trained for **all** Kraton!
+				- Some don't even know that this can be done.
+					- Godzilla, through Atomic Amplification, which is about as pure as Coating applications can get, has trained to selectively amplify any part of his body.
+					- Scylla naturally does this with her ice.
+						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique. 
+					- Ghidorah, as Ichi in Arthur, had to learn this manually

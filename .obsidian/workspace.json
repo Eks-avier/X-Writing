@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -431,8 +432,8 @@
   "active": "b2bcae6dd2622a6f",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Untitled.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Writing/ATM/Power Systems/Krátos/Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
