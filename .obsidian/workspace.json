@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 39.61276818419675,
+        "dimension": 28.653295128939828,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -55,30 +55,6 @@
               "icon": "lucide-file",
               "title": "Krátos, the Power of Will"
             }
-          },
-          {
-            "id": "707c2a5802f5ca4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notepad 12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notepad 12"
-            }
           }
         ],
         "currentTab": 2
@@ -86,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 31.13553113553114,
+        "dimension": 24.594078319006684,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -117,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 29.251700680272105,
+        "dimension": 24.54632282712512,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -141,6 +117,37 @@
               },
               "icon": "lucide-file",
               "title": "Krátos (draft 2)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4746d7b184f1094",
+        "type": "tabs",
+        "dimension": 22.206303724928368,
+        "children": [
+          {
+            "id": "0d1feaffe562c7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Krátos (draft 3)"
             }
           }
         ]
@@ -240,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -372,12 +380,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "0d1feaffe562c7b7",
   "lastOpenFiles": [
-    "Notepad 12.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
+    "Notepad 12.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Power Systems/Krátos/Unconfirmed 791888.crdownload",
     "Journal/A Letter to My Sweetest Pookie.md",
     "Journal/Happy Birthday, Dandan.md",
@@ -386,7 +395,6 @@
     "Notepad 11.md",
     "Writing/ATM/Antitheriomorphosis.md",
     "Writing/ATM/Canvases/Krátos.canvas",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
     "Writing/ATM/Power Systems/Krátos/Untitled",
     "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md",
