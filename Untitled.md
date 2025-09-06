@@ -25,6 +25,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- We can treat this as a **spectrum**.
 					- “Low” Penetration
 					- “Mid” Penetration
+						- This enables a special technique call
 					- “High” Penetration
 					- Each “point” on the spectrum should have its *own* name.
 	- As with the *Titanus gojira*'s iconic Atomic Breaths or Ghidorah's equally iconic *Gravity Beams*, Coating can extend *from* the body and *into* attacks.
@@ -57,17 +58,31 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 						- Coating can be seen as an *amplifier* rather than a default option.
 
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
-  - Defensive Coating *complements* natural physiology.
-	- A theoretical human, who's a Pyroton, with great physical fitness will contribute to the strength of his Defensive Coating.
+	- Where Offensive Coating has Penetration, Defensive Coating has Neutralization.
+		- Neutralization should also be a **spectrum**.
+			- "Low" Neutralization
+				- The level all Kraton can achieve.
+					- At best, this enables resistance against attacks, but they can still be felt.
+			- "Mid" Neutralization
+				- The peak of most Koinon.
+				- Typical baseline for most Krator
+				- This enables a special technique called *Injection* or *Infiltration*
+					- **Question**: Which name is better?
+			- "High" Neutralization
+				- Only Krator or Krator-adjacent Koinon can achieve this.
+				- Attacks literally "dissolve" upon contact with the Coating.
+			- Each point in the spectrum should have a **name**.
+	- Defensive Coating *complements* natural physiology.
+		- A theoretical human, who's a Pyroton, with great physical fitness will contribute to the strength of his Defensive Coating.
 		- Godzilla's Atomic Amplification acts as *second armor*.
 			- He's already **nigh-invulnerable** at *base*.
 				- The same principle is applied to Ghidorah.
-	- Despite the synergy, and if one is a Koinon, Defensive Coating is *not* automatic. 
-		- A human Pyroton is *not* immune to his own flames.
-			- He *has* to actually Coat himself first.
-		- Because the instinct of self-preservation is strong, the body automatically coats itself.
-			- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
-				- However, there is no free shit in Kraton, and this passive self-protection consumes stamina.
+		- Despite the synergy, and if one is a Koinon, Defensive Coating is *not* automatic. 
+			- A human Pyroton is *not* immune to his own flames.
+				- He *has* to actually Coat himself first.
+			- Because the instinct of self-preservation is strong, the body automatically coats itself.
+				- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
+					- However, there is no free shit in Kraton, and this passive self-protection consumes stamina.
 			- This concept is extremely dangerous for Krator who do not possess innate resistances and immunities. 
 				- If they encounter even just a momentary lapse in Alignment, they may be subject to *their* own power.
 					- Ghidorah whose physiology innately renders him immune to electricity can afford to be in Misalignment.
@@ -77,7 +92,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- The *Titanus gojira*'s biology provides them an innately safe access to nuclear energy. 
 				- The *Titanus scylla*'s immunity to extreme cold temperatures enables them to function as Kryotons.
 				- Ghidorah's immunity to vast electrical and gravitational phenomena enables him to make use of his vast cosmic power.
-	
 	- There are two “modes” of this type of Coating.
 		- A “general mode,” in which a Kraton can protect themselves from any harm.
 			- This consumes a *tremendous* amount of stamina.
@@ -92,3 +106,4 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- Scylla naturally does this with her ice.
 						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique.
 					- Ghidorah, as Ichi in Arthur, had to learn this manually—same as Godzilla.
+	- Defensive Coating and Offensive Coating have a lovechild
