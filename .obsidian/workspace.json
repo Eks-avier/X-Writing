@@ -264,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas"
+                "file": "Untitled.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Krátos (English)"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/ATM/Canvases/Krátos (English).canvas",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Krátos (English)"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -357,8 +357,7 @@
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -385,11 +384,11 @@
     "type": "floating",
     "children": [
       {
-        "id": "edc0136247e90593",
+        "id": "4639f89996a7bde1",
         "type": "window",
         "children": [
           {
-            "id": "ba2e82321380bf7d",
+            "id": "7a6bf0667a53cc6b",
             "type": "tabs",
             "children": [
               {
@@ -422,7 +421,7 @@
         "direction": "vertical",
         "x": 660,
         "y": 0,
-        "width": 712,
+        "width": 600,
         "height": 1080,
         "maximize": false,
         "zoom": -0.5

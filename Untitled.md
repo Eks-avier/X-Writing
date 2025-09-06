@@ -55,6 +55,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 									- Their passive “privileges” cannot be “turned off.”
 										- After all, you cannot turn off the notion of “will.”
 						- Coating can be seen as an *amplifier* rather than a default option.
+
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
   - Defensive Coating *complements* natural physiology.
 	- A theoretical human, who's a Pyroton, with great physical fitness will contribute to the strength of his Defensive Coating.
@@ -66,7 +67,16 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- He *has* to actually Coat himself first.
 		- Because the instinct of self-preservation is strong, the body automatically coats itself.
 			- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
-				- 
+				- However, there is no free shit in Kraton, and this passive self-protection consumes stamina.
+			- This concept is extremely dangerous for Krator who do not possess innate resistances and immunities. 
+				- If they encounter even just a momentary lapse in Alignment, they may be subject to *their* own power.
+					- Ghidorah whose physiology innately renders him immune to electricity can afford to be in Misalignment.
+					- Some random human gaining the powers of Ghidorah experiencing Misalignment will literally get disintegrated by millions of volts in a second.
+					- Some random human having Godzilla's power will irradiate himself and everything around him in a massive area if he encounters Misalignment.
+			- **Key Takeaway**: This is the reason Krátos and biology are intertwined. 
+				- The *Titanus gojira*'s biology provides them an innately safe access to nuclear energy. 
+				- The *Titanus scylla*'s immunity to extreme cold temperatures enables them to function as Kryotons.
+				- Ghidorah's immunity to vast electrical and gravitational phenomena enables him to make use of his vast cosmic power.
 	
 	- There are two “modes” of this type of Coating.
 		- A “general mode,” in which a Kraton can protect themselves from any harm.
