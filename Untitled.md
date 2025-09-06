@@ -3,7 +3,7 @@
 I've been thinking about further expanding the Coating mechanics, while clarifying some notions:
 
 - Aura enables Coating.
-    - Aura alone is inert.
+    - Aura alone is latent.
         - It is the defined area in which Kratons exert their influence.
             - For example, a Pyroton's Aura is a circular field of fire with a radius of 25 meters.
                 - The number is entirely dependent on the willpower of the Kraton.
@@ -25,7 +25,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- We can treat this as a **spectrum**.
 					- “Low” Penetration
 					- “Mid” Penetration
-						- This enables a special technique call
+						- This enables a special technique.
 					- “High” Penetration
 					- Each “point” on the spectrum should have its *own* name.
 	- As with the *Titanus gojira*'s iconic Atomic Breaths or Ghidorah's equally iconic *Gravity Beams*, Coating can extend *from* the body and *into* attacks.
@@ -40,7 +40,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		 - It needs both an English and a Greek name.
 		 - It hinges on a Kraton *physically touching* an object.
 			  - It cannot be applied from a distance.
-		 - The greater the distance from the Kraton, the “imbued” object's Coating degrades.
+				  - Gesturing towards a rock, even in range of one's Aura, will not bestow anything.
+		 - The greater the distance from the Kraton, the faster the “imbued” object's Coating degrades.
 			  - Stronger Kratons like Ghidorah and Godzilla can have their attacks go on for several kilometres.
 	- A Kraton does not need to rely on their Coating to cause any sort of damage.
 		- The damage a Kraton can cause is actually related to what **kind of phenomena** his will manifests as.
@@ -106,4 +107,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- Scylla naturally does this with her ice.
 						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique.
 					- Ghidorah, as Ichi in Arthur, had to learn this manually—same as Godzilla.
-	- Defensive Coating and Offensive Coating have a lovechild
+	- Defensive Coating and Offensive Coating have a lovechild called Injection/Infiltration.
+		- Against tough psychics and sorcerers, Kratons who understand their powers have a nifty tool.
+			- Because Kratos requires **NO** intermediate force nor energy, Kratons can "inject" their willpower, manifested as a specific phenomena, into psionic and magical structures.
+				- This enables Kratons to pierce telekinetic barriers and protective magic.
+					- It can either punch through them or cause them to collapse like a breaking dam. 
+						- The structural integrity of the structure dissolves.
+
+This is very comprehensive and it may seem complex, but these are actually easy to portray with little exposition as they are applicable in combat situations or ambient scenes. 
+
+How do you understand this new lore? What ideas do you have for it?
