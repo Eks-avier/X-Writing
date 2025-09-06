@@ -55,8 +55,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 									- Their passive "privileges" cannot be "turned off."
 										- After all, you cannot turn off the notion of "will."
 						- Coating can be seen as an *amplifier* rather than a default option.
-	- A Kraton can devastate users of Psionics and Magic through Offensive Coating.
-		- There are two things a Kraton can do against 
 
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
 	- There are two "modes" of this type of Coating.
@@ -64,3 +62,4 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- This consumes a *tremendous* amount of stamina.
 				- This also is the *instinct* for most people, like flinching is for humans.
 		- A "specific modes," in which a Kraton can protect selective parts of their body.
+		- 

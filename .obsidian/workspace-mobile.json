@@ -11,17 +11,24 @@
             "id": "f99e82848841319f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
-                "viewState": {
-                  "x": 183.6782161029874,
-                  "y": 213.47505630737115,
-                  "zoom": -2.184716747883342
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Titan Standing Hierarchy"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -207,8 +214,9 @@
   },
   "active": "f99e82848841319f",
   "lastOpenFiles": [
-    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
+    "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",

@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 28.653295128939828,
+        "dimension": 28.65329512893983,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -62,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 24.594078319006684,
+        "dimension": 24.594078319006687,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -375,60 +375,10 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "61df3e0a817cd4f8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aa772eb28127ee52",
-        "type": "window",
-        "children": [
-          {
-            "id": "12e1f4f6923719ca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2c961e741fdebd64",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2880,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "2c961e741fdebd64",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
     "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
