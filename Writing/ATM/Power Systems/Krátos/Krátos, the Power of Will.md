@@ -9,8 +9,6 @@
 	- Psionics requires an interaction between the Psiforce and a sentient being's biological brain
 	- Krátos demands from those capable of it *only* their willpower.
 
-
-
 ## Determinism in Krátos
 
 ### The Kráton and Akráton
@@ -26,11 +24,13 @@
 
 #### Distribution Levels
 
+%% Note: Can be further clarified %%
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
+|   LEVEL    | VARIATION |                                    DESCRIPTION                                     |
+| :--------: | :-------: | :--------------------------------------------------------------------------------: |
+|  SPECIES   |   ✅ / ❌   |                  Entire species can be either Kráton or Akráton.                   |
+|  LINEAGE   |   ✅ / ❌   | Lineages within species who are either Kráton or Akráton can be either of the two. |
+| INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
 
 | SPECIES | LINEAGE | INDIVIDUAL |
 | :-----: | :-----: | :--------: |
@@ -46,8 +46,7 @@
 ### The Role of Biology
 
 - Biology and Krátos are intertwined.
-- Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it. 
-	- The most prominent species to possess Krátos is *Titanus gojira*. 
+- Krátos cannot properly manifest within a species, a family, or an individual if none of them possess the biological capacity to handle it.
+	- The most prominent species to possess Krátos is *Titanus gojira*.
 		- Their ancestors were mutated by the **Fallen Star** upon extended exposure.
 		- This resulted in their bodies developing the ability to *facilitate* the **storage** and **production** of nuclear energy, which lead to them developing the ability *harness* and *wield* it as a weapon, through their iconic **Atomic Breath** and their emission of dangerous/beneficial radiation.
-		- The effectiveness of their powers
