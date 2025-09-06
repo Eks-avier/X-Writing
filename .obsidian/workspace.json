@@ -62,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 24.594078319006687,
+        "dimension": 24.59407831900669,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -93,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 24.54632282712512,
+        "dimension": 24.546322827125117,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -124,7 +124,7 @@
       {
         "id": "e4746d7b184f1094",
         "type": "tabs",
-        "dimension": 22.206303724928368,
+        "dimension": 22.206303724928365,
         "children": [
           {
             "id": "0d1feaffe562c7b7",
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -264,10 +263,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Krátos (draft 1)"
             }
           },
           {
@@ -276,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +285,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Krátos (draft 1)"
             }
           },
           {
@@ -379,59 +378,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "73aba71ee7d2fea8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4639f89996a7bde1",
-        "type": "window",
-        "children": [
-          {
-            "id": "7a6bf0667a53cc6b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b2bcae6dd2622a6f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 660,
-        "y": 0,
-        "width": 600,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "b2bcae6dd2622a6f",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Untitled.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Writing/ATM/Power Systems/Krátos/Untitled.md",
