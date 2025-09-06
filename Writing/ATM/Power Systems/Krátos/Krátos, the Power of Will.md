@@ -32,6 +32,7 @@
 |  LINEAGE   |   ✅ / ❌   | Lineages within species who are either Kráton or Akráton can be either of the two. |
 | INDIVIDUAL |   ✅ / ❌   | Individuals within Kráton or Akráton species or lineages can be either of the two. |
 
+
 | SPECIES | LINEAGE | INDIVIDUAL |
 | :-----: | :-----: | :--------: |
 |    X    |    X    |     X      |
