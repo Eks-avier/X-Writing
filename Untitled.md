@@ -72,7 +72,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- 
 
 - DC and OC have a lovechild: Injection.
-	- This is the process of carrying Neutralization on an attack with Penetration applied.
+	- This is the process of imbuing Neutralization on an attack imbued with Penetration.
+		- When the attack hits, the Penetration bypasses any immunities, and the Neutralization is *injected* into the target.
+	- 
 
 	 
 
