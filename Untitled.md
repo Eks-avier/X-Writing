@@ -58,6 +58,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 										- After all, you cannot turn off the notion of “will.”
 						- Coating can be seen as an *amplifier* rather than a default option.
 
+## Defensive Coating
+
 - Defensive Coating is the orientation of one's Aura against danger.
 	- It has **Neutralization**
 		- It is the **inverse** of Penetration.
@@ -69,7 +71,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- Reflexive
 		- Full-body
 		- Selective
-	- 
+
+## Injection
 
 - DC and OC have a lovechild: Injection.
 	- This is the process of imbuing Neutralization on an attack imbued with Penetration, essentially layering the former over the other.
