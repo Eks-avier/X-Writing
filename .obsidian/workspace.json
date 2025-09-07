@@ -87,8 +87,33 @@
               "icon": "lucide-file",
               "title": "Krátos (draft 1)"
             }
+          },
+          {
+            "id": "a132a55963901e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74ee711d30c292be",
@@ -247,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -378,10 +404,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "a132a55963901e9d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+    "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Writing/ATM/Power Systems/Krátos/Untitled.md",

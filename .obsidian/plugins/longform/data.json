@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-09-06T21:23:53.077Z",
+      "total": 0,
+      "drafts": {
+        "Writing/ATM/Chapters/The First Arc/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Devoured": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-09-05T17:49:35.002Z",
       "total": 0,
       "drafts": {
@@ -349,24 +361,6 @@
           "total": 550,
           "scenes": {
             "Devoured": 550
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-02-14T16:57:00.764Z",
-      "total": 0,
-      "drafts": {
-        "Writing/Link Disconnected/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Consolation": 0
-          }
-        },
-        "Main Alternate Universe/Link Disconnected/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Consolation": 0
           }
         }
       }
