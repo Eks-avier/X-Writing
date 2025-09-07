@@ -17,5 +17,27 @@
   "showLineNumber": true,
   "readableLineLength": true,
   "newFileLocation": "current",
-  "spellcheck": false
+  "spellcheck": false,
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:toggle-italics",
+    "editor:toggle-bold",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-highlight",
+    "editor:toggle-strikethrough",
+    "editor:toggle-checklist-status",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:insert-embed",
+    "editor:insert-tag"
+  ]
 }

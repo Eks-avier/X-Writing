@@ -58,6 +58,16 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 										- After all, you cannot turn off the notion of “will.”
 						- Coating can be seen as an *amplifier* rather than a default option.
 
+- Defensive Coating is the orientation of one's Aura against danger.
+	- OC (Offensive Coating) has Penetration, DC (Defensive Coating) has **Neutralization**.
+		- It is the **inverse** of Penetration.
+			- Just like Penetration, the strength of one's Neutralization is directly dependent on one's willpower.
+	- Neutralization is **not** automatic for *any* Kraton.
+	- Neutralization *complements* innate physiology and physical health.
+		- A theoretical human Pyroton in good physical fitness will possess stronger DC than the average Pyroton with middling fitness.
+		- Godzilla's Atomic Amplic
+
+
 - Defensive Coating is orienting one's Aura to protect one's self from danger.
 	- Where Offensive Coating has Penetration, Defensive Coating has Neutralization.
 		- Neutralization should also be a **spectrum**.
