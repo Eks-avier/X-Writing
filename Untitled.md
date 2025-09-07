@@ -75,10 +75,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- This is the process of imbuing Neutralization on an attack imbued with Penetration, essentially layering the former over the other.
 		- When the attack hits, the Penetration bypasses any immunities Neutralization is *injected* into the target.
 			- Krátos has **no** mediating factor. 
-				- *Every* practitioner of Magic requires their interaction of the Soul and Primus Force, which is called Soul Infusion, to produce Primus Energy—the fundamental energy type for all magical energies. 
+				- *Every* practitioner of Magic requires their Soul and Primus Force to interact, which is a process called Soul Infusion, to produce Primus Energy—the fundamental energy type for all magical energies. 
 				- Psionics requires the biological brain, or any equivalent of such, to interact with the Psiforce, to generate Psienergy, which is the fuel for any psionic technique.
-				- **Key Takeaway**: Krátos is the simplest because it only requires Kraton, specifically Koinon, to only possess the Themelion, which they already have at birth. 
-					- However, Krator rival the other systems in complexity.
+				- **Key Takeaway**: Krátos is the simplest because it only requires Kraton, specifically Koinon, to only possess the Themelion, which they already have at birth, that continually fuels their abilities as long as they have sufficient willpower.
+					- However, Krator rival the other two systems in complexity.
+		- Because Krátos has no mediating factor, this gives them a nifty tool to counteract both Psionics and Magics.
+			- The other two systems have ways to protect themselves against Piercing, as it only deals with *innate* resistances and immunities.
+				- Gaining defensive enhancements via psychic and magical powers do **not**
 
 	 
 
