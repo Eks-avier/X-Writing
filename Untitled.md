@@ -59,14 +59,20 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 						- Coating can be seen as an *amplifier* rather than a default option.
 
 - Defensive Coating is the orientation of one's Aura against danger.
-	- DC has **Neutralization**
+	- It has **Neutralization**
 		- It is the **inverse** of Penetration.
 			- As with Penetration, the strength of one's Neutralization is directly proportional to one's willpower.
-	- DC is *not* automatic for any and all Kraton.
-	- DC complements one's physicality and innate physiology.
-	- DC
+		- It has a spectrum, just like Penetration.
+	- It is *not* automatic for any and all Kraton.
+	- It complements one's physicality and innate physiology.
+	- It has three "modes."
+		- Reflexive
+		- Full-body
+		- Selective
+	- 
 
-	
+- DC and OC have a lovechild: Injection.
+	- 
 
 	 
 
