@@ -66,11 +66,40 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- As with Penetration, the strength of one's Neutralization is directly proportional to one's willpower.
 		- It has a spectrum, just like Penetration.
 	- It is *not* automatic for any and all Kraton.
+		
 	- It complements one's physicality and innate physiology.
+		- A theoretical human Pyroton at peak fitness benefits from greater enhancement.
+			- The reasoning is simple: DC bolsters one's base durability.
+				- Someone who trains athletically will possess a better physical body, and thus have better DC.
+				- Someone who lives a sedentary life will have a weaker DC.
+				- DC is Aura, which is Manifestation, which is a Kraton's willpower. 
+					- The will to improve one's physical health is rewarded by having better enhancement.
+						- This concept is applicable even to OC.
 	- It has three "modes."
-		- Reflexive
-		- Full-body
-		- Selective
+		- Reflexive DC is the only form of "automatic" DC.
+			- A theoretical human Pyroton is *not* immune to his own flames.
+				 - He *has* to actually Coat himself first.
+					- Because the instinct of self-preservation is strong, the body automatically coats itself.
+						- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
+							- However, there is no free crap in Kraton, and this reflexive self-protection consumes stamina.
+				- This concept is extremely dangerous for Krator who do not possess innate resistances and immunities. 
+					- If they encounter even just a momentary lapse in Alignment, they may be subject to *their* own power.
+						- Ghidorah whose physiology innately renders him immune to electricity can afford to be in Misalignment.
+						- Some random human gaining the powers of Ghidorah experiencing Misalignment will literally get disintegrated by millions of volts in a second.
+						- Some random human having Godzilla's power will irradiate himself and everything around him in a massive area if he encounters Misalignment.
+				- **Key Takeaway**: This is the reason Krátos and biology are intertwined. 
+					- The *Titanus gojira*'s biology provides them an innately safe access to nuclear energy. 
+					- The *Titanus scylla*'s immunity to extreme cold temperatures enables them to function as Kryotons.
+					- Ghidorah's immunity to vast electrical and gravitational phenomena enables him to make use of his vast cosmic power.
+			- 
+		- Full-body DC
+		- Selective DC
+			- This *must* be trained for **all** Kraton!
+				- Some don't even know that this can be done.
+					- Godzilla, through Atomic Amplification, which is about as pure as Coating applications can get, has trained to selectively amplify any part of his body.
+					- Scylla naturally does this with her ice.
+						- Her personal philosophy, being crystalline perfection, enabled her to inadvertently learn this technique.
+					- Ghidorah, as Ichi in Arthur, had to learn this manually—same as Godzilla.
 
 ## Injection
 
@@ -103,7 +132,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- It is a learned skill.
 		- Like any Krátonic technique, its effectiveness is determined by the attacking Kráton's willpower.
 		- The range of an Injecting attack is the same as the range of a Penetrating one.
-			- The farther from one's Aura, the weaker the atta
+			- The farther from one's Aura, the weaker the attack.
+				- However, the falloff for effectiveness is quadruple than that of Penetration.
+					- But this is typically a sign of personal inefficiency rather than a limit imposed by the system.
 		- **NEED YOUR HELP**: I'm thinking about introducing a major caveat to Injection.
 			- When it is used, the attacking Kraton experiences a gap in protection. 
 				- The Neutralization that leaves their body, must recover the surface area of the body anew.
