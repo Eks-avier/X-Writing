@@ -72,7 +72,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- 
 
 - DC and OC have a lovechild: Injection.
-	- 
+	- This is the process of carrying Neutralization on an attack with Penetration applied.
 
 	 
 
