@@ -72,9 +72,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- 
 
 - DC and OC have a lovechild: Injection.
-	- This is the process of imbuing Neutralization on an attack imbued with Penetration.
-		- When the attack hits, the Penetration bypasses any immunities, and the Neutralization is *injected* into the target.
-	- 
+	- This is the process of imbuing Neutralization on an attack imbued with Penetration, essentially layering the former over the other.
+		- When the attack hits, the Penetration bypasses any immunities Neutralization is *injected* into the target.
+			- Krátos has **no** mediating factor. 
+				- *Every* practitioner of Magic requires their interaction of the Soul and Primus Force, which is called Soul Infusion, to produce Primus Energy—the fundamental energy type for all magical energies. 
+				- Psionics requires the biological brain, or any equivalent of such, to interact with the Psiforce, to generate Psienergy, which is the fuel for any psionic technique.
+				- **Key Takeaway**: Krátos is the simplest because it only requires Kraton, specifically Koinon, to only possess the Themelion, which they already have at birth. 
+					- However, Krator rival the other systems in complexity.
 
 	 
 
@@ -104,7 +108,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- He *has* to actually Coat himself first.
 			- Because the instinct of self-preservation is strong, the body automatically coats itself.
 				- This gives the illusion that a human, who is flammable and susceptible to being burned, is immune to his own flames should he be a Pyroton.
-					- However, there is no free shit in Kraton, and this passive self-protection consumes stamina.
+					- However, there is no free crap in Kraton, and this passive self-protection consumes stamina.
 			- This concept is extremely dangerous for Krator who do not possess innate resistances and immunities. 
 				- If they encounter even just a momentary lapse in Alignment, they may be subject to *their* own power.
 					- Ghidorah whose physiology innately renders him immune to electricity can afford to be in Misalignment.
