@@ -158,5 +158,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 	- Godzilla's Aura remains dangerously radioactive and hot.
 	- Scylla's Aura remains fatally frigid.
-- Aura alone is simply *potential*
-- **Coating** and **Flaring** is Aura *actualized*.
+- Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation.
+- **Coating** and **Flaring** is Aura *actualized* and *weaponized*.
+	- For example, there is a difference between Godzilla firing his Atomic Breath and Godzilla applying Coating on his Atomic Breath.
+		- One is an expression of *biology* and the other is an expression of *Krátos*.
+			- **Important Context**: Because Krátos has not been discovered, classified, and standardized until 2027 AD on Earth, no being in the known galaxy has any understanding of what Krátos is.
+				- Th
