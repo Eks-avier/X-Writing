@@ -94,8 +94,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "College/1T2526/CSS125 - FA1.1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -109,7 +109,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "CSS125 - FA1.1"
             }
           }
         ],
@@ -272,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -400,7 +399,8 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "floating": {
@@ -408,21 +408,21 @@
     "type": "floating",
     "children": [
       {
-        "id": "42c52e45e58041ed",
+        "id": "a34223a9ab3cc3fa",
         "type": "window",
         "children": [
           {
-            "id": "e9eaed981eacd391",
+            "id": "dab8161a0af8d40f",
             "type": "tabs",
             "children": [
               {
-                "id": "0d1feaffe562c7b7",
+                "id": "3ea27777c374214f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "College/The Dangers of a World Without Moral Absolutes.md",
-                    "mode": "preview",
+                    "file": "College/1T2526/CSS125 - FA1.1.md",
+                    "mode": "source",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -436,28 +436,30 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "The Dangers of a World Without Moral Absolutes"
+                  "title": "CSS125 - FA1.1"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 660,
-        "y": 0,
-        "width": 600,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -0.5
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1
       }
     ]
   },
-  "active": "0d1feaffe562c7b7",
+  "active": "3ea27777c374214f",
   "lastOpenFiles": [
+    "CSS125 - FA1.1_1.8.png",
+    "Untitled.md",
+    "College/1T2526/CSS125 - FA1.1.md",
+    "College/The Dangers of a World Without Moral Absolutes.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
-    "Untitled.md",
-    "College/The Dangers of a World Without Moral Absolutes.md",
     "~syncthing~Untitled.md.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
@@ -496,8 +498,6 @@
     "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
-    "_Templates/Character Profile Template.md",
-    "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "College/1T2526",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
