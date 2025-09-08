@@ -4,10 +4,10 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 75
   },
   "userIgnoreFilters": [
     "_Archive/",

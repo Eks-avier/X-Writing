@@ -443,17 +443,18 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 140,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
         "zoom": 1
       }
     ]
   },
   "active": "3ea27777c374214f",
   "lastOpenFiles": [
+    "College/1T2526/CSS125 - FA1.1.pdf",
     "CSS125 - FA1.1_1.8.png",
     "Untitled.md",
     "College/1T2526/CSS125 - FA1.1.md",
