@@ -148,3 +148,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- For example, if a Pyroton punches into a flame shield spell and injects his willpower into the structure, there will be a brief period of time in which his knuckles will be vulnerable.
 						- This is a non-issue for beings like Godzilla whose baseline durability is already beyond superhuman.
 						- This *is* an issue for a theoretical human Kráton.
+
+---
+
+- Aura is the 

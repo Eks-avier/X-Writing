@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Krátos (draft 1)"
+              "title": "Untitled"
             }
           }
         ]
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -375,22 +374,21 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
-    "College/1T2526/CSS125 - FA1.1.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+    "College/1T2526/CSS125 - FA1.1.md",
     "College/1T2526/CSS125 - FA1.1.pdf",
     "CSS125 - FA1.1_1.8.png",
     "Untitled.md",
     "College/The Dangers of a World Without Moral Absolutes.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "~syncthing~Untitled.md.tmp",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad 12.md",
     "Writing/ATM/Power Systems/Krátos/Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Unconfirmed 791888.crdownload",
