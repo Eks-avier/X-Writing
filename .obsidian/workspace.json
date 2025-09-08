@@ -118,7 +118,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 27.520305781175345,
+        "dimension": 27.52030578117534,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -400,8 +400,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -453,7 +452,7 @@
       }
     ]
   },
-  "active": "a132a55963901e9d",
+  "active": "0d1feaffe562c7b7",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
