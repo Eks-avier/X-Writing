@@ -2,7 +2,7 @@
 
 ## QUESTION 1.8
 
-![[CSS125 - FA1.1_1.8.png]]
+![[CSS125 - FA1.1_1.8.png|500]]
 
 ## QUESTION 1.11
 
