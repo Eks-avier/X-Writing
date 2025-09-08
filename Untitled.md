@@ -155,6 +155,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 - Aura is the Kráton's Manifestation flowing forth from their body to the world in a definite area around them.
 - Aura alone has no special effects beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
-	- Ghidorah's Aura remains the properties of electricity and gravity, and hence can shock as they get sent pinned to the ground.
+	- Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 	- Godzilla's Aura remains dangerously radioactive and hot.
-	- Scylla's Aura remains fatal
+	- Scylla's Aura remains fatally frigid.
