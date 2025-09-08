@@ -155,5 +155,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 - Aura is the Kráton's Manifestation flowing forth from their body to the world in a definite area around them.
 - Aura alone has no special effects beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
-	- Ghidorah's Aura still maintains the properties of electricity and gravity.
-	- Godzilla's Aura is still radio
+	- Ghidorah's Aura still maintains the properties of electricity and gravity, and hence can shock and se
+	- Godzilla's Aura is still dangerously radioactive.
+	- 
