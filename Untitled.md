@@ -158,3 +158,5 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 	- Godzilla's Aura remains dangerously radioactive and hot.
 	- Scylla's Aura remains fatally frigid.
+- Aura alone is simply *potential*
+- **Coating** and **Flaring** is Aura *actualized*.
