@@ -161,7 +161,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 		- Similarly, Godzilla's Aura remains radioactive and hot.
 		- For completeness, Scylla's Aura remains frigid.
-	- Aura ***cannot*** be completely suppressed, even through conscious effort.
+	- The Aura ***cannot*** be completely suppressed, even through conscious effort.
 		- As long as even just the *will to act* exists within a person, then Aura production is possible.
 			- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura.
 			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
@@ -169,8 +169,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- Available at birth, it is unconscious, perpetual, and irrepressible.
 					- Despite its invisible nature, it's not at all subtle.
 						- **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
-				- **The Second Layer**: The Manifestation o
-					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible via training.
+				- **The Second Layer**: It is the *product* of Alignment, the Manifestation of the Conqueror.
+					- It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
+						- 
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
