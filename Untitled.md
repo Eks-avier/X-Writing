@@ -153,20 +153,44 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ## Aura of the Kráton
 
-- Aura is the Kráton's Manifestation flowing forth from their body to the world in a definite area around them.
+- Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite area around them.
 - Aura is a defined radius on which a Kráton can exert his influence freely.
 	- For example, a Koinon Pyroton produces a 25-metre circular field of flames.
-		- **Dependency Note**: Aura area depends on willpower. 
-- Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it no special effects beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
-	- Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
-	- Godzilla's Aura remains dangerously radioactive and hot.
-	- Scylla's Aura remains fatally frigid.
+		- **Dependency Note**: Aura *area* depends on willpower. 
+- Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no "special effects" beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
+	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
+		- Similarly, Godzilla's Aura remains radioactive and hot.
+		- For completeness, Scylla's Aura remains frigid.
+	- Aura ***cannot*** be completely suppressed, even through conscious effort.
+		- As long as even just the *will to act* exists within a person, then he produces Aura.
+			- For Koinon, their Themelion guarantees Manifestation, and thus continously produce Aura.
+			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases.
+				- **The First Layer**: 
+					- Available at birth, this is unconscious, perpetual, and irrepressible.
+				- **The Second Layer**: 
+					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible.
+	- **Dependecy Note**: Aura *effects* depends on willpower, skill, and emotional state.
+		- Let's use Godzilla as an example:
+			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
+				- Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
+			- If he feels stressed, then this is reflected on his Aura dangerously intensifying, even without his conscious knowing.
+			- If he is at rest, sleeping, then his Aura weakens as a response.
+				- Upon waking up, it climbs back up to baseline levels.
+			- If he loses consciousness, then his Aura dissipates.
+			- **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
+				- This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time. 
+			- **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling its function daily.
+				- This means that he *naturally* produces an aura of radiation.
+					- This *is* Krátos in effect.
+						- The radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced. 
+							- **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others. 
+								- The effectiveness of his natural emissions is a 
 
 ## Aura, Actualized
 
 - **Coating** and **Flaring** is Aura *actualized* and *weaponized*.
-	- **Coating** is the ability of a Kráton to sheath themselves or anything tangible with their Aura.
-	- **Flaring** is the act of *intensifying* the latent effects of Aura itself.
+	- **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
+	- **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
 	- For example, there is a functional difference between Godzilla firing his Atomic Breath and Godzilla applying Coating on his Atomic Breath: this is **Coating**.
 		- One is an expression of *biology* and the other is an expression of *Krátos*.
 			- **Important Context**: Because Krátos has not been discovered, classified, and standardized until 2027 AD on Earth, no being in the known galaxy has any understanding of what Krátos is.

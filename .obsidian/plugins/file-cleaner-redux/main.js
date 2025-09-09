@@ -85,7 +85,7 @@ var require_moment = __commonJS({
   "node_modules/.pnpm/moment@2.30.1/node_modules/moment/moment.js"(exports, module2) {
     (function(global, factory) {
       typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global.moment = factory();
-    })(exports, function() {
+    })(exports, (function() {
       "use strict";
       var hookCallback;
       function hooks() {
@@ -4076,7 +4076,7 @@ var require_moment = __commonJS({
         // <input type="month" />
       };
       return hooks;
-    });
+    }));
   }
 });
 
@@ -4098,7 +4098,7 @@ var moment = __toESM(require_moment());
 var enUS = {
   Settings: {
     RegularOptions: {
-      CleanedFiles: {
+      DeletedFiles: {
         Label: "Deleted files",
         Description: "What happens to a file after it's deleted.",
         Options: {
@@ -4110,6 +4110,13 @@ var enUS = {
       ObsidianTrashCleanupAge: {
         Label: "Trash directory age threshold",
         Description: "Amount of days files can be in the `.trash` folder before they are permanently removed (minimum 1 day)."
+      }
+    },
+    Folders: {
+      Header: "Folders",
+      RemoveFolders: {
+        Label: "Remove folders",
+        Description: "Include empty folders in cleanup"
       },
       FolderFiltering: {
         Excluded: {
@@ -4128,23 +4135,41 @@ var enUS = {
           One folder per line.
           Supports regular expressions (wildcard matching can be done using \`.*\`)`
         },
-        Label: "Excluded / Included Folders",
+        Label: "Excluded / Included folders",
         Placeholder: "Example:\nfolder/subfolder\nfolder2/subfolder2",
         Description: "The folders below should be excluded from or included in the cleanup process."
-      },
+      }
+    },
+    Files: {
+      Header: "Files",
       Attachments: {
         Excluded: {
-          Label: "Excluded Attachment extensions",
+          Label: "Excluded attachment extensions",
           Description: "List of extensions that should be ignored during cleanup, all other files are included, the `.*` wildcard can be used to select all extensions. Comma-separated.",
           Placeholder: "Example:.jpg, .png, .pdf, .*"
         },
         Included: {
-          Label: "Included Attachment extensions",
+          Label: "Included attachment extensions",
           Description: "List of extensions that should be included during cleanup, all other files are ignored, the `.*` wildcard can be used to select all extensions. Comma-separated.",
           Placeholder: "Example:.jpg, .png, .pdf, .*"
         },
-        Label: "Excluded / Included Extensions",
+        Label: "Excluded / Included extensions",
         Description: "The attachment extensions below should be excluded from or included in the cleanup process."
+      },
+      FileAgeThreshold: {
+        Label: "File age threshold",
+        Description: "Only files and folders over the specified threshold will be cleaned up (in number of days)"
+      }
+    },
+    MarkdownFiles: {
+      Header: "Markdown files",
+      DeleteEmptyMarkdownFiles: {
+        Label: "Delete empty Markdown files",
+        Description: "Removes Markdown files if their size is 0"
+      },
+      DeleteEmptyMarkdownFilesWithBacklinks: {
+        Label: "Delete empty Markdown files with backlinks",
+        Description: "Removes empty Markdown files even if they are linked to by other files."
       },
       IgnoredFrontmatter: {
         Label: "Ignored frontmatter",
@@ -4166,30 +4191,17 @@ var enUS = {
           Comma-separated.
         `,
         Placeholder: "Example:\nad-summary, ad-.*, tabs"
-      },
+      }
+    },
+    Other: {
+      Header: "Other",
       CloseNewTabs: {
         Label: "Close new tabs",
         Description: "Close leftover New tabs"
       },
-      FileAgeThreshold: {
-        Label: "File age threshold",
-        Description: "Only files and folders over the specified threshold will be cleaned up (in number of days)"
-      },
       PreviewDeletedFiles: {
         Label: "Preview deleted files",
         Description: "Show a confirmation box with list of files to be removed"
-      },
-      DeleteEmptyMarkdownFiles: {
-        Label: "Delete empty Markdown files",
-        Description: "Removes Markdown files if their size is 0"
-      },
-      DeleteEmptyMarkdownFilesWithBacklinks: {
-        Label: "Delete empty Markdown files with backlinks",
-        Description: "Removes empty Markdown files even if they are linked to by other files."
-      },
-      RemoveFolders: {
-        Label: "Remove folders",
-        Description: "Include folders in cleanup"
       },
       RunOnStartup: {
         Label: "Run on startup",
@@ -4217,7 +4229,9 @@ var enUS = {
       Folders: "Folders"
     },
     ButtonCancel: "Cancel",
-    ButtonConfirm: "Confirm"
+    ButtonConfirm: "Confirm",
+    ButtonSelectAll: "Select all",
+    ButtonUnselectAll: "Unselect all"
   },
   Buttons: {
     CleanFiles: "Clean files"
@@ -4234,7 +4248,7 @@ var en_default = enUS;
 var zhCN = __spreadValues({
   Settings: {
     RegularOptions: {
-      CleanedFiles: {
+      DeletedFiles: {
         Label: "\u6E05\u7406\u6587\u4EF6",
         Description: "\u8981\u5982\u4F55\u5904\u7406\u5DF2\u6E05\u7406\u7684\u6587\u4EF6\uFF1F",
         Options: {
@@ -4346,16 +4360,16 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
   display() {
     const { containerEl } = this;
     this.containerEl.empty();
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.CleanedFiles.Label).setDesc(translate().Settings.RegularOptions.CleanedFiles.Description).addDropdown(
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.DeletedFiles.Label).setDesc(translate().Settings.RegularOptions.DeletedFiles.Description).addDropdown(
       (dropdown) => dropdown.addOption(
         "system",
-        translate().Settings.RegularOptions.CleanedFiles.Options.MoveToSystemTrash
+        translate().Settings.RegularOptions.DeletedFiles.Options.MoveToSystemTrash
       ).addOption(
         "obsidian",
-        translate().Settings.RegularOptions.CleanedFiles.Options.MoveToObsidianTrash
+        translate().Settings.RegularOptions.DeletedFiles.Options.MoveToObsidianTrash
       ).addOption(
         "permanent",
-        translate().Settings.RegularOptions.CleanedFiles.Options.PermanentDelete
+        translate().Settings.RegularOptions.DeletedFiles.Options.PermanentDelete
       ).setValue(this.plugin.settings.deletionDestination).onChange((value) => {
         switch (value) {
           case "permanent" /* Permanent */:
@@ -4388,7 +4402,17 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.FolderFiltering.Label).setDesc(translate().Settings.RegularOptions.FolderFiltering.Description).addToggle((toggle) => {
+    this.containerEl.createEl("h3", {
+      text: translate().Settings.Folders.Header
+    });
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Folders.RemoveFolders.Label).setDesc(translate().Settings.Folders.RemoveFolders.Description).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.removeFolders);
+      toggle.onChange((value) => {
+        this.plugin.settings.removeFolders = value;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Folders.FolderFiltering.Label).setDesc(translate().Settings.Folders.FolderFiltering.Description).addToggle((toggle) => {
       toggle.setValue(Boolean(this.plugin.settings.excludeInclude));
       toggle.onChange((value) => {
         this.plugin.settings.excludeInclude = Number(value);
@@ -4397,23 +4421,26 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
       });
     });
     new import_obsidian2.Setting(containerEl).setName(
-      this.plugin.settings.excludeInclude ? translate().Settings.RegularOptions.FolderFiltering.Included.Label : translate().Settings.RegularOptions.FolderFiltering.Excluded.Label
+      this.plugin.settings.excludeInclude ? translate().Settings.Folders.FolderFiltering.Included.Label : translate().Settings.Folders.FolderFiltering.Excluded.Label
     ).setDesc(
-      this.plugin.settings.excludeInclude ? translate().Settings.RegularOptions.FolderFiltering.Included.Description : translate().Settings.RegularOptions.FolderFiltering.Excluded.Description
+      this.plugin.settings.excludeInclude ? translate().Settings.Folders.FolderFiltering.Included.Description : translate().Settings.Folders.FolderFiltering.Excluded.Description
     ).addTextArea((text2) => {
       text2.setValue(this.plugin.settings.excludedFolders.join("\n")).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.excludedFolders = value.split(/\n/).map((ext) => ext.trim()).filter((ext) => ext !== "");
         this.plugin.saveSettings();
       }));
       text2.setPlaceholder(
-        translate().Settings.RegularOptions.FolderFiltering.Placeholder
+        translate().Settings.Folders.FolderFiltering.Placeholder
       );
       text2.inputEl.style.minWidth = "18rem";
       text2.inputEl.style.maxWidth = "18rem";
       text2.inputEl.style.minHeight = "8rem";
       text2.inputEl.style.maxHeight = "16rem";
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.Attachments.Label).setDesc(translate().Settings.RegularOptions.Attachments.Description).addToggle((toggle) => {
+    this.containerEl.createEl("h3", {
+      text: translate().Settings.Files.Header
+    });
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Files.Attachments.Label).setDesc(translate().Settings.Files.Attachments.Description).addToggle((toggle) => {
       toggle.setValue(
         Boolean(this.plugin.settings.attachmentsExcludeInclude)
       );
@@ -4424,9 +4451,9 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
       });
     });
     new import_obsidian2.Setting(containerEl).setName(
-      this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.RegularOptions.Attachments.Included.Label : translate().Settings.RegularOptions.Attachments.Excluded.Label
+      this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.Files.Attachments.Included.Label : translate().Settings.Files.Attachments.Excluded.Label
     ).setDesc(
-      this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.RegularOptions.Attachments.Included.Description : translate().Settings.RegularOptions.Attachments.Excluded.Description
+      this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.Files.Attachments.Included.Description : translate().Settings.Files.Attachments.Excluded.Description
     ).addTextArea((text2) => {
       text2.setValue(
         this.plugin.settings.attachmentExtensions.map((ext) => `.${ext}`).join(", ")
@@ -4435,17 +4462,34 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.plugin.saveSettings();
       }));
       text2.setPlaceholder(
-        this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.RegularOptions.Attachments.Included.Placeholder : translate().Settings.RegularOptions.Attachments.Excluded.Placeholder
+        this.plugin.settings.attachmentsExcludeInclude ? translate().Settings.Files.Attachments.Included.Placeholder : translate().Settings.Files.Attachments.Excluded.Placeholder
       );
       text2.inputEl.style.minWidth = "18rem";
       text2.inputEl.style.maxWidth = "18rem";
       text2.inputEl.style.minHeight = "4rem";
       text2.inputEl.style.maxHeight = "8rem";
     });
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Files.FileAgeThreshold.Label).setDesc(translate().Settings.Files.FileAgeThreshold.Description).addText((text2) => {
+      text2.setPlaceholder("0");
+      text2.inputEl.type = "number";
+      text2.inputEl.min = "0";
+      if (this.plugin.settings.fileAgeThreshold > 0)
+        text2.setValue(String(this.plugin.settings.fileAgeThreshold));
+      text2.onChange((value) => {
+        const newAge = Number(value.trim());
+        if (newAge >= 0) {
+          this.plugin.settings.fileAgeThreshold = newAge;
+          this.plugin.saveSettings();
+        } else text2.setValue("0");
+      });
+    });
+    this.containerEl.createEl("h4", {
+      text: translate().Settings.MarkdownFiles.Header
+    });
     new import_obsidian2.Setting(containerEl).setName(
-      translate().Settings.RegularOptions.DeleteEmptyMarkdownFiles.Label
+      translate().Settings.MarkdownFiles.DeleteEmptyMarkdownFiles.Label
     ).setDesc(
-      translate().Settings.RegularOptions.DeleteEmptyMarkdownFiles.Description
+      translate().Settings.MarkdownFiles.DeleteEmptyMarkdownFiles.Description
     ).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.deleteEmptyMarkdownFiles);
       toggle.onChange((value) => {
@@ -4455,9 +4499,9 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
       });
     });
     this.plugin.settings.deleteEmptyMarkdownFiles && new import_obsidian2.Setting(containerEl).setName(
-      translate().Settings.RegularOptions.DeleteEmptyMarkdownFilesWithBacklinks.Label
+      translate().Settings.MarkdownFiles.DeleteEmptyMarkdownFilesWithBacklinks.Label
     ).setDesc(
-      translate().Settings.RegularOptions.DeleteEmptyMarkdownFilesWithBacklinks.Description
+      translate().Settings.MarkdownFiles.DeleteEmptyMarkdownFilesWithBacklinks.Description
     ).addToggle((toggle) => {
       toggle.setValue(
         this.plugin.settings.deleteEmptyMarkdownFilesWithBacklinks
@@ -4468,15 +4512,15 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.display();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.IgnoredFrontmatter.Label).setDesc(
-      translate().Settings.RegularOptions.IgnoredFrontmatter.Description
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.MarkdownFiles.IgnoredFrontmatter.Label).setDesc(
+      translate().Settings.MarkdownFiles.IgnoredFrontmatter.Description
     ).addTextArea((text2) => {
       text2.setValue(this.plugin.settings.ignoredFrontmatter.join(", ")).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.ignoredFrontmatter = value.split(",").map((ext) => ext.trim()).filter((ext) => ext.length > 1 && ext !== "");
         this.plugin.saveSettings();
       }));
       text2.setPlaceholder(
-        translate().Settings.RegularOptions.IgnoredFrontmatter.Placeholder
+        translate().Settings.MarkdownFiles.IgnoredFrontmatter.Placeholder
       );
       text2.inputEl.style.minWidth = "18rem";
       text2.inputEl.style.maxWidth = "18rem";
@@ -4489,8 +4533,8 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         color: ""
       }
     );
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.IgnoreAllFrontmatter.Label).setDesc(
-      translate().Settings.RegularOptions.IgnoreAllFrontmatter.Description
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.MarkdownFiles.IgnoreAllFrontmatter.Label).setDesc(
+      translate().Settings.MarkdownFiles.IgnoreAllFrontmatter.Description
     ).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.ignoreAllFrontmatter);
       toggle.onChange((value) => {
@@ -4499,13 +4543,13 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         this.display();
       });
     }).setDisabled(!this.plugin.settings.deleteEmptyMarkdownFiles);
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.CodeblockParsing.Label).setDesc(translate().Settings.RegularOptions.CodeblockParsing.Description).addTextArea((text2) => {
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.MarkdownFiles.CodeblockParsing.Label).setDesc(translate().Settings.MarkdownFiles.CodeblockParsing.Description).addTextArea((text2) => {
       text2.setValue(this.plugin.settings.codeblockTypes.join(", ")).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.codeblockTypes = value.split(",").map((ext) => ext.trim()).filter((ext) => ext.length > 1 && ext !== "");
         this.plugin.saveSettings();
       }));
       text2.setPlaceholder(
-        translate().Settings.RegularOptions.CodeblockParsing.Placeholder
+        translate().Settings.MarkdownFiles.CodeblockParsing.Placeholder
       );
       text2.inputEl.style.minWidth = "18rem";
       text2.inputEl.style.maxWidth = "18rem";
@@ -4516,42 +4560,24 @@ var FileCleanerSettingTab = class extends import_obsidian2.PluginSettingTab {
         color: ""
       }
     );
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.FileAgeThreshold.Label).setDesc(translate().Settings.RegularOptions.FileAgeThreshold.Description).addText((text2) => {
-      text2.setPlaceholder("0");
-      if (this.plugin.settings.fileAgeThreshold > 0)
-        text2.setValue(String(this.plugin.settings.fileAgeThreshold));
-      text2.onChange((value) => {
-        const newAge = Number(value.trim());
-        if (newAge >= 0) {
-          this.plugin.settings.fileAgeThreshold = newAge;
-          this.plugin.saveSettings();
-        }
-      });
+    this.containerEl.createEl("h3", {
+      text: translate().Settings.Other.Header
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.CloseNewTabs.Label).setDesc(translate().Settings.RegularOptions.CloseNewTabs.Description).addToggle((toggle) => {
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Other.CloseNewTabs.Label).setDesc(translate().Settings.Other.CloseNewTabs.Description).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.closeNewTabs);
       toggle.onChange((value) => {
         this.plugin.settings.closeNewTabs = value;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.PreviewDeletedFiles.Label).setDesc(
-      translate().Settings.RegularOptions.PreviewDeletedFiles.Description
-    ).addToggle((toggle) => {
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Other.PreviewDeletedFiles.Label).setDesc(translate().Settings.Other.PreviewDeletedFiles.Description).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.deletionConfirmation);
       toggle.onChange((value) => {
         this.plugin.settings.deletionConfirmation = value;
         this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.RemoveFolders.Label).setDesc(translate().Settings.RegularOptions.RemoveFolders.Description).addToggle((toggle) => {
-      toggle.setValue(this.plugin.settings.removeFolders);
-      toggle.onChange((value) => {
-        this.plugin.settings.removeFolders = value;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian2.Setting(containerEl).setName(translate().Settings.RegularOptions.RunOnStartup.Label).setDesc(translate().Settings.RegularOptions.RunOnStartup.Description).addToggle((toggle) => {
+    new import_obsidian2.Setting(containerEl).setName(translate().Settings.Other.RunOnStartup.Label).setDesc(translate().Settings.Other.RunOnStartup.Description).addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.runOnStartup);
       toggle.onChange((value) => {
         this.plugin.settings.runOnStartup = value;
@@ -4735,7 +4761,7 @@ var _a, _b;
 var node_env = (_b = (_a = globalThis.process) == null ? void 0 : _a.env) == null ? void 0 : _b.NODE_ENV;
 var dev_fallback_default = node_env && !node_env.toLowerCase().startsWith("prod");
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/shared/utils.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/shared/utils.js
 var is_array = Array.isArray;
 var index_of = Array.prototype.indexOf;
 var array_from = Array.from;
@@ -4782,7 +4808,7 @@ function to_array(value, n) {
   return array;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/constants.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/constants.js
 var DERIVED = 1 << 1;
 var EFFECT = 1 << 2;
 var RENDER_EFFECT = 1 << 3;
@@ -4821,7 +4847,7 @@ var ELEMENT_NODE = 1;
 var TEXT_NODE = 3;
 var COMMENT_NODE = 8;
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/shared/errors.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/shared/errors.js
 function await_outside_boundary() {
   if (dev_fallback_default) {
     const error = new Error(`await_outside_boundary
@@ -4834,7 +4860,7 @@ https://svelte.dev/e/await_outside_boundary`);
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/errors.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/errors.js
 function async_derived_orphan() {
   if (dev_fallback_default) {
     const error = new Error(`async_derived_orphan
@@ -4979,7 +5005,7 @@ https://svelte.dev/e/state_unsafe_mutation`);
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/constants.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/constants.js
 var EACH_ITEM_REACTIVE = 1;
 var EACH_INDEX_REACTIVE = 1 << 1;
 var EACH_IS_CONTROLLED = 1 << 2;
@@ -5008,7 +5034,7 @@ var NAMESPACE_HTML = "http://www.w3.org/1999/xhtml";
 var NAMESPACE_SVG = "http://www.w3.org/2000/svg";
 var ATTACHMENT_KEY = "@attach";
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/warnings.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/warnings.js
 var bold = "font-weight: bold";
 var normal = "font-weight: normal";
 function await_reactivity_loss(name) {
@@ -5079,7 +5105,7 @@ https://svelte.dev/e/state_proxy_equality_mismatch`, bold, normal);
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/hydration.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/hydration.js
 var hydrating = false;
 function set_hydrating(value) {
   hydrating = value;
@@ -5141,7 +5167,7 @@ function read_hydration_instruction(node) {
   );
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/equality.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/equality.js
 function equals(value) {
   return value === this.v;
 }
@@ -5152,7 +5178,7 @@ function safe_equals(value) {
   return !safe_not_equal(value, this.v);
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/flags/index.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/flags/index.js
 var async_mode_flag = false;
 var legacy_mode_flag = false;
 var tracing_mode_flag = false;
@@ -5160,7 +5186,7 @@ function enable_legacy_mode_flag() {
   legacy_mode_flag = true;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dev/tracing.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dev/tracing.js
 var tracing_expressions = null;
 function get_stack(label) {
   let error = Error();
@@ -5207,7 +5233,7 @@ function tag_proxy(value, label) {
   return value;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/context.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/context.js
 var component_context = null;
 function set_component_context(context) {
   component_context = context;
@@ -5263,7 +5289,7 @@ function is_runes() {
   return !legacy_mode_flag || component_context !== null && component_context.l === null;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/error-handling.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/error-handling.js
 var adjustments = /* @__PURE__ */ new WeakMap();
 function handle_error(error) {
   var effect2 = active_effect;
@@ -5335,7 +5361,7 @@ function apply_adjustments(error) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/task.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/task.js
 var request_idle_callback = typeof requestIdleCallback === "undefined" ? (cb) => setTimeout(cb, 1) : requestIdleCallback;
 var micro_tasks = [];
 var idle_tasks = [];
@@ -5370,7 +5396,7 @@ function flush_tasks() {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/boundary.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/boundary.js
 var flags = EFFECT_TRANSPARENT | EFFECT_PRESERVED | BOUNDARY_EFFECT;
 function get_pending_boundary() {
   var boundary2 = (
@@ -5386,7 +5412,7 @@ function get_pending_boundary() {
   return boundary2;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/deriveds.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/deriveds.js
 var current_async_effect = null;
 function set_from_async_derived(v) {
   current_async_effect = v;
@@ -5455,6 +5481,8 @@ function async_derived(fn, location) {
     if (dev_fallback_default) current_async_effect = active_effect;
     try {
       var p = fn();
+      if (prev) Promise.resolve(p).catch(() => {
+      });
     } catch (error) {
       p = Promise.reject(error);
     }
@@ -5613,7 +5641,7 @@ function update_derived(derived2) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/async.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/async.js
 function flatten(sync, async2, fn) {
   const d = is_runes() ? derived : derived_safe_equal;
   if (async2.length === 0) {
@@ -5647,10 +5675,12 @@ function capture() {
   var previous_effect = active_effect;
   var previous_reaction = active_reaction;
   var previous_component_context = component_context;
+  var previous_batch2 = current_batch;
   return function restore() {
     set_active_effect(previous_effect);
     set_active_reaction(previous_reaction);
     set_component_context(previous_component_context);
+    previous_batch2 == null ? void 0 : previous_batch2.activate();
     if (dev_fallback_default) {
       set_from_async_derived(null);
     }
@@ -5663,7 +5693,7 @@ function unset_context() {
   if (dev_fallback_default) set_from_async_derived(null);
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/batch.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/batch.js
 var batches = /* @__PURE__ */ new Set();
 var current_batch = null;
 var previous_batch = null;
@@ -5777,7 +5807,7 @@ var _Batch = class _Batch {
     queued_root_effects = [];
     previous_batch = null;
     var current_values = null;
-    if (batches.size > 1) {
+    if (async_mode_flag && batches.size > 1) {
       current_values = /* @__PURE__ */ new Map();
       batch_deriveds = /* @__PURE__ */ new Map();
       for (const [source2, current] of this.current) {
@@ -5961,12 +5991,12 @@ traverse_effect_tree_fn = function(root3) {
     if (!skip && effect2.fn !== null) {
       if (is_branch) {
         effect2.f ^= CLEAN;
+      } else if ((flags2 & EFFECT) !== 0) {
+        __privateGet(this, _effects).push(effect2);
+      } else if (async_mode_flag && (flags2 & RENDER_EFFECT) !== 0) {
+        __privateGet(this, _render_effects).push(effect2);
       } else if ((flags2 & CLEAN) === 0) {
-        if ((flags2 & EFFECT) !== 0) {
-          __privateGet(this, _effects).push(effect2);
-        } else if (async_mode_flag && (flags2 & RENDER_EFFECT) !== 0) {
-          __privateGet(this, _render_effects).push(effect2);
-        } else if ((flags2 & ASYNC) !== 0) {
+        if ((flags2 & ASYNC) !== 0) {
           var effects = ((_a3 = effect2.b) == null ? void 0 : _a3.pending) ? __privateGet(this, _boundary_async_effects) : __privateGet(this, _async_effects);
           effects.push(effect2);
         } else if (is_dirty(effect2)) {
@@ -6088,6 +6118,7 @@ function infinite_loop_guard() {
     invoke_error_boundary(error, last_scheduled_effect);
   }
 }
+var eager_block_effects = null;
 function flush_queued_effects(effects) {
   var length = effects.length;
   if (length === 0) return;
@@ -6095,7 +6126,7 @@ function flush_queued_effects(effects) {
   while (i < length) {
     var effect2 = effects[i++];
     if ((effect2.f & (DESTROYED | INERT)) === 0 && is_dirty(effect2)) {
-      var n = current_batch ? current_batch.current.size : 0;
+      eager_block_effects = [];
       update_effect(effect2);
       if (effect2.deps === null && effect2.first === null && effect2.nodes_start === null) {
         if (effect2.teardown === null && effect2.ac === null) {
@@ -6104,14 +6135,16 @@ function flush_queued_effects(effects) {
           effect2.fn = null;
         }
       }
-      if (current_batch !== null && current_batch.current.size > n && (effect2.f & USER_EFFECT) !== 0) {
-        break;
+      if ((eager_block_effects == null ? void 0 : eager_block_effects.length) > 0) {
+        old_values.clear();
+        for (const e of eager_block_effects) {
+          update_effect(e);
+        }
+        eager_block_effects = [];
       }
     }
   }
-  while (i < length) {
-    schedule_effect(effects[i++]);
-  }
+  eager_block_effects = null;
 }
 function schedule_effect(signal) {
   var effect2 = last_scheduled_effect = signal;
@@ -6129,7 +6162,7 @@ function schedule_effect(signal) {
   queued_root_effects.push(effect2);
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/sources.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/sources.js
 var inspect_effects = /* @__PURE__ */ new Set();
 var old_values = /* @__PURE__ */ new Map();
 function set_inspect_effects(v) {
@@ -6291,6 +6324,14 @@ function mark_reactions(signal, status) {
         MAYBE_DIRTY
       );
     } else if (not_dirty) {
+      if ((flags2 & BLOCK_EFFECT) !== 0) {
+        if (eager_block_effects !== null) {
+          eager_block_effects.push(
+            /** @type {Effect} */
+            reaction
+          );
+        }
+      }
       schedule_effect(
         /** @type {Effect} */
         reaction
@@ -6299,7 +6340,7 @@ function mark_reactions(signal, status) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/proxy.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/proxy.js
 var regex_is_valid_identifier = /^[a-zA-Z_$][a-zA-Z_$0-9]*$/;
 function proxy(value) {
   if (typeof value !== "object" || value === null || STATE_SYMBOL in value) {
@@ -6342,12 +6383,16 @@ function proxy(value) {
     }
   }
   var path = "";
+  let updating = false;
   function update_path(new_path) {
+    if (updating) return;
+    updating = true;
     path = new_path;
     tag(version, `${path} version`);
     for (const [prop2, source2] of sources) {
       tag(source2, get_label(path, prop2));
     }
+    updating = false;
   }
   return new Proxy(
     /** @type {any} */
@@ -6483,11 +6528,11 @@ function proxy(value) {
         if (s === void 0) {
           if (!has || ((_a3 = get_descriptor(target, prop2)) == null ? void 0 : _a3.writable)) {
             s = with_parent(() => state(void 0, stack2));
-            set(s, proxy(value2));
-            sources.set(prop2, s);
             if (dev_fallback_default) {
               tag(s, get_label(path, prop2));
             }
+            set(s, proxy(value2));
+            sources.set(prop2, s);
           }
         } else {
           has = s.v !== UNINITIALIZED;
@@ -6581,7 +6626,7 @@ function inspectable_array(array) {
   });
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dev/equality.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dev/equality.js
 function init_array_prototype_warnings() {
   const array_prototype2 = Array.prototype;
   const cleanup = Array.__svelte_cleanup;
@@ -6632,7 +6677,7 @@ function init_array_prototype_warnings() {
   };
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/operations.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/operations.js
 var $window;
 var $document;
 var is_firefox;
@@ -6748,6 +6793,7 @@ function clear_text_content(node) {
 }
 function should_defer_append() {
   if (!async_mode_flag) return false;
+  if (eager_block_effects !== null) return false;
   var flags2 = (
     /** @type {Effect} */
     active_effect.f
@@ -6755,7 +6801,59 @@ function should_defer_append() {
   return (flags2 & EFFECT_RAN) !== 0;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/effects.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/misc.js
+function autofocus(dom, value) {
+  if (value) {
+    const body = document.body;
+    dom.autofocus = true;
+    queue_micro_task(() => {
+      if (document.activeElement === body) {
+        dom.focus();
+      }
+    });
+  }
+}
+var listening_to_form_reset = false;
+function add_form_reset_listener() {
+  if (!listening_to_form_reset) {
+    listening_to_form_reset = true;
+    document.addEventListener(
+      "reset",
+      (evt) => {
+        Promise.resolve().then(() => {
+          var _a3;
+          if (!evt.defaultPrevented) {
+            for (
+              const e of
+              /**@type {HTMLFormElement} */
+              evt.target.elements
+            ) {
+              (_a3 = e.__on_r) == null ? void 0 : _a3.call(e);
+            }
+          }
+        });
+      },
+      // In the capture phase to guarantee we get noticed of it (no possiblity of stopPropagation)
+      { capture: true }
+    );
+  }
+}
+
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/bindings/shared.js
+function without_reactive_context(fn) {
+  var previous_reaction = active_reaction;
+  var previous_effect = active_effect;
+  set_active_reaction(null);
+  set_active_effect(null);
+  try {
+    return fn();
+  } finally {
+    set_active_reaction(previous_reaction);
+    set_active_effect(previous_effect);
+  }
+}
+
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/effects.js
 function validate_effect(rune) {
   if (active_effect === null && active_reaction === null) {
     effect_orphan(rune);
@@ -6813,24 +6911,31 @@ function create_effect(type, fn, sync, push2 = true) {
     try {
       update_effect(effect2);
       effect2.f |= EFFECT_RAN;
-    } catch (e) {
+    } catch (e2) {
       destroy_effect(effect2);
-      throw e;
+      throw e2;
     }
   } else if (fn !== null) {
     schedule_effect(effect2);
   }
-  var inert = sync && effect2.deps === null && effect2.first === null && effect2.nodes_start === null && effect2.teardown === null && (effect2.f & EFFECT_PRESERVED) === 0;
-  if (!inert && push2) {
-    if (parent !== null) {
-      push_effect(effect2, parent);
+  if (push2) {
+    var e = effect2;
+    if (sync && e.deps === null && e.teardown === null && e.nodes_start === null && e.first === e.last && // either `null`, or a singular child
+    (e.f & EFFECT_PRESERVED) === 0) {
+      e = e.first;
     }
-    if (active_reaction !== null && (active_reaction.f & DERIVED) !== 0 && (type & ROOT_EFFECT) === 0) {
-      var derived2 = (
-        /** @type {Derived} */
-        active_reaction
-      );
-      ((_a3 = derived2.effects) != null ? _a3 : derived2.effects = []).push(effect2);
+    if (e !== null) {
+      e.parent = parent;
+      if (parent !== null) {
+        push_effect(e, parent);
+      }
+      if (active_reaction !== null && (active_reaction.f & DERIVED) !== 0 && (type & ROOT_EFFECT) === 0) {
+        var derived2 = (
+          /** @type {Derived} */
+          active_reaction
+        );
+        ((_a3 = derived2.effects) != null ? _a3 : derived2.effects = []).push(e);
+      }
     }
   }
   return effect2;
@@ -6878,14 +6983,14 @@ function user_pre_effect(fn) {
 }
 function effect_root(fn) {
   Batch.ensure();
-  const effect2 = create_effect(ROOT_EFFECT, fn, true);
+  const effect2 = create_effect(ROOT_EFFECT | EFFECT_PRESERVED, fn, true);
   return () => {
     destroy_effect(effect2);
   };
 }
 function component_root(fn) {
   Batch.ensure();
-  const effect2 = create_effect(ROOT_EFFECT, fn, true);
+  const effect2 = create_effect(ROOT_EFFECT | EFFECT_PRESERVED, fn, true);
   return (options = {}) => {
     return new Promise((fulfil) => {
       if (options.outro) {
@@ -6922,7 +7027,7 @@ function block(fn, flags2 = 0) {
   return effect2;
 }
 function branch(fn, push2 = true) {
-  return create_effect(BRANCH_EFFECT, fn, true, push2);
+  return create_effect(BRANCH_EFFECT | EFFECT_PRESERVED, fn, true, push2);
 }
 function execute_effect_teardown(effect2) {
   var teardown2 = effect2.teardown;
@@ -6940,11 +7045,15 @@ function execute_effect_teardown(effect2) {
   }
 }
 function destroy_effect_children(signal, remove_dom = false) {
-  var _a3;
   var effect2 = signal.first;
   signal.first = signal.last = null;
   while (effect2 !== null) {
-    (_a3 = effect2.ac) == null ? void 0 : _a3.abort(STALE_REACTION);
+    const controller = effect2.ac;
+    if (controller !== null) {
+      without_reactive_context(() => {
+        controller.abort(STALE_REACTION);
+      });
+    }
     var next2 = effect2.next;
     if ((effect2.f & ROOT_EFFECT) !== 0) {
       effect2.parent = null;
@@ -7077,10 +7186,10 @@ function resume_children(effect2, local) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/legacy.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/legacy.js
 var captured_signals = null;
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/runtime.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/runtime.js
 var is_updating_effect = false;
 function set_is_updating_effect(value) {
   is_updating_effect = value;
@@ -7231,15 +7340,18 @@ function update_reaction(reaction) {
   untracking = false;
   update_version = ++read_version;
   if (reaction.ac !== null) {
-    reaction.ac.abort(STALE_REACTION);
+    without_reactive_context(() => {
+      reaction.ac.abort(STALE_REACTION);
+    });
     reaction.ac = null;
   }
   try {
     reaction.f |= REACTION_IS_UPDATING;
-    var result = (
+    var fn = (
       /** @type {Function} */
-      (0, reaction.fn)()
+      reaction.fn
     );
+    var result = fn();
     var deps = reaction.deps;
     if (new_deps !== null) {
       var i;
@@ -7567,7 +7679,7 @@ function deep_read(value, visited = /* @__PURE__ */ new Set()) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/utils.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/utils.js
 function is_capture_event(name) {
   return name.endsWith("capture") && name !== "gotpointercapture" && name !== "lostpointercapture";
 }
@@ -7705,64 +7817,12 @@ var RAW_TEXT_ELEMENTS = (
 );
 function is_raw_text_element(name) {
   return RAW_TEXT_ELEMENTS.includes(
-    /** @type {RAW_TEXT_ELEMENTS[number]} */
+    /** @type {typeof RAW_TEXT_ELEMENTS[number]} */
     name
   );
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/misc.js
-function autofocus(dom, value) {
-  if (value) {
-    const body = document.body;
-    dom.autofocus = true;
-    queue_micro_task(() => {
-      if (document.activeElement === body) {
-        dom.focus();
-      }
-    });
-  }
-}
-var listening_to_form_reset = false;
-function add_form_reset_listener() {
-  if (!listening_to_form_reset) {
-    listening_to_form_reset = true;
-    document.addEventListener(
-      "reset",
-      (evt) => {
-        Promise.resolve().then(() => {
-          var _a3;
-          if (!evt.defaultPrevented) {
-            for (
-              const e of
-              /**@type {HTMLFormElement} */
-              evt.target.elements
-            ) {
-              (_a3 = e.__on_r) == null ? void 0 : _a3.call(e);
-            }
-          }
-        });
-      },
-      // In the capture phase to guarantee we get noticed of it (no possiblity of stopPropagation)
-      { capture: true }
-    );
-  }
-}
-
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/bindings/shared.js
-function without_reactive_context(fn) {
-  var previous_reaction = active_reaction;
-  var previous_effect = active_effect;
-  set_active_reaction(null);
-  set_active_effect(null);
-  try {
-    return fn();
-  } finally {
-    set_active_reaction(previous_reaction);
-    set_active_effect(previous_effect);
-  }
-}
-
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/events.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/events.js
 var all_registered_events = /* @__PURE__ */ new Set();
 var root_event_handles = /* @__PURE__ */ new Set();
 function create_event(event_name, dom, handler, options = {}) {
@@ -7885,20 +7945,20 @@ function handle_event_propagation(event2) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/svelte-head.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/svelte-head.js
 var head_anchor;
 function reset_head_anchor() {
   head_anchor = void 0;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/reconciler.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/reconciler.js
 function create_fragment_from_html(html2) {
   var elem = document.createElement("template");
   elem.innerHTML = html2.replaceAll("<!>", "<!---->");
   return elem.content;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/template.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/template.js
 function assign_nodes(start, end) {
   var effect2 = (
     /** @type {Effect} */
@@ -8002,6 +8062,20 @@ function from_namespace(content, flags2, ns = "svg") {
 function from_svg(content, flags2) {
   return /* @__PURE__ */ from_namespace(content, flags2, "svg");
 }
+function text(value = "") {
+  if (!hydrating) {
+    var t = create_text(value + "");
+    assign_nodes(t, t);
+    return t;
+  }
+  var node = hydrate_node;
+  if (node.nodeType !== TEXT_NODE) {
+    node.before(node = create_text());
+    set_hydrate_node(node);
+  }
+  assign_nodes(node, node);
+  return node;
+}
 function comment() {
   if (hydrating) {
     assign_nodes(hydrate_node, null);
@@ -8029,7 +8103,7 @@ function append(anchor, dom) {
   );
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/render.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/render.js
 var should_intro = true;
 function set_should_intro(value) {
   should_intro = value;
@@ -8083,16 +8157,19 @@ function hydrate(component2, options) {
       instance
     );
   } catch (error) {
-    if (error === HYDRATION_ERROR) {
-      if (options.recover === false) {
-        hydration_failed();
-      }
-      init_operations();
-      clear_text_content(target);
-      set_hydrating(false);
-      return mount(component2, options);
+    if (error instanceof Error && error.message.split("\n").some((line) => line.startsWith("https://svelte.dev/e/"))) {
+      throw error;
     }
-    throw error;
+    if (error !== HYDRATION_ERROR) {
+      console.warn("Failed to hydrate: ", error);
+    }
+    if (options.recover === false) {
+      hydration_failed();
+    }
+    init_operations();
+    clear_text_content(target);
+    set_hydrating(false);
+    return mount(component2, options);
   } finally {
     set_hydrating(was_hydrating);
     set_hydrate_node(previous_hydrate_node);
@@ -8190,7 +8267,7 @@ function unmount(component2, options) {
   return Promise.resolve();
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/if.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/if.js
 function if_block(node, fn, elseif = false) {
   if (hydrating) {
     hydrate_next();
@@ -8279,7 +8356,7 @@ function if_block(node, fn, elseif = false) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/each.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/each.js
 var current_each_item = null;
 function set_current_each_item(item) {
   current_each_item = item;
@@ -8376,7 +8453,8 @@ function each(node, flags2, get_collection, get_key, render_fn, fallback_fn = nu
     var _a3;
     each_effect != null ? each_effect : each_effect = /** @type {Effect} */
     active_effect;
-    array = get(each_array);
+    array = /** @type {V[]} */
+    get(each_array);
     var length = array.length;
     if (was_empty && length === 0) {
       return;
@@ -8748,7 +8826,7 @@ function link(state2, prev, next2) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/slot.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/slot.js
 function slot(anchor, $$props, name, slot_props, fallback_fn) {
   var _a3;
   if (hydrating) {
@@ -8769,7 +8847,7 @@ function slot(anchor, $$props, name, slot_props, fallback_fn) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/blocks/svelte-element.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/blocks/svelte-element.js
 function element(node, get_tag, is_svg, render_fn, get_namespace, location) {
   var _a3;
   let was_hydrating = hydrating;
@@ -8859,7 +8937,7 @@ function element(node, get_tag, is_svg, render_fn, get_namespace, location) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/attachments.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/attachments.js
 function attach(node, get_fn) {
   var fn = void 0;
   var e;
@@ -8896,7 +8974,7 @@ function clsx() {
   return n;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/shared/attributes.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/shared/attributes.js
 function clsx2(value) {
   if (typeof value === "object") {
     return clsx(value);
@@ -9024,7 +9102,7 @@ function to_style(value, styles) {
   return value == null ? null : String(value);
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/class.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/class.js
 function set_class(dom, is_html, value, hash2, prev_classes, next_classes) {
   var prev = dom.__className;
   if (hydrating || prev !== value || prev === void 0) {
@@ -9050,7 +9128,7 @@ function set_class(dom, is_html, value, hash2, prev_classes, next_classes) {
   return next_classes;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/style.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/style.js
 function update_styles(dom, prev = {}, next2, priority) {
   for (var key2 in next2) {
     var value = next2[key2];
@@ -9086,7 +9164,7 @@ function set_style(dom, value, prev_styles, next_styles) {
   return next_styles;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/bindings/select.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/bindings/select.js
 function select_option(select, value, mounting = false) {
   if (select.multiple) {
     if (value == void 0) {
@@ -9138,7 +9216,7 @@ function get_option_value(option) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/attributes.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/attributes.js
 var CLASS = Symbol("class");
 var STYLE = Symbol("style");
 var IS_CUSTOM_ELEMENT = Symbol("is custom element");
@@ -9400,9 +9478,10 @@ function get_attributes(element2) {
 }
 var setters_cache = /* @__PURE__ */ new Map();
 function get_setters(element2) {
-  var setters = setters_cache.get(element2.nodeName);
+  var cache_key = element2.getAttribute("is") || element2.nodeName;
+  var setters = setters_cache.get(cache_key);
   if (setters) return setters;
-  setters_cache.set(element2.nodeName, setters = []);
+  setters_cache.set(cache_key, setters = []);
   var descriptors;
   var proto = element2;
   var element_proto = Element.prototype;
@@ -9448,7 +9527,7 @@ function srcset_url_equal(element2, srcset) {
   );
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/legacy/lifecycle.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/legacy/lifecycle.js
 function init(immutable = false) {
   const context = (
     /** @type {ComponentContextLegacy} */
@@ -9507,7 +9586,7 @@ function observe_all(context, props) {
   props();
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/store.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/store.js
 var is_store_binding = false;
 var IS_UNMOUNTED = Symbol();
 function capture_store_binding(fn) {
@@ -9520,7 +9599,7 @@ function capture_store_binding(fn) {
   }
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/reactivity/props.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/reactivity/props.js
 var legacy_rest_props_handler = {
   get(target, key2) {
     if (target.exclude.includes(key2)) return;
@@ -9729,15 +9808,18 @@ function prop(props, key2, flags2, fallback2) {
   }
   if (setter) {
     var legacy_parent = props.$$legacy;
-    return function(value, mutation) {
-      if (arguments.length > 0) {
-        if (!runes || !mutation || legacy_parent || is_store_sub) {
-          setter(mutation ? getter() : value);
+    return (
+      /** @type {() => V} */
+      (function(value, mutation) {
+        if (arguments.length > 0) {
+          if (!runes || !mutation || legacy_parent || is_store_sub) {
+            setter(mutation ? getter() : value);
+          }
+          return value;
         }
-        return value;
-      }
-      return getter();
-    };
+        return getter();
+      })
+    );
   }
   var overridden = false;
   var d = ((flags2 & PROPS_IS_IMMUTABLE) !== 0 ? derived : derived_safe_equal)(() => {
@@ -9752,24 +9834,27 @@ function prop(props, key2, flags2, fallback2) {
     /** @type {Effect} */
     active_effect
   );
-  return function(value, mutation) {
-    if (arguments.length > 0) {
-      const new_value = mutation ? get(d) : runes && bindable ? proxy(value) : value;
-      set(d, new_value);
-      overridden = true;
-      if (fallback_value !== void 0) {
-        fallback_value = new_value;
+  return (
+    /** @type {() => V} */
+    (function(value, mutation) {
+      if (arguments.length > 0) {
+        const new_value = mutation ? get(d) : runes && bindable ? proxy(value) : value;
+        set(d, new_value);
+        overridden = true;
+        if (fallback_value !== void 0) {
+          fallback_value = new_value;
+        }
+        return value;
       }
-      return value;
-    }
-    if (is_destroying_effect && overridden || (parent_effect.f & DESTROYED) !== 0) {
-      return d.v;
-    }
-    return get(d);
-  };
+      if (is_destroying_effect && overridden || (parent_effect.f & DESTROYED) !== 0) {
+        return d.v;
+      }
+      return get(d);
+    })
+  );
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/legacy/legacy-client.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/legacy/legacy-client.js
 function createClassComponent(options) {
   return new Svelte4Component(options);
 }
@@ -9872,7 +9957,7 @@ var Svelte4Component = class {
 _events = new WeakMap();
 _instance = new WeakMap();
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/client/dom/elements/custom-element.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/client/dom/elements/custom-element.js
 var SvelteElement;
 if (typeof HTMLElement === "function") {
   SvelteElement = class extends HTMLElement {
@@ -10095,7 +10180,7 @@ function get_custom_elements_slots(element2) {
   return result;
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/index-client.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/index-client.js
 if (dev_fallback_default) {
   let throw_rune_error = function(rune) {
     if (!(rune in globalThis)) {
@@ -10123,19 +10208,19 @@ if (dev_fallback_default) {
   throw_rune_error("$bindable");
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/version.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/version.js
 var PUBLIC_VERSION = "5";
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/disclose-version.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/disclose-version.js
 var _a2, _b2, _c;
 if (typeof window !== "undefined") {
   ((_c = (_b2 = (_a2 = window.__svelte) != null ? _a2 : window.__svelte = {}).v) != null ? _c : _b2.v = /* @__PURE__ */ new Set()).add(PUBLIC_VERSION);
 }
 
-// node_modules/.pnpm/svelte@5.37.3/node_modules/svelte/src/internal/flags/legacy.js
+// node_modules/.pnpm/svelte@5.38.7/node_modules/svelte/src/internal/flags/legacy.js
 enable_legacy_mode_flag();
 
-// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.37.3/node_modules/lucide-svelte/dist/defaultAttributes.js
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/defaultAttributes.js
 var defaultAttributes = {
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -10149,7 +10234,7 @@ var defaultAttributes = {
 };
 var defaultAttributes_default = defaultAttributes;
 
-// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.37.3/node_modules/lucide-svelte/dist/Icon.svelte
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/Icon.svelte
 var root = from_svg(`<svg><!><!></svg>`);
 function Icon($$anchor, $$props) {
   const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
@@ -10206,7 +10291,7 @@ function Icon($$anchor, $$props) {
   pop();
 }
 
-// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.37.3/node_modules/lucide-svelte/dist/icons/external-link.svelte
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/icons/external-link.svelte
 function External_link($$anchor, $$props) {
   const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
   const iconNode = [
@@ -10233,7 +10318,7 @@ function External_link($$anchor, $$props) {
   }));
 }
 
-// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.37.3/node_modules/lucide-svelte/dist/icons/file.svelte
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/icons/file.svelte
 function File($$anchor, $$props) {
   const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
   const iconNode = [
@@ -10259,7 +10344,7 @@ function File($$anchor, $$props) {
   }));
 }
 
-// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.37.3/node_modules/lucide-svelte/dist/icons/folder-open.svelte
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/icons/folder-open.svelte
 function Folder_open($$anchor, $$props) {
   const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
   const iconNode = [
@@ -10284,6 +10369,55 @@ function Folder_open($$anchor, $$props) {
   }));
 }
 
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/icons/square-check-big.svelte
+function Square_check_big($$anchor, $$props) {
+  const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
+  const iconNode = [
+    [
+      "path",
+      {
+        "d": "M21 10.656V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h12.344"
+      }
+    ],
+    ["path", { "d": "m9 11 3 3L22 4" }]
+  ];
+  Icon($$anchor, spread_props({ name: "square-check-big" }, () => $$sanitized_props, {
+    get iconNode() {
+      return iconNode;
+    },
+    children: ($$anchor2, $$slotProps) => {
+      var fragment_1 = comment();
+      var node = first_child(fragment_1);
+      slot(node, $$props, "default", {}, null);
+      append($$anchor2, fragment_1);
+    },
+    $$slots: { default: true }
+  }));
+}
+
+// node_modules/.pnpm/lucide-svelte@0.525.0_svelte@5.38.7/node_modules/lucide-svelte/dist/icons/square.svelte
+function Square($$anchor, $$props) {
+  const $$sanitized_props = legacy_rest_props($$props, ["children", "$$slots", "$$events", "$$legacy"]);
+  const iconNode = [
+    [
+      "rect",
+      { "width": "18", "height": "18", "x": "3", "y": "3", "rx": "2" }
+    ]
+  ];
+  Icon($$anchor, spread_props({ name: "square" }, () => $$sanitized_props, {
+    get iconNode() {
+      return iconNode;
+    },
+    children: ($$anchor2, $$slotProps) => {
+      var fragment_1 = comment();
+      var node = first_child(fragment_1);
+      slot(node, $$props, "default", {}, null);
+      append($$anchor2, fragment_1);
+    },
+    $$slots: { default: true }
+  }));
+}
+
 // src/modals/DeletionConfirmationModalComponent.svelte
 var import_obsidian6 = require("obsidian");
 var on_click = (_, toBeDeleted, file, addEntry, removeEntry) => !toBeDeleted.includes(get(file)) ? addEntry(get(file)) : removeEntry(get(file));
@@ -10293,18 +10427,26 @@ var on_click_1 = (e, $$props, file) => {
   leaf.openFile(get(file));
 };
 var root_1 = from_html(`<li style="list-style: none; "><input type="checkbox"/> <label><span style="vertical-align: middle;"><!></span> <button class="clickable-icon" style="cursor:pointer; display: inline-block"><!></button></label></li>`);
-var on_click_2 = (__1, toBeDeleted, $$props) => {
+var on_click_2 = (__1, filesAndFoldersSorted, addEntry) => {
+  filesAndFoldersSorted.map((f) => addEntry(f));
+};
+var on_click_3 = (__2, filesAndFoldersSorted, removeEntry) => {
+  filesAndFoldersSorted.map((f) => removeEntry(f));
+};
+var on_click_4 = (__3, toBeDeleted, $$props) => {
   removeFiles(toBeDeleted.reverse(), $$props.app, $$props.settings);
   $$props.closeModal();
 };
-var on_click_3 = (__2, $$props) => {
+var on_click_5 = (__4, $$props) => {
   $$props.closeModal();
 };
-var root2 = from_html(`<p> </p> <ul style="padding: 0 1rem; max-height: 50vh; overflow: scroll"></ul> <div style="float: right; display: flex; gap:0.5em"><button class="mod-warning"> </button> <button> </button></div>`, 1);
+var root2 = from_html(`<p> </p> <ul style="padding: 0 1rem; max-height: 50vh; overflow: scroll"></ul> <div><div style="float: left;"><button><!></button> <button><!></button></div> <div style="float: right; display: flex; gap:0.5em"><button class="mod-warning"> </button> <button> </button></div></div>`, 1);
 function DeletionConfirmationModalComponent($$anchor, $$props) {
   push($$props, true);
   let filesAndFoldersSorted = ($$props.filesAndFolders || []).sort((a, b) => a.path.localeCompare(b.path));
   const toBeDeleted = proxy(filesAndFoldersSorted);
+  const selectAllAvailable = user_derived(() => toBeDeleted.length < $$props.filesAndFolders.length);
+  const unselectAllAvailable = user_derived(() => toBeDeleted.length > 0);
   function isFolder(file) {
     return Object.keys(file).includes("children");
   }
@@ -10373,20 +10515,62 @@ function DeletionConfirmationModalComponent($$anchor, $$props) {
   });
   reset(ul);
   var div = sibling(ul, 2);
-  var button_1 = child(div);
-  button_1.__click = [on_click_2, toBeDeleted, $$props];
-  var text_2 = child(button_1, true);
+  var div_1 = child(div);
+  var button_1 = child(div_1);
+  button_1.__click = [on_click_2, filesAndFoldersSorted, addEntry];
+  var node_2 = child(button_1);
+  {
+    var consequent_1 = ($$anchor2) => {
+      Square_check_big($$anchor2, {});
+    };
+    var alternate_1 = ($$anchor2) => {
+      var text_2 = text();
+      template_effect(($0) => set_text(text_2, $0), [() => translate().Modals.ButtonSelectAll]);
+      append($$anchor2, text_2);
+    };
+    if_block(node_2, ($$render) => {
+      if (import_obsidian6.Platform.isMobile) $$render(consequent_1);
+      else $$render(alternate_1, false);
+    });
+  }
   reset(button_1);
   var button_2 = sibling(button_1, 2);
-  button_2.__click = [on_click_3, $$props];
-  var text_3 = child(button_2, true);
+  button_2.__click = [on_click_3, filesAndFoldersSorted, removeEntry];
+  var node_3 = child(button_2);
+  {
+    var consequent_2 = ($$anchor2) => {
+      Square($$anchor2, {});
+    };
+    var alternate_2 = ($$anchor2) => {
+      var text_3 = text();
+      template_effect(($0) => set_text(text_3, $0), [() => translate().Modals.ButtonUnselectAll]);
+      append($$anchor2, text_3);
+    };
+    if_block(node_3, ($$render) => {
+      if (import_obsidian6.Platform.isMobile) $$render(consequent_2);
+      else $$render(alternate_2, false);
+    });
+  }
   reset(button_2);
+  reset(div_1);
+  var div_2 = sibling(div_1, 2);
+  var button_3 = child(div_2);
+  button_3.__click = [on_click_4, toBeDeleted, $$props];
+  var text_4 = child(button_3, true);
+  reset(button_3);
+  var button_4 = sibling(button_3, 2);
+  button_4.__click = [on_click_5, $$props];
+  var text_5 = child(button_4, true);
+  reset(button_4);
+  reset(div_2);
   reset(div);
   template_effect(
     ($0, $1, $2) => {
       set_text(text2, $0);
-      set_text(text_2, $1);
-      set_text(text_3, $2);
+      button_1.disabled = !get(selectAllAvailable);
+      button_2.disabled = !get(unselectAllAvailable);
+      set_text(text_4, $1);
+      set_text(text_5, $2);
     },
     [
       () => translate().Modals.DeletionConfirmation.Text,
@@ -10798,6 +10982,8 @@ lucide-svelte/dist/icons/index.js:
 lucide-svelte/dist/icons/external-link.svelte:
 lucide-svelte/dist/icons/file.svelte:
 lucide-svelte/dist/icons/folder-open.svelte:
+lucide-svelte/dist/icons/square-check-big.svelte:
+lucide-svelte/dist/icons/square.svelte:
   (**
    * @license lucide-svelte v0.525.0 - ISC
    *
