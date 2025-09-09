@@ -237,4 +237,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- Flaring only refers to increasing the *natural* effects of one's Aura. 
 		- It is *independent* of and *separate* from Coating. 
 			- It does **not** improve the technique nor any of its sub-techniques.
-  
+- **Uses**:
+	- When Aura is flared, it garners the attention of any being.
+		- When Krator flare, other Krator immediately recognize them as such.
+	- Intimidation is often the most common
+	- To use in skirmishes
+	- When not in the defensive.
