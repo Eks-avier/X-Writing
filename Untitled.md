@@ -155,8 +155,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 - Aura is the Kráton's Manifestation flowing forth from their body to the world in a definite area around them.
 - Aura is a defined radius on which a Kráton can exert his influence freely.
-	- For example, a Koinon Pyroton produces a 25-metre radius.
-		- **Willpower Dependency**: The  
+	- For example, a Koinon Pyroton produces a 25-metre circular field of flames.
+		- **Dependency Note**: Aura area depends on willpower. 
 - Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it no special effects beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
 	- Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 	- Godzilla's Aura remains dangerously radioactive and hot.
@@ -166,6 +166,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 - **Coating** and **Flaring** is Aura *actualized* and *weaponized*.
 	- **Coating** is the ability of a Kráton to sheath themselves or anything tangible with their Aura.
+	- **Flaring** is the act of *intensifying* the latent effects of Aura itself.
 	- For example, there is a functional difference between Godzilla firing his Atomic Breath and Godzilla applying Coating on his Atomic Breath: this is **Coating**.
 		- One is an expression of *biology* and the other is an expression of *Krátos*.
 			- **Important Context**: Because Krátos has not been discovered, classified, and standardized until 2027 AD on Earth, no being in the known galaxy has any understanding of what Krátos is.
