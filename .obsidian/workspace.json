@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 23.698041089345438,
+        "dimension": 25.465838509316768,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -62,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 30.62589584328715,
+        "dimension": 28.858098423315816,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Aura Expansion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Aura Expansion"
             }
           }
         ]
@@ -93,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 27.52030578117534,
+        "dimension": 27.520305781175345,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -379,10 +379,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "061da0d9587e5cd9",
   "lastOpenFiles": [
+    "Claude Conversations/Krátos Power System Development.md",
+    "Aura Expansion.md",
+    "Claude Conversations/Unconfirmed 796853.crdownload",
+    "Claude Conversations",
+    "New folder",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
-    "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "~syncthing~Untitled.md.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
@@ -418,15 +422,12 @@
     "College/1T2526/Rizal Law and the Catholic Hierarchy.md",
     "Writing/ATM/Canvases/Sorcery.canvas",
     "Writing/ATM/Canvases/Magic.md",
-    "Writing/ATM/Canvases/~syncthing~Krátos (English).canvas.tmp",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
-    "Writing/ATM/Canvases/~syncthing~Krátos (Greek).canvas.tmp",
     "Filipino Essay.md",
     "Answers to Questions.md",
     "Writing/ATM/Canvases/Krátos (English).md",
     "Notepad 10.md",
     "Writing/ATM/Canvases/Notepad 11.md",
-    "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]

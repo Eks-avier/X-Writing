@@ -7792,33 +7792,6 @@
         "newlineCount": 12
       }
     },
-    "Untitled.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2411,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.036666666666667,
-      "characterCount": 16512,
-      "nonWhitespaceCharacterCount": 13160,
-      "newlineCount": 202,
-      "readingTimeInMinutes": 9.09811320754717,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1757159151480,
-      "modifiedDate": 1757400268920,
-      "sizeInBytes": 16607,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.86,
-        "wordCount": 1758,
-        "characterCount": 12002,
-        "nonWhitespaceCharacterCount": 9485,
-        "newlineCount": 156
-      }
-    },
     "Notepad.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8978,6 +8951,60 @@
         "characterCount": 1441,
         "nonWhitespaceCharacterCount": 1222,
         "newlineCount": 31
+      }
+    },
+    "Claude Conversations/Krátos Power System Development.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49676,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 165.58666666666667,
+      "characterCount": 382236,
+      "nonWhitespaceCharacterCount": 318054,
+      "newlineCount": 6763,
+      "readingTimeInMinutes": 187.4566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757401590832,
+      "modifiedDate": 1757401592957,
+      "sizeInBytes": 387764,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Aura Expansion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2437,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.123333333333333,
+      "characterCount": 16680,
+      "nonWhitespaceCharacterCount": 13302,
+      "newlineCount": 202,
+      "readingTimeInMinutes": 9.19622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757159151480,
+      "modifiedDate": 1757401616600,
+      "sizeInBytes": 16775,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

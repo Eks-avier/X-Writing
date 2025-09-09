@@ -1,4 +1,4 @@
-# Untitled
+# Aura Expansion
 
 I've been thinking about further expanding the Coating mechanics, while clarifying some notions:
 
@@ -156,18 +156,18 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 - Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite area around them.
 - Aura is a defined radius on which a Kráton can exert his influence freely.
 	- For example, a Koinon Pyroton produces a 25-meter circular field of flames.
-		- **Dependency Note**: Aura *area* depends on willpower. 
-- Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no "special effects" beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
+		- **Dependency Note**: Aura *area* depends on willpower.
+- Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 		- Similarly, Godzilla's Aura remains radioactive and hot.
 		- For completeness, Scylla's Aura remains frigid.
 	- Aura ***cannot*** be completely suppressed, even through conscious effort.
-		- As long as even just the *will to act* exists within a person, then he produces Aura.
-			- For Koinon, their Themelion guarantees Manifestation, and thus they continuously produce Aura.
+		- As long as even just the *will to act* exists within a person, then Aura production is possible.
+			- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura.
 			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
 				- **The First Layer**: A pressurizing force that induces fear, uneasiness; despite its subtle nature, it's the most memorable aspect of a Krator.
 					- Available at birth, this is unconscious, perpetual, and irrepressible.
-				- **The Second Layer**: 
+				- **The Second Layer**:
 					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible via training.
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
@@ -178,12 +178,12 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- Upon waking up, it climbs back up to baseline levels.
 			- If he loses consciousness, then his Aura dissipates.
 			- **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
-				- This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time. 
+				- This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
 			- **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling its function daily.
 				- This means that he *naturally* produces an aura of radiation.
-					- This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced. 
-						- **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others. 
-							- The effectiveness of his natural emissions is a 
+					- This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
+						- **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others.
+							- The effectiveness of his natural emissions is a
 
 ## Aura, Actualized
 
@@ -196,7 +196,6 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- As a consequence, Godzilla himself doesn't understand the distinction between the two expressions until recently.
 					- Though instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
 				- To contrast, Ghidorah has a *primitive* framework, in Battra's opinion, of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
-					- The only thing he understands is that there is a "strong relationship" between his willpower and his powers.
+					- The only thing he understands is that there is a “strong relationship” between his willpower and his powers.
 						- This explains why he recognizes that his powers can function regardless of physical constraints and limitations.
 							- He understands that he's special, not *why* nor the implications of such in relation to his abilities.
-	- 

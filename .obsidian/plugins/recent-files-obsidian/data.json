@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Krátos, the Power of Will",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
+    },
+    {
+      "basename": "Krátos Power System Development",
+      "path": "Claude Conversations/Krátos Power System Development.md"
+    },
+    {
+      "basename": "Aura Expansion",
+      "path": "Aura Expansion.md"
     },
     {
       "basename": "Krátos (draft 2)",
@@ -15,10 +23,6 @@
     {
       "basename": "Krátos (draft 1)",
       "path": "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md"
-    },
-    {
-      "basename": "Krátos, the Power of Will",
-      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
     {
       "basename": "CSS125 - FA1.1",
@@ -195,10 +199,6 @@
     {
       "basename": "Adaptations of the Titan Hierarchy",
       "path": "Writing/ATM/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md"
-    },
-    {
-      "basename": "Structure of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md"
     }
   ],
   "omittedPaths": [],
