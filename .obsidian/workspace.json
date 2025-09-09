@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
+                "file": "Aura Expansion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Three Fundamental Power Systems - A Complete Framework"
+              "title": "Aura Expansion"
             }
           }
         ]
@@ -380,8 +380,8 @@
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "Aura Expansion.md",
     "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
+    "Aura Expansion.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Claude Conversations/Krátos Power System Development.md",
