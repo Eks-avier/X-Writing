@@ -165,7 +165,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- As long as even just the *will to act* exists within a person, then Aura production is possible.
 			- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura.
 			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
-				- **The First Layer**: An implacable pressurizing force that induces fear, uneasiness, and dread; despite its subtle nature, it's the most memorable aspect of a Krator to other beings.
+				- **The First Layer**: A constant pressurizing field that emanates from a Krator, inducing fear, uneasiness, and dread; despite its subtle nature, it's the most memorable aspect of a Krator to other beings.
 					- Available at birth, this is unconscious, perpetual, and irrepressible.
 				- **The Second Layer**:
 					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible via training.
