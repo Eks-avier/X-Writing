@@ -9007,6 +9007,33 @@
         "nonWhitespaceCharacterCount": 1222,
         "newlineCount": 31
       }
+    },
+    "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1018,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.3933333333333335,
+      "characterCount": 9180,
+      "nonWhitespaceCharacterCount": 7976,
+      "newlineCount": 189,
+      "readingTimeInMinutes": 3.841509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757427155259,
+      "modifiedDate": 1757427163603,
+      "sizeInBytes": 9190,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
