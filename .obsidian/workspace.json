@@ -93,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 27.520305781175345,
+        "dimension": 22.40802675585284,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -124,7 +124,7 @@
       {
         "id": "f072a4d00055cd0d",
         "type": "tabs",
-        "dimension": 18.15575728619207,
+        "dimension": 23.26803631151457,
         "children": [
           {
             "id": "c82569bd96e8ad6a",
@@ -379,8 +379,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "061da0d9587e5cd9",
+  "active": "c82569bd96e8ad6a",
   "lastOpenFiles": [
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Claude Conversations/Krátos Power System Development.md",
     "Aura Expansion.md",
     "Claude Conversations/Unconfirmed 796853.crdownload",
@@ -390,7 +391,6 @@
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "~syncthing~Untitled.md.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "College/1T2526/CSS125 - FA1.1.md",
     "College/1T2526/CSS125 - FA1.1.pdf",
     "CSS125 - FA1.1_1.8.png",
