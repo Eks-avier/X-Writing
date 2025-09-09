@@ -218,11 +218,21 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 - When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
 	- **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
 	- **Strength Increase**: Upon activation, the ***innate*** effects of one's Aura increases, but typically only by one-and-a-half times or twice the baseline strength.
+		- For Krator, both layers of their Aura receive the same increase.
 	- **Energy Cost**: This ability consumes energy in proportion with the size and strength increase.
 	- **Examples**:
 		- **Koinon Example**: A theoretical human Pyroton who is moderately determined to succeed emanates an Aura of ~25 meters.
-			- When flared, the area of his Aura increases to ~50 meters while his flames get hotter, but in return, he can only sustain it for around 5 minutes before he experiences fatigue.
-		- **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers in baselin.
+			- When flared, the area of his Aura increases to ~50 meters while his flames get hotter, easily burning everything around him. 
+				- But in return, he can only sustain it for around 5 minutes before he experiences fatigue.
+		- **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers.
+			- In this situation, he's bored.
+			- When flared:
+				- The area of his Aura increases by about several hundred meters.
+				- He becomes slightly more terrifying than he normally is.
+					- Receive enough 
+					- Turn into flesh-and-bones pancakes due to the increase in local gravity within that radius.
+				- He can sustain this indefinitely until he's bored of even that due to the amount of stamina he has.
+					- However, in a real situation, 
 
 - **Caveats**:
   
