@@ -228,11 +228,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- In this situation, he's bored.
 			- When flared:
 				- The area of his Aura increases by about several hundred meters.
-				- He becomes slightly more terrifying than he normally is.
-					- Receive enough 
-					- Turn into flesh-and-bones pancakes due to the increase in local gravity within that radius.
-				- He can sustain this indefinitely until he's bored of even that due to the amount of stamina he has.
-					- However, in a real situation, 
-
+				- He also becomes slightly more terrifying to any sentient being in his Aura.
+				- They also:
+					- Receive enough voltage to be shocked painfully, though not to the point of being turned to ashes.
+					- Experience increased weight and pressure bearing down on them, though not to the point of turning into a flesh-and-bones pancake.
+				- Due to his enormous amount of stamina and the non-dangerous situation he finds himself in, he experiences little to no drain or fatigue.
 - **Caveats**:
+	- Flaring only refers to increasing the *natural* effects of one's Aura. 
+		- It is *independent* of and *separate* from Coating. 
+			- It does **not** improve the technique nor any of its sub-techniques.
   
