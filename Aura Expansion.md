@@ -199,6 +199,10 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 - **Coating** and **Flaring** is Aura *weaponized*.
 	- **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
 	- **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
+	- Both abilities' output depends on:
+		1. The physical well-being of the Kráton.
+		2. The willpower of the Kráton.
+		3. Whether one is in Latency, Repose, or Misalignment (only for Krator).
 	- For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
 		- One is an expression of *biology* while the other is an expression of *Krátos*.
 			- **Important Context**: Because Krátos has not been discovered and classified until 2027 AD on Earth, no being in several galaxies have any understanding of what Krátos is.
@@ -211,10 +215,14 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ### Flaring
 
-- When a Kráton flares their Aura, it becomes *bigger* and *stronger*.
-	- **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple the size.
-	- **Strength Increase**: Upon activation, the innate effects of one's Aura increases significantly in parallel with the area increase.
-		- Le 
-	- **Energy Cost**: This ability consumes a significant amount of energy.
+- When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
+	- **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
+	- **Strength Increase**: Upon activation, the ***innate*** effects of one's Aura increases, but typically only by one-and-a-half times or twice the baseline strength.
+	- **Energy Cost**: This ability consumes energy in proportion with the size and strength increase.
+	- **Examples**:
+		- **Koinon Example**: A theoretical human Pyroton who is moderately determined to succeed emanates an Aura of ~25 meters.
+			- When flared, the area of his Aura increases to ~50 meters while his flames get hotter, but in return, he can only sustain it for around 5 minutes before he experiences fatigue.
+		- **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers in baselin.
+
 - **Caveats**:
   
