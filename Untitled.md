@@ -155,7 +155,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 - Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite area around them.
 - Aura is a defined radius on which a Kráton can exert his influence freely.
-	- For example, a Koinon Pyroton produces a 25-metre circular field of flames.
+	- For example, a Koinon Pyroton produces a 25-meter circular field of flames.
 		- **Dependency Note**: Aura *area* depends on willpower. 
 - Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no "special effects" beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
@@ -163,13 +163,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- For completeness, Scylla's Aura remains frigid.
 	- Aura ***cannot*** be completely suppressed, even through conscious effort.
 		- As long as even just the *will to act* exists within a person, then he produces Aura.
-			- For Koinon, their Themelion guarantees Manifestation, and thus continously produce Aura.
-			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases.
-				- **The First Layer**: 
+			- For Koinon, their Themelion guarantees Manifestation, and thus they continuously produce Aura.
+			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
+				- **The First Layer**: A pressurizing force that induces fear, uneasiness; despite its subtle nature, it's the most memorable aspect of a Krator.
 					- Available at birth, this is unconscious, perpetual, and irrepressible.
 				- **The Second Layer**: 
-					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible.
-	- **Dependecy Note**: Aura *effects* depends on willpower, skill, and emotional state.
+					- Requiring Alignment, this is conscious, interruptible via Misalignment, and repressible via training.
+	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
 				- Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
