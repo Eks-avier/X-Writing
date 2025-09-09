@@ -175,7 +175,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 							- This is called **Waning**.
 						- When in a state of Repose, this layer completely ceases to be.
 						- When in a state of Latency, this layer is completely absent.
-					- **Implication**: Krator are vulnerable to having their Aura malfunction due to Repose.
+					- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
