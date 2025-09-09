@@ -194,15 +194,15 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ## Aura, Actualized
 
-- **Coating** and **Flaring** is Aura *actualized* and *weaponized*.
+- **Coating** and **Flaring** is Aura *weaponized*.
 	- **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
 	- **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
-	- For example, there is a functional difference between Godzilla firing his Atomic Breath and Godzilla applying Coating on his Atomic Breath: this is **Coating**.
-		- One is an expression of *biology* and the other is an expression of *Krátos*.
-			- **Important Context**: Because Krátos has not been discovered, classified, and standardized until 2027 AD on Earth, no being in the known galaxy has any understanding of what Krátos is.
-				- As a consequence, Godzilla himself doesn't understand the distinction between the two expressions until recently.
-					- Though instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
-				- To contrast, Ghidorah has a *primitive* framework, in Battra's opinion, of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
-					- The only thing he understands is that there is a “strong relationship” between his willpower and his powers.
-						- This explains why he recognizes that his powers can function regardless of physical constraints and limitations.
-							- He understands that he's special, not *why* nor the implications of such in relation to his abilities.
+	- For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
+		- One is an expression of *biology* while the other is an expression of *Krátos*.
+			- **Important Context**: Because Krátos has not been discovered and classified until 2027 AD on Earth, no being in several galaxies have any understanding of what Krátos is.
+				- As a consequence, Godzilla himself *doesn't* understand the distinction between the two expressions until recently.
+					- Instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
+				- To contrast, Ghidorah, up until recently, held a *primitive*, in Battra's opinion, framework of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
+					- The only thing he understands is that there is a “strong relationship” between his willpower and his abilities.
+						- This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
+							- He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
