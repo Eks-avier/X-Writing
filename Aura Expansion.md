@@ -154,7 +154,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 ## Aura of the Kráton
 
 - Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite area around them.
-- Aura is a defined radius on which a Kráton can exert his influence freely.
+- Aura is the defined radius on which a Kráton can exert his influence freely.
 	- For example, a Koinon Pyroton produces a 25-meter circular field of flames.
 		- **Dependency Note**: Aura *area* depends on willpower.
 - Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
@@ -167,6 +167,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
 				- **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread. 
 					- Available at birth, it is unconscious, perpetual, and irrepressible.
+						- Even through unconsciousness, this layer remains *active*.
+						- Even through Latency, Misalignment, or Repose, this layer remains *active*.
 					- Despite its invisible nature, it's not at all subtle.
 						- **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
 				- **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
@@ -206,3 +208,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- The only thing he understands is that there is a “strong relationship” between his willpower and his abilities.
 						- This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
 							- He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
+
+### Flaring
+
+- When a Kráton flares their Aura, it becomes *bigger* and *stronger*.
+	- **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple the size.
+	- **Strength Increase**: Upon activation, the innate effects of one's Aura increases significantly in parallel with the area increase.
+		- Le 
+	- **Energy Cost**: This ability consumes a significant amount of energy.
+- **Caveats**:
+  
