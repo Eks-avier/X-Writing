@@ -62,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 28.858098423315816,
+        "dimension": 28.858098423315813,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -93,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 22.40802675585284,
+        "dimension": 22.408026755852845,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -375,8 +375,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "945fcc965a95350a",
