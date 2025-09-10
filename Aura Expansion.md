@@ -161,23 +161,23 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 		- Similarly, Godzilla's Aura remains radioactive and hot.
 		- For completeness, Scylla's Aura remains frigid.
-	- The Aura ***cannot*** be completely suppressed, even through conscious effort.
-		- As long as even just the *will to act* exists within a person, then Aura production is possible.
-			- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
-			- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
-				- **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread. 
-					- Available at birth, it is unconscious, perpetual, and irrepressible.
-						- Even through unconsciousness, this layer remains *active*.
-						- Even through Latency, Misalignment, or Repose, this layer remains *active*.
-					- Despite its invisible nature, it's not at all subtle.
-						- **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
-				- **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
-					- It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
-						- When Misalignment occurs, this layer gradually weakens. 
-							- This is called **Waning**.
-						- When in a state of Repose, this layer completely ceases to be.
-						- When in a state of Latency, this layer is completely absent.
-					- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
+- Aura ***cannot*** be completely suppressed, even through conscious effort.
+	- As long as even just the *will to act* exists within a person, then Aura production is possible.
+		- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
+		- For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
+			- **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread. 
+				- Available at birth, it is unconscious, perpetual, and irrepressible.
+					- Even through unconsciousness, this layer remains *active*.
+					- Even through Latency, Misalignment, or Repose, this layer remains *active*.
+				- Despite its invisible nature, it's not at all subtle.
+					- **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
+			- **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
+				- It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
+					- When Misalignment occurs, this layer gradually weakens. 
+						- This is called **Waning**.
+					- When in a state of Repose, this layer completely ceases to be.
+					- When in a state of Latency, this layer is completely absent.
+				- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
@@ -193,7 +193,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
 				- **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others.
 					- The effectiveness of his natural emissions is a
-
+- 
 ## Aura, Actualized
 
 - **Coating** and **Flaring** is Aura *weaponized*.
@@ -238,8 +238,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- It is *independent* of and *separate* from Coating. 
 			- It does **not** improve the technique nor any of its sub-techniques.
 - **Uses**:
-	- Intimidation is often the most common use for Flaring.
-	- Beings within one's Aura is 
+	- Intimidation is often the most common use.
+	- 
 	- When Aura is flared, it garners the attention of any being.
 		- When Krator flare, other other instinctively recognize them as *kindred*.
 	- To use in skirmishes
