@@ -178,7 +178,13 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- When in a state of Repose, this layer completely ceases to be.
 					- When in a state of Latency, this layer is completely absent.
 				- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
-	- **Sensory Extension**: Because the phenomena manifested 
+	- **Sensory Extension**: Because the phenomena manifested and pervading through the Aura is one's own willpower, it can act as an extension of one's senses.
+		- Living beings with wills of their own can be detected, provided they can survive being in the Aura at first.
+		- **Biological Complement**: You must have the necessary sensory organs to *process* the information being sent to you by your Aura.
+			- **Examples**: 
+				- Within Ghidorah's Aura, everything that was affected by his electricity and gravity can be sensed by him.
+				- Within Godzilla's Aura, everything that was exposed to his radiation.
+					- Being contaminated and irradiated highlights you even more in his senses.
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
