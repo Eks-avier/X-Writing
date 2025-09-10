@@ -180,7 +180,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
 	- **Sensory Extension**: Because the phenomena manifested and pervading through the Aura is one's own willpower, it can act as an extension of one's senses.
 		- Living beings with wills of their own can be detected, provided they can survive being in the Aura at first.
-		- **Clarification**: Aura does not grant extrasensory abilities, it only provides you the ability to "flood" an area with one's unique phenomena, but you ***must*** have -    
+		- **Clarification**: Aura does not grant extrasensory abilities, it only provides you the ability to "flood" an area with one's unique phenomena, but you ***must*** have
 			- **Examples**: 
 				- Within Ghidorah's Aura, everything that was affected by his electricity and gravity can be sensed by him; being electrocuted only serves to highlight yourself further.
 					- He does this because his "bio-electrogravitational" his entire body is sensitive to electromagnetic and gravitational changes around him.
