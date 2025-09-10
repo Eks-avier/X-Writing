@@ -159,8 +159,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- **Dependency Note**: Aura *area* depends on willpower.
 - Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
-		- Similarly, Godzilla's Aura remains radioactive and hot.
-		- For completeness, Scylla's Aura remains frigid.
+	- Similarly, Godzilla's Aura remains radioactive and hot.
+	- For completeness, Scylla's Aura remains frigid.
 - Aura ***cannot*** be completely suppressed, even through conscious effort.
 	- As long as even just the *will to act* exists within a person, then Aura production is possible.
 		- For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
@@ -178,6 +178,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- When in a state of Repose, this layer completely ceases to be.
 					- When in a state of Latency, this layer is completely absent.
 				- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
+	- **Sensory Extension**: Because the phenomena manifested 
 	- **Dependency Note**: Aura *effects* depends on willpower, skill, and emotional state.
 		- Let's use Godzilla as an example:
 			- If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected on his Aura unconsciously reducing in strength.
