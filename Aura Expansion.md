@@ -238,8 +238,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		- It is *independent* of and *separate* from Coating. 
 			- It does **not** improve the technique nor any of its sub-techniques.
 - **Uses**:
+	- Intimidation is often the most common use for Flaring.
+	- Beings within one's Aura is 
 	- When Aura is flared, it garners the attention of any being.
-		- When Krator flare, other Krator immediately recognize them as such.
-	- Intimidation is often the most common
+		- When Krator flare, other other instinctively recognize them as *kindred*.
 	- To use in skirmishes
 	- When not in the defensive.
