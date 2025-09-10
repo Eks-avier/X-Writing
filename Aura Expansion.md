@@ -153,8 +153,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ## Aura of the Kráton
 
-- **Primary Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite area around them.
-- **Secondary Definition**: Aura is the defined radius on which a Kráton can exert his influence freely.
+- **Primary Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
 	- For example, a Koinon Pyroton produces a 25-meter circular field of flames.
 		- **Dependency Note**: Aura *area* depends on willpower.
 - **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
