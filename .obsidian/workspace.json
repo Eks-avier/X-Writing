@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aura Expansion.md",
+                "file": "Notepad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aura Expansion"
+              "title": "Notepad"
             }
           }
         ]
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -375,14 +374,15 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "Aura Expansion.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
-    "Aura Expansion.md",
     "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Claude Conversations/Krátos Power System Development.md",
@@ -413,7 +413,6 @@
     "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md",
     "Writing/ATM/Power Systems/Unrefined",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
-    "Writing/ATM/Power Systems/Magic",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
     "Writing/ATM/Canvases/Domination of Energy.canvas",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Notepad",
+      "path": "Notepad.md"
+    },
+    {
       "basename": "Aura Expansion",
       "path": "Aura Expansion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Biollante, the Rose of the North",
       "path": "Writing/ATM/Characters/Titans/Biollante, the Rose of the North.md"
-    },
-    {
-      "basename": "Protocols of the Titan Hierarchy",
-      "path": "Writing/ATM/Titans/Hierarchy/Protocols of the Titan Hierarchy.md"
     }
   ],
   "omittedPaths": [],
