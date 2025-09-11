@@ -153,9 +153,11 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ## Aura of the Kráton
 
-- **Primary Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
+- **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
 	- For example, a Koinon Pyroton produces a 25-meter circular field of flames.
-		- **Dependency Note**: Aura *area* depends on willpower.
+		- **Dependency Note**: 
+			- In general, Aura *area* depends on willpower. 
+			- **Krator Exclusive**: 
 - **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
 	- For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
 	- Similarly, Godzilla's Aura remains radioactive and hot.
