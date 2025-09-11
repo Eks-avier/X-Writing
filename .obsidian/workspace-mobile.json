@@ -11,10 +11,17 @@
             "id": "f99e82848841319f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
+                "viewState": {
+                  "x": -2821.4815397327284,
+                  "y": -6564.984105752358,
+                  "zoom": -1.5842587620176074
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Krátos (Greek)"
             }
           }
         ]
@@ -200,10 +207,11 @@
   },
   "active": "f99e82848841319f",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
-    "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
@@ -231,7 +239,6 @@
     "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Notepad 11.md",
     "Writing/ATM/Story Arcs/Concept - Medieval AU.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/godric-hyperthymesia-adaptation.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",

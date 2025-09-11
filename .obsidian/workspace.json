@@ -375,11 +375,13 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Aura Expansion.md",
     "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
@@ -426,7 +428,6 @@
     "Filipino Essay.md",
     "Answers to Questions.md",
     "Writing/ATM/Canvases/Krátos (English).md",
-    "Notepad 10.md",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]

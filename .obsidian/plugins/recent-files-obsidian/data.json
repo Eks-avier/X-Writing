@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Krátos (Greek)",
+      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
+    },
+    {
+      "basename": "Krátos (Conqueror)",
+      "path": "Writing/ATM/Canvases/Krátos (Conqueror).canvas"
+    },
+    {
+      "basename": "Krátos",
+      "path": "Writing/ATM/Canvases/Krátos.canvas"
+    },
+    {
       "basename": "Aura Expansion",
       "path": "Aura Expansion.md"
     },
@@ -77,10 +89,6 @@
       "path": "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md"
     },
     {
-      "basename": "Krátos (Conqueror)",
-      "path": "Writing/ATM/Canvases/Krátos (Conqueror).canvas"
-    },
-    {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Domination of Energy",
       "path": "Writing/ATM/Canvases/Domination of Energy.canvas"
-    },
-    {
-      "basename": "Krátos (Greek)",
-      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Psionics",
@@ -195,10 +199,6 @@
     {
       "basename": "Protocols of the Titan Hierarchy",
       "path": "Writing/ATM/Titans/Hierarchy/Protocols of the Titan Hierarchy.md"
-    },
-    {
-      "basename": "Unrefined - Mothra's Regalia",
-      "path": "Writing/ATM/Unrefined/Unrefined - Mothra's Regalia.md"
     }
   ],
   "omittedPaths": [],

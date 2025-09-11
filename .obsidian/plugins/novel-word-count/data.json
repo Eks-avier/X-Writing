@@ -6282,7 +6282,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1756919050629,
-      "modifiedDate": 1756850047967,
+      "modifiedDate": 1757542341110,
       "sizeInBytes": 10137,
       "sessionStart": {
         "noteCount": 1,
@@ -6291,7 +6291,8 @@
         "characterCount": 520,
         "nonWhitespaceCharacterCount": 450,
         "newlineCount": 39
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Krátos (Greek).canvas": {
       "isCountable": true,
@@ -9017,16 +9018,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 10.57,
-      "characterCount": 21662,
-      "nonWhitespaceCharacterCount": 17369,
+      "characterCount": 21663,
+      "nonWhitespaceCharacterCount": 17370,
       "newlineCount": 258,
       "readingTimeInMinutes": 11.966037735849056,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1757159151480,
-      "modifiedDate": 1757532988482,
-      "sizeInBytes": 21769,
+      "modifiedDate": 1757575608383,
+      "sizeInBytes": 21770,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 10.596666666666666,
