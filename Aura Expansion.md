@@ -177,7 +177,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					- When in a state of Repose, this layer completely ceases to be.
 					- When in a state of Latency, this layer is completely absent.
 				- **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
-- **Sensory Extension**: Because wKrátonic phenomena is the physical expression of a Kráton's willpower, their Aura can also become an extension of their pre-existing biological senses by saturating the environment with said phenomena. 
+- **Sensory Extension**: Because Krátonic phenomena is the physical expression of a Kráton's willpower, their Aura can also become an extension of their pre-existing biological senses by saturating the environment with said phenomena. 
 	- As a consequence, living beings with wills of their own can be detected and tracked, provided they can survive being under Aura's effects at first.
 	- **Clarification**: Aura *cannot* and *never will* grant extrasensory abilities, it only provides the ability to "flood" an area with one's unique phenomena; one ***must*** possess the sensory organs to *process* and *make sense* of the feedback first.
 		- **Examples**: 
