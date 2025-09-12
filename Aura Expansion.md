@@ -202,8 +202,8 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 			- If he loses consciousness, then his Aura dissipates.
 			- **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
 				- This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
-	- **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling its function daily.
-		- This means that he *naturally* produces an aura of radiation.
+	- **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling its use daily.
+		- He *naturally* produces an aura of radiation.
 			- This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
 				- **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others.
 					- The effectiveness of his natural emissions is a

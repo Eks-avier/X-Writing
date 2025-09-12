@@ -375,12 +375,12 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "31701aa74c30a949",
   "lastOpenFiles": [
+    "Notepad.md",
     "Aura Expansion.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",

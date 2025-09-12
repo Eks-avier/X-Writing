@@ -23,8 +23,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Krátos (Greek)"
             }
+          },
+          {
+            "id": "00ac6324e41dbeea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aura Expansion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aura Expansion"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +208,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "Untitled.md"
+            "file": "Aura Expansion.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -205,15 +230,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f99e82848841319f",
+  "active": "00ac6324e41dbeea",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
-    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
     "Writing/ATM/Unrefined/Filipino Essay.md",
