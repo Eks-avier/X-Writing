@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 23.745819397993312,
+        "dimension": 23.745819397993316,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -375,8 +375,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "945fcc965a95350a",
