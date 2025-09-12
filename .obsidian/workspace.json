@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 25.465838509316768,
+        "dimension": 23.745819397993312,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -62,7 +62,7 @@
       {
         "id": "e9f3eacac4d9b640",
         "type": "tabs",
-        "dimension": 28.858098423315813,
+        "dimension": 28.28475871954133,
         "children": [
           {
             "id": "945fcc965a95350a",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notepad.md",
+                "file": "Aura Expansion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notepad"
+              "title": "Aura Expansion"
             }
           }
         ]
@@ -93,7 +93,7 @@
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 22.408026755852845,
+        "dimension": 24.701385570950787,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -375,12 +375,14 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "31701aa74c30a949",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
     "Notepad.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Aura Expansion.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
@@ -390,7 +392,6 @@
     "Claude Conversations/Unconfirmed 796853.crdownload",
     "Claude Conversations",
     "New folder",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "~syncthing~Untitled.md.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
     "College/1T2526/CSS125 - FA1.1.md",
