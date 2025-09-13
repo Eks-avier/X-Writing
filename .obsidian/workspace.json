@@ -87,8 +87,33 @@
               "icon": "lucide-file",
               "title": "Aura Expansion"
             }
+          },
+          {
+            "id": "6fa1693df13c7d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RZL110 - Confidence, Identity, and Modern Language Dynamics"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "74ee711d30c292be",
@@ -247,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -379,10 +403,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "945fcc965a95350a",
+  "active": "6fa1693df13c7d74",
   "lastOpenFiles": [
-    "Untitled.md",
     "Aura Expansion.md",
+    "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
+    "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad.md",
@@ -427,7 +452,6 @@
     "Writing/ATM/Canvases/Magic.md",
     "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Filipino Essay.md",
-    "Answers to Questions.md",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]

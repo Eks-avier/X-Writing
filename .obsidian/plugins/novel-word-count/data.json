@@ -9032,6 +9032,33 @@
         "nonWhitespaceCharacterCount": 1222,
         "newlineCount": 31
       }
+    },
+    "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1403,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.676666666666667,
+      "characterCount": 10515,
+      "nonWhitespaceCharacterCount": 9076,
+      "newlineCount": 54,
+      "readingTimeInMinutes": 5.29433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757777366101,
+      "modifiedDate": 1757777633996,
+      "sizeInBytes": 10551,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
