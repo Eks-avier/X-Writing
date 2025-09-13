@@ -189,15 +189,16 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		* **Note**: This assumes that said living beings can survive being in the Kráton's Aura in the first place to be detected.
 			* **Example**: A normal human standing in the theoretical human Pyroton's Aura will be cremated; you can't sense wills of dead beings.
 * **Willpower Dependency**: Aura *effects* depend on willpower, skill, and emotional state.
-		* Let's use Godzilla as an example:
-			* If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected in his Aura, which unconsciously reduces in strength.
-				* Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
-			* If he feels stressed, then this is reflected on his Aura dangerously intensifying, even without his conscious knowing.
-			* If he is at rest, sleeping, then his Aura weakens as a response.
-				* Upon waking up, it climbs back up to baseline levels.
-			* If he loses consciousness, then his Aura dissipates.
-			* **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
-				* This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
+	* **Godzilla as an Example**:
+		* If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected in his Aura, which unconsciously reduces in strength.
+			* Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
+				* **Training Necessity**: For his species specifically, unless you are a *female* gojira, the ability to reduce *harmful* radiation emissions and even produce emissions with *beneficial* effects must be rigorously trained.
+		* If he feels stressed, then this is reflected on his Aura dangerously intensifying, even without his conscious knowing.
+		* If he is at rest, sleeping, then his Aura weakens as a response.
+			* Upon waking up, it climbs back up to baseline levels.
+		* If he loses consciousness, then his Aura dissipates.
+		* **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
+			* This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
 	* **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling their use daily.
 		* He *naturally* produces an aura of radiation.
 			* This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
@@ -261,3 +262,10 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 		* When Krator flare, other other instinctively recognize them as *kindred*.
 	* To use in skirmishes
 	* When not in the defensive.
+
+### Expansion
+### Coating
+#### Penetration
+#### Neutralization
+##### Submission
+#### Injection
