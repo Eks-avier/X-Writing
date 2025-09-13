@@ -9,25 +9,26 @@
 			* **Krator Exclusive**:
 * **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no additional effects beyond the established properties and qualities that a Kráton's Manifestation naturally possesses.
 	* For example, Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
-	* Similarly, Godzilla's Aura remains hot and radioactive, inducing 
-	* For completeness, Scylla's Aura remains frigid.
-* **Irrepressible**: Aura ***cannot*** be completely suppressed, even through conscious effort.
-	* As long as even just the *will to act* exists within a person, then Aura production is possible.
-		* For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
-		* For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
-			* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
-				* Available at birth, it is unconscious, perpetual, and irrepressible.
-					* Even through unconsciousness, this layer remains *active*.
-					* Even through Latency, Misalignment, or Repose, this layer remains *active*.
-				* Despite its invisible nature, it's not at all subtle.
-					* **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
-			* **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
-				* It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
-					* When Misalignment occurs, this layer gradually weakens.
-						* This is called **Waning**.
-					* When in a state of Repose, this layer completely ceases to be.
-					* When in a state of Latency, this layer is completely absent.
-				* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
+	* Similarly, Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
+	* For completeness, Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
+* **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intense conscious effort. 
+	* **Minum**
+	* **Training Consideration**: Its effects can be minimized up to a certain threshold.
+	* For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
+	* For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
+		* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
+			* Available at birth, it is unconscious, perpetual, and irrepressible.
+				* Even through unconsciousness, this layer remains *active*.
+				* Even through Latency, Misalignment, or Repose, this layer remains *active*.
+			* Despite its invisible nature, it's not at all subtle.
+				* **Trivia**: It's the most memorable aspect of a Conqueror: the mark of a *true conqueror*.
+		* **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
+			* It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
+				* When Misalignment occurs, this layer gradually weakens.
+					* This is called **Waning**.
+				* When in a state of Repose, this layer completely ceases to be.
+				* When in a state of Latency, this layer is completely absent.
+			* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
 * **External Willpower Awareness**: Krátons gain the ability to *sense*, *perceive*, and *develop awareness* of, and thus be able to accurately *gauge*, the willpower of other living sentient beings.
 	* **Universal**: ***All*** Kráton possess this ability, no exception.
 	* **Krator Privileges**: Conquerors have the ability to accurately identify fellow Conquerors by sensing the *First Layer* of their Aura.
