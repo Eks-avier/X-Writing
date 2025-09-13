@@ -14,7 +14,9 @@
 	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a living being, albeit at a significantly decreased rate and effectiveness.
 		* **Individual Thresholds**: Each Kráton has individual thresholds determined by their:
 			* Physical Fitness
-			* Physical 
+			* Physical Constitution 
+			* Mentality
+			* Willpower
 		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to their threshold.
 	* **Koinon Stability**: For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
 	* **Krator Variance**: For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
@@ -67,19 +69,20 @@
 
 ## Aura, Actualized
 
-* **Coating** and **Flaring** is Aura *weaponized*.
-	* **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
+* **Coating**, **Flaring**, and **Expansion** is Aura *weaponized*.
+	* **Coating** is the ability to sheath onself, or anything tangible, with one's Aura.
 	* **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
-	* Both abilities' output depends on:
-		1. The physical well-being of the Kráton.
+	* **Expansion** is the ability to purely *enlarge* one's *Aura radius*.
+	* All abilities' output depends on:
+		1. The physical constitution and well-being of the Kráton.
 		2. The willpower of the Kráton.
-		3. Whether one is in Latency, Repose, or Misalignment (only for Krator).
+		3. **Krator Exclusive**: Whether one is in *Latency*, *Misalignment*, or *Repose*.
 	* For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
 		* One is an expression of *biology* while the other is an expression of *Krátos*.
 			* **Important Context**: Because Krátos has not been discovered and classified until 2027 AD on Earth, no being in several galaxies have any understanding of what Krátos is.
 				* As a consequence, Godzilla himself *doesn't* understand the distinction between the two expressions until recently.
 					* Instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
-				* To contrast, Ghidorah, up until recently, held a *primitive*, in Battra's opinion, framework of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
+				* To contrast, Ghidorah, up until recently, held a *primitive*, in Battra's opinion, framework of the entire system, which was informed by the constant self-exploration of his powers throughout his travels in the cosmos.
 					* The only thing he understands is that there is a “strong relationship” between his willpower and his abilities.
 						* This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
 							* He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
