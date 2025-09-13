@@ -232,7 +232,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 						* This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
 							* He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
 
-### Flaring
+### Flaring %% Introduce the concept of Expansion %%
 
 * When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
 	* **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
