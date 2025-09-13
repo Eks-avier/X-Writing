@@ -265,7 +265,11 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 
 ### Expansion
 ### Coating
-#### Penetration
-#### Neutralization
-##### Submission
-#### Injection
+
+## Coating, In Depth
+
+### Penetration
+### Neutralization
+#### Contesting
+#### Submission
+### Injection
