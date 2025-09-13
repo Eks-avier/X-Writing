@@ -179,9 +179,11 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					* When in a state of Repose, this layer completely ceases to be.
 					* When in a state of Latency, this layer is completely absent.
 				* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
+* **External Willpower Sensing, Perception, and Awareness**: Krátons gain the ability to *sense*, *perceive*, and *develop awareness* of, and thus be able to quantify, the willpower of other living sentient beings. 
+	* **Universal**: ***All*** Kráton possess this ability, no exception.
+	* **Synergy with Aura**: As a consequence of a Kráton's Aura being the physical expression of their own will, living beings with wills of their own can be detected and tracked, provided they can survive being under Aura's effects at first, because they are under the influence of the Kráton.
 * **Sensory Extension**: By saturating the environment with Krátonic Manifestation, a Kráton's Aura can function as an extension of their pre-existing biological senses, providing increased coverage and resolution.
-	* **Willpower Sensing**: As a consequence of a Kráton's Aura being the physical expression of their own will, living beings with wills of their own can be detected and tracked, provided they can survive being under Aura's effects at first, because they are under the influence of the Kráton.
-	* **Clarification**: Aura *cannot* and *never will* grant extrasensory abilities; it only provides the ability to “flood” an area with one's unique phenomena; one ***must*** possess the sensory organs to *process* and *make sense* of the feedback first.
+	* **Clarification**: The ability to “flood” an area with one's unique phenomena; one ***must*** possess the sensory organs to *process* and *make sense* of the feedback first.
 		* **Examples**:
 			* Within Ghidorah's Aura, everything that was affected by his electricity and gravity can be sensed by him; being electrocuted only serves to highlight his victim further.
 				* He does this because he's “bio-electrogravitational”; his entire body is sensitive to electromagnetic and gravitational changes around him.
