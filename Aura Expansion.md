@@ -1,5 +1,130 @@
 # Aura Expansion
 
+## Aura of the Kráton
+
+* **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
+	* For example, a Koinon Pyroton produces a 25-meter circular field of flames.
+		* **Dependency Note**:
+			* In general, Aura *area* depends on willpower.
+			* **Krator Exclusive**:
+* **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no additional effects beyond the established properties and qualities that a Kráton's Manifestation naturally possesses.
+	* For example, Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
+	* Similarly, Godzilla's Aura remains hot and radioactive, inducing 
+	* For completeness, Scylla's Aura remains frigid.
+* **Irrepressible**: Aura ***cannot*** be completely suppressed, even through conscious effort.
+	* As long as even just the *will to act* exists within a person, then Aura production is possible.
+		* For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
+		* For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
+			* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
+				* Available at birth, it is unconscious, perpetual, and irrepressible.
+					* Even through unconsciousness, this layer remains *active*.
+					* Even through Latency, Misalignment, or Repose, this layer remains *active*.
+				* Despite its invisible nature, it's not at all subtle.
+					* **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
+			* **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
+				* It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
+					* When Misalignment occurs, this layer gradually weakens.
+						* This is called **Waning**.
+					* When in a state of Repose, this layer completely ceases to be.
+					* When in a state of Latency, this layer is completely absent.
+				* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
+* **External Willpower Awareness**: Krátons gain the ability to *sense*, *perceive*, and *develop awareness* of, and thus be able to accurately *gauge*, the willpower of other living sentient beings.
+	* **Universal**: ***All*** Kráton possess this ability, no exception.
+	* **Krator Privileges**: Conquerors have the ability to accurately identify fellow Conquerors by sensing the *First Layer* of their Aura.
+		* **Koinon Non-exception** Even Koinon sense only the *pressure* pervading through the environment, like others.
+* **Sensory Extension**: By saturating the environment with Krátonic Manifestation, a Kráton's Aura can function as an extension of their pre-existing biological senses, providing increased coverage and resolution.
+	* **Clarification**: The ability to “flood” an area with one's unique phenomena implies that one ***must*** possess the sensory organs to *process* and *make sense* of the feedback first.
+	* **Synergy with Willpower Awareness**: Because a Kráton's Aura is the physical expression of their will, any living being within the range of their Aura can be detected and tracked.
+		* **Note**: This assumes that said living beings can survive being in the Kráton's Aura in the first place to be detected.
+			* **Example**: A normal human standing in the theoretical human Pyroton's Aura will be cremated; you can't sense wills of dead beings.
+* **Willpower Dependency**: Aura *effects* depend on willpower, skill, and emotional state.
+	* **Godzilla as an Example**:
+		* If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected in his Aura, which unconsciously reduces in strength.
+			* Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
+				* **Training Necessity**: For his species specifically, unless you are a *female* gojira, the ability to reduce *harmful* radiation emissions and even produce emissions with *beneficial* effects must be rigorously trained.
+		* If he feels stressed, then this is reflected on his Aura dangerously intensifying, even without his conscious knowing.
+		* If he is at rest, sleeping, then his Aura weakens as a response.
+			* Upon waking up, it climbs back up to baseline levels.
+		* If he loses consciousness, then his Aura dissipates.
+		* **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
+			* This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
+	* **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling their use daily.
+		* He *naturally* produces an aura of radiation.
+			* This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
+				* **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others.
+	* **Examples**:
+		* Within Ghidorah's Aura, everything that was affected by his electricity and gravity can be sensed by him; being electrocuted only serves to highlight his victim further.
+			* He does this because he's “bio-electrogravitational”; his entire body is sensitive to electromagnetic and gravitational changes around him.
+		* Within Godzilla's Aura, everything that was exposed to his radiation can be mapped and tracked; being contaminated and irradiated highlights such objects further in his senses.
+			* He hails from a bio-atomic species, and thus can sense, process, and perceive changes to atomic radiation and energy itself, as his species evolved to do so.
+		* Within Scylla's Aura, everything that touches ice or is affected by it, whether it was generated by her or not in the first place, can be immediately sensed.
+			* This synergizes well with her independent hydrokinetic senses: she can gain information on her surroundings via water itself.
+				* This means she's *highly* sensitive to whatever object is covered in ice within her Aura.
+	* **Counter-example**: A theoretical human Pyroton can never make sense of the information being sent to him by his flames because humans don't have the capacity to do so.
+
+## Aura, Actualized
+
+* **Coating** and **Flaring** is Aura *weaponized*.
+	* **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
+	* **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
+	* Both abilities' output depends on:
+		1. The physical well-being of the Kráton.
+		2. The willpower of the Kráton.
+		3. Whether one is in Latency, Repose, or Misalignment (only for Krator).
+	* For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
+		* One is an expression of *biology* while the other is an expression of *Krátos*.
+			* **Important Context**: Because Krátos has not been discovered and classified until 2027 AD on Earth, no being in several galaxies have any understanding of what Krátos is.
+				* As a consequence, Godzilla himself *doesn't* understand the distinction between the two expressions until recently.
+					* Instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
+				* To contrast, Ghidorah, up until recently, held a *primitive*, in Battra's opinion, framework of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
+					* The only thing he understands is that there is a “strong relationship” between his willpower and his abilities.
+						* This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
+							* He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
+
+### Flaring %% Introduce the concept of Expansion %%
+
+* When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
+	* **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
+	* **Strength Increase**: Upon activation, the ***innate*** effects of one's Aura increases, but typically only by one-and-a-half times or twice the baseline strength.
+		* For Krator, both layers of their Aura receive the same increase.
+	* **Energy Cost**: This ability consumes energy in proportion with the size and strength increase.
+	* **Examples**:
+		* **Koinon Example**: A theoretical human Pyroton who is moderately determined to succeed emanates an Aura of ~25 meters.
+			* When flared, the area of his Aura increases to ~50 meters while his flames get hotter, easily burning everything around him.
+				* But in return, he can only sustain it for around 5 minutes before he experiences fatigue.
+		* **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers.
+			* In this situation, he's bored.
+			* When flared:
+				* The area of his Aura increases by about several hundred meters.
+				* He also becomes slightly more terrifying to any sentient being in his Aura.
+				* They also:
+					* Receive enough voltage to be shocked painfully, though not to the point of being turned to ashes.
+					* Experience increased weight and pressure bearing down on them, though not to the point of turning into a flesh-and-bones pancake.
+				* Due to his enormous amount of stamina and the non-dangerous situation he finds himself in, he experiences little to no drain or fatigue.
+* **Caveats**:
+	* Flaring only refers to increasing the *natural* effects of one's Aura.
+		* It is *independent* of and *separate* from Coating.
+			* It does **not** improve the technique nor any of its sub-techniques.
+* **Uses**:
+	* Intimidation is often the most common use.
+	* When Aura is flared, it garners the attention of any being.
+		* When Krator flare, other other instinctively recognize them as *kindred*.
+	* To use in skirmishes
+	* When not in the defensive.
+
+### Expansion
+### Coating
+
+## Coating, In Depth
+
+### Penetration
+### Neutralization
+#### Contesting
+#### Submission
+### Injection
+
+---
+
 I've been thinking about further expanding the Coating mechanics, while clarifying some notions:
 
 * Aura enables Coating.
@@ -148,128 +273,3 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 					* For example, if a Pyroton punches into a flame shield spell and injects his willpower into the structure, there will be a brief period of time in which his knuckles will be vulnerable.
 						* This is a non-issue for beings like Godzilla whose baseline durability is already beyond superhuman.
 						* This *is* an issue for a theoretical human Kráton.
-
----
-
-## Aura of the Kráton
-
-* **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
-	* For example, a Koinon Pyroton produces a 25-meter circular field of flames.
-		* **Dependency Note**:
-			* In general, Aura *area* depends on willpower.
-			* **Krator Exclusive**:
-* **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no “special effects” beyond the properties and qualities that a Kráton's Manifestation naturally possesses.
-	* For example, Ghidorah's Aura retains the properties of electricity and gravity, and hence can shock while they get sent pinned to the ground.
-	* Similarly, Godzilla's Aura remains radioactive and hot.
-	* For completeness, Scylla's Aura remains frigid.
-* **Irrepressible**: Aura ***cannot*** be completely suppressed, even through conscious effort.
-	* As long as even just the *will to act* exists within a person, then Aura production is possible.
-		* For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
-		* For Krator, their unique two-layered Aura and various psychological states offer interesting cases to examine.
-			* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
-				* Available at birth, it is unconscious, perpetual, and irrepressible.
-					* Even through unconsciousness, this layer remains *active*.
-					* Even through Latency, Misalignment, or Repose, this layer remains *active*.
-				* Despite its invisible nature, it's not at all subtle.
-					* **Trivia**: It's the most memorable aspect of a Conqueror; it's the mark of a *true conqueror*.
-			* **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
-				* It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
-					* When Misalignment occurs, this layer gradually weakens.
-						* This is called **Waning**.
-					* When in a state of Repose, this layer completely ceases to be.
-					* When in a state of Latency, this layer is completely absent.
-				* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
-* **External Willpower Awareness**: Krátons gain the ability to *sense*, *perceive*, and *develop awareness* of, and thus be able to accurately *gauge*, the willpower of other living sentient beings.
-	* **Universal**: ***All*** Kráton possess this ability, no exception.
-	* **Krator Privileges**: Conquerors have the ability to accurately identify fellow Conquerors by sensing the *First Layer* of their Aura.
-		* **Koinon Non-exception** Even Koinon sense only the *pressure* pervading through the environment, like others.
-* **Sensory Extension**: By saturating the environment with Krátonic Manifestation, a Kráton's Aura can function as an extension of their pre-existing biological senses, providing increased coverage and resolution.
-	* **Clarification**: The ability to “flood” an area with one's unique phenomena implies that one ***must*** possess the sensory organs to *process* and *make sense* of the feedback first.
-	* **Synergy with Willpower Awareness**: Because a Kráton's Aura is the physical expression of their will, any living being within the range of their Aura can be detected and tracked.
-		* **Note**: This assumes that said living beings can survive being in the Kráton's Aura in the first place to be detected.
-			* **Example**: A normal human standing in the theoretical human Pyroton's Aura will be cremated; you can't sense wills of dead beings.
-* **Willpower Dependency**: Aura *effects* depend on willpower, skill, and emotional state.
-	* **Godzilla as an Example**:
-		* If he doesn't want to inflict radiation poisoning and material degradation to organic and inorganic beings, respectively, then this is reflected in his Aura, which unconsciously reduces in strength.
-			* Unconscious suppression does not guarantee indefinite safe close contact with him; it may only grant them a few minutes to a few hours.
-				* **Training Necessity**: For his species specifically, unless you are a *female* gojira, the ability to reduce *harmful* radiation emissions and even produce emissions with *beneficial* effects must be rigorously trained.
-		* If he feels stressed, then this is reflected on his Aura dangerously intensifying, even without his conscious knowing.
-		* If he is at rest, sleeping, then his Aura weakens as a response.
-			* Upon waking up, it climbs back up to baseline levels.
-		* If he loses consciousness, then his Aura dissipates.
-		* **Trivia**: Conscious control of his Aura was one of the first things he learned upon recently transforming into a human in 2020 AD.
-			* This enabled him to further suppress his Aura to the point that humans and most animals can safely remain in close contact for an indefinite period of time.
-	* **Biological Complement**: Beings like Godzilla, who belongs to *Titanus gojira*, are bio-atomic, meaning they are walking nuclear reactors, and thus their entire physiology is adapted to enabling their use daily.
-		* He *naturally* produces an aura of radiation.
-			* This *is* Krátos in effect; the radioactive emissions that Godzilla's bio-atomic body produces *is* his Aura being produced.
-				* **Key Concept**: Krátos and Biology are intertwined; they are either one in process or complementary in others.
-	* **Examples**:
-		* Within Ghidorah's Aura, everything that was affected by his electricity and gravity can be sensed by him; being electrocuted only serves to highlight his victim further.
-			* He does this because he's “bio-electrogravitational”; his entire body is sensitive to electromagnetic and gravitational changes around him.
-		* Within Godzilla's Aura, everything that was exposed to his radiation can be mapped and tracked; being contaminated and irradiated highlights such objects further in his senses.
-			* He hails from a bio-atomic species, and thus can sense, process, and perceive changes to atomic radiation and energy itself, as his species evolved to do so.
-		* Within Scylla's Aura, everything that touches ice or is affected by it, whether it was generated by her or not in the first place, can be immediately sensed.
-			* This synergizes well with her independent hydrokinetic senses: she can gain information on her surroundings via water itself.
-				* This means she's *highly* sensitive to whatever object is covered in ice within her Aura.
-	* **Counter-example**: A theoretical human Pyroton can never make sense of the information being sent to him by his flames because humans don't have the capacity to do so.
-
-## Aura, Actualized
-
-* **Coating** and **Flaring** is Aura *weaponized*.
-	* **Coating** is the ability of a Kráton to sheath themselves, or anything tangible, with his Aura.
-	* **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
-	* Both abilities' output depends on:
-		1. The physical well-being of the Kráton.
-		2. The willpower of the Kráton.
-		3. Whether one is in Latency, Repose, or Misalignment (only for Krator).
-	* For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
-		* One is an expression of *biology* while the other is an expression of *Krátos*.
-			* **Important Context**: Because Krátos has not been discovered and classified until 2027 AD on Earth, no being in several galaxies have any understanding of what Krátos is.
-				* As a consequence, Godzilla himself *doesn't* understand the distinction between the two expressions until recently.
-					* Instinctively, he recognizes that there are times where his Atomic Breath worked on something that it shouldn't have.
-				* To contrast, Ghidorah, up until recently, held a *primitive*, in Battra's opinion, framework of the entire system, which was informed by his self-exploration of his powers throughout his travels in the cosmos.
-					* The only thing he understands is that there is a “strong relationship” between his willpower and his abilities.
-						* This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
-							* He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
-
-### Flaring %% Introduce the concept of Expansion %%
-
-* When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
-	* **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
-	* **Strength Increase**: Upon activation, the ***innate*** effects of one's Aura increases, but typically only by one-and-a-half times or twice the baseline strength.
-		* For Krator, both layers of their Aura receive the same increase.
-	* **Energy Cost**: This ability consumes energy in proportion with the size and strength increase.
-	* **Examples**:
-		* **Koinon Example**: A theoretical human Pyroton who is moderately determined to succeed emanates an Aura of ~25 meters.
-			* When flared, the area of his Aura increases to ~50 meters while his flames get hotter, easily burning everything around him.
-				* But in return, he can only sustain it for around 5 minutes before he experiences fatigue.
-		* **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers.
-			* In this situation, he's bored.
-			* When flared:
-				* The area of his Aura increases by about several hundred meters.
-				* He also becomes slightly more terrifying to any sentient being in his Aura.
-				* They also:
-					* Receive enough voltage to be shocked painfully, though not to the point of being turned to ashes.
-					* Experience increased weight and pressure bearing down on them, though not to the point of turning into a flesh-and-bones pancake.
-				* Due to his enormous amount of stamina and the non-dangerous situation he finds himself in, he experiences little to no drain or fatigue.
-* **Caveats**:
-	* Flaring only refers to increasing the *natural* effects of one's Aura.
-		* It is *independent* of and *separate* from Coating.
-			* It does **not** improve the technique nor any of its sub-techniques.
-* **Uses**:
-	* Intimidation is often the most common use.
-	* When Aura is flared, it garners the attention of any being.
-		* When Krator flare, other other instinctively recognize them as *kindred*.
-	* To use in skirmishes
-	* When not in the defensive.
-
-### Expansion
-### Coating
-
-## Coating, In Depth
-
-### Penetration
-### Neutralization
-#### Contesting
-#### Submission
-### Injection
