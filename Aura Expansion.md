@@ -12,10 +12,10 @@
 	* Similarly, Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
 	* For completeness, Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
 * **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intense conscious effort. 
-	* **Minum**
-	* **Training Consideration**: Its effects can be minimized up to a certain threshold.
-	* For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
-	* For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
+	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a person, albeit at a decreased rate and effectiveness.
+		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to a contextually defined limit.
+	* **Koinon Stability**: For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
+	* **Krator Variance**: For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
 		* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
 			* Available at birth, it is unconscious, perpetual, and irrepressible.
 				* Even through unconsciousness, this layer remains *active*.
