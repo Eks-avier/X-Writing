@@ -4,11 +4,12 @@
 
 * **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
 	* For example, a Koinon Pyroton produces a 25-meter spherical field of flames.
-		* **Dependency Note**: In general, Aura *area* depends on willpower.
+		* **Dependency Note**: In general, the strength of one's Aura *area* and *effects* depends on willpower.
 * **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no additional effects beyond the established properties and qualities that a Kráton's Manifestation naturally possesses.
-	* For example, Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
-	* Similarly, Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
-	* For completeness, Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
+	* **Examples**:
+		* For example, Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
+		* Similarly, Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
+		* For completeness, Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
 * **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intense conscious effort. 
 	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a person, albeit at a decreased rate and effectiveness.
 		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to a contextually defined limit.
