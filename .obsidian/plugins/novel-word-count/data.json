@@ -9059,6 +9059,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "College/1T2526/RZL110 - Society's Crucible.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1540,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.133333333333334,
+      "characterCount": 10620,
+      "nonWhitespaceCharacterCount": 9053,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 5.811320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757778880990,
+      "modifiedDate": 1757778898164,
+      "sizeInBytes": 10642,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
