@@ -6,7 +6,7 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 23.745819397993316,
+        "dimension": 37.97014925373134,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -55,15 +55,7 @@
               "icon": "lucide-file",
               "title": "Krátos, the Power of Will"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "e9f3eacac4d9b640",
-        "type": "tabs",
-        "dimension": 28.28475871954133,
-        "children": [
+          },
           {
             "id": "945fcc965a95350a",
             "type": "leaf",
@@ -87,38 +79,14 @@
               "icon": "lucide-file",
               "title": "Aura Expansion"
             }
-          },
-          {
-            "id": "6fa1693df13c7d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/1T2526/RZL110 - Society's Crucible.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RZL110 - Society's Crucible"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "74ee711d30c292be",
         "type": "tabs",
-        "dimension": 24.701385570950787,
+        "dimension": 32.23880597014925,
         "children": [
           {
             "id": "31701aa74c30a949",
@@ -149,7 +117,7 @@
       {
         "id": "f072a4d00055cd0d",
         "type": "tabs",
-        "dimension": 23.26803631151457,
+        "dimension": 29.791044776119403,
         "children": [
           {
             "id": "c82569bd96e8ad6a",
@@ -272,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -403,14 +372,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6fa1693df13c7d74",
+  "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
     "College/1T2526/RZL110 - Society's Crucible.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+    "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Aura Expansion.md",
     "Untitled.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Notepad.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
