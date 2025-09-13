@@ -18,8 +18,8 @@
 			* Mentality
 			* Willpower
 		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to their threshold.
-	* **Koinon Stability**: For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
-	* **Krator Variance**: For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
+	* **Koinon Stability**: For Koinon, their Themelion guarantees Manifestation, and thus enables them to continuously produce Aura without worry of interruption.
+	* **Krator Variance**: For Krator, their unique two-layered Aura and various psychological states mean that they are variably effective under certain circumstances.
 		* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
 			* Available at birth, it is unconscious, perpetual, and irrepressible.
 				* Even through unconsciousness, this layer remains *active*.
@@ -28,10 +28,9 @@
 				* **Trivia**: It's the most memorable aspect of a Conqueror: the mark of a *true conqueror*.
 		* **The Second Layer**: The active field that is the *product* of Alignment, to wit, the Manifestation of the Conqueror.
 			* It requires conscious effort, is interruptible via Misalignment, can be suppressed (to a point) via training, and *turned off* via Repose.
-				* When Misalignment occurs, this layer gradually weakens.
-					* This is called **Waning**.
-				* When in a state of Repose, this layer completely ceases to be.
-				* When in a state of Latency, this layer is completely absent.
+				* **In Latency**: In this state, this layer is completely absent.
+				* **Waning**: When Misalignment occurs, this layer gradually weakens.
+				* **In Repose**: When in a state of Repose, this layer completely ceases to be.
 			* **Implication**: Krator are vulnerable to having half their Aura be *disabled* due to Repose.
 * **External Willpower Awareness**: Krátons gain the ability to *sense*, *perceive*, and *develop awareness* of, and thus be able to accurately *gauge*, the willpower of other living sentient beings.
 	* **Universal**: ***All*** Kráton possess this ability, no exception.
