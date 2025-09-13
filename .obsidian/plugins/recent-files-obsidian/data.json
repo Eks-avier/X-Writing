@@ -5,12 +5,16 @@
       "path": "Aura Expansion.md"
     },
     {
-      "basename": "Notepad",
-      "path": "Notepad.md"
-    },
-    {
       "basename": "Krátos (draft 2)",
       "path": "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md"
+    },
+    {
+      "basename": "Krátos, the Power of Will",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
+    },
+    {
+      "basename": "Notepad",
+      "path": "Notepad.md"
     },
     {
       "basename": "Krátos (Greek)",
@@ -31,10 +35,6 @@
     {
       "basename": "The Three Fundamental Power Systems - A Complete Framework",
       "path": "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md"
-    },
-    {
-      "basename": "Krátos, the Power of Will",
-      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
     {
       "basename": "Krátos Power System Development",

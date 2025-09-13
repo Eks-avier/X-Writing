@@ -143,7 +143,7 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
 				* However, the falloff for effectiveness is quadruple than that of Penetration.
 					* But this is typically a sign of personal inefficiency rather than a limit imposed by the system.
 		* **NEED YOUR HELP**: I'm thinking about introducing a major caveat to Injection.
-			* When it is used, the attacking Kraton experiences a gap in protection.
+			* When it is used, the attacking Kráton experiences a gap in protection.
 				* The Neutralization that leaves their body, must recover the surface area of the body anew.
 					* For example, if a Pyroton punches into a flame shield spell and injects his willpower into the structure, there will be a brief period of time in which his knuckles will be vulnerable.
 						* This is a non-issue for beings like Godzilla whose baseline durability is already beyond superhuman.
