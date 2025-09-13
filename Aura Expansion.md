@@ -113,7 +113,7 @@
 * **Uses**:
 	* Intimidation is often the most common use.
 	* When Aura is flared, it garners the attention of any being.
-		* When Krator flare, other other instinctively recognize them as *kindred*.
+		* When Krator flare, other Krator instinctively recognize them as *kindred*.
 	* To use in skirmishes
 	* When not in the defensive.
 
