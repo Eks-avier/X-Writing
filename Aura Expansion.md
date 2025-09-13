@@ -70,7 +70,7 @@
 ## Aura, Actualized
 
 * **Coating**, **Flaring**, and **Expansion** is Aura *weaponized*.
-	* **Coating** is the ability to sheath onself, or anything tangible, with one's Aura.
+	* **Coating** is the ability to sheath oneself, or anything tangible, with one's Aura.
 	* **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
 	* **Expansion** is the ability to purely *enlarge* one's *Aura radius*.
 	* All abilities' output depends on:
