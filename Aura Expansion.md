@@ -8,11 +8,14 @@
 * **Latent**: Aura alone is simply the *latent*, *casual* expression of a Kráton's Manifestation; it has no additional effects beyond the established properties and qualities that a Kráton's Manifestation naturally possesses.
 	* **Examples**:
 		* **Shock and Weight**: Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
-		* Similarly, Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
-		* For completeness, Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
-* **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intense conscious effort. 
-	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a person, albeit at a decreased rate and effectiveness.
-		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to a contextually defined limit.
+		* **Intimidating Radiation**: Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
+		* **Cold Itself**: Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
+* **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intentional, conscious effort. 
+	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a living being, albeit at a significantly decreased rate and effectiveness.
+		* **Individual Thresholds**: Each Kráton has individual thresholds determined by their:
+			* Physical Fitness
+			* Physical 
+		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to their threshold.
 	* **Koinon Stability**: For Koinon, their Themelion guarantees Manifestation, and thus enabling them to continuously produce Aura without worry of interruption.
 	* **Krator Variance**: For Krator, their unique two-layered Aura and various psychological states make them variably effective under certain circumstances.
 		* **The First Layer**: An invisible passive field that emanates constantly from a Krator, inducing fear, uneasiness, and dread.
