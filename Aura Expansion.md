@@ -74,7 +74,7 @@
 	* **Expansion** is the ability to purely *enlarge* one's *Aura radius*.
 	* **Suppression** is the ability to *minimize* the effects of one's Aura.
 	* All abilities' output depends on:
-		1. The physical constitution and well-being of the Kráton.
+		1. The physical constitution and fitness of the Kráton.
 		2. The willpower of the Kráton.
 		3. **Krator Exclusive**: Whether one is in *Latency*, *Misalignment*, or *Repose*.
 	* For example, there is a functional difference between Godzilla firing his Atomic Breath and him applying **Coating** on his Atomic Breath.
@@ -100,8 +100,8 @@
 				* But in return, he can only sustain it for around 5 minutes before he experiences fatigue.
 		* **Krator Example**: Ghidorah's Aura can approximately reach ~10-15 kilometers.
 			* In this situation, he's bored.
-			* When flared:
-				* The area of his Aura increases by about several hundred meters.
+			* %% When flared:
+				* The area of his Aura increases by about several hundred meters. %%
 				* He also becomes slightly more terrifying to any sentient being in his Aura.
 				* They also:
 					* Receive enough voltage to be shocked painfully, though not to the point of being turned to ashes.
