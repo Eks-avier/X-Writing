@@ -77,23 +77,23 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 11.33,
-      "characterCount": 23528,
-      "nonWhitespaceCharacterCount": 18997,
-      "newlineCount": 282,
+      "characterCount": 23536,
+      "nonWhitespaceCharacterCount": 19011,
+      "newlineCount": 281,
       "readingTimeInMinutes": 12.826415094339623,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1757784241087,
-      "modifiedDate": 1757789747162,
-      "sizeInBytes": 23645,
+      "createdDate": 1757793675601,
+      "modifiedDate": 1757793675601,
+      "sizeInBytes": 23653,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 11.286666666666667,
-        "wordCount": 3386,
-        "characterCount": 23377,
-        "nonWhitespaceCharacterCount": 18869,
-        "newlineCount": 279
+        "pageCount": 11.33,
+        "wordCount": 3399,
+        "characterCount": 23536,
+        "nonWhitespaceCharacterCount": 19011,
+        "newlineCount": 281
       }
     },
     "German Vocabulary - Nouns (A1).txt": {
@@ -3015,27 +3015,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3057,
+      "wordCount": 3447,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 10.19,
-      "characterCount": 29046,
-      "nonWhitespaceCharacterCount": 25221,
-      "newlineCount": 722,
-      "readingTimeInMinutes": 11.535849056603773,
-      "linkCount": 0,
+      "pageCount": 11.49,
+      "characterCount": 31968,
+      "nonWhitespaceCharacterCount": 27802,
+      "newlineCount": 731,
+      "readingTimeInMinutes": 13.007547169811321,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1757402408424,
-      "modifiedDate": 1757402408424,
-      "sizeInBytes": 29473,
+      "createdDate": 1757794618004,
+      "modifiedDate": 1757794618004,
+      "sizeInBytes": 32403,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 10.19,
-        "wordCount": 3057,
-        "characterCount": 29046,
-        "nonWhitespaceCharacterCount": 25221,
-        "newlineCount": 722
+        "pageCount": 11.49,
+        "wordCount": 3447,
+        "characterCount": 31968,
+        "nonWhitespaceCharacterCount": 27802,
+        "newlineCount": 731
       }
     },
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md": {
@@ -7918,8 +7918,7 @@
         "characterCount": 18,
         "nonWhitespaceCharacterCount": 15,
         "newlineCount": 1
-      },
-      "frontmatter": {}
+      }
     },
     "Writing/ATM/Canvases/Krátos.canvas": {
       "isCountable": true,
@@ -7973,8 +7972,7 @@
         "characterCount": 1329,
         "nonWhitespaceCharacterCount": 931,
         "newlineCount": 50
-      },
-      "frontmatter": {}
+      }
     },
     "Writing/ATM/Canvases/Krátos (Greek).canvas": {
       "isCountable": true,
@@ -8001,11 +7999,6 @@
         "characterCount": 1514,
         "nonWhitespaceCharacterCount": 1265,
         "newlineCount": 109
-      },
-      "frontmatter": {
-        "tags": [
-          "power_system"
-        ]
       }
     },
     "Writing/ATM/Canvases/Sorcery Redefined.canvas": {
@@ -8060,8 +8053,7 @@
         "characterCount": 723,
         "nonWhitespaceCharacterCount": 599,
         "newlineCount": 51
-      },
-      "frontmatter": {}
+      }
     },
     "Writing/ATM/Canvases/Psionics.canvas": {
       "isCountable": true,
@@ -8211,7 +8203,7 @@
       "nonWhitespaceCharacterCount": 573,
       "newlineCount": 25,
       "readingTimeInMinutes": 0.2943396226415094,
-      "linkCount": 1,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1756883710142,
@@ -8224,8 +8216,7 @@
         "characterCount": 675,
         "nonWhitespaceCharacterCount": 573,
         "newlineCount": 25
-      },
-      "frontmatter": {}
+      }
     },
     "Notepad 8.md": {
       "isCountable": true,

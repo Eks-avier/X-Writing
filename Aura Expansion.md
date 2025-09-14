@@ -72,6 +72,7 @@
 	* **Coating** is the ability to sheath oneself, or anything tangible, with one's Aura.
 	* **Flaring** is the act of *intensifying* the *latent* effects of *Aura itself*.
 	* **Expansion** is the ability to purely *enlarge* one's *Aura radius*.
+	* **Suppression** is the ability to *minimize* the effects of one's Aura.
 	* All abilities' output depends on:
 		1. The physical constitution and well-being of the Kráton.
 		2. The willpower of the Kráton.
