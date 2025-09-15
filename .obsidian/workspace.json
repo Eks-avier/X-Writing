@@ -368,11 +368,14 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md",
+    "Writing/ATM/Characters/Titans/Unconfirmed 467799.crdownload",
     "~syncthing~Aura Expansion.md.tmp",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Aura Expansion.md",
@@ -407,7 +410,6 @@
     "Writing/ATM/Canvases/Krátos (Common).canvas",
     "Writing/ATM/Power Systems/Krátos/Untitled",
     "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md",
-    "Writing/ATM/Power Systems/Krátos",
     "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",

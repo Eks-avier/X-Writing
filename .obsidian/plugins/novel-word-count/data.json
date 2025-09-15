@@ -9088,6 +9088,33 @@
         "nonWhitespaceCharacterCount": 318054,
         "newlineCount": 6763
       }
+    },
+    "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1931,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.4366666666666665,
+      "characterCount": 16240,
+      "nonWhitespaceCharacterCount": 14001,
+      "newlineCount": 301,
+      "readingTimeInMinutes": 7.286792452830189,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757910176839,
+      "modifiedDate": 1757910150543,
+      "sizeInBytes": 16240,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
