@@ -9114,6 +9114,60 @@
         "nonWhitespaceCharacterCount": 318054,
         "newlineCount": 6763
       }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/shadow_organization_structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1198,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.993333333333333,
+      "characterCount": 9529,
+      "nonWhitespaceCharacterCount": 8197,
+      "newlineCount": 145,
+      "readingTimeInMinutes": 4.520754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757928222991,
+      "modifiedDate": 1757928224523,
+      "sizeInBytes": 9561,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/bulwark_magical_infrastructure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1122,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.74,
+      "characterCount": 8907,
+      "nonWhitespaceCharacterCount": 7605,
+      "newlineCount": 177,
+      "readingTimeInMinutes": 4.233962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757928234204,
+      "modifiedDate": 1757928235342,
+      "sizeInBytes": 8909,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
