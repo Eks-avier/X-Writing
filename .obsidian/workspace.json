@@ -6,7 +6,6 @@
       {
         "id": "d92ec10656dd9d7e",
         "type": "tabs",
-        "dimension": 37.97014925373134,
         "children": [
           {
             "id": "e9d7c27ff5418133",
@@ -82,68 +81,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "74ee711d30c292be",
-        "type": "tabs",
-        "dimension": 32.23880597014925,
-        "children": [
-          {
-            "id": "31701aa74c30a949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Krátos (draft 2)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f072a4d00055cd0d",
-        "type": "tabs",
-        "dimension": 29.791044776119403,
-        "children": [
-          {
-            "id": "c82569bd96e8ad6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Krátos (draft 3)"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -374,6 +311,9 @@
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
+    "Aura Expansion.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/bulwark_magical_infrastructure.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/Unconfirmed 329576.crdownload",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/shadow_organization_structure.md",
@@ -383,12 +323,9 @@
     "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md",
     "Writing/ATM/Characters/Titans/Unconfirmed 467799.crdownload",
     "~syncthing~Aura Expansion.md.tmp",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
-    "Aura Expansion.md",
     "College/1T2526/RZL110 - Society's Crucible.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Untitled.md",
     "Notepad.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
