@@ -305,13 +305,15 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
+    "Untitled.md",
     "Aura Expansion.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/bulwark_magical_infrastructure.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/Unconfirmed 329576.crdownload",
@@ -325,7 +327,6 @@
     "College/1T2526/RZL110 - Society's Crucible.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
-    "Untitled.md",
     "Notepad.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
     "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
