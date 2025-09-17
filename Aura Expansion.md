@@ -3,11 +3,10 @@
 ## Aura of the Kráton
 
 * **Definition**: The passive emission of a Kráton's Manifestation, flowing forth from his body and into the world, serving as the territory on which he exerts his influence.
-* **Shape**: Aura manifests as a definite, spherical field.\\
+* **Shape**: Aura manifests as a definite, spherical field.
 
 > [!EXAMPLE]
 > A theoretical human Koinon Pyroton produces a **25-meter field** of flames with an approximately spherical shape.
-
 
 ## Aura of the Kráton
 
