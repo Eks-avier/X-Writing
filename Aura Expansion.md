@@ -9,14 +9,24 @@
 > [!EXAMPLE]
 > A *theoretical* human **Koinon Pyroton** produces a **25-meter spherical field** of flames.
 
-### Aura Properties
+### Aura Qualities
 
-- **Latent**: Aura has no additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
-- **Irrepressible**: Aura ***cannot*** be completely suppressed.
-	- 
+#### Properties
+
+* **Latent**: Aura has no additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
+* **Irrepressible**: Aura ***cannot*** be *completely* suppressed.
+* **Willpower Dependency**: Aura strength and size scales proportionally with a Kráton's current willpower.
+
+### Benefits
+
+* **Willpower Awareness** %% Note: This is actually a universal ability of all Kráton! %%: Any sentient living being with willpower can be vividly detected and tracked within a Kráton's Aura.
+* **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can function as an *extension* of their ***pre-existing*** biological senses, providing them with increased 
 
 
+## Aura, Actualized
 
+
+---
 ## Aura of the Kráton
 
 * **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
@@ -164,11 +174,9 @@ I've been thinking about further expanding the Coating mechanics, while clarifyi
     * There are two ways to activate Aura
         * Flaring, which is the act of intensifying one's Aura.
         * Coating, which is the act of “clothing,” “sheathing,” or “cladding” oneself with one's Aura.
-            
 * Coating has two types.
     * Offensive Coating
     * Defensive Coating
-  
 * Offensive Coating is imbuing one's Aura into one's attacks.
 	* Offensive Coating carries Penetration.
 		* Penetration enables attacks to bypass any *natural* immunities or resistances a target may have.
