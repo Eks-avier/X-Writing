@@ -2,15 +2,11 @@
 
 ## Aura of the Kráton
 
-- **Definition**: The passive emission of a Kráton's Manifestation, flowing forth from his body and into the world, serving as the territory on which he exerts his influence.
-- **Shape**: Aura manifests as a definite, spherical field.\\
-
+* **Definition**: The passive emission of a Kráton's Manifestation, flowing forth from his body and into the world, serving as the territory on which he exerts his influence.
+* **Shape**: Aura manifests as a definite, spherical field.\\
 
 > [!EXAMPLE]
-> - A theoretical human Koinon Pyroton produces a **25-meter field** of flames with an approximately spherical shape.
-
-
-
+> A theoretical human Koinon Pyroton produces a **25-meter field** of flames with an approximately spherical shape.
 
 
 ## Aura of the Kráton
@@ -23,11 +19,11 @@
 		* **Shock and Weight**: Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
 		* **Intimidating Radiation**: Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
 		* **Cold Itself**: Scylla's Aura remains highly frigid, capable of freezing nearly every being without extreme adaptation to cold solid.
-* **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intentional, conscious effort. 
+* **Irrepressible**: Aura ***cannot*** be *completely* turned off, even through intentional, conscious effort.
 	* **Production Threshold**: Aura production is possible as long as even just the *will to act* exists within a living being, albeit at a significantly decreased rate and effectiveness.
 		* **Individual Thresholds**: Each Kráton has individual thresholds determined by their:
 			* Physical Fitness
-			* Physical Constitution 
+			* Physical Constitution
 			* Mentality
 			* Willpower
 		* **Training Possibility**: Krátons can train to reduce the range and effects of one's Aura up to their threshold.
@@ -100,7 +96,7 @@
 						* This explains why he recognizes that his powers can be applied on objects that they normally would fail on.
 							* He *knows* he's special, not *why* nor the *implications* of such in relation to his abilities.
 
-### Flaring %% Introduce the concept of Expansion %%
+### Flaring %% Introduce the Concept of Expansion %%
 
 * When a Kráton flares their Aura, it becomes *bigger* and *stronger*, but also drains one's stamina *faster*.
 	* **Area Increase**: The Aura radius increases significantly, often by twice up to quadruple or quintuple the size.
@@ -132,14 +128,19 @@
 	* When not in the defensive.
 
 ### Expansion
+
 ### Coating
 
 ## Coating, In Depth
 
 ### Penetration
+
 ### Neutralization
+
 #### Contesting
+
 #### Submission
+
 ### Injection
 
 ---
