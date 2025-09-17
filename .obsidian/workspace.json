@@ -298,6 +298,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -320,8 +321,7 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "945fcc965a95350a",
