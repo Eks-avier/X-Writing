@@ -15,13 +15,17 @@
 
 * **Latent**: Aura has no additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
 * **Irrepressible**: Aura ***cannot*** be *completely* suppressed.
-* **Willpower Dependency**: Aura strength and size scales proportionally with a Kráton's current willpower.
 
 ### Benefits
 
-* **Willpower Awareness** %% Note: This is actually a universal ability of all Kráton! %%: Any sentient living being with willpower can be vividly detected and tracked within a Kráton's Aura.
-* **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can function as an *extension* of their ***pre-existing*** biological senses, providing them with increased 
+* **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can serve as an *extension* of a Kráton's ***pre-existing biological senses***, providing them with either increased coverage or resolution—or both.
+	* **Willpower Awareness Extension**: Any sentient living being with willpower can be vividly detected and tracked within a Kráton's Aura.
 
+#### Dependencies
+
+- **Willpower**:
+- **Physical Constitution**:
+- **Physical Fitness**:
 
 ## Aura, Actualized
 
