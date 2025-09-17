@@ -23,7 +23,9 @@
 
 #### Dependencies
 
-- **Willpower**:
+- **Mental State**:
+	- **Willpower**:
+	- **Mindset**:
 - **Physical Constitution**:
 - **Physical Fitness**: 
 
