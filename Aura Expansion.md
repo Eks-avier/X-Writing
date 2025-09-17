@@ -9,7 +9,11 @@
 > [!EXAMPLE]
 > A *theoretical* human **Koinon Pyroton** produces a **25-meter spherical field** of flames.
 
-- **Willpower Dependency**: Its *strength* and *size* is proportional to the Kráton's willpower.
+### Aura Properties
+
+
+
+
 
 ## Aura of the Kráton
 
