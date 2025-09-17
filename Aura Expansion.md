@@ -25,7 +25,7 @@
 
 - **Willpower**:
 - **Physical Constitution**:
-- **Physical Fitness**:
+- **Physical Fitness**: 
 
 ## Aura, Actualized
 
