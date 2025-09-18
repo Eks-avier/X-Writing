@@ -23,11 +23,9 @@
 
 #### Dependencies
 
-- **Mental State**:
-	- **Willpower**:
-	- **Mindset**:
-- **Physical Constitution**:
-- **Physical Fitness**: 
+1. 
+2. 
+3. 
 
 ## Aura, Actualized
 
