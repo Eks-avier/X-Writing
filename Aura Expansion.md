@@ -29,6 +29,14 @@
 
 ## Aura, Actualized
 
+1. Aura Management
+	1. Intensity Management 
+		1. In
+	2. Spatial Management 
+2. Coating
+3. Neutralization 
+4. Injection
+
 
 ---
 ## Aura of the Kráton

@@ -29,5 +29,6 @@
   "primary-theme@@h1-vt-align-center": false,
   "primary-theme@@h1-text-align": "center",
   "primary-theme@@colorful-folders_background": false,
-  "primary-theme@@font-ui-smallest": 12
+  "primary-theme@@font-ui-smallest": 12,
+  "Editor@@collapse-icon-restore": true
 }

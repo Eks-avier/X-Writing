@@ -321,11 +321,13 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "945fcc965a95350a",
   "lastOpenFiles": [
+    "~syncthing~Aura Expansion.md.tmp",
     "Untitled.md",
     "Aura Expansion.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
@@ -338,7 +340,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/New folder",
     "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md",
     "Writing/ATM/Characters/Titans/Unconfirmed 467799.crdownload",
-    "~syncthing~Aura Expansion.md.tmp",
     "College/1T2526/RZL110 - Society's Crucible.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
@@ -364,7 +365,6 @@
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
     "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md",
-    "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Sorcery Redefined.canvas",
