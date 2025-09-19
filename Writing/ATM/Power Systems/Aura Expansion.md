@@ -31,16 +31,17 @@
 
 1. Aura Management
 	1. Intensity Management 
-		1. Flaring
-		2. Suppression
+		- Flaring
+		- Suppression
 	2. Spatial Management
-		1. Expansion
-		2. Reduction
+		- Expansion
+		- Reduction
 2. Coating
 	1. Offensive Coating
-		1. Penetration
+		- Penetration
 	2. Defensive Coating
-		1. Neutralization
+		- Neutralization
+			- Submission
 3. Injection
 
 
