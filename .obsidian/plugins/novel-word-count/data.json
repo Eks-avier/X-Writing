@@ -9148,33 +9148,6 @@
         "newlineCount": 6763
       }
     },
-    "Aura Expansion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3572,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 11.906666666666666,
-      "characterCount": 24853,
-      "nonWhitespaceCharacterCount": 20124,
-      "newlineCount": 324,
-      "readingTimeInMinutes": 13.479245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1757159151480,
-      "modifiedDate": 1758265104957,
-      "sizeInBytes": 24979,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 11.906666666666666,
-        "wordCount": 3572,
-        "characterCount": 24853,
-        "nonWhitespaceCharacterCount": 20124,
-        "newlineCount": 324
-      }
-    },
     "Writing/ATM/Ghidorah, The Three-Who-Are-One.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -9193,6 +9166,33 @@
       "createdDate": 1758277659896,
       "modifiedDate": 1758277691048,
       "sizeInBytes": 13753,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/Power Systems/Aura Expansion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3572,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 11.906666666666666,
+      "characterCount": 24853,
+      "nonWhitespaceCharacterCount": 20124,
+      "newlineCount": 324,
+      "readingTimeInMinutes": 13.479245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1757159151480,
+      "modifiedDate": 1758265104957,
+      "sizeInBytes": 24979,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "945fcc965a95350a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/ghidorah_structural_analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ghidorah_structural_analysis"
-            }
-          },
-          {
             "id": "8dda671e4faa4490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Ghidorah, The Three-Who-Are-One.md",
+                "file": "Writing/ATM/Power Systems/Aura Expansion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ghidorah, The Three-Who-Are-One"
+              "title": "Aura Expansion"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -349,12 +324,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8dda671e4faa4490",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
-    "Writing/ATM/ghidorah_structural_analysis.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Ghidorah, The Three-Who-Are-One.md",
+    "Writing/ATM/ghidorah_structural_analysis.md",
     "Writing/ATM/ghidorah_complete_powers.md",
-    "Aura Expansion.md",
+    "Writing/ATM/Power Systems/Aura Expansion.md",
     "~syncthing~Aura Expansion.md.tmp",
     "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
@@ -368,7 +344,6 @@
     "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md",
     "Writing/ATM/Characters/Titans/Unconfirmed 467799.crdownload",
     "College/1T2526/RZL110 - Society's Crucible.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
     "Notepad.md",
     "Writing/ATM/Canvases/~syncthing~Krátos.canvas.tmp",
