@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Aura Expansion"
             }
+          },
+          {
+            "id": "38b1c9f082cfd129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Pinnacle of Limitless Adaptation"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,11 +344,21 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "38b1c9f082cfd129",
   "lastOpenFiles": [
+    "Writing/ATM/The Fundamental Forces Theory.md",
+    "Writing/ATM/ghidorah_structural_analysis.md",
+    "Writing/ATM/ghidorah_complete_powers.md",
+    "Writing/ATM/Clarifications on the Atomic Railgun.md",
+    "Writing/ATM/The Uncanny Perfection.md",
+    "Writing/ATM/The Saga of the Fallen Star.md",
+    "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
+    "Writing/ATM/The Redemption of Ghidorah.md",
+    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/The Nordsons/leo_daily_life.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/junior_daily_life.md",
@@ -339,9 +373,6 @@
     "Writing/ATM/Characters/Titans/New folder",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Ghidorah, The Three-Who-Are-One.md",
-    "Writing/ATM/ghidorah_structural_analysis.md",
-    "Writing/ATM/ghidorah_complete_powers.md",
-    "Writing/ATM/Power Systems/Aura Expansion.md",
     "~syncthing~Aura Expansion.md.tmp",
     "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
@@ -355,13 +386,7 @@
     "College/1T2526/RZL110 - Confidence, Identity, and Modern Language Dynamics.md",
     "Notepad.md",
     "Writing/ATM/Power Systems/The Three Fundamental Power Systems - A Complete Framework.md",
-    "Claude Conversations/Krátos Power System Development.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 1).md",
-    "College/1T2526/CSS125 - FA1.1.md",
     "CSS125 - FA1.1_1.8.png",
-    "College/The Dangers of a World Without Moral Absolutes.md",
-    "Notepad 12.md",
-    "Writing/ATM/Power Systems/Krátos/Untitled.md",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
