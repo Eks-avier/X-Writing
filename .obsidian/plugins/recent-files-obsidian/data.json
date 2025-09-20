@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Compendium",
+      "path": "Writing/ATM/Power Systems/Magic/The Compendium.md"
+    },
+    {
       "basename": "Domination of Energy - Narrative Sidepiece",
       "path": "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Nordsons and Lepidiels",
       "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
-    },
-    {
-      "basename": "psionics-system",
-      "path": "Writing/ATM/Characters/Titans/Mothra/Messy/psionics-system.md"
     }
   ],
   "omittedPaths": [],
