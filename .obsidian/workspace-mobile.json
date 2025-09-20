@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aura Expansion.md",
+                "file": "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aura Expansion"
+              "title": "Plot Outline - Biollante Arc"
             }
           }
         ],
@@ -232,6 +232,10 @@
   },
   "active": "00ac6324e41dbeea",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/Plot Outline - Dagon Resurrection Arc.md",
+    "Writing/ATM/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
+    "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
+    "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
@@ -261,9 +265,6 @@
     "Writing/ATM/Titans/Hierarchy/Adaptations of the Titan Hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/Structure of the Titan Hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
-    "Writing/ATM/Titans/Hierarchy/Ascendant Primals.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/Notepad 11.md",
-    "Writing/ATM/Story Arcs/Concept - Medieval AU.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",
@@ -276,7 +277,6 @@
     "Writing/Antitheriomorphosis/Characters/Titans",
     "Tags/#atm+titan",
     "Writing/Antitheriomorphosis/Canvases/Domination of Energy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas",
-    "Writing/Antitheriomorphosis/Canvases/Sorcery.canvas"
+    "Writing/Antitheriomorphosis/Canvases/The Titan Hierarchy.canvas"
   ]
 }
