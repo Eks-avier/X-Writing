@@ -9330,6 +9330,33 @@
         "nonWhitespaceCharacterCount": 318054,
         "newlineCount": 6763
       }
+    },
+    "Writing/ATM/Power Systems/Magic/Overview of Magic.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1565,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.216666666666667,
+      "characterCount": 12941,
+      "nonWhitespaceCharacterCount": 11191,
+      "newlineCount": 258,
+      "readingTimeInMinutes": 5.90566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758394850042,
+      "modifiedDate": 1758394851400,
+      "sizeInBytes": 12955,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
