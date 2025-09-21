@@ -24,19 +24,18 @@
 #### Dependencies
 
 1. Physical Constitution
-2. The Physical Vessel
-3. The Will
+2. The Will
 	1. Willpower
 	2. Emotional State
-4. Physical Fitness
+3. Physical Fitness
 
 ## Aura, Actualized
 
-1. Aura Management
-	1. Intensity Management 
+1. The Edict of Sovereignty
+	1. The Edict of Majesty
 		- Flaring
 		- Suppression
-	2. Spatial Management
+	2. The Edict of Dominion
 		- Expansion
 		- Reduction
 2. Coating
