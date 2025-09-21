@@ -23,11 +23,12 @@
 
 #### Dependencies
 
-1. The Physical Vessel
-	1. Physical Constitution
-	2. Physical 
-2. 
-3. 
+1. Physical Constitution
+2. The Physical Vessel
+3. The Will
+	1. Willpower
+	2. Emotional State
+4. Physical Fitness
 
 ## Aura, Actualized
 
