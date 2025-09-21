@@ -39,11 +39,9 @@
 		- Expansion
 		- Reduction
 2. Coating
-	1. Offensive Coating
-		- Penetration
-	2. Defensive Coating
-		- Neutralization
-			- Submission
+	- Neutralization
+		- Submission
+	- Penetration
 3. Injection
 
 
