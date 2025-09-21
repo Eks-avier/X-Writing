@@ -31,7 +31,7 @@
 
 ## Aura, Actualized
 
-1. The Edict of Sovereignty
+1. Edicts
 	1. The Edict of Majesty
 		- Flaring
 		- Suppression
