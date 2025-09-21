@@ -32,10 +32,10 @@
 ## Aura, Actualized
 
 1. Edicts
-	1. The Edict of Majesty
+	- The Edict of Majesty
 		- Flaring
 		- Suppression
-	2. The Edict of Dominion
+	- The Edict of Dominion
 		- Expansion
 		- Reduction
 2. Coating
