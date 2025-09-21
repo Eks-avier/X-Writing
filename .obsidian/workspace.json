@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Domination of Energy - Narrative Sidepiece"
             }
-          },
-          {
-            "id": "0b910bd139e494f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Power Systems/Magic/The Compendium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Compendium"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -372,11 +348,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0b910bd139e494f7",
+  "active": "8dda671e4faa4490",
   "lastOpenFiles": [
+    "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
+    "Writing/ATM/Power Systems/Magic/The Compendium.md",
     "Writing/ATM/Power Systems/Magic/Overview of Magic.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
-    "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Unrefined/Domination of Energy - Profile.md",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
     "Writing/ATM/The Fundamental Forces Theory.md",
@@ -409,7 +386,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/Unconfirmed 329576.crdownload",
     "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/shadow_organization_structure.md",
     "Writing/ATM/Characters/Titans/Scylla, Cardinal Warden of the South.md",
-    "College/1T2526/RZL110 - Society's Crucible.md",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
