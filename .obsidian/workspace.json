@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Aura Expansion.md",
+                "file": "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aura Expansion"
+              "title": "Battra, the Lord of the Mystic Arts"
             }
           },
           {
@@ -344,11 +344,13 @@
       "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "8dda671e4faa4490",
   "lastOpenFiles": [
+    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Power Systems/Magic/The Compendium.md",
     "Writing/ATM/Power Systems/Magic/Overview of Magic.md",
@@ -362,7 +364,6 @@
     "Writing/ATM/The Uncanny Perfection.md",
     "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/The Redemption of Ghidorah.md",
-    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/The Nordsons/leo_daily_life.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/junior_daily_life.md",
