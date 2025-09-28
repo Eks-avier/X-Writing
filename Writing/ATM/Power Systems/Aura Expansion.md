@@ -32,7 +32,7 @@
 ## Aura, Actualized
 
 1. Edicts
-	- The Edict of Majesty
+	- 
 		- Flaring
 		- Suppression
 	- The Edict of Dominion
