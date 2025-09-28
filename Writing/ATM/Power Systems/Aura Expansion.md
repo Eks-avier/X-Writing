@@ -31,11 +31,11 @@
 
 ## Aura, Actualized
 
-1. Edicts
-	- 
+1. Aura Management
+	- Intensity Management
 		- Flaring
 		- Suppression
-	- The Edict of Dominion
+	- Spatial Management
 		- Expansion
 		- Reduction
 2. Coating
