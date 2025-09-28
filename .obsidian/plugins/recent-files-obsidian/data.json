@@ -5,6 +5,22 @@
       "path": "Writing/ATM/Power Systems/Aura Expansion.md"
     },
     {
+      "basename": "The Psionic and Sorcery Divisions",
+      "path": "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md"
+    },
+    {
+      "basename": "The Divine Soul of the Heavenly Instance",
+      "path": "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md"
+    },
+    {
+      "basename": "The Scales of 'Titanus mosura'",
+      "path": "Writing/ATM/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md"
+    },
+    {
+      "basename": "Plot Outline - Biollante Arc",
+      "path": "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md"
+    },
+    {
       "basename": "Battra, the Lord of the Mystic Arts",
       "path": "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "The Redemption of Ghidorah",
       "path": "Writing/ATM/The Redemption of Ghidorah.md"
-    },
-    {
-      "basename": "Plot Outline - Biollante Arc",
-      "path": "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md"
     },
     {
       "basename": "Plot Outline - Dagon Resurrection Arc",
@@ -187,18 +199,6 @@
     {
       "basename": "Psionics",
       "path": "Writing/ATM/Canvases/Psionics.canvas"
-    },
-    {
-      "basename": "Rizal Law and the Catholic Hierarchy",
-      "path": "College/1T2526/Rizal Law and the Catholic Hierarchy.md"
-    },
-    {
-      "basename": "Sorcery",
-      "path": "Writing/ATM/Canvases/Sorcery.canvas"
-    },
-    {
-      "basename": "Drawing 2025-08-19 14.52.10.excalidraw",
-      "path": "Excalidraw/Drawing 2025-08-19 14.52.10.excalidraw.md"
     }
   ],
   "omittedPaths": [],
