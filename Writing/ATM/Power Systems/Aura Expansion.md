@@ -40,7 +40,11 @@ Aura ***cannot*** be completely repressed, but it can be suppressed up to a cert
 		- At rest, the body naturally represses the Aura to a lower, more efficient level: the Aura rests *with* the Kráton.
 		- When stressed or agitated, the body unconsciously expresses it more strongly, and sometimes even visibly, causing the Aura to intensify without conscious intent.
 - **Conscious Modulation**: This is the willful act of controlling the Aura's output, overriding its natural baseline. 
-	- **Dependence**: It is primarily dependent on *Physical Fitness* and *Mental State*
+	- **Dependence**: It is primarily dependent on *Physical Fitness* and *Mental State*, but *Physical Constitution* can influence one's baseline capacity to suppress it.
+	- **Learnable**: The act of ***Suppression*** is a skill either type of Kráton can learn to consciously force their Aura's output below its natural resting baseline.
+	- **Limited**: A Kráton can only suppress their Aura to a certain threshold, determined by the Aura Dependencies; it ***cannot*** be forced to disappear.
+	- **Koinon Ease**: For Koinon, suppressing one's Aura is a trivial skill, as their baseline emanation already puts their Aura in a state of suppression.
+	- **Krator Challenge**: For Krator, maintaining a suppressed state requires constant, active concentration, draining tremendous stamina, especially when first utilizing the skill. 
 ### Benefits
 
 * **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can serve as an *extension* of a Kráton's ***pre-existing biological senses***, providing them with either increased coverage or resolution—or both.
