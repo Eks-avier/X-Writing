@@ -16,18 +16,17 @@
 	1. Willpower
 	2. Emotional State
 3. Physical Vessel
+
 ### Aura Qualities
+
+> [!EXAMPLE] Auras of the Known Conquerors
+> 1. **Shock and Weight**: Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
+> 2. **Lethal Radiation**: Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
+> 3. **Glacial Frost**: Scylla's Aura is highly frigid, capable of freezing nearly everything without extreme adaptation to the cold solid.
 
 #### Properties
 
 * **Latent**: Aura has *no* additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
-
-
-> [!EXAMPLE] Auras of the Known Conquerors
-> 
-
-
-
 * **Irrepressible**: Aura ***cannot*** be *completely* suppressed.
 
 ### Benefits
@@ -35,25 +34,23 @@
 * **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can serve as an *extension* of a Kráton's ***pre-existing biological senses***, providing them with either increased coverage or resolution—or both.
 	* **Willpower Awareness Extension**: Any sentient living being with willpower can be vividly detected and tracked within a Kráton's Aura.
 
-
-
 ## Aura, Actualized
 
 1. Aura Management
-	- Intensity Management
-		- Flaring
-		- Suppression
-	- Spatial Management
-		- Expansion
-		- Reduction
+	* Intensity Management
+		* Flaring
+		* Suppression
+	* Spatial Management
+		* Expansion
+		* Reduction
 2. Coating
-	- Neutralization
-		- Submission
-	- Penetration
+	* Neutralization
+		* Submission
+	* Penetration
 3. Injection
 
-
 ---
+
 ## Aura of the Kráton
 
 * **Definition**: Aura is the passive emission of a Kráton's Manifestation, flowing forth from their body and into the world in a definite, circular area around them, enabling the exertion of their influence freely.
