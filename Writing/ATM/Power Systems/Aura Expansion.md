@@ -20,7 +20,14 @@
 
 #### Properties
 
-* **Latent**: Aura has no additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
+* **Latent**: Aura has *no* additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
+
+
+> [!EXAMPLE] Auras of the Known Conquerors
+> 
+
+
+
 * **Irrepressible**: Aura ***cannot*** be *completely* suppressed.
 
 ### Benefits
