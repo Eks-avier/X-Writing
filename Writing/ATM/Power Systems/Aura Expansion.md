@@ -19,15 +19,16 @@
 
 ### Aura Qualities
 
-> [!EXAMPLE] Auras of the Known Conquerors
-> 1. **Shock and Weight**: Ghidorah's Aura retains the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
-> 2. **Lethal Radiation**: Godzilla's Aura remains hot and radioactive, causing burns and radiation poisoning and contamination.
-> 3. **Glacial Frost**: Scylla's Aura is highly frigid, capable of freezing nearly everything without extreme adaptation to the cold solid.
-
 #### Properties
 
-* **Latent**: Aura has *no* additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
-* **Irrepressible**: Aura ***cannot*** be *completely* suppressed.
+* **Latent but Potent**: Aura has *no* additional effects beyond the natural properties and qualities a Kráton's Manifestation possesses.
+
+> [!EXAMPLE] Auras of the Known Conquerors
+> 1. **Shock and Weight**: Ghidorah's Aura has the properties of electricity and gravity, and thus can induce shocking or gravitational stress in living beings.
+> 2. **Lethal Radiation**: Godzilla's Aura is hot and radioactive, causing burns and radiation poisoning and contamination.
+> 3. **Glacial Frost**: Scylla's Aura is highly frigid, capable of freezing nearly everything without extreme adaptation to the cold solid.
+
+* **Irrepressible**: Aura ***cannot*** be *completely* repressed, but it can be suppressed *up to a threshold*.
 
 ### Benefits
 
