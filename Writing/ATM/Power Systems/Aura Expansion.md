@@ -9,6 +9,13 @@
 > [!EXAMPLE]
 > A *theoretical* human **Koinon Pyroton** produces a **25-meter spherical field** of flames.
 
+### Aura Dependencies
+
+1. Physical Constitution
+2. Mental State
+	1. Willpower
+	2. Emotional State
+3. Physical Vessel
 ### Aura Qualities
 
 #### Properties
@@ -21,13 +28,7 @@
 * **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can serve as an *extension* of a Kráton's ***pre-existing biological senses***, providing them with either increased coverage or resolution—or both.
 	* **Willpower Awareness Extension**: Any sentient living being with willpower can be vividly detected and tracked within a Kráton's Aura.
 
-#### Dependencies
 
-1. Physical Constitution
-2. The Will
-	1. Willpower
-	2. Emotional State
-3. Physical Fitness
 
 ## Aura, Actualized
 
