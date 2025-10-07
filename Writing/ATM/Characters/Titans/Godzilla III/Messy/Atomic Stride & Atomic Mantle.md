@@ -32,7 +32,9 @@ But, actually, the less "sparks" there are, the more refined the AA. This is the
 The APS is *not* just a supplement for the Stride. Its conception was caused *by* the Stride, but making it usable is not its sole purpose.
 
 - **Reallocated Defenses**: While it may seem like he has an FOURTH LAYER of Armor, it isn't. It's just his AA Neutralization sitting on top of his skin. The overall defensive capability of AA is just reallocated. Part of it remains inside his system, part of it now sits on his skin. 7 and 3 still make 10.
-- **External Allocation**:
+- **External Allocation**: This is the *other* ability of the Mantle. It's a "buffing ability," as they say. By imparting a *portion* of the Mantle itself onto an object or a person, he can grant them the same protection he would get from the defensive aspect of AA. 
+	- **Leverage Refinement**: His ability to infuse objects for leverage gets a QoL upgrade. Before, he would have to quickly calculate how much of his power is precisely needed in order to lift a massive object without inducing decay onto the object. He can instead use infuse a *portion* of the Mantle onto an object in order to lift it and living beings that might be within that object without worrying thye may get con. 
+		- 
 
 But the APS is *not* just a supplement for the Stride. It's his "buff" ability. With this, he can now safely touch someone and grant them the same protection. Because the APS "hovers" as a layer, it is like he is a bubble and he simply made you apart of his bigger bubble. This means his Leverage Infusion gets a boost, as a consequence! He can now safely touch someone or something at an increased threshold. Though, as with all of his abilities, crossing these thresholds still result in death to the victim.
 
