@@ -33,8 +33,8 @@ Aura has **no** additional effects beyond the natural properties and qualities a
 Aura ***cannot*** be completely repressed out of existence, but it can be consciously suppressed up to a certain, personal threshold.
 
 - **Baseline Emanation**: A Kráton always produces *traces* of their power, leaking from their body as Aura. 
-	- **Koinon Meekness**: This is a Koinon's *base state*, their power is innately quiet.
-	- **Krator Strength**: This is an *unnatural state* for a Krator, their power is innately tempestuous.
+	- **Koinon Advantage**: This is a Koinon's *base state*, their power is innately quiet.
+	- **Krator Caveat**: This is an *unnatural state* for a Krator, their power is innately tempestuous.
 	- **Unconscious Regulation**: The body's biological processes govern the regulation of the Aura's state.
 	- **Unconscious Repression & Fluctuation**: This baseline is repressed or expressed based on the Kráton's state of being.
 		- At rest, the body naturally represses the Aura to a lower, more efficient level: the Aura rests *with* the Kráton.

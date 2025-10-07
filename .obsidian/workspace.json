@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "38b1c9f082cfd129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/The Saga of the Fallen Star.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Saga of the Fallen Star"
+            }
+          },
+          {
             "id": "8dda671e4faa4490",
             "type": "leaf",
             "state": {
@@ -77,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "Aura Expansion"
-            }
-          },
-          {
-            "id": "38b1c9f082cfd129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Atomic Stride & Atomic Mantle"
             }
           }
         ],
@@ -349,11 +349,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "38b1c9f082cfd129",
+  "active": "8dda671e4faa4490",
   "lastOpenFiles": [
+    "Writing/ATM/The Saga of the Fallen Star.md",
+    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
-    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
     "Writing/ATM/Power Systems/Magic/The Compendium.md",
     "Writing/ATM/Power Systems/Magic/Overview of Magic.md",
@@ -365,7 +366,6 @@
     "Writing/ATM/ghidorah_complete_powers.md",
     "Writing/ATM/Clarifications on the Atomic Railgun.md",
     "Writing/ATM/The Uncanny Perfection.md",
-    "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/The Redemption of Ghidorah.md",
     "Writing/ATM/Characters/Titans/The Nordsons/leo_daily_life.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
