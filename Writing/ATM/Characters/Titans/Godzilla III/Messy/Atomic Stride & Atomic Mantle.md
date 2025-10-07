@@ -31,7 +31,8 @@ But, actually, the less "sparks" there are, the more refined the AA. This is the
 
 The APS is *not* just a supplement for the Stride. Its conception was caused *by* the Stride, but making it usable is not its sole purpose.
 
-- **Reallocated Defensive Ability**: While it may seem like he has an FOURTH LAYER of Armor, it isn't. It's just his AA Neutralization sitting on top of his skin. The overall defensive capability of AA is just moved from underneath the skin to on top of it.
+- **Reallocated Defenses**: While it may seem like he has an FOURTH LAYER of Armor, it isn't. It's just his AA Neutralization sitting on top of his skin. The overall defensive capability of AA is just reallocated. Part of it remains inside his system, part of it now sits on his skin. 7 and 3 still make 10.
+- **External Allocation**:
 
 But the APS is *not* just a supplement for the Stride. It's his "buff" ability. With this, he can now safely touch someone and grant them the same protection. Because the APS "hovers" as a layer, it is like he is a bubble and he simply made you apart of his bigger bubble. This means his Leverage Infusion gets a boost, as a consequence! He can now safely touch someone or something at an increased threshold. Though, as with all of his abilities, crossing these thresholds still result in death to the victim.
 
