@@ -17,7 +17,7 @@ Enter the Asymmetrical Permeable Shield or the APS.
 - **Visualization**: The reason why APS is the solution to the issues of the Atomic Stride is that I imagine it acting like a net. It *catches* everything that may *cause* a sonic boom: excess energy, displaced air, the minutest sound, and so on. 
 	- **Krátonic Perspective**: And by catching such artifacts, I meant it Neutralizes them. Whenever he does a Stride, it captures the shock wave as well as any other harmful artifacts at each stage of the ability.
 - **Radiation Buffer**: Another thing about the Atomic Stride: as with all of Godzilla's abilities, it is VERY radioactive. Besides the shock waves, it leaves lethal radiation everywhere. The APS also serves to contain this.
-	- **Caveat**: Being *within* the ability is safe, but *touching* it is not. This has practically no difference for Godzilla's daily life as he already has to contend with the fact that his mere presence is already radioactive.
+	- **Caveat**: Being *within* the APS is safe, but *touching* it is not. This has practically no difference for Godzilla's daily life as he already has to contend with the fact that his mere presence is already radioactive.
 
 ## Retrospective and Notes
 
@@ -31,3 +31,11 @@ With the advent of Atomic Stride, his innate mobility in a human body is *furthe
 - Among the Quintet (with Kong), he is now the fastest of the land walkers. 
 
 With the Atomic Stride, it might get it up to speed with his other stats!
+
+## Atomic Amplification Clarifications
+
+The ability does *not* exist as an external amplification. By its very principles, it is an *internal* enhancement. 
+
+Visually, if we imagine this is all animated: Godzilla's body glows blue, but the blue comes from *within*. Sparks of energy explode *out* from the body itself. 
+
+But, actually, the less "sparks" there are, the more refined the AA. This is the visual cue of mastery. The lightning, the sparks, these are all excess energy being unleashed by the body. So, while it is a spectacle to see it a la Super Saiyan, it's not actually the point. The more looks normal in AA, the more frightening it is.
