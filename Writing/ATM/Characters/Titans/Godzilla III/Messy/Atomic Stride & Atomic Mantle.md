@@ -33,24 +33,25 @@ The APS is *not* just a supplement for the Stride. Its conception was caused *by
 
 - **Reallocated Defenses**: While it may seem like he has an FOURTH LAYER of Armor, it isn't. It's just his AA Neutralization sitting on top of his skin. The overall defensive capability of AA is just reallocated. Part of it remains inside his system, part of it now sits on his skin. 7 and 3 still make 10.
 - **External Allocation**: This is the *other* ability of the Mantle. It's a "buffing ability," as they say. By imparting a *portion* of the Mantle itself onto an object or a person, he can grant them the same protection he would get from the defensive aspect of AA. 
-	- **Leverage Refinement**: His ability to infuse objects for leverage gets a QoL upgrade. Before, he would have to quickly calculate how much of his power is precisely needed in order to lift a massive object without inducing decay onto the object. He can instead use infuse a *portion* of the Mantle onto an object in order to lift it and living beings that might be within that object without worrying thye may get con. 
-		- 
+	- **Leverage Refinement**: His ability to infuse objects for leverage gets a QoL upgrade. Before, he would have to quickly calculate how much of his power is precisely needed in order to lift a massive object without inducing decay onto the object. He can instead use infuse a *portion* of the Mantle onto an object in order to lift it and living beings that might be within that object without worrying about radiation contamination. 
+		- **Caveat**: This does *not* remove the danger of radiation contamination. It only *increases* the threshold before the ability becoming unsafe.
+- **The Zenith of a Pure _Titanus gojira_'s External Energy Manipulation**: The Atomic Mantle is the utmost limit of his, and any other pure gojira like Dagon, external manipulation. It brings one of the major motifs of this specific Titan species' to full circle. The protection of territories, whether external for males and internal for females, is the basest instinct of a *Titanus gojira*, hence why it's called the Atomic Mantle! (Hey, that's the name! Now I don't have to rely on a stark reference).
+- **A Homage to the Woman of his Life**: This application of the Atomic Mantle is similar to Mothra's own application of her mosura scales. She can either protect people telekinetically or through manipulating her scales to act as an impenetrable, reflective barrier against attacks. 
+	- **The Poetry**: Oh, the poetry of it all! Just as Godric has begun to truly be in love with Maria, he develops an ability honoring her. 
 
-But the APS is *not* just a supplement for the Stride. It's his "buff" ability. With this, he can now safely touch someone and grant them the same protection. Because the APS "hovers" as a layer, it is like he is a bubble and he simply made you apart of his bigger bubble. This means his Leverage Infusion gets a boost, as a consequence! He can now safely touch someone or something at an increased threshold. Though, as with all of his abilities, crossing these thresholds still result in death to the victim.
-
-It's the *utmost* limit of his external energy manipulation. That's it, that's the zenith of a pure Titanus gojira in that form of application, ultimately bringing one of their major themes to full circle: the protection of their territories, whether the external world or the internal world. It's his Mantle. Hey, there we go: Atomic Mantle (now I don't have to rely on the acronym)
-
-It *is* a homage to the way a Titanus mosura uses their scales. And it's quite poetic, just as Godric began to truly be in love with Maria, he develops an ability honoring her. 
+### The Capstone of Atomic Amplification
 
 It is now complete, each of his abilities have a source that is from his closest friends:
 
 - The damage absorption of Anguirus and the martial prowess of Kong (AA)
 - The speed of Rodan and the scales of Mothra and Battra (Stride and APS)
-- Battra as the one who pushed him to instinctually unlock all of this. 
+- Battra as the one who pushed him to unlock all of this via instinct. 
 
-Notice how AA was developed before Battra, while Stride and Mantle was developed after their fight. Yet, all of them where used in the fight anyway. Battra was the great unlocker, pushing him to his utmost potential. The period after it is him chasing that high.
+Notice how AA was developed *before* Battra while Stride and Mantle was developed *after* their fight. Yet, **all** of them where used in the fight anyway. Battra was the one being who pushed him in his human body to discover his utmost potential. The period after it is him chasing that high.
+ 
+You can say that the Mantle is foreshadowing of his Horme evolving, from survival of himself to survival of his family.
 
-You can say that the Mantle is a foreshadowing of his Horme evolving, from survival of himself to survival of his family. Oh wow, I didn't expect that!
+*Oh wow, I didn't expect any of this!*
 
 ## Retrospective and Notes
 
