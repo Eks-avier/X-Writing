@@ -15,6 +15,7 @@
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
   "disableSuggestionsInMathBlock": true,
+  "disableSuggestionsInCodeBlock": false,
   "insertSpaceAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
   "patternsToSuppressTrigger": [
@@ -31,7 +32,7 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Tab",
+        "key": "Enter",
         "hideHotkeyGuide": false
       }
     ],
@@ -49,15 +50,87 @@
         "key": "ArrowDown"
       }
     ],
-    "select 1st": [],
-    "select 2nd": [],
-    "select 3rd": [],
-    "select 4th": [],
-    "select 5th": [],
-    "select 6th": [],
-    "select 7th": [],
-    "select 8th": [],
-    "select 9th": [],
+    "select 1st": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "1",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 2nd": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "2",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 3rd": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "3",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 4th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "4",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 5th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "5",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 6th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "6",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 7th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "7",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 8th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "8",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select 9th": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "9",
+        "hideHotkeyGuide": false
+      }
+    ],
     "open": [],
     "completion": [],
     "insert as text": []
