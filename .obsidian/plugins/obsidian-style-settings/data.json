@@ -16,7 +16,7 @@
   "primary-theme@@interface_editor-bg": "editor-bg-default",
   "primary-theme@@ribbon_styles": "ribbon-default",
   "primary-theme@@ribbon-icon": 20,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
   "Appearance-dark@@card-layout-open-dark": true,
   "Editor@@h1-divider-on": true,
   "minimal-advanced@@animations": "fast-animations",

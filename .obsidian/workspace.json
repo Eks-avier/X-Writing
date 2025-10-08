@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -351,8 +350,10 @@
   },
   "active": "8dda671e4faa4490",
   "lastOpenFiles": [
-    "Writing/ATM/The Saga of the Fallen Star.md",
+    "Journal/German/8-.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
+    "Journal/German",
+    "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
@@ -385,8 +386,6 @@
     "Untitled.md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
     "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/bulwark_magical_infrastructure.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Arc Files/Unconfirmed 329576.crdownload",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
