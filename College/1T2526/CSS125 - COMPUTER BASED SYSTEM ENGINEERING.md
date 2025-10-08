@@ -109,4 +109,18 @@
 ### HUMAN AND ORGANIZATIONAL FACTORS
 
 - **Process Changes**: "Does the system require changes to the work processes in the environment?"
-- **Job Changes**
+- **Job Changes**: "Does the system deskill the users in an environment or cause them to change the way they work?"
+- **Organizational Changes**: Does the system change the political power structure in an organization?
+
+### THE SYSTEM ENGINEERING PROCESS
+
+- Usually follows a **waterfall** model because of the need of parallel development of different parts of the system?
+	- Little scope for iterations between phases because hardware changes are very expensive. Software may have to compensate for hardware problems.
+- Inevitably involves engineers from different disciplines who must work together.
+	- Much scope for misunderstanding here. Different disciplines use a different vocabulary and much negotiation is required. Engineers may have personal agendas to fulfill!
+
+```mermaid
+flowchart LR
+	A[Requirements Definition] -> B[System Design] 
+	B -> C[Subsystem Design] 
+```
