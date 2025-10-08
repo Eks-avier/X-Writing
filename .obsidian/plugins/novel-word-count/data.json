@@ -9410,6 +9410,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 187,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759932636070,
+      "modifiedDate": 1759932936045,
+      "sizeInBytes": 220,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }

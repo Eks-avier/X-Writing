@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/German Vocabulary Template.md",
+                "file": "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "German Vocabulary Template"
+              "title": "CSS125 - COMPUTER BASED SYSTEM ENGINEERING"
             }
           }
         ],
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -348,11 +349,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "8dda671e4faa4490",
   "lastOpenFiles": [
+    "_Templates/German Vocabulary Template.md",
+    "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
     "Journal/Untitle",
     "Journal/German/10-08-2025.md",
-    "_Templates/German Vocabulary Template.md",
     "Journal/German/Untitled.md",
     "_Templates/Magic System - Core Concepts.md",
     "_Templates/Character References Template.md",
@@ -385,7 +387,6 @@
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons",
     "Writing/ATM/Characters/Titans/New folder",
-    "~syncthing~Aura Expansion.md.tmp",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
