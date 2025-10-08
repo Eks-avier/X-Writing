@@ -69,5 +69,44 @@
 ### INFLUENCES ON RELIABILITY
 
 - **Hardware Reliability**: "What is the probability of a hardware component failing and how long does it take to repair that component." 
-- **Software Reliability**: "How likely is it that a software component will produce an incorrect output. "
-- **Operator Reliability**:
+- **Software Reliability**: "How likely is it that a software component will produce an incorrect output?"
+	- Software failure is usually distinct from hardware failure in that the former does not wear out.
+- **Operator Reliability**: "How likely is it that the operator of a system will make an error?"
+
+### RELIABILITY RELATIONSHIPS
+
+- Hardware failure can generate spurious signals that are outside the range of inputs expected by the software.
+- Software errors can cause alarms to be activated which cause operator stress and lead to operator errors.
+- The environment in which a system is installed can affect its reliability.
+
+### THE 'SHALL-NOT' PROPERTIES
+
+- Performance and reliability can be measured as properties.
+- However, some properties should not exhibit:
+	- **Unsafety**: Systems are expected not to behave unsafely.
+	- **Insecure**: Systems are expected not to permit unauthorized use.
+- Measuring or assessing these properties is *very* hard.
+
+## SYSTEMS AND THEIR Environment
+
+- Systems are **not** independent but exist in an *environment*.
+- A system's function may be to change its environment.
+- The environment affects the functioning of the system, e.g., a system may require electrical supply from its environment.
+- The organizational and physical environment may be important.
+
+## SYSTEM HIERARCHIES.
+
+1. A town encompasses a street.
+2. A street has a building.
+3. A building has the following systems:
+	1. Heating system
+	2. Power system
+	3. Security system
+	4. Lighting system
+	5. Water system
+	6. Waste system
+
+### HUMAN AND ORGANIZATIONAL FACTORS
+
+- **Process Changes**: "Does the system require changes to the work processes in the environment?"
+- **Job Changes**
