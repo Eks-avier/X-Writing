@@ -9410,33 +9410,6 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
-    },
-    "Journal/German/10-08-2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 154,
-      "nonWhitespaceCharacterCount": 90,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759911367188,
-      "modifiedDate": 1759912135348,
-      "sizeInBytes": 154,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
     }
   }
 }

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/German/10-08-2025.md",
+                "file": "_Templates/German Vocabulary Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10-08-2025"
+              "title": "German Vocabulary Template"
             }
           }
         ],
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -349,10 +348,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8dda671e4faa4490",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
-    "_Templates/German Vocabulary Template.md",
+    "Journal/Untitle",
     "Journal/German/10-08-2025.md",
+    "_Templates/German Vocabulary Template.md",
     "Journal/German/Untitled.md",
     "_Templates/Magic System - Core Concepts.md",
     "_Templates/Character References Template.md",
@@ -382,7 +382,6 @@
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 454625.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/nordson_family_dynamics.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 245228.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/nordson_twins_profile.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons",
     "Writing/ATM/Characters/Titans/New folder",
