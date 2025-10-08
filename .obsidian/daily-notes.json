@@ -1,3 +1,5 @@
 {
-  "template": ""
+  "template": "_Templates/German Vocabulary Template",
+  "folder": "Journal/German",
+  "format": "MM-DD-YYYY"
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "10-08-2025",
+      "path": "Journal/German/10-08-2025.md"
+    },
+    {
+      "basename": "German Vocabulary Template",
+      "path": "_Templates/German Vocabulary Template.md"
+    },
+    {
+      "basename": "Magic System - Core Concepts",
+      "path": "_Templates/Magic System - Core Concepts.md"
+    },
+    {
+      "basename": "Character References Template",
+      "path": "_Templates/Character References Template.md"
+    },
+    {
       "basename": "Aura Expansion",
       "path": "Writing/ATM/Power Systems/Aura Expansion.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "Unrefined - Time Manipulation ",
       "path": "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md"
-    },
-    {
-      "basename": "Architecture of Spell Casting",
-      "path": "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md"
-    },
-    {
-      "basename": "Krátos (English)",
-      "path": "Writing/ATM/Canvases/Krátos (English).canvas"
-    },
-    {
-      "basename": "Sorcery Redefined",
-      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     }
   ],
   "omittedPaths": [],

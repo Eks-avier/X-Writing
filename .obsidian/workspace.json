@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Aura Expansion.md",
+                "file": "Journal/German/10-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aura Expansion"
+              "title": "10-08-2025"
             }
           }
         ],
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -350,8 +351,13 @@
   },
   "active": "8dda671e4faa4490",
   "lastOpenFiles": [
-    "Journal/German/8-.md",
+    "_Templates/German Vocabulary Template.md",
+    "Journal/German/10-08-2025.md",
+    "Journal/German/Untitled.md",
+    "_Templates/Magic System - Core Concepts.md",
+    "_Templates/Character References Template.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
+    "Journal/German/8-.md",
     "Journal/German",
     "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
@@ -380,12 +386,7 @@
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons",
     "Writing/ATM/Characters/Titans/New folder",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
-    "Writing/ATM/Ghidorah, The Three-Who-Are-One.md",
     "~syncthing~Aura Expansion.md.tmp",
-    "Untitled.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 3).md",
-    "Writing/ATM/Power Systems/Krátos/Krátos (draft 2).md",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
