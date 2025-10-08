@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "CSS125 - COMPUTER BASED SYSTEM ENGINEERING"
             }
+          },
+          {
+            "id": "c0cc3a72237fb767",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-08 23.08.09.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -346,13 +358,16 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8dda671e4faa4490",
+  "active": "c0cc3a72237fb767",
   "lastOpenFiles": [
-    "_Templates/German Vocabulary Template.md",
     "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
+    "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md",
+    "Writing/ATM/The Saga of the Fallen Star.md",
+    "_Templates/German Vocabulary Template.md",
     "Journal/Untitle",
     "Journal/German/10-08-2025.md",
     "Journal/German/Untitled.md",
@@ -361,7 +376,6 @@
     "Writing/ATM/Power Systems/Aura Expansion.md",
     "Journal/German/8-.md",
     "Journal/German",
-    "Writing/ATM/The Saga of the Fallen Star.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
@@ -382,7 +396,6 @@
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/world_dynamics_pacific_rim_era.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 454625.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/nordson_family_dynamics.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 245228.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons",

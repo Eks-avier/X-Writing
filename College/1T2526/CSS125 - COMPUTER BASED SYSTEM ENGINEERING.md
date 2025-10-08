@@ -119,8 +119,3 @@
 - Inevitably involves engineers from different disciplines who must work together.
 	- Much scope for misunderstanding here. Different disciplines use a different vocabulary and much negotiation is required. Engineers may have personal agendas to fulfill!
 
-```mermaid
-flowchart LR
-	A[Requirements Definition] -> B[System Design] 
-	B -> C[Subsystem Design] 
-```
