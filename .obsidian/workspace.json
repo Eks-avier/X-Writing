@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Atomic Amplification"
             }
+          },
+          {
+            "id": "7416eafb794201ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Power Systems/Aura Expansion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aura Expansion"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,13 +346,14 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "d0d66a88d5d5f601",
+  "active": "7416eafb794201ca",
   "lastOpenFiles": [
-    "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification.md",
+    "Writing/ATM/Power Systems/Aura Expansion.md",
     "The Antitheriomorphosis AU.txt",
     "Unconfirmed 241275.crdownload",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",

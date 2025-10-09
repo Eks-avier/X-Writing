@@ -2,7 +2,7 @@
 
 ## Aura of the Kráton
 
-* **Definition**: The passive emission of a Kráton's Manifestation, flowing forth from his body and into the world.
+* **Definition**: The *passive* emission of a Kráton's Manifestation, flowing forth from the body and into the world.
 * **Function**: It is the territory on which a Kráton freely exerts his influence.
 * **Shape**: It manifests as spherical field with a measurable radius.
 
