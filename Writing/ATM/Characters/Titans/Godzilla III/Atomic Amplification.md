@@ -4,6 +4,6 @@
 
 ## Atomic Stride
 
-### Atomic Phasing
+### Phasing Stride
 
 ## Atomic Mantle
