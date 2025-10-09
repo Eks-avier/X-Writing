@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "38b1c9f082cfd129",
+            "id": "d0d66a88d5d5f601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/The Saga of the Fallen Star.md",
+                "file": "Writing/ATM/Power Systems/Aura Expansion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,47 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Saga of the Fallen Star"
-            }
-          },
-          {
-            "id": "8dda671e4faa4490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS125 - COMPUTER BASED SYSTEM ENGINEERING"
-            }
-          },
-          {
-            "id": "c0cc3a72237fb767",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-08 23.08.09.excalidraw"
+              "title": "Aura Expansion"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -362,10 +326,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8dda671e4faa4490",
+  "active": "d0d66a88d5d5f601",
   "lastOpenFiles": [
-    "Writing/ATM/The Saga of the Fallen Star.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md",
+    "Writing/ATM/The Saga of the Fallen Star.md",
     "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
     "_Templates/German Vocabulary Template.md",
     "Journal/Untitle",
@@ -394,7 +359,6 @@
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/junior_daily_life.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/world_dynamics_pacific_rim_era.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 454625.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 245228.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",

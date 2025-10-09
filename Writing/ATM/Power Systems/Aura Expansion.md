@@ -32,19 +32,20 @@ Aura has **no** additional effects beyond the natural properties and qualities a
 
 Aura ***cannot*** be completely repressed out of existence, but it can be consciously suppressed up to a certain, personal threshold.
 
-- **Baseline Emanation**: A Kráton always produces *traces* of their power, leaking from their body as Aura. 
-	- **Koinon Advantage**: This is a Koinon's *base state*, their power is innately quiet.
-	- **Krator Caveat**: This is an *unnatural state* for a Krator, their power is innately tempestuous.
-	- **Unconscious Regulation**: The body's biological processes govern the regulation of the Aura's state.
-	- **Unconscious Repression & Fluctuation**: This baseline is repressed or expressed based on the Kráton's state of being.
-		- At rest, the body naturally represses the Aura to a lower, more efficient level: the Aura rests *with* the Kráton.
-		- When stressed or agitated, the body unconsciously expresses it more strongly, and sometimes even visibly, causing the Aura to intensify without conscious intent.
-- **Conscious Modulation**: This is the willful act of controlling the Aura's output, overriding its natural baseline. 
-	- **Dependence**: It is primarily dependent on *Physical Fitness* and *Mental State*, but *Physical Constitution* can influence one's baseline capacity to suppress it.
-	- **Learnable**: The act of ***Suppression*** is a skill either type of Kráton can learn to consciously force their Aura's output below its natural resting baseline.
-	- **Limited**: A Kráton can only suppress their Aura to a certain threshold, determined by the Aura Dependencies; it ***cannot*** be forced to disappear.
-	- **Koinon Ease**: For Koinon, suppressing one's Aura is a trivial skill, as their baseline emanation already puts their Aura in a state of suppression.
-	- **Krator Challenge**: For Krator, maintaining a suppressed state requires constant, active concentration, draining tremendous stamina, especially when first utilizing the skill. 
+* **Baseline Emanation**: A Kráton always produces *traces* of their power, leaking from their body as Aura.
+	* **Koinon Advantage**: This is a Koinon's *base state*, their power is innately quiet.
+	* **Krator Disadvantage**: This is an *unnatural state* for a Krator, their power is innately tempestuous.
+	* **Unconscious Regulation**: The body's biological processes govern the regulation of the Aura's state.
+	* **Unconscious Repression & Fluctuation**: This baseline is repressed or expressed based on the Kráton's state of being.
+		* At rest, the body naturally represses the Aura to a lower, more efficient level: the Aura rests *with* the Kráton.
+		* When stressed or agitated, the body unconsciously expresses it more strongly, and sometimes even visibly, causing the Aura to intensify without conscious intent.
+* **Conscious Modulation**: This is the willful act of controlling the Aura's output, overriding its natural baseline.
+	* **Dependence**: It is primarily dependent on *Physical Fitness* and *Mental State*, but *Physical Constitution* can influence one's baseline capacity to suppress it.
+	* **Learnable**: The act of ***Suppression*** is a skill either type of Kráton can learn to consciously force their Aura's output below its natural resting baseline.
+	* **Limited**: A Kráton can only suppress their Aura to a certain threshold, determined by the Aura Dependencies; it ***cannot*** be forced to disappear.
+	* **Koinon Ease**: For Koinon, suppressing one's Aura is a trivial skill, as their baseline emanation already puts their Aura in a state of suppression.
+	* **Krator Challenge**: For Krator, maintaining a suppressed state requires constant, active concentration, draining tremendous stamina, especially when first utilizing the skill.
+
 ### Benefits
 
 * **Sensory Extension**: Because Aura saturates the environment with Krátonic Manifestation, it can serve as an *extension* of a Kráton's ***pre-existing biological senses***, providing them with either increased coverage or resolution—or both.

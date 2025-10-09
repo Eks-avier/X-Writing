@@ -10,7 +10,7 @@
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-highlight-border": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-plus",
   "primary-theme@@interface_editor-bg": "editor-bg-default",
@@ -30,5 +30,7 @@
   "primary-theme@@h1-text-align": "center",
   "primary-theme@@colorful-folders_background": false,
   "primary-theme@@font-ui-smallest": 12,
-  "Editor@@collapse-icon-restore": true
+  "Editor@@collapse-icon-restore": true,
+  "things-style@@default-font-color": true,
+  "shimmering-focus@@alt-colorschemes": "colorscheme-everforest"
 }
