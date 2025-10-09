@@ -228,7 +228,7 @@ Even without accessing his energy manipulation powers, Godzilla possesses extrao
 A high-speed movement technique currently being perfected:
 
 - **Mechanics**: Near-instantaneous movement between points A and B using atomic energy
-- **Requirements**: [[Atomic Amplification|Amplification]] at around half-strength
+- **Requirements**: [[Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification|Amplification]] at around half-strength
 - **Process**: Additional energy pumped into legs to enable movement
 - **Current Issues**:
     1. **Triplet Shockwaves** - Three destructive energy releases during process

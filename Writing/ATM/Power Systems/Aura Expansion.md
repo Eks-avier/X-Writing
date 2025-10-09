@@ -15,7 +15,7 @@
 2. Mental State
 	1. Willpower
 	2. Emotional State
-3. Physical Vessel
+3. Physical Fitness
 
 ### Aura Qualities
 

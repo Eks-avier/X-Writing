@@ -3368,16 +3368,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 13.053333333333333,
-      "characterCount": 27363,
-      "nonWhitespaceCharacterCount": 22241,
+      "characterCount": 27364,
+      "nonWhitespaceCharacterCount": 22242,
       "newlineCount": 353,
       "readingTimeInMinutes": 14.777358490566037,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1757159151480,
-      "modifiedDate": 1760019263492,
-      "sizeInBytes": 27494,
+      "modifiedDate": 1760019958617,
+      "sizeInBytes": 27495,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 13.053333333333333,
@@ -9473,6 +9473,33 @@
         "characterCount": 382236,
         "nonWhitespaceCharacterCount": 318054,
         "newlineCount": 6763
+      }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1760020326933,
+      "modifiedDate": 1760020326933,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

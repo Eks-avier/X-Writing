@@ -6,7 +6,7 @@ Its goal is simple: to take myself from point A to point B near instantaneously.
 
 ## Proposed Mechanics
 
-1. I activate [[Atomic Amplification|Amplification]] at around half-strength.
+1. I activate [[Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification|Amplification]] at around half-strength.
 	- As my proficiency with this skill increases, my Amplification output requirement should lower.
 	- The goal is much the same as my Amplification, it will consume less energy to activate.
 2. I pump additional energy into my legs to make the movement possible.
@@ -35,7 +35,7 @@ Due to the near instantaneous nature of this ability, all three shock waves seem
 #### Sources
 
 1. The first shock wave is likely due to the sudden enhancement in amplified leg muscle groups.
-	- The boost to my enhanced legs is far too sudden! This mirrors my first issue with [[Atomic Amplification|Amplification]], wherein I kept focusing on boosting my legs at an instantaneous point in time—I must search for a holistic and uniform approach!
+	- The boost to my enhanced legs is far too sudden! This mirrors my first issue with [[Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Amplification|Amplification]], wherein I kept focusing on boosting my legs at an instantaneous point in time—I must search for a holistic and uniform approach!
 		- This should be the easiest to resolve.
 2. The second is due to the powerful launch from point A
 3. The third is his due to the sudden arrival at point B, if I landed on it.
