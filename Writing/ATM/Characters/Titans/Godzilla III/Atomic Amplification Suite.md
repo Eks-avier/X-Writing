@@ -1,4 +1,4 @@
-# Atomic Amplification
+# Atomic Amplification Suite
 
 ## Atomic Railgun
 

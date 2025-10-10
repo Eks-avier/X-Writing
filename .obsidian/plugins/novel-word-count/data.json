@@ -5995,33 +5995,6 @@
         "newlineCount": 147
       }
     },
-    "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 96,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1760020326933,
-      "modifiedDate": 1760022367896,
-      "sizeInBytes": 118,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 118,
-        "nonWhitespaceCharacterCount": 96,
-        "newlineCount": 11
-      }
-    },
     "Writing/ATM/Characters/Titans/Godzilla III/Nordson - Hair Grooming Journey.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -9490,6 +9463,33 @@
         "characterCount": 1441,
         "nonWhitespaceCharacterCount": 1222,
         "newlineCount": 31
+      }
+    },
+    "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification Suite.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 101,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1760020326933,
+      "modifiedDate": 1760085151886,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
