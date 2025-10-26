@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6af04bc7081825",
+        "id": "a89dd0ba418545c4",
         "type": "tabs",
         "children": [
           {
-            "id": "f99e82848841319f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Writing/ATM/Canvases/Krátos (Greek).canvas",
-                "viewState": {
-                  "x": -2821.4815397327284,
-                  "y": -6564.984105752358,
-                  "zoom": -1.5842587620176074
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Krátos (Greek)"
-            }
-          },
-          {
-            "id": "00ac6324e41dbeea",
+            "id": "c8de9b9a0506e939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md",
+                "file": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Psionic and Sorcery Divisions"
+              "title": "The Fishing Family Arc - Godric's Foundation"
+            }
+          },
+          {
+            "id": "84683d7a1174a167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Story Arcs/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -208,7 +215,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "Aura Expansion.md"
+            "file": "Writing/ATM/Story Arcs/Untitled.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -230,8 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00ac6324e41dbeea",
+  "active": "84683d7a1174a167",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md",
+    "Writing/ATM/Story Arcs/Untitled.md",
+    "Writing/ATM/Power Systems/Aura Expansion.md",
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md",
     "Writing/ATM/Titans/Species/Titanus Mosura/The Divine Soul of the Heavenly Instance.md",
     "Writing/ATM/Titans/Species/Titanus Mosura/The Scales of 'Titanus mosura'.md",
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
@@ -239,7 +251,6 @@
     "Writing/ATM/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
     "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
     "Writing/ATM/Story Arcs/complete-arc-structure.md",
-    "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
@@ -257,14 +268,10 @@
     "Writing/ATM/Antitheriomorphosis.md",
     "Writing/ATM/Magic System/The Fourfold Doctrine/Art of Spell Casting.md",
     "Spending.md",
-    "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md",
     "Writing/ATM/Characters/Titans/Rodan, the Lord of the Skies.md",
     "Writing/ATM/Characters/Titans/Anguirus, the Stalwart Vanguard.md",
     "Writing/ATM/Unrefined/The Hands of the King.md",
     "Journal/Happy Birthday, Dandan.md",
-    "Writing/ATM/Characters/Titans/Biollante, the Rose of the North.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "Writing/ATM/Titans/Hierarchy/Protocols of the Titan Hierarchy.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",

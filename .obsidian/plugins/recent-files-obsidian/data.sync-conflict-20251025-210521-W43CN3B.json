@@ -5,16 +5,44 @@
       "path": "Writing/ATM/Power Systems/Aura Expansion.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Writing/ATM/Story Arcs/Untitled.md"
+      "basename": "Atomic Amplification Suite",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification Suite.md"
     },
     {
-      "basename": "The Fishing Family Arc - Godric's Foundation",
-      "path": "Writing/ATM/Story Arcs/The Fishing Family Arc - Godric's Foundation.md"
+      "basename": "Krátos, the Power of Will",
+      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
     {
-      "basename": "Krátos (Greek)",
-      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
+      "basename": "Drawing 2025-10-08 23.08.09.excalidraw",
+      "path": "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md"
+    },
+    {
+      "basename": "The Saga of the Fallen Star",
+      "path": "Writing/ATM/The Saga of the Fallen Star.md"
+    },
+    {
+      "basename": "CSS125 - COMPUTER BASED SYSTEM ENGINEERING",
+      "path": "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md"
+    },
+    {
+      "basename": "German Vocabulary Template",
+      "path": "_Templates/German Vocabulary Template.md"
+    },
+    {
+      "basename": "Magic System - Core Concepts",
+      "path": "_Templates/Magic System - Core Concepts.md"
+    },
+    {
+      "basename": "Character References Template",
+      "path": "_Templates/Character References Template.md"
+    },
+    {
+      "basename": "Atomic Stride & Atomic Mantle",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md"
+    },
+    {
+      "basename": "Domination of Energy - Narrative Sidepiece",
+      "path": "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md"
     },
     {
       "basename": "The Psionic and Sorcery Divisions",
@@ -35,10 +63,6 @@
     {
       "basename": "Battra, the Lord of the Mystic Arts",
       "path": "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md"
-    },
-    {
-      "basename": "Domination of Energy - Narrative Sidepiece",
-      "path": "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md"
     },
     {
       "basename": "The Compendium",
@@ -73,10 +97,6 @@
       "path": "Writing/ATM/The Uncanny Perfection.md"
     },
     {
-      "basename": "The Saga of the Fallen Star",
-      "path": "Writing/ATM/The Saga of the Fallen Star.md"
-    },
-    {
       "basename": "The Redemption of Ghidorah",
       "path": "Writing/ATM/The Redemption of Ghidorah.md"
     },
@@ -95,10 +115,6 @@
     {
       "basename": "complete-arc-structure",
       "path": "Writing/ATM/Story Arcs/complete-arc-structure.md"
-    },
-    {
-      "basename": "Krátos, the Power of Will",
-      "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
     {
       "basename": "Ghidorah, The Three-Who-Are-One",
@@ -123,6 +139,10 @@
     {
       "basename": "Notepad",
       "path": "Notepad.md"
+    },
+    {
+      "basename": "Krátos (Greek)",
+      "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
     },
     {
       "basename": "Krátos (Conqueror)",
@@ -179,26 +199,6 @@
     {
       "basename": "Antitheriomorphosis",
       "path": "Writing/ATM/Antitheriomorphosis.md"
-    },
-    {
-      "basename": "Krátos (Common)",
-      "path": "Writing/ATM/Canvases/Krátos (Common).canvas"
-    },
-    {
-      "basename": "Unrefined - Time Manipulation ",
-      "path": "Writing/ATM/Power Systems/Unrefined/Unrefined - Time Manipulation .md"
-    },
-    {
-      "basename": "Architecture of Spell Casting",
-      "path": "Writing/ATM/Power Systems/Magic/Architecture of Spell Casting.md"
-    },
-    {
-      "basename": "Krátos (English)",
-      "path": "Writing/ATM/Canvases/Krátos (English).canvas"
-    },
-    {
-      "basename": "Sorcery Redefined",
-      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     }
   ],
   "omittedPaths": [],
