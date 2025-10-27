@@ -2,7 +2,7 @@
 
 ## Atomic Amplification
 
-Upon activation, it provides an enhancement for Godric Nordson's physical body. 
+Upon activation, it enhances every facet of Godric Nordson's physical body. 
 
 ## Atomic Railgun
 
