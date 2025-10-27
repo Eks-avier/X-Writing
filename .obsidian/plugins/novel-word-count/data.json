@@ -9521,6 +9521,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "The Kratos of Kings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 499832,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1666.1066666666666,
+      "characterCount": 3656502,
+      "nonWhitespaceCharacterCount": 2933241,
+      "newlineCount": 24485,
+      "readingTimeInMinutes": 1886.0804528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761585844964,
+      "modifiedDate": 1761585845341,
+      "sizeInBytes": 3661082,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
