@@ -15480,7 +15480,7 @@ These are excellent refinements that add both logical consistency and narrative 
 
 ---
 
-## User
+## User - Footholds
 
 Finally, we previously mentioned that he learned how to make footholds to remain temporarily airborne. Here's how he achieves them:
 
