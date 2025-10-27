@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification Suite.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atomic Amplification Suite"
+              "title": "The Suite"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -346,13 +346,14 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7416eafb794201ca",
+  "active": "d0d66a88d5d5f601",
   "lastOpenFiles": [
-    "Writing/ATM/Characters/Titans/Godzilla III/Atomic Amplification Suite.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "The Antitheriomorphosis AU.txt",
     "Unconfirmed 241275.crdownload",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",

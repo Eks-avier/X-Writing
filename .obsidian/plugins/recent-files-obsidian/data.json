@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Suite",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md"
+    },
+    {
       "basename": "Aura Expansion",
       "path": "Writing/ATM/Power Systems/Aura Expansion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Krátos (English)",
       "path": "Writing/ATM/Canvases/Krátos (English).canvas"
-    },
-    {
-      "basename": "Sorcery Redefined",
-      "path": "Writing/ATM/Canvases/Sorcery Redefined.canvas"
     }
   ],
   "omittedPaths": [],
