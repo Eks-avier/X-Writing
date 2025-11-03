@@ -22,10 +22,21 @@ A near-instantaneous, linear burst of movement. When used in conjunction with th
 
 It is his primary mobility tool for closing distances or repositioning. 
 
-Crucially, it is **not** teleportation. It is simply direct, physical propulsion at an extreme speed. It can be 
+Crucially, it is **not** teleportation. It is simply direct, physical propulsion at an extreme speed. 
+
+It can be used in any direction in three dimensional space, though it is tactically limited by a short-to-medium range. 
 
 ### Phasing Stride
 
+A variant of the Atomic Stride that enables the ability to phase through solid objects in the path of the stride. 
+
+It must be utilized another ability, which is the Atomic Resonance. 
+
+By vibrating his physical body, he trades a portion of his Stride's maximum range for the ability to bypass physical barriers.
+
 ## Atomic Mantle
 
+By projecting outward a portion of his internal Neutralization property afforded to him by Amplification, he achieves a skin-tight layer of protection.
+
+The Mantle's primary purpose is to act as a silencer and brake for the Atomic Stride, neutralizing its destructive shockwaves and radiation byproducts. Its secondary purpose is to reallocate a portion of the Mantle to an ally or object, granting an external layer of protection to the target at the expense of the user's own protection.
 ## Atomic Resonance
