@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "The Suite"
             }
-          },
-          {
-            "id": "7416eafb794201ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatted - The Kratos of Kings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Formatted - The Kratos of Kings"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -346,13 +322,14 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7416eafb794201ca",
+  "active": "d0d66a88d5d5f601",
   "lastOpenFiles": [
-    "Formatted_With_Thoughts - The Kratos of Kings.md",
     "Formatted - The Kratos of Kings.md",
+    "Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "The Kratos of Kings.md",

@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-11-03T10:19:41.001Z",
+      "total": 0,
+      "drafts": {
+        "Writing/ATM/Chapters/The First Arc/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Devoured": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-10-27T17:41:52.612Z",
       "total": 0,
       "drafts": {
@@ -343,18 +355,6 @@
     },
     {
       "start": "2025-09-05T17:49:35.002Z",
-      "total": 0,
-      "drafts": {
-        "Writing/ATM/Chapters/The First Arc/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Devoured": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2025-09-03T16:16:16.842Z",
       "total": 0,
       "drafts": {
         "Writing/ATM/Chapters/The First Arc/Index.md": {

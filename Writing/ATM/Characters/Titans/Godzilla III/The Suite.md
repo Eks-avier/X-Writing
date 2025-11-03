@@ -2,7 +2,9 @@
 
 ## Atomic Amplification
 
-Upon activation, it enhances every facet of Godric Nordson's physical body. 
+Mechanically, is a uniform distribution of atomic energy throughout a iTitanus gojira
+
+Krátonically, it is a 
 
 ## Atomic Railgun
 
@@ -12,4 +14,4 @@ Upon activation, it enhances every facet of Godric Nordson's physical body.
 
 ## Atomic Mantle
 
-## Atomic Vibration
+## Atomic Resonance
