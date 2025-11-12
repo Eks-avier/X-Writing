@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "The Suite"
             }
+          },
+          {
+            "id": "9861d829bbbb661a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -325,7 +337,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0d66a88d5d5f601",
+  "active": "9861d829bbbb661a",
   "lastOpenFiles": [
     "Formatted - The Kratos of Kings.md",
     "Formatted_With_Thoughts - The Kratos of Kings.md",
