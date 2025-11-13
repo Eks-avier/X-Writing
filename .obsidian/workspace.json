@@ -18,81 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d5e03d693864c2c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "061da0d9587e5cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Krátos, the Power of Will"
-            }
-          },
-          {
-            "id": "d0d66a88d5d5f601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Suite"
-            }
-          },
-          {
-            "id": "9861d829bbbb661a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,19 +261,20 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "9861d829bbbb661a",
+  "active": "e9d7c27ff5418133",
   "lastOpenFiles": [
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
+    "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "Formatted - The Kratos of Kings.md",
     "Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
-    "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "The Kratos of Kings.md",
     "The Antitheriomorphosis AU.txt",
     "Unconfirmed 241275.crdownload",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Excalidraw/Drawing 2025-10-08 23.08.09.excalidraw.md",
     "Writing/ATM/The Saga of the Fallen Star.md",
     "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
