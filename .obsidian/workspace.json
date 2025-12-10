@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Godzilla Profile"
             }
-          },
-          {
-            "id": "9610a70f0475b136",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aura Expansion.md"
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Aura Expansion"
+              "title": "File properties for Godzilla Profile"
             }
           },
           {
@@ -184,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aura Expansion.md",
+                "file": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aura Expansion"
+              "title": "Outline of Godzilla Profile"
             }
           },
           {
@@ -251,7 +238,8 @@
               "title": "Strange New Worlds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6453194990327757",
@@ -262,7 +250,6 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -271,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,10 +272,11 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "9610a70f0475b136",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
