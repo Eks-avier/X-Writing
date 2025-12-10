@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,7 +277,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "acd4f89612315a6e",
+  "active": "0fcf13e04b186c62",
   "lastOpenFiles": [
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
