@@ -4,17 +4,17 @@
 
 - It is willpower made manifest.
 - Someone who wields Krátos does not *control* what their will manifests as, their will *literally* expresses itself *as* their will's manifestation.
-- There are no intermediaries in this system.
-	- Magic requires an interaction between the Primus Force and the Soul.
-	- Psionics requires an interaction between the Psiforce and a sentient being's biological brain
-	- Krátos demands from those capable of it *only* their willpower.
+- It does not possess an intermediary, unlike the other two power systems.
+	- Magic requires an interaction between the Primus Force and the Soul via Soul Infusion.
+	- Psionics requires an interaction between the Psiforce and a sentient being's biological brain. 
+	- Krátos demands, from those capable of it, *only* their willpower.
 
 ## Determinism in Krátos
 
 ### The Kráton and Akráton
 
 - Those who are capable of Krátos are called **Kráton**.
-- Those who are ***not*** capable are called **Akráton**.
+- Those who are ***not*** capable of Krátos are called **Akráton**.
 - One's classification in Krátos is *absolute* and *permanent*.
 	- A Kráton can *never* become an Akráton.
 		- It cannot be lost through any sort of disuse, injury, or disease and ailment.

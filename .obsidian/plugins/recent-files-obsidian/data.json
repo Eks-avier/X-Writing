@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "The Psionic and Sorcery Divisions",
+      "path": "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md"
+    },
+    {
+      "basename": "consolidated-titan-hierarchy",
+      "path": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md"
+    },
+    {
+      "basename": "Godzilla Profile",
+      "path": "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md"
+    },
+    {
       "basename": "Krátos, the Power of Will",
       "path": "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Krátos (Greek)",
       "path": "Writing/ATM/Canvases/Krátos (Greek).canvas"
-    },
-    {
-      "basename": "The Psionic and Sorcery Divisions",
-      "path": "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md"
     },
     {
       "basename": "The Divine Soul of the Heavenly Instance",
@@ -191,14 +199,6 @@
     {
       "basename": "Notepad 11",
       "path": "Notepad 11.md"
-    },
-    {
-      "basename": "Antitheriomorphosis",
-      "path": "Writing/ATM/Antitheriomorphosis.md"
-    },
-    {
-      "basename": "Krátos (Common)",
-      "path": "Writing/ATM/Canvases/Krátos (Common).canvas"
     }
   ],
   "omittedPaths": [],
