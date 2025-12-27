@@ -1,0 +1,1 @@
+- The key principle of Krátos: *Reality has no choice but to comply with a being of sufficient willpower.*
