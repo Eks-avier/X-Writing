@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Power Systems/Krátos/Raw, Manual, Comprehensive Exploration - Krátos.md",
+                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raw, Manual, Comprehensive Exploration - Krátos"
+              "title": "Formatted_With_Thoughts - The Saga of the Titanus gojira"
             }
           }
         ]
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -159,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Formatted_With_Thoughts - The Kratos of Kings.md"
+                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Formatted_With_Thoughts - The Kratos of Kings"
+              "title": "File properties for Formatted_With_Thoughts - The Saga of the Titanus gojira"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatted_With_Thoughts - The Kratos of Kings.md",
+                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formatted_With_Thoughts - The Kratos of Kings"
+              "title": "Outline of Formatted_With_Thoughts - The Saga of the Titanus gojira"
             }
           },
           {
@@ -238,7 +237,8 @@
               "title": "Strange New Worlds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6453194990327757",
@@ -249,7 +249,6 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -258,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,10 +274,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fcf13e04b186c62",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
-    "Writing/ATM/Power Systems/Krátos/Untitled 1.md",
+    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Power Systems/Krátos/Raw, Manual, Comprehensive Exploration - Krátos.md",
+    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
+    "Writing/ATM/Power Systems/Krátos/Untitled 1.md",
     "Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/ATM/Demotion of the Ol' Reliable.md",
     "Writing/ATM/Extracted from Gemini AI/Formatted - The Kratos of Kings.md",
@@ -288,7 +288,6 @@
     "Writing/ATM/New folder",
     "The Nordsons and Lepidiels.png",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
-    "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "Formatted - The Kratos of Kings.md",
     "Writing/ATM/Power Systems/Aura Expansion.md",
@@ -310,7 +309,6 @@
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
     "Writing/ATM/Power Systems/Magic/The Compendium.md",
-    "Writing/ATM/Power Systems/Magic/Overview of Magic.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
