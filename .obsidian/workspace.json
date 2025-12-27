@@ -11,24 +11,12 @@
             "id": "0fcf13e04b186c62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "The Nordsons and Lepidiels.png"
               },
-              "icon": "lucide-file",
-              "title": "Formatted_With_Thoughts - The Saga of the Titanus gojira"
+              "icon": "lucide-image",
+              "title": "The Nordsons and Lepidiels"
             }
           }
         ]
@@ -158,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md"
+                "file": "The Nordsons and Lepidiels.png"
               },
               "icon": "lucide-info",
-              "title": "File properties for Formatted_With_Thoughts - The Saga of the Titanus gojira"
+              "title": "File properties for The Nordsons and Lepidiels"
             }
           },
           {
@@ -170,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
+                "file": "The Nordsons and Lepidiels.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formatted_With_Thoughts - The Saga of the Titanus gojira"
+              "title": "Outline of The Nordsons and Lepidiels"
             }
           },
           {
@@ -274,19 +262,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "0fcf13e04b186c62",
   "lastOpenFiles": [
+    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
+    "The Nordsons and Lepidiels.png",
+    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
+    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md",
+    "Writing/ATM/Extracted from Gemini AI/Formatted - The Kratos of Kings.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Power Systems/Krátos/Raw, Manual, Comprehensive Exploration - Krátos.md",
-    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
     "Writing/ATM/Power Systems/Krátos/Untitled 1.md",
     "Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/ATM/Demotion of the Ol' Reliable.md",
-    "Writing/ATM/Extracted from Gemini AI/Formatted - The Kratos of Kings.md",
-    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/ATM/Extracted from Gemini AI",
     "Writing/ATM/New folder",
-    "The Nordsons and Lepidiels.png",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
     "Formatted - The Kratos of Kings.md",
@@ -308,7 +297,6 @@
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
-    "Writing/ATM/Power Systems/Magic/The Compendium.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",

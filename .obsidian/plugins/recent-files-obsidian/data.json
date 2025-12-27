@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "The Nordsons and Lepidiels",
+      "path": "The Nordsons and Lepidiels.png"
+    },
+    {
+      "basename": "The Nordsons and Lepidiels",
+      "path": "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas"
+    },
+    {
       "basename": "Formatted_With_Thoughts - The Saga of the Titanus gojira",
       "path": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md"
+    },
+    {
+      "basename": "Formatted_With_Thoughts - The Kratos of Kings",
+      "path": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md"
     },
     {
       "basename": "Krátos, the Power of Will",
@@ -187,18 +199,6 @@
     {
       "basename": "A Letter to My Sweetest Pookie",
       "path": "Journal/A Letter to My Sweetest Pookie.md"
-    },
-    {
-      "basename": "Happy Birthday, Dandan",
-      "path": "Journal/Happy Birthday, Dandan.md"
-    },
-    {
-      "basename": "To My Fellow Kupalords",
-      "path": "Journal/To My Fellow Kupalords.md"
-    },
-    {
-      "basename": "Notepad 11",
-      "path": "Notepad 11.md"
     }
   ],
   "omittedPaths": [],

@@ -7586,33 +7586,6 @@
         "newlineCount": 62
       }
     },
-    "Writing/ATM/Extracted from Gemini AI/Formatted - The Kratos of Kings.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 283167,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 943.89,
-      "characterCount": 1803668,
-      "nonWhitespaceCharacterCount": 1492122,
-      "newlineCount": 18851,
-      "readingTimeInMinutes": 1068.5227924528303,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1761587024259,
-      "modifiedDate": 1762165188817,
-      "sizeInBytes": 1806325,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 943.89,
-        "wordCount": 283167,
-        "characterCount": 1803668,
-        "nonWhitespaceCharacterCount": 1492122,
-        "newlineCount": 18851
-      }
-    },
     "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8092,16 +8065,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.08666666666666667,
-      "characterCount": 212,
-      "nonWhitespaceCharacterCount": 175,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 178,
       "newlineCount": 12,
       "readingTimeInMinutes": 0.09811320754716982,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744603157164,
-      "modifiedDate": 1755479487184,
-      "sizeInBytes": 4204,
+      "modifiedDate": 1766862849688,
+      "sizeInBytes": 4232,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08666666666666667,
@@ -8109,7 +8082,8 @@
         "characterCount": 212,
         "nonWhitespaceCharacterCount": 175,
         "newlineCount": 12
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/Canvases/Sorcery Redefined.canvas": {
       "isCountable": true,
@@ -9611,7 +9585,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1097.58,
-      "characterCount": 2111526,
+      "characterCount": 2088784,
       "nonWhitespaceCharacterCount": 1724401,
       "newlineCount": 22743,
       "readingTimeInMinutes": 1242.5150188679245,
@@ -9619,8 +9593,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1766862395229,
-      "modifiedDate": 1766862339740,
-      "sizeInBytes": 2114833,
+      "modifiedDate": 1766862746734,
+      "sizeInBytes": 2092091,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

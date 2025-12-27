@@ -83,31 +83,6 @@
 			"label":"Genetic Offspring"
 		},
 		{
-			"id":"0164b96d7c9d093a",
-			"styleAttributes":{},
-			"text":"# Mrs. Nordson",
-			"type":"text",
-			"x":442,
-			"y":-640,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"fa65586650f47ae2",
-			"styleAttributes":{
-				"border":null,
-				"shape":null,
-				"textAlign":null
-			},
-			"text":"# Darius Nordson",
-			"type":"text",
-			"x":180,
-			"y":-640,
-			"width":245,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"708a55fe5030eeb7",
 			"styleAttributes":{},
 			"text":"# Maria Lepidiel",
@@ -177,7 +152,7 @@
 			"type":"text",
 			"x":1418,
 			"y":-340,
-			"width":300,
+			"width":322,
 			"height":60,
 			"color":"6"
 		},
@@ -209,7 +184,7 @@
 			"type":"text",
 			"x":1089,
 			"y":-640,
-			"width":209,
+			"width":231,
 			"height":60
 		},
 		{
@@ -217,9 +192,34 @@
 			"styleAttributes":{},
 			"text":"# Mr. Lepidiel",
 			"type":"text",
-			"x":871,
+			"x":860,
 			"y":-640,
-			"width":203,
+			"width":214,
+			"height":60
+		},
+		{
+			"id":"fa65586650f47ae2",
+			"styleAttributes":{
+				"border":null,
+				"shape":null,
+				"textAlign":"center"
+			},
+			"text":"# Darius Nordson",
+			"type":"text",
+			"x":178,
+			"y":-640,
+			"width":245,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"0164b96d7c9d093a",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# Aurelia Nordson ",
+			"type":"text",
+			"x":443,
+			"y":-640,
+			"width":258,
 			"height":60
 		}
 	],
