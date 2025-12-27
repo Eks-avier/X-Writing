@@ -11,24 +11,10 @@
             "id": "0fcf13e04b186c62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatted_With_Thoughts - The Kratos of Kings.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Formatted_With_Thoughts - The Kratos of Kings"
+              "title": "New tab"
             }
           }
         ]
@@ -142,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 321
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -272,11 +257,18 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fcf13e04b186c62",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/ATM/Demotion of the Ol' Reliable.md",
+    "Writing/ATM/Extracted from Gemini AI/Formatted - The Kratos of Kings.md",
+    "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md",
+    "Writing/ATM/Extracted from Gemini AI",
+    "Writing/ATM/New folder",
+    "The Nordsons and Lepidiels.png",
     "Writing/ATM/Characters/Titans/Godzilla III/Godzilla Profile.md",
     "Writing/ATM/Power Systems/Krátos/Krátos, the Power of Will.md",
     "Writing/ATM/Characters/Titans/Godzilla III/The Suite.md",
@@ -305,14 +297,9 @@
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Unrefined/Domination of Energy - Profile.md",
     "Writing/ATM/The Pinnacle of Limitless Adaptation.md",
-    "Writing/ATM/The Fundamental Forces Theory.md",
-    "Writing/ATM/ghidorah_structural_analysis.md",
-    "Writing/ATM/ghidorah_complete_powers.md",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 454625.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 245228.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 683664.crdownload",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
