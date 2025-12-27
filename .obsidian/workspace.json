@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b24d89310c95c5e",
+        "id": "ff18126a61a4622e",
         "type": "tabs",
         "children": [
           {
-            "id": "0fcf13e04b186c62",
+            "id": "6679d468065eb4fa",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "The Nordsons and Lepidiels.png"
-              },
-              "icon": "lucide-image",
-              "title": "The Nordsons and Lepidiels"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -262,7 +260,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fcf13e04b186c62",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
