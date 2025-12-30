@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
+                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot Outline - Link Disconnected"
+              "title": "Concept - Edelweiss"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Nordsons and Lepidiels.png"
+                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Nordsons and Lepidiels"
+              "title": "File properties for Concept - Edelweiss"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
+                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Outline - Link Disconnected"
+              "title": "Outline of Concept - Edelweiss"
             }
           },
           {
@@ -247,8 +247,7 @@
               "title": "Strange New Worlds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6453194990327757",
@@ -284,8 +283,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "583a9ea860df181a",
+  "active": "a9441a9324b108e3",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/Plot Outline - Keystone Arc.md",
+    "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
@@ -318,7 +319,6 @@
     "Journal/German/8-.md",
     "Journal/German",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
-    "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
