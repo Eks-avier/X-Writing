@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ff18126a61a4622e",
+        "id": "0b13439f0c567dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "6679d468065eb4fa",
+            "id": "583a9ea860df181a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plot Outline - Link Disconnected"
             }
           }
         ]
@@ -156,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Plot Outline - Link Disconnected"
             }
           },
           {
@@ -221,6 +236,16 @@
               "icon": "lucide-ghost",
               "title": "Strange New Worlds"
             }
+          },
+          {
+            "id": "2e2f43827d8765b7",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
           }
         ],
         "currentTab": 1
@@ -234,9 +259,8 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ]
@@ -255,11 +279,14 @@
       "daily-notes:Open today's daily note": false,
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md",
@@ -291,7 +318,6 @@
     "Journal/German/8-.md",
     "Journal/German",
     "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
-    "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Characters/Titans/Battra, the Lord of the Mystic Arts.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
@@ -307,7 +333,6 @@
     "Writing/ATM/Canvases/Krátos (Greek).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
     "Writing/ATM/Canvases/Sorcery.canvas",
-    "Writing/ATM/Canvases/Krátos (Greek).sync-conflict-20250823-114848-W43CN3B.canvas",
     "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
     "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
   ]
