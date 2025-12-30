@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
+                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Concept - Edelweiss"
+              "title": "Concept - Moon River"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md"
+                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Concept - Edelweiss"
+              "title": "File properties for Concept - Moon River"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
+                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Concept - Edelweiss"
+              "title": "Outline of Concept - Moon River"
             }
           },
           {
@@ -283,8 +283,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a9441a9324b108e3",
+  "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
+    "Writing/ATM/Story Arcs/Concept - Moon River.md",
     "Writing/ATM/Story Arcs/Plot Outline - Keystone Arc.md",
     "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
     "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
@@ -316,9 +318,7 @@
     "Journal/German/Untitled.md",
     "_Templates/Magic System - Core Concepts.md",
     "_Templates/Character References Template.md",
-    "Journal/German/8-.md",
     "Journal/German",
-    "Writing/ATM/Characters/Titans/Godzilla III/Messy/Atomic Stride & Atomic Mantle.md",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
