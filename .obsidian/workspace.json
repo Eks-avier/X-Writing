@@ -86,8 +86,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           },
           {
@@ -96,8 +96,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -106,8 +106,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 442.5,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -250,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 270,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +265,8 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "583a9ea860df181a",
