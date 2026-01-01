@@ -1474,7 +1474,8 @@
         "characterCount": 182,
         "nonWhitespaceCharacterCount": 157,
         "newlineCount": 10
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/40 Reference/43 Canvases/Krátos (English).canvas": {
       "isCountable": true,
@@ -1501,7 +1502,8 @@
         "characterCount": 723,
         "nonWhitespaceCharacterCount": 599,
         "newlineCount": 51
-      }
+      },
+      "frontmatter": {}
     },
     "Writing/ATM/40 Reference/43 Canvases/Domination of Energy.canvas": {
       "isCountable": true,
