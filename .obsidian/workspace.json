@@ -11,10 +11,24 @@
             "id": "583a9ea860df181a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Expanded Titan Standing Hierarchy"
             }
           }
         ]
@@ -128,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5,
-    "collapsed": true
+    "width": 442.5
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -144,9 +157,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for The Expanded Titan Standing Hierarchy"
             }
           },
           {
@@ -271,6 +286,10 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/00 Wiki/Portal - Power Systems.md",
+    "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md",
+    "Writing/ATM/00 Wiki/Portal - Characters.md",
+    "Writing/Claude Conversations/Krátos Power System Development.md",
     "Writing/ATM/The Compendium.pdf",
     "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
     "Writing/ATM/Story Arcs/Concept - Moon River.md",
@@ -301,14 +320,10 @@
     "College/1T2526/CSS125 - COMPUTER BASED SYSTEM ENGINEERING.md",
     "_Templates/German Vocabulary Template.md",
     "Journal/Untitle",
-    "Journal/German/10-08-2025.md",
-    "Journal/German/Untitled.md",
-    "_Templates/Magic System - Core Concepts.md",
     "Journal/German",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 360641.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 454625.crdownload",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
