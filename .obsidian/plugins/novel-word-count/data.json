@@ -8381,33 +8381,6 @@
         "newlineCount": 33442
       }
     },
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the Titanus gojira.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 329274,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1097.58,
-      "characterCount": 2088784,
-      "nonWhitespaceCharacterCount": 1724401,
-      "newlineCount": 22743,
-      "readingTimeInMinutes": 1242.5150188679245,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1766862395229,
-      "modifiedDate": 1766862746734,
-      "sizeInBytes": 2092091,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1097.58,
-        "wordCount": 329274,
-        "characterCount": 2088784,
-        "nonWhitespaceCharacterCount": 1724401,
-        "newlineCount": 22743
-      }
-    },
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -8497,7 +8470,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1068.8633333333332,
-      "characterCount": 2070350,
+      "characterCount": 2048641,
       "nonWhitespaceCharacterCount": 1695438,
       "newlineCount": 21710,
       "readingTimeInMinutes": 1210.0020377358492,
@@ -8505,8 +8478,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767297552027,
-      "modifiedDate": 1767297552036,
-      "sizeInBytes": 2073447,
+      "modifiedDate": 1767299740523,
+      "sizeInBytes": 2051738,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1068.8633333333332,
@@ -8524,7 +8497,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1328.61,
-      "characterCount": 2594627,
+      "characterCount": 2567456,
       "nonWhitespaceCharacterCount": 2127568,
       "newlineCount": 27172,
       "readingTimeInMinutes": 1504.0477735849058,
@@ -8532,8 +8505,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767297567296,
-      "modifiedDate": 1767297567296,
-      "sizeInBytes": 2598527,
+      "modifiedDate": 1767299725370,
+      "sizeInBytes": 2571356,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1328.61,
