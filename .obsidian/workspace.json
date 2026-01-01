@@ -11,24 +11,10 @@
             "id": "583a9ea860df181a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Concept - Moon River"
+              "title": "New tab"
             }
           }
         ]
@@ -157,11 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Concept - Moon River"
+              "title": "File properties"
             }
           },
           {
@@ -279,7 +263,6 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
