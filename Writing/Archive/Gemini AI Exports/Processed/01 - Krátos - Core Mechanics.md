@@ -10,10 +10,10 @@ Krátos is the **ontological** power system—concerned with Being itself. Unlik
 
 ### The Two Practitioner Types
 
-| Type | Greek Term | Definition | Manifestation |
-|------|------------|------------|---------------|
-| **Koinon** | κοινός (Common) | Born with a fixed "Themelion" (Will + Resolve) | Stable, reliable, inherited |
-| **Krator/Krateira** | κράτωρ/κράτειρα (Conqueror) | Must discover their "Horme" (Desire) and achieve "Symphonia" (Alignment) | Volatile, powerful, earned |
+| Type                | Greek Term                  | Definition                                                               | Manifestation               |
+| ------------------- | --------------------------- | ------------------------------------------------------------------------ | --------------------------- |
+| **Koinon**          | κοινός (Common)             | Born with a fixed "Themelion" (Will + Resolve)                           | Stable, reliable, inherited |
+| **Krator/Krateira** | κράτωρ/κράτειρα (Conqueror) | Must discover their "Horme" (Desire) and achieve "Symphonia" (Alignment) | Volatile, powerful, earned  |
 
 **Plural Forms (Hellenic):**
 - Kráton → Kratones
