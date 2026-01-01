@@ -10027,6 +10027,87 @@
         "nonWhitespaceCharacterCount": 30,
         "newlineCount": 12
       }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/00 - The Three Power Systems - Overview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 807,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.69,
+      "characterCount": 6005,
+      "nonWhitespaceCharacterCount": 5016,
+      "newlineCount": 135,
+      "readingTimeInMinutes": 3.0452830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767303078482,
+      "modifiedDate": 1767303078483,
+      "sizeInBytes": 6026,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/01 - Krátos - Core Mechanics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 851,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8366666666666664,
+      "characterCount": 7385,
+      "nonWhitespaceCharacterCount": 6266,
+      "newlineCount": 202,
+      "readingTimeInMinutes": 3.211320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767303400391,
+      "modifiedDate": 1767303400405,
+      "sizeInBytes": 7485,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/02 - Psionics - Core Mechanics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 914,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.046666666666667,
+      "characterCount": 7920,
+      "nonWhitespaceCharacterCount": 6717,
+      "newlineCount": 243,
+      "readingTimeInMinutes": 3.449056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767303457303,
+      "modifiedDate": 1767303457303,
+      "sizeInBytes": 7936,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
