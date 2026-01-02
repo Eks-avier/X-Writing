@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Progress.md",
+                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Progress"
+              "title": "_MANIFESTO"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Progress.md"
+                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Progress"
+              "title": "File properties for _MANIFESTO"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Progress.md",
+                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Progress"
+              "title": "Outline of _MANIFESTO"
             }
           },
           {
@@ -288,9 +288,10 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Koinon vs Krator Progression Paths (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md",
-    "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/Mothra Telepathy Ethics (Eclipse-II-P005).md",
     "Writing/ATM/70 Extracted/Mothra and Battra Twin Symbology (Eclipse-II-P005).md",
     "Writing/ATM/70 Extracted/Magic Core Metaphor - Scholar Orator Showman (Eclipse-II-P005).md",
@@ -313,7 +314,6 @@
     "Writing/ATM/70 Extracted/Aura Energy Costs and Consequences (Eclipse-II-P004).md",
     "Writing/ATM/70 Extracted/Aura Definition and Latent Properties (Eclipse-II-P002).md",
     "Writing/ATM/70 Extracted/Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md",
-    "Writing/ATM/70 Extracted/_Branch_Map.md",
     "Writing/ATM/70 Extracted",
     "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
     "Writing/ATM/60 Drafts/Godzilla IV",

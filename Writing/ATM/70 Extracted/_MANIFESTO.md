@@ -577,20 +577,20 @@ For each source file (in optimal order):
 
 ### Characters (Titans)
 
-| Name | Aliases | Notes |
-|------|---------|-------|
-| Godzilla | Godric, Godzilla III, The King | Main protagonist, Northern Gojira |
-| Mothra | Maria | Queen of the Monsters, Divine Moth |
-| Battra | - | Dark counterpart to Mothra, Cosmic Architect |
-| Ghidorah | King Ghidorah | Three-headed dragon, antagonist |
-| Kong | - | King of Hollow Earth |
-| Rodan | - | Fire demon, aerial titan |
-| Scylla | - | Cardinal Warden, ice wielder |
-| Dagon | - | Godzilla's father, Northern Patriarch |
-| Biollante | - | Rose of the North |
-| Baragon | - | Liminal Sentinel |
-| Junior | - | Godzilla's son |
-| Leo | - | Godzilla's son (twin of Junior?) |
+| Name      | Aliases                    | Notes                                        |
+| --------- | -------------------------- | -------------------------------------------- |
+| Godzilla  | Godric, Godzilla, The King | Main protagonist, Northern Gojira            |
+| Mothra    | Maria                      | Queen of the Monsters, Divine Moth           |
+| Battra    | -                          | Dark counterpart to Mothra, Cosmic Architect |
+| Ghidorah  | King Ghidorah              | Three-headed dragon, antagonist              |
+| Kong      | -                          | King of Hollow Earth                         |
+| Rodan     | -                          | Fire demon, aerial titan                     |
+| Scylla    | -                          | Cardinal Warden, ice wielder                 |
+| Dagon     | -                          | Godzilla's father, Northern Patriarch        |
+| Biollante | -                          | Rose of the North                            |
+| Baragon   | -                          | Liminal Sentinel                             |
+| Junior    | -                          | Godzilla's son                               |
+| Leo       | -                          | Godzilla's son (twin of Junior)              |
 
 ### Characters (Humans)
 

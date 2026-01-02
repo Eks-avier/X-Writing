@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_Progress",
-      "path": "Writing/ATM/70 Extracted/_Progress.md"
-    },
-    {
       "basename": "_MANIFESTO",
       "path": "Writing/ATM/70 Extracted/_MANIFESTO.md"
+    },
+    {
+      "basename": "Koinon vs Krator Progression Paths (Eclipse-II-P003)",
+      "path": "Writing/ATM/70 Extracted/Koinon vs Krator Progression Paths (Eclipse-II-P003).md"
+    },
+    {
+      "basename": "_Progress",
+      "path": "Writing/ATM/70 Extracted/_Progress.md"
     },
     {
       "basename": "Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005)",
@@ -195,10 +199,6 @@
     {
       "basename": "Formatted_With_Thoughts - The Saga of the Titanus gojira",
       "path": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Saga of the Titanus gojira.md"
-    },
-    {
-      "basename": "Formatted_With_Thoughts - The Kratos of Kings",
-      "path": "Writing/ATM/Extracted from Gemini AI/Formatted_With_Thoughts - The Kratos of Kings.md"
     }
   ],
   "omittedPaths": [],
