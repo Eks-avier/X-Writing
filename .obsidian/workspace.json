@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
+                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Formatted_With_Thoughts - The Saga of the _Titanus gojira_"
+              "title": "Godzilla, King of the Monsters"
             }
           }
         ]
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5133476257324,
-    "collapsed": true
+    "width": 730.5133476257324
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -152,6 +151,7 @@
       {
         "id": "7d86b67ca7051bea",
         "type": "tabs",
+        "dimension": 63.43416370106761,
         "children": [
           {
             "id": "a9441a9324b108e3",
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md"
+                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Expanded Titan Standing Hierarchy"
+              "title": "File properties for Godzilla, King of the Monsters"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/Story Arcs/Concept - Moon River.md",
+                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Concept - Moon River"
+              "title": "Outline of Godzilla, King of the Monsters"
             }
           },
           {
@@ -248,18 +248,19 @@
               "title": "Strange New Worlds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6453194990327757",
         "type": "tabs",
+        "dimension": 36.56583629893239,
         "children": [
           {
             "id": "4d19fc400998f206",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -268,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,9 +288,13 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/10 Characters/12 Titans/Godzilla III/The Suite.md",
+    "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
+    "Writing/ATM/60 Drafts/Godzilla IV",
+    "Writing/ATM/10 Characters/12 Titans/Godzilla III/Godzilla Profile.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
     "Writing/Archive/Gemini AI Exports/Processed/05 - The Nordson Children - Junior, Leo, Lora.md",
     "Writing/Archive/Gemini AI Exports/Processed/11 - Standing Hierarchy - The Complete Political Order.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - Branch of AA - The Kratos of Kings.md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The _Titanus gojira_.md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Kratos of Kings.md",
@@ -312,9 +316,6 @@
     "Writing/Archive/Gemini AI Exports/Processed",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Antitheriomorphosis - Standing Hierarchy.md",
     "Writing/Archive/Gemini AI Exports/Unformatted/The Antitheriomorphosis - Standing Hierarchy.md",
-    "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md",
-    "Writing/ATM/00 Wiki/Portal - Power Systems.md",
-    "Writing/ATM/00 Wiki/Portal - Characters.md",
     "Writing/ATM/The Compendium.pdf",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
@@ -325,7 +326,6 @@
     "Journal/Untitle",
     "Journal/German",
     "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
-    "Writing/ATM/Characters/Titans/The Nordsons/Unconfirmed 229767.crdownload",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
