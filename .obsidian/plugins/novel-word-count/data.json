@@ -10918,6 +10918,60 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Writing/ATM/70 Extracted/_MANIFESTO.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2816,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.386666666666667,
+      "characterCount": 25504,
+      "nonWhitespaceCharacterCount": 20783,
+      "newlineCount": 896,
+      "readingTimeInMinutes": 10.626415094339622,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767387065881,
+      "modifiedDate": 1767387065881,
+      "sizeInBytes": 26494,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/70 Extracted/_Progress.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 630,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1,
+      "characterCount": 5332,
+      "nonWhitespaceCharacterCount": 4456,
+      "newlineCount": 151,
+      "readingTimeInMinutes": 2.3773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767387119610,
+      "modifiedDate": 1767387119610,
+      "sizeInBytes": 5333,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
