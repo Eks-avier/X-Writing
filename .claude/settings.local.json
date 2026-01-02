@@ -5,7 +5,8 @@
       "Bash(mkdir:*)",
       "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/Archive/Gemini AI Exports/Formatted/\"*.md)",
       "Bash(done)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(python3:*)"
     ]
   }
 }
