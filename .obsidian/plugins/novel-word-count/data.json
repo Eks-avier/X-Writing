@@ -10162,6 +10162,87 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/05 - The Nordson Children - Junior, Leo, Lora.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9466666666666668,
+      "characterCount": 9080,
+      "nonWhitespaceCharacterCount": 7552,
+      "newlineCount": 267,
+      "readingTimeInMinutes": 4.467924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767320825106,
+      "modifiedDate": 1767320825106,
+      "sizeInBytes": 9084,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/06 - Junior's Arsenal and Smithcraft.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1064,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.546666666666667,
+      "characterCount": 8629,
+      "nonWhitespaceCharacterCount": 7198,
+      "newlineCount": 291,
+      "readingTimeInMinutes": 4.0150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767320916445,
+      "modifiedDate": 1767320916445,
+      "sizeInBytes": 8635,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/07 - Godric's Linguistic Identity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 919,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.0633333333333335,
+      "characterCount": 6839,
+      "nonWhitespaceCharacterCount": 5702,
+      "newlineCount": 212,
+      "readingTimeInMinutes": 3.4679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767320991822,
+      "modifiedDate": 1767320991822,
+      "sizeInBytes": 6854,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
