@@ -8,14 +8,14 @@ The Nordson children possess a unique inheritance from both parents, organized i
 
 ### Layer 1 - Gojira Abilities (Paternal)
 
-| Ability | Description |
-|---------|-------------|
-| **Regeneration** | The signature gojira healing factor |
-| **Limitless Adaptation** | The ability to grow stronger in response to challenges |
-| **Atomic Breath** | The iconic energy attack (development varies by child) |
-| **Atomic Amplification (AA)** | Enhancement of physical abilities through atomic energy |
-| **Scale Properties** | Inherited from Maria's mosura scales (Magnification, Adhesion, or Reflection) |
-| **Kraton Potential** | Both parents are Krators; children inherit the Two-Layered Aura |
+| Ability                       | Description                                                                   |
+| ----------------------------- | ----------------------------------------------------------------------------- |
+| **Regeneration**              | The signature gojira healing factor                                           |
+| **Limitless Adaptation**      | The ability to grow stronger in response to challenges                        |
+| **Atomic Breath**             | The iconic energy attack (development varies by child)                        |
+| **Atomic Amplification (AA)** | Enhancement of physical abilities through atomic energy                       |
+| **Scale Properties**          | Inherited from Maria's mosura scales (Magnification, Adhesion, or Reflection) |
+| **Kraton Potential**          | Both parents are Krators; children inherit the Two-Layered Aura               |
 
 ### Layer 2 - Psionic Abilities (Maternal)
 
