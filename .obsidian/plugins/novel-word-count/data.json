@@ -10297,6 +10297,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Writing/Archive/Gemini AI Exports/Processed/10 - The Kratos of Kings - Ichi and Arthur.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1449,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.83,
+      "characterCount": 11317,
+      "nonWhitespaceCharacterCount": 9458,
+      "newlineCount": 354,
+      "readingTimeInMinutes": 5.467924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767321763261,
+      "modifiedDate": 1767321763261,
+      "sizeInBytes": 11331,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
