@@ -10189,6 +10189,87 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Writing/ATM/70 Extracted/_Branch_Map.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 188,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1923,
+      "nonWhitespaceCharacterCount": 1258,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 0.7094339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767384195508,
+      "modifiedDate": 1767384195508,
+      "sizeInBytes": 1923,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/70 Extracted/Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 736,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.453333333333333,
+      "characterCount": 5574,
+      "nonWhitespaceCharacterCount": 4715,
+      "newlineCount": 72,
+      "readingTimeInMinutes": 2.7773584905660376,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767384327822,
+      "modifiedDate": 1767384327822,
+      "sizeInBytes": 5574,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Writing/ATM/70 Extracted/Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 563,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8766666666666667,
+      "characterCount": 3981,
+      "nonWhitespaceCharacterCount": 3363,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 2.1245283018867926,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767384363404,
+      "modifiedDate": 1767384363404,
+      "sizeInBytes": 3981,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
