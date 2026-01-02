@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Archive/Gemini AI Exports/Processed/09 - The Saga - Family Dynamics and Golden Timeline.md",
+                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "09 - The Saga - Family Dynamics and Golden Timeline"
+              "title": "Formatted_With_Thoughts - The Saga of the _Titanus gojira_"
             }
           }
         ]
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5133476257324
+    "width": 730.5133476257324,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -287,8 +288,15 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
-    "Writing/Archive/Gemini AI Exports/Processed/10 - The Kratos of Kings - Ichi and Arthur.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - Branch of AA - The Kratos of Kings.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The _Titanus gojira_.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/Archive/Gemini AI Exports/Processed/09 - The Saga - Family Dynamics and Golden Timeline.md",
+    "Writing/Archive/Gemini AI Exports/Processed/12 - AA - Keep Charlie and the Triad of Presence.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - Branch of The _Titanus gojira_.md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU I.md",
+    "Writing/Archive/Gemini AI Exports/Processed/11 - Standing Hierarchy - The Complete Political Order.md",
+    "Writing/Archive/Gemini AI Exports/Processed/10 - The Kratos of Kings - Ichi and Arthur.md",
     "Writing/Archive/Gemini AI Exports/Processed/08 - The Eclipse - Godzilla and Mothra Romance.md",
     "Writing/Archive/Gemini AI Exports/Processed/07 - Godric's Linguistic Identity.md",
     "Writing/Archive/Gemini AI Exports/Processed/05 - The Nordson Children - Junior, Leo, Lora.md",
@@ -300,7 +308,6 @@
     "Writing/Archive/Gemini AI Exports/Processed/02 - Psionics - Core Mechanics.md",
     "Writing/Archive/Gemini AI Exports/Processed/01 - Krátos - Core Mechanics.md",
     "Writing/Archive/Gemini AI Exports/Processed/00 - The Three Power Systems - Overview.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Kratos of Kings.md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md",
     "Writing/Archive/Gemini AI Exports/Processed",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Antitheriomorphosis - Standing Hierarchy.md",
@@ -308,13 +315,7 @@
     "Writing/ATM/60 Drafts/The Expanded Titan Standing Hierarchy.md",
     "Writing/ATM/00 Wiki/Portal - Power Systems.md",
     "Writing/ATM/00 Wiki/Portal - Characters.md",
-    "Writing/Claude Conversations/Krátos Power System Development.md",
     "Writing/ATM/The Compendium.pdf",
-    "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
-    "Writing/ATM/Story Arcs/Concept - Moon River.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Keystone Arc.md",
-    "Writing/ATM/Story Arcs/Plot Outline - Link Disconnected.md",
-    "Writing/ATM/Unrefined/Domination of Energy - Narrative Sidepiece.md",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "Writing/ATM/Extracted from Gemini AI",
