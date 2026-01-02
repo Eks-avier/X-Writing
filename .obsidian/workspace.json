@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "Godzilla, King of the Monsters"
             }
+          },
+          {
+            "id": "8ae8e10a18244cc2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -288,8 +298,8 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
-    "Writing/ATM/10 Characters/12 Titans/Godzilla III/The Suite.md",
     "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
+    "Writing/ATM/10 Characters/12 Titans/Godzilla III/The Suite.md",
     "Writing/ATM/60 Drafts/Godzilla IV",
     "Writing/ATM/10 Characters/12 Titans/Godzilla III/Godzilla Profile.md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
