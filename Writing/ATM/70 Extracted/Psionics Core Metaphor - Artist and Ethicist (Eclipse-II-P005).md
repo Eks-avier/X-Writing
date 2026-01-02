@@ -24,3 +24,4 @@ Despite distinctions between Active and Passive Telepathy, there is also somethi
 
 ---
 ^extract-psionics-metaphor-p005
+
