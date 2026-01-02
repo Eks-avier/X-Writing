@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md",
+                "file": "Writing/ATM/70 Extracted/Aura Irrepressibility and Thresholds (Eclipse-II-P002).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Formatted_With_Thoughts - The Eclipse of the ATM AU II"
-            }
-          },
-          {
-            "id": "8ae8e10a18244cc2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aura Irrepressibility and Thresholds (Eclipse-II-P002)"
             }
           }
         ]
@@ -152,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5133476257324,
-    "collapsed": true
+    "width": 730.5133476257324
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -170,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md"
+                "file": "Writing/ATM/70 Extracted/Aura Irrepressibility and Thresholds (Eclipse-II-P002).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Formatted_With_Thoughts - The Eclipse of the ATM AU II"
+              "title": "File properties for Aura Irrepressibility and Thresholds (Eclipse-II-P002)"
             }
           },
           {
@@ -182,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md",
+                "file": "Writing/ATM/70 Extracted/Aura Irrepressibility and Thresholds (Eclipse-II-P002).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formatted_With_Thoughts - The Eclipse of the ATM AU II"
+              "title": "Outline of Aura Irrepressibility and Thresholds (Eclipse-II-P002)"
             }
           },
           {
@@ -280,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270,
-    "collapsed": true
+    "width": 270
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,35 +288,35 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
-    "Writing/ATM/70 Extracted/Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md",
+    "Writing/ATM/70 Extracted/Aura Energy Costs and Consequences (Eclipse-II-P004).md",
+    "Writing/ATM/70 Extracted/Aura Irrepressibility and Thresholds (Eclipse-II-P002).md",
+    "Writing/ATM/70 Extracted/Kratos Core Metaphor - The Ruler (Eclipse-II-P005).md",
+    "Writing/ATM/70 Extracted/Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md",
+    "Writing/ATM/70 Extracted/Magic Core Metaphor - Scholar Orator Showman (Eclipse-II-P005).md",
+    "Writing/ATM/70 Extracted/Aura Definition and Latent Properties (Eclipse-II-P002).md",
+    "Writing/ATM/70 Extracted/Linguistic Theming of Power Systems (Eclipse-II-P005).md",
+    "Writing/ATM/70 Extracted/Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md",
+    "Writing/ATM/70 Extracted/Coating - Epichrisis Definition (Eclipse-II-P004).md",
     "Writing/ATM/70 Extracted/_Branch_Map.md",
-    "Writing/ATM/70 Extracted",
+    "Writing/ATM/70 Extracted/Aura Two Axes - Intensity and Spatial Management (Eclipse-II-P004).md",
     "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - AA - The Kratos of Kings.md",
+    "Writing/ATM/70 Extracted/Hellenic Terms for Aura Techniques (Eclipse-II-P004).md",
+    "Writing/ATM/70 Extracted/Koinon vs Krator Progression Paths (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/Flaring Revised Definition (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/Krator Aura Threshold - First and Second Layer (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/Aura Shape - Spherical vs Circular (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/Hellenic Plural Forms for Kraton (Eclipse-II-P003).md",
+    "Writing/ATM/70 Extracted/Aura Willpower Dependency and Conscious Control (Eclipse-II-P002).md",
+    "Writing/ATM/70 Extracted/Aura Willpower Awareness and Sensory Extension (Eclipse-II-P002).md",
+    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md",
+    "Writing/ATM/70 Extracted/Kratos Character Examples and Excellence (Eclipse-II-P001).md",
+    "Writing/ATM/70 Extracted/Cross-System Dynamics and Balance (Eclipse-II-P001).md",
+    "Writing/ATM/70 Extracted/Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md",
+    "Writing/ATM/70 Extracted/Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md",
+    "Writing/ATM/70 Extracted",
     "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
     "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
-    "Writing/ATM/10 Characters/12 Titans/Godzilla III/The Suite.md",
     "Writing/ATM/60 Drafts/Godzilla IV",
-    "Writing/ATM/10 Characters/12 Titans/Godzilla III/Godzilla Profile.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Saga of the _Titanus gojira_.md",
-    "Writing/Archive/Gemini AI Exports/Processed/05 - The Nordson Children - Junior, Leo, Lora.md",
-    "Writing/Archive/Gemini AI Exports/Processed/11 - Standing Hierarchy - The Complete Political Order.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - Branch of AA - The Kratos of Kings.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The _Titanus gojira_.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Kratos of Kings.md",
-    "Writing/Archive/Gemini AI Exports/Processed/09 - The Saga - Family Dynamics and Golden Timeline.md",
-    "Writing/Archive/Gemini AI Exports/Processed/12 - AA - Keep Charlie and the Triad of Presence.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - Branch of The _Titanus gojira_.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU I.md",
-    "Writing/Archive/Gemini AI Exports/Processed/10 - The Kratos of Kings - Ichi and Arthur.md",
-    "Writing/Archive/Gemini AI Exports/Processed/08 - The Eclipse - Godzilla and Mothra Romance.md",
-    "Writing/Archive/Gemini AI Exports/Processed/07 - Godric's Linguistic Identity.md",
-    "Writing/Archive/Gemini AI Exports/Processed/06 - Junior's Arsenal and Smithcraft.md",
-    "Writing/Archive/Gemini AI Exports/Processed/04 - Narrative Structure and Timeline.md",
-    "Writing/Archive/Gemini AI Exports/Processed/03 - Sorcery Division - Students and Origins.md",
-    "Writing/Archive/Gemini AI Exports/Processed/02 - Psionics - Core Mechanics.md",
-    "Writing/Archive/Gemini AI Exports/Processed/01 - Krátos - Core Mechanics.md",
-    "Writing/Archive/Gemini AI Exports/Processed/00 - The Three Power Systems - Overview.md",
-    "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - The Eclipse of the ATM AU II.md",
     "Writing/Archive/Gemini AI Exports/Processed",
     "Writing/ATM/The Compendium.pdf",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
