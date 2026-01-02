@@ -80,7 +80,7 @@ Hunting down and teaching these sorcerers became his path to redemption:
 
 ### 4. Maria Sierra Balagtas
 
-**Origin**: Filipino-American
+**Origin**: Filipino
 - Known by Monarch since 2020
 - Story detailed elsewhere
 - One of two with institutional connections

@@ -193,14 +193,15 @@ Why Psionics comes first:
 
 Every character relationship reflects the philosophical triad:
 
-| Connection | Systems | Theme |
-|------------|---------|-------|
-| Godzilla + Psionic Division | Krátos + Psionics | Shared trauma |
-| Mothra + Godzilla | Psionics + Krátos | Divine meets visceral |
-| Mothra + Battra | Psionics + Magic | Twins, talent vs work |
-| Godzilla + Battra | Krátos + Magic | Childhood friends |
-| Scylla + Rodan | Constrained Kinetics | Kráton vs biological |
-| Kong + Anyone | Non-system | Pure character |
+| Connection                  | Systems              | Theme                 |
+| --------------------------- | -------------------- | --------------------- |
+| Godzilla + Psionic Division | Krátos + Psionics    | Shared trauma         |
+| Mothra + Godzilla           | Psionics + Krátos    | Divine meets visceral |
+| Mothra + Battra             | Psionics + Magic     | Twins, talent vs work |
+| Godzilla + Battra           | Krátos + Magic       | Childhood friends     |
+| Scylla + Rodan              | Constrained Kinetics | Kráton vs biological  |
+| Kong + Anyone               | Non-system           | Pure character        |
+|                             |                      |                       |
 
 ---
 
