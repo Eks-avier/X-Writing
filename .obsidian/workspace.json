@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
+                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - AA - The Kratos of Kings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Godzilla, King of the Monsters"
+              "title": "Formatted_With_Thoughts - AA - The Kratos of Kings"
             }
           },
           {
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5133476257324
+    "width": 730.5133476257324,
+    "collapsed": true
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -169,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md"
+                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - AA - The Kratos of Kings.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Godzilla, King of the Monsters"
+              "title": "File properties for Formatted_With_Thoughts - AA - The Kratos of Kings"
             }
           },
           {
@@ -181,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
+                "file": "Writing/Archive/Gemini AI Exports/Formatted/Formatted_With_Thoughts - AA - The Kratos of Kings.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Godzilla, King of the Monsters"
+              "title": "Outline of Formatted_With_Thoughts - AA - The Kratos of Kings"
             }
           },
           {
@@ -298,8 +299,8 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
-    "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
     "Writing/ATM/60 Drafts/Godzilla IV/Godzilla, King of the Monsters.md",
+    "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
     "Writing/ATM/10 Characters/12 Titans/Godzilla III/The Suite.md",
     "Writing/ATM/60 Drafts/Godzilla IV",
     "Writing/ATM/10 Characters/12 Titans/Godzilla III/Godzilla Profile.md",
@@ -335,7 +336,6 @@
     "Unconfirmed 241275.crdownload",
     "Journal/Untitle",
     "Journal/German",
-    "Writing/ATM/Power Systems/Magic/Unconfirmed 19172.crdownload",
     "CSS125 - FA1.1_1.8.png",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/Krátos (Common).canvas",
