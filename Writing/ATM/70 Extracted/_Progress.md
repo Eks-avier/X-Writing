@@ -1,7 +1,8 @@
 # Extraction Progress
 
-> **Last Updated:** 2026-01-03 04:20
-> **Current Phase:** Pilot Extraction (Eclipse II)
+> **Last Updated:** 2026-01-03 05:00
+> **Current Phase:** Pilot Extraction (Eclipse II) - PAUSED DUE TO RATE LIMIT
+> **Next Instance:** Continue from Prompt 6
 
 ---
 
@@ -17,25 +18,55 @@
 | Progress | Count |
 |----------|-------|
 | Files Processed | 1 / 9 (in progress) |
-| Prompts Extracted | 5 / 2,529 |
+| Prompts Extracted | 5 / 245 (Eclipse II) |
 | Topics Generated | 26 |
-| Contradictions Found | 0 (validation pending) |
+| Metadata Files | 3 |
+| Rate Limit Hit | Yes - parallel agents terminated |
+
+---
+
+## RESUME INSTRUCTIONS FOR NEXT CLAUDE INSTANCE
+
+### Step 1: Read the Manifesto
+```
+C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\ATM\70 Extracted\_MANIFESTO.md
+```
+
+### Step 2: Continue Eclipse II Extraction
+
+**Current State:** Only prompts 1-5 completed (26 files)
+**Remaining:** Prompts 6-245 (240 prompts)
+
+**Recommended approach:** Process in chunks of 10-20 prompts to avoid rate limits
+
+**Next chunk to process:**
+- File: `Formatted_With_Thoughts - The Eclipse of the ATM AU II.md`
+- Prompts: 6-25 (20 prompts)
+- Use the Extractor agent template from manifesto
+
+### Step 3: Update This File
+After each successful chunk, update this progress file with:
+- Prompts completed
+- Files created
+- Any issues
 
 ---
 
 ## File Status
 
-| File | Abbreviation | Total Prompts | Prompts Done | Status | Notes |
-|------|--------------|---------------|--------------|--------|-------|
-| Eclipse of ATM AU II | `Eclipse-II` | 245 | 5 | **IN PROGRESS** | Pilot file, covers common trunk |
-| AA - The Kratos of Kings | `AA-Kratos` | 344 | 0 | Pending | Start at P214 (skip trunk) |
-| Saga of the _Titanus gojira_ | `Saga-TG` | 300 | 0 | Pending | Start at P203 |
-| Standing Hierarchy | `Standing` | 294 | 0 | Pending | Start at P203 |
-| Branch of AA - Kratos | `BAA-Kratos` | 284 | 0 | Pending | Start at P214 |
-| The _Titanus gojira_ | `TG` | 276 | 0 | Pending | Start at P203 |
-| The Kratos of Kings | `Kratos` | 263 | 0 | Pending | Start at P214 |
-| Branch of _Titanus gojira_ | `BTG` | 263 | 0 | Pending | Start at P203 |
-| Eclipse of ATM AU I | `Eclipse-I` | 260 | 0 | Pending | Start at P214 |
+| File | Abbreviation | Total Prompts | Prompts Done | Status | Next Prompt |
+|------|--------------|---------------|--------------|--------|-------------|
+| Eclipse of ATM AU II | `Eclipse-II` | 245 | 5 | **IN PROGRESS** | P006 |
+| AA - The Kratos of Kings | `AA-Kratos` | 344 | 0 | Pending | P214* |
+| Saga of the _Titanus gojira_ | `Saga-TG` | 300 | 0 | Pending | P203* |
+| Standing Hierarchy | `Standing` | 294 | 0 | Pending | P203* |
+| Branch of AA - Kratos | `BAA-Kratos` | 284 | 0 | Pending | P214* |
+| The _Titanus gojira_ | `TG` | 276 | 0 | Pending | P203* |
+| The Kratos of Kings | `Kratos` | 263 | 0 | Pending | P214* |
+| Branch of _Titanus gojira_ | `BTG` | 263 | 0 | Pending | P203* |
+| Eclipse of ATM AU I | `Eclipse-I` | 260 | 0 | Pending | P214* |
+
+*Skip common trunk (P001-P198) - already extracted via Eclipse II
 
 ---
 
@@ -43,108 +74,84 @@
 
 ### 2026-01-03
 
-#### Chunk 1: Eclipse II, Prompts 1-5 (Lines 1-986)
+#### Session 1: Initial Setup
+- Created output directory `70 Extracted`
+- Completed branch analysis - all 9 files share common trunk (P001-P198)
+- Created `_MANIFESTO.md` with full workflow documentation
+- Created `_Branch_Map.md` with genealogy visualization
+
+#### Session 1: Pilot Extraction (P001-P005)
 - **Status:** COMPLETED
 - **Files Created:** 26
-- **Topics Extracted:**
-  - Prompt 1: 4 files (Krátos comparative analysis)
-  - Prompt 2: 5 files (Aura mechanics)
-  - Prompt 3: 5 files (Hellenic terms, Aura shape)
-  - Prompt 4: 4 files (Aura techniques)
-  - Prompt 5: 8 files (Philosophical theming)
-- **Issues:** None
+- **Prompts:** 1-5
+- **Topics by Prompt:**
+  - P001: 4 files (Krátos comparative analysis)
+  - P002: 5 files (Aura mechanics)
+  - P003: 5 files (Hellenic terms, Aura shape)
+  - P004: 4 files (Aura techniques)
+  - P005: 8 files (Philosophical theming)
+
+#### Session 1: Parallel Extraction Attempt (P006-P245)
+- **Status:** RATE LIMITED - agents terminated before completion
+- **Files Created:** 0 from this batch
+- **Note:** Launched 9 parallel agents, all hit rate limit
+- **Recovery:** Next instance should process sequentially or in smaller batches
 
 ---
 
-## Next Steps
+## Files Generated (26 topic files + 3 metadata)
 
-### Immediate (Pilot Completion)
-1. [ ] Continue Eclipse II extraction
-   - Chunk 2: Prompts 6-10 (Lines ~987-1800)
-   - Chunk 3: Prompts 11-15
-   - ... continue in 5-prompt chunks
-2. [ ] Complete all 245 prompts of Eclipse II
-3. [ ] User review checkpoint
+### Metadata Files
+1. `_MANIFESTO.md` - Complete workflow documentation
+2. `_Branch_Map.md` - Branch genealogy
+3. `_Progress.md` - This file
 
-### After Pilot Approval
-4. [ ] Process remaining 8 files (skip common trunk)
-5. [ ] Run Validator agent for contradictions
-6. [ ] Run Linker agent for cross-references
-7. [ ] Run Chronicler agent for evolution chains
-8. [ ] Run Indexer agent for master index
-9. [ ] Run QA agent for final validation
+### Topic Files from P001-P005
 
----
+**Prompt 1 (4 files):**
+- Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md
+- Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md
+- Cross-System Dynamics and Balance (Eclipse-II-P001).md
+- Kratos Character Examples and Excellence (Eclipse-II-P001).md
 
-## Resume Instructions
+**Prompt 2 (5 files):**
+- Aura Definition and Latent Properties (Eclipse-II-P002).md
+- Aura Irrepressibility and Thresholds (Eclipse-II-P002).md
+- Aura Willpower Awareness and Sensory Extension (Eclipse-II-P002).md
+- Aura Willpower Dependency and Conscious Control (Eclipse-II-P002).md
+- Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md
 
-To continue extraction:
+**Prompt 3 (5 files):**
+- Hellenic Plural Forms for Kraton (Eclipse-II-P003).md
+- Aura Shape - Spherical vs Circular (Eclipse-II-P003).md
+- Krator Aura Threshold - First and Second Layer (Eclipse-II-P003).md
+- Flaring Revised Definition (Eclipse-II-P003).md
+- Koinon vs Krator Progression Paths (Eclipse-II-P003).md
 
-1. **Read `_MANIFESTO.md`** for full workflow details
-2. **Check this file** for current status
-3. **Identify next chunk:**
-   - File: Eclipse II
-   - Next prompts: 6-10
-   - Approximate start line: 987
-4. **Spawn Extractor agent** with those parameters
-5. **Update this file** after completion
+**Prompt 4 (4 files):**
+- Hellenic Terms for Aura Techniques (Eclipse-II-P004).md
+- Aura Two Axes - Intensity and Spatial Management (Eclipse-II-P004).md
+- Aura Energy Costs and Consequences (Eclipse-II-P004).md
+- Coating - Epichrisis Definition (Eclipse-II-P004).md
 
-### Extractor Prompt Template
-
-```
-You are an Extractor agent. Process prompts [6] through [10] from Eclipse II.
-
-Source: C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\Archive\Gemini AI Exports\Formatted\Formatted_With_Thoughts - The Eclipse of the ATM AU II.md
-
-Output: C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\ATM\70 Extracted\
-
-Start reading from approximately line 987.
-
-Follow _MANIFESTO.md extraction rules:
-- Strip Gemini thoughts (lines starting with "> ")
-- Use ### headers as topic boundaries
-- Preserve User phrasing in "Your Notes"
-- Clean Model response in "Analysis"
-- Naming: [Topic] (Eclipse-II-P0NN).md
-- Include YAML frontmatter
-- Add block ID: ^extract-[keyword]-p0nn
-
-Report: files created, prompt range covered, any issues.
-```
+**Prompt 5 (8 files):**
+- Linguistic Theming of Power Systems (Eclipse-II-P005).md
+- Magic Core Metaphor - Scholar Orator Showman (Eclipse-II-P005).md
+- Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md
+- Kratos Core Metaphor - The Ruler (Eclipse-II-P005).md
+- Mothra Telepathy Ethics (Eclipse-II-P005).md
+- Battra Telepathy Pragmatism (Eclipse-II-P005).md
+- Battra Irony - Ethics in Magic vs Psionics (Eclipse-II-P005).md
+- Mothra and Battra Twin Symbology (Eclipse-II-P005).md
 
 ---
 
-## Files Generated (26)
+## Lessons Learned
 
-### From Eclipse II, Chunk 1 (P001-P005)
-
-1. `Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md`
-2. `Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md`
-3. `Cross-System Dynamics and Balance (Eclipse-II-P001).md`
-4. `Kratos Character Examples and Excellence (Eclipse-II-P001).md`
-5. `Aura Definition and Latent Properties (Eclipse-II-P002).md`
-6. `Aura Irrepressibility and Thresholds (Eclipse-II-P002).md`
-7. `Aura Willpower Awareness and Sensory Extension (Eclipse-II-P002).md`
-8. `Aura Willpower Dependency and Conscious Control (Eclipse-II-P002).md`
-9. `Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md`
-10. `Hellenic Plural Forms for Kraton (Eclipse-II-P003).md`
-11. `Aura Shape - Spherical vs Circular (Eclipse-II-P003).md`
-12. `Krator Aura Threshold - First and Second Layer (Eclipse-II-P003).md`
-13. `Flaring Revised Definition (Eclipse-II-P003).md`
-14. `Koinon vs Krator Progression Paths (Eclipse-II-P003).md`
-15. `Hellenic Terms for Aura Techniques (Eclipse-II-P004).md`
-16. `Aura Two Axes - Intensity and Spatial Management (Eclipse-II-P004).md`
-17. `Aura Energy Costs and Consequences (Eclipse-II-P004).md`
-18. `Coating - Epichrisis Definition (Eclipse-II-P004).md`
-19. `Linguistic Theming of Power Systems (Eclipse-II-P005).md`
-20. `Magic Core Metaphor - Scholar Orator Showman (Eclipse-II-P005).md`
-21. `Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md`
-22. `Kratos Core Metaphor - The Ruler (Eclipse-II-P005).md`
-23. `Mothra Telepathy Ethics (Eclipse-II-P005).md`
-24. `Battra Telepathy Pragmatism (Eclipse-II-P005).md`
-25. `Battra Irony - Ethics in Magic vs Psionics (Eclipse-II-P005).md`
-26. `Mothra and Battra Twin Symbology (Eclipse-II-P005).md`
+1. **Avoid aggressive parallelization** - 9 agents hit rate limits
+2. **Recommended chunk size:** 10-20 prompts per agent
+3. **Consider sequential processing** for reliability over speed
 
 ---
 
-*This file is auto-updated after each extraction chunk.*
+*This file should be updated after each extraction session.*
