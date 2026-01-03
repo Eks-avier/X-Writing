@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
+                "file": "Writing/ATM/70 Extracted/_Progress.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_MANIFESTO"
+              "title": "_Progress"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md"
+                "file": "Writing/ATM/70 Extracted/_Progress.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _MANIFESTO"
+              "title": "File properties for _Progress"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
+                "file": "Writing/ATM/70 Extracted/_Progress.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _MANIFESTO"
+              "title": "Outline of _Progress"
             }
           },
           {
@@ -288,9 +288,9 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/Koinon vs Krator Progression Paths (Eclipse-II-P003).md",
     "Writing/ATM/70 Extracted/_Progress.md",
-    "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md",
     "Writing/ATM/70 Extracted/Mothra Telepathy Ethics (Eclipse-II-P005).md",
     "Writing/ATM/70 Extracted/Mothra and Battra Twin Symbology (Eclipse-II-P005).md",

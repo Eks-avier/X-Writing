@@ -630,13 +630,13 @@ For each source file (in optimal order):
 
 ### Species
 
-| Species | Notable Members |
-|---------|-----------------|
-| Titanus gojira | Godzilla, Dagon, Junior, Leo |
-| Titanus mosura | Mothra, Battra |
-| Titanus ghidorah | King Ghidorah |
-| Titanus kong | Kong |
-| Titanus scylla | Scylla |
+| Species          | Notable Members              |
+| ---------------- | ---------------------------- |
+| Titanus gojira   | Godzilla, Dagon, Junior, Leo |
+| Titanus mosura   | Mothra, Battra               |
+| Titanus ghidorah | King Ghidorah                |
+| Titanus kong     | Kong                         |
+| Titanus scylla   | Scylla                       |
 
 ### Locations
 
