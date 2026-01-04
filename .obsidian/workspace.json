@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 653.5133476257324,
-    "collapsed": true
+    "width": 653.5133476257324
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -287,7 +286,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "583a9ea860df181a",
+  "active": "acd4f89612315a6e",
   "lastOpenFiles": [
     "Writing/ATM/70 Extracted/Monster Island - Geography and Rules (Eclipse-II-P120).md",
     "Writing/ATM/70 Extracted/Nordson Siblings - Developmental Timelines (Eclipse-II-P117-P119).md",
