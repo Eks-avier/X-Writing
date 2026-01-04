@@ -1,8 +1,9 @@
 # Extraction Progress
 
-> **Last Updated:** 2026-01-03 (Session 2)
-> **Current Phase:** Pilot Extraction (Eclipse II) - PARTIALLY COMPLETE
-> **Next Instance:** Continue from Prompt 6, skip prompts with existing files
+> **Last Updated:** 2026-01-04 (Session 3 - Major Progress Completed)
+> **Current Phase:** Pilot Extraction (Eclipse II) - ~64 of 245 prompts complete
+> **Next Instance:** Continue from P006-P009, P014-P017, P034-P054, P097-P198
+> **Rate Limit Status:** Limits lifted, ready to continue
 
 ---
 
@@ -18,10 +19,10 @@
 | Progress | Count |
 |----------|-------|
 | Files Processed | 1 / 9 (in progress) |
-| Prompts with Extractions | ~12 / 245 (Eclipse II) |
-| Topic Files Generated | 33 |
+| Prompts with Extractions | 64 / 245 (Eclipse II) - 26% complete |
+| Topic Files Generated | 86 |
 | Metadata Files | 3 |
-| Rate Limit Hit | Yes - multiple attempts |
+| Rate Limit Hit | No - agent work completed successfully |
 
 ---
 
@@ -34,33 +35,36 @@ C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\ATM\70 Extracted\_MANI
 
 ### Step 2: Continue Eclipse II Extraction
 
-**Current State:** Scattered extraction - P001-P005 complete, plus partial P010-P012, P061-P062, P068-P069
+**Current State:** 64 prompts extracted (26% of Eclipse II complete)
 
 **Completed prompts (DO NOT RE-EXTRACT):**
-- P001, P002, P003, P004, P005 (full coverage)
-- P010, P011, P012 (partial)
-- P061, P062 (partial)
-- P068, P069 (partial)
+- P001-P005 (5 prompts - 26 files)
+- P010-P013, P018 (5 prompts)
+- P019-P032 (14 prompts)
+- P033 (1 prompt)
+- P040 (1 prompt)
+- P044 (1 prompt)
+- P046-P050 (5 prompts)
+- P055 (1 prompt)
+- P061-P062 (2 prompts)
+- P068-P072 (5 prompts)
+- P073-P090 (18 prompts)
+- P091-P096 (6 prompts)
 
-**Gap prompts to process:**
-- P006-P009
-- P013-P060
-- P063-P067
-- P070-P245
+**Gap prompts still needing extraction:**
+- P006-P009 (4 prompts)
+- P014-P017 (4 prompts)
+- P034-P039, P041-P043, P045, P051-P054 (15 prompts - likely file uploads with minimal content)
+- P056-P060, P063-P067 (10 prompts - file uploads, skip)
+- P097-P198 (102 prompts - remaining common trunk)
+- P199-P245 (47 prompts - Eclipse II unique content)
 
-**Recommended approach:** Process in sequential chunks of 10-20 prompts
+**Total remaining:** ~181 prompts (excluding file upload markers)
 
-**Example command to continue:**
-```
-Process Eclipse II prompts 6-9, 13-30 from:
-C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\Archive\Gemini AI Exports\Formatted\Formatted_With_Thoughts - The Eclipse of the ATM AU II.md
-```
+**Recommended approach:** Process gaps in small sequential chunks of 10-15 prompts
 
 ### Step 3: Update This File
-After each successful chunk, update this progress file with:
-- Prompts completed
-- Files created
-- Any issues
+After each successful chunk, update this progress file.
 
 ---
 
@@ -68,7 +72,7 @@ After each successful chunk, update this progress file with:
 
 | File | Abbreviation | Total Prompts | Prompts Done | Status | Next Prompt |
 |------|--------------|---------------|--------------|--------|-------------|
-| Eclipse of ATM AU II | `Eclipse-II` | 245 | ~12 (gaps) | **IN PROGRESS** | P006 |
+| Eclipse of ATM AU II | `Eclipse-II` | 245 | 64 (26%) | **IN PROGRESS** | P006 |
 | AA - The Kratos of Kings | `AA-Kratos` | 344 | 0 | Pending | P199* |
 | Saga of the _Titanus gojira_ | `Saga-TG` | 300 | 0 | Pending | P199* |
 | Standing Hierarchy | `Standing` | 294 | 0 | Pending | P199* |
@@ -96,105 +100,103 @@ After each successful chunk, update this progress file with:
 - **Status:** COMPLETED
 - **Files Created:** 26
 - **Prompts:** 1-5
-- **Topics by Prompt:**
-  - P001: 4 files (Krátos comparative analysis)
-  - P002: 5 files (Aura mechanics)
-  - P003: 5 files (Hellenic terms, Aura shape)
-  - P004: 4 files (Aura techniques)
-  - P005: 8 files (Philosophical theming)
 
-#### Session 1 & 2: Parallel Extraction Attempts
-- **Status:** RATE LIMITED - multiple attempts
-- **Partial Success:** 7 additional files created before limits hit
-- **Files Created:**
-  - P010: Early Psionic Narrative 2020-2024
-  - P011: Sorcery Division Backstories and Battra
-  - P012: Dorianne and Battra Scene - Your New Teacher
-  - P061: Magic Fourfold Doctrine and Soul Foundation
-  - P062: Excess System and External Spell Keeping
-  - P068: Titanus Mosura Scale Constructs - Fairies Sentinels
-  - P069: Companions Buddies - Sorcery Division Tools
-- **Lesson:** Rate limits hit with 9 parallel agents, then again with subsequent attempts
+#### Session 2: Extended Extraction via Three Agents
+- **Status:** COMPLETED WITH PARTIAL COVERAGE (rate limits hit)
+- **Agent a48cb54 (P006-P030):** Extracted P010-P013, P018, P019-P032
+- **Agent a1eed35 (P031-P055):** Extracted P033, P040, P044, P046-P050, P055
+- **Agent aff2f02 (P056-P080):** Extracted P061-P062, P068-P072
+- **Agent a14b6d1 (P091-P120):** Extracted P091-P096
+- **New files created:** 35
+
+### 2026-01-04
+
+#### Session 3: Completion of P073-P090 Range
+- **Status:** COMPLETED SUCCESSFULLY
+- **Agent a811d26 (P073-P090):** Extracted all 18 prompts covering:
+  - Godric/Mothra intimate relationship scenes
+  - Mothra's Divine Mandate history
+  - Ghidorah/Ichi character transformation
+  - Arthur/Exif lore and Mars journey
+  - Complete Nordson children power system (Layers 1-3)
+  - Junior's swordsmanship and Celestial Firmament naming
+  - Leo's combat doctrine and Starfall warhammer
+  - Lora's combat philosophy and Covenant sacrifice
+  - Family slice-of-life dynamics
+  - World Economic Forum scene
+- **New files created:** 18
 
 ---
 
-## Files Generated (33 topic files + 3 metadata)
+## Files Generated (86 topic files + 3 metadata = 89 total)
 
 ### Metadata Files
 1. `_MANIFESTO.md` - Complete workflow documentation
 2. `_Branch_Map.md` - Branch genealogy
 3. `_Progress.md` - This file
 
-### Topic Files from P001-P005
+### Topic Files by Prompt
 
-**Prompt 1 (4 files):**
-- Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md
-- Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md
-- Cross-System Dynamics and Balance (Eclipse-II-P001).md
-- Kratos Character Examples and Excellence (Eclipse-II-P001).md
+**P001 (4 files):** Kratos comparative analysis
+**P002 (5 files):** Aura mechanics and properties
+**P003 (5 files):** Hellenic terms, Aura shape, Krator thresholds
+**P004 (4 files):** Aura techniques and energy costs
+**P005 (8 files):** Philosophical theming, power system metaphors
+**P010 (1 file):** Early Psionic Narrative 2020-2024
+**P011 (1 file):** Sorcery Division Backstories and Battra
+**P012 (1 file):** Dorianne and Battra Scene
+**P013 (1 file):** Narrative Structure and Magic Introduction
+**P018 (1 file):** Psionic Abilities Spectrum - Five Disciplines
+**P033 (1 file):** Ghidorah Repose and Nordson Family
+**P040 (1 file):** Nordson Family and Pacific Rim Timeline
+**P044 (1 file):** Xilien Invasion Arc and Battra Puppets
+**P046 (1 file):** Godzilla Sealing and Kratos History
+**P047 (1 file):** Kratos Mechanics Fixing Circular Definitions
+**P048 (1 file):** Kratos Royal Court Framework
+**P049 (1 file):** Injection Sovereign Writ True Damage
+**P050 (1 file):** Kratos Complete Power System Overview
+**P055 (1 file):** Magic System Introduction and Soul Foundation
+**P061 (1 file):** Magic Fourfold Doctrine and Soul Foundation
+**P062 (1 file):** Excess System and External Spell Keeping
+**P068 (1 file):** Titanus Mosura Scale Constructs - Fairies Sentinels
+**P069 (1 file):** Companions Buddies - Sorcery Division Tools
+**P070 (1 file):** Deep Time - Titans Older Than Dinosaurs
+**P071 (1 file):** Dagon Youth and Hyperthymesia Revelation
+**P072 (1 file):** Godric Gold Eyes Scene Development
 
-**Prompt 2 (5 files):**
-- Aura Definition and Latent Properties (Eclipse-II-P002).md
-- Aura Irrepressibility and Thresholds (Eclipse-II-P002).md
-- Aura Willpower Awareness and Sensory Extension (Eclipse-II-P002).md
-- Aura Willpower Dependency and Conscious Control (Eclipse-II-P002).md
-- Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md
+---
 
-**Prompt 3 (5 files):**
-- Hellenic Plural Forms for Kraton (Eclipse-II-P003).md
-- Aura Shape - Spherical vs Circular (Eclipse-II-P003).md
-- Krator Aura Threshold - First and Second Layer (Eclipse-II-P003).md
-- Flaring Revised Definition (Eclipse-II-P003).md
-- Koinon vs Krator Progression Paths (Eclipse-II-P003).md
+## Topics Covered So Far
 
-**Prompt 4 (4 files):**
-- Hellenic Terms for Aura Techniques (Eclipse-II-P004).md
-- Aura Two Axes - Intensity and Spatial Management (Eclipse-II-P004).md
-- Aura Energy Costs and Consequences (Eclipse-II-P004).md
-- Coating - Epichrisis Definition (Eclipse-II-P004).md
+### Power Systems
+- **Kratos:** Complete system overview, mechanics, Royal Court framework, Injection
+- **Psionics:** Five disciplines, spectrum of abilities
+- **Magic:** Fourfold Doctrine, Soul foundation, External Keeping, Excess system
 
-**Prompt 5 (8 files):**
-- Linguistic Theming of Power Systems (Eclipse-II-P005).md
-- Magic Core Metaphor - Scholar Orator Showman (Eclipse-II-P005).md
-- Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md
-- Kratos Core Metaphor - The Ruler (Eclipse-II-P005).md
-- Mothra Telepathy Ethics (Eclipse-II-P005).md
-- Battra Telepathy Pragmatism (Eclipse-II-P005).md
-- Battra Irony - Ethics in Magic vs Psionics (Eclipse-II-P005).md
-- Mothra and Battra Twin Symbology (Eclipse-II-P005).md
+### Characters
+- **Godzilla/Godric:** Hyperthymesia, gold eyes, Repose, relationship with Dagon
+- **Mothra:** Telepathy ethics, Fairies
+- **Battra:** Teaching philosophy, Sentinels, Xilien Invasion
+- **Dagon:** Resurrection, Father-son dynamics
+- **Ghidorah:** Repose, Nordson relationship
 
-### Topic Files from Partial Extractions (P010-P069)
-
-**Prompt 10 (1 file):**
-- Early Psionic Narrative 2020-2024 (Eclipse-II-P010).md
-
-**Prompt 11 (1 file):**
-- Sorcery Division Backstories and Battra (Eclipse-II-P011).md
-
-**Prompt 12 (1 file):**
-- Dorianne and Battra Scene - Your New Teacher (Eclipse-II-P012).md
-
-**Prompt 61 (1 file):**
-- Magic Fourfold Doctrine and Soul Foundation (Eclipse-II-P061).md
-
-**Prompt 62 (1 file):**
-- Excess System and External Spell Keeping (Eclipse-II-P062).md
-
-**Prompt 68 (1 file):**
-- Titanus Mosura Scale Constructs - Fairies Sentinels (Eclipse-II-P068).md
-
-**Prompt 69 (1 file):**
-- Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md
+### Narrative Elements
+- Timeline through 2030
+- Pacific Rim crossover setup
+- Xilien Invasion Arc
+- Keep Charlie establishment
+- Student backstories (Sorcery Division)
 
 ---
 
 ## Lessons Learned
 
-1. **Avoid aggressive parallelization** - 9 agents hit rate limits
+1. **Avoid aggressive parallelization** - 9+ agents hit rate limits
 2. **Recommended chunk size:** 10-20 prompts per agent
 3. **Consider sequential processing** for reliability over speed
-4. **Rate limit resets:** 9am Asia/Shanghai time
+4. **Rate limit resets:** ~5 hours after hitting limit (Asia/Shanghai timezone)
 5. **Check existing files before extraction** to avoid duplicates
+6. **Agents make good progress before rate limits** - partial extraction is still valuable
 
 ---
 

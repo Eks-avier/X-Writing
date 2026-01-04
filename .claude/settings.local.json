@@ -6,7 +6,8 @@
       "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/Archive/Gemini AI Exports/Formatted/\"*.md)",
       "Bash(done)",
       "Bash(ls:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(del \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\Excess System and External Spell Keeping \\(Eclipse-II-P056\\).md\")"
     ]
   }
 }
