@@ -3,13 +3,13 @@ source: Eclipse-II-P245
 lines: 17879-18266
 prompt: 245
 extracted: 2026-01-05
-category: Mechanics
+category: Character Development
 entities: [Godric, Maria]
 status: extracted
 contradictions: []
 ---
 
-# While were on topic heres a scene I drafted set immediate
+# First Kiss Aftermath Scene - Kitchen Intimacy
 > **Source:** `Formatted_With_Thoughts - The Eclipse of the ATM AU II.md` - Prompt 245
 
 ## Your Notes

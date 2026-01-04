@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Royal Court Edicts and Krator Advantage (Eclipse-II-P031).md",
+                "file": "Writing/ATM/70 Extracted/_Progress.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Royal Court Edicts and Krator Advantage (Eclipse-II-P031)"
+              "title": "_Progress"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Royal Court Edicts and Krator Advantage (Eclipse-II-P031).md",
+                "file": "Writing/ATM/70 Extracted/_Progress.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Royal Court Edicts and Krator Advantage (Eclipse-II-P031)"
+              "title": "Outline of _Progress"
             }
           },
           {
@@ -288,6 +288,23 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Royal Court Edicts and Krator Advantage (Eclipse-II-P031).md",
+    "Writing/ATM/70 Extracted/_Contradictions.md",
+    "Writing/ATM/70 Extracted/First Kiss Aftermath Scene - Kitchen Intimacy (Eclipse-II-P245).md",
+    "Writing/ATM/70 Extracted/Kong First Arc - Skull Island Fight Overview (Eclipse-II-P170).md",
+    "Writing/ATM/70 Extracted/File Upload - Kong First Arc Reference (Eclipse-II-P169).md",
+    "Writing/ATM/70 Extracted/Draft - Monarch Diplomatic Crisis with Mothra (Eclipse-II-P147).md",
+    "Writing/ATM/70 Extracted/Draft - Titans Watching Monarch Footage (Eclipse-II-P146).md",
+    "Writing/ATM/70 Extracted/Narrative Sidepieces - Godzilla Power Vignettes (Eclipse-II-P145).md",
+    "Writing/ATM/70 Extracted/Titan Perceptions of Humanity (Eclipse-II-P144).md",
+    "Writing/ATM/70 Extracted/Humans as Ascendant Species - Power Framework (Eclipse-II-P143).md",
+    "Writing/ATM/70 Extracted/File Upload - Rodan-Scylla Reference (Eclipse-II-P142).md",
+    "Writing/ATM/70 Extracted/Rodan and Scylla Love Story Characterization (Eclipse-II-P141).md",
+    "Writing/ATM/70 Extracted/Rodan-Scylla Relationship Arc Planning (Eclipse-II-P140).md",
+    "Writing/ATM/70 Extracted/Rodan and Scylla Dynamic Response (Eclipse-II-P139).md",
+    "Writing/ATM/70 Extracted/Rodan and Scylla as Mothra-Battra Microcosm (Eclipse-II-P138).md",
+    "Writing/ATM/70 Extracted/Scylla and Rodan - Ice Weaver Background (Eclipse-II-P137).md",
+    "Writing/ATM/70 Extracted/extract_prompts.py",
     "Writing/ATM/70 Extracted/While were on topic heres a scene I drafted set immediate (Eclipse-II-P245).md",
     "Writing/ATM/70 Extracted/This funny even whimsical dance to their sexual dynamic act (Eclipse-II-P244).md",
     "Writing/ATM/70 Extracted/Godric and Maria have an actual active sex life During the (Eclipse-II-P243).md",
@@ -298,22 +315,6 @@
     "Writing/ATM/70 Extracted/--- (Eclipse-II-P238).md",
     "Writing/ATM/70 Extracted/--- (Eclipse-II-P237).md",
     "Writing/ATM/70 Extracted/--- (Eclipse-II-P236).md",
-    "Writing/ATM/70 Extracted/--- (Eclipse-II-P235).md",
-    "Writing/ATM/70 Extracted/Godric has now permanently adopted his dormant period look p (Eclipse-II-P234).md",
-    "Writing/ATM/70 Extracted/--- (Eclipse-II-P233).md",
-    "Writing/ATM/70 Extracted/Ill be getting to do those refinements But I actually mad (Eclipse-II-P232).md",
-    "Writing/ATM/70 Extracted/User uploaded file 1Cb78W1FTIC1sgZkKjN4DutjTv39Ipomi (Eclipse-II-P231).md",
-    "Writing/ATM/70 Extracted/User uploaded file 1TYYnVAVKsXidVrYD3boloxbf6n96erfm (Eclipse-II-P230).md",
-    "Writing/ATM/70 Extracted/User uploaded file 1K5YHTbLmpiVhuJn4qyd4-Yp0zsqFMJGs (Eclipse-II-P229).md",
-    "Writing/ATM/70 Extracted/User uploaded file 1Jz6CsonpmJ6cd7LahX4bdJv1gpf9kLtQ (Eclipse-II-P228).md",
-    "Writing/ATM/70 Extracted/User uploaded file 1IZU7YsMAQ2H7wHqkMQZWms9JgNfQT1ky (Eclipse-II-P227).md",
-    "Writing/ATM/70 Extracted/I dont know what happened to Godzillas FULL profile but h (Eclipse-II-P226).md",
-    "Writing/ATM/70 Extracted/There will be quiet scenes set in the backdrop of nature a (Eclipse-II-P214).md",
-    "Writing/ATM/70 Extracted/Ive thought about this what could be the equivalent of Mot (Eclipse-II-P213).md",
-    "Writing/ATM/70 Extracted/Godzilla is not ignorant of the way their human bodies perfe (Eclipse-II-P212).md",
-    "Writing/ATM/70 Extracted/Maria is physically attracted to Godric The same applies (Eclipse-II-P211).md",
-    "Writing/ATM/70 Extracted/Weve been touching on how Maria is completely beholden to (Eclipse-II-P210).md",
-    "Writing/ATM/70 Extracted/Yes exactly His drawl is a sign hes quite relaxed and fee (Eclipse-II-P209).md",
     "Writing/ATM/70 Extracted/extract_eclipse2_prompts.py",
     "add_entities.py",
     "rename_simple.py",
@@ -323,7 +324,6 @@
     "extract_p171_p198.py",
     "temp_extract_lines.py",
     "Writing/ATM/70 Extracted",
-    "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",
