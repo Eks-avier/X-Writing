@@ -18129,14 +18129,14 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 132,
+      "wordCount": 113,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.44,
-      "characterCount": 1064,
-      "nonWhitespaceCharacterCount": 915,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.4981132075471698,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 872,
+      "nonWhitespaceCharacterCount": 744,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.42641509433962266,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
@@ -18150,6 +18150,21 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P045",
+        "lines": "2957-2961",
+        "prompt": 45,
+        "extracted": "2026-01-05",
+        "category": "Reference Material",
+        "entities": [
+          "Godzilla",
+          "Battra",
+          "Henry",
+          "Selena"
+        ],
+        "status": "extracted",
+        "contradictions": []
       }
     }
   }
