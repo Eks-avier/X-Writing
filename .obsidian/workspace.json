@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Titanus Mosura Silk Production (Eclipse-II-P091).md",
+                "file": "Writing/ATM/70 Extracted/Royal Court Edicts and Krator Advantage (Eclipse-II-P031).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Titanus Mosura Silk Production (Eclipse-II-P091)"
+              "title": "Royal Court Edicts and Krator Advantage (Eclipse-II-P031)"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Titanus Mosura Silk Production (Eclipse-II-P091).md",
+                "file": "Writing/ATM/70 Extracted/Royal Court Edicts and Krator Advantage (Eclipse-II-P031).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Titanus Mosura Silk Production (Eclipse-II-P091)"
+              "title": "Outline of Royal Court Edicts and Krator Advantage (Eclipse-II-P031)"
             }
           },
           {
@@ -286,14 +286,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "acd4f89612315a6e",
+  "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Sirius and Tiānláng - Twin Sword Names (Eclipse-II-P102).md",
+    "Writing/ATM/70 Extracted/Skull Island Fight Aftermath - Immediate Post-Battle Scene (Eclipse-II-P177).md",
+    "Writing/ATM/70 Extracted/Sorcery Division Backstories and Battra (Eclipse-II-P011).md",
+    "Writing/ATM/70 Extracted/Sorcery Division Student Backstories (Eclipse-II-P011).md",
+    "Writing/ATM/70 Extracted/Star-Crossed Pilgrimage Arc - Junior's Tragedy (Eclipse-II-P112-P113).md",
+    "Writing/ATM/70 Extracted/The Princes at Davos - Diplomatic Scene (Eclipse-II-P109).md",
+    "Writing/ATM/70 Extracted/Titanus Mosura Silk Production (Eclipse-II-P091).md",
     "Writing/ATM/70 Extracted/Monster Island - Geography and Rules (Eclipse-II-P120).md",
     "Writing/ATM/70 Extracted/Nordson Siblings - Developmental Timelines (Eclipse-II-P117-P119).md",
     "Writing/ATM/70 Extracted/Junior's Arc Epilogue - Family Conversations (Eclipse-II-P114-P116).md",
-    "Writing/ATM/70 Extracted/Star-Crossed Pilgrimage Arc - Junior's Tragedy (Eclipse-II-P112-P113).md",
     "Writing/ATM/70 Extracted/Leo and Lora - Fashion Aesthetics (Eclipse-II-P110-P111).md",
-    "Writing/ATM/70 Extracted/The Princes at Davos - Diplomatic Scene (Eclipse-II-P109).md",
     "Writing/ATM/70 Extracted/Junior Nordson - Fashion and Social Presence (Eclipse-II-P107-P108).md",
     "add_entities.py",
     "Writing/ATM/70 Extracted/Nordson Family Whimsy and Traditions (Eclipse-II-P106).md",
@@ -309,12 +314,7 @@
     "Writing/ATM/70 Extracted/Godzilla Post-Fight Introspection - Hyperthymesia and Internal Struggle (Eclipse-II-P180).md",
     "Writing/ATM/70 Extracted/Road to Atomic Amplification Arc Beginning (Eclipse-II-P179).md",
     "Writing/ATM/70 Extracted/Mothra Confronts Godzilla After Kong Fight (Eclipse-II-P178).md",
-    "Writing/ATM/70 Extracted/Skull Island Fight Aftermath - Immediate Post-Battle Scene (Eclipse-II-P177).md",
     "Writing/ATM/70 Extracted/Godzilla vs Kong Narrative Themes - Stripping False Narratives (Eclipse-II-P176).md",
-    "Writing/ATM/70 Extracted/Kong Value to Godzilla and Cognitive Quagmire Post-Fight (Eclipse-II-P175).md",
-    "Writing/ATM/70 Extracted/Godzilla Fighting Style Evolution - Dagon Observations and Kong Integration (Eclipse-II-P174).md",
-    "Writing/ATM/70 Extracted/Godzilla Positive Winter Mindset and Hibernation Post-Antitheriomorphosis (Eclipse-II-P173).md",
-    "Writing/ATM/70 Extracted/Titanus Gojira Combat Doctrine - One-Shot and Attrition Philosophy (Eclipse-II-P172).md",
     "rename_simple.py",
     "debug_files.py",
     "retitle_extractions.py",

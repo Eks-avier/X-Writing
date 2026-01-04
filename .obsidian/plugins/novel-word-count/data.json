@@ -13491,20 +13491,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1120,
+      "wordCount": 1107,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.7333333333333334,
-      "characterCount": 7071,
-      "nonWhitespaceCharacterCount": 5742,
-      "newlineCount": 82,
-      "readingTimeInMinutes": 4.226415094339623,
+      "pageCount": 3.69,
+      "characterCount": 6851,
+      "nonWhitespaceCharacterCount": 5618,
+      "newlineCount": 74,
+      "readingTimeInMinutes": 4.1773584905660375,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767514211207,
-      "modifiedDate": 1767514211207,
-      "sizeInBytes": 7085,
+      "modifiedDate": 1767522591457,
+      "sizeInBytes": 7053,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -13512,6 +13512,20 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P177",
+        "lines": "13776-13853",
+        "prompt": 177,
+        "extracted": "2026-01-04",
+        "category": "Uncategorized",
+        "entities": [
+          "Godzilla",
+          "Kong",
+          "Skull Island",
+          "Post-Battle"
+        ],
+        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/Mothra Confronts Godzilla After Kong Fight (Eclipse-II-P178).md": {
