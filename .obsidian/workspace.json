@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md",
+                "file": "Writing/ATM/70 Extracted/Junior Sword Collection and Fighting Styles (Eclipse-II-P095).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Companions Buddies - Sorcery Division Tools (Eclipse-II-P069)"
+              "title": "Junior Sword Collection and Fighting Styles (Eclipse-II-P095)"
             }
           }
         ]
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5133476257324
+    "width": 653.5133476257324
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md",
+                "file": "Writing/ATM/70 Extracted/Junior Sword Collection and Fighting Styles (Eclipse-II-P095).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Companions Buddies - Sorcery Division Tools (Eclipse-II-P069)"
+              "title": "Outline of Junior Sword Collection and Fighting Styles (Eclipse-II-P095)"
             }
           },
           {
@@ -282,11 +282,19 @@
       "file-cleaner-redux:Clean files": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Junior Master Swordsman and Combat Style (Eclipse-II-P094).md",
+    "Writing/ATM/70 Extracted/Deep Time - Titans Older Than Dinosaurs (Eclipse-II-P070).md",
+    "Writing/ATM/70 Extracted/Dagon Youth and Hyperthymesia Revelation (Eclipse-II-P071).md",
+    "Writing/ATM/70 Extracted/Ceremonial Swords - Solstice and Eien (Eclipse-II-P103).md",
+    "Writing/ATM/70 Extracted/Aura Actualized - Coating Flaring Expansion (Eclipse-II-P002).md",
+    "Writing/ATM/70 Extracted/Arthur Transformation and Exif Lore (Eclipse-II-P077).md",
+    "Writing/ATM/70 Extracted/Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md",
     "Writing/ATM/70 Extracted/Magic System Introduction and Soul Foundation (Eclipse-II-P055).md",
     "Writing/ATM/70 Extracted/Kratos Complete Power System Overview (Eclipse-II-P050).md",
     "Writing/ATM/70 Extracted/Injection Sovereign Writ True Damage (Eclipse-II-P049).md",
@@ -299,20 +307,13 @@
     "Writing/ATM/70 Extracted/Godric Gold Eyes Scene Development (Eclipse-II-P072).md",
     "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/Psionic Abilities Spectrum - Five Disciplines (Eclipse-II-P018).md",
-    "Writing/ATM/70 Extracted/Dagon Youth and Hyperthymesia Revelation (Eclipse-II-P071).md",
-    "Writing/ATM/70 Extracted/Deep Time - Titans Older Than Dinosaurs (Eclipse-II-P070).md",
     "Writing/ATM/70 Extracted/Narrative Structure and Magic Introduction (Eclipse-II-P013).md",
-    "Writing/ATM/70 Extracted/Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md",
     "Writing/ATM/70 Extracted/Dorianne and Battra Scene - Your New Teacher (Eclipse-II-P012).md",
     "Writing/ATM/70 Extracted/Sorcery Division Backstories and Battra (Eclipse-II-P011).md",
     "Writing/ATM/70 Extracted/Excess System and External Spell Keeping (Eclipse-II-P062).md",
     "Writing/ATM/70 Extracted/Magic Fourfold Doctrine and Soul Foundation (Eclipse-II-P061).md",
     "Writing/ATM/70 Extracted/Early Psionic Narrative 2020-2024 (Eclipse-II-P010).md",
     "Writing/ATM/70 Extracted/_MANIFESTO.md",
-    "Writing/ATM/70 Extracted/Koinon vs Krator Progression Paths (Eclipse-II-P003).md",
-    "Writing/ATM/70 Extracted/Psionics Core Metaphor - Artist and Ethicist (Eclipse-II-P005).md",
-    "Writing/ATM/70 Extracted/Mothra Telepathy Ethics (Eclipse-II-P005).md",
-    "Writing/ATM/70 Extracted/Mothra and Battra Twin Symbology (Eclipse-II-P005).md",
     "Writing/ATM/70 Extracted",
     "2026-01-02-this-session-is-being-continued-from-a-previous-co.txt",
     "Writing/ATM/60 Drafts/Godzilla IV",
