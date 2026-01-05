@@ -15,7 +15,8 @@
       "Bash(shuf)",
       "Bash(node _entity_linker.js:*)",
       "Bash(node:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(grep:*)"
     ]
   }
 }
