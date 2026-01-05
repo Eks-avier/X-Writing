@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Index.md",
+                "file": "Writing/ATM/70 Extracted/_QA_Report.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Index"
+              "title": "_QA_Report"
+            }
+          },
+          {
+            "id": "fb4f38d5c2e98296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/P200 - Retrospective and Notes (Eclipse-II).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "P200 - Retrospective and Notes (Eclipse-II)"
+            }
+          },
+          {
+            "id": "47c194d058e3a989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II)"
             }
           }
         ]
@@ -159,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Index.md"
+                "file": "Writing/ATM/70 Extracted/_QA_Report.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Index"
+              "title": "File properties for _QA_Report"
             }
           },
           {
@@ -287,12 +335,15 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
-    "Writing/ATM/70 Extracted/_Contradictions.md",
-    "Writing/ATM/70 Extracted/_Index.md",
-    "Writing/ATM/70 Extracted/_MANIFESTO.md",
-    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/P200 - Retrospective and Notes (Eclipse-II).md",
+    "Writing/ATM/70 Extracted/P235 - Image Upload Separator (Eclipse-II).md",
     "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II).md",
+    "Writing/ATM/70 Extracted/P201 - The Atomic Mantle - Clarifications (Eclipse-II).md",
+    "Writing/ATM/70 Extracted/_Index.md",
+    "Writing/ATM/70 Extracted/_Contradictions.md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
+    "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/_Branch_Map.md",
     "Writing/ATM/70 Extracted/_index_generator.py",
     "Writing/ATM/70 Extracted/_qa_validator_v2.py",
@@ -310,14 +361,11 @@
     "Writing/ATM/70 Extracted/P223 - Three Power Systems as Characters (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P222 - Kratos Philosophy - Work With What You Have (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P202 - We return to the Atomic Stride (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P200 - Retrospective and Notes (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P199 - Atomic Amplification Clarifications (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P197 - Atomic Amplification Post-Xilien Invasion Abilities (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P196 - File Upload Reference (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P194 - Titans Struggle with Fine Motor Control Post-Antitheriomorphosis (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P193 - Iterative World-Building and Concept Development Reflection (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P192 - Atomic Amplification Fine Motor Control Development (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P179 - Road to Atomic Amplification Arc Beginning (Eclipse-II).md",
     "Writing/ATM/70 Extracted/sedskU2ib",
     "extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_gaps.py",
