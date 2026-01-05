@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Branch_Map.md",
-                "mode": "source",
+                "file": "Writing/ATM/70 Extracted/_Contradictions.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Branch_Map"
+              "title": "_Contradictions"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Branch_Map.md"
+                "file": "Writing/ATM/70 Extracted/_Contradictions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Branch_Map"
+              "title": "File properties for _Contradictions"
             }
           },
           {
@@ -287,12 +287,16 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
+    "Writing/ATM/70 Extracted/P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II).md",
+    "Writing/ATM/70 Extracted/_Branch_Map.md",
+    "Writing/ATM/70 Extracted/_Index.md",
+    "Writing/ATM/70 Extracted/_index_generator.py",
     "Writing/ATM/70 Extracted/_qa_validator_v2.py",
     "Writing/ATM/70 Extracted/_update_entities.py",
     "Writing/ATM/70 Extracted/_Contradictions.md",
     "Writing/ATM/70 Extracted/_MANIFESTO.md",
-    "Writing/ATM/70 Extracted/_Progress.md",
-    "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/_Topic_Evolution_Report.md",
     "Writing/ATM/70 Extracted/_entity_linker.js",
     "Writing/ATM/70 Extracted/_qa_validator.py",
@@ -314,15 +318,11 @@
     "Writing/ATM/70 Extracted/P193 - Iterative World-Building and Concept Development Reflection (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P192 - Atomic Amplification Fine Motor Control Development (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P179 - Road to Atomic Amplification Arc Beginning (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P178 - Mothra Confronts Godzilla After Kong Fight (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P176 - Godzilla vs Kong Narrative Themes - Stripping False Narratives (Eclipse-II).md",
     "Writing/ATM/70 Extracted/sedskU2ib",
     "extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_gaps.py",
     "Writing/ATM/70 Extracted/extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_eclipse2_prompts.py",
-    "add_entities.py",
-    "rename_simple.py",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",
