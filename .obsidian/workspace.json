@@ -11,24 +11,10 @@
             "id": "583a9ea860df181a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
+              "title": "New tab"
             }
           }
         ]
@@ -158,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
+              "title": "File properties"
             }
           },
           {
@@ -287,6 +271,9 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_entity_linker.js",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
+    "Writing/ATM/70 Extracted/_qa_validator.py",
     "Writing/ATM/70 Extracted/P230 - File Upload - Hair Specs Part 4 (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P229 - File Upload - Hair Specs Part 3 (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P228 - File Upload - Hair Specs Part 2 (Eclipse-II).md",
@@ -311,8 +298,6 @@
     "Writing/ATM/70 Extracted/P164 - Atomic Amplification Foundations (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P163 - Limitless Adaptation Deep Dive (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P159 - Godzilla Powerless State - Repose Mystery (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P081 - Nordson Children Mosura Layer 3 Silk Immortality Heights (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P080 - Nordson Children Gojira Layer 2 Nuclear Abilities (Eclipse-II).md",
     "Writing/ATM/70 Extracted/sedskU2ib",
     "extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_gaps.py",
@@ -322,7 +307,6 @@
     "rename_simple.py",
     "debug_files.py",
     "retitle_extractions.py",
-    "full_extract_p171_p198.py",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",
