@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Contradictions.md",
+                "file": "Writing/ATM/70 Extracted/_Index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Contradictions"
+              "title": "_Index"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Contradictions.md"
+                "file": "Writing/ATM/70 Extracted/_Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Contradictions"
+              "title": "File properties for _Index"
             }
           },
           {
@@ -287,16 +287,16 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Contradictions.md",
+    "Writing/ATM/70 Extracted/_Index.md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II).md",
     "Writing/ATM/70 Extracted/_Branch_Map.md",
-    "Writing/ATM/70 Extracted/_Index.md",
     "Writing/ATM/70 Extracted/_index_generator.py",
     "Writing/ATM/70 Extracted/_qa_validator_v2.py",
     "Writing/ATM/70 Extracted/_update_entities.py",
-    "Writing/ATM/70 Extracted/_Contradictions.md",
-    "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/_Topic_Evolution_Report.md",
     "Writing/ATM/70 Extracted/_entity_linker.js",
     "Writing/ATM/70 Extracted/_qa_validator.py",
