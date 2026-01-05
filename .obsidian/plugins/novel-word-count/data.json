@@ -316,20 +316,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3452,
+      "wordCount": 3435,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 11.506666666666666,
-      "characterCount": 20622,
-      "nonWhitespaceCharacterCount": 16533,
-      "newlineCount": 402,
-      "readingTimeInMinutes": 13.026415094339622,
+      "pageCount": 11.45,
+      "characterCount": 20437,
+      "nonWhitespaceCharacterCount": 16373,
+      "newlineCount": 394,
+      "readingTimeInMinutes": 12.962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551225063,
-      "modifiedDate": 1767609538600,
-      "sizeInBytes": 20648,
+      "modifiedDate": 1767609609839,
+      "sizeInBytes": 20649,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 11.506666666666666,
@@ -337,6 +337,19 @@
         "characterCount": 20625,
         "nonWhitespaceCharacterCount": 16533,
         "newlineCount": 403
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P245",
+        "lines": "17879-18266",
+        "prompt": 245,
+        "extracted": "2026-01-05",
+        "category": "Character Development",
+        "entities": [
+          "Godric",
+          "Maria"
+        ],
+        "status": "extracted",
+        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/P243 - Sexual Dynamic - Character Driven Intimacy (Eclipse-II).md": {
@@ -1475,20 +1488,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1281,
+      "wordCount": 1307,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.27,
-      "characterCount": 8152,
-      "nonWhitespaceCharacterCount": 6746,
-      "newlineCount": 58,
-      "readingTimeInMinutes": 4.833962264150943,
+      "pageCount": 4.3566666666666665,
+      "characterCount": 8406,
+      "nonWhitespaceCharacterCount": 6965,
+      "newlineCount": 67,
+      "readingTimeInMinutes": 4.932075471698113,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551224989,
-      "modifiedDate": 1767551224989,
-      "sizeInBytes": 8360,
+      "modifiedDate": 1767609609802,
+      "sizeInBytes": 8412,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.27,
@@ -1496,22 +1509,6 @@
         "characterCount": 8152,
         "nonWhitespaceCharacterCount": 6746,
         "newlineCount": 58
-      },
-      "frontmatter": {
-        "source": "Eclipse-II-P211",
-        "lines": "16236-16287",
-        "prompt": 211,
-        "extracted": "2026-01-05",
-        "category": "Mechanics",
-        "entities": [
-          "Godric",
-          "Maria",
-          "Godzilla",
-          "Mothra",
-          "Battra"
-        ],
-        "status": "extracted",
-        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/P209 - Godric True Voice - Northern English Scottish Default (Eclipse-II).md": {
@@ -1656,20 +1653,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1268,
+      "wordCount": 1248,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.226666666666667,
-      "characterCount": 7862,
-      "nonWhitespaceCharacterCount": 6443,
-      "newlineCount": 78,
-      "readingTimeInMinutes": 4.784905660377358,
+      "pageCount": 4.16,
+      "characterCount": 7649,
+      "nonWhitespaceCharacterCount": 6261,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 4.709433962264151,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551224982,
-      "modifiedDate": 1767551224984,
-      "sizeInBytes": 7862,
+      "modifiedDate": 1767609609798,
+      "sizeInBytes": 7859,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.226666666666667,
@@ -1677,6 +1674,21 @@
         "characterCount": 7862,
         "nonWhitespaceCharacterCount": 6443,
         "newlineCount": 78
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P208",
+        "lines": "16045-16107",
+        "prompt": 208,
+        "extracted": "2026-01-05",
+        "category": "Character Development",
+        "entities": [
+          "Castle Bravo",
+          "Godzilla",
+          "Godric",
+          "Dagon"
+        ],
+        "status": "extracted",
+        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/P204 - Phasing Stride - Godzilla Intangibility Analog (Eclipse-II).md": {
@@ -1999,8 +2011,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767514211245,
-      "modifiedDate": 1767514275215,
-      "sizeInBytes": 7417,
+      "modifiedDate": 1767609609784,
+      "sizeInBytes": 7416,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.5766666666666667,
@@ -2016,9 +2028,13 @@
         "extracted": "2026-01-04",
         "category": "Uncategorized",
         "entities": [
-          "Narrative Structure",
-          "Arc Dedication",
-          "First Principles"
+          "Castle Bravo",
+          "Godzilla",
+          "Mothra",
+          "Battra",
+          "Scylla",
+          "Rodan",
+          "Magic"
         ],
         "status": "extracted"
       }
@@ -2227,20 +2243,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 679,
+      "wordCount": 660,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.263333333333333,
-      "characterCount": 4508,
-      "nonWhitespaceCharacterCount": 3669,
-      "newlineCount": 59,
-      "readingTimeInMinutes": 2.5622641509433963,
+      "pageCount": 2.2,
+      "characterCount": 4308,
+      "nonWhitespaceCharacterCount": 3497,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 2.490566037735849,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767514211235,
-      "modifiedDate": 1767514275208,
-      "sizeInBytes": 4510,
+      "modifiedDate": 1767626619695,
+      "sizeInBytes": 4473,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.263333333333333,
@@ -2248,6 +2264,18 @@
         "characterCount": 4508,
         "nonWhitespaceCharacterCount": 3669,
         "newlineCount": 59
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P191",
+        "lines": "14870-14913",
+        "prompt": 191,
+        "extracted": "2026-01-04",
+        "category": "Uncategorized",
+        "entities": [
+          "Godzilla",
+          "gojira"
+        ],
+        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/P190 - Godzilla Crocodile Death Roll Technique (Eclipse-II).md": {
@@ -2696,8 +2724,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767514211205,
-      "modifiedDate": 1767514275189,
-      "sizeInBytes": 4654,
+      "modifiedDate": 1767609609760,
+      "sizeInBytes": 4664,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.263333333333333,
@@ -2713,9 +2741,11 @@
         "extracted": "2026-01-04",
         "category": "Uncategorized",
         "entities": [
+          "Manifestation",
+          "Skull Island",
           "Godzilla",
-          "Kong",
-          "Narrative Themes"
+          "Dagon",
+          "Kong"
         ],
         "status": "extracted"
       }
@@ -3135,8 +3165,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551521652,
-      "modifiedDate": 1767551521653,
-      "sizeInBytes": 10790,
+      "modifiedDate": 1767609609738,
+      "sizeInBytes": 10800,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 5.1466666666666665,
@@ -3152,11 +3182,15 @@
         "extracted": "2026-01-05",
         "category": "Worldbuilding",
         "entities": [
-          "Anakalypto",
+          "Manifestation",
+          "Symphonia",
+          "Godzilla",
           "Junior",
-          "Leo",
-          "Antitheriomorphosis",
-          "Godzilla"
+          "Krator",
+          "gojira",
+          "Horme",
+          "Aura",
+          "Leo"
         ],
         "status": "extracted",
         "contradictions": []
@@ -3826,8 +3860,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551521630,
-      "modifiedDate": 1767551521630,
-      "sizeInBytes": 6699,
+      "modifiedDate": 1767609609714,
+      "sizeInBytes": 6691,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.22,
@@ -3843,7 +3877,7 @@
         "extracted": "2026-01-05",
         "category": "Character Development",
         "entities": [
-          "Monarch",
+          "Biollante",
           "Godzilla",
           "Godric",
           "Scylla"
@@ -3895,20 +3929,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 322,
-      "nonWhitespaceCharacterCount": 264,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.10566037735849057,
+      "pageCount": 0.09,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 259,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767551521627,
-      "modifiedDate": 1767551521627,
-      "sizeInBytes": 498,
+      "modifiedDate": 1767609609710,
+      "sizeInBytes": 487,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09333333333333334,
@@ -4165,20 +4199,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1451,
+      "wordCount": 1431,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.836666666666667,
-      "characterCount": 9304,
-      "nonWhitespaceCharacterCount": 7682,
-      "newlineCount": 79,
-      "readingTimeInMinutes": 5.475471698113208,
+      "pageCount": 4.77,
+      "characterCount": 9088,
+      "nonWhitespaceCharacterCount": 7497,
+      "newlineCount": 70,
+      "readingTimeInMinutes": 5.4,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767571272093,
-      "modifiedDate": 1767571272093,
-      "sizeInBytes": 9314,
+      "modifiedDate": 1767609609698,
+      "sizeInBytes": 9303,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.836666666666667,
@@ -4186,6 +4220,22 @@
         "characterCount": 9304,
         "nonWhitespaceCharacterCount": 7682,
         "newlineCount": 79
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P130",
+        "lines": "10319-10388",
+        "prompt": 130,
+        "extracted": "2026-01-05",
+        "category": "Worldbuilding",
+        "entities": [
+          "Godzilla",
+          "Godric",
+          "Mothra",
+          "Battra",
+          "Scylla"
+        ],
+        "status": "extracted",
+        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/P129 - Global Titan Outposts and Monarch Duoarchy (Eclipse-II).md": {
@@ -4579,8 +4629,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767514768026,
-      "modifiedDate": 1767514768026,
-      "sizeInBytes": 17865,
+      "modifiedDate": 1767609609684,
+      "sizeInBytes": 17919,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 9.64,
@@ -4596,12 +4646,20 @@
         "extracted": "2026-01-04",
         "category": "Story Arcs",
         "entities": [
-          "Junior Nordson",
-          "Leo Nordson",
-          "Lora Nordson",
+          "Titanus gojira",
+          "Manifestation",
+          "Godzilla",
           "Godric",
           "Mothra",
-          "Dagon"
+          "Battra",
+          "Junior",
+          "gojira",
+          "Maria",
+          "Dagon",
+          "Horme",
+          "Magic",
+          "Lora",
+          "Leo"
         ],
         "status": "extracted",
         "contradictions": "The arc heavily parallels and references Dagon's story and Mothra's sacrificial patterns, which are established earlier. Ensure consistency with those established narratives when developing this arc."
@@ -4735,20 +4793,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 734,
+      "wordCount": 715,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4466666666666668,
-      "characterCount": 4872,
-      "nonWhitespaceCharacterCount": 4078,
-      "newlineCount": 55,
-      "readingTimeInMinutes": 2.7627169811320753,
+      "pageCount": 2.3833333333333333,
+      "characterCount": 4689,
+      "nonWhitespaceCharacterCount": 3915,
+      "newlineCount": 47,
+      "readingTimeInMinutes": 2.6910188679245284,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767504668858,
-      "modifiedDate": 1767504668860,
-      "sizeInBytes": 4897,
+      "modifiedDate": 1767609609674,
+      "sizeInBytes": 4901,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.4466666666666668,
@@ -4756,6 +4814,23 @@
         "characterCount": 4872,
         "nonWhitespaceCharacterCount": 4078,
         "newlineCount": 55
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P103",
+        "lines": "8194-8282",
+        "prompt": 103,
+        "extracted": "2026-01-04",
+        "category": "Worldbuilding",
+        "entities": [
+          "Godzilla",
+          "Godric",
+          "Mothra",
+          "Junior",
+          "Maria",
+          "Lora",
+          "Leo"
+        ],
+        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/P104 - Lora Nordson - Combat Philosophy (Eclipse-II).md": {
@@ -5309,8 +5384,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767457142508,
-      "modifiedDate": 1767457142508,
-      "sizeInBytes": 1630,
+      "modifiedDate": 1767609609645,
+      "sizeInBytes": 1708,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6066666666666667,
@@ -5325,7 +5400,17 @@
         "prompt": 82,
         "extracted": "2026-01-03",
         "category": "Uncategorized",
-        "entities": [],
+        "entities": [
+          "Atomic Amplification",
+          "Psionics",
+          "Godric",
+          "Junior",
+          "gojira",
+          "Dagon",
+          "Ichi",
+          "Kong",
+          "Leo"
+        ],
         "status": "extracted"
       }
     },
@@ -5630,20 +5715,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1380,
+      "wordCount": 1404,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.6,
-      "characterCount": 9538,
-      "nonWhitespaceCharacterCount": 7847,
-      "newlineCount": 120,
-      "readingTimeInMinutes": 5.2075471698113205,
+      "pageCount": 4.68,
+      "characterCount": 9755,
+      "nonWhitespaceCharacterCount": 8039,
+      "newlineCount": 128,
+      "readingTimeInMinutes": 5.2981132075471695,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767456854658,
-      "modifiedDate": 1767456854658,
-      "sizeInBytes": 9690,
+      "modifiedDate": 1767609609641,
+      "sizeInBytes": 9771,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.6,
@@ -5651,15 +5736,6 @@
         "characterCount": 9538,
         "nonWhitespaceCharacterCount": 7847,
         "newlineCount": 120
-      },
-      "frontmatter": {
-        "source": "Eclipse-II-P078",
-        "lines": "5387-5897",
-        "prompt": 78,
-        "extracted": "2026-01-03",
-        "category": "Uncategorized",
-        "entities": [],
-        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/P076 - Ghidorah Ichi Finding Meaning Character Arc (Eclipse-II).md": {
@@ -5983,8 +6059,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767402662603,
-      "modifiedDate": 1767402662604,
-      "sizeInBytes": 8020,
+      "modifiedDate": 1767609609629,
+      "sizeInBytes": 8085,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.933333333333333,
@@ -5999,7 +6075,15 @@
         "prompt": 68,
         "extracted": "2026-01-03",
         "category": "Uncategorized",
-        "entities": [],
+        "entities": [
+          "Titanus mosura",
+          "Godzilla",
+          "Psionics",
+          "Mothra",
+          "Battra",
+          "Kratos",
+          "Magic"
+        ],
         "status": "extracted"
       }
     },
@@ -6444,8 +6528,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767571171334,
-      "modifiedDate": 1767571171335,
-      "sizeInBytes": 711,
+      "modifiedDate": 1767609609609,
+      "sizeInBytes": 704,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.25,
@@ -6461,7 +6545,7 @@
         "extracted": "2026-01-05",
         "category": "Mechanics",
         "entities": [
-          "Magic System"
+          "Magic"
         ],
         "status": "extracted",
         "contradictions": []
@@ -6553,7 +6637,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4.166666666666667,
-      "characterCount": 9380,
+      "characterCount": 9487,
       "nonWhitespaceCharacterCount": 7872,
       "newlineCount": 108,
       "readingTimeInMinutes": 4.716981132075472,
@@ -6561,8 +6645,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767403116202,
-      "modifiedDate": 1767403116202,
-      "sizeInBytes": 9557,
+      "modifiedDate": 1767626580059,
+      "sizeInBytes": 9798,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.166666666666667,
@@ -6577,7 +6661,22 @@
         "prompt": 50,
         "extracted": "2026-01-03",
         "category": "Uncategorized",
-        "entities": [],
+        "entities": [
+          "Aura",
+          "Coating",
+          "Ghidorah",
+          "Godzilla",
+          "Horme",
+          "Koinon",
+          "Krator",
+          "Kratos",
+          "Magic",
+          "Manifestation",
+          "Psionics",
+          "Scylla",
+          "Symphonia",
+          "Telepathy"
+        ],
         "status": "extracted"
       }
     },
@@ -7236,20 +7335,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 843,
+      "wordCount": 830,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.81,
-      "characterCount": 6121,
-      "nonWhitespaceCharacterCount": 5128,
-      "newlineCount": 87,
-      "readingTimeInMinutes": 3.181132075471698,
+      "pageCount": 2.7666666666666666,
+      "characterCount": 5985,
+      "nonWhitespaceCharacterCount": 5007,
+      "newlineCount": 79,
+      "readingTimeInMinutes": 3.1320754716981134,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767454341397,
-      "modifiedDate": 1767454341397,
-      "sizeInBytes": 6135,
+      "modifiedDate": 1767609609584,
+      "sizeInBytes": 6210,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.81,
@@ -7257,6 +7356,24 @@
         "characterCount": 6121,
         "nonWhitespaceCharacterCount": 5128,
         "newlineCount": 87
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P030",
+        "lines": "3037-3265",
+        "prompt": 30,
+        "extracted": "2026-01-03",
+        "category": "Uncategorized",
+        "entities": [
+          "Manifestation",
+          "Epichrisis",
+          "Godzilla",
+          "Psionics",
+          "Coating",
+          "Kratos",
+          "Magic",
+          "Aura"
+        ],
+        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/P028 - Xilien Invasion Battles and Magic Introduction (Eclipse-II).md": {
@@ -7362,20 +7479,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1098,
+      "wordCount": 1118,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.66,
-      "characterCount": 7214,
-      "nonWhitespaceCharacterCount": 6004,
-      "newlineCount": 82,
-      "readingTimeInMinutes": 4.143396226415095,
+      "pageCount": 3.7266666666666666,
+      "characterCount": 7412,
+      "nonWhitespaceCharacterCount": 6181,
+      "newlineCount": 90,
+      "readingTimeInMinutes": 4.218867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767423954521,
-      "modifiedDate": 1767423954522,
-      "sizeInBytes": 7358,
+      "modifiedDate": 1767609609574,
+      "sizeInBytes": 7420,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.66,
@@ -7383,15 +7500,6 @@
         "characterCount": 7214,
         "nonWhitespaceCharacterCount": 6004,
         "newlineCount": 82
-      },
-      "frontmatter": {
-        "source": "Eclipse-II-P023",
-        "lines": "2078-2195",
-        "prompt": 23,
-        "extracted": "2026-01-03",
-        "category": "Uncategorized",
-        "entities": [],
-        "status": "extracted"
       }
     },
     "Writing/ATM/70 Extracted/P024 - Power System Balance and Matchups (Eclipse-II).md": {
@@ -7716,8 +7824,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767402885550,
-      "modifiedDate": 1767402885550,
-      "sizeInBytes": 11010,
+      "modifiedDate": 1767609609568,
+      "sizeInBytes": 11075,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.8966666666666665,
@@ -7732,7 +7840,15 @@
         "prompt": 18,
         "extracted": "2026-01-03",
         "category": "Uncategorized",
-        "entities": [],
+        "entities": [
+          "Manifestation",
+          "Telepathy",
+          "Psionics",
+          "Mothra",
+          "Battra",
+          "Kratos",
+          "Magic"
+        ],
         "status": "extracted"
       }
     },
@@ -8076,7 +8192,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767571102808,
-      "modifiedDate": 1767571102808,
+      "modifiedDate": 1767609609551,
       "sizeInBytes": 569,
       "sessionStart": {
         "noteCount": 1,

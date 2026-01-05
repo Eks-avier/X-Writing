@@ -4,7 +4,7 @@ lines: 12935-13048
 prompt: 165
 extracted: 2026-01-05
 category: Character Development
-entities: [Atomic Amplification, Godzilla, gojira, Kong]
+entities: [Atomic Amplification, Godric, Godzilla, Kong, gojira]
 status: extracted
 contradictions: []
 ---

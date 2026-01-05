@@ -4,7 +4,7 @@ lines: 14870-14913
 prompt: 191
 extracted: 2026-01-04
 category: Uncategorized
-entities: [gojira]
+entities: [Godzilla, gojira]
 status: extracted
 ---
 
