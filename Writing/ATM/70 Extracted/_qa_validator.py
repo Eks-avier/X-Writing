@@ -307,8 +307,22 @@ def generate_report():
     if issues['missing_yaml_fields']:
         report.append("### Files Missing Required YAML Fields")
         report.append("")
+
+        # Group by missing fields for cleaner reporting
+        fields_to_files = defaultdict(list)
         for f, fields in issues['missing_yaml_fields']:
-            report.append(f"- `{f}`: Missing {', '.join(fields)}")
+            key = tuple(sorted(fields))
+            fields_to_files[key].append(f)
+
+        for missing_fields, files in fields_to_files.items():
+            report.append(f"**Missing `{', '.join(missing_fields)}` ({len(files)} files):**")
+            report.append("")
+            for f in files:
+                report.append(f"- `{f}`")
+            report.append("")
+
+        report.append("**Suggested Fix:** Add the missing fields to each file's YAML frontmatter.")
+        report.append("For `lines` field, use format: `lines: start-end` (e.g., `lines: 3-278`)")
         report.append("")
 
     # Your Notes issues

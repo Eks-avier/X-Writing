@@ -11,10 +11,24 @@
             "id": "583a9ea860df181a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_Branch_Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_Branch_Map"
             }
           }
         ]
@@ -144,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_Branch_Map.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for _Branch_Map"
             }
           },
           {
@@ -271,9 +287,12 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Contradictions.md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
+    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/_Topic_Evolution_Report.md",
     "Writing/ATM/70 Extracted/_entity_linker.js",
-    "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/_qa_validator.py",
     "Writing/ATM/70 Extracted/P230 - File Upload - Hair Specs Part 4 (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P229 - File Upload - Hair Specs Part 3 (Eclipse-II).md",
@@ -296,9 +315,6 @@
     "Writing/ATM/70 Extracted/P178 - Mothra Confronts Godzilla After Kong Fight (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P176 - Godzilla vs Kong Narrative Themes - Stripping False Narratives (Eclipse-II).md",
     "Writing/ATM/70 Extracted/P175 - Kong Value to Godzilla and Cognitive Quagmire Post-Fight (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P164 - Atomic Amplification Foundations (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P163 - Limitless Adaptation Deep Dive (Eclipse-II).md",
-    "Writing/ATM/70 Extracted/P159 - Godzilla Powerless State - Repose Mystery (Eclipse-II).md",
     "Writing/ATM/70 Extracted/sedskU2ib",
     "extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_gaps.py",
