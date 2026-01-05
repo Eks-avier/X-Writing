@@ -4,7 +4,7 @@ lines: 13214-13316
 prompt: 170
 extracted: 2026-01-05
 category: Character Development
-entities: ['Kong', 'Skull Island', 'Atomic Amplification', 'Godzilla', 'Dagon']
+entities: [Atomic Amplification, Titanus gojira, Skull Island, Godzilla, gojira, Dagon, Kong]
 status: extracted
 contradictions: []
 ---

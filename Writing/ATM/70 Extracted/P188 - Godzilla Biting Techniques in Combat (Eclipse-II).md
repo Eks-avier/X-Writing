@@ -4,7 +4,7 @@ lines: 14657-14762
 prompt: 188
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Biting', 'Combat Techniques']
+entities: [Skull Island, Godzilla, Godric, gojira, Kong]
 status: extracted
 ---
 

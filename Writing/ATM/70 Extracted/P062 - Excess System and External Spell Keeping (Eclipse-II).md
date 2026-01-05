@@ -4,7 +4,7 @@ lines: 3684-3802
 prompt: 62
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Psionics, Battra, Magic]
 status: extracted
 ---
 

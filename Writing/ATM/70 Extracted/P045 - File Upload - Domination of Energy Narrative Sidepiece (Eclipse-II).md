@@ -4,7 +4,7 @@ lines: 2957-2961
 prompt: 045
 extracted: 2026-01-05
 category: Reference Material
-entities: [Godzilla, Battra, Henry, Selena]
+entities: [Godzilla, Battra, Kratos, Magic]
 status: extracted
 contradictions: []
 ---

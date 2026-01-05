@@ -4,7 +4,7 @@ lines: 8824-8924
 prompt: 109
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Junior Nordson, Leo Nordson, Godric]
+entities: [Hollow Earth, Telepathy, Godric, Junior, Kong, Lora, Leo]
 status: extracted
 ---
 

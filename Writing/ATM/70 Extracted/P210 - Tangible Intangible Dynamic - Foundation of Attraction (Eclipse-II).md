@@ -4,7 +4,7 @@ lines: 16175-16235
 prompt: 210
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Mothra, Dagon]
+entities: [Godzilla, Psionics, Godric, Mothra, Maria, Dagon]
 status: extracted
 contradictions: []
 ---

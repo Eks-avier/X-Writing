@@ -4,7 +4,7 @@ lines: 4683-4912
 prompt: 74
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Castle Bravo, Godzilla, Godric, Mothra, Maria]
 status: extracted
 ---
 

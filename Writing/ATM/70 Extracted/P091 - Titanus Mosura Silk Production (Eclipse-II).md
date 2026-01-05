@@ -4,7 +4,7 @@ lines: 6806-6915
 prompt: 91
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Titanus mosura, Godzilla, Mothra, Battra, Junior, gojira, Maria, Lora, Leo]
 status: extracted
 ---
 

@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P005
+prompt: 005
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Castle Bravo, Telepathy, Mothra, Battra]
+status: extracted
+---
+
 # Battra Telepathy Pragmatism
 
 > **Source:** `Eclipse II` - Prompt 5 (Lines 781-986)

@@ -4,7 +4,7 @@ lines: 4156-4293
 prompt: 70
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Hollow Earth, Godzilla, Ghidorah, Mothra, Battra, Junior, Rodan, Dagon]
 status: extracted
 ---
 

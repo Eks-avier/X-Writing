@@ -4,7 +4,7 @@ lines: 15298-15380
 prompt: 198
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Atomic Amplification', 'APS', 'Asymmetrical Permeable Shield']
+entities: [Atomic Amplification, Titanus gojira, Godzilla, Godric, Battra, gojira, Kong, Aura]
 status: extracted
 ---
 

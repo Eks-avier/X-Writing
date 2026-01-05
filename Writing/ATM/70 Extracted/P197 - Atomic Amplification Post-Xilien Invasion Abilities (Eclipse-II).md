@@ -4,7 +4,7 @@ lines: 15210-15297
 prompt: 197
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Atomic Amplification', 'Xilien Invasion', 'Post-Arc Abilities']
+entities: [Atomic Amplification, Godzilla, Godric, Mothra, Battra, Rodan, Magic, Aura]
 status: extracted
 ---
 

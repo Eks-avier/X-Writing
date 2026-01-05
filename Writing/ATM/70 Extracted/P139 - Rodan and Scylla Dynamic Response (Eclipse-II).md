@@ -4,7 +4,7 @@ lines: 11213-11272
 prompt: 139
 extracted: 2026-01-05
 category: Character Development
-entities: ['Kong', 'Rodan', 'Mothra', 'Scylla', 'Godzilla']
+entities: [Godzilla, Mothra, Scylla, Rodan, Kong]
 status: extracted
 contradictions: []
 ---

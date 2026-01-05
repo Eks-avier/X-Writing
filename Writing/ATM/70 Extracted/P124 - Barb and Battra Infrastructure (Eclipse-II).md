@@ -4,7 +4,7 @@ lines: 9932-9949
 prompt: 124
 extracted: 2026-01-04
 category: Uncategorized
-entities: [Barb, Kong, Battra, Hollow Earth Gateways, Titan Telepathic Web]
+entities: [Monster Island, Hollow Earth, Castle Bravo, Godzilla, Mothra, Battra, Rodan, Magic, Kong]
 status: extracted
 ---
 

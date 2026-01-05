@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P002
+prompt: 002
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Titanus gojira, Manifestation, Godzilla, Ghidorah, Coating, Battra, Kratos, gojira, Magic, Aura]
+status: extracted
+---
+
 # Aura Willpower Dependency and Conscious Control
 
 > **Source:** `Eclipse II` - Prompt 2 (Lines 281-436)

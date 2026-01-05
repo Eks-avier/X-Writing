@@ -81,18 +81,23 @@ function updateEntitiesInYaml(yamlContent, entities) {
     ? `[${entities.join(', ')}]`
     : '[]';
 
+  // Ensure yaml content ends with newline
+  let yaml = yamlContent.trim();
+
   // Check if entities field exists
-  if (/^entities:/m.test(yamlContent)) {
+  if (/^entities:/m.test(yaml)) {
     // Replace existing entities field
-    return yamlContent.replace(/^entities:.*$/m, `entities: ${entitiesStr}`);
+    yaml = yaml.replace(/^entities:.*$/m, `entities: ${entitiesStr}`);
   } else {
     // Add entities field before status if it exists, otherwise at end
-    if (/^status:/m.test(yamlContent)) {
-      return yamlContent.replace(/^(status:)/m, `entities: ${entitiesStr}\n$1`);
+    if (/^status:/m.test(yaml)) {
+      yaml = yaml.replace(/^(status:)/m, `entities: ${entitiesStr}\n$1`);
     } else {
-      return yamlContent.trim() + `\nentities: ${entitiesStr}\n`;
+      yaml = yaml + `\nentities: ${entitiesStr}`;
     }
   }
+
+  return yaml + '\n';
 }
 
 function createFrontmatter(filename, entities) {

@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P002
+prompt: 002
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Godzilla, Ghidorah, Coating, Battra, Kratos, Krator, Aura]
+status: extracted
+---
+
 # Aura Actualized - Coating Flaring Expansion Suppression
 
 > **Source:** `Eclipse II` - Prompt 2 (Lines 281-436)

@@ -4,7 +4,7 @@ lines: 3151-3389
 prompt: 31
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Coating, Kratos, Krator, Koinon, Magic, Aura]
 status: extracted
 ---
 

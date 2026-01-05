@@ -4,7 +4,7 @@ lines: 3568-3571
 prompt: 056
 extracted: 2026-01-05
 category: Mechanics
-entities: [Magic System]
+entities: [Magic]
 status: extracted
 contradictions: []
 ---

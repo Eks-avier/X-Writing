@@ -4,7 +4,7 @@ lines: 13374-13462
 prompt: 172
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Titanus Gojira', 'Godzilla', 'Dagon', 'Northern Faction', 'Combat Doctrine', 'One-Shot Philosophy', 'Attrition', 'Limitless Adaptation']
+entities: [Titanus gojira, Godzilla, Godric, gojira, Dagon, Kong, Aura]
 status: extracted
 ---
 

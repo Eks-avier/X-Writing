@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P003
+prompt: 003
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Ghidorah, Coating, Krator, Koinon, Aura]
+status: extracted
+---
+
 # Flaring Revised Definition
 
 > **Source:** `Eclipse II` - Prompt 3 (Lines 441-581)

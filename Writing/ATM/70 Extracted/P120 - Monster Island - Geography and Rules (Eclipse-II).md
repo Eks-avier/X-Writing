@@ -4,7 +4,7 @@ lines: 9781-9830
 prompt: 120
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Monster Island, Battra, Mothra, Monarch, Keep Charlie]
+entities: [Monster Island, Hollow Earth, Castle Bravo, Biollante, Godzilla, Psionics, Mothra, Battra, Magic]
 status: extracted
 ---
 

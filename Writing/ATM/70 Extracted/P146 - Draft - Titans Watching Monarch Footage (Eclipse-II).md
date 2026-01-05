@@ -4,7 +4,7 @@ lines: 11583-11695
 prompt: 146
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Kong', 'Hollow Earth', 'Rodan', 'Scylla', 'Antitheriomorphosis']
+entities: [Hollow Earth, Scylla, Rodan, Kong]
 status: extracted
 contradictions: []
 ---

@@ -4,7 +4,7 @@ lines: 1990-2077
 prompt: 22
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Titanus scylla, Telepathy, Godzilla, Psionics, Mothra, Battra, Scylla, Kratos, Magic]
 status: extracted
 ---
 

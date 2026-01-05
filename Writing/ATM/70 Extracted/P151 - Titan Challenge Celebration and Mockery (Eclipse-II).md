@@ -4,7 +4,7 @@ lines: 11988-12055
 prompt: 151
 extracted: 2026-01-05
 category: Character Development
-entities: ['Alpha Paramount', 'Rodan', 'Mothra', 'Scylla', 'Sovereign', 'Godzilla']
+entities: [Godzilla, Mothra, Scylla, gojira, Rodan]
 status: extracted
 contradictions: []
 ---

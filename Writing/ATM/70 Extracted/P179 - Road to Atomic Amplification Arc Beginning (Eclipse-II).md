@@ -4,7 +4,7 @@ lines: 13963-14058
 prompt: 179
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Atomic Amplification', 'Keystone Arc']
+entities: [Atomic Amplification, Titanus kong, Hollow Earth, Castle Bravo, Skull Island, Godzilla, Godric, Mothra, Maria, Rodan, Kong]
 status: extracted
 ---
 

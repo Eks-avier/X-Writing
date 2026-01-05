@@ -4,7 +4,7 @@ lines: 12429-12499
 prompt: 159
 extracted: 2026-01-05
 category: Character Development
-entities: ['Rodan', 'Mothra', 'Scylla', 'Antitheriomorphosis', 'Godzilla']
+entities: [Symphonia, Godzilla, Psionics, Mothra, Battra, Scylla, Krator, Rodan, Horme, Magic]
 status: extracted
 contradictions: []
 ---

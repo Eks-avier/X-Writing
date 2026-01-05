@@ -4,7 +4,7 @@ lines: 4021-4155
 prompt: 69
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Titanus mosura, Hollow Earth, Godzilla, Psionics, Mothra, Battra, Magic, Kong]
 status: extracted
 ---
 

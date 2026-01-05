@@ -4,7 +4,7 @@ lines: 13149-13207
 prompt: 168
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Rodan', 'Mothra', 'Atomic Amplification', 'Scylla', 'Godzilla']
+entities: [Atomic Amplification, Godzilla, Mothra, Scylla, Maria, Rodan, Aura]
 status: extracted
 contradictions: []
 ---

@@ -4,7 +4,7 @@ lines: 7412-7507
 prompt: 96
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Titanus gojira, Hollow Earth, Godzilla, Godric, Junior, gojira, Dagon, Kong, Leo]
 status: extracted
 ---
 

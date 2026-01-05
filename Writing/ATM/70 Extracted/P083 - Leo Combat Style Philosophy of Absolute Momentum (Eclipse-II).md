@@ -4,7 +4,7 @@ lines: 7509-7772
 prompt: 83
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, gojira, Lora, Leo]
 status: extracted
 ---
 

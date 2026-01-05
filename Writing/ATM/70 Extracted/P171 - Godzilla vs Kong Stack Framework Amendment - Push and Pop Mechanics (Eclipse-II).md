@@ -4,7 +4,7 @@ lines: 13317-13373
 prompt: 171
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Kong', 'Stack Data Structure', 'Combat Philosophy']
+entities: [Godzilla, gojira, Kong]
 status: extracted
 ---
 

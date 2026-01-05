@@ -4,7 +4,7 @@ lines: 3821-3824
 prompt: 066
 extracted: 2026-01-05
 category: Mechanics
-entities: [Magic System, Spell Keeping, External Keeping]
+entities: [Titanus mosura]
 status: extracted
 contradictions: []
 ---

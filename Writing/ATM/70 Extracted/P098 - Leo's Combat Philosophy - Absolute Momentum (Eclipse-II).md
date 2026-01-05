@@ -4,7 +4,7 @@ lines: 7638-7764
 prompt: 98
 extracted: 2026-01-04
 category: Character Development
-entities: [Leo Nordson, Godric, Lora, Junior]
+entities: [Atomic Amplification, Godzilla, Coating, Junior, gojira, Kong, Lora, Leo]
 status: extracted
 ---
 

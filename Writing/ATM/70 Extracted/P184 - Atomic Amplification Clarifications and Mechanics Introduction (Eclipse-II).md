@@ -4,7 +4,7 @@ lines: 14388-14467
 prompt: 184
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Atomic Amplification', 'Kratos', 'Mechanics']
+entities: [Atomic Amplification, Castle Bravo, Godzilla, Godric, Mothra, Battra, gojira, Dagon, Kong]
 status: extracted
 ---
 

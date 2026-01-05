@@ -4,7 +4,7 @@ lines: 15029-15067
 prompt: 193
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['World-Building', 'Meta', 'Iterative Development']
+entities: [Atomic Amplification, Manifestation, Godric, gojira, Kong]
 status: extracted
 ---
 

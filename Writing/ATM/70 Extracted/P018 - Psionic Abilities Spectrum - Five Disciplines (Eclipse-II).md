@@ -4,7 +4,7 @@ lines: 1488-1619
 prompt: 18
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Telepathy, Psionics, Mothra, Battra, Kratos, Magic]
 status: extracted
 ---
 

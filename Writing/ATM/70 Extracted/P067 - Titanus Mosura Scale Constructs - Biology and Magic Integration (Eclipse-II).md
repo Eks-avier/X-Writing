@@ -4,7 +4,7 @@ lines: 3827-4018
 prompt: 067
 extracted: 2026-01-05
 category: Mechanics/Worldbuilding/Character Development
-entities: [Mothra, Battra, Titanus Mosura, Fairies, Sentinels, Angels, Heralds, Godzilla, Scale Constructs, Magic System, Psionics, Kratos, Atlantis, Eclipse Kingdom, External Keeping]
+entities: [Titanus gojira, Titanus mosura, Hollow Earth, Biollante, Telepathy, Godzilla, Ghidorah, Psionics, Mothra, Battra, Kratos, gojira, Dagon, Magic]
 status: extracted
 contradictions: []
 ---

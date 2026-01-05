@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P003
+prompt: 003
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Manifestation, Themelion, Symphonia, Godzilla, Ghidorah, Krator, Koinon, Aura]
+status: extracted
+---
+
 # Koinon vs Krator Progression Paths
 
 > **Source:** `Eclipse II` - Prompt 3 (Lines 441-581)

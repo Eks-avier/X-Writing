@@ -4,7 +4,7 @@ lines: 7177-7293
 prompt: 94
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Monster Island, Hollow Earth, Telepathy, Godzilla, Ghidorah, Coating, Godric, Junior, gojira, Maria, Dagon, Ichi, Kong, Lora, Leo, Krator]
 status: extracted
 ---
 

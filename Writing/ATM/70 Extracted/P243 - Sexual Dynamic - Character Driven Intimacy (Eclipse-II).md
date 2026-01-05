@@ -4,7 +4,7 @@ lines: 17714-17829
 prompt: 243
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Mothra, Lora]
+entities: [Titanus mosura, Godzilla, Godric, Mothra, Maria]
 status: extracted
 contradictions: []
 ---

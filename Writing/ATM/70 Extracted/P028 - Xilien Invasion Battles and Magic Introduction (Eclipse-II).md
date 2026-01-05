@@ -4,7 +4,7 @@ lines: 2842-2956
 prompt: 28
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Titanus gojira, Godzilla, Psionics, Coating, Godric, Mothra, Battra, Kratos, gojira, Rodan, Magic, Kong]
 status: extracted
 ---
 

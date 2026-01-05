@@ -4,7 +4,7 @@ lines: 11510-11582
 prompt: 145
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Godzilla', 'Godric', 'Scylla']
+entities: [Biollante, Godzilla, Godric, Scylla]
 status: extracted
 contradictions: []
 ---

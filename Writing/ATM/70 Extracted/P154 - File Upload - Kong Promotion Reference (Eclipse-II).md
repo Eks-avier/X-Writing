@@ -4,7 +4,7 @@ lines: 12116-12121
 prompt: 154
 extracted: 2026-01-05
 category: Worldbuilding
-entities: ['General']
+entities: []
 status: extracted
 contradictions: []
 ---

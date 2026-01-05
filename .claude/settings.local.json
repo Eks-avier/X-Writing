@@ -12,7 +12,9 @@
       "Bash(cat:*)",
       "Bash(head:*)",
       "Bash(xargs:*)",
-      "Bash(shuf)"
+      "Bash(shuf)",
+      "Bash(node _entity_linker.js:*)",
+      "Bash(node:*)"
     ]
   }
 }

@@ -4,7 +4,7 @@ lines: 6994-7176
 prompt: 93
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Godric, Junior, gojira, Maria, Lora, Leo]
 status: extracted
 ---
 

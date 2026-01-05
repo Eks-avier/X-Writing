@@ -4,7 +4,7 @@ lines: 16922-16975
 prompt: 222
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla, Rodan, Ghidorah, Ichi, Scylla]
+entities: [Atomic Amplification, Godzilla, Ghidorah, Scylla, gojira, Rodan, Magic, Ichi, Krator]
 status: extracted
 contradictions: []
 ---

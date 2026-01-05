@@ -4,7 +4,7 @@ lines: 3037-3265
 prompt: 30
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Epichrisis, Godzilla, Psionics, Coating, Kratos, Magic, Aura]
 status: extracted
 ---
 

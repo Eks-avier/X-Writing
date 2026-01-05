@@ -4,7 +4,7 @@ lines: 12122-12233
 prompt: 155
 extracted: 2026-01-05
 category: Character Development
-entities: ['Kong', 'Hollow Earth', 'Fallen Star', 'Godzilla', 'Dagon']
+entities: [Titanus gojira, Hollow Earth, Godzilla, Godric, gojira, Dagon, Kong]
 status: extracted
 contradictions: []
 ---

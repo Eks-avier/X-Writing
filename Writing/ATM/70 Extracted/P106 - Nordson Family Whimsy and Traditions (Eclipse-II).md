@@ -4,7 +4,7 @@ lines: 8502-8586
 prompt: 106
 extracted: 2026-01-04
 category: Character Development
-entities: [Nordson Family, Junior Nordson, Leo Nordson, Lora Nordson, Godric, Mothra, Darius, Maria, Battra, Rose]
+entities: [Godzilla, Godric, Junior, gojira, Maria, Lora, Leo]
 status: extracted
 ---
 

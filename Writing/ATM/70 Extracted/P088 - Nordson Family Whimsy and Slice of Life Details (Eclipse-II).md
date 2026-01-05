@@ -4,7 +4,7 @@ lines: 8504-8589
 prompt: 88
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godric, Battra, Junior, Maria, Lora, Leo]
 status: extracted
 ---
 

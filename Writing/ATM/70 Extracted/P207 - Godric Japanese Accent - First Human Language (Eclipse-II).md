@@ -4,7 +4,7 @@ lines: 15960-16044
 prompt: 207
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla]
+entities: [Godzilla, Godric]
 status: extracted
 contradictions: []
 ---

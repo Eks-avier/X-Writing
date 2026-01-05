@@ -4,7 +4,7 @@ lines: 9540-9781
 prompt: 117-119
 extracted: 2026-01-04
 category: Character Development
-entities: [Junior Nordson, Leo Nordson, Lora Nordson]
+entities: [Atomic Amplification, Symphonia, Telepathy, Godric, Battra, Junior, Krator, Koinon, gojira, Maria, Dagon, Horme, Magic, Ichi, Kong, Lora, Aura, Leo]
 status: extracted
 ---
 

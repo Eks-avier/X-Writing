@@ -4,7 +4,7 @@ lines: 13776-13853
 prompt: 177
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Kong', 'Skull Island', 'Post-Battle']
+entities: [Skull Island, Godzilla, Ghidorah, Godric, Mothra, Maria, Kong]
 status: extracted
 ---
 

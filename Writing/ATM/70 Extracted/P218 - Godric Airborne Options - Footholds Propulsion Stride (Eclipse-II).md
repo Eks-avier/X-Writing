@@ -4,7 +4,7 @@ lines: 16660-16742
 prompt: 218
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla, Mothra, Rodan, Dagon]
+entities: [Atomic Amplification, Godzilla, Psionics, Godric, Mothra, Junior, gojira, Rodan, Dagon, Magic, Lora, Leo]
 status: extracted
 contradictions: []
 ---

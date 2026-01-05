@@ -4,7 +4,7 @@ lines: 5897-6096
 prompt: 79
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Titanus gojira, Titanus mosura, Godzilla, Psionics, Godric, Mothra, Battra, Junior, gojira, Maria, Dagon, Leo]
 status: extracted
 ---
 

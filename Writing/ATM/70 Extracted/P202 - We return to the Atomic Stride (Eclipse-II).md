@@ -4,7 +4,7 @@ lines: 15514-15605
 prompt: 202
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla, Rick]
+entities: [Titanus gojira, Godzilla, Godric, gojira, Aura]
 status: extracted
 contradictions: []
 ---

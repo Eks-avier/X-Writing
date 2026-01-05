@@ -4,7 +4,7 @@ lines: 8587-8823
 prompt: 107-108
 extracted: 2026-01-04
 category: Character Development
-entities: [Junior Nordson, Godric, Mothra, Leo Nordson, Lora Nordson]
+entities: [Monster Island, Hollow Earth, Godzilla, Godric, Mothra, Battra, Junior, gojira, Maria, Rodan, Horme, Kong, Lora, Leo]
 status: extracted
 ---
 

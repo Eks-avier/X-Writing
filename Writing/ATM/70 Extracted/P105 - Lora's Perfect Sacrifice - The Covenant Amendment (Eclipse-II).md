@@ -4,7 +4,7 @@ lines: 8390-8501
 prompt: 105
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Lora Nordson, Mothra, Battra, Junior Nordson, Leo Nordson, Covenant of the Mosura]
+entities: [Titanus mosura, Mothra, Battra, Junior, Koinon, gojira, Horme, Magic, Lora, Leo, Krator]
 status: extracted
 ---
 

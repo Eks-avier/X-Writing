@@ -4,7 +4,7 @@ lines: 14227-14326
 prompt: 182
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Godric', 'Kong', 'Training']
+entities: [Godric, Kong]
 status: extracted
 ---
 

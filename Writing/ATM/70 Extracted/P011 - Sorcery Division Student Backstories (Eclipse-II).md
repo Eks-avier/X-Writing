@@ -4,7 +4,7 @@ lines: 1091-1118
 prompt: 11
 extracted: 2026-01-04
 category: Uncategorized
-entities: []
+entities: [Castle Bravo, Godzilla, Ghidorah, Psionics, Mothra, Battra, Junior, Maria, Magic]
 status: extracted
 ---
 

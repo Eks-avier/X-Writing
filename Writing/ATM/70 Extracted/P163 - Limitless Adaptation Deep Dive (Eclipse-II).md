@@ -4,7 +4,7 @@ lines: 12767-12852
 prompt: 163
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Limitless Adaptation', 'Kong', 'Godric', 'Atomic Amplification', 'Fallen Star', 'Godzilla', 'Dagon']
+entities: [Atomic Amplification, Titanus gojira, Godzilla, Godric, gojira, Dagon, Kong]
 status: extracted
 contradictions: []
 ---

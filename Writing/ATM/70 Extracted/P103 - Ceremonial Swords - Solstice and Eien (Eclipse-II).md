@@ -4,7 +4,7 @@ lines: 8194-8282
 prompt: 103
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Junior Nordson, Godric, Mothra, Solstice, Eien]
+entities: [Godzilla, Godric, Mothra, Junior, Maria, Lora, Leo]
 status: extracted
 ---
 

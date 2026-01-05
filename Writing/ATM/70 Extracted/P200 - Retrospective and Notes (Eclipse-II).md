@@ -4,7 +4,7 @@ lines: 15381-15439
 prompt: 200
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla, Mothra, Battra, Rodan, Kong]
+entities: [Godzilla, Ghidorah, Mothra, Battra, Rodan, Ichi, Kong]
 status: extracted
 contradictions: []
 ---

@@ -4,7 +4,7 @@ lines: 2324-2442
 prompt: 25
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Titanus gojira, Titanus scylla, Manifestation, Godzilla, Ghidorah, Godric, Mothra, Scylla, Kratos, Krator, Koinon, gojira, Maria, Horme, Aura]
 status: extracted
 ---
 

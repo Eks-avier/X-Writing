@@ -4,7 +4,7 @@ lines: 7177-7509
 prompt: 82
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Psionics, Godric, Junior, gojira, Dagon, Ichi, Kong, Leo]
 status: extracted
 ---
 

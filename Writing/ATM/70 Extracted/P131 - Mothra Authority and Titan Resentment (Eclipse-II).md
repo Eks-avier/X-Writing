@@ -4,7 +4,7 @@ lines: 10319-10342
 prompt: 131
 extracted: 2026-01-04
 category: Uncategorized
-entities: [Mothra, Godzilla, Standing Hierarchy, Alpha Divine, Wardens, Scylla]
+entities: [Godzilla, Godric, Mothra, Battra, Scylla]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 3598-3683
 prompt: 61
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Coating, Mothra, Battra, Kratos, Magic]
 status: extracted
 ---
 

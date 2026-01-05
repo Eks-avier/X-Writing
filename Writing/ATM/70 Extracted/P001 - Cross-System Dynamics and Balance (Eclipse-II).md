@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P001
+prompt: 001
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Godzilla, Psionics, Battra, Junior, Kratos, Koinon, Magic, Kong, Leo]
+status: extracted
+---
+
 # Cross-System Dynamics and Balance
 
 > **Source:** `Eclipse II` - Prompt 1 (Lines 3-278)

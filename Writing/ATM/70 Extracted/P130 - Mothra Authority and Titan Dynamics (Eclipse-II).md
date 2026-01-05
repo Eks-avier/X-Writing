@@ -4,7 +4,7 @@ lines: 10319-10388
 prompt: 130
 extracted: 2026-01-05
 category: Worldbuilding
-entities: [Mothra, Wardens, Scylla, Godzilla, Godric, Battra]
+entities: [Godzilla, Godric, Mothra, Battra, Scylla]
 status: extracted
 contradictions: []
 ---

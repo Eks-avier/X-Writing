@@ -4,7 +4,7 @@ lines: 10491-10724
 prompt: 134-136
 extracted: 2026-01-04
 category: Uncategorized
-entities: [Rodan, Mothra, Godzilla, Phoenix Metaphor, Madison, Confession Scene]
+entities: [Monster Island, Castle Bravo, Godzilla, Godric, Mothra, Maria, Rodan, Ichi, Kong]
 status: extracted
 ---
 

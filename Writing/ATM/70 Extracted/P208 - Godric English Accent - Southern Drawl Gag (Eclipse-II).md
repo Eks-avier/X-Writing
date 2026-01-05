@@ -4,7 +4,7 @@ lines: 16045-16107
 prompt: 208
 extracted: 2026-01-05
 category: Character Development
-entities: [Godric, Godzilla, Dagon, Madison, Mark]
+entities: [Castle Bravo, Godzilla, Godric, Dagon]
 status: extracted
 contradictions: []
 ---

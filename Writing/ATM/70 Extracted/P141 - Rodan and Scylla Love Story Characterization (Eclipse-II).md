@@ -4,7 +4,7 @@ lines: 11328-11384
 prompt: 141
 extracted: 2026-01-05
 category: Character Development
-entities: ['Godric', 'Rodan', 'Mothra', 'Scylla', 'Godzilla', 'Dagon']
+entities: [Biollante, Godzilla, Ghidorah, Godric, Mothra, Scylla, Maria, Rodan, Dagon, Horme, Ichi]
 status: extracted
 contradictions: []
 ---

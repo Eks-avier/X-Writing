@@ -4,7 +4,7 @@ lines: 7508-7637
 prompt: 97
 extracted: 2026-01-04
 category: Character Development
-entities: [Junior Nordson, Godric, Kong, Ichi, Mothra]
+entities: [Atomic Amplification, Hollow Earth, Telepathy, Godzilla, Godric, Mothra, Junior, gojira, Dagon, Ichi, Kong, Lora, Leo, Krator]
 status: extracted
 ---
 

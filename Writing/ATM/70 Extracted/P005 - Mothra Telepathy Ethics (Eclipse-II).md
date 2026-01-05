@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P005
+prompt: 005
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Telepathy, Psionics, Mothra, Maria]
+status: extracted
+---
+
 # Mothra Telepathy Ethics
 
 > **Source:** `Eclipse II` - Prompt 5 (Lines 781-986)

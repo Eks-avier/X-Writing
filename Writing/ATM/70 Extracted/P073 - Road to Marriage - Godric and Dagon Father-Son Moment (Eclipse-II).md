@@ -4,7 +4,7 @@ lines: 4590-4681
 prompt: 73
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Godzilla, Godric, Mothra, Battra, Maria, Rodan, Dagon]
 status: extracted
 ---
 

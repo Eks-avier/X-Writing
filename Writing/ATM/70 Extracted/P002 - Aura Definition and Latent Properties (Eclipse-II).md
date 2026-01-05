@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P002
+prompt: 002
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Manifestation, Godzilla, Ghidorah, Scylla, Koinon, Aura]
+status: extracted
+---
+
 # Aura Definition and Latent Properties
 
 > **Source:** `Eclipse II` - Prompt 2 (Lines 281-436)

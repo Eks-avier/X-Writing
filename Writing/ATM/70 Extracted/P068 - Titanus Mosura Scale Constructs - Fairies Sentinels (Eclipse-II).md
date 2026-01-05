@@ -4,7 +4,7 @@ lines: 3827-4020
 prompt: 68
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Titanus mosura, Godzilla, Psionics, Mothra, Battra, Kratos, Magic]
 status: extracted
 ---
 

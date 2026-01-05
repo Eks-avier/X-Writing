@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P005
+prompt: 005
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Godzilla, Psionics, Mothra, Battra, Kratos, Magic]
+status: extracted
+---
+
 # Mothra and Battra Twin Symbology
 
 > **Source:** `Eclipse II` - Prompt 5 (Lines 781-986)

@@ -4,7 +4,7 @@ lines: 6695-7095
 prompt: 81
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Godric, Mothra, Junior, gojira, Maria, Dagon, Lora, Leo]
 status: extracted
 ---
 

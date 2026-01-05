@@ -4,7 +4,7 @@ lines: 17299-17405
 prompt: 233
 extracted: 2026-01-05
 category: Character Development
-entities: [Godric, Godzilla, Maria]
+entities: [Manifestation, Godzilla, Godric, Maria]
 status: extracted
 contradictions: []
 ---

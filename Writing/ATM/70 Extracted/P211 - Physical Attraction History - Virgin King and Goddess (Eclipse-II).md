@@ -4,7 +4,7 @@ lines: 16236-16287
 prompt: 211
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Mothra, Battra]
+entities: [Titanus gojira, Godzilla, Ghidorah, Godric, Mothra, Battra, gojira, Maria, Rodan, Magic, Kong]
 status: extracted
 contradictions: []
 ---

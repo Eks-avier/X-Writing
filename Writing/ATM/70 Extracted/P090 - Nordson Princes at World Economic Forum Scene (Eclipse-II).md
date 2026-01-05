@@ -4,7 +4,7 @@ lines: 8742-8900
 prompt: 90
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Hollow Earth, Godzilla, Godric, Mothra, Junior, Dagon, Kong, Lora, Leo]
 status: extracted
 ---
 

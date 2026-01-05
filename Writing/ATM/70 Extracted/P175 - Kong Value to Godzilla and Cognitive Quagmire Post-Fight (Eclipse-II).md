@@ -4,7 +4,7 @@ lines: 13648-13734
 prompt: 175
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Kong', 'Cognitive Quagmire', 'Hyperthymesia']
+entities: [Hollow Earth, Skull Island, Godzilla, Ghidorah, Dagon, Kong]
 status: extracted
 ---
 

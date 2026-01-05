@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P001
+prompt: 001
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Atomic Amplification, Manifestation, Godzilla, Ghidorah, Psionics, Coating, Scylla, Junior, Kratos, Krator, Koinon, Dagon, Horme, Magic, Aura, Leo]
+status: extracted
+---
+
 # Kratos Overall Impression and Core Strengths
 
 > **Source:** `Eclipse II` - Prompt 1 (Lines 3-278)

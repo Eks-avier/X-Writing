@@ -4,7 +4,7 @@ lines: 17036-17135
 prompt: 224
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Mothra]
+entities: [Godzilla, Godric, Mothra, Maria]
 status: extracted
 contradictions: []
 ---

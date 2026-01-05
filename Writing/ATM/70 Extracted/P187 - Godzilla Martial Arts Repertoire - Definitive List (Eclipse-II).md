@@ -4,7 +4,7 @@ lines: 14595-14656
 prompt: 187
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Martial Arts', 'Combat Repertoire']
+entities: [Atomic Amplification, Godzilla, gojira, Kong]
 status: extracted
 ---
 

@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P001
+prompt: 001
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Atomic Amplification, Manifestation, Symphonia, Godzilla, Ghidorah, Coating, Junior, Kratos, Krator, Dagon, Magic, Leo]
+status: extracted
+---
+
 # Kratos Distinctions from Other Power Systems
 
 > **Source:** `Eclipse II` - Prompt 1 (Lines 3-278)

@@ -4,7 +4,7 @@ lines: 14143-14226
 prompt: 181
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Godric', 'Monarch', 'Castle Bravo', 'Training Facility']
+entities: [Castle Bravo, Skull Island, Godric, Mothra, Rodan, Kong]
 status: extracted
 ---
 

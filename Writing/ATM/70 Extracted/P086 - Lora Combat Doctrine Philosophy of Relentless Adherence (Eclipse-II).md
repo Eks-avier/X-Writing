@@ -4,7 +4,7 @@ lines: 8283-8390
 prompt: 86
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Atomic Amplification, Godric, Battra, Junior, Koinon, gojira, Magic, Ichi, Lora, Leo]
 status: extracted
 ---
 

@@ -271,6 +271,7 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Topic_Evolution_Report.md",
     "Writing/ATM/70 Extracted/_entity_linker.js",
     "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/_qa_validator.py",
@@ -306,7 +307,6 @@
     "add_entities.py",
     "rename_simple.py",
     "debug_files.py",
-    "retitle_extractions.py",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",

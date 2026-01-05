@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P003
+prompt: 003
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Symphonia, Krator, Horme, Aura]
+status: extracted
+---
+
 # Krator Aura Threshold - First and Second Layer
 
 > **Source:** `Eclipse II` - Prompt 3 (Lines 441-581)

@@ -4,7 +4,7 @@ lines: 11391-11449
 prompt: 143
 extracted: 2026-01-05
 category: Worldbuilding
-entities: ['General']
+entities: [Titanus gojira, Titanus mosura, Titanus kong, Godzilla, Psionics, Godric, Scylla, gojira, Magic, Kong]
 status: extracted
 contradictions: []
 ---

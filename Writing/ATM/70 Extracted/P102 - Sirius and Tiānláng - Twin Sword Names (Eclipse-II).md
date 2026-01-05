@@ -4,7 +4,7 @@ lines: 8147-8193
 prompt: 102
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Junior Nordson, Sirius, Tiānláng, Godric, Mothra]
+entities: [Godzilla, Mothra, Junior]
 status: extracted
 ---
 

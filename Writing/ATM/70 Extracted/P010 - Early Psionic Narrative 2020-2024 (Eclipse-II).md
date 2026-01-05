@@ -4,7 +4,7 @@ lines: 1014-1089
 prompt: 10
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Castle Bravo, Godzilla, Psionics, Mothra, Battra, Rodan, Magic]
 status: extracted
 ---
 

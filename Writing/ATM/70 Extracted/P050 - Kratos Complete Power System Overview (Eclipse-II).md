@@ -4,7 +4,7 @@ lines: 3390-3537
 prompt: 50
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Symphonia, Telepathy, Godzilla, Ghidorah, Psionics, Coating, Scylla, Krator, Koinon, Horme, Magic, Aura]
 status: extracted
 ---
 

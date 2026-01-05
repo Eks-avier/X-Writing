@@ -4,7 +4,7 @@ lines: 5387-5897
 prompt: 78
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Telepathy, Ghidorah, Godric, Junior, Koinon, gojira, Magic, Kong, Lora, Aura, Leo]
 status: extracted
 ---
 

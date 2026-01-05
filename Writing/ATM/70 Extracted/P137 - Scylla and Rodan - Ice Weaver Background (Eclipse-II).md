@@ -4,7 +4,7 @@ lines: 10883-11146
 prompt: 137
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Kong', 'Alpha Paramount', 'Godric', 'Hollow Earth', 'Rodan', 'Sovereign', 'Mothra', 'Scylla', 'Ice Weaver', 'Antitheriomorphosis', 'Battra', 'Godzilla']
+entities: [Titanus gojira, Titanus scylla, Hollow Earth, Castle Bravo, Godzilla, Ghidorah, Godric, Mothra, Battra, Scylla, gojira, Rodan, Kong, Aura]
 status: extracted
 contradictions: []
 ---

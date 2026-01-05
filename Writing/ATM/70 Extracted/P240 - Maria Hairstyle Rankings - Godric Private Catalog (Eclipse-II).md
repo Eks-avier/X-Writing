@@ -4,7 +4,7 @@ lines: 17524-17581
 prompt: 240
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Madison]
+entities: [Godric, Maria]
 status: extracted
 contradictions: []
 ---

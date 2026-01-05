@@ -4,7 +4,7 @@ lines: 10018-10182
 prompt: 128
 extracted: 2026-01-05
 category: Worldbuilding
-entities: [Mothra, Scylla, Outpost, Godzilla, Monarch, Anguirus, Alexios, outpost, Wardens, Maria]
+entities: [Monster Island, Hollow Earth, Castle Bravo, Godzilla, Ghidorah, Godric, Mothra, Scylla, Maria, Rodan, Dagon]
 status: extracted
 contradictions: []
 ---

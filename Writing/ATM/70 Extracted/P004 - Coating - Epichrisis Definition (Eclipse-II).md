@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P004
+prompt: 004
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Epichrisis, Coating, Aura]
+status: extracted
+---
+
 # Coating - Epichrisis Definition
 
 > **Source:** `Eclipse II` - Prompt 4 (Lines 585-778)

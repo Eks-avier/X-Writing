@@ -4,7 +4,7 @@ lines: 3266-3389
 prompt: 32
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Psionics, Scylla, Kratos, Magic]
 status: extracted
 ---
 

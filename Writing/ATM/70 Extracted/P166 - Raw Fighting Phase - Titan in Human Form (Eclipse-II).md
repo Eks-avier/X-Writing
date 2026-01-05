@@ -4,7 +4,7 @@ lines: 13049-13102
 prompt: 166
 extracted: 2026-01-05
 category: Worldbuilding
-entities: ['Godric']
+entities: [Titanus gojira, Godzilla, Godric, gojira]
 status: extracted
 contradictions: []
 ---

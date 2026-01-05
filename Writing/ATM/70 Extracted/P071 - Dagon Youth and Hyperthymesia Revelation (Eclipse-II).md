@@ -4,7 +4,7 @@ lines: 4294-4471
 prompt: 71
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Titanus gojira, Godzilla, Godric, gojira, Dagon]
 status: extracted
 ---
 

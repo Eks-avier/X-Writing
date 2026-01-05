@@ -4,7 +4,7 @@ lines: 2485-2639
 prompt: 26
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Godric, Mothra, Battra, Scylla, Junior, Kratos, gojira, Maria, Rodan, Dagon, Horme, Ichi, Kong, Aura, Leo]
 status: extracted
 ---
 

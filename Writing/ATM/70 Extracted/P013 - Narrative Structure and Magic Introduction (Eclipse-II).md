@@ -4,7 +4,7 @@ lines: 1356-1462
 prompt: 13
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Monster Island, Telepathy, Godzilla, Psionics, Mothra, Battra, Kratos, Dagon, Magic]
 status: extracted
 ---
 

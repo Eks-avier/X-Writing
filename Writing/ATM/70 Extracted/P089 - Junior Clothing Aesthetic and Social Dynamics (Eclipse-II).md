@@ -4,7 +4,7 @@ lines: 8589-8742
 prompt: 89
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godric, Junior, gojira, Maria, Horme, Lora, Leo]
 status: extracted
 ---
 

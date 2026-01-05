@@ -4,7 +4,7 @@ lines: 2676-2821
 prompt: 40
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Hollow Earth, Biollante, Godzilla, Ghidorah, Psionics, Godric, Mothra, Battra, Junior, Krator, Maria, Dagon, Horme, Magic, Ichi, Kong, Lora, Leo]
 status: extracted
 ---
 

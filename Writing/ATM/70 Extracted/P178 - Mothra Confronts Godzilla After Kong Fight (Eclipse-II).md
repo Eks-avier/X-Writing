@@ -4,7 +4,7 @@ lines: 13854-13962
 prompt: 178
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Mothra', 'Maria']
+entities: [Titanus kong, Hollow Earth, Skull Island, Godzilla, Godric, Mothra, Maria, Kong]
 status: extracted
 ---
 

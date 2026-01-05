@@ -4,7 +4,7 @@ lines: 15806-15851
 prompt: 205
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla, Mothra, Battra, Rick]
+entities: [Godzilla, Psionics, Godric, Mothra, Battra, gojira, Magic, Krator]
 status: extracted
 contradictions: []
 ---

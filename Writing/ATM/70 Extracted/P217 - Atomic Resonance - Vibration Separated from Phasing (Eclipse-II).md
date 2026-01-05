@@ -4,7 +4,7 @@ lines: 16582-16659
 prompt: 217
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Battra, Ghidorah]
+entities: [Atomic Amplification, Godzilla, Ghidorah, Godric, Battra, Scylla, gojira, Maria, Krator]
 status: extracted
 contradictions: []
 ---

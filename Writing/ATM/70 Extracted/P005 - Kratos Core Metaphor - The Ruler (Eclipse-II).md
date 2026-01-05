@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P005
+prompt: 005
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Manifestation, Themelion, Symphonia, Godzilla, Kratos, Krator, Koinon, Horme, Aura]
+status: extracted
+---
+
 # Kratos Core Metaphor - The Ruler
 
 > **Source:** `Eclipse II` - Prompt 5 (Lines 781-986)

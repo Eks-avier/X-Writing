@@ -4,7 +4,7 @@ lines: 16871-16921
 prompt: 221
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla, Battra, Rodan, Ghidorah, Ichi]
+entities: [Godzilla, Ghidorah, Psionics, Battra, Scylla, Rodan, Magic, Ichi]
 status: extracted
 contradictions: []
 ---

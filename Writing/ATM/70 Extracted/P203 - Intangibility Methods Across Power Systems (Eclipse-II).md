@@ -4,7 +4,7 @@ lines: 15606-15734
 prompt: 203
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla, Mothra, Battra, Ghidorah]
+entities: [Titanus gojira, Titanus scylla, Telepathy, Godzilla, Ghidorah, Psionics, Godric, Mothra, Battra, Scylla, gojira, Magic, Krator]
 status: extracted
 contradictions: []
 ---

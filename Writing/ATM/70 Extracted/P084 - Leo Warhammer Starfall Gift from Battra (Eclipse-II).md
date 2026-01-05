@@ -4,7 +4,7 @@ lines: 7772-7930
 prompt: 84
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Psionics, Godric, Battra, Junior, gojira, Magic, Lora, Leo]
 status: extracted
 ---
 

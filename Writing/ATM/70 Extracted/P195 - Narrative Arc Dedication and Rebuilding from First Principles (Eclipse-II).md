@@ -4,7 +4,7 @@ lines: 15129-15203
 prompt: 195
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Narrative Structure', 'Arc Dedication', 'First Principles']
+entities: [Castle Bravo, Godzilla, Mothra, Battra, Scylla, Rodan, Magic]
 status: extracted
 ---
 

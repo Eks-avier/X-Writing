@@ -4,7 +4,7 @@ lines: 14914-15028
 prompt: 192
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Atomic Amplification', 'Fine Motor Control']
+entities: [Atomic Amplification, Titanus mosura, Godzilla, Coating, Junior, gojira, Lora, Aura, Leo]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 11450-11509
 prompt: 144
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Godzilla', 'Mothra']
+entities: [Titanus gojira, Godzilla, Godric, Mothra, Scylla, gojira, Kong]
 status: extracted
 contradictions: []
 ---

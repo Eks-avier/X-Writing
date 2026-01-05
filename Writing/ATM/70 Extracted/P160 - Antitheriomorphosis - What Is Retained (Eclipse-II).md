@@ -4,7 +4,7 @@ lines: 12500-12613
 prompt: 160
 extracted: 2026-01-05
 category: Character Development
-entities: ['Kong', 'Godric', 'Rodan', 'Mothra', 'Scylla', 'Antitheriomorphosis', 'Godzilla']
+entities: [Titanus gojira, Titanus mosura, Titanus scylla, Manifestation, Godzilla, Psionics, Godric, Mothra, Scylla, gojira, Maria, Rodan, Magic, Kong]
 status: extracted
 contradictions: []
 ---

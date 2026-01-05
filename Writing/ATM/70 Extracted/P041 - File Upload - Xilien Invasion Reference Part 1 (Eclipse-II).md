@@ -4,7 +4,7 @@ lines: 2824-2828
 prompt: 041
 extracted: 2026-01-05
 category: Reference Material
-entities: []
+entities: [Battra]
 status: extracted
 contradictions: []
 ---

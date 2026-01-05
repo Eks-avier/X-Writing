@@ -4,7 +4,7 @@ lines: 9087-9257
 prompt: 112-113
 extracted: 2026-01-04
 category: Story Arcs
-entities: [Junior Nordson, Leo Nordson, Lora Nordson, Godric, Mothra, Dagon]
+entities: [Titanus gojira, Manifestation, Godzilla, Godric, Mothra, Battra, Junior, gojira, Maria, Dagon, Horme, Magic, Lora, Leo]
 status: extracted
 contradictions: The arc heavily parallels and references Dagon's story and Mothra's sacrificial patterns, which are established earlier. Ensure consistency with those established narratives when developing this arc.
 ---

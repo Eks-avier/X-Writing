@@ -4,7 +4,7 @@ lines: 9932-9993
 prompt: 123
 extracted: 2026-01-05
 category: Worldbuilding
-entities: [Castle Bravo, Hollow Earth, Mothra, Wardens, HOLLOW EARTH, Anguirus, Godzilla, Barb, Kong, Rodan]
+entities: [Monster Island, Hollow Earth, Castle Bravo, Godzilla, Mothra, Battra, Rodan, Magic, Kong]
 status: extracted
 contradictions: []
 ---

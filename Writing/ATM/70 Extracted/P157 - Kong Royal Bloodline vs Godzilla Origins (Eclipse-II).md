@@ -4,7 +4,7 @@ lines: 12306-12422
 prompt: 157
 extracted: 2026-01-05
 category: Character Development
-entities: ['Kong', 'Alpha Paramount', 'Godric', 'Hollow Earth', 'Mothra', 'Skull Island', 'Battra', 'Godzilla', 'Dagon']
+entities: [Titanus mosura, Hollow Earth, Skull Island, Godzilla, Godric, Mothra, Battra, gojira, Maria, Dagon, Kong]
 status: extracted
 contradictions: []
 ---

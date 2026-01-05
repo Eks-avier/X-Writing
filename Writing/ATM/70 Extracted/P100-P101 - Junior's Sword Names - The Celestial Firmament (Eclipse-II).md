@@ -4,7 +4,7 @@ lines: 7928-8164
 prompt: 100-101
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Junior Nordson, Godric, Mothra, Northern Faction]
+entities: [Titanus gojira, Godzilla, Godric, Mothra, Junior, gojira, Maria, Dagon, Aura, Leo]
 status: extracted
 ---
 

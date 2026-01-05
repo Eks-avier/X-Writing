@@ -4,7 +4,7 @@ lines: 11799-11915
 prompt: 148
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Battra', 'Godzilla', 'Godric']
+entities: [Manifestation, Godzilla, Godric, Battra, Maria, Aura]
 status: extracted
 contradictions: []
 ---

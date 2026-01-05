@@ -4,7 +4,7 @@ lines: 10018-10181
 prompt: 129
 extracted: 2026-01-04
 category: Uncategorized
-entities: [Monarch, Titan Outposts, Mark Russell, Godric, Wardens, Castle Bravo]
+entities: [Monster Island, Hollow Earth, Castle Bravo, Godzilla, Ghidorah, Godric, Mothra, Scylla, Maria, Rodan, Dagon]
 status: extracted
 ---
 

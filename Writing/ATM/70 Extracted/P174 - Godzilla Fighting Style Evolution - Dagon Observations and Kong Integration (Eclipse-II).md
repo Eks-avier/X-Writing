@@ -4,7 +4,7 @@ lines: 13553-13647
 prompt: 174
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Dagon', 'Kong', 'Fighting Style', 'Hyperthymesia']
+entities: [Godzilla, Godric, gojira, Dagon, Kong]
 status: extracted
 ---
 

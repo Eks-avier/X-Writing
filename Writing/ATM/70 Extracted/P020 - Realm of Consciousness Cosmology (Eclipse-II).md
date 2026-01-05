@@ -4,7 +4,7 @@ lines: 1768-1868
 prompt: 20
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Telepathy, Psionics, Mothra, Battra, Magic, Aura]
 status: extracted
 ---
 

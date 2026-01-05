@@ -4,7 +4,7 @@ lines: 14541-14594
 prompt: 186
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Titans', 'Teaching Philosophy']
+entities: [Atomic Amplification, Titanus gojira, Titanus scylla, Biollante, Godzilla, Mothra, Scylla, Junior, Krator, gojira, Rodan, Dagon, Kong, Lora]
 status: extracted
 ---
 

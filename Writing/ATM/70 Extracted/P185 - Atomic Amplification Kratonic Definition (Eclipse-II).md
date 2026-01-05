@@ -4,7 +4,7 @@ lines: 14468-14540
 prompt: 185
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Atomic Amplification', 'Kratos', 'Definition']
+entities: [Atomic Amplification, Godzilla, Coating, Godric, Battra, gojira, Leo, Krator]
 status: extracted
 ---
 

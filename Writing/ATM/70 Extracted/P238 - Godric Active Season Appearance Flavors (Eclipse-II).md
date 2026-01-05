@@ -4,7 +4,7 @@ lines: 17422-17523
 prompt: 238
 extracted: 2026-01-05
 category: Character Development
-entities: [Godric, Maria]
+entities: [Manifestation, Godric, Maria, Aura]
 status: extracted
 contradictions: []
 ---

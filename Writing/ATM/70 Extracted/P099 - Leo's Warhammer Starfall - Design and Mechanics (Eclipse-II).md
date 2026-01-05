@@ -4,7 +4,7 @@ lines: 7765-7927
 prompt: 99
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Leo Nordson, Battra, Starfall, Felicia, Mat, Egg]
+entities: [Titanus gojira, Monster Island, Manifestation, Hollow Earth, Godric, Battra, Junior, gojira, Maria, Magic, Lora, Leo, Krator]
 status: extracted
 ---
 

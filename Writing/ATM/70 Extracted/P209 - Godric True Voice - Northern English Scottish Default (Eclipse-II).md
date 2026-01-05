@@ -4,7 +4,7 @@ lines: 16108-16174
 prompt: 209
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Monarch]
+entities: [Godric, gojira, Maria]
 status: extracted
 contradictions: []
 ---

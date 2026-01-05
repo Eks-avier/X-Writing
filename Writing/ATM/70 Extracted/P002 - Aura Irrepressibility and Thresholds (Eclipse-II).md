@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P002
+prompt: 002
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Manifestation, Themelion, Krator, Koinon, Aura]
+status: extracted
+---
+
 # Aura Irrepressibility and Thresholds
 
 > **Source:** `Eclipse II` - Prompt 2 (Lines 281-436)

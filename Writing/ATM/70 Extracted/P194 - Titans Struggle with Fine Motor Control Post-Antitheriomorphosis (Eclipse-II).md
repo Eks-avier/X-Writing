@@ -4,7 +4,7 @@ lines: 15068-15128
 prompt: 194
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Titans', 'Fine Motor Control', 'Antitheriomorphosis']
+entities: [Godzilla, Mothra, Scylla, Maria, Rodan, Kong]
 status: extracted
 ---
 

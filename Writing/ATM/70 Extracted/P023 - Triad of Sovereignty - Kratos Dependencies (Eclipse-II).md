@@ -4,7 +4,7 @@ lines: 2078-2195
 prompt: 23
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Manifestation, Godzilla, Battra, Kratos, Krator, Koinon, Horme]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 1182-1303
 prompt: 12
 extracted: 2026-01-04
 category: Uncategorized
-entities: []
+entities: [Telepathy, Mothra, Battra, Magic]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 8925-9086
 prompt: 110-111
 extracted: 2026-01-04
 category: Character Development
-entities: [Leo Nordson, Lora Nordson, Battra]
+entities: [Monster Island, Telepathy, Psionics, Battra, Junior, gojira, Lora, Aura, Leo]
 status: extracted
 ---
 

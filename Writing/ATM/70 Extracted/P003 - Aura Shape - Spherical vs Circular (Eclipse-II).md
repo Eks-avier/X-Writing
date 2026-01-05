@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P003
+prompt: 003
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Hollow Earth, Ghidorah, Scylla, Aura]
+status: extracted
+---
+
 # Aura Shape - Spherical vs Circular
 
 > **Source:** `Eclipse II` - Prompt 3 (Lines 441-581)

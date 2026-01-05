@@ -4,7 +4,7 @@ lines: 8390-8504
 prompt: 87
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Battra, Junior, Magic, Lora, Leo, Krator]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 14059-14142
 prompt: 180
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Godric', 'Hyperthymesia', 'Post-Fight Reflection']
+entities: [Telepathy, Godzilla, Godric, Maria, Dagon, Kong]
 status: extracted
 ---
 

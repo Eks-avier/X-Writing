@@ -4,7 +4,7 @@ lines: 7294-7411
 prompt: 95
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Hollow Earth, Godzilla, Godric, Mothra, Junior, gojira, Dagon, Ichi, Lora, Leo]
 status: extracted
 ---
 

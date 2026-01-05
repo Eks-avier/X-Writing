@@ -4,7 +4,7 @@ lines: 1621-1767
 prompt: 19
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Telepathy, Psionics, Mothra, Battra, Scylla, Krator, Rodan, Magic]
 status: extracted
 ---
 

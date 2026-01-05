@@ -4,7 +4,7 @@ lines: 10390-10467
 prompt: 132-133
 extracted: 2026-01-04
 category: Uncategorized
-entities: [Godzilla, Mothra, Eclipse, Tangible vs Intangible, Power Systems]
+entities: [Godzilla, Psionics, Godric, Mothra, Junior, Maria, Dagon, Magic, Ichi]
 status: extracted
 ---
 

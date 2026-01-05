@@ -4,7 +4,7 @@ lines: 14327-14387
 prompt: 183
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Fighting Style', 'Final Definition']
+entities: [Atomic Amplification, Titanus gojira, Castle Bravo, Godzilla, Godric, gojira, Dagon, Kong]
 status: extracted
 ---
 

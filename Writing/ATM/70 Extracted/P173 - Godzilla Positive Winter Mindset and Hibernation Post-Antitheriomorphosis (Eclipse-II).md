@@ -4,7 +4,7 @@ lines: 13463-13552
 prompt: 173
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Winter', 'Hibernation', 'Antitheriomorphosis', 'Northern Faction']
+entities: [Hollow Earth, Godzilla, Godric, gojira, Maria]
 status: extracted
 ---
 

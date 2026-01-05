@@ -4,7 +4,7 @@ lines: 2963-3036
 prompt: 29
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Titanus gojira, Manifestation, Godzilla, Ghidorah, Psionics, Mothra, Battra, Scylla, Kratos, gojira, Magic, Aura]
 status: extracted
 ---
 

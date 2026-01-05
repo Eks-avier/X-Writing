@@ -4,7 +4,7 @@ lines: 12664-12766
 prompt: 162
 extracted: 2026-01-05
 category: Worldbuilding
-entities: ['Anakalypto', 'Junior', 'Leo', 'Antitheriomorphosis', 'Godzilla']
+entities: [Manifestation, Symphonia, Godzilla, Junior, Krator, gojira, Horme, Aura, Leo]
 status: extracted
 contradictions: []
 ---

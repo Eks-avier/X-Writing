@@ -4,7 +4,7 @@ lines: 15298-15380
 prompt: 199
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Godzilla, Battra, Kong, Anguirus]
+entities: [Atomic Amplification, Titanus gojira, Godzilla, Godric, Battra, gojira, Kong, Aura]
 status: extracted
 contradictions: []
 ---

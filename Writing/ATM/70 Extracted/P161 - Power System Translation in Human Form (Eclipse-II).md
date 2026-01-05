@@ -4,7 +4,7 @@ lines: 12614-12663
 prompt: 161
 extracted: 2026-01-05
 category: Character Development
-entities: ['Rodan', 'Godzilla', 'Scylla']
+entities: [Manifestation, Godzilla, Psionics, Mothra, Scylla, gojira, Rodan, Magic, Krator]
 status: extracted
 contradictions: []
 ---

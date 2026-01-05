@@ -4,7 +4,7 @@ lines: 13103-13148
 prompt: 167
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Kong']
+entities: [Castle Bravo, Skull Island, Godzilla, Godric, gojira, Kong]
 status: extracted
 contradictions: []
 ---

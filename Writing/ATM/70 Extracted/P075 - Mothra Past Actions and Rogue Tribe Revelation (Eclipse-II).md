@@ -4,7 +4,7 @@ lines: 4913-5136
 prompt: 75
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Godric, Mothra, Battra, Maria, Magic, Ichi, Krator]
 status: extracted
 ---
 

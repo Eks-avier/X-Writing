@@ -4,7 +4,7 @@ lines: 8283-8389
 prompt: 104
 extracted: 2026-01-04
 category: Worldbuilding
-entities: [Lora Nordson, Junior Nordson, Leo Nordson, Ichi]
+entities: [Atomic Amplification, Titanus scylla, Mothra, Battra, Scylla, Junior, Krator, Koinon, gojira, Magic, Ichi, Lora, Leo]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 1869-1983
 prompt: 21
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Psionics, Mothra, Battra, Scylla, Kratos, Rodan, Magic, Kong, Aura]
 status: extracted
 ---
 

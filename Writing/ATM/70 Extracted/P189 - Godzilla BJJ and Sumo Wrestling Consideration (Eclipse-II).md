@@ -4,7 +4,7 @@ lines: 14763-14813
 prompt: 189
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'BJJ', 'Sumo', 'Martial Arts']
+entities: [Atomic Amplification, Godzilla, gojira]
 status: extracted
 ---
 

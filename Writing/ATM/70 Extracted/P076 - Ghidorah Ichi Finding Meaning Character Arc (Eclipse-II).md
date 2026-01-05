@@ -4,7 +4,7 @@ lines: 5137-5273
 prompt: 76
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Godzilla, Ghidorah, Godric, Maria, Horme, Ichi]
 status: extracted
 ---
 

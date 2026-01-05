@@ -4,7 +4,7 @@ lines: 12062-12115
 prompt: 153
 extracted: 2026-01-05
 category: Character Development
-entities: ['Skull Island', 'Kong', 'Sovereign', 'Godzilla']
+entities: [Atomic Amplification, Skull Island, Godzilla, Ghidorah, Mothra, Kong]
 status: extracted
 contradictions: []
 ---

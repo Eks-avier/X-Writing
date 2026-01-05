@@ -4,7 +4,7 @@ lines: 16462-16518
 prompt: 215
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla]
+entities: [Symphonia, Godzilla, Coating, Krator, Koinon, Horme, Magic, Aura]
 status: extracted
 contradictions: []
 ---

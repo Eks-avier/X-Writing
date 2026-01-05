@@ -4,7 +4,7 @@ lines: 16743-16804
 prompt: 219
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Godzilla, Mothra, Battra]
+entities: [Titanus mosura, Manifestation, Skull Island, Godzilla, Godric, Mothra, Battra, Krator, Maria, Rodan, Horme]
 status: extracted
 contradictions: []
 ---

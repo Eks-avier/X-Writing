@@ -4,7 +4,7 @@ lines: 14814-14869
 prompt: 190
 extracted: 2026-01-04
 category: Uncategorized
-entities: ['Godzilla', 'Crocodile Death Roll', 'Combat Techniques']
+entities: [Godzilla, Ghidorah, gojira, Kong]
 status: extracted
 ---
 

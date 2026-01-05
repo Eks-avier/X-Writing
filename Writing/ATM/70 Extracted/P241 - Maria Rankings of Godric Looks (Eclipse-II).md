@@ -4,7 +4,7 @@ lines: 17582-17657
 prompt: 241
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godric, Maria, Leo, Junior]
+entities: [Godric, Junior, Maria, Leo]
 status: extracted
 contradictions: []
 ---

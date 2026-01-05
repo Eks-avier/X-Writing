@@ -1,3 +1,12 @@
+---
+source: Eclipse-II-P003
+prompt: 003
+extracted: 2026-01-05
+category: Uncategorized
+entities: [Krator, Koinon]
+status: extracted
+---
+
 # Hellenic Plural Forms for Kraton
 
 > **Source:** `Eclipse II` - Prompt 3 (Lines 441-581)

@@ -4,7 +4,7 @@ lines: 4472-4589
 prompt: 72
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Monster Island, Godzilla, Godric, Dagon]
 status: extracted
 ---
 

@@ -4,7 +4,7 @@ lines: 16976-17035
 prompt: 223
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla, Mothra]
+entities: [Godzilla, Psionics, Mothra, Magic, Krator]
 status: extracted
 contradictions: []
 ---

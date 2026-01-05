@@ -4,7 +4,7 @@ lines: 7177-7293
 prompt: 94
 extracted: 2026-01-03
 category: Uncategorized
-entities: []
+entities: [Leo]
 status: extracted
 ---
 

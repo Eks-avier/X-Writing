@@ -4,7 +4,7 @@ lines: 16805-16870
 prompt: 220
 extracted: 2026-01-05
 category: Mechanics
-entities: [Godzilla, Mothra, Rodan, Lora]
+entities: [Godzilla, Mothra, Rodan]
 status: extracted
 contradictions: []
 ---

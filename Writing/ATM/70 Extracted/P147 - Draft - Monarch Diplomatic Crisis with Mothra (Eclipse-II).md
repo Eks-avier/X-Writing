@@ -4,7 +4,7 @@ lines: 11696-11798
 prompt: 147
 extracted: 2026-01-05
 category: Character Development
-entities: ['Monarch', 'Kong', 'Alpha Paramount', 'Godric', 'Mothra', 'Godzilla']
+entities: [Godzilla, Godric, Mothra, Maria, Dagon, Kong]
 status: extracted
 contradictions: []
 ---

@@ -4,7 +4,7 @@ lines: 9258-9539
 prompt: 114-116
 extracted: 2026-01-04
 category: Character Development
-entities: [Junior Nordson, Godric, Mothra, Dagon]
+entities: [Monster Island, Manifestation, Godric, Mothra, Junior, Maria, Dagon, Leo]
 status: extracted
 ---
 
