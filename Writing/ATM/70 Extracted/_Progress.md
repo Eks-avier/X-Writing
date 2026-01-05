@@ -20,7 +20,7 @@
 |----------|-------|
 | Files Processed | 1 / 9 (Eclipse II COMPLETE) |
 | Prompts with Extractions | 245 / 245 (Eclipse II) - 100% complete |
-| Topic Files Generated | 214 |
+| Topic Files Generated | 260 |
 | Metadata Files | 4 |
 | Contradictions Found | 0 |
 
@@ -33,35 +33,14 @@
 C:\Users\Xavier\Desktop\Personal\Vaults\X-Writing\Writing\ATM\70 Extracted\_MANIFESTO.md
 ```
 
-### Step 2: Continue Eclipse II Extraction
+### Step 2: Begin Next Source File
 
-**Current State:** 64 prompts extracted (26% of Eclipse II complete)
+**Eclipse II is 100% COMPLETE.** All 245 prompts extracted across 260 topic files.
 
-**Completed prompts (DO NOT RE-EXTRACT):**
-- P001-P005 (5 prompts - 26 files)
-- P010-P013, P018 (5 prompts)
-- P019-P032 (14 prompts)
-- P033 (1 prompt)
-- P040 (1 prompt)
-- P044 (1 prompt)
-- P046-P050 (5 prompts)
-- P055 (1 prompt)
-- P061-P062 (2 prompts)
-- P068-P072 (5 prompts)
-- P073-P090 (18 prompts)
-- P091-P096 (6 prompts)
-
-**Gap prompts still needing extraction:**
-- P006-P009 (4 prompts)
-- P014-P017 (4 prompts)
-- P034-P039, P041-P043, P045, P051-P054 (15 prompts - likely file uploads with minimal content)
-- P056-P060, P063-P067 (10 prompts - file uploads, skip)
-- P097-P198 (102 prompts - remaining common trunk)
-- P199-P245 (47 prompts - Eclipse II unique content)
-
-**Total remaining:** ~181 prompts (excluding file upload markers)
-
-**Recommended approach:** Process gaps in small sequential chunks of 10-15 prompts
+**Next file to process:** AA - The Kratos of Kings
+- Skip common trunk (P001-P198 already extracted via Eclipse II)
+- Start from Prompt 199 (skip to unique content)
+- Process through Prompt 344 (146 unique prompts)
 
 ### Step 3: Update This File
 After each successful chunk, update this progress file.
