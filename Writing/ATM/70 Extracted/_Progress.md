@@ -1,6 +1,6 @@
 # Extraction Progress
 
-> **Last Updated:** 2026-01-05 (Session 4 - ECLIPSE II COMPLETE)
+> **Last Updated:** 2026-01-06 (Session 5 - REORGANIZED)
 > **Current Phase:** Pilot Extraction (Eclipse II) - COMPLETED
 > **Next Instance:** Begin AA - The Kratos of Kings (Prompts 214-344)
 > **Rate Limit Status:** Limits lifted, Eclipse II fully extracted
@@ -20,9 +20,24 @@
 |----------|-------|
 | Files Processed | 1 / 9 (Eclipse II COMPLETE) |
 | Prompts with Extractions | 245 / 245 (Eclipse II) - 100% complete |
-| Topic Files Generated | 260 |
-| Metadata Files | 4 |
+| Topic Files Generated | 208 (content) + 52 (uploads) |
+| Metadata Files | 8 |
 | Contradictions Found | 0 |
+
+### Folder Structure
+```
+70 Extracted/
+├── Eclipse-II/                 (208 content files)
+├── _File_Uploads/Eclipse-II/   (52 upload placeholders)
+│   ├── Early-Uploads/
+│   ├── Nordson-Family/
+│   ├── Xilien-Invasion/
+│   ├── Magic-System/
+│   ├── World-References/
+│   ├── Character-Specs/
+│   └── Image-Separators/
+└── [8 metadata files at root]
+```
 
 ---
 
@@ -51,7 +66,7 @@ After each successful chunk, update this progress file.
 
 | File | Abbreviation | Total Prompts | Prompts Done | Status | Next Prompt |
 |------|--------------|---------------|--------------|--------|-------------|
-| Eclipse of ATM AU II | `Eclipse-II` | 245 | 64 (26%) | **IN PROGRESS** | P006 |
+| Eclipse of ATM AU II | `Eclipse-II` | 245 | 245 (100%) | **COMPLETE** | - |
 | AA - The Kratos of Kings | `AA-Kratos` | 344 | 0 | Pending | P199* |
 | Saga of the _Titanus gojira_ | `Saga-TG` | 300 | 0 | Pending | P199* |
 | Standing Hierarchy | `Standing` | 294 | 0 | Pending | P199* |

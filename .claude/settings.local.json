@@ -17,7 +17,8 @@
       "Bash(node:*)",
       "Bash(rm:*)",
       "Bash(grep:*)",
-      "Bash(dir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\_File_Uploads\\\\Eclipse-II\" /B)"
+      "Bash(dir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\_File_Uploads\\\\Eclipse-II\" /B)",
+      "Bash(awk:*)"
     ]
   }
 }

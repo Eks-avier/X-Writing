@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b13439f0c567dcb",
+        "id": "dd9aaaec199146df",
         "type": "tabs",
         "children": [
           {
-            "id": "583a9ea860df181a",
+            "id": "845b1006e7db5212",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/_QA_Report.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_QA_Report"
-            }
-          },
-          {
-            "id": "fb4f38d5c2e98296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/P200 - Retrospective and Notes (Eclipse-II).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "P200 - Retrospective and Notes (Eclipse-II)"
-            }
-          },
-          {
-            "id": "47c194d058e3a989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "P100-P101 - Junior's Sword Names - The Celestial Firmament (Eclipse-II)"
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 711.5133476257324
+    "width": 459.5133476257324
   },
   "right": {
     "id": "6a15c4605dc188ba",
@@ -206,11 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Writing/ATM/70 Extracted/_QA_Report.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for _QA_Report"
+              "title": "File properties"
             }
           },
           {
@@ -333,8 +269,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "583a9ea860df181a",
+  "active": "1e6c383c6b9c0453",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/update_index.py",
     "Writing/ATM/70 Extracted/Eclipse-II/P175 - Kong Value to Godzilla and Cognitive Quagmire Post-Fight (Eclipse-II).md",
     "Writing/ATM/70 Extracted/Eclipse-II/P174 - Godzilla Fighting Style Evolution - Dagon Observations and Kong Integration (Eclipse-II).md",
@@ -370,7 +307,6 @@
     "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Image-Separators",
     "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II",
     "Writing/ATM/70 Extracted/_File_Uploads",
-    "Writing/ATM/70 Extracted/Eclipse-II",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",
