@@ -16,7 +16,8 @@
       "Bash(node _entity_linker.js:*)",
       "Bash(node:*)",
       "Bash(rm:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(dir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\_File_Uploads\\\\Eclipse-II\" /B)"
     ]
   }
 }

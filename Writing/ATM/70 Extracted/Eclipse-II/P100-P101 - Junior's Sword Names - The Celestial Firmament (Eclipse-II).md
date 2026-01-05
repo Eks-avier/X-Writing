@@ -12,7 +12,9 @@ status: extracted
 
 > **Source:** `Formatted_With_Thoughts - The Eclipse of the ATM AU II.md` — Prompts 100-101 (Lines 7928-8164)
 
-## Your Notes (P100)
+## Your Notes
+
+### From Prompt 100
 
 To put into perspective just how powerful the impact of one serious swing from Leo is: it's comparable to Junior using Magnification on his Zweihander. However, Junior can apply one "Leo's Swing" worth of force into a single, precise cut/thrust/slash/cleave using just his Magnification scales. This highlights their base stats that we developed earlier. Leo is the strongest physically, but Junior can catch-up with his Magnification scales; his caveat is that it isn't as all-encompassing as Leo's Starfall.
 
@@ -25,7 +27,7 @@ I think they should have one, singular theme. Can we draft them?
 
 Both themes are sooo good; I can't decide! Regardless, drawing from Western and East Asian cultural ideas of either theme is going to be so beautiful, and a homage to the franchise's roots and history.
 
-## Your Notes (P101)
+### From Prompt 101
 
 This is elegant. Right away, I already see many thematic elements!
 

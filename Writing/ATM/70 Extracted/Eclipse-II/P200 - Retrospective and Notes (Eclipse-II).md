@@ -13,7 +13,6 @@ contradictions: []
 > **Source:** `Formatted_With_Thoughts - The Eclipse of the ATM AU II.md` - Prompt 200
 
 ## Your Notes
-## Retrospective and Notes
 
 It's amusing that the Stride is defined by its flaws more than its usefulness. That's intentional on my part. 
 
