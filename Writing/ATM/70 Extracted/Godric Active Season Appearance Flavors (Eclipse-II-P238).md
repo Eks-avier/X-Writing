@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Godric Post-Marriage Dormant Period Look
+# Godric Active Season Appearance Flavors
 > **Source:** `Formatted_With_Thoughts - The Eclipse of the ATM AU II.md` — Prompt 238
 
 ## Your Notes

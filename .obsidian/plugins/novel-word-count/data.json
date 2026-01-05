@@ -18935,9 +18935,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1767571218328,
-      "modifiedDate": 1767571218329,
-      "sizeInBytes": 8627,
+      "createdDate": 1767571335839,
+      "modifiedDate": 1767571335840,
+      "sizeInBytes": 9996,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -19080,46 +19080,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "Writing/ATM/70 Extracted/Godric Post-Marriage Dormant Period Look (Eclipse-II-P238).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1484,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.946666666666666,
-      "characterCount": 9716,
-      "nonWhitespaceCharacterCount": 7983,
-      "newlineCount": 110,
-      "readingTimeInMinutes": 5.6,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1767571227289,
-      "modifiedDate": 1767571227290,
-      "sizeInBytes": 9910,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "source": "Eclipse-II-P238",
-        "lines": "17422-17523",
-        "prompt": 238,
-        "extracted": "2026-01-05",
-        "category": "Character Development",
-        "entities": [
-          "Godric",
-          "Maria"
-        ],
-        "status": "extracted",
-        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/File Upload - Reference 12fiiGvTrLaC (Eclipse-II-P121).md": {
@@ -19350,6 +19310,99 @@
           "Godzilla",
           "Godric",
           "Battra"
+        ],
+        "status": "extracted",
+        "contradictions": []
+      }
+    },
+    "Writing/ATM/70 Extracted/Titanus Mosura Scale Constructs - Biology and Magic Integration (Eclipse-II-P067).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3506,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 11.686666666666667,
+      "characterCount": 22584,
+      "nonWhitespaceCharacterCount": 18911,
+      "newlineCount": 143,
+      "readingTimeInMinutes": 13.230188679245282,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767571373702,
+      "modifiedDate": 1767571373702,
+      "sizeInBytes": 22946,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P067",
+        "lines": "3827-4018",
+        "prompt": 67,
+        "extracted": "2026-01-05",
+        "category": "Mechanics/Worldbuilding/Character Development",
+        "entities": [
+          "Mothra",
+          "Battra",
+          "Titanus Mosura",
+          "Fairies",
+          "Sentinels",
+          "Angels",
+          "Heralds",
+          "Godzilla",
+          "Scale Constructs",
+          "Magic System",
+          "Psionics",
+          "Kratos",
+          "Atlantis",
+          "Eclipse Kingdom",
+          "External Keeping"
+        ],
+        "status": "extracted",
+        "contradictions": []
+      }
+    },
+    "Writing/ATM/70 Extracted/Godric Active Season Appearance Flavors (Eclipse-II-P238).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 989,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.296666666666667,
+      "characterCount": 6116,
+      "nonWhitespaceCharacterCount": 5057,
+      "newlineCount": 63,
+      "readingTimeInMinutes": 3.732075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767571928286,
+      "modifiedDate": 1767571928340,
+      "sizeInBytes": 6301,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "source": "Eclipse-II-P238",
+        "lines": "17422-17523",
+        "prompt": 238,
+        "extracted": "2026-01-05",
+        "category": "Character Development",
+        "entities": [
+          "Godric",
+          "Maria"
         ],
         "status": "extracted",
         "contradictions": []
