@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/10 Characters/12 Titans/Godzilla III/Research/Appearance/ATM Titan-to-Human Design Philosophy.md",
+                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ATM Titan-to-Human Design Philosophy"
+              "title": "File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/Companions Buddies - Sorcery Division Tools (Eclipse-II-P069).md"
+                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Companions Buddies - Sorcery Division Tools (Eclipse-II-P069)"
+              "title": "File properties for File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/ATM/10 Characters/12 Titans/Godzilla III/Research/Appearance/ATM Titan-to-Human Design Philosophy.md",
+                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ATM Titan-to-Human Design Philosophy"
+              "title": "Outline of File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
             }
           },
           {
@@ -248,8 +248,7 @@
               "title": "Strange New Worlds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6453194990327757",
@@ -288,6 +287,9 @@
   },
   "active": "583a9ea860df181a",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/File Upload - Kong First Arc Reference (Eclipse-II-P169).md",
+    "Writing/ATM/70 Extracted/File Upload - Nordson Family Reference Part 1 (Eclipse-II-P034).md",
+    "Writing/ATM/10 Characters/12 Titans/Godzilla III/Research/Appearance/ATM Titan-to-Human Design Philosophy.md",
     "Writing/ATM/70 Extracted/sedskU2ib",
     "Writing/ATM/70 Extracted/Godric Active Season Appearance Flavors (Eclipse-II-P238).md",
     "Writing/ATM/70 Extracted/Titanus Mosura Scale Constructs - Biology and Magic Integration (Eclipse-II-P067).md",
@@ -314,8 +316,6 @@
     "Writing/ATM/70 Extracted/File Upload - Magic System Reference Part 9 (Eclipse-II-P060).md",
     "Writing/ATM/70 Extracted/File Upload - Magic System Reference Part 8 (Eclipse-II-P059).md",
     "Writing/ATM/70 Extracted/File Upload - Magic System Reference Part 7 (Eclipse-II-P058).md",
-    "Writing/ATM/70 Extracted/File Upload - Magic System Reference Part 6 (Eclipse-II-P057).md",
-    "Writing/ATM/70 Extracted/File Upload - Magic System Reference Part 5 (Eclipse-II-P056).md",
     "Writing/ATM/70 Extracted/extract_prompts.py",
     "Writing/ATM/70 Extracted/extract_eclipse2_prompts.py",
     "add_entities.py",
@@ -323,7 +323,6 @@
     "debug_files.py",
     "retitle_extractions.py",
     "full_extract_p171_p198.py",
-    "extract_p171_p198.py",
     "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
     "The Nordsons and Lepidiels.png",
     "CSS125 - FA1.1_1.8.png",
