@@ -21750,20 +21750,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 670,
+      "wordCount": 652,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.2333333333333334,
-      "characterCount": 4584,
-      "nonWhitespaceCharacterCount": 3747,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 2.5283018867924527,
+      "pageCount": 2.1733333333333333,
+      "characterCount": 4316,
+      "nonWhitespaceCharacterCount": 3565,
+      "newlineCount": 58,
+      "readingTimeInMinutes": 2.460377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1767661468942,
-      "modifiedDate": 1767661468943,
-      "sizeInBytes": 4587,
+      "modifiedDate": 1767662653744,
+      "sizeInBytes": 4521,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -21771,6 +21771,20 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "source": "AA-Kratos-P199",
+        "lines": "15776-15821",
+        "prompt": 199,
+        "extracted": "2026-01-06",
+        "category": "Character Development",
+        "entities": [
+          "Godric/Godzilla",
+          "Maria/Mothra",
+          "Battra"
+        ],
+        "status": "extracted",
+        "contradictions": []
       }
     },
     "Writing/ATM/70 Extracted/AA-Kratos/P200 - And with that, the entire Atomic Amplification ars (AA-Kratos).md": {
