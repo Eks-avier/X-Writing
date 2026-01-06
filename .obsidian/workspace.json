@@ -11,10 +11,24 @@
             "id": "845b1006e7db5212",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/AA-Kratos/P309 - Battra Combat Philosophy - The Arrogant Scholar (AA-Kratos).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "P309 - Battra Combat Philosophy - The Arrogant Scholar (AA-Kratos)"
             }
           }
         ]
@@ -144,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/ATM/70 Extracted/AA-Kratos/P309 - Battra Combat Philosophy - The Arrogant Scholar (AA-Kratos).md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for P309 - Battra Combat Philosophy - The Arrogant Scholar (AA-Kratos)"
             }
           },
           {
@@ -269,10 +285,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "845b1006e7db5212",
   "lastOpenFiles": [
     "Writing/ATM/70 Extracted/AA-Kratos/P312 - Mothra Form Names Finalized (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P311 - Divine Moth Combat Style Naming (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P201 - Excellent! Now we can move to more mundane world-b (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P200 - And with that, the entire Atomic Amplification ars (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P199 - This is the principle we tackled earlier with Prin (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P258 - Phantom Head Syndrome Limitation (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P310 - Xilien Invasion Philosophy Evolution (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P309 - Battra Combat Philosophy - The Arrogant Scholar (AA-Kratos).md",
@@ -294,9 +313,6 @@
     "Writing/ATM/70 Extracted/AA-Kratos/P300 - Psioniton Classification - Nordson Twins (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P299 - Law of Domain Sovereignty (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P250 - Arthur as Human Reflection of Ghidorah (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P249 - Sculptor vs Painter - Kratos Philosophy (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P248 - This scene perfectly slides us into our next discu (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P247 - One more little scene before we resume discussion  (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/extract_batch.py",
     "Writing/ATM/70 Extracted/_File_Uploads/AA-Kratos",
     "Writing/ATM/70 Extracted/AA-Kratos",
