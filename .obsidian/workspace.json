@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/AA-Kratos/P204 - We've been touching on how Maria is completely beh (AA-Kratos).md",
-                "mode": "preview",
+                "file": "Writing/ATM/70 Extracted/_Branch_Map.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "P204 - We've been touching on how Maria is completely beh (AA-Kratos)"
+              "title": "_Branch_Map"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/AA-Kratos/P204 - We've been touching on how Maria is completely beh (AA-Kratos).md"
+                "file": "Writing/ATM/70 Extracted/_Branch_Map.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for P204 - We've been touching on how Maria is completely beh (AA-Kratos)"
+              "title": "File properties for _Branch_Map"
             }
           },
           {
@@ -287,6 +287,16 @@
   },
   "active": "845b1006e7db5212",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Index.md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
+    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
+    "Writing/ATM/70 Extracted/_Topic_Evolution_Report.md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P209 - Alright, let's proceed with some recollection. Wha (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P208 - There will be quiet scenes, set in the backdrop of (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P207 - I've thought about this what could be the equivale (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P205 - Maria is physically attracted to Godric. The same  (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P204 - We've been touching on how Maria is completely beh (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P203 - Yes, exactly! His drawl is a sign he's quite relax (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P202 - And we move to his English. It should be somehow s (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P201 - Excellent! Now we can move to more mundane world-b (AA-Kratos).md",
@@ -303,16 +313,6 @@
     "Writing/ATM/70 Extracted/AA-Kratos/P257 - Ichis Defensive Doctrine and Barriers (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P256 - Inverted Arcs - Control vs Effort (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P255 - Ichis Diminished Aura in Human Form (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P305 - Mother Prime and the EMP Strategy (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P254 - Electrogravitational Warfare Synergy (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P304 - Atomic Mantle EM Foundation (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P303 - Holariston Muscle Imbalance and Nomothete Quadrivium (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P253 - Ichi-Arthur Combat Configuration and Tagging System (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P302 - Godzilla Elektromagneton Classification (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P301 - Psioniton and Pyrenikon Fusion Problem (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P252 - Three Philosophies of Rule and Coexistence (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P251 - Triad of Kingship - Might Terror Lineage (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P300 - Psioniton Classification - Nordson Twins (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/extract_batch.py",
     "Writing/ATM/70 Extracted/_File_Uploads/AA-Kratos",
     "Writing/ATM/70 Extracted/AA-Kratos",
