@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Knowing the location's coordinates is primarily the limit...
+# Exif Navigator Role and Relationship
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 232
 
 ## Your Notes

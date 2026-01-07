@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Then you have the other two power systems serving as cont...
+# Three Power Systems Philosophy Contrast
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 217
 
 ## Your Notes

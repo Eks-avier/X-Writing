@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Alright, let's begin with Ghidorah. We understood Krátos ...
+# ATM Ghidorah Composite Profile
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 223
 
 ## Your Notes

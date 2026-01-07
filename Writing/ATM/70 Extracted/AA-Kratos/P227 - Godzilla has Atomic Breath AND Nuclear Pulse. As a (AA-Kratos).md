@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Godzilla has Atomic Breath AND Nuclear Pulse. As a Titan,...
+# Ghidorah Tempest AOE Ability
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 227
 
 ## Your Notes

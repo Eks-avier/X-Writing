@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Alright! We've explored and established a good amount of ...
+# Transition to Human Vessel Powers
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 234
 
 ## Your Notes

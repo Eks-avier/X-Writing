@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# And with that, the entire Atomic Amplification arsenal is...
+# Complete Atomic Amplification Arsenal Summary
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 200
 
 ## Your Notes

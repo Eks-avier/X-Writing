@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# And we move to his English. It should be somehow straight...
+# Godric Southern Drawl Acquisition
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 202
 
 ## Your Notes

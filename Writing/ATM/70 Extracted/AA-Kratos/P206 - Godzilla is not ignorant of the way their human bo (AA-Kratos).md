@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Godzilla is not ignorant of the way their human bodies pe...
+# Godric Internal Romantic Perspective
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 206
 
 ## Your Notes

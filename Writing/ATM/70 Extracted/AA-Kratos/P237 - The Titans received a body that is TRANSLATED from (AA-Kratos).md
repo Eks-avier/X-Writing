@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# The Titans received a body that is TRANSLATED from their ...
+# Translation vs Imprisonment Dichotomy
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 237
 
 ## Your Notes

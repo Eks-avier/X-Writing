@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# I'm laughing! I don't think we've even touched on which i...
+# ATM Godzilla Amalgamated Iterations
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 224
 
 ## Your Notes

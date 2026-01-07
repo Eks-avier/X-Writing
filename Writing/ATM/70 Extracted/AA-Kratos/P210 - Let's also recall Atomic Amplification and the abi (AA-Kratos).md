@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Let's also recall Atomic Amplification and the abilities ...
+# Atomic Amplification Arsenal Recall
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 210
 
 ## Your Notes

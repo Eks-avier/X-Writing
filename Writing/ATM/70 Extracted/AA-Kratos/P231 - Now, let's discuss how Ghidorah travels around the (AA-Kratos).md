@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Now, let's discuss how Ghidorah travels around the cosmos...
+# Ghidorah Four Travel Methods
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 231
 
 ## Your Notes

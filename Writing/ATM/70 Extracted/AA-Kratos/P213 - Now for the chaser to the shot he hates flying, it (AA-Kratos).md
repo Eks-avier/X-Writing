@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Now for the chaser to the shot: he hates flying, it's not...
+# Godric Flight Aversion Philosophy
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 213
 
 ## Your Notes

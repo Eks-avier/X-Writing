@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Finally, to cap off his travel methodology, his light for...
+# Ghidorah Materialization Performance Gambit
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 233
 
 ## Your Notes

@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Here is a glimpse of their dynamic following Godric's words:
+# Ichi Arthur Gym Training Vignette
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 240
 
 ## Your Notes

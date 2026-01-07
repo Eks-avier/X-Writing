@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# The air foothold is actually THE technique Scylla uses to...
+# Air Foothold Scylla Rodan Inspiration
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 215
 
 ## Your Notes

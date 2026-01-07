@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# And I think this is what makes Krátos so compelling. Char...
+# Kratos Creative Limitation Philosophy
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 216
 
 ## Your Notes

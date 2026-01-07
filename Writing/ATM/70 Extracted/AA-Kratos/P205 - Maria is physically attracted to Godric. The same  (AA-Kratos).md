@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Maria is physically attracted to Godric. The same applies...
+# Godric Maria Physical Attraction History
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 205
 
 ## Your Notes

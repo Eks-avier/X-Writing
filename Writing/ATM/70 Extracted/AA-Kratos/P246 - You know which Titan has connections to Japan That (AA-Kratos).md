@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# You know which Titan has connections to Japan? That's rig...
+# Godric Ippiki Language Troll Scene
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 246
 
 ## Your Notes

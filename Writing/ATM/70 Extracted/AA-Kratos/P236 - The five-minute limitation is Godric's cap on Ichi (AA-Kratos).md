@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# The five-minute limitation is Godric's cap on Ichi. It wa...
+# Arthur Vessel Limitations Discovery
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 236
 
 ## Your Notes

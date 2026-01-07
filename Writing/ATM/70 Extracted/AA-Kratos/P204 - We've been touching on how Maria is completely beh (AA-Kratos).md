@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# We've been touching on how Maria is completely beholden t...
+# Tangible Intangible Dynamic Foundation
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 204
 
 ## Your Notes

@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Alright, let's proceed with some recollection. What chang...
+# Kratos System Evolution Recap
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 209
 
 ## Your Notes

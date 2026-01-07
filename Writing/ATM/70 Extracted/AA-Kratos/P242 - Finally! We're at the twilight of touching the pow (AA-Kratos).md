@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Finally! We're at the twilight of touching the powers and...
+# Ichi Energy Construct Capability
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 242
 
 ## Your Notes

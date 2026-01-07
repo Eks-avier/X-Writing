@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Excellent! Now we can move to more mundane world-building!
+# Godric Japanese Accent Origin
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 201
 
 ## Your Notes

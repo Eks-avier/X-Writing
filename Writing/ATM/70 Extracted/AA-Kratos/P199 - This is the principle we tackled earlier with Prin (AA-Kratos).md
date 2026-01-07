@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# This is the principle we tackled earlier with Prince Zuko...
+# Zuko Principle and Tangibility Theme
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 199
 
 ## Your Notes

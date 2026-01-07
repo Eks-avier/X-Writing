@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# First, I shall unveil the mechanics of Ichi and Godric's ...
+# Ichi Godric Blood Vow Terms
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 235
 
 ## Your Notes

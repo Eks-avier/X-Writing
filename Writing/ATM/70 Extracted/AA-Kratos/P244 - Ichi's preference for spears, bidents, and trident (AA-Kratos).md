@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Ichi's preference for spears, bidents, and tridents are a...
+# Ichi Weapon Preference and Training
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 244
 
 ## Your Notes

@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# I forgot to mention, but Ghidorah's "lightning", which is...
+# Ghidorah Guided Attacks and Senses
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 228
 
 ## Your Notes

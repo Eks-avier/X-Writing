@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Yes, exactly! His drawl is a sign he's quite relaxed and ...
+# Godric Northern English Default Voice
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 203
 
 ## Your Notes

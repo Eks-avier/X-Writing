@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# This scene perfectly slides us into our next discussion: ...
+# Ichi Combat Doctrine and Constructs
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 248
 
 ## Your Notes

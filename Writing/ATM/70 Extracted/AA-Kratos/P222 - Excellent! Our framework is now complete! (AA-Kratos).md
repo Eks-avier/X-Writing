@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Excellent! Our framework is now complete!
+# Ghidorah vs Scylla System Importance
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 222
 
 ## Your Notes

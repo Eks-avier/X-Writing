@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# We're still in his Titan abilities, so here's another cla...
+# Ghidorah Planetary Storm Dominion
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 230
 
 ## Your Notes

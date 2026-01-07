@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# One more little scene before we resume discussion of Ichi...
+# Ichi Godric Power Comparison Scene
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 247
 
 ## Your Notes

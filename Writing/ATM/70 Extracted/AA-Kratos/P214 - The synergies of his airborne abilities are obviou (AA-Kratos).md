@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# The synergies of his airborne abilities are obvious! Even...
+# Godric Anti-Air Combat Doctrine
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 214
 
 ## Your Notes

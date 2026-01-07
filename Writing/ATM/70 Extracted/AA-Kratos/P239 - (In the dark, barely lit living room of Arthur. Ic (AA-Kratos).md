@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# (In the dark, barely lit living room of Arthur. Ichi has ...
+# Ichi Godric First Confrontation Scene
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 239
 
 ## Your Notes

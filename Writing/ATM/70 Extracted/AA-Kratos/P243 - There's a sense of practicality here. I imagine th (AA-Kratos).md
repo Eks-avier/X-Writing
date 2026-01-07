@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# There's a sense of practicality here. I imagine that some...
+# Ichi Arthur Construct Vignettes
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 243
 
 ## Your Notes

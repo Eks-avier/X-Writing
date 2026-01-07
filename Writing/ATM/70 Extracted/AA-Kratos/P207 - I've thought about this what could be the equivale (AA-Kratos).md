@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# I've thought about this: what could be the equivalent of ...
+# Maria Hair and Godric Eyes Symbolism
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 207
 
 ## Your Notes

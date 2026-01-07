@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Arthur's body likely won't reach the Antitheriomorphosize...
+# Arthur Ichi Symbiotic Growth Partnership
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 241
 
 ## Your Notes

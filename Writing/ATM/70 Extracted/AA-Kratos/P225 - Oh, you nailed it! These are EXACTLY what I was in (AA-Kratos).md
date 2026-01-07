@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Oh, you nailed it! These are EXACTLY what I was inspired ...
+# Godzilla Balance and Elektromagneton Lore
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 225
 
 ## Your Notes

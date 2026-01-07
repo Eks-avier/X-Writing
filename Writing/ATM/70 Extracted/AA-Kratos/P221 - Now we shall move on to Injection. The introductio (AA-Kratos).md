@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Now we shall move on to Injection. The introduction of Fo...
+# Injection Mechanics and Expenditure
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 221
 
 ## Your Notes

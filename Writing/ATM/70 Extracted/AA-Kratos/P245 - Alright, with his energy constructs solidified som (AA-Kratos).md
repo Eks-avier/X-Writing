@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Alright, with his energy constructs solidified somewhat, ...
+# Ichi Name Origin Scene
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 245
 
 ## Your Notes

@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# The strength of each Edict scales with the amount of ener...
+# Edict Allocation Points System
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 220
 
 ## Your Notes

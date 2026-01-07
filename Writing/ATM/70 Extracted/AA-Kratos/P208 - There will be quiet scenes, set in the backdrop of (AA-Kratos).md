@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# There will be quiet scenes, set in the backdrop of nature...
+# Silent Vulnerability Scenes Technique
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 208
 
 ## Your Notes

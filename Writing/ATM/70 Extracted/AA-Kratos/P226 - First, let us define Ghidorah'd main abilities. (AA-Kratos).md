@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# First, let us define Ghidorah'd main abilities.
+# Ghidorah Gravity Beam Mechanics
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 226
 
 ## Your Notes

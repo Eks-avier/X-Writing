@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# For this reason, Ichi has to learn the principles of AA, ...
+# Electrogravitational Overclock EGO System
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 238
 
 ## Your Notes

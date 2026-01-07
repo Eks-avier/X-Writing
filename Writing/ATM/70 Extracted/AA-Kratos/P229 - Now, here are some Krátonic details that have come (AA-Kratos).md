@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Now, here are some Krátonic details that have come to me,...
+# Ghidorah Psionic Aura Terror Effect
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 229
 
 ## Your Notes

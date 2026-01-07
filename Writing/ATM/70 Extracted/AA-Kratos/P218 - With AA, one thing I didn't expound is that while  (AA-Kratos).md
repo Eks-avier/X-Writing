@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# With AA, one thing I didn't expound is that while we defi...
+# Atomic Amplification Base Enhancements
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 218
 
 ## Your Notes

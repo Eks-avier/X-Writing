@@ -9,7 +9,7 @@ status: extracted
 contradictions: []
 ---
 
-# Finally, we previously mentioned that he learned how to m...
+# Godric Airborne Mobility Options
 > **Source:** `Formatted_With_Thoughts - AA - The Kratos of Kings.md` - Prompt 212
 
 ## Your Notes
