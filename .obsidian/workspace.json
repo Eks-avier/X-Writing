@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_QA_Report.md",
+                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_QA_Report"
+              "title": "_MANIFESTO"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_QA_Report.md"
+                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _QA_Report"
+              "title": "File properties for _MANIFESTO"
             }
           },
           {
@@ -287,7 +287,14 @@
   },
   "active": "3d58aa93d1c62470",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Saga-TG/P200 - Atomic Amplification Arsenal Complete (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P199 - Zuko Principle and Tangibility Theme (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P300 - Nordson Alien Nature Despite Human Appearance (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P299 - Rose City Visit Coaching Reluctance (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P298 - Nordson Clan City Visit Human Reactions (Saga-TG).md",
+    "Writing/ATM/70 Extracted/_Progress.md",
     "Writing/ATM/70 Extracted/_Session.md",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
     "Writing/ATM/70 Extracted/AA-Kratos/P248 - Ichi Combat Doctrine and Constructs (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P247 - Ichi Godric Power Comparison Scene (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P246 - Godric Ippiki Language Troll Scene (AA-Kratos).md",
@@ -306,13 +313,6 @@
     "Writing/ATM/70 Extracted/AA-Kratos/P233 - Ghidorah Materialization Performance Gambit (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P232 - Exif Navigator Role and Relationship (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P231 - Ghidorah Four Travel Methods (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P230 - Ghidorah Planetary Storm Dominion (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P229 - Ghidorah Psionic Aura Terror Effect (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P228 - Ghidorah Guided Attacks and Senses (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P227 - Ghidorah Tempest AOE Ability (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P226 - Ghidorah Gravity Beam Mechanics (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P225 - Godzilla Balance and Elektromagneton Lore (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P224 - ATM Godzilla Amalgamated Iterations (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/extract_batch.py",
     "Writing/ATM/70 Extracted/_File_Uploads/AA-Kratos",
     "Writing/ATM/70 Extracted/AA-Kratos",
