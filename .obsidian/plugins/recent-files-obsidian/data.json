@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_Contradictions",
+      "path": "Writing/ATM/70 Extracted/_Contradictions.md"
+    },
+    {
+      "basename": "_Entity_Registry",
+      "path": "Writing/ATM/70 Extracted/_Entity_Registry.md"
+    },
+    {
       "basename": "_Evolution_Chronicles",
       "path": "Writing/ATM/70 Extracted/_Evolution_Chronicles.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "_QA_Report",
       "path": "Writing/ATM/70 Extracted/_QA_Report.md"
-    },
-    {
-      "basename": "_Contradictions",
-      "path": "Writing/ATM/70 Extracted/_Contradictions.md"
     },
     {
       "basename": "_Index",
@@ -195,10 +199,6 @@
     {
       "basename": "Hellenic Plural Forms for Kraton (Eclipse-II-P003)",
       "path": "Writing/ATM/70 Extracted/Hellenic Plural Forms for Kraton (Eclipse-II-P003).md"
-    },
-    {
-      "basename": "Flaring Revised Definition (Eclipse-II-P003)",
-      "path": "Writing/ATM/70 Extracted/Flaring Revised Definition (Eclipse-II-P003).md"
     }
   ],
   "omittedPaths": [],
