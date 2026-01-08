@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md",
+                "file": "Writing/ATM/70 Extracted/Saga-TG/P204 - Northern Vocabulary and Vernacular (Saga-TG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_MANIFESTO"
+              "title": "P204 - Northern Vocabulary and Vernacular (Saga-TG)"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_MANIFESTO.md"
+                "file": "Writing/ATM/70 Extracted/Saga-TG/P204 - Northern Vocabulary and Vernacular (Saga-TG).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _MANIFESTO"
+              "title": "File properties for P204 - Northern Vocabulary and Vernacular (Saga-TG)"
             }
           },
           {
@@ -287,6 +287,10 @@
   },
   "active": "3d58aa93d1c62470",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/Saga-TG/P203 - Northern English Scottish Accent as True Voice (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P202 - Southern Drawl Incident with Rick Stanton (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Standing/P294 - Denizen Standing and Dagon (Standing).md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
     "Writing/ATM/70 Extracted/Saga-TG/P200 - Atomic Amplification Arsenal Complete (Saga-TG).md",
     "Writing/ATM/70 Extracted/Saga-TG/P199 - Zuko Principle and Tangibility Theme (Saga-TG).md",
     "Writing/ATM/70 Extracted/Saga-TG/P300 - Nordson Alien Nature Despite Human Appearance (Saga-TG).md",
@@ -309,10 +313,6 @@
     "Writing/ATM/70 Extracted/AA-Kratos/P237 - Translation vs Imprisonment Dichotomy (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P236 - Arthur Vessel Limitations Discovery (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/P235 - Ichi Godric Blood Vow Terms (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P234 - Transition to Human Vessel Powers (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P233 - Ghidorah Materialization Performance Gambit (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P232 - Exif Navigator Role and Relationship (AA-Kratos).md",
-    "Writing/ATM/70 Extracted/AA-Kratos/P231 - Ghidorah Four Travel Methods (AA-Kratos).md",
     "Writing/ATM/70 Extracted/AA-Kratos/extract_batch.py",
     "Writing/ATM/70 Extracted/_File_Uploads/AA-Kratos",
     "Writing/ATM/70 Extracted/AA-Kratos",
