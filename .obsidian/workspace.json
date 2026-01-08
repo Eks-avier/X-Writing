@@ -11,10 +11,24 @@
             "id": "3d58aa93d1c62470",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_QA_Report.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_QA_Report"
             }
           }
         ]
@@ -144,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_QA_Report.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for _QA_Report"
             }
           },
           {
@@ -269,7 +285,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e6c383c6b9c0453",
+  "active": "3d58aa93d1c62470",
   "lastOpenFiles": [
     "Writing/ATM/70 Extracted/_Session.md",
     "Writing/ATM/70 Extracted/AA-Kratos/P248 - Ichi Combat Doctrine and Constructs (AA-Kratos).md",

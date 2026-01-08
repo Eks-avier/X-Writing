@@ -19,7 +19,16 @@
       "Bash(grep:*)",
       "Bash(dir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\_File_Uploads\\\\Eclipse-II\" /B)",
       "Bash(awk:*)",
-      "Bash(powershell -Command:*)"
+      "Bash(powershell -Command:*)",
+      "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/ATM/70 Extracted/Saga-TG/\"*.md)",
+      "Bash(do grep -l \"## Analysis\" \"$f\")",
+      "Bash(echo:*)",
+      "Bash(do grep -l \"^source:\" \"$f\")",
+      "Bash(if not exist \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\Standing\" mkdir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\Standing\")",
+      "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/ATM/70 Extracted/Standing/\"*.md)",
+      "Bash(do grep -q \"## Your Notes\" \"$f\")",
+      "Bash(do grep -q \"## Analysis\" \"$f\")",
+      "Bash(do grep -q \"^source:\" \"$f\")"
     ]
   }
 }
