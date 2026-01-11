@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/ATM/70 Extracted/_Index_AA-Kratos.md",
+                "file": "Writing/ATM/70 Extracted/CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Index_AA-Kratos"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -224,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
+            "file": "Writing/Claude Conversations/Krátos Power System Development.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -273,8 +273,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7d3eaa8c362d8a96",
+  "active": "d45b8115e733d08c",
   "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/CLAUDE.md",
+    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/_Entity_Registry.md",
+    "Writing/ATM/70 Extracted/_Evolution_Chronicles.md",
+    "Writing/ATM/70 Extracted/_Contradictions.md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
+    "Writing/ATM/70 Extracted/_Index_AA-Kratos.md",
     "Writing/ATM/Titans/Hierarchy/consolidated-titan-hierarchy.md",
     "Writing/ATM/Titans/Hierarchy/The Wardens of the Surface.md",
     "Writing/ATM/Unrefined/Titanus Gojira.md",
@@ -295,19 +302,12 @@
     "Writing/ATM/Story Arcs/Plot Outline - Biollante Arc.md",
     "Writing/ATM/Story Arcs/Blue House At Maple Street/Mini Arc Outline - Convergence.md",
     "Writing/ATM/Story Arcs/Concept - Edelweiss.md",
-    "Writing/ATM/Story Arcs/complete-arc-structure.md",
     "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
     "Writing/ATM/Canvases/Krátos.canvas",
     "Writing/ATM/Canvases/The Titan Standing Hierarchy.canvas",
     "Writing/ATM/Canvases/The Titan Hierarchy.canvas",
     "Writing/ATM/Canvases/Krátos (English).canvas",
     "Writing/ATM/Canvases/Psionics.canvas",
-    "Writing/ATM/Unrefined/Unrefined - Base Physical Capabilities.md",
-    "Writing/ATM/Unrefined/Filipino Essay.md",
-    "Writing/ATM/Unrefined/Unrefined - Mothra's Regalia.md",
-    "Notepad 10.md",
-    "German Vocabulary - Nouns (A1).md",
-    "Notepad.md",
     "Writing/Antitheriomorphosis/Story Arcs/Blue House At Maple Street",
     "The Nordsons and Lepidiels.canvas",
     "Tags/#atm+titan+northern-faction",

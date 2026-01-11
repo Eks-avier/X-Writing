@@ -39,5 +39,6 @@
     "editor:insert-link",
     "editor:insert-embed",
     "editor:insert-tag"
-  ]
+  ],
+  "promptDelete": false
 }

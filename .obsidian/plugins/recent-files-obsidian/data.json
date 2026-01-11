@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "_Contradictions",
-      "path": "Writing/ATM/70 Extracted/_Contradictions.md"
+      "basename": "CLAUDE",
+      "path": "Writing/ATM/70 Extracted/CLAUDE.md"
+    },
+    {
+      "basename": "_Progress",
+      "path": "Writing/ATM/70 Extracted/_Progress.md"
     },
     {
       "basename": "_Entity_Registry",
@@ -11,6 +15,18 @@
     {
       "basename": "_Evolution_Chronicles",
       "path": "Writing/ATM/70 Extracted/_Evolution_Chronicles.md"
+    },
+    {
+      "basename": "_Contradictions",
+      "path": "Writing/ATM/70 Extracted/_Contradictions.md"
+    },
+    {
+      "basename": "_MANIFESTO",
+      "path": "Writing/ATM/70 Extracted/_MANIFESTO.md"
+    },
+    {
+      "basename": "_Index_AA-Kratos",
+      "path": "Writing/ATM/70 Extracted/_Index_AA-Kratos.md"
     },
     {
       "basename": "P204 - Northern Vocabulary and Vernacular (Saga-TG)",
@@ -27,10 +43,6 @@
     {
       "basename": "P294 - Denizen Standing and Dagon (Standing)",
       "path": "Writing/ATM/70 Extracted/Standing/P294 - Denizen Standing and Dagon (Standing).md"
-    },
-    {
-      "basename": "_MANIFESTO",
-      "path": "Writing/ATM/70 Extracted/_MANIFESTO.md"
     },
     {
       "basename": "P200 - Atomic Amplification Arsenal Complete (Saga-TG)",
@@ -51,10 +63,6 @@
     {
       "basename": "P298 - Nordson Clan City Visit Human Reactions (Saga-TG)",
       "path": "Writing/ATM/70 Extracted/Saga-TG/P298 - Nordson Clan City Visit Human Reactions (Saga-TG).md"
-    },
-    {
-      "basename": "_Progress",
-      "path": "Writing/ATM/70 Extracted/_Progress.md"
     },
     {
       "basename": "_Session",
@@ -187,18 +195,6 @@
     {
       "basename": "Kratos Overall Impression and Core Strengths (Eclipse-II-P001)",
       "path": "Writing/ATM/70 Extracted/Kratos Overall Impression and Core Strengths (Eclipse-II-P001).md"
-    },
-    {
-      "basename": "Kratos Distinctions from Other Power Systems (Eclipse-II-P001)",
-      "path": "Writing/ATM/70 Extracted/Kratos Distinctions from Other Power Systems (Eclipse-II-P001).md"
-    },
-    {
-      "basename": "Kratos Core Metaphor - The Ruler (Eclipse-II-P005)",
-      "path": "Writing/ATM/70 Extracted/Kratos Core Metaphor - The Ruler (Eclipse-II-P005).md"
-    },
-    {
-      "basename": "Hellenic Plural Forms for Kraton (Eclipse-II-P003)",
-      "path": "Writing/ATM/70 Extracted/Hellenic Plural Forms for Kraton (Eclipse-II-P003).md"
     }
   ],
   "omittedPaths": [],
