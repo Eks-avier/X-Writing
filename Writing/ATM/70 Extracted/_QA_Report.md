@@ -1,22 +1,21 @@
 # QA Validation Report
 
-> **Generated:** 2026-01-08
-> **Scope:** Eclipse-II (208 files) + AA-Kratos (146 files) + Saga-TG (102 files) + Standing (96 files)
+> **Generated:** 2026-01-10
+> **Scope:** Eclipse-II (208) + AA-Kratos (146) + Saga-TG (102) + Standing (96) + BAA-Kratos (86) + TG (77)
 
 ---
 
 ## Summary
 
-| Metric | Eclipse-II | AA-Kratos | Saga-TG | Standing | Status |
-|--------|------------|-----------|---------|----------|--------|
-| Total Files | 208 | 146 | 102 | 96 | - |
-| Has ## Your Notes | 208 | 146 | 102 | 96 | PASS |
-| Has ## Analysis | 208* | 146 | 102 | 96 | PASS |
-| Has source: frontmatter | 208 | 146 | 102 | 96 | PASS |
-| Has ^extract- block ID | 208 | 146 | 102 | 96 | PASS |
+| Metric | Eclipse-II | AA-Kratos | Saga-TG | Standing | BAA-Kratos | TG | Status |
+|--------|------------|-----------|---------|----------|------------|-----|--------|
+| Total Files | 208 | 146 | 102 | 96 | 86 | 77 | - |
+| Has ## Your Notes | 208 | 146 | 102 | 96 | 86 | 77 | PASS |
+| Has ## Analysis | 208* | 146 | 102 | 96 | 86 | 77 | PASS |
+| Has source: frontmatter | 208 | 146 | 102 | 96 | 86 | 77 | PASS |
 
 **Overall Pass Rate: 100%**
-**Total Topic Files: 552**
+**Total Topic Files: 715**
 
 ---
 
@@ -34,14 +33,21 @@
 ### Standing
 *No issues found.*
 
+### BAA-Kratos
+*No issues found.*
+
+### TG
+*No issues found.*
+
 ---
 
 ## Completed Steps
-- [x] QA Validation Complete (Eclipse-II, AA-Kratos, Saga-TG, Standing)
+- [x] QA Validation Complete (all 6 sources)
 - [x] VALIDATOR for contradictions - None found
 - [x] LINKER for cross-references - Entity Registry created
 - [x] CHRONICLER for evolution chains - Evolution Chronicles created
 - [x] INDEXER - Index built
 
 ## Next Steps
-- [ ] Extract remaining 5 source files
+- [ ] Extract remaining 3 source files (Kratos, BTG, Eclipse-I)
+- [ ] Run DEDUPLICATOR phase after all sources complete

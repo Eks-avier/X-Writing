@@ -28,7 +28,18 @@
       "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/ATM/70 Extracted/Standing/\"*.md)",
       "Bash(do grep -q \"## Your Notes\" \"$f\")",
       "Bash(do grep -q \"## Analysis\" \"$f\")",
-      "Bash(do grep -q \"^source:\" \"$f\")"
+      "Bash(do grep -q \"^source:\" \"$f\")",
+      "Bash(if not exist \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\BAA-Kratos\" mkdir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\BAA-Kratos\")",
+      "Bash(for f in \"C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/ATM/70 Extracted/BAA-Kratos/\"*.md)",
+      "Bash(for f in *.md)",
+      "Bash(do name=\"$f%.md\")",
+      "Bash(while read f)",
+      "Bash(do if ! grep -q \"$f\" _Index_Standing.md)",
+      "Bash(then echo \"Missing: $f\")",
+      "Bash(fi)",
+      "Bash(comm:*)",
+      "Bash(if not exist \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\Kratos\" mkdir \"C:\\\\Users\\\\Xavier\\\\Desktop\\\\Personal\\\\Vaults\\\\X-Writing\\\\Writing\\\\ATM\\\\70 Extracted\\\\Kratos\")",
+      "Bash(dir \"C:\\\\Users\\\\Xavier\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Xavier-Desktop-Personal-Vaults-X-Writing\\\\tasks\"\")"
     ]
   }
 }

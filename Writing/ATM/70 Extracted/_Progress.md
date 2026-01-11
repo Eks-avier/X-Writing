@@ -1,9 +1,9 @@
- b# Extraction Progress
+# Extraction Progress
 
-> **Last Updated:** 2026-01-08 (Session 8 - STANDING COMPLETE)
-> **Current Phase:** Standing Hierarchy - COMPLETED
-> **Next Instance:** Begin BAA-Kratos (Branch of AA-Kratos)
-> **Rate Limit Status:** Standing fully extracted (96 files)
+> **Last Updated:** 2026-01-10 (Session 10 - TG COMPLETE)
+> **Current Phase:** TG - COMPLETED
+> **Next Instance:** Begin Kratos (The Kratos of Kings)
+> **Rate Limit Status:** TG fully extracted (77 files)
 
 ---
 
@@ -18,9 +18,9 @@
 
 | Progress | Count |
 |----------|-------|
-| Files Processed | 4 / 9 (Eclipse II + AA-Kratos + Saga-TG + Standing COMPLETE) |
-| Prompts with Extractions | 589 total (245 Eclipse II + 146 AA-Kratos + 102 Saga-TG + 96 Standing) |
-| Topic Files Generated | 552 content files + 52 uploads |
+| Files Processed | 6 / 9 (Eclipse II + AA-Kratos + Saga-TG + Standing + BAA-Kratos + TG COMPLETE) |
+| Prompts with Extractions | 752 total (245 + 146 + 102 + 96 + 86 + 77) |
+| Topic Files Generated | 715 content files + 52 uploads |
 | Metadata Files | 8 |
 | Contradictions Found | 0 |
 
@@ -30,7 +30,9 @@
 - Eclipse-II/                 (208 content files)
 - AA-Kratos/                  (146 content files)
 - Saga-TG/                    (102 content files)
-- Standing/                   (96 content files) <- NEW
+- Standing/                   (96 content files)
+- BAA-Kratos/                 (86 content files)
+- TG/                         (77 content files) <- NEW
 - _File_Uploads/Eclipse-II/   (52 upload placeholders)
 - [8 metadata files at root]
 
@@ -44,8 +46,8 @@
 | AA - The Kratos of Kings | AA-Kratos | 344 | 146 (P199-P344) | COMPLETE |
 | Saga of the Titanus gojira | Saga-TG | 300 | 102 (P199-P300) | COMPLETE |
 | Standing Hierarchy | Standing | 294 | 96 (P199-P294) | COMPLETE |
-| Branch of AA - Kratos | BAA-Kratos | 284 | 0 | Pending |
-| The Titanus gojira | TG | 276 | 0 | Pending |
+| Branch of AA - Kratos | BAA-Kratos | 284 | 86 (P199-P284) | COMPLETE |
+| The Titanus gojira | TG | 276 | 77 (P199-P276) | COMPLETE |
 | The Kratos of Kings | Kratos | 263 | 0 | Pending |
 | Branch of Titanus gojira | BTG | 263 | 0 | Pending |
 | Eclipse of ATM AU I | Eclipse-I | 260 | 0 | Pending |
@@ -53,6 +55,46 @@
 ---
 
 ## Extraction Log
+
+### 2026-01-10: TG Full Extraction
+
+- **Status:** COMPLETED SUCCESSFULLY
+- **Source:** The Titanus gojira (P199-P276)
+- **Total Prompts Extracted:** 76 unique prompts (P244, P254 file uploads only)
+- **Files Created:** 77 topic files
+- **Key Content Areas:**
+  - Zuko Principle and Tangibility Theme
+  - Atomic Amplification Arsenal Complete (biography as trophies)
+  - Godric linguistic identity (Japanese, Northern English, Southern drawl)
+  - Nordson family naming philosophy (Godric, Maria, Darius, Leo)
+  - Alpha Titan Political Categories (Standing Hierarchy, Wardens, Challengers)
+  - Sovereign vs Divine Authority dynamics
+  - Three Stages of Rekindling (Kong, Battra, Dagon/children)
+  - Burning Form mechanics and Aurelia/Astraea legacy
+  - Gojira time/growth rate and lifespan mechanics
+  - Master Timeline Arc Structure (Era I-VII, 15 arcs)
+  - Zeke/Zilla Jr. and HEAT Team crossover
+  - Titan Theology (Emergent vs Ascendant)
+  - Godric-Zeke confrontation scenes
+
+### 2026-01-09: BAA-Kratos Full Extraction
+
+- **Status:** COMPLETED SUCCESSFULLY
+- **Source:** Branch of AA - The Kratos of Kings (P199-P284)
+- **Total Prompts Extracted:** 86 unique prompts
+- **Files Created:** 86 topic files
+- **Key Content Areas:**
+  - Power Systems Philosophy (Kratos tangibility, Zuko Principle)
+  - Atomic Amplification Arsenal Complete (AA, Railgun, Stride, Mantle)
+  - Godric characterization (accents, era influences)
+  - Godric-Maria romance dynamics (attraction, vulnerability, silent scenes)
+  - Ghidorah abilities complete (Gravity Beams, Tempest, Travel Methods, Tagging)
+  - Blood-Vow terms and mechanics
+  - Ichi/Arthur vessel dynamics (EGO, limitations, translation vs imprisonment)
+  - Kratos system mechanics (Edicts, Injection, Fortification)
+  - Three Power Systems contrast philosophy
+  - Godzilla/Ghidorah amalgamation analysis (franchise era inspirations)
+  - Scylla development and Conquerors of Fate theme
 
 ### 2026-01-08: Standing Hierarchy Full Extraction
 
@@ -121,8 +163,16 @@
 
 ## Pending Tasks
 
-1. Begin next source file - BAA-Kratos (Branch of AA-Kratos, ~86 unique prompts)
-2. Continue with remaining 4 source files
+### Extraction
+1. Begin next source file - Kratos (The Kratos of Kings, ~65 unique prompts)
+2. Continue with remaining 2 source files (BTG, Eclipse-I)
+
+### Post-Extraction (after all 9 sources complete)
+3. **DEDUPLICATOR Phase** - Run comprehensive duplicate scan on full corpus
+   - Create `_Duplicates.md` metadata file
+   - Group files into duplicate clusters (verbatim/near-duplicate/related)
+   - Check both trunk (P001-P198) and branch content (P199+)
+   - Flag duplicates but defer canonical designation to user review
 
 ---
 
