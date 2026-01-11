@@ -59,24 +59,10 @@
             "id": "7d3eaa8c362d8a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/ATM/Characters/Humans/The Psionic and Sorcery Divisions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Psionic and Sorcery Divisions"
+              "title": "New tab"
             }
           }
         ],
@@ -244,21 +230,33 @@
           "icon": "lucide-info",
           "title": "File properties"
         }
+      },
+      {
+        "id": "6a1e2f8867c3158c",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "file-digit",
+          "title": "Strange New Worlds"
+        }
       }
     ],
     "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
       "file-cleaner-redux:Clean files": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "7d3eaa8c362d8a96",

@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "a82475c8fdc3045f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b804e0189ddd6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d58aa93d1c62470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_Contradictions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Contradictions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef067ebf9564dbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7dee02be712c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6c383c6b9c0453",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c02cf2f4691ce91e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "eb74688af16976a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d539be1372963c88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"X\"",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d77f8577a1998e57",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "43d8d4712b2c76cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0b5b9ef90b114671",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "7827de0b76675df4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 540.5133476257324
+  },
+  "right": {
+    "id": "6a15c4605dc188ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d86b67ca7051bea",
+        "type": "tabs",
+        "dimension": 63.43416370106761,
+        "children": [
+          {
+            "id": "a9441a9324b108e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/_Contradictions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for _Contradictions"
+            }
+          },
+          {
+            "id": "acd4f89612315a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/ATM/70 Extracted/File Upload - Hair Specs Part 5 (Eclipse-II-P231).md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of File Upload - Hair Specs Part 5 (Eclipse-II-P231)"
+            }
+          },
+          {
+            "id": "a7f9c012399c63dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aura Expansion.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aura Expansion"
+            }
+          },
+          {
+            "id": "eeb0c3928b932311",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aura Expansion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aura Expansion"
+            }
+          },
+          {
+            "id": "45c9fdc8bfd4d671",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2faa400e97a85003",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "2e2f43827d8765b7",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6453194990327757",
+        "type": "tabs",
+        "dimension": 36.56583629893239,
+        "children": [
+          {
+            "id": "4d19fc400998f206",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "file-cleaner-redux:Clean files": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "1e6c383c6b9c0453",
+  "lastOpenFiles": [
+    "Writing/ATM/70 Extracted/_Entity_Registry.md",
+    "Writing/ATM/70 Extracted/_Evolution_Chronicles.md",
+    "Writing/ATM/70 Extracted/Saga-TG/P204 - Northern Vocabulary and Vernacular (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P203 - Northern English Scottish Accent as True Voice (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P202 - Southern Drawl Incident with Rick Stanton (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Standing/P294 - Denizen Standing and Dagon (Standing).md",
+    "Writing/ATM/70 Extracted/_MANIFESTO.md",
+    "Writing/ATM/70 Extracted/Saga-TG/P200 - Atomic Amplification Arsenal Complete (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P199 - Zuko Principle and Tangibility Theme (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P300 - Nordson Alien Nature Despite Human Appearance (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P299 - Rose City Visit Coaching Reluctance (Saga-TG).md",
+    "Writing/ATM/70 Extracted/Saga-TG/P298 - Nordson Clan City Visit Human Reactions (Saga-TG).md",
+    "Writing/ATM/70 Extracted/_Progress.md",
+    "Writing/ATM/70 Extracted/_Session.md",
+    "Writing/ATM/70 Extracted/_QA_Report.md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P248 - Ichi Combat Doctrine and Constructs (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P247 - Ichi Godric Power Comparison Scene (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P246 - Godric Ippiki Language Troll Scene (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P245 - Ichi Name Origin Scene (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P244 - Ichi Weapon Preference and Training (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P243 - Ichi Arthur Construct Vignettes (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P242 - Ichi Energy Construct Capability (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P241 - Arthur Ichi Symbiotic Growth Partnership (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P240 - Ichi Arthur Gym Training Vignette (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P239 - Ichi Godric First Confrontation Scene (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/P238 - Electrogravitational Overclock EGO System (AA-Kratos).md",
+    "Writing/ATM/70 Extracted/AA-Kratos/extract_batch.py",
+    "Writing/ATM/70 Extracted/_File_Uploads/AA-Kratos",
+    "Writing/ATM/70 Extracted/AA-Kratos",
+    "Writing/ATM/70 Extracted/update_index.py",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/World-References",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Xilien-Invasion",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Nordson-Family",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Early-Uploads",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Magic-System",
+    "Writing/ATM/70 Extracted/_File_Uploads/Eclipse-II/Character-Specs",
+    "Writing/ATM/Canvases/The Nordsons and Lepidiels.canvas",
+    "The Nordsons and Lepidiels.png",
+    "CSS125 - FA1.1_1.8.png",
+    "Writing/ATM/Canvases/Krátos.canvas",
+    "Writing/ATM/Canvases/Krátos (Common).canvas",
+    "Writing/ATM/Canvases/Krátos (Conqueror).canvas",
+    "Writing/ATM/Canvases/Krátos (English).canvas",
+    "Writing/ATM/Canvases/Sorcery Redefined.canvas",
+    "Writing/ATM/Canvases/Domination of Energy.canvas",
+    "Writing/ATM/Canvases/Krátos (Greek).canvas",
+    "Writing/ATM/Canvases/Psionics.canvas",
+    "Writing/ATM/Canvases/Sorcery.canvas",
+    "Writing/Main Alternate Universe/Antitheriomorphosis - Magic System.png",
+    "Main Alternate Universe/Antitheriomorphosis - Magic System.png"
+  ]
+}
