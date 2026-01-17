@@ -1,1 +1,0 @@
-const fs=require("fs");const dir="C:/Users/Xavier/Desktop/Personal/Vaults/X-Writing/Writing/ATM/70 Extracted/BTG/";

@@ -16,7 +16,7 @@ The story builds toward an eventual crossover with the Pacific Rim universe, as 
 
 ## Narrative Arcs
 
-Arcs are organized by **Era**, matching the folder structure in `30 Narrative/31 Story Arcs/`.
+Arcs are organized by **Era**, matching the folder structure in `40 Narrative/31 Story Arcs/`.
 
 ---
 
@@ -179,10 +179,10 @@ The narrative explores five core themes:
 ## Writing Resources
 
 ### Creation Guides
-- [[40 Reference/41 Creation Instructions/|Creation Instructions]] — How to write in this universe
+- [[50 Reference/41 Creation Instructions/|Creation Instructions]] — How to write in this universe
 
 ### Canvases & Visual Planning
-- [[40 Reference/43 Canvases/|Canvas Files]] — Visual story planning
+- [[50 Reference/43 Canvases/|Canvas Files]] — Visual story planning
 
 ---
 
