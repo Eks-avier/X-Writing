@@ -16,10 +16,16 @@ The story builds toward an eventual crossover with the Pacific Rim universe, as 
 
 ## Narrative Arcs
 
-### Completed/Active Arcs
+Arcs are organized by **Era**, matching the folder structure in `30 Narrative/31 Story Arcs/`.
 
-#### The First Arc (2020)
-> *The immediate aftermath of the transformation.*
+---
+
+### Era V — War of Kings (2019)
+
+The cataclysmic year when Ghidorah awakened and the old order shattered.
+
+#### The First Arc
+> *The immediate aftermath of the King of Monsters events.*
 
 - [[The First Arc - Plot Outline]] — Full arc structure
 - [[complete-arc-structure]] — Integrated arc planning
@@ -30,6 +36,15 @@ The story builds toward an eventual crossover with the Pacific Rim universe, as 
 
 ---
 
+### Era VI — New World (2020-2024)
+
+The transformation and its immediate aftermath. Titans learn to be human.
+
+#### The Fishing Family Arc (2020)
+> *Godric's formative relationships in the new world.*
+
+- [[The Fishing Family Arc - Godric's Foundation]] — Godric's foundation
+
 #### The Xilien Invasion Arc (2023-2024)
 > *Battra returns, allied with aliens, seeking Earth.*
 
@@ -37,18 +52,7 @@ The story builds toward an eventual crossover with the Pacific Rim universe, as 
 
 The exiled Lord of Mystic Arts returns after detecting the weakening Divine Mandate. He allies with the Xilliens to facilitate his return—but his true agenda runs deeper than conquest.
 
----
-
-#### Keystone Arc (2025)
-> *The opening of Monster Island Palace.*
-
-- [[Plot Outline - Keystone Arc]]
-
-A pivotal arc culminating in the completion of Monster Island Palace and Kong's official inclusion in Titan governance.
-
----
-
-### The Blue House at Maple Street (2025-2027)
+#### Blue House at Maple Street (2024)
 > *Godric and Maria go undercover.*
 
 - [[Plot Outline - Blue House at Maple Street]]
@@ -61,51 +65,63 @@ Godric and Maria pose as teachers in Meadowvale, investigating a Ghidorah fragme
 
 ---
 
-### Planned Major Arcs
+### Era VII — Antitheriomorphosis (2025+)
+
+The world changes irrevocably. The hidden Titans step into the light.
+
+#### Keystone Arc (2025)
+> *The opening of Monster Island Palace.*
+
+- [[Plot Outline - Keystone Arc]]
+
+A pivotal arc culminating in the completion of Monster Island Palace and Kong's official inclusion in Titan governance.
 
 #### Dagon Resurrection Arc (2026)
 > *The return of Godzilla's father.*
 
 - [[Plot Outline - Dagon Resurrection Arc]]
+- [[dagon_godric_scenes]] — Written scenes
 
-Set after the Blue House arc. The last Northern Patriarch returns—but in what form?
+The last Northern Patriarch returns—but in what form?
 
----
-
-#### Biollante Introduction Arc (2027)
+#### Biollante Arc (2027)
 > *The Rose of the North awakens.*
 
 - [[Plot Outline - Biollante Arc]]
 
 Eight months after Dagon's resurrection. Biollante, the Rose of the North, enters the narrative.
 
----
+#### Student Vignettes
+> *Individual stories from the Keep Charlie students.*
 
-#### Link Disconnected
-> *Samuel Johns' story.*
-
-- [[Plot Outline - Link Disconnected]]
-
-A story arc featuring Samuel Johns of the Psionic Division.
+- [[Plot Outline - Link Disconnected]] — Samuel Johns (Psionic Division, 2025-2030)
 
 ---
 
-### Concepts & Experimental Arcs
+### Character Arcs
 
-Narrative ideas in development:
+Extended narrative pieces focused on specific characters:
+
+- [[kong-narrative-overview]] — Kong: From Guardian to Sovereign
+- [[The Saga of the Fallen Star]] — Dagon and Astraea's love story
+
+---
+
+### Alt Universe
+
+Non-canon concepts and alternate timeline explorations:
 
 - [[Concept - Medieval AU]] — Alternate universe: medieval setting
-- [[Concept - Edelweiss]] — Thematic concept
-- [[Concept - Moon River]] — Atmospheric concept
-- [[Idea - Eyes of Mine]] — Story idea
+- [[Concept - Edelweiss]] — Godzilla/Mothra romantic scene (singing)
+- [[Concept - Moon River]] — Duet scene with dual perspective
 
 ---
 
-### Character-Focused Arcs
+### Meta & Research
 
-- [[The Fishing Family Arc - Godric's Foundation]] — Godric's formative relationships
-- [[kong-narrative-overview]] — Kong's narrative journey
-- [[The Saga of the Fallen Star]] — Extended narrative piece
+Structural documentation and character research:
+
+- [[Idea - Eyes of Mine]] — Character research: Dagon/Godzilla eye appearance
 
 ---
 
