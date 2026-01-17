@@ -114,16 +114,20 @@ See: [[The Psionic and Sorcery Divisions]]
 
 ## Historical Events
 
-### Ancient History
+### Ancient Eras (I–IV)
 - ~250 MYA: The trinity of Godzilla, Mothra, and Battra forms
 - Atlantean Age: Battra teaches humanity magic; Mothra issues the Divine Mandate
+- Pre-2019: Titans dormant; human civilization rises
 
 ### The Divine Mandate
 - [[Divine Mandate Against Sorcery]] — The ancient prohibition
 - [[The Weakening of the Divine Mandate]] — Its modern decline
 
-### Modern Era
-See [[Portal - Story]] for detailed arc information.
+### Modern Eras (V–VII)
+See [[Portal - Story]] for detailed arc information by Era:
+- **Era V** — War of Kings (2019)
+- **Era VI** — New World (2020–2024)
+- **Era VII** — Antitheriomorphosis (2025+)
 
 ---
 
