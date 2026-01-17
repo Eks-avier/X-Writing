@@ -127,24 +127,40 @@ Structural documentation and character research:
 
 ## Timeline
 
-### Ancient Era
+### Ancient Eras (I–IV)
+
 | Period | Events |
 |--------|--------|
 | ~250 MYA | Young Godzilla, Mothra, and Battra meet |
 | Atlantean Age | Battra teaches humans magic; Divine Mandate issued; Battra exiled |
+| Pre-2019 | Titans dormant; human civilization rises |
 
-### Modern Era
-| Year | Arc/Events |
-|------|------------|
-| 2019 | Modified King of the Monsters events |
+### Era V — War of Kings (2019)
+
+| Year | Events |
+|------|--------|
+| 2019 | Modified King of the Monsters events; Ghidorah defeated |
+| 2019 | **The First Arc** — Global psychic awakening; Balagtas twins' story begins |
+
+### Era VI — New World (2020–2024)
+
+| Year | Events |
+|------|--------|
 | 2020 | **Antitheriomorphosis** — All Titans become human |
-| 2021-2022 | Adaptation period; Modified Godzilla vs. Kong |
-| 2023-2024 | **Xilien Invasion Arc** |
-| 2025 | **Keystone Arc**, **Blue House at Maple Street** begins |
-| 2026 | **Dagon Resurrection Arc** |
-| 2027 | **Biollante Introduction Arc** |
-| 2028 | New York Incident (Ghidorah fragment activates) |
-| 2030+ | Pacific Rim crossover begins |
+| 2020 | **Fishing Family Arc** — Godric's foundational relationships |
+| 2021–2022 | Adaptation period; Modified Godzilla vs. Kong |
+| 2023–2024 | **Xilien Invasion Arc** — Battra's return |
+| 2024 | **Blue House at Maple Street** — Godric and Maria undercover |
+
+### Era VII — Antitheriomorphosis (2025+)
+
+| Year | Events |
+|------|--------|
+| 2025 | **Keystone Arc** — Monster Island Palace opens; Kong joins governance |
+| 2026 | **Dagon Resurrection Arc** — The Last Northern Patriarch returns |
+| 2027 | **Biollante Arc** — The Rose of the North awakens |
+| 2028 | New York Incident — Ghidorah fragment activates |
+| 2030+ | Pacific Rim crossover begins
 
 ---
 
