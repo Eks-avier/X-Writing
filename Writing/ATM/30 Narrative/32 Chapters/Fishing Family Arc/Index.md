@@ -1,10 +1,9 @@
 ---
 longform:
   format: scenes
-  title: The First Arc
+  title: The Fishing Family Arc
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 01_Devoured
+  scenes: []
   ignoredFiles: []
 ---

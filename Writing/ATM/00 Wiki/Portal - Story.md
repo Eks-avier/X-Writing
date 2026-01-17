@@ -26,7 +26,7 @@ The story builds toward an eventual crossover with the Pacific Rim universe, as 
 
 **Chapters:**
 - [[Devoured]] — Published chapter
-- [[Index]] — Chapter index
+- [[32 Chapters/The First Arc/Index|Chapter Index]] — Longform project
 
 ---
 
@@ -160,4 +160,4 @@ The narrative explores five core themes:
 - [[Portal - Titans]] — The main cast
 - [[Portal - World]] — Where the story takes place
 - [[Portal - Power Systems]] — What drives the action
-- [[Index]] — Return to main wiki
+- [[00 Wiki/Index|Index]] — Return to main wiki

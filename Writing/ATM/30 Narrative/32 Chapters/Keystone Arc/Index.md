@@ -1,10 +1,9 @@
 ---
 longform:
   format: scenes
-  title: The First Arc
+  title: The Keystone Arc
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 01_Devoured
+  scenes: []
   ignoredFiles: []
 ---

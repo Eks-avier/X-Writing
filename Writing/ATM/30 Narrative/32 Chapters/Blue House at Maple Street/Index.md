@@ -1,10 +1,9 @@
 ---
 longform:
   format: scenes
-  title: The First Arc
+  title: Blue House at Maple Street
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 01_Devoured
+  scenes: []
   ignoredFiles: []
 ---

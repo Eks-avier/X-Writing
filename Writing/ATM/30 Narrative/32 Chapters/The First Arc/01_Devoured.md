@@ -1,3 +1,8 @@
+---
+aliases:
+  - Devoured
+---
+
 # Devoured
 
 ## First Event - The Death Song of Three Storms and the Eater of the Moon
