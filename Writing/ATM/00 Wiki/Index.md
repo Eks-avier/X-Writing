@@ -54,16 +54,13 @@ The universe operates on three interconnected power systems:
 
 ## Timeline at a Glance
 
-| Era | Events |
-|-----|--------|
-| ~250 MYA | Young Godzilla, Mothra, and Battra meet as hatchlings |
-| Atlantean Age | Battra teaches humanity magic; Mothra issues the Divine Mandate |
-| 2019 | Modified King of the Monsters events |
-| 2020 | **Antitheriomorphosis** — All Titans become human |
-| 2023-2024 | Xilien Invasion Arc |
-| 2025 | Keystone Arc, Blue House at Maple Street |
-| 2026+ | Dagon Resurrection, Biollante Introduction |
-| 2030+ | Pacific Rim crossover begins |
+| Era | Period | Key Events |
+|-----|--------|------------|
+| I–IV | Ancient | Titans meet as hatchlings; Battra exiled |
+| V | 2019 | War of Kings — Ghidorah defeated; First Arc |
+| VI | 2020–2024 | New World — Transformation; Xilien Invasion |
+| VII | 2025+ | Antitheriomorphosis — Keystone; Dagon; Biollante |
+| — | 2030+ | Pacific Rim crossover begins |
 
 ---
 
