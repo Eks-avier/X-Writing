@@ -111,4 +111,4 @@ When used together with an Atomic Stride, it can enable the user to phase throug
 
 * [[kratos-mastery]] — Krátos system integration
 * [[fighting-style-evolution]] — Combat style development
-* [[aerial-combat-doctrine]] — Aerial mobility and anti-air philosophy
+* [[aerial-combat-doctrine/CLAUDE|Aerial Combat Doctrine]] — Aerial mobility and anti-air philosophy (atomic folder)

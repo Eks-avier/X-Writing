@@ -70,12 +70,44 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 * [[Domination of Energy]] - Species-level biological trait (distinct from Battra's theory)
 * [[elektromagneton-nature]] - Godric's personal awakening to his EM nature (Abilities perspective)
 
+## Atomic Topic Folders
+
+Some ability topics use an **atomic folder architecture** instead of single files. This enables:
+- Pure separation of content types (mechanics, narrative, thematic, trivia)
+- Atomic files for precise linking
+- In-universe trivia creates relationship web between characters
+- Numbered prefixes ensure consistent ordering
+
+### Folder Structure Pattern
+
+```
+[topic]/
+├── CLAUDE.md            # Documents folder contents, links to all subfiles
+├── 01-mechanics/        # What it does, how it works
+├── 02-narrative/        # Story significance, character development
+├── 03-thematic/         # Themes, symbolism, meaning
+└── 04-trivia/
+    ├── in-universe/     # Inspiration from other characters (linkable)
+    └── out-of-universe/ # Meta-references, real-life inspirations
+```
+
+### Migrated Topics
+
+| Folder | Files | Status |
+|--------|-------|--------|
+| [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | 15 files | Complete |
+
+> **Note:** Original single-file versions are retained temporarily during transition.
+
+---
+
 ## File Inventory
 
 | File | Nature | Greek Terms |
 |------|--------|-------------|
 | [[abilities-overview]] | Hub document | Has terms |
-| [[aerial-combat-doctrine]] | Aerial mobility & anti-air philosophy | Has terms |
+| [[aerial-combat-doctrine]] | Aerial mobility (legacy file) | Has terms |
+| [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | Aerial mobility (atomic folder) | Has terms |
 | [[atomic-amplification]] | Main AA reference | Has terms |
 | [[atomic-amplification-energy-domination]] | Theoretical perspective | Has terms |
 | [[atomic-breath-evolution]] | Breath adaptation | Has terms |

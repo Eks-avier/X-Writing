@@ -120,5 +120,6 @@ With the Atomic Stride, it might get it up to speed with his other stats!
 
 ## See Also
 
-* [[aerial-combat-doctrine|Aerial Combat Doctrine]] — The Vertical Stride (Seismos) variant for aerial repositioning and anti-air combat synergies
+* [[aerial-combat-doctrine/01-mechanics/vertical-stride|Vertical Stride (Seismos)]] — Aerial Stride variant for repositioning
+* [[aerial-combat-doctrine/CLAUDE|Aerial Combat Doctrine]] — Full aerial mobility and anti-air philosophy
 
