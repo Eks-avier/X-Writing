@@ -97,7 +97,8 @@ aerial-combat-doctrine/
 
 ## Related Files
 
-- [[atomic-stride-mantle|Atomic Stride & Atomic Mantle]] — Core Stride mechanics
+- [[atomic-stride/CLAUDE|Atomic Stride]] — Core Stride mechanics (atomic folder)
+- [[atomic-mantle/CLAUDE|Atomic Mantle]] — Protection synergy (atomic folder)
 - [[kratos-mastery|Kratos Mastery]] — Personal Coating and Fortification
 - [[abilities-overview|The Suite]] — Complete abilities overview
 - [[fighting-style-evolution|Fighting Style Evolution]] — Combat philosophy

@@ -96,6 +96,8 @@ Some ability topics use an **atomic folder architecture** instead of single file
 | Folder | Files | Status |
 |--------|-------|--------|
 | [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | 15 files | Complete |
+| [[atomic-stride/CLAUDE\|atomic-stride/]] | 15 files | Complete |
+| [[atomic-mantle/CLAUDE\|atomic-mantle/]] | 12 files | Complete |
 
 > **Note:** Original single-file versions are retained temporarily during transition.
 
@@ -113,7 +115,9 @@ Some ability topics use an **atomic folder architecture** instead of single file
 | [[atomic-breath-evolution]] | Breath adaptation | Has terms |
 | [[atomic-railgun-development]] | Railgun technique | Has terms |
 | [[atomic-stride-development]] | First-person narrative (Godric's POV)* | Has terms |
-| [[atomic-stride-mantle]] | Technical reference | Has terms |
+| [[atomic-stride-mantle]] | Technical reference (legacy file) | Has terms |
+| [[atomic-stride/CLAUDE\|atomic-stride/]] | Mobility technique (atomic folder) | Has terms |
+| [[atomic-mantle/CLAUDE\|atomic-mantle/]] | Protection technique (atomic folder) | Has terms |
 | [[burning-form]] | Ultimate state | Has terms |
 | [[elektromagneton-nature]] | EM nature — hidden half of gojira power | Has terms |
 | [[fighting-style-evolution]] | Combat philosophy | Has terms |
@@ -161,8 +165,8 @@ This framework connects combat development to character development. When writin
 | Technique | Trophy Title | Represents |
 |-----------|--------------|------------|
 | [[atomic-railgun-development|Atomic Railgun]] | Trophy of Intellect | [[Madison Russell|Madison's]] influence — human analytical thinking, scientific approach |
-| [[atomic-stride-development|Atomic Stride]] | Trophy of Humility | [[Kong|Kong's]] martial philosophy — learning from others, adapting fighting styles |
-| [[atomic-stride-mantle|Atomic Mantle]] | Trophy of Love | [[Maria Lepidiel|Maria]]/[[Mothra Profile|Mothra]] — protection and care for others, defensive priorities |
+| [[atomic-stride/CLAUDE|Atomic Stride]] | Trophy of Humility | [[Kong|Kong's]] martial philosophy — learning from others, adapting fighting styles |
+| [[atomic-mantle/CLAUDE|Atomic Mantle]] | Trophy of Love | [[Maria Lepidiel|Maria]]/[[Mothra Profile|Mothra]] — protection and care for others, defensive priorities |
 
 **Application:** When documenting technique development or writing scenes involving these abilities, consider the underlying relationship and growth they represent. The techniques are not just combat tools but **character markers** that show who shaped Godric and how.
 

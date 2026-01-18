@@ -74,7 +74,7 @@ It must be utilized with another ability, which is the Atomic Resonance.
 
 By vibrating his physical body, he trades a portion of his Stride's maximum range for the ability to bypass physical barriers.
 
-**See:** [[Atomic Stride & Atomic Mantle|Atomic Stride & Atomic Mantle]]
+**See:** [[atomic-stride/CLAUDE|Atomic Stride]] (atomic folder)
 
 ## Atomic Mantle
 
@@ -82,7 +82,7 @@ By projecting outward a portion of his internal Neutralization property afforded
 
 The Mantle's primary purpose is to act as a silencer and brake for the Atomic Stride, neutralizing its destructive shockwaves and radiation byproducts. Its secondary purpose is to reallocate a portion of the Mantle to an ally or object, granting an external layer of protection to the target at the expense of the user's own protection.
 
-**See:** [[Atomic Stride & Atomic Mantle|Atomic Stride & Atomic Mantle]]
+**See:** [[atomic-mantle/CLAUDE|Atomic Mantle]] (atomic folder)
 
 ## Atomic Resonance
 
@@ -104,7 +104,8 @@ When used together with an Atomic Stride, it can enable the user to phase throug
 * [[Atomic Amplification]] — Full development history
 * [[atomic_breath_evolution]] — Atomic Breath evolution
 * [[atomic_railgun_development]] — Atomic Railgun development
-* [[Atomic Stride & Atomic Mantle]] — Stride and Mantle mechanics
+* [[atomic-stride/CLAUDE|Atomic Stride]] — Mobility technique (atomic folder)
+* [[atomic-mantle/CLAUDE|Atomic Mantle]] — Protection technique (atomic folder)
 * [[burning-form]] — Burning Form abilities
 
 ### Combat Integration

@@ -66,7 +66,7 @@ All aerial mobility options require **Atomic Amplification** and proper energy a
 
 ## See Also
 
-- [[atomic-stride-mantle|Atomic Stride & Atomic Mantle]] — Core Stride mechanics
+- [[atomic-stride/CLAUDE|Atomic Stride]] — Core Stride mechanics (atomic folder)
 - [[air-foothold|Air Foothold]] — Most stable aerial option
 - [[atomic-propulsion|Atomic Propulsion]] — Pattern-breaking option
 - [[combination-attacks|Combination Attacks]] — Stride in combo sequences
