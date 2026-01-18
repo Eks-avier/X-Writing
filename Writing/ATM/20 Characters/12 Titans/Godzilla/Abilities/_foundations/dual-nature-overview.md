@@ -43,11 +43,15 @@ This document provides an overview of how these two natures manifest in Godric s
 
 For universal mechanics that apply to ALL *Titanus gojira*:
 
+> [!note] Temporary Location
+> Species files are temporarily in `_species-reference/` until Species Profile overhaul.
+> See [[_species-reference/CLAUDE]] for migration tracking.
+
 | Document | Location | Content |
 |----------|----------|---------|
-| [[Holariston Dual-Nature]] | 30 Lore/33 Species | Hub explaining dual-force classification |
-| [[Pyrenikon]] | Same | Nuclear force—"The Wild," culturally celebrated |
-| [[Elektromagneton]] | Same | EM force—"The Order," culturally ignored |
+| [[Holariston Dual-Nature]] | `_species-reference/` (temporary) | Hub explaining dual-force classification |
+| [[Pyrenikon]] | `_species-reference/` (temporary) | Nuclear force—"The Wild," culturally celebrated |
+| [[Elektromagneton]] | `_species-reference/` (temporary) | EM force—"The Order," culturally ignored |
 
 **Key principle:** Everything in those documents applies to Godric. This document focuses on what makes his relationship with his dual nature *unique*.
 

@@ -6,9 +6,13 @@ This folder documents Godric Nordson's personal relationship with his **Holarist
 
 ## Architecture Relationship
 
+> [!note] Temporary Location
+> Species files are temporarily in `_species-reference/` until Species Profile overhaul.
+> See [[_species-reference/CLAUDE]] for migration tracking.
+
 ```
-30 Lore/33 Species/Titanus Gojira/1_Biology/
-├── Holariston Dual-Nature.md    ← Species-level: what ALL gojira ARE
+_species-reference/              ← TEMPORARY: Species-level truths
+├── Holariston Dual-Nature.md    ← What ALL gojira ARE
 ├── Pyrenikon.md                 ← Universal nuclear capabilities
 └── Elektromagneton.md           ← Universal EM capabilities
                     │
@@ -113,9 +117,9 @@ elektromagneton-awakening/
 
 | Document | Location | Purpose |
 |----------|----------|---------|
-| [[Holariston Dual-Nature]] | 30 Lore/33 Species/Titanus Gojira/1_Biology/ | Species-level hub |
-| [[Pyrenikon]] | Same location | Species-level nuclear force |
-| [[Elektromagneton]] | Same location | Species-level EM force |
+| [[Holariston Dual-Nature]] | `_species-reference/` (temporary) | Species-level hub |
+| [[Pyrenikon]] | `_species-reference/` (temporary) | Species-level nuclear force |
+| [[Elektromagneton]] | `_species-reference/` (temporary) | Species-level EM force |
 | [[atomic-amplification/CLAUDE]] | Abilities/ | Root technique documentation |
 | [[elektromagneton-nature]] | Abilities/ | Original combined document (being migrated) |
 

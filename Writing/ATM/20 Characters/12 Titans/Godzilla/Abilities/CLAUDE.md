@@ -101,7 +101,10 @@ _foundations/
 
 ### Species-Level Documentation
 
-The following files in `30 Lore/33 Species/Titanus Gojira/1_Biology/` document universal gojira traits:
+> [!note] Temporary Location
+> These files are temporarily housed in `_species-reference/` (adjacent to this folder)
+> until the Species Profile (`30 Lore/33 Species/Titanus Gojira/`) is overhauled.
+> See [[_species-reference/CLAUDE]] for migration tracking.
 
 | Document | Content |
 |----------|---------|

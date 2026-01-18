@@ -53,6 +53,10 @@ The *Titanus gojira* emerged from Earth's primordial oceans as living dynamos—
 
 ### Holariston Dual-Nature
 
+%% PENDING: Holariston embed will work again after Species Profile overhaul.
+   Files temporarily at: 20 Characters/12 Titans/Godzilla/_species-reference/
+   See _species-reference/CLAUDE.md for migration instructions. %%
+
 ![[Holariston Dual-Nature#Summary]]
 
 ## Society & Behavior
