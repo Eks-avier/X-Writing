@@ -57,12 +57,15 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 | Atomic Amplification definition | BAA-Kratos-P210 |
 | Arsenal overview | AA-Kratos-P200, P280, P307 |
 | Stride variants | BAA-Kratos-P211-214 |
-| Electromagnetic foundation | AA-Kratos-P304, P318 |
+| Electromagnetic foundation | AA-Kratos-P302, P304, P316-P320 |
+| Elektromagneton nature | AA-Kratos-P302, P316-P320 |
+| Mother Prime EMP strategy | AA-Kratos-P319 |
 
 ### Lore Integration
 - **30 Lore/31 Power Systems/Krátos/** - Canonical Kratos documentation (see [[Krátos, the Power of Will]])
 - [[Appendix_D_Glossary|30 Lore/Krátos/Appendix_D_Glossary]] - Definitive term reference
 - [[Domination of Energy]] - Species-level biological trait (distinct from Battra's theory)
+- [[elektromagneton-nature]] - Godric's personal awakening to his EM nature (Abilities perspective)
 
 ## File Inventory
 
@@ -76,6 +79,7 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 | [[atomic-stride-development]] | First-person narrative (Godric's POV)* | Has terms |
 | [[atomic-stride-mantle]] | Technical reference | Has terms |
 | [[burning-form]] | Ultimate state | Has terms |
+| [[elektromagneton-nature]] | EM nature — hidden half of gojira power | Has terms |
 | [[fighting-style-evolution]] | Combat philosophy | Has terms |
 | [[godric-energy-limitations]] | Limitations analysis | Has terms |
 | [[godric-supernatural-interactions]] | Psychic/Magic interactions | Has terms |
@@ -125,6 +129,8 @@ This framework connects combat development to character development. When writin
 | [[atomic-stride-mantle|Atomic Mantle]] | Trophy of Love | [[Maria Lepidiel|Maria]]/[[Mothra Profile|Mothra]] — protection and care for others, defensive priorities |
 
 **Application:** When documenting technique development or writing scenes involving these abilities, consider the underlying relationship and growth they represent. The techniques are not just combat tools but **character markers** that show who shaped Godric and how.
+
+**Related:** The [[elektromagneton-nature|Elektromagneton Nature]] file documents the foundational biological trait that enables many of these techniques. Notably, **Barb's revelation** (teaching Godric about his EM nature) was essential to unlocking the Atomic Railgun—making the MUTO turncoat an unlikely architect of his ultimate evolution.
 
 ## Updates
 
