@@ -31,7 +31,7 @@ last_modified: 2026-01-19
 
 ## Summary
 
-Every member of *Titanus gojira* is classified as a **Holariston Polykrator**—a being who wields absolute dominion over not one, but *two* fundamental forces of the universe. This dual nature represents the species' most profound and misunderstood evolutionary achievement, emerging from the crucible of the [[The Fallen Star|Fallen Star]] bombardment during the Late Permian period.
+Every member of *Titanus gojira* is classified as a **Holariston Polykrator**—a being whose Krátos manifests as not one, but *two* fundamental forces of the universe. This dual nature represents the species' most profound and misunderstood evolutionary achievement, emerging from the crucible of the [[The Fallen Star|Fallen Star]] bombardment during the Late Permian period.
 
 This document serves as a hub explaining the Holariston classification and linking to detailed documentation on each force:
 
@@ -47,10 +47,10 @@ This document serves as a hub explaining the Holariston classification and linki
 ### Definition
 
 In [[Krátos, the Power of Will|Kratonic]] terminology:
-- **Holariston** (ὁλαρίστον): A being with *complete mastery* over a fundamental force
-- **Polykrator** (πολυκράτωρ): A wielder of *multiple* forces
+- **Holariston** (ὁλαρίστον): A being whose Krátos fully embodies a fundamental force
+- **Polykrator** (πολυκράτωρ): A being whose Krátos expresses multiple forces
 
-A **Holariston Polykrator** therefore possesses absolute dominion over more than one fundamental force—a classification so rare that *Titanus gojira* represents the only confirmed example in Earth's biosphere.
+A **Holariston Polykrator** therefore has Krátos that manifests as more than one fundamental force—a classification so rare that *Titanus gojira* represents the only confirmed example in Earth's biosphere.
 
 ### Species-Level Universality
 
@@ -74,7 +74,7 @@ When the [[The Fallen Star|Fallen Star]] fell during the Late Permian period, th
 | **Fatal Radiation** | Intense atomic energy requiring immediate metabolic adaptation |
 | **Extreme Electromagnetic Field** | Chaotic EM emissions destabilizing biological systems |
 
-Those that survived became something unprecedented: beings with absolute dominion over both the Nuclear Force (governing atomic reactions) and the Electromagnetic Force (governing fields, waves, and electrical phenomena).
+Those that survived became something unprecedented: beings whose biology became an expression of both the Nuclear Force (governing atomic reactions) and the Electromagnetic Force (governing fields, waves, and electrical phenomena) simultaneously.
 
 ### The Mechanism: Limitless Adaptation
 
@@ -153,9 +153,9 @@ The gojira are **Sculptors** both biologically and culturally—their power syst
 
 ## The Indivisible Manifestation
 
-A crucial principle: a Holariston's Manifestation is **whole** and cannot be divided. When a gojira's power expresses itself, both aspects emerge whether the user intends it or not:
+A crucial principle: a Holariston's Manifestation is **whole** and cannot be divided. When a gojira's power expresses itself, both aspects emerge whether consciously directed or not:
 
-> *"Ghidorah doesn't stop being a Baryton if he configures his Aura to be just electromagnetic. Thus, even if Godzilla doesn't understand the depth of his Elektromagneton nature, that side of him will still express itself through his Aura."*
+> *"Ghidorah doesn't stop being a Baryton if he configures his Aura to be just electromagnetic. Thus, even if Godzilla doesn't understand the depth of his Elektromagneton nature, that aspect of his Will will still manifest through his Aura."*
 > — AA-Kratos P316
 
 This means:

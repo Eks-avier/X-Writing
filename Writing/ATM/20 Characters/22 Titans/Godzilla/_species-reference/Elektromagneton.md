@@ -28,7 +28,7 @@ last_modified: 2026-01-19
 
 ## Summary
 
-The **Elektromagneton** (ἠλεκτρομαγνητόν, "of the electromagnetic") represents the electromagnetic half of *Titanus gojira* power—their absolute dominion over the Electromagnetic Force. Unlike the [[Pyrenikon]], this aspect of gojira biology remained unconscious and culturally ignored for 250 million years. Every gojira *possessed* it; none *understood* it.
+The **Elektromagneton** (ἠλεκτρομαγνητόν, "of the electromagnetic") represents the electromagnetic half of *Titanus gojira* power—their absolute dominion over the Electromagnetic Force. Unlike the [[Pyrenikon]], this aspect of gojira biology remained unconscious and culturally ignored for 250 million years. Every gojira **was** it; none *understood* it.
 
 The Elektromagneton is the species' **hidden power**—the invisible architecture that makes all their nuclear abilities possible, operating silently beneath conscious awareness like the scaffolding beneath a sculpture.
 
@@ -38,7 +38,7 @@ The Elektromagneton is the species' **hidden power**—the invisible architectur
 
 ### The Cultural Blind Spot
 
-For 250 million years, the *Titanus gojira* treated their Elektromagneton nature as nothing more than "secondary, passive ability." Why bother with invisible forces when you breathe literal star-fire?
+For 250 million years, the *Titanus gojira* treated their Elektromagneton nature as nothing more than "secondary, passive ability." Why bother with invisible forces when you embody literal star-fire?
 
 > *"It's a muscle imbalance. Humans are born with muscles, of course. But when we neglect to train a specific set of them, they weaken, atrophy, or develop bad habits."*
 > — AA-Kratos P317
@@ -111,7 +111,7 @@ These abilities operated in ALL *Titanus gojira* without conscious engagement—
 
 ### The Lightning Rod: Electrical Immunity
 
-**Mechanism:** Gojira dorsal fins and scales act as superconductors. When struck by lightning or electrical attacks, their bodies don't resist the energy—they **absorb and ground it**.
+**Mechanism:** Gojira dorsal fins and scales act as superconductors. When struck by lightning or electrical attacks, their bodies don't resist the energy—they **absorb and ground it** as an expression of their EM manifestation.
 
 **Tactical Implication:** Most Titans who rely on bioelectricity or electrical attacks are entirely disadvantaged against even an average gojira.
 
@@ -172,7 +172,7 @@ No gojira understood this mechanism prior to the modern era. They simply did it 
 
 [[Mother Prime]], the greatest Matriarch of the *Titanus jinshin-mushi*, was genius enough to recognize what the gojira themselves had missed:
 
-> *"She found out **how** the gojira utilize their electromagnetic powers: it is how they shape and wield their atomic energy. That was all the information she needed."*
+> *"She found out that the gojira's electromagnetic manifestation enables their atomic projection: it is how they shape and direct their nuclear energy. That was all the information she needed."*
 > — AA-Kratos P319
 
 She understood the Elektromagneton wasn't just a defensive bonus—it was the very architecture of gojira power.

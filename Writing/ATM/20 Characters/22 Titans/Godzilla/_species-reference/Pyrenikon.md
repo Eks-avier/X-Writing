@@ -29,7 +29,7 @@ last_modified: 2026-01-19
 
 ## Summary
 
-The **Pyrenikon** (πυρηνικόν, "of the nucleus") represents the nuclear half of *Titanus gojira* power—their absolute dominion over the Strong and Weak Nuclear Forces. This is the aspect of gojira biology that has always been consciously acknowledged, culturally celebrated, and actively trained. It is the source of their legendary atomic breath, their devastating nuclear pulse, and their ability to metabolize radiation as sustenance.
+The **Pyrenikon** (πυρηνικόν, "of the nucleus") represents the nuclear half of *Titanus gojira* power—their Krátos expressing as the Strong and Weak Nuclear Forces. This is the aspect of gojira biology that has always been consciously acknowledged, culturally celebrated, and actively trained. It is the source of their legendary atomic breath, their devastating nuclear pulse, and their ability to metabolize radiation as sustenance.
 
 Unlike the [[Elektromagneton]], which remained hidden for 250 million years, the Pyrenikon has always been the species' conscious identity—their signature, their weapon, their pride.
 
@@ -48,7 +48,7 @@ The Pyrenikon dominated *Titanus gojira* cultural identity across all four facti
 | **Celebration** | Feats of atomic power honored |
 | **Combat** | Primary focus of martial development |
 
-When a gojira thought about "power," they thought about their nuclear nature. Their atomic breath was their roar made manifest. Their internal reactor was their heart. The Pyrenikon *was* what it meant to be gojira.
+When a gojira thought about "power," they thought about their nuclear manifestation. Their atomic breath was their roar made manifest. Their internal reactor was their heart. The Pyrenikon *was* what it meant to be gojira.
 
 ### "The Wild"
 
@@ -65,7 +65,7 @@ This character reflects gojira warrior psychology:
 - Nigh-limitless potential
 - The beast beneath the discipline
 
-> *"The Pyrenikon is 'The Wild'—the untamed star-fire that burns within every gojira. It is what makes them terrifying. The [[Elektromagneton]] is what makes them soldiers."*
+> *"The Pyrenikon is 'The Wild'—the untamed star-fire that **is** every gojira's nuclear essence. It is what makes them terrifying. The [[Elektromagneton]] is what makes them soldiers."*
 > — AA-Kratos P318
 
 ---
@@ -74,7 +74,7 @@ This character reflects gojira warrior psychology:
 
 ### The Internal Reactor
 
-Every *Titanus gojira* possesses what can be understood as a biological nuclear reactor:
+Every *Titanus gojira* **is** fundamentally a biological nuclear reactor:
 
 | Component | Function |
 |-----------|----------|
@@ -226,8 +226,10 @@ Despite their pride in Pyrenikon mastery, the gojira never understood its fundam
 > *"The Pyrenikon is only as useful as the [[Elektromagneton]] allows it to be. Without EM containment, atomic energy is just an explosion waiting to happen—inside the gojira's own body."*
 > — AA-Kratos P319
 
+Both forces are aspects of the same unified Will.
+
 The species' cultural focus on their nuclear nature while ignoring their electromagnetic nature created a critical blind spot:
-- They trained the "explosive" half without understanding the "containment" half
+- They consciously developed the "explosive" half without understanding the "containment" half
 - They developed weapons without understanding the delivery system
 - They celebrated the clay without acknowledging the chisel
 
