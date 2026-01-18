@@ -6,7 +6,7 @@ This folder documents Godric Nordson's (Godzilla's) combat abilities in human fo
 
 ## Terminology Framework
 
-### Kratos vs "Domination of Energy"
+### Kratos Vs “Domination of Energy”
 
 These are **distinct concepts** with an in-universe relationship:
 
@@ -15,42 +15,44 @@ These are **distinct concepts** with an in-universe relationship:
 | **Kratos** | Formal power system | The canonical framework for Titan abilities based on willpower |
 | **Domination of Energy** | In-universe theory | Battra's initial classification attempt before Kratos was formalized |
 
-**Important:** "Domination of Energy" is NOT deprecated. It represents Battra's working theory during his fight with Godzilla. The narrative sidepiece (70 Drafts) preserves this as valid in-universe scientific discovery. However, formal ability documentation should use **Kratos terminology**.
+**Important:** “Domination of Energy” is NOT deprecated. It represents Battra's working theory during his fight with Godzilla. The narrative sidepiece (70 Drafts) preserves this as valid in-universe scientific discovery. However, formal ability documentation should use **Kratos terminology**.
 
 ### Kratonic Terminology Reference
 
 All ability files should use the proper Greek terms when discussing Kratonic mechanics:
 
 **Personal Coating (Epichrisis):**
-- **Fortification (Stereosis)** - Reinforcing structural integrity
-  - Internal: Sovereign's Vessel (body enhancement)
-  - External: Sovereign's Touch / "Structural Infusion" (object reinforcement)
-- **Neutralization (Exoudeterosis)** - Dissolving incoming attacks
-- **Penetration (Diatresis)** - Bypassing defenses
+* **Fortification (Stereosis)** - Reinforcing structural integrity
+  * Internal: Sovereign's Vessel (body enhancement)
+  * External: Sovereign's Touch / “Structural Infusion” (object reinforcement)
+* **Neutralization (Exoudeterosis)** - Dissolving incoming attacks
+* **Penetration (Diatresis)** - Bypassing defenses
 
 **Territorial Aura:**
-- **Flaring (Anapsis)** - Intensifying environmental effects
-- **Submission (Proskynesis)** - Will domination
-- **Expansion (Ektasis)** - Enlarging Aura radius
-- **Suppression (Kryptis)** - Concealment
+* **Flaring (Anapsis)** - Intensifying environmental effects
+* **Submission (Proskynesis)** - Will domination
+* **Expansion (Ektasis)** - Enlarging Aura radius
+* **Suppression (Kryptis)** - Concealment
 
 **Hybrid:**
-- **Injection** (Sovereign's Writ) - Penetration + Neutralization combined
+* **Injection** (Sovereign's Writ) - Penetration + Neutralization combined
 
 ### Atomic Amplification Definition
 
 Per BAA-Kratos-P210, Atomic Amplification is:
-> "The simultaneous and sustained application of both Personal Coating techniques... a master-level feat requiring a Kraton to maintain two opposing intents across their entire body at once: Neutralization (The Royal Armor) and Penetration (The Sceptered Strike)."
+> “The simultaneous and sustained application of both Personal Coating techniques… a master-level feat requiring a Kraton to maintain two opposing intents across their entire body at once: Neutralization (The Royal Armor) and Penetration (The Sceptered Strike).”
 
 Also includes **Fortification (Stereosis)** for physical enhancement.
 
 ## Source References
 
 ### Primary Sources (80 Extracted)
-- **AA-Kratos**: P199-P344 (142 files) - Original Kratos development
-- **BAA-Kratos**: P199-P284 (86 files) - Branch conversation refinements
+
+* **AA-Kratos**: P199-P344 (142 files) - Original Kratos development
+* **BAA-Kratos**: P199-P284 (86 files) - Branch conversation refinements
 
 ### Key Source Files
+
 | Topic | Source |
 |-------|--------|
 | Structural Infusion = Fortification | AA-Kratos-P219 |
@@ -62,16 +64,18 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 | Mother Prime EMP strategy | AA-Kratos-P319 |
 
 ### Lore Integration
-- **30 Lore/31 Power Systems/Krátos/** - Canonical Kratos documentation (see [[Krátos, the Power of Will]])
-- [[Appendix_D_Glossary|30 Lore/Krátos/Appendix_D_Glossary]] - Definitive term reference
-- [[Domination of Energy]] - Species-level biological trait (distinct from Battra's theory)
-- [[elektromagneton-nature]] - Godric's personal awakening to his EM nature (Abilities perspective)
+
+* **30 Lore/31 Power Systems/Krátos/** - Canonical Kratos documentation (see [[Krátos, the Power of Will]])
+* [[Appendix_D_Glossary|30 Lore/Krátos/Appendix_D_Glossary]] - Definitive term reference
+* [[Domination of Energy]] - Species-level biological trait (distinct from Battra's theory)
+* [[elektromagneton-nature]] - Godric's personal awakening to his EM nature (Abilities perspective)
 
 ## File Inventory
 
 | File | Nature | Greek Terms |
 |------|--------|-------------|
 | [[abilities-overview]] | Hub document | Has terms |
+| [[aerial-combat-doctrine]] | Aerial mobility & anti-air philosophy | Has terms |
 | [[atomic-amplification]] | Main AA reference | Has terms |
 | [[atomic-amplification-energy-domination]] | Theoretical perspective | Has terms |
 | [[atomic-breath-evolution]] | Breath adaptation | Has terms |
@@ -87,15 +91,15 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 | [[primal-arsenal]] | Innate Gojira abilities & Phantom Tail | Has terms |
 | [[zone-state-breakthrough]] | Krator awakening / Zone state | Has terms |
 
-> **\*** [[atomic-stride-development]] is intentionally written in **Godric's first-person voice**. The "IN DEVELOPMENT" header is his **in-universe status label**, not a meta-documentation flag. This represents his personal notes on a technique he's actively refining.
+> **\*** [[atomic-stride-development]] is intentionally written in **Godric's first-person voice**. The “IN DEVELOPMENT” header is his **in-universe status label**, not a meta-documentation flag. This represents his personal notes on a technique he's actively refining.
 
 ## Consistency Guidelines
 
 1. **Use Greek terms** when discussing Kratonic mechanics (Stereosis, Epichrisis, etc.)
 2. **Distinguish** between:
-   - Biological traits (Limitless Adaptation, species-level energy control)
-   - Kratonic techniques (Atomic Amplification, Fortification, etc.)
-3. **"Structural Infusion"** = colloquial name for External Fortification
+   * Biological traits (Limitless Adaptation, species-level energy control)
+   * Kratonic techniques (Atomic Amplification, Fortification, etc.)
+3. **“Structural Infusion”** = colloquial name for External Fortification
 4. **First-person files** (like [[atomic-stride-development]]) can use informal terminology as Godric's voice
 5. Reference **source files** when adding new content
 
@@ -104,21 +108,21 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 Certain files in this folder are **profiles that double as vignettes** — narrative documents written in Godric's first-person voice rather than objective documentation.
 
 **Current vignette-style files:**
-- [[atomic-stride-development]] — Godric's personal notes on refining a technique
+* [[atomic-stride-development]] — Godric's personal notes on refining a technique
 
 **Key characteristics:**
-- Written in **first-person perspective** (Godric's voice)
-- "Open to ideas" placeholders are **intentionally authentic** — his actual working notes, not incomplete documentation
-- These capture his **thought process at a specific moment** in his martial development
-- The "IN DEVELOPMENT" header is his **in-universe status label**, not a meta-documentation flag
+* Written in **first-person perspective** (Godric's voice)
+* “Open to ideas” placeholders are **intentionally authentic** — his actual working notes, not incomplete documentation
+* These capture his **thought process at a specific moment** in his martial development
+* The “IN DEVELOPMENT” header is his **in-universe status label**, not a meta-documentation flag
 
-**Important:** These files should NOT be "fixed" or "completed" with corpus solutions. The ambiguity and open questions are part of the narrative authenticity — they represent techniques Godric is actively figuring out.
+**Important:** These files should NOT be “fixed” or “completed” with corpus solutions. The ambiguity and open questions are part of the narrative authenticity — they represent techniques Godric is actively figuring out.
 
 ## Trophy Narrative Framework
 
 Per AA-Kratos P200 and P280, Godric's combat techniques carry **narrative significance beyond their tactical utility**:
 
-> "Each ability is not a random power-up, but a **trophy**, a hard-won memento of a pivotal relationship and a crucial stage in his personal growth."
+> “Each ability is not a random power-up, but a **trophy**, a hard-won memento of a pivotal relationship and a crucial stage in his personal growth.”
 
 This framework connects combat development to character development. When writing about or expanding technique files, reference these trophy assignments:
 

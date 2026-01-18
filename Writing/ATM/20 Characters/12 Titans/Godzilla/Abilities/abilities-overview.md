@@ -95,16 +95,20 @@ When used together with an Atomic Stride, it can enable the user to phase throug
 ## Related Files
 
 ### Foundational Concepts
-- [[elektromagneton-nature|Elektromagneton Nature]] — The hidden half of gojira power; the EM foundation enabling all external abilities
-- [[primal-arsenal|Primal Arsenal]] — Innate gojira abilities (Atomic Breath, Nuclear Pulse, instinctual weapons)
+
+* [[elektromagneton-nature|Elektromagneton Nature]] — The hidden half of gojira power; the EM foundation enabling all external abilities
+* [[primal-arsenal|Primal Arsenal]] — Innate gojira abilities (Atomic Breath, Nuclear Pulse, instinctual weapons)
 
 ### Ability Development
-- [[Atomic Amplification]] — Full development history
-- [[atomic_breath_evolution]] — Atomic Breath evolution
-- [[atomic_railgun_development]] — Atomic Railgun development
-- [[Atomic Stride & Atomic Mantle]] — Stride and Mantle mechanics
-- [[burning-form]] — Burning Form abilities
+
+* [[Atomic Amplification]] — Full development history
+* [[atomic_breath_evolution]] — Atomic Breath evolution
+* [[atomic_railgun_development]] — Atomic Railgun development
+* [[Atomic Stride & Atomic Mantle]] — Stride and Mantle mechanics
+* [[burning-form]] — Burning Form abilities
 
 ### Combat Integration
-- [[kratos-mastery]] — Krátos system integration
-- [[fighting-style-evolution]] — Combat style development
+
+* [[kratos-mastery]] — Krátos system integration
+* [[fighting-style-evolution]] — Combat style development
+* [[aerial-combat-doctrine]] — Aerial mobility and anti-air philosophy
