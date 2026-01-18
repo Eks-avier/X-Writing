@@ -70,6 +70,47 @@ Also includes **Fortification (Stereosis)** for physical enhancement.
 * [[Domination of Energy]] - Species-level biological trait (distinct from Battra's theory)
 * [[elektromagneton-nature]] - Godric's personal awakening to his EM nature (Abilities perspective)
 
+## Foundational Layer
+
+The `_foundations/` folder documents Godric's **ontological bedrock**—his Holariston Polykrator nature as dual wielder of Pyrenikon (nuclear) and Elektromagneton (electromagnetic) forces.
+
+### Architecture
+
+```
+_foundations/
+├── CLAUDE.md                    # Hub explaining the foundations layer
+├── dual-nature-overview.md      # Summary + links to species docs
+├── pyrenikon-mastery/           # Godric's PERSONAL nuclear journey
+│   ├── 01-inheritance/          # Mother's heart, father's body
+│   ├── 02-applications/         # Breath, Pulse, Burning Form
+│   └── 03-thematic/             # "The Wild Contained"
+└── elektromagneton-awakening/   # Godric's PERSONAL EM awakening
+    ├── 01-dormancy/             # 250 million years of unconscious use
+    ├── 02-awakening/            # Barb, Battra, Symphonia
+    ├── 03-applications/         # Railgun, Mantle, Aura integration
+    └── 04-thematic/             # "The Order Mastered"
+```
+
+### Key Distinction: Species vs. Character
+
+| Layer | Location | Contains |
+|-------|----------|----------|
+| **Species Profile** | 30 Lore/33 Species/Titanus Gojira/ | What ALL gojira are |
+| **Foundations** | Abilities/_foundations/ | Godric's *personal relationship* with his nature |
+| **Techniques** | Abilities/ (other folders) | Specific abilities built on that foundation |
+
+### Species-Level Documentation
+
+The following files in `30 Lore/33 Species/Titanus Gojira/1_Biology/` document universal gojira traits:
+
+| Document | Content |
+|----------|---------|
+| [[Holariston Dual-Nature]] | Hub explaining dual-force classification |
+| [[Pyrenikon]] | Nuclear force—"The Wild," culturally celebrated |
+| [[Elektromagneton]] | EM force—"The Order," culturally ignored |
+
+---
+
 ## Atomic Topic Folders
 
 Some ability topics use an **atomic folder architecture** instead of single files. This enables:
@@ -95,12 +136,13 @@ Some ability topics use an **atomic folder architecture** instead of single file
 
 | Folder | Files | Status |
 |--------|-------|--------|
+| [[_foundations/CLAUDE\|_foundations/]] | 17 files | Complete |
 | [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | 15 files | Complete |
 | [[atomic-amplification/CLAUDE\|atomic-amplification/]] | 24 files | Complete |
 | [[atomic-stride/CLAUDE\|atomic-stride/]] | 15 files | Complete |
 | [[atomic-mantle/CLAUDE\|atomic-mantle/]] | 12 files | Complete |
 
-> **Note:** Original single-file versions are retained temporarily during transition.
+> **Note:** Original single-file versions are retained temporarily during transition. The `elektromagneton-nature.md` file is being superseded by the `_foundations/elektromagneton-awakening/` folder structure.
 
 ---
 
@@ -121,7 +163,8 @@ Some ability topics use an **atomic folder architecture** instead of single file
 | [[atomic-stride/CLAUDE\|atomic-stride/]] | Mobility technique (atomic folder) | Has terms |
 | [[atomic-mantle/CLAUDE\|atomic-mantle/]] | Protection technique (atomic folder) | Has terms |
 | [[burning-form]] | Ultimate state | Has terms |
-| [[elektromagneton-nature]] | EM nature — hidden half of gojira power | Has terms |
+| [[_foundations/CLAUDE\|_foundations/]] | **Foundational layer** — dual-nature documentation | Has terms |
+| [[elektromagneton-nature]] | EM nature (legacy file — see `_foundations/elektromagneton-awakening/`) | Has terms |
 | [[fighting-style-evolution]] | Combat philosophy | Has terms |
 | [[godric-energy-limitations]] | Limitations analysis | Has terms |
 | [[godric-supernatural-interactions]] | Psychic/Magic interactions | Has terms |

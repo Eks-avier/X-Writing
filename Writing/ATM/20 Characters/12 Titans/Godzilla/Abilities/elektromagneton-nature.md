@@ -29,7 +29,22 @@ tags:
 
 # The Elektromagneton Nature: The Hidden Half of Gojira Power
 
-> *“Godzilla is not just a nuclear reactor; he is a **living dynamo.** While his culture and conscious mind focused on the heat and destruction of the Pyrenikon, his body quietly mastered the invisible web of the Elektromagneton.”*
+> [!warning] Architecture Migration
+> This file has been **superseded** by the Pyrenikon/Elektromagneton decoupling architecture:
+>
+> **Species-level content** moved to:
+> - [[Holariston Dual-Nature]] — Hub explaining dual-force classification
+> - [[Pyrenikon]] — Nuclear force ("The Wild")
+> - [[Elektromagneton]] — EM force ("The Order")
+>
+> **Godric-specific content** moved to:
+> - [[_foundations/CLAUDE|_foundations/]] — Hub for foundational layer
+> - [[_foundations/elektromagneton-awakening/CLAUDE|elektromagneton-awakening/]] — His awakening arc
+> - [[_foundations/pyrenikon-mastery/CLAUDE|pyrenikon-mastery/]] — His nuclear mastery
+>
+> This file is retained for reference during transition. New content should be added to the appropriate location in the new architecture.
+
+> *"Godzilla is not just a nuclear reactor; he is a **living dynamo.** While his culture and conscious mind focused on the heat and destruction of the Pyrenikon, his body quietly mastered the invisible web of the Elektromagneton."*
 > — AA-Kratos P316
 
 This document explains why Godric Nordson—and all *Titanus gojira*—are classified as **Holariston Polykratons**: beings who wield absolute dominion over *two* fundamental forces. While the atomic fire of the [[primal-arsenal#The Atomic Breath (Othisi): The Ancient Roar|Pyrenikon]] has always been their signature, the **Elektromagneton** has been their invisible second power, unacknowledged for 250 million years until Godric's awakening.

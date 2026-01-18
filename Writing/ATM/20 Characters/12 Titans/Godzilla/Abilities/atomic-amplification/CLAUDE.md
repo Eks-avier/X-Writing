@@ -47,7 +47,32 @@ atomic-amplification/
         └── elektromagneton-hints.md  # Foreshadowing for later awakening
 ```
 
-## Foundation Ability
+## Foundational Relationship
+
+Atomic Amplification sits at the intersection of Godric's dual nature and his combat techniques:
+
+```
+_foundations/                      ← Ontological bedrock
+├── pyrenikon-mastery/             ← Nuclear nature (The Wild)
+└── elektromagneton-awakening/     ← EM nature (The Order)
+              │
+              │ dual-force foundation
+              ▼
+atomic-amplification/              ← THIS FOLDER (root technique)
+              │
+              │ technique derivation
+              ▼
+atomic-stride/ | atomic-mantle/ | atomic-railgun
+```
+
+**Key insight:** AA is the **conscious synthesis** of both Pyrenikon and Elektromagneton under Kratonic will. It requires:
+- Pyrenikon providing the energy
+- Elektromagneton providing the framework/containment
+- Symphonia (dual-nature harmony) for efficiency
+
+> *See [[_foundations/CLAUDE|Foundations Layer]] for the underlying dual-force documentation.*
+
+## Derived Techniques
 
 Atomic Amplification is the **root technique** from which all other human-form abilities derive:
 
@@ -61,9 +86,10 @@ Atomic Amplification is the **root technique** from which all other human-form a
 
 | Document | Purpose |
 |----------|---------|
+| [[_foundations/CLAUDE\|Foundations Layer]] | Dual-nature (Pyrenikon + Elektromagneton) documentation |
 | [[kratos-mastery\|Krátos Mastery]] | Formal Kratonic mechanics and tier system |
 | [[atomic-amplification-energy-domination\|Energy Domination Theory]] | Battra's theoretical perspective |
-| [[elektromagneton-nature\|Elektromagneton Nature]] | The hidden half awakened later |
+| [[elektromagneton-nature\|Elektromagneton Nature]] | Legacy file (see `_foundations/elektromagneton-awakening/`) |
 | [[abilities-overview\|Abilities Overview]] | Hub document for all abilities |
 
 ## Reading Paths
