@@ -29,9 +29,9 @@ last_modified: 2026-01-19
 
 ## Summary
 
-The **Pyrenikon** (πυρηνικόν, "of the nucleus") represents the nuclear half of *Titanus gojira* power—their Krátos expressing as the Strong and Weak Nuclear Forces. This is the aspect of gojira biology that has always been consciously acknowledged, culturally celebrated, and actively trained. It is the source of their legendary atomic breath, their devastating nuclear pulse, and their ability to metabolize radiation as sustenance.
+**Pyrenikon** (πυρηνικόν, "of the nucleus") represents the nuclear half of *Titanus gojira* power—their Krátos expressing as the Strong and Weak Nuclear Forces. This is the aspect of gojira biology that has always been consciously acknowledged, culturally celebrated, and actively trained. It is the source of their legendary atomic breath, their devastating nuclear pulse, and their ability to metabolize radiation as sustenance.
 
-Unlike the [[Elektromagneton]], which remained hidden for 250 million years, the Pyrenikon has always been the species' conscious identity—their signature, their weapon, their pride.
+Unlike [[Elektromagneton]], which remained hidden for 250 million years, Pyrenikon has always been the species' conscious identity—their signature, their weapon, their pride.
 
 ---
 
@@ -39,7 +39,7 @@ Unlike the [[Elektromagneton]], which remained hidden for 250 million years, the
 
 ### Cultural Prominence
 
-The Pyrenikon dominated *Titanus gojira* cultural identity across all four factions:
+Their Pyrenikon nature dominated *Titanus gojira* cultural identity across all four factions:
 
 | Aspect | Pyrenikon Status |
 |--------|------------------|
@@ -52,7 +52,7 @@ When a gojira thought about "power," they thought about their nuclear manifestat
 
 ### "The Wild"
 
-In the [[Holariston Dual-Nature#The Sculptor Metaphor|Sculptor Metaphor]], the Pyrenikon represents **"The Clay"**—the raw material that is fundamentally:
+In the [[Holariston Dual-Nature#The Sculptor Metaphor|Sculptor Metaphor]], Pyrenikon represents **"The Clay"**—the raw material that is fundamentally:
 
 - **Chaotic**: Atomic energy wants to expand, explode, release
 - **Explosive**: The nuclear force is inherently destructive when unleashed
@@ -87,7 +87,7 @@ This reactor system evolved from the [[Evolutionary Origins#The Late Permian Bom
 
 ### Energy Hierarchy
 
-The Pyrenikon processes energy according to a preference hierarchy:
+Their Pyrenikon nature processes energy according to a preference hierarchy:
 
 1. **Nuclear/Atomic Energy** — Most easily controlled and integrated (primary default)
 2. **Solar Radiation** — Abundant but less concentrated

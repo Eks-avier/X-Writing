@@ -28,9 +28,9 @@ last_modified: 2026-01-19
 
 ## Summary
 
-The **Elektromagneton** (ἠλεκτρομαγνητόν, "of the electromagnetic") represents the electromagnetic half of *Titanus gojira* power—their absolute dominion over the Electromagnetic Force. Unlike the [[Pyrenikon]], this aspect of gojira biology remained unconscious and culturally ignored for 250 million years. Every gojira **was** it; none *understood* it.
+**Elektromagneton** (ἠλεκτρομαγνητόν, "of the electromagnetic") represents the electromagnetic half of *Titanus gojira* power—the aspect of their Krátos that manifests as the Electromagnetic Force. Unlike [[Pyrenikon]], this aspect of gojira biology remained unconscious and culturally ignored for 250 million years. Every gojira **was** it; none *understood* it.
 
-The Elektromagneton is the species' **hidden power**—the invisible architecture that makes all their nuclear abilities possible, operating silently beneath conscious awareness like the scaffolding beneath a sculpture.
+Elektromagneton is the species' **hidden power**—the invisible architecture that makes all their nuclear abilities possible, operating silently beneath conscious awareness like the scaffolding beneath a sculpture.
 
 ---
 
@@ -69,7 +69,7 @@ Without understanding their Elektromagneton nature, no gojira could ever achieve
 
 ## "The Order"
 
-In the [[Holariston Dual-Nature#The Sculptor Metaphor|Sculptor Metaphor]], the Elektromagneton represents **"The Chisel"**—the tool that shapes raw material. It is fundamentally:
+In the [[Holariston Dual-Nature#The Sculptor Metaphor|Sculptor Metaphor]], Elektromagneton represents **"The Chisel"**—the tool that shapes raw material. It is fundamentally:
 
 - **Structured**: EM fields follow mathematical precision
 - **Precise**: Can be directed with surgical accuracy
@@ -134,13 +134,13 @@ Because gojira can absorb electrical energy, they can actually *magnetize* thems
 
 ## The Carrier Wave Principle
 
-The most critical species-level function of the Elektromagneton: **enabling [[Pyrenikon]] projection**.
+The most critical species-level function of their Elektromagneton nature: **enabling [[Pyrenikon]] projection**.
 
 ### How Gojira Project Energy
 
 The mystery: How does a gojira project atomic force without detonating themselves?
 
-The answer: The Elektromagneton creates invisible containment fields that "carry" the nuclear energy.
+The answer: Their Elektromagneton nature creates invisible containment fields that "carry" the nuclear energy.
 
 | Component | Force | Role |
 |-----------|-------|------|
@@ -175,7 +175,7 @@ No gojira understood this mechanism prior to the modern era. They simply did it 
 > *"She discovered that the gojira's electromagnetic manifestation enables their atomic projection: it is how they shape and direct their atomic energy. That was all the information she needed."*
 > — AA-Kratos P319
 
-She understood the Elektromagneton wasn't just a defensive bonus—it was the very architecture of gojira power.
+She understood their Elektromagneton nature wasn't just a defensive bonus—it was the very architecture of gojira power.
 
 ### The EMP Weapon
 
@@ -219,7 +219,7 @@ The gojira were like master drivers who never learned what an engine was. They c
 
 ## The Potential: Active Applications
 
-While no gojira in history consciously developed these capabilities, the Elektromagneton theoretically enables:
+While no gojira in history consciously developed these capabilities, their Elektromagneton nature theoretically enables:
 
 | Application | Mechanism |
 |-------------|-----------|

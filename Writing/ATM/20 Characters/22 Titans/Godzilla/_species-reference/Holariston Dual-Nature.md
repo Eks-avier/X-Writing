@@ -88,7 +88,7 @@ Their base [[Limitless Adaptation]] enabled them not just to survive but to *thr
 
 ### Pyrenikon: The Nuclear Half
 
-The **[[Pyrenikon]]** represents the species' nuclear nature—their ability to absorb, metabolize, and project atomic energy. This half of gojira power has always been consciously acknowledged, culturally celebrated, and actively trained.
+**[[Pyrenikon]]** represents the species' nuclear nature—their ability to absorb, metabolize, and project atomic energy. This half of gojira power has always been consciously acknowledged, culturally celebrated, and actively trained.
 
 **Key characteristics:**
 - Governs atomic breath, nuclear pulse, and energy absorption
@@ -98,7 +98,7 @@ The **[[Pyrenikon]]** represents the species' nuclear nature—their ability to 
 
 ### Elektromagneton: The Hidden Half
 
-The **[[Elektromagneton]]** represents the species' electromagnetic nature—their ability to generate, sense, and manipulate EM fields and phenomena. For 250 million years, this half remained unconscious and culturally ignored.
+**[[Elektromagneton]]** represents the species' electromagnetic nature—their ability to generate, sense, and manipulate EM fields and phenomena. For 250 million years, this half remained unconscious and culturally ignored.
 
 **Key characteristics:**
 - Governs navigation, electrical defense, and energy shaping
@@ -122,8 +122,8 @@ The relationship between these two forces follows what Kratonic theory calls the
 
 When a gojira projects energy externally—whether as a concentrated beam, an omnidirectional pulse, or a defensive coating—both forces are invoked simultaneously:
 
-- The **Pyrenikon** provides the destructive payload
-- The **Elektromagneton** provides the delivery system and containment
+- Their **Pyrenikon** aspect provides the destructive payload
+- Their **Elektromagneton** aspect provides the delivery system and containment
 
 This explains how gojira can:
 - Project atomic breath without detonating their own mouths
