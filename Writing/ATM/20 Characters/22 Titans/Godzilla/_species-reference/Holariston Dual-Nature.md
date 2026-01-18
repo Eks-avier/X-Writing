@@ -50,7 +50,7 @@ In [[Krátos, the Power of Will|Kratonic]] terminology:
 - **Holariston** (ὁλαρίστον): A being whose Krátos fully embodies a fundamental force
 - **Polykrator** (πολυκράτωρ): A being whose Krátos expresses multiple forces
 
-A **Holariston Polykrator** therefore has Krátos that manifests as more than one fundamental force—a classification so rare that *Titanus gojira* represents the only confirmed example in Earth's biosphere.
+A **Holariston Polykrator** is therefore a being whose Krátos manifests as more than one fundamental force—a classification so rare that *Titanus gojira* represents the only confirmed example in Earth's biosphere.
 
 ### Species-Level Universality
 

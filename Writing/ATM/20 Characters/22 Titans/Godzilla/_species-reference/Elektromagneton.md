@@ -172,7 +172,7 @@ No gojira understood this mechanism prior to the modern era. They simply did it 
 
 [[Mother Prime]], the greatest Matriarch of the *Titanus jinshin-mushi*, was genius enough to recognize what the gojira themselves had missed:
 
-> *"She found out that the gojira's electromagnetic manifestation enables their atomic projection: it is how they shape and direct their nuclear energy. That was all the information she needed."*
+> *"She discovered that the gojira's electromagnetic manifestation enables their atomic projection: it is how they shape and direct their atomic energy. That was all the information she needed."*
 > — AA-Kratos P319
 
 She understood the Elektromagneton wasn't just a defensive bonus—it was the very architecture of gojira power.

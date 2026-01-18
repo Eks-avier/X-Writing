@@ -228,7 +228,7 @@ Despite their pride in Pyrenikon mastery, the gojira never understood its fundam
 
 Both forces are aspects of the same unified Will.
 
-The species' cultural focus on their nuclear nature while ignoring their electromagnetic nature created a critical blind spot:
+The species' cultural focus on their nuclear manifestation while ignoring their electromagnetic manifestation created a critical blind spot:
 - They consciously developed the "explosive" half without understanding the "containment" half
 - They developed weapons without understanding the delivery system
 - They celebrated the clay without acknowledging the chisel
