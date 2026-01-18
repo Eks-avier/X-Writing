@@ -71,7 +71,7 @@ atomic-mantle/
 
 | Term | Greek | Application |
 |------|-------|-------------|
-| **Personal Coating** | Epichrisis (ἐπίχρισις) | The foundational art underlying AA and the Mantle |
+| **Personal Coating** | Epichrisis (ἐπίχρισις) | The foundational art underlying [[atomic-amplification/CLAUDE\|AA]] and the Mantle |
 | **Neutralization** | Exoudeterosis (ἐξουδετέρωσις) | The defensive aspect; the core of the Atomic Mantle |
 | **Penetration** | Diatresis (διάτρησις) | The offensive aspect; remains internal during Mantle use |
 | **Fortification** | Stereosis (στερέωσις) | Structural reinforcement; used in External Allocation |

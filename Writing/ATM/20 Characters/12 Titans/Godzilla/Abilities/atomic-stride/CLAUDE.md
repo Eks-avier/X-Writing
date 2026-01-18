@@ -74,7 +74,7 @@ atomic-stride/
 
 | Term | Greek | Application |
 |------|-------|-------------|
-| **Atomic Amplification** | — | Required foundation for Stride |
+| **[[atomic-amplification/CLAUDE\|Atomic Amplification]]** | — | Required foundation for Stride |
 | **Fortification** | Stereosis (στερέωσις) | Internal leg enhancement for launch |
 | **Neutralization** | Exoudeterosis (ἐξουδετέρωσις) | Mantle's solution to shockwaves |
 | **Atomic Resonance** | Pàlmos (παλμός) | Vibration for Phasing Stride |

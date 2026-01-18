@@ -38,7 +38,7 @@ Mechanically, it is a uniform distribution of atomic energy throughout a *Titanu
 
 Krátonically, it is uniform distribution of the internal applications of the *Edicts of Coating* (**Penetration**, **Neutralization**, and **Fortification**) throughout the body.
 
-**See:** [[Atomic Amplification|Full Development History]]
+**See:** [[atomic-amplification/CLAUDE|Full Development History]] (atomic folder)
 
 ## Atomic Breath
 
@@ -101,7 +101,7 @@ When used together with an Atomic Stride, it can enable the user to phase throug
 
 ### Ability Development
 
-* [[Atomic Amplification]] — Full development history
+* [[atomic-amplification/CLAUDE|Atomic Amplification]] — Full development history (atomic folder)
 * [[atomic_breath_evolution]] — Atomic Breath evolution
 * [[atomic_railgun_development]] — Atomic Railgun development
 * [[atomic-stride/CLAUDE|Atomic Stride]] — Mobility technique (atomic folder)

@@ -96,6 +96,7 @@ Some ability topics use an **atomic folder architecture** instead of single file
 | Folder | Files | Status |
 |--------|-------|--------|
 | [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | 15 files | Complete |
+| [[atomic-amplification/CLAUDE\|atomic-amplification/]] | 24 files | Complete |
 | [[atomic-stride/CLAUDE\|atomic-stride/]] | 15 files | Complete |
 | [[atomic-mantle/CLAUDE\|atomic-mantle/]] | 12 files | Complete |
 
@@ -110,7 +111,8 @@ Some ability topics use an **atomic folder architecture** instead of single file
 | [[abilities-overview]] | Hub document | Has terms |
 | [[aerial-combat-doctrine]] | Aerial mobility (legacy file) | Has terms |
 | [[aerial-combat-doctrine/CLAUDE\|aerial-combat-doctrine/]] | Aerial mobility (atomic folder) | Has terms |
-| [[atomic-amplification]] | Main AA reference | Has terms |
+| [[atomic-amplification]] | Main AA reference (legacy file) | Has terms |
+| [[atomic-amplification/CLAUDE\|atomic-amplification/]] | Root technique (atomic folder) | Has terms |
 | [[atomic-amplification-energy-domination]] | Theoretical perspective | Has terms |
 | [[atomic-breath-evolution]] | Breath adaptation | Has terms |
 | [[atomic-railgun-development]] | Railgun technique | Has terms |
