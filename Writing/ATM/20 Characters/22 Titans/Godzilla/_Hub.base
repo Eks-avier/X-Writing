@@ -1,0 +1,146 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("Writing/ATM/20 Characters/22 Titans/Godzilla")
+        - file.inFolder("Writing/ATM/20 Characters/_Relationships")
+    - file.ext == "md"
+    - status != "archived"
+formulas:
+  era_display: if(era, list(era).join(", "), "—")
+  last_updated: file.mtime.relative()
+  source_link: if(source, link("80 Extracted/" + source), "—")
+properties:
+  category:
+    displayName: Category
+  topic:
+    displayName: Topic
+  era:
+    displayName: Era
+  status:
+    displayName: Status
+  source:
+    displayName: Source
+  relationship_type:
+    displayName: Type
+  formula.era_display:
+    displayName: Eras
+  formula.last_updated:
+    displayName: Updated
+  formula.source_link:
+    displayName: Source Link
+views:
+  - type: table
+    name: All Atoms
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - category
+      - topic
+      - formula.era_display
+      - status
+  - type: table
+    name: Current (Era VII)
+    filters:
+      and:
+        - list(era).contains("VII")
+    order:
+      - file.name
+      - category
+      - topic
+      - status
+  - type: table
+    name: Pre-Transformation (Era VI)
+    filters:
+      and:
+        - list(era).contains("VI")
+    order:
+      - file.name
+      - category
+      - topic
+      - status
+  - type: table
+    name: Historical (Era I-V)
+    filters:
+      or:
+        - list(era).contains("I")
+        - list(era).contains("II")
+        - list(era).contains("III")
+        - list(era).contains("IV")
+        - list(era).contains("V")
+    order:
+      - file.name
+      - category
+      - topic
+      - formula.era_display
+  - type: table
+    name: Relationships
+    filters:
+      and:
+        - file.inFolder("Writing/ATM/20 Characters/_Relationships")
+    order:
+      - file.name
+      - relationship_type
+      - formula.era_display
+      - status
+  - type: table
+    name: By Category
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - topic
+      - formula.era_display
+      - status
+  - type: table
+    name: Canonical Only
+    filters:
+      and:
+        - status == "canonical"
+    order:
+      - file.name
+      - category
+      - topic
+      - formula.era_display
+  - type: table
+    name: Needs Review
+    filters:
+      or:
+        - status == "draft"
+        - status == "wip"
+        - status == "deprecated"
+    order:
+      - file.name
+      - category
+      - status
+      - formula.last_updated
+  - type: table
+    name: By Source
+    groupBy:
+      property: source
+      direction: ASC
+    order:
+      - file.name
+      - source
+      - category
+      - topic
+    columnSize:
+      note.source: 670
+  - type: table
+    name: Archived
+    filters:
+      and:
+        - or:
+            - file.inFolder("Writing/ATM/20 Characters/22 Titans/Godzilla")
+            - file.inFolder("Writing/ATM/20 Characters/_Relationships")
+        - status == "archived"
+    order:
+      - file.name
+      - category
+      - topic
+      - formula.last_updated
+    sort:
+      - property: file.name
+        direction: ASC
